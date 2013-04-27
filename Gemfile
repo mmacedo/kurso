@@ -16,3 +16,12 @@ gem 'jbuilder'
 gem 'turbolinks'
 gem 'jquery-rails'
 gem 'less-rails-bootstrap'
+
+
+# debug
+
+gem 'pry-rails', group: :development
+gem 'rails-footnotes', group: :development
+gem 'better_errors', group: :development
+gem 'binding_of_caller', group: :development
+gem 'meta_request', group: :development
