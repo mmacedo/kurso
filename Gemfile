@@ -20,7 +20,7 @@ gem 'less-rails-bootstrap'
 
 # debug
 
-gem 'pry-rails', group: :development
+gem 'jazz_hands', group: :development
 gem 'rails-footnotes', group: :development
 gem 'better_errors', group: :development
 gem 'binding_of_caller', group: :development
