@@ -1,14 +1,16 @@
 !!!
-%html
+%html{lang: I18n.locale}
   %head
     %title= content_for?(:title) ? yield(:title) : "Kurso de Esperanto 4"
+
     %meta{charset: "utf-8"}
     %meta{name: "viewport",    content: "width=device-width, initial-scale=1.0"}
     %meta{name: "description", content: "Kurso de Esperanto de Carlos Pereira kaj adaptita por Web de Michel Pavan Macedo."}
     %meta{name: "author",      content: "Michel Pavan Macedo"}
-    = stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true
-    = javascript_include_tag "application", "data-turbolinks-track" => true
     = csrf_meta_tags
+
+    = stylesheet_link_tag "index", media: "all", "data-turbolinks-track" => true
+    = javascript_include_tag "index", "data-turbolinks-track" => true
   %body
     %header.navbar.navbar-fixed-top
       %nav.navbar-inner

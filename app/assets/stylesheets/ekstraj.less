@@ -1,0 +1,31 @@
+@import "variabloj";
+@import "miksajxoj";
+
+.bsdocs-skatolo {
+  /* Extracted from http://twitter.github.io/bootstrap/ */
+  & {
+    /* Base class */
+    position: relative;
+    margin: 15px 0;
+    padding: 39px 19px 14px;
+    *padding-top: 19px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    .border-radius(@baseBorderRadius);
+  }
+
+  &:after {
+    /* Echo out a label for the example */
+    content: attr(data-skatolo-titolo);
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    color: #9da0a4;
+    .border-radius(@baseBorderRadius 0 @baseBorderRadius 0);
+  }
+}

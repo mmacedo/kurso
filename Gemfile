@@ -1,10 +1,18 @@
 source 'https://rubygems.org'
 
 gem 'rails', '>= 4.0.0.rc1'
+
+
+### Malantaŭe
+
 # Retservilo
 gem 'puma'
+
 # Motoro de JS
 gem 'therubyracer', platform: :ruby
+
+# HTTP Enhavo Intertraktado
+gem 'http_accept_language', '>= 2.0.0.pre'
 
 
 ### Fasado
@@ -29,11 +37,11 @@ gem 'less-rails-bootstrap'
 ### Disvolviĝo
 
 # Elpurigo
-gem 'jazz_hands', group: :development
-gem 'rails-footnotes', group: :development
-gem 'better_errors', group: :development
+gem 'jazz_hands',        group: :development
+gem 'rails-footnotes',   group: :development
+gem 'better_errors',     group: :development
 gem 'binding_of_caller', group: :development
-gem 'meta_request', group: :development
+gem 'meta_request',      group: :development
 
 # Dokumentado
 gem 'sdoc', group: :doc, require: false

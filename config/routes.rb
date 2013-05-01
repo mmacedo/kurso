@@ -1,3 +1,9 @@
 Kurso::Application.routes.draw do
-  root to: 'hejmo#index'
+  lokaĵarojn_ŝablono = I18n.available_locales.map do |locale|
+    Regexp.quote(locale)
+  end.join("|")
+
+  scope "(:locale)", :locale => Regexp.new(lokaĵarojn_ŝablono) do
+    root to: 'hejmo#index'
+  end
 end
