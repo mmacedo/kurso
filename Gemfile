@@ -45,3 +45,12 @@ gem 'meta_request',      group: :development
 
 # Dokumentado
 gem 'sdoc', group: :doc, require: false
+
+
+group :rake do
+  # eltiro:i18n
+  gem 'inifile',       require: false
+  gem 'ya2yaml',       require: false
+  gem 'awesome_print', require: false
+  gem 'parallel',      require: false
+end

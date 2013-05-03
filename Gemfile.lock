@@ -72,6 +72,7 @@ GEM
     hirb (0.7.1)
     http_accept_language (2.0.0.pre)
     i18n (0.6.4)
+    inifile (2.0.2)
     jazz_hands (0.5.0)
       awesome_print (~> 1.1.0)
       coderay (~> 1.0.9)
@@ -109,8 +110,9 @@ GEM
       railties
     method_source (0.8.1)
     mime-types (1.23)
-    minitest (4.7.3)
+    minitest (4.7.4)
     multi_json (1.7.2)
+    parallel (0.6.4)
     polyglot (0.3.3)
     posix-spawn (0.3.6)
     pry (0.9.12.1)
@@ -190,23 +192,27 @@ GEM
     uglifier (2.0.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
+    ya2yaml (0.31)
     yard (0.8.6.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   better_errors
   binding_of_caller
   coffee-rails
   haml-rails
   http_accept_language (>= 2.0.0.pre)
+  inifile
   jazz_hands
   jbuilder
   jquery-rails
   less-rails
   less-rails-bootstrap
   meta_request
+  parallel
   puma
   rails (>= 4.0.0.rc1)
   rails-footnotes
@@ -214,3 +220,4 @@ DEPENDENCIES
   therubyracer
   turbolinks
   uglifier
+  ya2yaml
