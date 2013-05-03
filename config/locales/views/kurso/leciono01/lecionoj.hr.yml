@@ -1,0 +1,135 @@
+--- 
+hr: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "U Esperantu se riječi pišu točno onako kako se izgovaraju, a izgovaraju se upravo prema glasu svakog napisanog slova. Naglasak je uvijek na predzadnjem slogu. Pritisnite na pojedini gumb pa ćete čuti izgovor riječi. Svaku riječ glasno ponovite."
+            alfabeto-titolo: "Esperantska abeceda"
+          pagxo03: 
+            personaj-pronomoj: "Lične zamjenice"
+            pluralo: 
+              ili: "Oni, one, ona"
+              ni: Mi
+              pluralo: Množina
+              vi: Vi
+            singularo: 
+              gxi: "(neodređena zamjenica, kojom se označuje stvar ili pojava gdje spol ili rod nije posebno naznačen)"
+              li: "On"
+              mi: Ja
+              singularo: Jednina
+              sxi: Ona
+              vi: Ti
+            specialaj: 
+              oni: "Bezlična zamjenica (prevodi se sa \"ljudi\" ili \"se\") a koristi se kada se ne želi ili ne može odrediti vršitelj radnje ili onaj koji trpi radnju."
+              si: "\\\"Se\\\", \\\"sebe\\\" (Povratna zamjenica trećeg lica jednine i množine kada radnja prelazi na sam subjekt)"
+              specialaj: "Posebne zamjenice"
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: Pridjevi
+              adjektivoj-ekspliko: "Završavaju sa \"a\":"
+              bela: "Lijep, -a, -o"
+              sana: "Zdrav, -a, -o"
+              varma: "Topao, topla, toplo"
+            nomoj: 
+              amiko: Prijatelj
+              frato: Brat
+              kafo: Kava
+              nomoj: Imenice
+              nomoj-ekspliko: "Završavaju sa slovom \"o\":"
+            verboj: 
+              ne-singularo: 
+                ili-estas: "Oni su"
+                ni-estas: "Mi smo"
+                oni-estos: "Bit' će (neodređeno)"
+                vi-estis: "Ti si bio; Vi ste bili"
+              singularo: 
+                gxi-estos: "Ono će biti"
+                li-estis: "On je bio"
+                mi-estas: "Ja sam"
+                sxi-estas: "Ona je"
+              verboj: Glagoli
+              verboj-ekspliko: "Neodređeni oblik (infinitiv) ima nastavak -i: esti (biti); prošlo vrijeme (preterit) završava sa -is: mi estis (ja sam bio); sadašnje vrijeme (prezent) dobiva -as: mi estas (ja sam); buduće vrijeme (futur) završava sa -os: mi estos (ja ću biti). Ostala glagolska vremena ćemo učiti poslije.\n"
+          pagxo05: 
+            amiko: prijatelj
+            bela: "lijep, -a, -o"
+            biskvito: biskvit
+            blanka: "bijel, -a, -o"
+            bona: "dobar, dobra,  dobro"
+            filo: sin
+            floro: cvijet
+            frato: brat
+            granda: "velik, -a, -o"
+            instruisto: učitelj
+            kafo: kava
+            knabo: dječak
+            kuko: kolač
+            lakto: mlijeko
+            nova: "nov, -a, -o"
+            pano: kruh
+            patro: otac
+            sana: "zdrav, -a, -o"
+            seka: "suh, -a, -o"
+            sukero: šećer
+            teo: čaj
+            varma: "topli, -a, -o"
+            viro: muškarac
+          pagxo06: 
+            pluralo: 
+              amikoj: prijatelji
+              belaj: "lijepi, -e, -a"
+              belaj-floroj: "lijepi cvjetovi"
+              bonaj-amikoj: "dobri prijatelji"
+              floroj: cvjetovi
+              patroj: očevi
+              sanaj: zdravi
+              sanaj-patroj: "zdravi očevi"
+            pluralo-ekzpliko: "Množina se pravi dodavanjem slova \"j\" na kraju imenica i pridjeva:"
+            pluralo-titolo: Množina
+            singularo: 
+              amiko: prijatelj
+              bela: "lijep, -a, -o"
+              bela-floro: "lijepi cvijet"
+              bona-amiko: "dobar prijatelj"
+              floro: cvijet
+              patro: otac
+              sana: "zdrav, -a, -o"
+              sana-patro: "zdrav otac"
+          pagxo07: 
+            posedaj: 
+              ilia: "njihov, -a, -o"
+              lia: "njegov, -a, -o"
+              mia: "moj, -a, -e"
+              nia: "naš, -a, -e"
+              via: "tvoj, -a, -e"
+              ĝia: "njegov (za stvari, pojave i t. d.)"
+              ŝia: "njezin, -a, -o"
+            posedaj-pronomoj: "Posvojne zamjenice"
+            posedaj-pronomoj-ekzpliko: "Posvojne zamjenice se tvore dodavanjem pridjevskog završetka (\"a\") ličnim zamjenicama."
+            rimarkigo: 
+              mia-amiko: "Moj prijatelj"
+              miaj-amikoj: "Moji prijatelji"
+              nia-floro: "Naš cvijet"
+              niaj-floroj: "Naši cvjetovi"
+              posedaj-pronomoj-rimarkigo: "I posvojne zamjenice dobivaju  završetak \"j\" u množini:"
+          pagxo08: 
+            artikolo: 
+              artikolo: Član
+              artikolo-ekzpliko: "Neodređeni član u Esperantu ne postoji. Član \\\"la\\\" stavlja se ispred određenih imenica svih rodova, padeža i brojeva. Ako se želi naznačiti neodređeni smisao riječi, onda se član izostavi."
+              floroj: "(neko) Cvijeće"
+              knabo: "(neki) Dječak"
+              la-floroj: "(ovo) Cvijeće"
+              la-knabo: "(ovaj) Dječak"
+              la-pano: "(ovaj) Kruh"
+              la-patroj: "(ovi) Očevi"
+              pano: "(neki) Kruh"
+              patroj: "(nekoji) Očevi"
+            frazoj: 
+              frazo01: "Vaši sinovi su naši prijatelji."
+              frazo02: "(taj) Kruh je suh."
+              frazo03: "Toplo mlijeko je dobro."
+              frazo04: "Cvijet je lijep."
+              frazo05: "Dječaci su veliki."
+              frazo06: "Otac je dobar."
+              frazoj: Rečenice

@@ -1,0 +1,20 @@
+--- 
+cs: 
+  views: 
+    kurso: 
+      leciono01: 
+        ekzercoj: 
+          pagxo02: 
+            auxdkompreno01: "Nácvik odposlechu I"
+            auxdkompreno01-instrukcio: "V následujícím cvičení uslyšíte slovo a musíte kliknout na buton s odpovídajícím slovem. Pokud odpovíte správně, buton zmizí z obrazovky, v opačném případě uslyšíte slovo znovu v jiné části cvičení. Vaším úkolem je dosáhnozt alespoň 70 % úspěšnosti."
+          pagxo12: 
+            frazo01: "1. Ten čaj je teplý."
+            frazo02: "2. Učitel je otcem."
+            frazo03: "3. Tvůj / váš otec je dobrý."
+            frazo04: "Ti noví učitelé budou dobří."
+            frazo05: "5. Můj bratr bude učitelem."
+            frazo06: "6. Vaši synové jsou přátelé."
+            frazo07: "7. Ty koláče byly dobré."
+            frazo08: "8. Ten chléb je suchý."
+            frazo09: "9. Ten nový chlapec je můj přítel."
+            frazo10: "10. Ti chlapci jsou velcí přátelé."

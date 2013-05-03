@@ -1,0 +1,135 @@
+--- 
+en: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "In Esperanto words are written exactly the way they are pronounced, and they are pronounced exactly as they are written. The stressed syllable is always the one before the last.  Click the buttons to hear the pronunciation, and repeat it aloud."
+            alfabeto-titolo: "The Esperanto Alphabet"
+          pagxo03: 
+            personaj-pronomoj: "Personal Pronouns"
+            pluralo: 
+              ili: they
+              ni: we
+              pluralo: Plural
+              vi: "you  (plural)"
+            singularo: 
+              gxi: it
+              li: he
+              mi: I
+              singularo: Singular
+              sxi: she
+              vi: "you  (singular)"
+            specialaj: 
+              oni: "One, they, people (Indefinite personal pronoun, meaning \\\"people, some people, somebody unknown\\\", used when you don't want to or cannot say who was involved."
+              si: "(self)  Third person reflexive pronoun (both singular and plural). Refers back to the SUBJECT of the sentence. \"Si\" cannot be the subject or a part of the subject."
+              specialaj: Special
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: Adjectives
+              adjektivoj-ekspliko: "Every adjective ends with the letter \"a\":"
+              bela: beautiful
+              sana: healthy
+              varma: "warm, hot"
+            nomoj: 
+              amiko: friend
+              frato: brother
+              kafo: coffee
+              nomoj: Nouns
+              nomoj-ekspliko: "Every noun ends with the letter \"o\":"
+            verboj: 
+              ne-singularo: 
+                ili-estas: "They are"
+                ni-estas: "We are"
+                oni-estos: "They, someone will be (indefinite)"
+                vi-estis: "You were"
+              singularo: 
+                gxi-estos: "It will be"
+                li-estis: "He was"
+                mi-estas: "I am"
+                sxi-estas: "She is"
+              verboj: Verbs
+              verboj-ekspliko: "Every infinitive ends in -i: esti (to be).  Every past tense verb ends in -is: mi estis = I was.  Every present tense verb ends in -as: mi estas = I am.  Every future tense verb ends in -os: mi estos = I will be.  Other verb tenses will be introduced in later lessons."
+          pagxo05: 
+            amiko: friend
+            bela: beautiful
+            biskvito: "biscuit, cracker"
+            blanka: white
+            bona: good
+            filo: son
+            floro: flower
+            frato: brother
+            granda: "big, great"
+            instruisto: teacher
+            kafo: coffee
+            knabo: boy
+            kuko: cake
+            lakto: milk
+            nova: new
+            pano: bread
+            patro: father
+            sana: healthy
+            seka: dry
+            sukero: sugar
+            teo: tea
+            varma: "warm, hot"
+            viro: man
+          pagxo06: 
+            pluralo: 
+              amikoj: friends
+              belaj: beautiful
+              belaj-floroj: "beautiful flowers"
+              bonaj-amikoj: "good friends"
+              floroj: flowers
+              patroj: fathers
+              sanaj: healthy
+              sanaj-patroj: "healthy fathers"
+            pluralo-ekzpliko: "The plural is formed by adding the letter \"j\" to the end of nouns and adjectives:"
+            pluralo-titolo: Plural
+            singularo: 
+              amiko: friend
+              bela: beautiful
+              bela-floro: "beautiful flower"
+              bona-amiko: "good friend"
+              floro: flower
+              patro: father
+              sana: healthy
+              sana-patro: "healthy father"
+          pagxo07: 
+            posedaj: 
+              ilia: "their, theirs"
+              lia: his
+              mia: "my, mine"
+              nia: "our, ours"
+              via: "your, yours"
+              ĝia: its
+              ŝia: "her, hers"
+            posedaj-pronomoj: "Possessive Pronouns"
+            posedaj-pronomoj-ekzpliko: "Possessive adjectives and pronouns are formed by adding the adjective ending \"a\" to the personal pronouns:"
+            rimarkigo: 
+              mia-amiko: "my friend"
+              miaj-amikoj: "my friends"
+              nia-floro: "our flower"
+              niaj-floroj: "our flowers"
+              posedaj-pronomoj-rimarkigo: "Possessive adjectives also receive the ending \"j\" when they modify a plural noun."
+          pagxo08: 
+            artikolo: 
+              artikolo: Article
+              artikolo-ekzpliko: "The indefinite article doesn't exist in Esperanto.  There is only the definite article \\\"la\\\", equivalent to English \\\"the\\\"."
+              floroj: flowers
+              knabo: "a boy"
+              la-floroj: "the flowers"
+              la-knabo: "the boy"
+              la-pano: "the bread"
+              la-patroj: "the fathers"
+              pano: bread
+              patroj: fathers
+            frazoj: 
+              frazo01: "Your sons are our friends."
+              frazo02: "The bread is dry."
+              frazo03: "Warm milk is good."
+              frazo04: "A flower is beautiful."
+              frazo05: "The boys are big."
+              frazo06: "The father is good."
+              frazoj: Sentences

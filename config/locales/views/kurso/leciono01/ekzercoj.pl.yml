@@ -1,0 +1,20 @@
+--- 
+pl: 
+  views: 
+    kurso: 
+      leciono01: 
+        ekzercoj: 
+          pagxo02: 
+            auxdkompreno01: "Ćwiczenie rozumienia ze słuchu I"
+            auxdkompreno01-instrukcio: "W następnym ćwiczeniu usłyszysz słowo i musisz  nacisnąć przycisk odpowiedni dla niego. Jeśli trafisz,  zniknie ono , jeśli nie, usłyszysz to słowo w innym  momencie ćwiczenia. Musisz trafić  przynajmiej w 70%."
+          pagxo12: 
+            frazo01: "1.Herbata jest ciepła."
+            frazo02: "2. Nauczyciel jest ojcem."
+            frazo03: "3. Twój ojciec  był dobry."
+            frazo04: "4.Nowi nauczyciele będą dobrzy."
+            frazo05: "5.Mój brat będzie nauczycielem."
+            frazo06: "6.  Wasi synowie będą przyjaciółmi."
+            frazo07: "7. Ciastka były dobre."
+            frazo08: "8. Chleb jest suchy."
+            frazo09: "9. Nowy chłopiec był moim przyjacielem."
+            frazo10: "10. Chłopcy będą  dobrymi  przyjaciółmi."

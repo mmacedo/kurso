@@ -1,0 +1,135 @@
+--- 
+tr: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "Esperanto da kelimeler Türkçede olduğu gibi aynı harf her yerde aynı şekilde telaffuz edilir.Esperanto kelimelerinde vurgu sondan önceki hecedir.Bu hece diğerinden daha kuvvetli ve uzunca telaffuz edilir.Bu hece üzerinde durmak ve son heceyi biraz hafif söylemek gerekir."
+            alfabeto-titolo: "Esperanto Alfabesi"
+          pagxo03: 
+            personaj-pronomoj: "Şahıs Zamirleri"
+            pluralo: 
+              ili: "Onlar ( Çoğul )"
+              ni: Biz
+              pluralo: Çoğul
+              vi: "Siz ( Çoğul )"
+            singularo: 
+              gxi: "O ( Cansız varlıklar için )"
+              li: "O (erkek )"
+              mi: Ben
+              singularo: Tekil
+              sxi: "O ( Dişil )"
+              vi: "Sen ( Tekil )"
+            specialaj: 
+              oni: "Mechul Zamir - Esperantoda belirsiz bir zamirdir ki, bu sayısı, cinsi ve tarifi yapılamayan varlıklar için kullanılmaktadır. Veya kişisi belirsiz durumlarda da kullanılmaktadır."
+              si: "Refleks Zamiri - Sadece üçüncü şahısların tekil veya çoğul durumlarında kullanılır. \"Si mem\" özne olamaz. Cümledeki özneye dönüşüm yapar."
+              specialaj: "Özel durumlar"
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: Sıfatlar
+              adjektivoj-ekspliko: "\"a\" ile bitenler :"
+              bela: Güzel
+              sana: Sağlıklı
+              varma: Sıcak
+            nomoj: 
+              amiko: "Dost , Arkadaş"
+              frato: Kardeş
+              kafo: Kahve
+              nomoj: İsimler
+              nomoj-ekspliko: "\"o\" harfiyle bitenler :"
+            verboj: 
+              ne-singularo: 
+                ili-estas: Onlardır
+                ni-estas: Biziz
+                oni-estos: "Olacaklar - Cansız varlıklar için"
+                vi-estis: Sizdiniz
+              singularo: 
+                gxi-estos: "O olacaktır - Cansızlar için"
+                li-estis: "O idi ( Eril )"
+                mi-estas: Benim
+                sxi-estas: "Odur ( Dişil )"
+              verboj: Fiiller
+              verboj-ekspliko: "Kökler her zaman -i takısı ile biter.Örneğin \\\"esti\\\". Estas ( şimdiki zaman ) , -as ile biter. Estis ( geçmiş zaman ), -is ile biter. Estos ( gelecek zaman ), -os ile biter.Diğer fiillerin zamanlarını gelecek derslerde inceleyeceğiz."
+          pagxo05: 
+            amiko: Arkadaş
+            bela: Güzel
+            biskvito: Bisküvit
+            blanka: Beyaz
+            bona: İyi
+            filo: Oğul
+            floro: Çiçek
+            frato: Kardeş
+            granda: Büyük
+            instruisto: Öğretmen
+            kafo: Kahve
+            knabo: Oğlan
+            kuko: Börek
+            lakto: Süt
+            nova: Yeni
+            pano: Ekmek
+            patro: Baba
+            sana: Sağlıklı
+            seka: Kuru
+            sukero: Şeker
+            teo: Çay
+            varma: Sıcak
+            viro: Erkek
+          pagxo06: 
+            pluralo: 
+              amikoj: arkadaşlar
+              belaj: Güzeller
+              belaj-floroj: "Güzel çiçekler"
+              bonaj-amikoj: "İyi dostlar"
+              floroj: Çiçekler
+              patroj: Babalar
+              sanaj: Sağlıklılar
+              sanaj-patroj: "Sağlıklı babalar"
+            pluralo-ekzpliko: "Çoğul takısı isim ve sıfatların sonuna \"j\" harfi konularak yapılır."
+            pluralo-titolo: Çoğul
+            singularo: 
+              amiko: Arkadaş
+              bela: Güzel
+              bela-floro: "Güzel çiçek"
+              bona-amiko: "İyi Dost"
+              floro: Çiçek
+              patro: Baba
+              sana: Sağlıklı
+              sana-patro: "Sağlıklı baba"
+          pagxo07: 
+            posedaj: 
+              ilia: Onların
+              lia: Onun
+              mia: Benim
+              nia: Bizim
+              via: Senin
+              ĝia: "Onun ( cansız varlıklar )"
+              ŝia: "Onun ( dişil )"
+            posedaj-pronomoj: "İyelik Zamirleri"
+            posedaj-pronomoj-ekzpliko: "İyelik zamirleri şahıs zamirlerinin sonuna (\"a\") harfi getirilerek yapılır."
+            rimarkigo: 
+              mia-amiko: Arkadaşım
+              miaj-amikoj: Arkadaşlarım
+              nia-floro: "Bizim çiçeğimiz"
+              niaj-floroj: "Bizim çiçeklerimiz"
+              posedaj-pronomoj-rimarkigo: "Aynı zamanda iyelik zamirleride sonuna \"j\" harfini ekleyerek çoğul halini alırlar."
+          pagxo08: 
+            artikolo: 
+              artikolo: "Harfi Tarif"
+              artikolo-ekzpliko: "Esperantoda yalnız bir belirli harfi tarif vardır \"la\" takısı.Harfi tarif çoğul ve hal eki almaz.Türkçede yoktur."
+              floroj: Çiçekler
+              knabo: Çocuk
+              la-floroj: Çiçekler
+              la-knabo: Çocuk
+              la-pano: Ekmek
+              la-patroj: Babalar
+              pano: Ekmek
+              patroj: Babalar
+            frazoj: 
+              frazo01: "Çoçuklarınız bizim arkadaşlarımızdır."
+              frazo02: "Ekmek kurudur."
+              frazo03: "Sıcak süt iyidir."
+              frazo04: "Çiçek güzeldir."
+              frazo05: "Çocuklar büyüktürler."
+              frazo06: "Baba iyidir."
+              frazoj: Cümleler

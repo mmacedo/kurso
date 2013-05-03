@@ -1,0 +1,135 @@
+--- 
+ar: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "بالإسبرانتو تكتب الكلمات كما تنطق وتنطق كما تكتب بلا استثناء ، ودائما ما يكون المقطع السابق للأخير منبورا (منطوقا بشدة عما حوله). انقر الحروف والكلمات لتسمعها ثم رددها:"
+            alfabeto-titolo: "الألفباء الإسبرانتية"
+          pagxo03: 
+            personaj-pronomoj: الضمائر
+            pluralo: 
+              ili: "هما أو هم أو هن"
+              ni: نحن
+              pluralo: الجمع
+              vi: "أنتما أو أنتم أو أنتن"
+            singularo: 
+              gxi: "هو أو هي (شيء أو حيوان أو طفل لا جنس له أو لا حاجة لذكر جنسه)"
+              li: هو
+              mi: أنا
+              singularo: المفرد
+              sxi: هي
+              vi: "أنتَ أو أنتِ"
+            specialaj: 
+              oni: "الواحد منا أو أحد (تستعمل عند عموم الفاعل أو عند جهوله أو غموضه)."
+              si: "(نفسه)  ضمير عائد على الفاعل الغائب سواء أكان مفردا أم جمعا ، لا يكون فاعلا ولا جزءا من فاعل."
+              specialaj: أيضًا
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: الصفات
+              adjektivoj-ekspliko: "تنتهي كل الصفات بـ\\\"-a\\\""
+              bela: جميل
+              sana: معاف
+              varma: "دافئ أو سخن"
+            nomoj: 
+              amiko: صديق
+              frato: أخ
+              kafo: قهوة
+              nomoj: الأسماء
+              nomoj-ekspliko: "تنتهي كل الأسماء بـ\\\"-o\\\""
+            verboj: 
+              ne-singularo: 
+                ili-estas: "هم (يكونون)"
+                ni-estas: "نحن (نكون)"
+                oni-estos: "سيكون الواحد منا"
+                vi-estis: كنتَ
+              singularo: 
+                gxi-estos: "سيكون ذلك"
+                li-estis: كان
+                mi-estas: "أنا (أكون)"
+                sxi-estas: "هي (تكون)"
+              verboj: الأفعال
+              verboj-ekspliko: "تنتهي كل المصادر بـi كما في \\\"esti\\\"وكل المواضي بـis وكل الحواضر بـas وكل المستقبلات بـos. أما بقية الأزمنة فتذكر لاحقا."
+          pagxo05: 
+            amiko: صديق
+            bela: جميل
+            biskvito: "بسكويت أو بقسماط"
+            blanka: أبيض
+            bona: "حسن أو جيد"
+            filo: ابن
+            floro: وردة
+            frato: أخ
+            granda: "كبير أو فخم أو رائع"
+            instruisto: مدرس
+            kafo: قهوة
+            knabo: صبي
+            kuko: كعكة
+            lakto: حليب
+            nova: جديد
+            pano: خبز
+            patro: أب
+            sana: معافً
+            seka: جاف
+            sukero: سكر
+            teo: شاي
+            varma: "دافئ أو سخن"
+            viro: رجل
+          pagxo06: 
+            pluralo: 
+              amikoj: أصدقاء
+              belaj: جميلون
+              belaj-floroj: "ورود جميلة"
+              bonaj-amikoj: "أصدقاء جيدون"
+              floroj: ورود
+              patroj: آباء
+              sanaj: معافون
+              sanaj-patroj: "آباء معافون"
+            pluralo-ekzpliko: "تجمع الكلمات بإضافة \\\"-j\\\" إلى آخرها."
+            pluralo-titolo: الجمع
+            singularo: 
+              amiko: صديق
+              bela: جميل
+              bela-floro: "وردة جميلة"
+              bona-amiko: "صديق جيد"
+              floro: وردة
+              patro: أب
+              sana: معاف
+              sana-patro: "أب معاف"
+          pagxo07: 
+            posedaj: 
+              ilia: ـهم
+              lia: ـه
+              mia: ـي
+              nia: ـنا
+              via: ـك
+              ĝia: "ـه لغير العاقل"
+              ŝia: ـها
+            posedaj-pronomoj: "ضمائر الملكية"
+            posedaj-pronomoj-ekzpliko: "تضاف النهاية النسبية (التي تحول الأسماء إلى صفات) إلى الضمائر لتشكل ضمائر الملكية :"
+            rimarkigo: 
+              mia-amiko: صديقي
+              miaj-amikoj: أصدقائي
+              nia-floro: وردتنا
+              niaj-floroj: ورودنا
+              posedaj-pronomoj-rimarkigo: "تتبع الصفات أسماءها في الجمع والإفراد فتأخد \\\"j-\\\" عند تبعها لجمع."
+          pagxo08: 
+            artikolo: 
+              artikolo: "أداة المعرفة"
+              artikolo-ekzpliko: "أداة المعرفة الإسبرانتية هي \\\"la\\\" ، ولا يعرّف إلا اسم ، فلا تتبع الصفات أسماءها في التعريف ، وإنما هي أداة واحدة تضاف قبل الاسم وكل صفاته :"
+              floroj: ورود
+              knabo: صبي
+              la-floroj: الورود
+              la-knabo: الصبي
+              la-pano: الخبز
+              la-patroj: الآباء
+              pano: خبز
+              patroj: آباء
+            frazoj: 
+              frazo01: "أولادكم أصدقاؤنا."
+              frazo02: "الخبز جاف."
+              frazo03: "الحليب الدافئ جيد."
+              frazo04: "(هناك) وردة جميلة."
+              frazo05: "الأولاد كبيرون."
+              frazo06: "الأب جيد."
+              frazoj: جمل

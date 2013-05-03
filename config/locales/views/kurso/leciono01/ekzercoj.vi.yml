@@ -1,0 +1,20 @@
+--- 
+vi: 
+  views: 
+    kurso: 
+      leciono01: 
+        ekzercoj: 
+          pagxo02: 
+            auxdkompreno01: "Nghe hiểu, bài tập 1"
+            auxdkompreno01-instrukcio: "Bạn sẽ nghe một từ. Hãy nghe cẩn thận, sau đó bấm vào nút có từ mà bạn nghĩ là bạn đã nghe thấy. Nếu câu trả lời của bạn chính xác, nút bấm sẽ biến mất khỏi bảng điều khiển; nếu không, bạn sẽ nghe lại âm đó trong suốt phần bài tập. Bạn phải đạt được độ chính xác ít nhất 70%."
+          pagxo12: 
+            frazo01: "1. Nước chè thì ấm."
+            frazo02: "2. Giáo viên là một người cha."
+            frazo03: "3. Bố bạn (thì) tốt."
+            frazo04: "4. Các giáo viên mới sẽ tốt."
+            frazo05: "5. Anh trai tôi sẽ trở thành giáo viên."
+            frazo06: "6. Những đứa con của bạn sẽ trở thành những người bạn của bạn."
+            frazo07: "7. Những chiếc bánh thì (đã) tốt."
+            frazo08: "8. Bánh mì (thì) khô."
+            frazo09: "9. Cậu bé mới (đã) là bạn của tôi."
+            frazo10: "10. Những cậu bé trai sẽ trở thành những người bạn vĩ đại."

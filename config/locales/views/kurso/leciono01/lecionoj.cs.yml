@@ -1,0 +1,135 @@
+--- 
+cs: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "V esperantu jsou slova psána přesně podle výslovnosti a vyslovována přesně podle písmen. Nejsilněji vyslovenou slabikou (přízvučnou) je vždy ta předposlední (po kliknutí na příslušný buton uslyšíte správnou výslovnost, kterou nahlas opakujte)"
+            alfabeto-titolo: "Abeceda esperanta"
+          pagxo03: 
+            personaj-pronomoj: "Osobní zájména"
+            pluralo: 
+              ili: "Oni/Ony/Ona (množné číslo společné pro všechny tři rody \\\"li, ŝi, ĝi\\\")"
+              ni: My
+              pluralo: "Množné číslo"
+              vi: "Vy (množné číslo)"
+            singularo: 
+              gxi: "Ono (týká se věcí a zvířat, jejichž pohlaví nepotřebujeme upřesnit)"
+              li: "On"
+              mi: Já
+              singularo: "Jednotné číslo"
+              sxi: Ona
+              vi: "Ty, Vy  (jednotné číslo, vždy se vyká)"
+            specialaj: 
+              oni: "(vyslov  \\\"ony\\\") - neurčité osobní zájméno, značící \\\"člověk, lidé\\\", nemáme-li na mysli konkrétní osobu (člověka by to nenapadlo, jeden  se ani nediví, lidé říkají, říká se, ono se proslýchá)"
+              si: "Si (= se, zvratné zájméno třetí osoby - li, ŝi, ĝi, ili, oni) - vztahuje se k podmětu, ne však v první a druhé osobě (pak říkáme doslova: myji mne, myješ tebe, myje se, myjeme nás, myjete vás, myjí se.)"
+              specialaj: Zvláštní
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: "Přídavná jména"
+              adjektivoj-ekspliko: "Končí písmenem \"a\":"
+              bela: Krásný
+              sana: Zdravý
+              varma: Teplý
+            nomoj: 
+              amiko: Přítel
+              frato: Bratr
+              kafo: Káva
+              nomoj: "Podstatná jména"
+              nomoj-ekspliko: "Končí písmenem \"o\":"
+            verboj: 
+              ne-singularo: 
+                ili-estas: "Oni jsou"
+                ni-estas: Jsme
+                oni-estos: "bude se, lidé budou"
+                vi-estis: "Byl jsi, byl jste, byli  jste"
+              singularo: 
+                gxi-estos: "Ono bude"
+                li-estis: "On byl"
+                mi-estas: Jsem
+                sxi-estas: "Ona je"
+              verboj: Slovesa
+              verboj-ekspliko: "Infinitiv končí na -i (esti = být), minulý čas na -is (estis), přítomný na -as (estas) a budoucí na -os (estos). Další tvary probereme v příštích lekcích."
+          pagxo05: 
+            amiko: přítel
+            bela: krásný
+            biskvito: suchar
+            blanka: bílý
+            bona: dobrý
+            filo: syn
+            floro: "květ, květina"
+            frato: bratr
+            granda: velký
+            instruisto: učitel
+            kafo: káva
+            knabo: chlapec
+            kuko: koláč
+            lakto: mléko
+            nova: nový
+            pano: chléb
+            patro: otec
+            sana: zdravý
+            seka: suchý
+            sukero: cukr
+            teo: čaj
+            varma: teplý
+            viro: muž
+          pagxo06: 
+            pluralo: 
+              amikoj: přátelé
+              belaj: krásní
+              belaj-floroj: "krásné květiny"
+              bonaj-amikoj: "dobří přátelé"
+              floroj: květiny
+              patroj: otcové
+              sanaj: zdraví
+              sanaj-patroj: "zdraví otcové"
+            pluralo-ekzpliko: "Množné číslo tvoříme přidáním písmene \"j\" k podstatným a přídavným jménům:"
+            pluralo-titolo: "Množné číslo"
+            singularo: 
+              amiko: přítel
+              bela: krásný
+              bela-floro: "krásná květina"
+              bona-amiko: "dobrý přítel"
+              floro: květina
+              patro: otec
+              sana: zdravý
+              sana-patro: "zdravý otec"
+          pagxo07: 
+            posedaj: 
+              ilia: jejich
+              lia: jeho
+              mia: můj
+              nia: náš
+              via: "tvůj, váš"
+              ĝia: jeho
+              ŝia: její
+            posedaj-pronomoj: "Přivlastňovací zájména"
+            posedaj-pronomoj-ekzpliko: "Přivlastňovací zájména tvoříme přidáním koncovky přídavných jmen (-a) k osobním zájménům:"
+            rimarkigo: 
+              mia-amiko: "Můj přítel"
+              miaj-amikoj: "Moji přátelé"
+              nia-floro: "Naše květina"
+              niaj-floroj: "Naše květiny"
+              posedaj-pronomoj-rimarkigo: "Také přivlastňovací zájména přibírají v množném čísle koncovku -j:"
+          pagxo08: 
+            artikolo: 
+              artikolo: Člen
+              artikolo-ekzpliko: "Neurčitý člen v esperantu není; je pouze člen určitý \\\"la\\\", stejný pro všechny rody, pády a čísla."
+              floroj: Květiny
+              knabo: Chlapec
+              la-floroj: "(ty) květiny"
+              la-knabo: "(ten) chlapec (určitý)"
+              la-pano: "(ten) chléb"
+              la-patroj: "(ti) otcové"
+              pano: Chléb
+              patroj: Otcové
+            frazoj: 
+              frazo01: "Vaši synové jsou naši přátelé."
+              frazo02: "Ten chléb je suchý."
+              frazo03: "Teplé mléko je dobré (chutné)."
+              frazo04: "Květina je krásná."
+              frazo05: "Ti chlapci jsou velcí."
+              frazo06: "Otec je dobrý (hodný)."
+              frazoj: Věty

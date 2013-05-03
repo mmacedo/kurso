@@ -1,0 +1,20 @@
+--- 
+en: 
+  views: 
+    kurso: 
+      leciono01: 
+        ekzercoj: 
+          pagxo02: 
+            auxdkompreno01: "Auditive understanding, exercise 1"
+            auxdkompreno01-instrukcio: "You will hear a word.  Listen carefully, then click the button for the word you think you heard. If your answer is correct, the button will disappear from the panel; otherwise, you will hear the word again during the exercise. You must get at least 70% correct."
+          pagxo12: 
+            frazo01: "1. The tea is warm."
+            frazo02: "2. The teacher is a father."
+            frazo03: "3. Your father is good."
+            frazo04: "4. The new teachers will be good."
+            frazo05: "5. My brother will be a teacher."
+            frazo06: "6. Your sons will be friends."
+            frazo07: "7. The cakes were good."
+            frazo08: "8. The bread is dry."
+            frazo09: "9. The new boy was my friend."
+            frazo10: "10. The boys will be great friends."

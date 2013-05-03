@@ -1,0 +1,137 @@
+--- 
+ko: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "에스페란토 낱말은 소리나는대로 적고, 적힌대로 그대로 읽습니다. 낱말이 쓰인 그대로 읽는다는점을 유의하세요. 낱말의 강세는 언제나 <뒤에서 두 번째>음절에 있습니다.(발음을 들어보려면, 해당 낱말에 클릭하세요.)강세은 언제나 그 낱말의 <뒤에서 둘째 음절에> 있다. 낱말의 발음을 듣기위해서는 그 낱말 위에 클릭하면 소리가 난다. 그렇게 다른 낱말들도 시도해보시오."
+            alfabeto-titolo: "에스페란토의 자모(알파벳)"
+          pagxo03: 
+            personaj-pronomoj: 인칭대명사
+            pluralo: 
+              ili: "그들은 (삼인칭 단수 <li,ŝi,ĝi>의 복수)"
+              ni: 우리들은
+              pluralo: 복수
+              vi: "당신들 (복수)"
+            singularo: 
+              gxi: "ĝi (남성인지 여성인지 구분할 필요가 없을 때 쓰는 3인칭 대명사)"
+              li: 그는
+              mi: 나는
+              singularo: 단수
+              sxi: ŝi그녀는
+              vi: 당신(너)는(단수)
+            specialaj: 
+              oni: "Oni (불특정한 인칭을 나타냄. \\\"일반 사람들,많은사람들, 불확정된 사람을 나타냄). 해당사람이 정확하지 않을 경우에도 쓰입니다.누군가\\\"를 뜻함. 그 행동을 지배하게 하는 것을 정확히 나타낼 필요가 없을 때쓴다.)"
+              si: "Si (제3인칭 <- li, ŝi, ĝi, ili,oni>의 재귀대명사는 문장의 주어을 그 문장에서 다시 받을 때 씁니다)관련있을 때 쓴다)."
+              specialaj: "특별하다, 특별한(복수)"
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: 형용사
+              adjektivoj-ekspliko: "\"A\"로 끝난다"
+              bela: "아름답다, 아름다운"
+              sana: "건강하다, 건강한"
+              varma: "따뜻하다,따뜻한"
+            nomoj: 
+              amiko: 남자친구
+              frato: "형, 동생"
+              kafo: 커피
+              nomoj: 명사
+              nomoj-ekspliko: "\"O\"로 끝난다."
+            verboj: 
+              ne-singularo: 
+                ili-estas: "그들은 ...이다"
+                ni-estas: "우리는 ...이다."
+                oni-estos: "(일반)사람들은...일 것이다."
+                vi-estis: "당신은 ...였다."
+              singularo: 
+                gxi-estos: "그것은(ĝi) ...일 것이다"
+                li-estis: "그는 ...였다."
+                mi-estas: "나는 ...이다"
+                sxi-estas: "그녀는(ŝi)... 이다"
+              verboj: 동사
+              verboj-ekspliko: |-
+                  동사의 부정형어미는 < -i>로 끝난다.예) esti;과거는 <-is>로 ,예)estis. 미래는 os,  현재는 as로. 다른 시제에 대해선 다른학과에서 보게 됩니다.estis; 현재는 <-as>로,예)estas;
+                   미래는<-os>로 끝난다.예)estos.  다른동사시제는  앞으로 다른 과에서 다루게 된다.
+          pagxo05: 
+            amiko: 남자친구
+            bela: "아름답다,아름다운"
+            biskvito: 비스켓
+            blanka: "하얗다,하얀(단수)"
+            bona: 착한(좋은)
+            filo: 아들
+            floro: 꽃
+            frato: "형,동생"
+            granda: 큰(위대한)
+            instruisto: 교사
+            kafo: 커피
+            knabo: 소년
+            kuko: 과자
+            lakto: 우유
+            nova: "새롭다,새로운"
+            pano: 빵
+            patro: 아버지
+            sana: 건강한
+            seka: "마르다,마른(단수)"
+            sukero: 설탕
+            teo: 홍차
+            varma: 따뜻한(단수)
+            viro: 남자
+          pagxo06: 
+            pluralo: 
+              amikoj: (남자)친구들
+              belaj: "아름답다, 아름다운(복수형)"
+              belaj-floroj: "아름다운 꽃들"
+              bonaj-amikoj: "착한 남자친구들"
+              floroj: 꽃들
+              patroj: 아버지들
+              sanaj: "건강하다,건강한(복수형)"
+              sanaj-patroj: "건강한 아버지들"
+            pluralo-ekzpliko: "<문법>복수는 명사와 형용사에 복수어미<J>를  첨가해 만든다."
+            pluralo-titolo: 복수
+            singularo: 
+              amiko: 남자친구
+              bela: "아름답다,아름다운(단수)"
+              bela-floro: "아름다운 꽃"
+              bona-amiko: "착한 남자친구"
+              floro: 꽃
+              patro: 아버지
+              sana: "건강하다, 건강한"
+              sana-patro: "건강하신 아버지"
+          pagxo07: 
+            posedaj: 
+              ilia: 그들의
+              lia: 그의
+              mia: 나의
+              nia: 우리의
+              via: 당신(귀하)의
+              ĝia: 그녀의(ŝia)
+              ŝia: 그녀의(ŝi)
+            posedaj-pronomoj: 소유대명사들
+            posedaj-pronomoj-ekzpliko: "소유대명사는 인칭대명사에  소유격을 나타내는 어미<A>를 첨가하면 됩니다."
+            rimarkigo: 
+              mia-amiko: "나의 친구"
+              miaj-amikoj: "나의 친구들"
+              nia-floro: "우리의 꽃"
+              niaj-floroj: "우리의 꽃들"
+              posedaj-pronomoj-rimarkigo: "소유 대명사도 복수의 경우엔 <J>를 첨가합니다."
+          pagxo08: 
+            artikolo: 
+              artikolo: "관사<LA>\n"
+              artikolo-ekzpliko: "<문법설명> 에스페란토에는 부정관사는없다. 정관사 <LA>는만 있고, 성과 격이나 수에 있어서 불변이다."
+              floroj: 꽃들
+              knabo: 소년
+              la-floroj: "그  꽃들"
+              la-knabo: "그 소년"
+              la-pano: "그 빵"
+              la-patroj: "그 아버지들"
+              pano: 빵
+              patroj: 아버지들
+            frazoj: 
+              frazo01: "당신(귀하)의 아들들은 저희 친구들입니다."
+              frazo02: "그 빵은 말라 있습니다."
+              frazo03: "따뜻한 우유는 좋습니다."
+              frazo04: "꽃은 아름답습니다."
+              frazo05: "그 소년들은 (키가, 몸집이) 큽니다."
+              frazo06: "그 아버지는 착하십니다."
+              frazoj: 문장들

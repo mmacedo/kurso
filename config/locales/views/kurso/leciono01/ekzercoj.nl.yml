@@ -1,0 +1,23 @@
+--- 
+nl: 
+  views: 
+    kurso: 
+      leciono01: 
+        ekzercoj: 
+          pagxo02: 
+            auxdkompreno01: Luisteroefening
+            auxdkompreno01-instrukcio: |-
+                In de volgende oefening hoor je een woord. Klik op de knop die overeenkomt met het juiste woord. Als het goed is verdwijnt de knop van het scherm, zoniet dan hoor je het woord opnieuw op een ander moment tijdens de 
+                oefening. Je moet minimaal 70% goed hebben.  (Klik op het groene driehoekje links om te starten, het rode 
+                vierkantje is om de les stoppen.  De knop onderaan met de luidspreker herhaalt het woord nog eens).
+          pagxo12: 
+            frazo01: "1. De thee is warm."
+            frazo02: "2. Een leraar is een vader"
+            frazo03: "3. Jouw vader is goed."
+            frazo04: "4. De nieuwe leraren zullen goed zijn."
+            frazo05: "5. Mijn broer zal leraar zijn."
+            frazo06: "6. Jullie zonen zullen vrienden zijn."
+            frazo07: "7. De koeken waren goed."
+            frazo08: "8. Het brood is droog."
+            frazo09: "9. De nieuwe jongen was mijn vriend."
+            frazo10: "10. De jongens zullen goede vrienden zijn."

@@ -1,0 +1,135 @@
+--- 
+vi: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "Trong Quốc tế ngữ các từ được viết chính xác như cách chúng được phát âm, và chúng được phát âm chính xác như cách chúng được viết ra. Âm tiết được nhấn mạnh luôn là âm tiết trước âm tiết cuối cùng. Bấm chuột vào các nút bấm để nghe phát âm, và nhắc lại nó."
+            alfabeto-titolo: "Bảng chữ cái Quốc Tế Ngữ"
+          pagxo03: 
+            personaj-pronomoj: "Đại Từ Nhân Xưng"
+            pluralo: 
+              ili: "họ (số nhiều cho \\\"ŝi\\\", \\\"li\\\" và \\\"ĝi\\\")"
+              ni: "chúng tôi"
+              pluralo: "Dạng số nhiều"
+              vi: "các bạn"
+            singularo: 
+              gxi: nó
+              li: "anh ấy"
+              mi: Tôi
+              singularo: "Dạng số ít"
+              sxi: "cô ấy"
+              vi: "bạn (số ít)"
+            specialaj: 
+              oni: "Một ai đó, họ, người (đại từ chỉ người không rõ ràng, có nghĩa là \\\" người, một vài người, một người nào đó không rõ ràng\\\", sử dụng khi bạn không muốn hay không thể nói được ai được chỉ ra."
+              si: "(self) đại từ phả thân chỉ người (cả số ít và số nhiều). Qui trở lại cho CHỦ NGỮ của câu. \"Si\" không thể là chủ ngữ hay là một bộ phận của chủ ngữ."
+              specialaj: "Dạng đặc biệt"
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: "Tính từ"
+              adjektivoj-ekspliko: "Mọi tính từ đều kết thúc bằng chữ cái \"a\":"
+              bela: đẹp
+              sana: "khỏe mạnh"
+              varma: "ấm, nóng"
+            nomoj: 
+              amiko: "bạn bè"
+              frato: "anh, em trai"
+              kafo: "cà phê"
+              nomoj: "Danh từ"
+              nomoj-ekspliko: "Mọi danh từ đều kết thúc bằng chữ cái \"o\":"
+            verboj: 
+              ne-singularo: 
+                ili-estas: "Họ (thì)là"
+                ni-estas: "Chúng tôi (thì)là"
+                oni-estos: "Họ,người nào đó sẽ (thì)là (bất định)"
+                vi-estis: "Bạn (thì)là"
+              singularo: 
+                gxi-estos: "Nó sẽ (thì)là"
+                li-estis: "Anh ấy (đã) (thì)là"
+                mi-estas: "Tôi (thì)là"
+                sxi-estas: "Cô ấy (thì)là"
+              verboj: "Động từ"
+              verboj-ekspliko: "Mọi câu ở dạng vô định động từ đều kết thúc bằng -i: esti (thì, là). Mọi câu quá khứ động từ kết thúc bằng -is: mi estis=Tôi (đã) (thì)là. Mọi câu ở thời hiện tại động từ kết thúc bằng -as: mi estas=Tôi (thì)là. Mọi câu ở thì tương lai động từ kết thúc bằng -os: mi estos=Tôi sẽ (thì)là. Các thì khác của động từ sẽ giới thiệu trong các bài sau."
+          pagxo05: 
+            amiko: "bạn bè"
+            bela: đẹp
+            biskvito: "bánh bích qui, kẹo giòn"
+            blanka: "màu trắng"
+            bona: tốt
+            filo: "con trai"
+            floro: "bông hoa"
+            frato: "anh, em trai"
+            granda: "to lớn, vĩ đại"
+            instruisto: "giáo viên"
+            kafo: "cà phê"
+            knabo: "đứa bé trai"
+            kuko: bánh
+            lakto: sữa
+            nova: mới
+            pano: "bánh mì"
+            patro: "cha, bố"
+            sana: "khỏe mạnh"
+            seka: "khô ráo"
+            sukero: đường
+            teo: chè
+            varma: "ấm, nóng"
+            viro: "đàn ông"
+          pagxo06: 
+            pluralo: 
+              amikoj: "những người bạn"
+              belaj: "đẹp (dùng với số nhiều)"
+              belaj-floroj: "những bông hoa đẹp"
+              bonaj-amikoj: "những người bạn tốt"
+              floroj: "những bông hoa"
+              patroj: "những ông bố"
+              sanaj: "khỏe mạnh (dùng với số nhiều)"
+              sanaj-patroj: "những người cha mạnh mẽ"
+            pluralo-ekzpliko: "Số nhiều được tạo thành bằng cách thêm \"j\" vào cuối các danh từ và tính từ:"
+            pluralo-titolo: "Số nhiều"
+            singularo: 
+              amiko: "bạn bè"
+              bela: đẹp
+              bela-floro: "bông hoa đẹp"
+              bona-amiko: "bạn tốt"
+              floro: "bông hoa"
+              patro: "ông bố"
+              sana: "khỏe mạnh"
+              sana-patro: "người ông bố mạnh mẽ"
+          pagxo07: 
+            posedaj: 
+              ilia: "của họ, cái của họ"
+              lia: "của anh ấy, cái của anh ấy"
+              mia: "của tôi, cái của tôi"
+              nia: "của chúng tôi, cái của chúng tôi"
+              via: "của bạn, cái của bạn"
+              ĝia: "của nó, cái của nó"
+              ŝia: "của cô ấy, cái của cô ấy"
+            posedaj-pronomoj: "Đại từ Sở hữu"
+            posedaj-pronomoj-ekzpliko: "Tính từ và đại từ sở hữu được tạo nên bằng cách thêm phần đuôi \"a\" vào đại từ chỉ người:"
+            rimarkigo: 
+              mia-amiko: "bạn của tôi"
+              miaj-amikoj: "các bạn của tôi"
+              nia-floro: "bông hoa của chúng tôi"
+              niaj-floroj: "những bông hoa của chúng tôi"
+              posedaj-pronomoj-rimarkigo: "Tính từ sở hữu cũng tiếp nhận phần đuôi \"j\" khi chúng biến đổi thành một danh từ số nhiều."
+          pagxo08: 
+            artikolo: 
+              artikolo: "Mạo từ"
+              artikolo-ekzpliko: "Mạo từ bất định không tồn tại trong Quốc tế ngữ. Chỉ có mạo từ bất định \\\"la\\\", tương đương với tiếng Anh là \\\"the\\\"."
+              floroj: "những bông hoa"
+              knabo: "đứa bé trai"
+              la-floroj: "những bông hoa"
+              la-knabo: "cậu bé trai"
+              la-pano: "cái bánh mì"
+              la-patroj: "những ông bố"
+              pano: "bánh mì"
+              patroj: "những ông bố"
+            frazoj: 
+              frazo01: "Các con của bạn là bạn của chúng tôi."
+              frazo02: "Bánh mì thì khô."
+              frazo03: "Sữa ấm thì tốt."
+              frazo04: "Hoa thì đẹp."
+              frazo05: "Những đứa bé trai lớn."
+              frazo06: "Người cha thì tốt."
+              frazoj: "Các câu"

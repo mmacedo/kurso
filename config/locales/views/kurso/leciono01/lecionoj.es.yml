@@ -1,0 +1,135 @@
+--- 
+es: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "En Esperanto las palabras se escriben exactamente como se pronuncian, y se pronuncian exactamente según en sonido de cada letra escrita. El acento tónico simpre recae sobre la penúltima sílaba. Haga clic en el botón para escuchar la pronunciación, y repítala en voz alta."
+            alfabeto-titolo: "El Alfabeto del Esperanto"
+          pagxo03: 
+            personaj-pronomoj: "Pronombres Personales"
+            pluralo: 
+              ili: "Ellos/Ellas/Esos (es el plural para \\\"ŝi\\\", \\\"li\\\" y \\\"ĝi\\\")"
+              ni: Nosotros
+              pluralo: Plural
+              vi: "Ustedes, Vosotros"
+            singularo: 
+              gxi: "Eso (para indicar algo o alguien cuyo sexo no se necesita precisar)"
+              li: Él
+              mi: Yo
+              singularo: Singular
+              sxi: Ella
+              vi: Tú
+            specialaj: 
+              oni: "Uno (pron.  indef., que significa \\\"los hombres; algunas personas; alguien desconocido\\\". Se usa cuando no se quiere o no se puede precisar quién hizo o sufrió la acción)."
+              si: "Se (pronombre reflexivo de la tercera persona - el, ella, eso, ellos, uno. Se usa cuando se hace referencia al sujeto de la oración)."
+              specialaj: Especiales
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: Adjetivos
+              adjektivoj-ekspliko: "Terminan en la letra \"a\":"
+              bela: Bello
+              sana: Sano
+              varma: "Caliente, cálido"
+            nomoj: 
+              amiko: Amigo
+              frato: Hermano
+              kafo: Café
+              nomoj: Sustantivos
+              nomoj-ekspliko: "Terminan en la letra \"o\":"
+            verboj: 
+              ne-singularo: 
+                ili-estas: "Ellos son"
+                ni-estas: "Nosotros somos"
+                oni-estos: "Uno será"
+                vi-estis: "Ustedes eran"
+              singularo: 
+                gxi-estos: "Eso será"
+                li-estis: "Él fue"
+                mi-estas: "Yo soy"
+                sxi-estas: "Ella es"
+              verboj: Verbos
+              verboj-ekspliko: "El infinitivo termina en -i: esti; el pasado termina en -is: estis; el presente termina en -as y el futuro en -os. Sobre los otros tiempos verbales hablaremos en las lecciones siguientes."
+          pagxo05: 
+            amiko: amigo
+            bela: bello
+            biskvito: galleta
+            blanka: blanco
+            bona: bueno
+            filo: hijo
+            floro: flor
+            frato: hermano
+            granda: grande
+            instruisto: profesor
+            kafo: café
+            knabo: "muchacho, chamo"
+            kuko: torta
+            lakto: leche
+            nova: nuevo
+            pano: pan
+            patro: padre
+            sana: sano
+            seka: seco
+            sukero: azúcar
+            teo: té
+            varma: "caliente, cálido"
+            viro: hombre
+          pagxo06: 
+            pluralo: 
+              amikoj: amigos
+              belaj: bellos
+              belaj-floroj: "bellas flores"
+              bonaj-amikoj: "buenos amigos"
+              floroj: flores
+              patroj: padres
+              sanaj: sanos
+              sanaj-patroj: "padres sanos"
+            pluralo-ekzpliko: "El plural se forma agregando la letra \"j\" al final de los nombres y adjetivos:"
+            pluralo-titolo: Plural
+            singularo: 
+              amiko: amigo
+              bela: bello
+              bela-floro: "bella flor"
+              bona-amiko: "buen amigo"
+              floro: flor
+              patro: padre
+              sana: sano
+              sana-patro: "padre sano"
+          pagxo07: 
+            posedaj: 
+              ilia: "de ellos"
+              lia: "de él"
+              mia: mío
+              nia: nuestro
+              via: tuyo
+              ĝia: "de eso"
+              ŝia: "de ella"
+            posedaj-pronomoj: "Pronombres Posesivos"
+            posedaj-pronomoj-ekzpliko: "Los pronombres posesivos se forman agregando la terminación adjetiva (\"a\") a los pronombres personales:"
+            rimarkigo: 
+              mia-amiko: "Mi amigo"
+              miaj-amikoj: "Mis amigos"
+              nia-floro: "Nuestra flor"
+              niaj-floroj: "Nuestras flores"
+              posedaj-pronomoj-rimarkigo: "Los pronombres posesivos también reciben la terminación \"j\" en el plural:"
+          pagxo08: 
+            artikolo: 
+              artikolo: Artículo
+              artikolo-ekzpliko: "El artículo indefinido no existe en Esperanto; únicamente existe el artículo definido \\\"la\\\", que es igual para todos los géneros, casos y números."
+              floroj: "(Unas) Flores"
+              knabo: "(Un) Chamo, muchacho"
+              la-floroj: "Las flores"
+              la-knabo: "El chamo, el muchacho"
+              la-pano: "EL pan"
+              la-patroj: "Los padres"
+              pano: "(Un) Pan"
+              patroj: "(Unos) Padres"
+            frazoj: 
+              frazo01: "Tus hijos son nuestros amigos."
+              frazo02: "El pan está seco."
+              frazo03: "(Una) leche caliente es buena."
+              frazo04: "(Una) flor es bonita."
+              frazo05: "Los muchachos son grandes."
+              frazo06: "El padre es bueno."
+              frazoj: Frases

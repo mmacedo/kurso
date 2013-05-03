@@ -1,0 +1,137 @@
+--- 
+sr: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "У есперанту важи правило: Пиши као што говориш, читај као што је написано. Акценат је увек на претпоследњем слогу (кликните на дугмад да бисте чули изговор, и понављајте гласно)."
+            alfabeto-titolo: "Азбука есперанта"
+          pagxo03: 
+            personaj-pronomoj: "Личне заменице"
+            pluralo: 
+              ili: "Они (множина за \\\"она\\\", \\\"он\\\" и \\\"оно\\\")"
+              ni: Ми
+              pluralo: Множина
+              vi: "Ви (множина)"
+            singularo: 
+              gxi: "Оно (за показивање нечега или некога, чији пол се не може прецизирати)"
+              li: Он
+              mi: Ја
+              singularo: Једнина
+              sxi: Она
+              vi: "Ти (једнина)"
+            specialaj: 
+              oni: "Сe (лична неодређена заменица, у значењу \\\"људи; много или неколико особа; неко непознат\\\", користи се кад се неће или не може прецизирати ко је урадио или трпео радњу)."
+              si: "Себи (Повратна заменица трећег лица - он, она, оно, они, се -, користи се када се односи на субјекат предлога)."
+              specialaj: Посебни
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: Придеви
+              adjektivoj-ekspliko: "Завршаваjу се словом \"a\":"
+              bela: "Леп, лепа, -о"
+              sana: "Здрав, -а, -о"
+              varma: "Топао, -ла, -лo"
+            nomoj: 
+              amiko: Пријатељ
+              frato: Брат
+              kafo: |-
+                  Кафа
+                  Kafa
+              nomoj: Именице
+              nomoj-ekspliko: "Завршавају се са словом \"o\":"
+            verboj: 
+              ne-singularo: 
+                ili-estas: "Они су"
+                ni-estas: "Ми смо"
+                oni-estos: Биће
+                vi-estis: "Ви сте били"
+              singularo: 
+                gxi-estos: "Оно ће бити"
+                li-estis: "Он је био"
+                mi-estas: "Ја сам"
+                sxi-estas: "Она је"
+              verboj: Глаголи
+              verboj-ekspliko: "Инфинитив се завршава са -i: esti; прошло време се завршава са -is: estis; садашње време се завршава са -as а будуће са -os. Остала глаголска времена ћемо обрадити касније."
+          pagxo05: 
+            amiko: пријатељ
+            bela: леп
+            biskvito: бисквит
+            blanka: бео
+            bona: добар
+            filo: син
+            floro: цвет
+            frato: брат
+            granda: велик
+            instruisto: наставник
+            kafo: кафа
+            knabo: дечак
+            kuko: колач
+            lakto: млеко
+            nova: нов
+            pano: хлеб
+            patro: отац
+            sana: здрав
+            seka: сув
+            sukero: шећер
+            teo: чај
+            varma: топао
+            viro: мушкарац
+          pagxo06: 
+            pluralo: 
+              amikoj: пријатељи
+              belaj: лепи
+              belaj-floroj: "лепи цветови"
+              bonaj-amikoj: "добри пријатељи"
+              floroj: цветови
+              patroj: очеви
+              sanaj: здрави
+              sanaj-patroj: "здрави очеви"
+            pluralo-ekzpliko: "Множина се гради додавањем слова \"j\" на крај именица и придева:"
+            pluralo-titolo: Множина
+            singularo: 
+              amiko: пријатељ
+              bela: леп
+              bela-floro: "леп цвет"
+              bona-amiko: "добар пријатељ"
+              floro: цвет
+              patro: отац
+              sana: здрав
+              sana-patro: "здрав отац"
+          pagxo07: 
+            posedaj: 
+              ilia: њихов
+              lia: његов
+              mia: мој
+              nia: наш
+              via: твој
+              ĝia: његово
+              ŝia: њен
+            posedaj-pronomoj: "Присвојне заменице"
+            posedaj-pronomoj-ekzpliko: "Присвојне заменице се граде додавањем придевског наставка (\"a\") личним заменицама."
+            rimarkigo: 
+              mia-amiko: "Мој пријатељ"
+              miaj-amikoj: "Моји пријатељи"
+              nia-floro: "Наш цвет"
+              niaj-floroj: "Наши цветови"
+              posedaj-pronomoj-rimarkigo: "И присвојне заменице добијају наставак \"j\" у множини:"
+          pagxo08: 
+            artikolo: 
+              artikolo: Члан
+              artikolo-ekzpliko: "Неодређени члан не постоји у есперанту; постоји само одређени члан \\\"la\\\", једнак за све родове, падеже и бројеве. Када се речи жели дати неодређени смисао, просто се избаци члан \\\"la\\\"."
+              floroj: Цветови
+              knabo: Дечак
+              la-floroj: Цветови
+              la-knabo: Дечак
+              la-pano: Хлеб
+              la-patroj: Очеви
+              pano: Хлеб
+              patroj: Очеви
+            frazoj: 
+              frazo01: "Ваши синови су наши приатељи."
+              frazo02: "Хлеб је сув."
+              frazo03: "Топло млеко је добро."
+              frazo04: "Цвет је леп."
+              frazo05: "Дечаци су велики."
+              frazo06: "Отац је добар."
+              frazoj: Реченице

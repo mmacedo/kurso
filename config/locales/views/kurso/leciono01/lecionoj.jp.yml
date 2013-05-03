@@ -1,0 +1,135 @@
+--- 
+jp: 
+  views: 
+    kurso: 
+      leciono01: 
+        lecionoj: 
+          pagxo01: 
+            alfabeto-ekspliko: "エスペラントでは、単語のつづりは発音通りに書きます。 発音は単語のつづり通りに読みます。 単語の最後から２番めの音節を一番強く（長めに）発音します。 （単語のボタンを押すと発音が聞こえます。 大きい声で繰り返し発音して下さい。 ）"
+            alfabeto-titolo: エスペラントのアルファベット
+          pagxo03: 
+            personaj-pronomoj: 人称代名詞(にんしょうだいめいし)
+            pluralo: 
+              ili: 彼ら・彼女ら・それら
+              ni: 私たち
+              pluralo: 複数(ふくすう)
+              vi: あなたたち(2人以上)
+            singularo: 
+              gxi: それ
+              li: 彼
+              mi: わたし
+              singularo: 単数(たんすう)
+              sxi: 彼女
+              vi: あなた
+            specialaj: 
+              oni: あれこれの人、だれかれ(だれと名前をあげられない人、だれとは名前をあげたくない人、日本語には訳さないことも多い)
+              si: "～自身。 三人称(単数・複数)の再帰代名詞(さいきだいめいし）です。 彼は「自分の」～を、彼女は「自分自身」を、などという時に使います。 その文の主語を指します。 \"si\"は主語にはなりません。"
+              specialaj: 特別な代名詞
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj: 形容詞(けいようし)
+              adjektivoj-ekspliko: 最後は"a"で終わります
+              bela: 美しい
+              sana: 健康な
+              varma: 熱い、暑い
+            nomoj: 
+              amiko: 友人、ともだち
+              frato: 兄弟(兄/弟どちらも)
+              kafo: コーヒー
+              nomoj: 名詞(めいし)
+              nomoj-ekspliko: 最後は"o"で終わります
+            verboj: 
+              ne-singularo: 
+                ili-estas: 彼ら(彼女ら・それら)は～です(現在)
+                ni-estas: 私たちは～です(現在)
+                oni-estos: 人は～でしょう(未来)
+                vi-estis: あなたたちは～でした(過去)
+              singularo: 
+                gxi-estos: それは～でしょう(未来)
+                li-estis: 彼は～でした(過去)
+                mi-estas: 私は～です(現在)
+                sxi-estas: 彼女は～です(現在)
+              verboj: 動詞(どうし)
+              verboj-ekspliko: "動詞の基本形（不定形：ふていけい)は\"i\"で終わります。 例えばesti(～です)。 過去形(かこけい)は\"is\"で終わります。 例えばestis(～でした)。 現在形(げんざいけい)は\"as\"で終わります。 例えばestas(～です)。 未来形(みらいけい)は\"os\"で終わります。 例えばestos(～でしょう)。 動詞のその他の形は後の課で学びます。"
+          pagxo05: 
+            amiko: 友人、ともだち
+            bela: 美しい
+            biskvito: ビスケット
+            blanka: 白い
+            bona: よい
+            filo: むすこ
+            floro: 花
+            frato: 兄弟(兄/弟どちらも)
+            granda: 大きい
+            instruisto: 先生(教師)
+            kafo: コーヒー
+            knabo: 男の子
+            kuko: お菓子
+            lakto: ミルク(牛乳)
+            nova: 新しい
+            pano: パン
+            patro: お父さん
+            sana: 健康な
+            seka: かわいた
+            sukero: 砂糖
+            teo: お茶
+            varma: 熱い、暑い
+            viro: 男
+          pagxo06: 
+            pluralo: 
+              amikoj: 友人たち(複数)
+              belaj: 美しい(複数)
+              belaj-floroj: 美しい花々(複数)
+              bonaj-amikoj: よい友人たち(複数)
+              floroj: 花々(複数)
+              patroj: お父さんたち(複数)
+              sanaj: 健康な(複数)
+              sanaj-patroj: 健康なお父さんたち(複数)
+            pluralo-ekzpliko: 人（や物）が複数いる（ある）時には、その名詞や形容詞に"j"をつけて複数形にします。
+            pluralo-titolo: 複数(ふくすう)…２人以上の人、２個以上の物
+            singularo: 
+              amiko: 友人、ともだち
+              bela: 美しい
+              bela-floro: 美しい花
+              bona-amiko: よい友人
+              floro: 花
+              patro: お父さん
+              sana: 健康な
+              sana-patro: 健康なお父さん
+          pagxo07: 
+            posedaj: 
+              ilia: 彼らの・彼女らの・それらの
+              lia: 彼の
+              mia: わたしの
+              nia: 私たちの
+              via: あなたの
+              ĝia: それの
+              ŝia: 彼女の
+            posedaj-pronomoj: 所有代名詞(しょゆうだいめいし)
+            posedaj-pronomoj-ekzpliko: 「私/mi」などの代名詞に対して、「私の/mia」などの所有を表す語を「所有代名詞」といい、代名詞の後に"a"をつけます。
+            rimarkigo: 
+              mia-amiko: 私の友人
+              miaj-amikoj: 私の友人たち(複数)
+              nia-floro: 私たちの花
+              niaj-floroj: 私たちの花々(複数)
+              posedaj-pronomoj-rimarkigo: 「私の物」が複数あるときには、「私の/miaj」というように所有代名詞にも複数の"j"をつけます。
+          pagxo08: 
+            artikolo: 
+              artikolo: 冠詞(かんし)
+              artikolo-ekzpliko: "エスペラントには不定冠詞（ふていかんし）はありません。 定冠詞 （ていかんし）\"la\" は変わりません（性・数・格が変わっても）。"
+              floroj: 花々(複数)
+              knabo: 男の子
+              la-floroj: その花々(複数)
+              la-knabo: その男の子
+              la-pano: そのパン
+              la-patroj: そのお父さんたち(複数)
+              pano: パン
+              patroj: お父さんたち(複数)
+            frazoj: 
+              frazo01: あなたの息子たちは私たちの友達たちです。
+              frazo02: そのパンは乾いています。
+              frazo03: 熱いミルクはよいです。
+              frazo04: 花は美しいです。
+              frazo05: その男の子たちは大きいです。
+              frazo06: そのお父さんはよいです。
+              frazoj: 文

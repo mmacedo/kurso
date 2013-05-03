@@ -1,5 +1,5 @@
 require 'i18n_eltiro/mapado/bazo'
-# require 'i18n_eltiro/mapado/leciono01'
+require 'i18n_eltiro/mapado/leciono01'
 # require 'i18n_eltiro/mapado/leciono02'
 # require 'i18n_eltiro/mapado/leciono03'
 # require 'i18n_eltiro/mapado/leciono04'
@@ -11,7 +11,7 @@ require 'i18n_eltiro/mapado/bazo'
 # require 'i18n_eltiro/mapado/leciono10'
 # require 'i18n_eltiro/mapado/leciono11'
 # require 'i18n_eltiro/mapado/leciono12'
-# require 'i18n_eltiro/mapado/aliaj'
+require 'i18n_eltiro/mapado/aliaj'
 
 module I18nEltiro
   module Mapado
