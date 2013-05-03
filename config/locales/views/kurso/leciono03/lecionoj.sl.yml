@@ -1,0 +1,66 @@
+--- 
+sl: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: Prislovi
+              adverboj-ekzpliko-1: "Ločevati moramo med pridevniki in prislovi. Pridevniki natančneje označujejo samostalnike: bela amikino = lepa prijateljica. Prislovi natančneje označujejo glagole: bone paroli = lepo govoriti, bele sidi = lepo sedeti. Prislovi ne dobijo množinske oblike \\\"j\\\". Prislovi v glavnem določajo način, čas, kraj  in vzrok."
+              adverboj-ekzpliko-2: "Prislovi imajo končnico –E  (to se vedno zgodi, če so prislovi izpeljani iz druge besede). Npr. BEL-E = lepo,               BON-E = dobro.  Koren besede lahko v esperantu zelo preprosto uporabimo in mu spremenimo pomen s preprostim dodajanjem različnih končnic:"
+              frazoj: 
+                adverboj-rimarkigo: "Prislov je običajno vedno pred glagolom, na katerega se nanaša."
+                frazo-sana: "On je zdrav."
+                frazo-sane: "On zdravo živi."
+                frazo-sani: "On zdravi."
+                frazo-sano: "On ima dobro zdravje."
+              vortoj: 
+                sana: "zdrav (a, o)"
+                sane: zdravo
+                sani: zdraviti
+                sano: zdravje
+          pagxo02: 
+            numeraloj: "Glavni števniki"
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "Vrstilni števniki  (pridevniki, ki so izpeljani iz glavnih števnikov)"
+              adjektivoj-el-numeraloj-ekzpliko: "Vrstilne števnike dobimo z dodajanjem končnice \\\"a\\\" števnikom. Ker imajo vrstilni števniki končnico \\\"a\\\", lahko dobijo končnico za množino (-j) kot tudi končnico za akuzativ (-n)."
+              frazoj: 
+                frazo-adjektivoj-1: "Prvi dečki prihajajo."
+                frazo-adjektivoj-2: "On je ujel tretjo žuželko."
+              vortoj: 
+                dek: deset
+                dek-naux: devetnajst
+                dek-nauxa: "devetnajsti (a, o)"
+                deka: "deseti (a, o)"
+                tri: tri
+                tria: "tretji (a, e)"
+            adverboj: 
+              adverboj-el-numeraloj: "Prislovni števniki (prislovi, ki so izpeljani iz glavnih števnikov)"
+              adverboj-el-numeraloj-ekzpliko: "Prislove dobimo z dodajanjem končnice \"e\" števnikom."
+              frazoj: 
+                frazo-adverboj-1: "On bo prvo pil vodo."
+              vortoj: 
+                du: dva
+                due: drugo
+                unu: ena
+                unue: prvo
+          pagxo05: 
+            atendi: čakati
+            demandi: vprašati
+            fumi: kaditi
+            horo: ura
+            jaro: leto
+            kuri: teči
+            mateno: jutro
+            minuto: minuta
+            nokto: noč
+            peti: prositi
+            promeni: "sprehoditi se"
+            respondi: odgovoriti
+            semajno: teden
+            soifi: "biti žejen"
+            tago: dan
+            vespero: večer
+            vivi: živeti

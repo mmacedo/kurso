@@ -1,0 +1,22 @@
+--- 
+ch: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "练习 - 数词"
+            numeraloj-ekzercoj-instrukcioj: 根据内容在空白处键入数词。请用回车键或旁边的按钮确认。试试看，你至少应答对70%才行。
+          pagxo09: 
+            frazo01: 1.他爱她。
+            frazo02: 2.他爱她妹妹。
+            frazo03: 3.她爱他。
+            frazo04: 4.第一个男人爱第二个女人。
+            frazo05: 5.第二个女人恨第一个男人。
+            frazo06: 6.男孩子们先要了三个蛋糕。
+            frazo07: 7.第二次他们要了柠檬水。
+            frazo08: 8.这家店铺做的小面包很差。
+            frazo09: 9.我哥哥早晨散步。
+            frazo10: 10.你朋友热心回答了。
+            frazo11: 11.老师写得好。
+            frazo12: 12.老妇人健康地生活着。

@@ -1,0 +1,66 @@
+--- 
+pt: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: Advérbios
+              adverboj-ekzpliko-1: "Os advérbios funcionam igual aos adjetivos (terminação -a), mas em vez de definir as idéias expressas pelo substantivo (-o), definem as idéias do verbo (-i, -as, -is, -os, etc.), e do adjetivo (-a). Geralmente exprimem a maneira, a causa, o tempo ou o lugar."
+              adverboj-ekzpliko-2: "Em esperanto os advérbios geralmente terminam em \\\"e\\\". Isso acontece sempre que são derivados de uma palavra. A idéia básica expressa pelo radical da palavra pode ser usada de diversas maneiras, graças à simples mudança na terminação."
+              frazoj: 
+                adverboj-rimarkigo: "O advérbio é geralmente colocado antes da palavra à qual se refere, e não recebe a terminação do plural (-j)."
+                frazo-sana: "Ele está saudável."
+                frazo-sane: "Ele vive com saúde."
+                frazo-sani: "Ele tem saúde"
+                frazo-sano: "Ele tem boa saúde."
+              vortoj: 
+                sana: saudável
+                sane: saudavelmente
+                sani: "ter saúde"
+                sano: saúde
+          pagxo02: 
+            numeraloj: Numerais
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "Adjetivos de numerais"
+              adjektivoj-el-numeraloj-ekzpliko: "Os numerais ordinais são formados pela adição da terminação \\\"a\\\" aos numerais. Por terem a terminação \\\"a\\\", podem receber o plural (-j) e o acusativo (-n)."
+              frazoj: 
+                frazo-adjektivoj-1: "Os primeiros meninos estão vindo."
+                frazo-adjektivoj-2: "Ele capturou o terceiro inseto."
+              vortoj: 
+                dek: dez
+                dek-naux: dezenove
+                dek-nauxa: décimo-nono
+                deka: décimo(a)
+                tri: três
+                tria: terceiro(a)
+            adverboj: 
+              adverboj-el-numeraloj: "Advérbios de numerais"
+              adverboj-el-numeraloj-ekzpliko: "Adicionando o final \"e\" aos numerais formamos advérbios:"
+              frazoj: 
+                frazo-adverboj-1: "Ele primeiro beberá água."
+              vortoj: 
+                du: dois
+                due: "em segundo lugar"
+                unu: um
+                unue: "em primeiro lugar, primeiramente"
+          pagxo05: 
+            atendi: "esperar, aguardar"
+            demandi: perguntar
+            fumi: fumar
+            horo: hora
+            jaro: ano
+            kuri: correr
+            mateno: manhã
+            minuto: minuto
+            nokto: noite
+            peti: pedir
+            promeni: passear
+            respondi: responder
+            semajno: semana
+            soifi: "ter sede"
+            tago: dia
+            vespero: "tardinha (última parte do dia)"
+            vivi: viver

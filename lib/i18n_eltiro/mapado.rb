@@ -1,7 +1,7 @@
 require 'i18n_eltiro/mapado/bazo'
 require 'i18n_eltiro/mapado/leciono01'
 require 'i18n_eltiro/mapado/leciono02'
-# require 'i18n_eltiro/mapado/leciono03'
+require 'i18n_eltiro/mapado/leciono03'
 # require 'i18n_eltiro/mapado/leciono04'
 # require 'i18n_eltiro/mapado/leciono05'
 # require 'i18n_eltiro/mapado/leciono06'

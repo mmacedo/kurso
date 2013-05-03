@@ -1,0 +1,22 @@
+--- 
+hr: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "Vježba - Brojevi"
+            numeraloj-ekzercoj-instrukcioj: "Upišite u određeni prostor brojku koja odgovara tekstualnom obliku tog broja. Da bi potvrdili ispravan odgovor, pritisnite Enter ili pokrajni gumb. Opet nastojte biti točni u najmanje 70% slučajeva."
+          pagxo09: 
+            frazo01: "1. On ju voli."
+            frazo02: "2. On voli njenu sestru."
+            frazo03: "3. Ona voli njega."
+            frazo04: "4. Prvi muškarac voli drugu ženu."
+            frazo05: "5. Druga žena mrzi prvog muškarca."
+            frazo06: "6. Dječaci su prvo molili za tri kolača."
+            frazo07: "7. Drugo su tražili limonadu."
+            frazo08: "8. Dučan loše pravi mali kruh."
+            frazo09: "9. Moj brat ujutro šeće."
+            frazo10: "10. Vaš prijatelj je toplo odgovorio."
+            frazo11: "11. Učitelj dobro piše."
+            frazo12: "12. Stara žena zdravo živi."

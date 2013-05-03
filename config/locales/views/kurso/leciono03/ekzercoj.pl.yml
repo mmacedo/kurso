@@ -1,0 +1,22 @@
+--- 
+pl: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: Ćwiczenie-Liczebniki
+            numeraloj-ekzercoj-instrukcioj: "Napisz w wyznaczonym miejscu  liczebnik  cyframi   odpowiadający  wyrażonemu słownie.  Naciśnij Enter. Staraj się osiągnąć 70% trafnych odpowiedzi."
+          pagxo09: 
+            frazo01: "1. On kocha ją."
+            frazo02: "2. On kocha jej siostrę."
+            frazo03: "3. Ona kocha jego."
+            frazo04: "4. Pierwszy mężczyzna kocha drugą kobietę."
+            frazo05: "5.Druga kobieta nienawidzi pierwszego mężczyzny."
+            frazo06: "6.Chłopcy po pierwsze prosili trzy ciastka."
+            frazo07: "7.Po drugie oni prosili lemoniadę."
+            frazo08: "8.Butik żle robi mały chleb."
+            frazo09: "9. Mój brat rano spaceruje."
+            frazo10: "10. Twój przyjaciel ciepło odpowiedział."
+            frazo11: "11. Nauczyciel dobrze pisze."
+            frazo12: "12. Stara kobieta zdrowo żyje."

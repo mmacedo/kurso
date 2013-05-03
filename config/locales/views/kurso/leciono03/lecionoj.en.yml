@@ -1,0 +1,66 @@
+--- 
+en: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: Adverbs
+              adverboj-ekzpliko-1: "Adverbs are similar to adjectives, but instead of modifying nouns, they modify verbs (or sometimes adjectives or even other adverbs).  They don't change for plural.  Generally they indicate manner (how), cause (why), time (when), location (where) or quantity (how much)."
+              adverboj-ekzpliko-2: "All the adverbs derived from other words end in \\\"e\\\".  The basic idea expressed by the word root can be used in several ways, simply by changing the ending."
+              frazoj: 
+                adverboj-rimarkigo: "The adverb usually goes before the related word."
+                frazo-sana: "He is healthy."
+                frazo-sane: "He lives healthily."
+                frazo-sani: "He is healthy."
+                frazo-sano: "He has good health."
+              vortoj: 
+                sana: healthy
+                sane: healthily
+                sani: "to be healthy"
+                sano: health
+          pagxo02: 
+            numeraloj: Numerals
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "Adjectives created from numerals"
+              adjektivoj-el-numeraloj-ekzpliko: "The ordinal numbers are formed by adding the adjective ending \\\"a\\\" to the numerals.  Because they have the ending \\\"a\\\", they can receive the plural \\\"-j\\\" and the accusative \\\"-n\\\"."
+              frazoj: 
+                frazo-adjektivoj-1: "The first boys are coming."
+                frazo-adjektivoj-2: "He caught the third insect."
+              vortoj: 
+                dek: ten
+                dek-naux: nineteen
+                dek-nauxa: nineteenth
+                deka: tenth
+                tri: three
+                tria: third
+            adverboj: 
+              adverboj-el-numeraloj: "Adverbs created from numerals"
+              adverboj-el-numeraloj-ekzpliko: "Adverbs can be formed by adding the ending \"e\" to the numerals:"
+              frazoj: 
+                frazo-adverboj-1: "He will first drink water."
+              vortoj: 
+                du: two
+                due: secondly
+                unu: one
+                unue: first(ly)
+          pagxo05: 
+            atendi: "to wait"
+            demandi: "to ask (a question), to inquire"
+            fumi: "to smoke"
+            horo: hour
+            jaro: year
+            kuri: "to run"
+            mateno: morning
+            minuto: minute
+            nokto: night
+            peti: "to ask (for something), to beg"
+            promeni: "to stroll, to go for a walk"
+            respondi: "to reply, to answer"
+            semajno: week
+            soifi: "to be thirsty  (so - i -  fi)"
+            tago: day
+            vespero: evening
+            vivi: "to live"

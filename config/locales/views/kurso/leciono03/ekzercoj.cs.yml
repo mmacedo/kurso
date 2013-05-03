@@ -1,0 +1,22 @@
+--- 
+cs: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "Cvičení - Číslovky"
+            numeraloj-ekzercoj-instrukcioj: "Napište do určeného prostoru číslovku odpovídající zadanému textu. Volbu potvrďte Entrem nebo klikněte na spodní buton. Zkuste uhodnout aspoň 70%."
+          pagxo09: 
+            frazo01: "1. On ji miluje."
+            frazo02: "2. On miluje její sestru."
+            frazo03: "3. Ona ho miluje."
+            frazo04: "4. První muž miluje druhou ženu."
+            frazo05: "5. Druhá žena nenávidí prvního muže."
+            frazo06: "6. Chlapci nejdříve poprosili o tři koláče."
+            frazo07: "7. Potom (za druhé) požádali o limonádu."
+            frazo08: "8. Ten obchůdek špatně dělá malý chleba."
+            frazo09: "9. Můj bratr se ráno prochází."
+            frazo10: "10. Váš přítel vřele odpověděl."
+            frazo11: "11. Učitel dobře píše."
+            frazo12: "12. Ta stará  žena zdravě žije."

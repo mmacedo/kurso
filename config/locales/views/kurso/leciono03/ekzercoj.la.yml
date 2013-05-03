@@ -1,0 +1,22 @@
+--- 
+la: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "Uzdevums - skaitļa vārdu pielietošana"
+            numeraloj-ekzercoj-instrukcioj: "Ievadiet norādītajā laukumā skaitļa vārdu, kurš atbilst dotajam tekstam. Lai apstiprinātu atbildi, lietojiet taustiņu Enter vai uzklikšķiniet uz pogas ar lampiņas ikonu. Mēģiniet pareizi atbildēt vismaz 70%."
+          pagxo09: 
+            frazo01: "1. Viņš mīl viņu."
+            frazo02: "2. Viņš mīl viņas meitu."
+            frazo03: "3. Viņa mīl viņu."
+            frazo04: "4. Pirmais vīrietis mīl otro sievieti."
+            frazo05: "5. Otrā sieviete ienīst pirmo vīrieti."
+            frazo06: "6. Pirmkārt, zēni lūdza trīs kūkas."
+            frazo07: "7. Otrkārt, viņi lūdza limonādi."
+            frazo08: "8. Kiosks slikti taisa mazo maizi."
+            frazo09: "9. Mans brālis no rīta pastaigājas."
+            frazo10: "10. Jūsu draugs silti atbildēja."
+            frazo11: "11. Skolotājs labi raksta."
+            frazo12: "12. Vecā sieviete veselīgi dzīvo."

@@ -1,0 +1,22 @@
+--- 
+da: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "Øvelse - talord"
+            numeraloj-ekzercoj-instrukcioj: "Skriv i det afsatte felt de talord der svarer til den givne tekst.  For at modtage bekræftelse, skal du bruge tangenten ENTER eller klikke på knappen ved siden af feltet. Forsøg at opnå mindst 70% rigtige."
+          pagxo09: 
+            frazo01: "1. Han elsker hende."
+            frazo02: "2. Han elsker sin søster."
+            frazo03: "3. Hun elsker ham."
+            frazo04: "4. Den første mand elsker den anden kvinde."
+            frazo05: "5. Den anden kvinde hader den første mand."
+            frazo06: "6. Drengene bad først om tre kager."
+            frazo07: "7. For det andet bad de om limonade."
+            frazo08: "8. Butikken laver det lille brød dårligt."
+            frazo09: "9. Min bror spadserer om morgenen."
+            frazo10: "10. Din ven svarede varmt."
+            frazo11: "11. Lærerinden skriver godt."
+            frazo12: "12. Den gamle kvinde lever sundt."

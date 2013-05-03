@@ -1,0 +1,66 @@
+--- 
+ar: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: الأحوال
+              adverboj-ekzpliko-1: "تشبه الأحوال في طريقة استخدامها الصفات كثيرا ، إلا أن الأحوال تصف الأفعال والصفات وحتى الأحوال الأخرى ، مخالفة في ذلك الصفات والتي لا تصف إلا أسماء. كذلك فإن الأحوال لا تجمَع. بصفة عامة ، تصف الأحوال كيفية وأسباب وزمان ومكان حدوث شيء ما."
+              adverboj-ekzpliko-2: "وتنتهي الأحوال المشتقة من كلمات أخرى بـ\\\"e-\\\" في الإسبرانتو. بتغيير بسيط في النهايات ، يمكنك استعمال أكثر من وجه لنفس المعنى الأساسي :"
+              frazoj: 
+                adverboj-rimarkigo: "غالبا ما توضع الحال قبل موصوفها."
+                frazo-sana: "هو معاف."
+                frazo-sane: "يعيش معافا."
+                frazo-sani: يصحّ.
+                frazo-sano: "عنده عافية (جيدة)."
+              vortoj: 
+                sana: معاف
+                sane: بصحة
+                sani: "أن يكون معافا"
+                sano: عافية
+          pagxo02: 
+            numeraloj: "الأرقام التعدادية"
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "الصفات المشتقة من الأرقام التعدادية"
+              adjektivoj-el-numeraloj-ekzpliko: "يمكننا تشكيل الأرقام الترتيبية بإضافة النهاية الوصفية \\\"a-\\\" إلى الأرقام التعدادية. كبقية الصفات ، تجمع الأرقام الترتيبية وتنصب."
+              frazoj: 
+                frazo-adjektivoj-1: "الأولاد الأولون يأتون."
+                frazo-adjektivoj-2: "أمسك الحشرةَ الثالثة."
+              vortoj: 
+                dek: عشرة
+                dek-naux: "تسعة عشر"
+                dek-nauxa: "تاسع عشر"
+                deka: عاشر
+                tri: ثلاثة
+                tria: ثالث
+            adverboj: 
+              adverboj-el-numeraloj: "الأحوال المشتقة من الأرقام"
+              adverboj-el-numeraloj-ekzpliko: "ويمكننا كذلك تشكيل الأحوال من الأرقام التعدادية بإضافة \\\"e-\\\" :"
+              frazoj: 
+                frazo-adverboj-1: "أولا سيشرب الماء."
+              vortoj: 
+                du: اثنان
+                due: ثانيا
+                unu: واحد
+                unue: أولا
+          pagxo05: 
+            atendi: "أن ينتظر"
+            demandi: "أن يسأل"
+            fumi: "أن يدخن"
+            horo: ساعة
+            jaro: عام
+            kuri: "أن يركض"
+            mateno: صباح
+            minuto: دقيقة
+            nokto: ليلة
+            peti: "أن يطلب"
+            promeni: "أن يتمشى"
+            respondi: "أن يجيب"
+            semajno: أسبوع
+            soifi: "أن يعطش"
+            tago: يوم
+            vespero: مساء
+            vivi: "أن يعيش"

@@ -1,0 +1,22 @@
+--- 
+ca: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "Exercici - Numerals"
+            numeraloj-ekzercoj-instrukcioj: "Teclegeu dins l'espai adequat el número corresponent al text que apareix. Per confirmar la resposta utilitzeu la tecla de retorn o feu clic en el botó inferior. Intenteu aconseguir almenys un 70%."
+          pagxo09: 
+            frazo01: "Ell l'estima (a ella)."
+            frazo02: "Ell estima la seva germana (la germana d'ella)."
+            frazo03: "Ella l'estima (a ell)."
+            frazo04: "El primer home estima la segona dona."
+            frazo05: "La segona dona odia el primer home."
+            frazo06: "El noi primerament va demanar tres pastissos."
+            frazo07: "En segon lloc van demanar una llimonada."
+            frazo08: "La botiga fa malament el pa petit."
+            frazo09: "El meu germà passeja de matí."
+            frazo10: "El vostre amic va contestar càlidament."
+            frazo11: "El professor escriu bé."
+            frazo12: "La dona vella viu sanament."

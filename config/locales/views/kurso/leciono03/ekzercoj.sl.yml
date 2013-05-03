@@ -1,0 +1,22 @@
+--- 
+sl: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: "Vaja - Glavni števniki"
+            numeraloj-ekzercoj-instrukcioj: "Vtipkajte v prazen prostor številko, ki ustreza besedilu. Za potrditev odgovora pritisnite tipko Enter ali kliknite gumb na desni. Poskušajte doseči vsaj 70% pravilnih odgovorov."
+          pagxo09: 
+            frazo01: "On ljubi njo."
+            frazo02: "On ljubi njeno sestro."
+            frazo03: "On ljubi njega."
+            frazo04: "Prvi mož ljubi drugo ženo."
+            frazo05: "Druga žena sovraži prvega moža."
+            frazo06: "Dečki so prvo prosili tri kolače."
+            frazo07: "Drugo, oni so prosili limonado."
+            frazo08: "Trgovina slabo naredi majhen kruh."
+            frazo09: "Moj brat se zjutraj sprehaja."
+            frazo10: "Tvoj prijatelj je toplo odgovoril."
+            frazo11: "Učiteljica dobro piše."
+            frazo12: "Stara žena zdravo živi."

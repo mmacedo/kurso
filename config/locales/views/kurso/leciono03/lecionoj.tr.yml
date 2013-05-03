@@ -1,0 +1,66 @@
+--- 
+tr: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: Zarflar
+              adverboj-ekzpliko-1: "Zarflar aynen sıfatlara benzerler.İsimler tarafından ifade edilen fikirleri nitelemek yerine fiilin fikirlerini nitelerler ve \\\"j\\\" harfini alarak çoğul olamazlar.Genelde bunlar, tarzı , sebebi ,zamanı ve yeri gösterirler."
+              adverboj-ekzpliko-2: "Esperantoda bütün zarfların sonu \"e\" ile biten bir kelimeden türer ( kelimeden türetildiği durumlarda geçerlidir). Kelime kökünün değişik şekilde kullanılarak basit bir son değişimi ile temel fikir değiştirilebilir."
+              frazoj: 
+                adverboj-rimarkigo: "Zarf genelde nitelediği kelimeden önce gelir."
+                frazo-sana: "O (erkek) sağlıklıdır."
+                frazo-sane: "O (erkek) sağlıklı olarak yaşıyor."
+                frazo-sani: "O (erkek) iyileşiyor."
+                frazo-sano: "Onun (erkek) iyi bir sağlığı var."
+              vortoj: 
+                sana: Sağlıklı
+                sane: "Sağlıklı durumda"
+                sani: "Sağlıklı olmak"
+                sano: Sağlık
+          pagxo02: 
+            numeraloj: Sayılar
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "Sayılardan zarf türetme"
+              adjektivoj-el-numeraloj-ekzpliko: "Sayı zarflarının sonuna \"a\" harfini ilave ederek sıra numaraları yapılabilir. \"j\" ve i halin \"-n\" harfini ekleyerek çoğul yapılabilirler."
+              frazoj: 
+                frazo-adjektivoj-1: "İlk çocuklar geliyorlar."
+                frazo-adjektivoj-2: "O üçüncü böceği yakaladı."
+              vortoj: 
+                dek: "on"
+                dek-naux: ondokuz
+                dek-nauxa: ondokuzuncu
+                deka: onuncu
+                tri: üç
+                tria: üçüncü
+            adverboj: 
+              adverboj-el-numeraloj: "Sayı zarfları"
+              adverboj-el-numeraloj-ekzpliko: "Sayı sonuna \"e\" harfini ilave ederek sayı zarfları oluşturulabilir."
+              frazoj: 
+                frazo-adverboj-1: "O ilk defa su içiyor."
+              vortoj: 
+                du: iki
+                due: İkinci
+                unu: bir
+                unue: Birinci
+          pagxo05: 
+            atendi: beklemek
+            demandi: sormak
+            fumi: "sigara içmek"
+            horo: saat
+            jaro: sene
+            kuri: koşmak
+            mateno: sabah
+            minuto: dakika
+            nokto: gece
+            peti: "rica etmek"
+            promeni: gezinmek
+            respondi: "cevap vermek"
+            semajno: hafta
+            soifi: susamak
+            tago: gün
+            vespero: akşam
+            vivi: yaşamak

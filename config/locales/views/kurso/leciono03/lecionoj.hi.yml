@@ -1,0 +1,66 @@
+--- 
+hi: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: "क्रिया विशेषण"
+              adverboj-ekzpliko-1: "क्रिया विशेषण और विशेषण अपने अपने स्थान पर महत्व रखते हैं. क्रिया का विशेषण बताते हैं वह क्रिया विशेषण हैं. \\\"j\\\" अक्षर की अवश्यकता नहीं हैं. सामान्यतह पद्दति, स्थान, कारण और काल."
+              adverboj-ekzpliko-2: "एस्पेरान्तो मैं सभी क्रिया विशेषण \"e\" से अंत होते हैं. आलोचन यह हैं की हम इसे कहाँ पे भी किसी अर्थ के लिए उपयोग कर सकते हैं कुछ कष्ट के बिना. इस आलोचन को हमारा दन्यवाध."
+              frazoj: 
+                adverboj-rimarkigo: "जिस शब्द के आगे क्रिया विशेषण जोड़ना लगाना चाहते हो, वहा क्रिया विशेषण लगाईये."
+                frazo-sana: "वह तन्दुरुस्त हैं."
+                frazo-sane: "वह स्वास्थ्य जिंदगी जी रहा हैं."
+                frazo-sani: "उसकी स्वास्थ्य ठीक हो रहा हैं."
+                frazo-sano: "वह स्वास्थ्य लड़का हैं."
+              vortoj: 
+                sana: तंदुरुस्त
+                sane: "आरोग्य से"
+                sani: तंदुरुस्त
+                sano: तबीयत
+          pagxo02: 
+            numeraloj: संख्यावाचक
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "संख्यावाचक विशेषण"
+              adjektivoj-el-numeraloj-ekzpliko: "सामान्य संख्यावाचक शब्द के अंत हम \\\"a\\\" उपयोग करते, क्यूंकि इनके अंत मैं हम \\\"a\\\", और इस वजह से वह शब्द बहुवचन अक्षर (-j) और कर्मकारक अक्षर (-n) उपयोग कर सकते हैं."
+              frazoj: 
+                frazo-adjektivoj-1: "पहले बच्चे ए हैं."
+                frazo-adjektivoj-2: "उसने उसका तीसरा कीठक पकड़ा हैं."
+              vortoj: 
+                dek: दस
+                dek-naux: उन्नीस
+                dek-nauxa: उन्नीसवा
+                deka: दसवा
+                tri: तीन
+                tria: तीसरा
+            adverboj: 
+              adverboj-el-numeraloj: "संख्यावाचक किर्या विशेषण"
+              adverboj-el-numeraloj-ekzpliko: "संख्य्वाचक शब्दों को \"e\" से अंत करते हैं जिससे हम क्रिया विशेषण बनाते हैं:"
+              frazoj: 
+                frazo-adverboj-1: "वह पहले पानी पिता हैं."
+              vortoj: 
+                du: दो
+                due: दूसरे
+                unu: एक
+                unue: पहले
+          pagxo05: 
+            atendi: "इंतज़ार करना"
+            demandi: "सवाल करना"
+            fumi: फूंकना
+            horo: वक्त
+            jaro: साल
+            kuri: दौड़ाना
+            mateno: प्रातःकाल
+            minuto: क्षण
+            nokto: रात
+            peti: "अनुरोध करना"
+            promeni: "पैदल यात्रा करना"
+            respondi: "जवाब देना"
+            semajno: सप्ताह
+            soifi: प्यासा
+            tago: दिन
+            vespero: शाम
+            vivi: "जीवित होना"

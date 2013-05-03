@@ -1,0 +1,74 @@
+--- 
+ko: 
+  views: 
+    kurso: 
+      leciono03: 
+        lecionoj: 
+          pagxo01: 
+            adverboj: 
+              adverboj: 부사
+              adverboj-ekzpliko-1: |-
+                  부사는 형용사와 마찬가지로 기능한다. 그러나 형용사는 명사를 수식함에 비해, 부사는 동사나 형용사를 꾸미게 됩니다. 그러나 부사는 <J>같은 복수어미는 붙지 않습니다. 
+                  일반적으로 부사는 방법,원인,시간, 장소 등을 나타냅니다.수식하는대신에 ,부사는 동사나 형용사를 
+                  수식하는 역할을 한다. 그러나 부사는 어미(-e)를 가진다.일반적으로 부사는 방법,원인, 시간, 장소를 표현한다.
+              adverboj-ekzpliko-2: "에스페란토에서 부사는 일반적으로 어미(-e)로 끝난다. (이는 그 부사가 어떤 낱말에서 파생되면 그러합니다.) 어근을 나타내는 기본 의미는  에스페란토의 여러 문법적 어미들을 활용하여 다양하게 쓰일 수 있습니다. 즉 한 어근 만 알면 명사는<O>, 형용사는 <A> 부사는 <E>, 동사는 <-i, -as,-is,-os,- u>등을 붙여  나타낼 수 있습니다.낱말에서 파생되었을 때는언제나 그러하다.즉 <파생부사>라 함) 어근에서 표현된기본 사상은 어미에서 간단한 변화로 인해 다양하게 표현될 수 있다."
+              frazoj: 
+                adverboj-rimarkigo: "부사는 보통 그 부사가 꾸며주는 낱말 앞에 놓는다."
+                frazo-sana: "그는 건강하다."
+                frazo-sane: "그는 건강하게 살고 있다."
+                frazo-sani: "그는 건강하다."
+                frazo-sano: "그는 좋은 건강을 유지(가지고) 있다."
+              vortoj: 
+                sana: "건강한, 건강하다"
+                sane: 건강하게
+                sani: "건강해지다,건강하게 되다"
+                sano: 건강
+          pagxo02: 
+            numeraloj: 수사
+          pagxo04: 
+            adjektivoj: 
+              adjektivoj-el-numeraloj: "수사에서 나온 부사들"
+              adjektivoj-el-numeraloj-ekzpliko: |-
+                  서열을 나타내는 수사(즉, 서수사)는 수사에 어미(-a)를 붙이면 됩니다. 또 이 서수사들은 형용사처럼 쓰이기 때문에 복수어미<J>와 목적격어미<N>를 붙일 수 있습니다.된다.
+                  그 서수사들이 어미(-a)를 가짐으로해서 복수어미(-j-)와목적격어미(-n)을 받을 수 있다.
+              frazoj: 
+                frazo-adjektivoj-1: "맨 처음의(제일의) 소년들이 오고 있다."
+                frazo-adjektivoj-2: "그는세째의 곤충(벌레)를 잡았다."
+              vortoj: 
+                dek: "열(십,10)"
+                dek-naux: "dek naŭ십구(19)"
+                dek-nauxa: "(dek-naŭ)열 아홉째의"
+                deka: |-
+                    열째의(열번째의)
+                    
+                    열째의(열번째의)
+                tri: 셋(3)
+                tria: 세째의
+            adverboj: 
+              adverboj-el-numeraloj: "수사에서 나온 부사(수부사):"
+              adverboj-el-numeraloj-ekzpliko: "수사에 부사를 만드는 어미<-e>를 붙여 <수부사>로 만든다."
+              frazoj: 
+                frazo-adverboj-1: "그는 맨 먼저 (제일 먼저) 물을 마실 것이다."
+              vortoj: 
+                du: "이(둘,2)"
+                due: "둘째로, 두번째로"
+                unu: "일(하나,1)"
+                unue: "제일로(맨먼저,처음으로)"
+          pagxo05: 
+            atendi: 기다리다
+            demandi: 묻다
+            fumi: 담배피우다
+            horo: "시간,시(60분)"
+            jaro: "년(1년, 한해)"
+            kuri: 달리다
+            mateno: 아침
+            minuto: 분(60초)
+            nokto: 밤
+            peti: "요청,간청하다"
+            promeni: 산책하다
+            respondi: "대답,회신하다"
+            semajno: "일주일,한주간(7일)"
+            soifi: 목마르다
+            tago: 하루(낮)
+            vespero: 저녁
+            vivi: "살다,생활하다"

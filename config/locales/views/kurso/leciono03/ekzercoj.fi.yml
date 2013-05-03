@@ -1,0 +1,22 @@
+--- 
+fi: 
+  views: 
+    kurso: 
+      leciono03: 
+        ekzercoj: 
+          pagxo04: 
+            numeraloj-ekzercoj: Numeraaliharjoitus
+            numeraloj-ekzercoj-instrukcioj: "Kirjoita osoitettuun tilaan numeraali, joka vastaa tekstiä. Vahvista vastauksesi Enter-painikkeella tai napsauttamalla vieressä olevaa painiketta. Pyri jälleen ainakin 70% saavutukseen."
+          pagxo09: 
+            frazo01: "1. Hän (mies) rakastaa häntä (naista)."
+            frazo02: "2. Hän rakastaa sisartaan."
+            frazo03: "3. Hän (nainen) rakastaa häntä (miestä)."
+            frazo04: "4. Ensimmäinen mies rakastaa toista naista."
+            frazo05: "5. Toinen nainen vihaa ensimmäistä miestä."
+            frazo06: "6. Pojat ensin pyysivät kolme kakkua."
+            frazo07: "7. Toiseksi (seuraavaksi) he pyysivät limsaa."
+            frazo08: "8. Myymälä tekee huonosti pienen leivän."
+            frazo09: "9. Aamulla veljeni kävelee."
+            frazo10: "10. Ystäväsi lämpimästi vastasi."
+            frazo11: "11. Opettaja kirjoitta hyvin."
+            frazo12: "12. Vanha nainen elää terveesti."
