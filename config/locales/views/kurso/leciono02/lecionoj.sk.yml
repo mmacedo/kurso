@@ -1,0 +1,81 @@
+--- 
+sk: 
+  views: 
+    kurso: 
+      leciono02: 
+        lecionoj: 
+          pagxo01: 
+            frazoj: 
+              frazo-amikino: "Pekná priateľka"
+              frazo-patrino: "Dobrá matka"
+              frazo-virino: "Veľké ženy"
+            sufikso-ino: "Koncovka -ino"
+            sufikso-ino-ekspliko-1: "V prvej lekcii sme mohli vidieť, že v esperante sa prídavné mená stotožňujú s podstatným menom v jednotnom i množnom čísle. Nikdy sa však nemenia v závyslosti na rode (ženskom či mužskom)."
+            sufikso-ino-ekspliko-2: "Len podstatné mená označujúce bytosti s pohlavým, umožňujú jeho rozlíšenie, koncovkou \\\"o\\\" pre mužské a \\\"ino\\\" pre ženské."
+            vortoj: 
+              amikino: priateľka
+              amiko: priateľ
+              filino: dcéra
+              filo: syn
+              patrino: matka
+              patro: otec
+              virino: žena
+              viro: muž
+          pagxo02: 
+            akusativo: "Akuzatív (-n)"
+            akusativo-ekzpliko-1: "Iná užitočná koncovka, ktorá nám umožňuje rozoznať priamy predmet vo vete, je koncovka akuzatívu (4. pád). Dáva sa na koniec podstatných i prídavných mien a zámien. To nám umožňuje rozoznať priamy predmet pomocou koncovky \\\"n\\\"."
+            akusativo-ekzpliko-2: "Všimnite si, že koncovku množného čísla (\\\"j\\\") dávame pred akuzatívnu koncovku (\\\"n\\\"), a tá sa vždy nachádza na konci slova. Priamy predmet sa môže objaviť na začiatku, v strede ako aj na konci vety, pričom zmysel vety sa nemení. Pre príklad tri vety, ktorých zmysel zostáva rovnaký:"
+            akusativo-rimarkigo-1: "Pravdou je, že rôzny slovosled môže byť použitý pre zvýraznenie niektorej časti vety. O tom si však povieme neskôr."
+            akusativo-rimarkigo-2: "Po slovese \\\"esti\\\" sa akuzatív nepoužíva, pretože sloveso \\\"esti\\\" už samo o sebe naznačuje, že podmet a príslovka sú zhodné."
+            frazo-plurala: "Umývam nové šálky."
+            frazo-singulara: "Umývam novú šálku."
+          pagxo03: 
+            neado: 
+              frazo01: "Neumyjem novú šálku."
+              frazo02: "On nie je môj brat."
+              frazo03: "Ona nie je moja matka."
+              frazo04: "Tie koláče neboli teplé."
+              neado: Negovanie
+              neado-ekspliko: "Pre vytvorenie zápornej vety postačuje vložiť slovíčko \"ne\" pred sloveso."
+            prefikso-mal: 
+              amiko: priateľ
+              avara: lakomý
+              bela: pekná
+              juna: mladý
+              malamiko: nepriateľ
+              malavara: štedrý
+              malbela: škaredá
+              maljuna: starý
+              malnova: starý
+              nova: nový
+              prefikso-mal: "Predpona \"mal\""
+              prefikso-mal-ekspliko: "Predpona \\\"mal\\\" nám umožňuje vytvoriť slovo, ktorého zmysel je presným opakom slova, z ktorého sme ho vytvorili."
+          pagxo04: 
+            muziko: "Hudba v esperante"
+            muziko-ekzpliko: "Vypočuj si teraz esperantskú pieseň \\\"Jen\\\" (\\\"Hľa\\\"), od argentínskej skupiny \\\"La Porkoj\\\", ocenenej v umeleckých súťažiach Universala Esperanto-Asocio. Skupinu tvorí Alejandro Cossavella (hlas), Pablo Ciancio (bubny), Ignacio Mendizabal (gytara) a Salvador Agustoni (basgytara). Pre spustenie stlačte tlačidlo."
+          pagxo05: 
+            akvo: voda
+            ami: milovať
+            amo: láska
+            birdo: vták
+            butiko: "obchod (butik)"
+            fari: (u)robiť
+            forgesi: zabudnúť
+            havi: mať
+            insekto: hmyz
+            kapti: chytiť
+            lavi: umyť
+            limonado: limonáda
+            papero: papier
+            peti: prosiť
+            plumo: pero
+            porti: niesť
+            pura: čistý
+            renkonti: stretnúť
+            skribi: písať
+            sukeri: sladiť
+            taso: šálka
+            trinki: piť
+            trovi: nájsť
+            vendi: predať
+            vidi: vidieť

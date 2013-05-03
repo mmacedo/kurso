@@ -1,0 +1,19 @@
+--- 
+hu: 
+  views: 
+    kurso: 
+      leciono02: 
+        ekzercoj: 
+          pagxo10: 
+            ekzpliko: "Töltsd ki az üres mezõket a hiányzó betûkkel úgy, hogy a fordítás jó legyen! Tegyél \\\"j\\\" betût a többes számnak és \\\"n\\\" betût a tárgyesetnek, ahol szükséges! Ha befejezted, kattints a gombra! Legalább 70%-ot kell teljesítened."
+          pagxo11: 
+            frazo01: "1. Egy egészséges fiú meleg tejet iszik."
+            frazo02: "2. A régi üzlet nem árul száraz süteményeket."
+            frazo03: "3. A tanár találkozott az új barátokkal."
+            frazo04: "4. Az új barátok egy jó süteményt fognak készíteni."
+            frazo05: "5. A lány nem találta meg a nõvéreket."
+            frazo06: "6. A kis lánytestvér beteg, a fiútestvér egészséges."
+            frazo07: "7. Az apa nem fogja elmosni a kis csészéket."
+            frazo08: "8. A szép madár elkapott egy kicsi rovart."
+            frazo09: "9. A fiú az én régi barátom volt."
+            frazo10: "10. A fiúk nagyszerû barátok voltak."

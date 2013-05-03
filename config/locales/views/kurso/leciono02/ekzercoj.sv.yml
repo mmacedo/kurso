@@ -1,0 +1,23 @@
+--- 
+sv: 
+  views: 
+    kurso: 
+      leciono02: 
+        ekzercoj: 
+          pagxo10: 
+            ekzpliko: |-
+                Fyll i de vita fälten så att frasen stämmer med översättningen. Glöm inte att lägga till plural- 
+                och ackusativändelsen vid behov. När du anser att frasen är korrekt skall du klicka på 
+                knappen nedan eller på Enter-tangenten för att bekräfta ditt beslut. Försök att uppnå minst 
+                70 % rätt innan du går vidare till nästa övning.
+          pagxo11: 
+            frazo01: "1. En frisk pojke dricker varm mjölk."
+            frazo02: "2. Den gamla butiken säljer inte torra kakor."
+            frazo03: "3. Läraren mötte de nya vännerna"
+            frazo04: "4. De nya vännerna kommer att göra (baka) en god kaka."
+            frazo05: "5. Flickan hittade inte systrarna"
+            frazo06: "6. Den lilla systern är sjuk, brodern är frisk"
+            frazo07: "7. Fadern kommer inte att tvätta (diska) de små kopparna."
+            frazo08: "8. Den vackra fågeln fångade en liten insekt."
+            frazo09: "9. Pojken var (har varit) min gamla vän."
+            frazo10: "10. Pojkarna har varit stora (mycket goda) vänner."

@@ -1,0 +1,19 @@
+--- 
+hr: 
+  views: 
+    kurso: 
+      leciono02: 
+        ekzercoj: 
+          pagxo10: 
+            ekzpliko: "Prema prijevodu ispunite prazne prostore dijelom koji nedostaje. Ne zaboravite staviti nastavke za množinu i akuzativ, gdje je to potrebno. Kada ćete biti sigurni, da je rečenica pravilno ispunjena, pritisnite gumb ili Enter radi kontrole. Isto tako najmanje 70%."
+          pagxo11: 
+            frazo01: "1. Zdrav dječak pije toplo mlijeko."
+            frazo02: "2. Stari dučan ne prodaje suhe kolače."
+            frazo03: "3. Učitelj je susreo nove prijatelje."
+            frazo04: "4. Novi prijatelji će načiniti dobar kolač."
+            frazo05: "5. Djevojka nije našla sestre."
+            frazo06: "6. Mala sestra je bolesna, brat je zdrav."
+            frazo07: "7. Otac ne će prati male šalice."
+            frazo08: "8. Lijepa ptica je uhvatila maloga kukca."
+            frazo09: "9. Dječak je bio moj stari prijatelj."
+            frazo10: "10. Dječaci su bili veliki prijatelji."

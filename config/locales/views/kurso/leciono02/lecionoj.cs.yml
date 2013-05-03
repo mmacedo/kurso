@@ -1,0 +1,95 @@
+--- 
+cs: 
+  views: 
+    kurso: 
+      leciono02: 
+        lecionoj: 
+          pagxo01: 
+            frazoj: 
+              frazo-amikino: "Krásná přítelkyně"
+              frazo-patrino: "Dobrá matka"
+              frazo-virino: "Velké ženy"
+            sufikso-ino: "Přípona -ino"
+            sufikso-ino-ekspliko-1: "V první lekci jsme viděli, že přídavná jména v esperantu se shodují v jednotném a množném čísle se jménem podstatným. Na druhé straně se nemění podle rodu (mužského, ženského)."
+            sufikso-ino-ekspliko-2: |-
+                Pouze podstatná jména, která označují bytosti, mohou vyjádřit pohlaví, a to koncovkou -o mužského jedince
+                a koncovkou -ino ženského.
+            vortoj: 
+              amikino: přítelkyně
+              amiko: přítel
+              filino: dcera
+              filo: syn
+              patrino: matka
+              patro: otec
+              virino: žena
+              viro: muž
+          pagxo02: 
+            akusativo: "Akuzativ (-n)"
+            akusativo-ekzpliko-1: "Jde o další velmi užitečnou koncovku, která nám umožňuje označit ve větě přímý předmět. Je to vlastně 4. pád (tzv. akuzativ) a dáváme ho na konec podstatných a přídavných jmen i zájmen v obou číslech. Takže přímý předmět  vyjadřujeme koncovkou -n."
+            akusativo-ekzpliko-2: "Všimněte si, že koncovku množného čísla klademe před koncovku 4. pádu, která leží vždy na konci slova. Přímý předmět se může objevit na začátku, uprostřed nebo na konci věty, což nemění smysl označený akuzativem. Zde jsou tři věty, jejichž smysl je shodný:"
+            akusativo-rimarkigo-1: "Odlišný slovosled může přesto poněkud odstínit významy. To probereme v dalších lekcích."
+            akusativo-rimarkigo-2: "Po slovese \\\"esti\\\" nepoužívejte 4. pád, protože toto sloveso již samo o sobě říká, že podmět a doplněk označují tutéž bytost nebo věc."
+            frazo-plurala: "Umývám nové šálky."
+            frazo-singulara: "Umývám nový šálek."
+          pagxo03: 
+            neado: 
+              frazo01: "Neumyji nový šálek."
+              frazo02: "On není můj bratr."
+              frazo03: "Ona není má matka."
+              frazo04: "Koláče nebyly teplé."
+              neado: Zápor
+              neado-ekspliko: "Pro vytvoření záporné věty stačí dát před sloveso slůvko \"ne\"."
+            prefikso-mal: 
+              amiko: přítel
+              avara: lakomý
+              bela: krásný
+              juna: mladý
+              malamiko: nepřítel
+              malavara: štědrý
+              malbela: škaredý
+              maljuna: starý
+              malnova: starý
+              nova: nový
+              prefikso-mal: "Předpona \"mal\""
+              prefikso-mal-ekspliko: "Předpona \\\"mal\\\" nám dovoluje tvořit slova, jejichž smysl je opakem slova, k němuž je připojena."
+          pagxo04: 
+            muziko: "Hudba v esperantu"
+            muziko-ekzpliko: |+
+                Poslechněme si nyní esperantský šanson argentinské skupiny \"La Porkoj\", oceněný v uměleckých soutěžích Světového esperanstkého svazu. Skupinu tvoří Alejandro Cussavella (hlas), Pablo Ciancio (bicí), Ignacio Mendizabal (kytary) a Salvádor Agustorii (baskytara). Kliknutím na buton spustíte píseň.
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+          pagxo05: 
+            akvo: voda
+            ami: milovat
+            amo: láska
+            birdo: pták
+            butiko: obchůdek
+            fari: "dělat, udělat"
+            forgesi: zapomenout
+            havi: mít
+            insekto: "hmyz (1 kus)"
+            kapti: chytit
+            lavi: "mýt, prát"
+            limonado: limonáda
+            papero: papír
+            peti: prosit
+            plumo: pero
+            porti: "nést, nosit"
+            pura: čistý
+            renkonti: potkat
+            skribi: "psát, napsat"
+            sukeri: "sladit, pocukrovat"
+            taso: šálek
+            trinki: pít
+            trovi: nalézt
+            vendi: prodat
+            vidi: vidět

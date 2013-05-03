@@ -1,0 +1,19 @@
+--- 
+ca: 
+  views: 
+    kurso: 
+      leciono02: 
+        ekzercoj: 
+          pagxo10: 
+            ekzpliko: "Segons la traducció, empleneu els espais blancs amb la part que falta. No us oblideu de posar-hi el plural i els acusatius allà on calgui. Quan vegeu que la frase és totalment correcta, feu clic en el botó o premeu la tecla retorn per confirmar-ho. Intenteu encertar-ne almenys un 70%."
+          pagxo11: 
+            frazo01: "Un noi sa beu llet calenta."
+            frazo02: "La botiga antiga no ven pastissos secs."
+            frazo03: "El professor va trobar-se amb els nous amics."
+            frazo04: "Els nous amics faran un bon pastís."
+            frazo05: "La noia no va trobar les germanes."
+            frazo06: "La germana petita està malalta, el germà està sa."
+            frazo07: "El pare no rentarà les tasses petites."
+            frazo08: "El bonic ocell va capturar un petit insecte."
+            frazo09: "El noi era el meu vell amic."
+            frazo10: "Els nois eren grans amics."

@@ -1,0 +1,81 @@
+--- 
+hu: 
+  views: 
+    kurso: 
+      leciono02: 
+        lecionoj: 
+          pagxo01: 
+            frazoj: 
+              frazo-amikino: "A szép barátnõ"
+              frazo-patrino: "A jó anya"
+              frazo-virino: "A nagy nõk"
+            sufikso-ino: "Végzõdés -ino"
+            sufikso-ino-ekspliko-1: "Az elsõ leckében láttuk, hogy az eszperantóban a melléknevek egyes és többes száma egyeztetve van a fõnévvel; amikor a fõnév egyes számú, a melléknév is az, amikor pedig többes számú, akkor a melléknév szintén az."
+            sufikso-ino-ekspliko-2: "Csak a fõnevek jelezhetik a nemet, amikor szükséges: \\\"o\\\" végzõdéssel, ha férfi, és \\\"ino\\\" végzõdéssel, ha nõ."
+            vortoj: 
+              amikino: barátnõ
+              amiko: barát
+              filino: lánygyermek
+              filo: fiúgyermek
+              patrino: anya
+              patro: apa
+              virino: nõ
+              viro: férfi
+          pagxo02: 
+            akusativo: "Tárgyeset (-n)"
+            akusativo-ekzpliko-1: "Van egy másik nagyon hasznos végzõdés, amely lehetõvé teszi számunkra, hogy azonosítsuk a közvetlen tárgyat a mondatban. A tárgyesetrõl van szó, amelyet az \\\"n\\\" betûvel jelölünk a fõnevek, melléknevek és a névmások esetében."
+            akusativo-ekzpliko-2: "Jegyezd meg, hogy a többes szám jelét a tárgyeset jele elé tesszük! Tehát a tárgyeset \\\"n\\\" jele mindig a szó végére kerül. A közvetlen tárgy lehet a mondat elején, közepén vagy a végén értelemváltozás nélkül. A következõ három mondatnak ugyanaz az értelme:"
+            akusativo-rimarkigo-1: "A szórend változtatásával hangsúlyt adhatunk a mondatnak. Ezt látni fogjuk egy késõbbi leckében."
+            akusativo-rimarkigo-2: "A tárgyesetet nem használjuk az \\\"esti\\\" (lenni) ige után, mert ez az ige magában foglalja azt, hogy az alany és a tárgy egyenértékû."
+            frazo-plurala: "Elmosom az új csészéket."
+            frazo-singulara: "Elmosom az új csészét."
+          pagxo03: 
+            neado: 
+              frazo01: "Nem fogom elmosni az új csészét."
+              frazo02: "Õ(férfi) nem az én testvérem."
+              frazo03: "Õ(nõ) nem az én anyám."
+              frazo04: "A sütemények nem voltak forróak."
+              neado: Tagadás
+              neado-ekspliko: "Ahhoz, hogy egy tagadó mondatot szerkesszünk, elegendõ, ha az ige elé a \\\"ne\\\" szót tesszük."
+            prefikso-mal: 
+              amiko: barát
+              avara: "fukar, fösvény"
+              bela: szép
+              juna: fiatal
+              malamiko: ellenség
+              malavara: "bõkezû, adakozó"
+              malbela: csúnya
+              maljuna: öreg
+              malnova: régi
+              nova: új
+              prefikso-mal: "\"mal\" elõképzõ"
+              prefikso-mal-ekspliko: "A \\\"mal\\\" elõképzõ lehetõvé teszi számunkra, hogy az eredeti szóval ellentétes értelmû szót alkossunk."
+          pagxo04: 
+            muziko: "Zene eszperantó nyelven"
+            muziko-ekzpliko: "Hallgassuk most az argentin \\\"La Porkoj\\\" együttestõl a \\\"Jen\\\" sanzont, amely az Egyetemes Eszperantó Szövetség mûvészeti versenyein nyert díjat. Az együttes tagjai: Alejandro Cossavella (ének), Pablo Ciancio (dob), Ignacio Mendizabal (gitár) és Salvador Agustoni (basszusgitár). Kattints a gombra a sanzon meghalgatásához!"
+          pagxo05: 
+            akvo: víz
+            ami: "szeretni, imádni"
+            amo: szeretet
+            birdo: madár
+            butiko: üzlet
+            fari: "tenni, csinálni"
+            forgesi: elfelejteni
+            havi: birtokolni
+            insekto: rovar
+            kapti: megfogni
+            lavi: mosni
+            limonado: limonádé
+            papero: papír
+            peti: "kérni, kérelmezni"
+            plumo: "(madár)toll, toll"
+            porti: "vinni, viselni"
+            pura: tiszta
+            renkonti: találkozni
+            skribi: írni
+            sukeri: "cukrot hozzáadni"
+            taso: csésze
+            trinki: inni
+            trovi: találni
+            vendi: eladni
+            vidi: látni
