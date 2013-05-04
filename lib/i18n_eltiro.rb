@@ -41,6 +41,10 @@ module I18nEltiro
       @skribantoj = I18nEltiro.konstrui_skribantoj(Rails.root, eliga)
     end
 
+    def printi_difektoj
+      @trd_dosieroj.each(&method(:legi))
+    end
+
     def konverti
       Parallel.each(@trd_dosieroj, in_processes: @procezoj) do |dosiero|
         begin

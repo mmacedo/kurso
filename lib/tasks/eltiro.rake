@@ -5,6 +5,11 @@ def desc_eltiro_i18n(kio)
 end
 
 namespace :eltiro do
+  desc "Printi difektoj en la tradukoj de kurso-desktop"
+  task 'i18n:difektoj' => :environment do
+    I18nEltiro::Konvertilo.new.printi_difektoj
+  end
+
   desc_eltiro_i18n "ĉiuj lokaĵoj"
   task 'i18n' => :environment do
     I18nEltiro::Konvertilo.new.konverti
