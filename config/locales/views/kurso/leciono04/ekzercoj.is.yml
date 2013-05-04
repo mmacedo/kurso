@@ -1,0 +1,18 @@
+--- 
+is: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. Safnar faðir þinn frímerkjum?"
+            frazo02: "2. Gleymdi sonurinn mjólkinni?"
+            frazo03: "3. Borða börnin samloku?"
+            frazo04: "4. Drekkur heilbrigður drengur mjólk?"
+            frazo05: "5. Þvær faðirinn litlu bollana?"
+            frazo06: "6. Gleymdi nýi kennarinn bókinni?"
+            frazo07: "7. Selja þeir te og kaffi?"
+            frazo08: "8. Skrifar veika dóttirin illa?"
+            frazo09: "9. Eru þeir góðir vinir?"
+            frazo10: "10. Selur bróðir þinn bækur og blöð?"
+            traduku: "Þýddu á esperanto (en svaraðu ekki spurningunum):"

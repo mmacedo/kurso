@@ -1,0 +1,18 @@
+--- 
+hu: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. Gyûjt a te apád bélyegeket?"
+            frazo02: "2. Megfeledkezett-e a fiú(gyermek) a tejrõl?"
+            frazo03: "3. Vajon a gyereket esznek szendvicset?"
+            frazo04: "4. Iszik-e egy egészséges fiú tejet?"
+            frazo05: "5. El fogja-e mosni az apa a kicsi csészéket?"
+            frazo06: "6. Megfeledkezett-e az új tanárnõ a könyvrõl?"
+            frazo07: "7. Árulnak-e õk teát és kávét?"
+            frazo08: "8. Rosszul ír-e a beteg lánygyermek?"
+            frazo09: "9. Jó barátok-e õk?"
+            frazo10: "10. Vajon a testvéred árul könyveket és újságokat?"
+            traduku: "Fordítsd eszperantóra (a kérdések megválaszolása nélkül):"

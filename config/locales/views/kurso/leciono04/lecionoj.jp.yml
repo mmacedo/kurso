@@ -1,0 +1,100 @@
+--- 
+jp: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: やあ!
+            saluto02: こんにちは!
+            saluto03: おはよう!
+            saluto04: こんばんは!
+            saluto05: おやすみなさい!
+            saluto06: お元気ですか?
+            saluto07: "元気です、ありがとう。 あなたはどうですか?"
+            saluto08: じゅうぶんいいです。
+            saluto09: あまりよくありません。
+            saluto10: さあめし上がれ!(食事を勧める)
+            saluto11: "あなたも同じく。 ありがとう!"
+            saluto12: あなたの健康のために!(乾杯のときの決まり文句)
+            saluto13: また会いましょう(さようなら)!
+            saluto14: さようなら!
+            salutoj: あいさつ
+          pagxo02: 
+            relativoj: 
+              hieraŭ: 昨日(きのう)
+              hodiaŭ: 今日(きょう)
+              morgaŭ: 明日(あした)
+            semajno: 
+              dimanĉo: 日曜日
+              lundo: 月曜日
+              mardo: 火曜日
+              merkredo: 水曜日
+              sabato: 土曜日
+              vendredo: 金曜日
+              ĵaŭdo: 木曜日
+            tagoj: 1週間の曜日
+          pagxo03: 
+            datoj: 
+              datoj: 日付
+              datoj-ekzpliko: "日付を言うには次の例をまねてください(\"tago\" と \"en la jaro\" の意味はもう分かりますね):"
+            monatoj: 
+              aprilo: 4月
+              aŭgusto: 8月
+              decembro: 12月
+              februaro: 2月
+              januaro: 1月
+              julio: 7月
+              junio: 6月
+              majo: 5月
+              marto: 3月
+              monatoj: 1年の月
+              novembro: 11月
+              oktobro: 10月
+              septembro: 9月
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "平叙文(へいじょぶん):"
+                aserto-frazo: そのパンは乾いています。
+              demandaj: 疑問文（ぎもんぶん）
+              demandaj-ekzpliko: "疑問文は平叙文の先頭に \"Ĉu\" を付けるだけでできます。 エスペラントでは、語順は変わらず単に文の先頭に\"Ĉu\" を付けるだけでいいことに注意して下さい。 これは、はい(jes)・いいえ(ne)で答えられる疑問文すべてについていえることです。"
+              demando: 
+                demando: "質問:"
+                demando-frazo: そのパンは乾いていますか?
+              respondo: 
+                respondo: "答え:"
+                respondo-frazo-negativa: いいえ、そのパンは乾いていません。
+                respondo-frazo-pozitiva: はい、そのパンは乾いています。
+          pagxo05: 
+            infano: こども
+            kaj: ～と～
+            kolekti: 集める
+            kongreso: 大会
+            lando: 国
+            leciono: 授業、レッスン
+            lernejo: 学校
+            libro: 本
+            manĝi: 食べる
+            mejlo: "マイル(距離の単位。 約1.6km)"
+            monujo: 財布(さいふ)
+            neŭtrala: 中立な
+            ovo: たまご
+            poŝtmarko: 切手(きって)
+            sandviĉo: サンドウィッチ
+            sporto: スポーツ
+            veni: 来る
+            vojaĝi: 旅行する
+            ĵurnalo: 新聞
+            ŝuo: くつ
+          pagxo06: 
+            tekstokompreno: 読解
+            tekstokompreno-ekzpliko: エスペラントを勉強している人が書いた下の文章を読んで、次の単語表を使って理解しましょう。
+            vortaro: 
+              alia: ほかの
+              antaŭ: 以前に、～の前に
+              facila: やさしい
+              interŝanĝi: 交換する
+              komenci: はじめる
+              lerni: 勉強する
+              tre: とても

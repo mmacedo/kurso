@@ -1,0 +1,18 @@
+--- 
+eo: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. Ĉu via patro kolektas poŝtmarkojn?"
+            frazo02: "2. Ĉu la filo forgesis la lakton?"
+            frazo03: "3. Ĉu la infanoj manĝas sandviĉon?"
+            frazo04: "4. Ĉu sana knabo trinkas lakton?"
+            frazo05: "5. Ĉu la patro lavos la malgrandajn tasojn?"
+            frazo06: "6. Ĉu la nova instruistino forgesis la libron?"
+            frazo07: "7. Ĉu ili vendas teon kaj kafon?"
+            frazo08: "8. Ĉu la malsana filino malbone skribas?"
+            frazo09: "9. Ĉu ili estas bonaj amikoj?"
+            frazo10: "10. Ĉu via frato vendas librojn kaj ĵurnalojn?"
+            traduku: "Traduku al Esperanto (ne respondante al la demandoj):"

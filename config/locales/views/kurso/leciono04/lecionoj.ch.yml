@@ -1,0 +1,100 @@
+--- 
+ch: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: 您好！
+            saluto02: 日安！
+            saluto03: 早上好！
+            saluto04: 晚上好！
+            saluto05: 晚安！
+            saluto06: 你身体好吗？
+            saluto07: 很好，谢谢。你好吗？
+            saluto08: 非常好。
+            saluto09: 不太好。
+            saluto10: 祝您好胃口！
+            saluto11: 也祝愿您，谢谢！
+            saluto12: 为了您的健康(干杯)！
+            saluto13: 再见！
+            saluto14: 别了！
+            salutoj: 问候
+          pagxo02: 
+            relativoj: 
+              hieraŭ: 昨天
+              hodiaŭ: 今天
+              morgaŭ: 明天
+            semajno: 
+              dimanĉo: 星期天
+              lundo: 星期一
+              mardo: 星期二
+              merkredo: 星期三
+              sabato: 星期六
+              vendredo: 星期五
+              ĵaŭdo: 星期四
+            tagoj: 星期的表达方法
+          pagxo03: 
+            datoj: 
+              datoj: 日期的表达方法
+              datoj-ekzpliko: "请按范例表达日期，句中的“tago”和“en la jaro”可以意会，所以不必再重复。"
+            monatoj: 
+              aprilo: 四月
+              aŭgusto: 八月
+              decembro: 十二月
+              februaro: 二月
+              januaro: 一月
+              julio: 七月
+              junio: 六月
+              majo: 五月
+              marto: 三月
+              monatoj: 十二个月的表达方法
+              novembro: 十一月
+              oktobro: 十月
+              septembro: 九月
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: 判断句：
+                aserto-frazo: 面包是干的。
+              demandaj: 疑问句
+              demandaj-ekzpliko: 如果每个问题都是建立在肯定或否定之上，只需在句首加上“ĉu”。注意在世界语里疑问词“ĉu”总是位于句首。这对所有需要用“jes”或“ne”来回答的句子都是一样。
+              demando: 
+                demando: 疑问句：
+                demando-frazo: 面包是干的吗？
+              respondo: 
+                respondo: 回答：
+                respondo-frazo-negativa: 不，面包不是干的。
+                respondo-frazo-pozitiva: 是的，面包是干的。
+          pagxo05: 
+            infano: 儿童
+            kaj: 和
+            kolekti: 收集，收藏
+            kongreso: 大会
+            lando: 国家
+            leciono: 课，课程
+            lernejo: 学校
+            libro: 书
+            manĝi: 吃
+            mejlo: 英里
+            monujo: 钱包
+            neŭtrala: 中性的
+            ovo: 蛋，卵
+            poŝtmarko: 邮票
+            sandviĉo: 三明治，夹心面包
+            sporto: 体育运动
+            veni: 来
+            vojaĝi: 旅行
+            ĵurnalo: 日报，报纸
+            ŝuo: 鞋
+          pagxo06: 
+            tekstokompreno: 理解课文
+            tekstokompreno-ekzpliko: 阅读下面这篇由学生写的短文，并试着结合生词表理解。
+            vortaro: 
+              alia: 其他的，另外的
+              antaŭ: 在……之前
+              facila: 容量的，简单的
+              interŝanĝi: 交换
+              komenci: 开始
+              lerni: 学习
+              tre: 很，非常

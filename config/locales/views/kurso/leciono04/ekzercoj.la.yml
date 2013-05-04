@@ -1,0 +1,18 @@
+--- 
+la: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. Vai jūsu tēvs kolekcionē pastmarkas?"
+            frazo02: "2. Vai dēls aizmirsa pienu?"
+            frazo03: "3. Vai bērni ēd sendvičus?"
+            frazo04: "4. Vai veselīgs zēns dzer pienu?"
+            frazo05: "5. Vai tēvs mazgās mazās tases?"
+            frazo06: "6. Vai jaunā skolotāja aizmirsa grāmatu?"
+            frazo07: "7. Vai viņi pārdod tēju un kafiju?"
+            frazo08: "8. Vai slimā meita slikti raksta?"
+            frazo09: "9. Vai viņi ir labi draugi?"
+            frazo10: "10 Vai jūsu brālis pārdod grāmatas un žurnālus?"
+            traduku: "Pārtulkojiet esperanto valodā (neatbildot uz jautājumiem):"

@@ -1,0 +1,100 @@
+--- 
+hr: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: Zdravo!
+            saluto02: "Dobar dan!"
+            saluto03: "Dobro jutro!"
+            saluto04: "Dobar večer!"
+            saluto05: "Laku noć!"
+            saluto06: "Kako ste?"
+            saluto07: "Dobro, hvala. A vi?"
+            saluto08: "Dosta dobro."
+            saluto09: "Ne baš (vrlo) dobro."
+            saluto10: "Dobar tek!"
+            saluto11: "Isto i vama, hvala!"
+            saluto12: Nazdravlje!
+            saluto13: Doviđenja!
+            saluto14: Zbogom!
+            salutoj: Pozdravi
+          pagxo02: 
+            relativoj: 
+              hieraŭ: jučer
+              hodiaŭ: danas
+              morgaŭ: sutra
+            semajno: 
+              dimanĉo: nedjelja
+              lundo: ponedjeljak
+              mardo: utorak
+              merkredo: srijeda
+              sabato: subota
+              vendredo: petak
+              ĵaŭdo: četvrtak
+            tagoj: "Dani u tjednu"
+          pagxo03: 
+            datoj: 
+              datoj: Nadnevci
+              datoj-ekzpliko: "Da bi se izrazio nadnevak slijedite model (riječi \"dan\" i \"godine\" se podrazumijevaju):"
+            monatoj: 
+              aprilo: travanj
+              aŭgusto: kolovoz
+              decembro: prosinac
+              februaro: veljača
+              januaro: siječanj
+              julio: srpanj
+              junio: lipanj
+              majo: svibanj
+              marto: ožujak
+              monatoj: "Mjeseci u godini"
+              novembro: studeni
+              oktobro: listopad
+              septembro: rujan
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "Tvrdnja:"
+                aserto-frazo: "Kruh je suh."
+              demandaj: "Upitne rečenice"
+              demandaj-ekzpliko: "Upitna rečenica dobiva na svom početku riječcu \"ću\". Pazite da se redoslijed riječi ne mijenja. Samo \"ću\" uvijek dolazi na početak. To se odnosi na upitne rečenice čiji odgovor slijedi sa \"jes\" ili \"ne\"."
+              demando: 
+                demando: "Pitanje:"
+                demando-frazo: "Dali je kruh suh?"
+              respondo: 
+                respondo: "Odgovor:"
+                respondo-frazo-negativa: "Ne, kruh nije suh."
+                respondo-frazo-pozitiva: "Da, kruh je suh."
+          pagxo05: 
+            infano: dijete
+            kaj: i
+            kolekti: sakupljati
+            kongreso: kongres
+            lando: zemlja
+            leciono: lekcija
+            lernejo: škola
+            libro: knjiga
+            manĝi: jesti
+            mejlo: milja
+            monujo: novčanik
+            neŭtrala: neutralan
+            ovo: jaje
+            poŝtmarko: "poštanska marka"
+            sandviĉo: sendvič
+            sporto: šport
+            veni: doći
+            vojaĝi: putovati
+            ĵurnalo: novine
+            ŝuo: cipela
+          pagxo06: 
+            tekstokompreno: "Razumijevanje teksta"
+            tekstokompreno-ekzpliko: "Čitajte doljnji tekst, kojeg je napisao učenik Esperanta, i pokušajte ga razumjeti pomoću riječnika."
+            vortaro: 
+              alia: "drugi (ini)"
+              antaŭ: ispred
+              facila: lak
+              interŝanĝi: razmjenivati
+              komenci: početi
+              lerni: učiti
+              tre: vrlo

@@ -1,0 +1,22 @@
+--- 
+nl: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. Verzamelt je vader postzegels?"
+            frazo02: |-
+                2. Heeft de zoon de melk vergeten? 
+                (Vertaal: Vergat de zoon de melk?)
+            frazo03: "3. Eten de kinderen een sandwich?"
+            frazo04: "4. Drinkt een gezonde jongen melk?"
+            frazo05: "5. Zal de vader de kleine kopjes wassen?"
+            frazo06: |-
+                6. Heeft de nieuwe lerares het boek vergeten?
+                 (Vertaal: Vergat de nieuwe lerares het boek?)
+            frazo07: "7. Verkopen zij thee en Koffie?"
+            frazo08: "8. Schrijft de zieke dochter slecht?"
+            frazo09: "9. Zijn zij goede vrienden?"
+            frazo10: "10. Verkoopt uw broer boeken en dagbladen?"
+            traduku: "Vertaal in Esperanto (zonder de vragen te beantwoorden):"

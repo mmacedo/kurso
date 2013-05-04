@@ -1,0 +1,100 @@
+--- 
+hu: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: Szervusz!
+            saluto02: "Jó napot!"
+            saluto03: "Jó reggelt!"
+            saluto04: "Jó estét!"
+            saluto05: "Jó éjszakát!"
+            saluto06: "Hogy vagy?"
+            saluto07: "Köszönöm, jól.  És te?"
+            saluto08: "Elég jól."
+            saluto09: "Nem nagyon jól."
+            saluto10: "Jó étvágyat!"
+            saluto11: "Köszönöm, viszont kívánom!"
+            saluto12: "Egészségedre!   Egészségére!"
+            saluto13: Viszontlátásra!
+            saluto14: "Isten veled!    Viszontlátásra!"
+            salutoj: Köszöntések
+          pagxo02: 
+            relativoj: 
+              hieraŭ: tegnap
+              hodiaŭ: ma
+              morgaŭ: holnap
+            semajno: 
+              dimanĉo: Vasárnap
+              lundo: Hétfõ
+              mardo: Kedd
+              merkredo: Szerda
+              sabato: Szombat
+              vendredo: Péntek
+              ĵaŭdo: Csütörtök
+            tagoj: "A hét napjai"
+          pagxo03: 
+            datoj: 
+              datoj: "Dátum, idõpont, keltezés"
+              datoj-ekzpliko: "A dátum kifejezéséhez kövesd a példát.  A \\\"tago\\\" és az \\\"en la jaro\\\" hozzágondolt,  ezért nem szükséges megemlíteni."
+            monatoj: 
+              aprilo: Április
+              aŭgusto: Augusztus
+              decembro: December
+              februaro: Február
+              januaro: Január
+              julio: Július
+              junio: Június
+              majo: Május
+              marto: Március
+              monatoj: "Az év hónapjai"
+              novembro: November
+              oktobro: Október
+              septembro: Szeptember
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "Kijelentés:"
+                aserto-frazo: "A kenyér száraz."
+              demandaj: "Kérdõ mondatok"
+              demandaj-ekzpliko: "Az összes kérdés a kijelentésre épül, csak elékerül a \\\"Ĉu\\\" szó. Jegyezd meg, hogy a szórend nem változik meg, csak a \\\"Ĉu\\\" szó kerül a mondat elé. Ez érvényes az összes olyan kérdésre, amelyre \\\"igen\\\"-nel  vagy \\\"nem\\\"-mel lehet válaszolni."
+              demando: 
+                demando: "Kérdés:"
+                demando-frazo: "Száraz a kenyér?"
+              respondo: 
+                respondo: "Válasz:"
+                respondo-frazo-negativa: "Nem, a kenyér nem száraz."
+                respondo-frazo-pozitiva: "Igen, a kenyér száraz."
+          pagxo05: 
+            infano: gyermek
+            kaj: és
+            kolekti: gyûjteni
+            kongreso: kongresszus
+            lando: ország
+            leciono: lecke
+            lernejo: iskola
+            libro: könyv
+            manĝi: enni
+            mejlo: mérföld
+            monujo: pénztárca
+            neŭtrala: semleges
+            ovo: tojás
+            poŝtmarko: postabélyeg
+            sandviĉo: szendvics
+            sporto: sport
+            veni: jönni
+            vojaĝi: utazni
+            ĵurnalo: újság
+            ŝuo: cipõ
+          pagxo06: 
+            tekstokompreno: Szövegértés
+            tekstokompreno-ekzpliko: "Olvasd el az alábbi szöveget, amelyet egy eszperantó diák írt, és próbáld megérteni a szókészlet segítségével!"
+            vortaro: 
+              alia: "másik, egy másik"
+              antaŭ: elõtte
+              facila: könnyû
+              interŝanĝi: cserélni
+              komenci: kezdeni
+              lerni: tanulni
+              tre: nagyon

@@ -1,0 +1,100 @@
+--- 
+sk: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: Ahoj!
+            saluto02: "Dobrý deň!"
+            saluto03: "Dobré ráno!"
+            saluto04: "Dobrý večer!"
+            saluto05: "Dobrú noc!"
+            saluto06: "Ako sa máš?"
+            saluto07: "Dobre, ďakujem. A ty?"
+            saluto08: "Celkom (dosť) dobre."
+            saluto09: "Nie veľmi dobre."
+            saluto10: "Dobrú chuť!"
+            saluto11: "Nápodobne, ďakujem!"
+            saluto12: "Na tvoje zdravie!"
+            saluto13: Dovidenia.
+            saluto14: Zbohom!
+            salutoj: Pozdravy
+          pagxo02: 
+            relativoj: 
+              hieraŭ: včera
+              hodiaŭ: dnes
+              morgaŭ: zajtra
+            semajno: 
+              dimanĉo: nedeľa
+              lundo: pondelok
+              mardo: utorok
+              merkredo: streda
+              sabato: sobota
+              vendredo: piatok
+              ĵaŭdo: štvrtok
+            tagoj: "Dni v týždni"
+          pagxo03: 
+            datoj: 
+              datoj: Dátumy
+              datoj-ekzpliko: "Dátumy vyjadríte nasledovným spôsobom. Slová \"tago\" a \"en la jaro\" sa obyčajne už neuvádzajú."
+            monatoj: 
+              aprilo: apríl
+              aŭgusto: august
+              decembro: december
+              februaro: február
+              januaro: január
+              julio: júl
+              junio: jún
+              majo: máj
+              marto: marec
+              monatoj: "Mesiace v roku"
+              novembro: november
+              oktobro: október
+              septembro: september
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: Tvrdenie
+                aserto-frazo: "Ten chlieb je suchý."
+              demandaj: "Opytovacie vety"
+              demandaj-ekzpliko: "Každá otázka sa tvorí jednoduchým položením slovíčka \\\"ĉu\\\" na začiatok vety. Dajte pozor na to, že slovosled sa nemení. To platí pre všetky otázky, na ktoré sa dá odpovedať \\\"áno\\\" alebo \\\"nie\\\"."
+              demando: 
+                demando: Otázka
+                demando-frazo: "Je ten chlieb suchý?"
+              respondo: 
+                respondo: Odpoveď
+                respondo-frazo-negativa: "Nie, ten chleba nie je suchý."
+                respondo-frazo-pozitiva: "Áno, ten chleba je suchý."
+          pagxo05: 
+            infano: dieťa
+            kaj: a
+            kolekti: zbierať
+            kongreso: kongres
+            lando: "zem, krajina"
+            leciono: lekcia
+            lernejo: škola
+            libro: kniha
+            manĝi: jesť
+            mejlo: míľa
+            monujo: peňaženka
+            neŭtrala: neutrálny
+            ovo: vajce
+            poŝtmarko: "poštová známka"
+            sandviĉo: sendvič
+            sporto: šport
+            veni: prísť
+            vojaĝi: cestovať
+            ĵurnalo: "denník, noviny"
+            ŝuo: topánka
+          pagxo06: 
+            tekstokompreno: "Porozumenie textu"
+            tekstokompreno-ekzpliko: "Prečítajte si nasledujúci text, napísaný žiakom učiacim sa esperanto, a pokúste sa mu s pomocou slovníka porozumieť."
+            vortaro: 
+              alia: iný
+              antaŭ: pred
+              facila: ľahký
+              interŝanĝi: vymieňať
+              komenci: začať
+              lerni: "učiť sa"
+              tre: veľmi

@@ -25,6 +25,9 @@ module I18nEltiro
           forigi 'l010' # traduku
           forigi 'l013' # rimarkigo
         end
+        de 'lecionoj.leciono04' do
+          forigi 'l018' # vortaro
+        end
       end
     end
   end

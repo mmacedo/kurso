@@ -1,0 +1,18 @@
+--- 
+pt: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. Teu pai coleciona selos postais?"
+            frazo02: "2. O filho esqueceu o leite?"
+            frazo03: "3. Os meninos comem sanduíche?"
+            frazo04: "4. Um garoto saudável bebe leite?"
+            frazo05: "5. O pai lavará as xícaras pequenas?"
+            frazo06: "6. A nova professora esqueceu o livro?"
+            frazo07: "7. Eles vendem chá e café?"
+            frazo08: "8. A filha doente escreve mal?"
+            frazo09: "9. Eles são bons amigos?"
+            frazo10: "10. O teu irmão vende livros e jornais?"
+            traduku: "Traduza para o Esperanto (sem responder às questões):"

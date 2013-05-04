@@ -1,0 +1,100 @@
+--- 
+it: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: "Ciao! / Salve! (-> nota B2g)"
+            saluto02: "Buon giorno!"
+            saluto03: "Buon mattino!"
+            saluto04: "Buona sera!"
+            saluto05: "Buona notte!"
+            saluto06: "Come stai? / Come va [la salute]?"
+            saluto07: "Bene, grazie. E tu?"
+            saluto08: "Abbastanza bene."
+            saluto09: "Non molto bene."
+            saluto10: "Buon appetito!"
+            saluto11: "Altrettanto a te, grazie!"
+            saluto12: "Alla tua salute!"
+            saluto13: Arrivederci!
+            saluto14: Addio!
+            salutoj: Saluti
+          pagxo02: 
+            relativoj: 
+              hieraŭ: ieri
+              hodiaŭ: oggi
+              morgaŭ: domani
+            semajno: 
+              dimanĉo: domenica
+              lundo: lunedì
+              mardo: martedì
+              merkredo: mercoledì
+              sabato: sabato
+              vendredo: venerdì
+              ĵaŭdo: giovedì
+            tagoj: "I giorni della settimana"
+          pagxo03: 
+            datoj: 
+              datoj: Date
+              datoj-ekzpliko: "Per esprimere le date, segui il modello (le locuzioni \\\"tago\\\" e \\\"en la jaro\\\" si sottintendono):"
+            monatoj: 
+              aprilo: aprile
+              aŭgusto: agosto
+              decembro: dicembre
+              februaro: febbraio
+              januaro: gennaio
+              julio: luglio
+              junio: giugno
+              majo: maggio
+              marto: marzo
+              monatoj: "I mesi dell'anno"
+              novembro: novembre
+              oktobro: ottobre
+              septembro: settembre
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "Affermazione:"
+                aserto-frazo: "Il pane è secco."
+              demandaj: "Frasi interrogative"
+              demandaj-ekzpliko: "Qualunque asserzione si trasforma nella corrispondente domanda anteponendole la particella \\\"Ĉu\\\". L'ordine delle parole in esperanto rimane invariato; la sola trasformazione consiste nel porre la particella \\\"ĉu\\\" all'inizio della frase. Ciò vale per tutte le domande a cui si risponde \\\"sì\\\" o \\\"no\\\"."
+              demando: 
+                demando: "Domanda:"
+                demando-frazo: "Il pane è secco?"
+              respondo: 
+                respondo: "Risposta:"
+                respondo-frazo-negativa: "No, il pane non è secco."
+                respondo-frazo-pozitiva: "Sì, il pane è secco."
+          pagxo05: 
+            infano: "[un] bambino"
+            kaj: e
+            kolekti: raccogliere
+            kongreso: "[un] congresso"
+            lando: "\\[una\\] terra, \\[un\\] paese"
+            leciono: "[una] lezione"
+            lernejo: "[una] scuola"
+            libro: "[un] libro"
+            manĝi: mangiare
+            mejlo: "[un] miglio"
+            monujo: "[un] portamonete"
+            neŭtrala: neutrale
+            ovo: "[un] uovo"
+            poŝtmarko: "[un] francobollo"
+            sandviĉo: "\\[un\\] panino \\[imbottito\\], \\[un\\] \\\"sandwich\\\""
+            sporto: "[uno] sport"
+            veni: venire
+            vojaĝi: viaggiare
+            ĵurnalo: "[un] giornale"
+            ŝuo: "[una] scarpa"
+          pagxo06: 
+            tekstokompreno: "Comprensione del testo"
+            tekstokompreno-ekzpliko: "Leggi il testo sottostante, scritto da uno studente di esperanto, e sforzati di capirlo con l'aiuto dei vocaboli allegati."
+            vortaro: 
+              alia: "altro / a"
+              antaŭ: "davanti a, prima di, \\[tempo\\] fa"
+              facila: facile
+              interŝanĝi: scambiare
+              komenci: cominciare
+              lerni: "imparare, studiare"
+              tre: molto

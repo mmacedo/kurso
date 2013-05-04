@@ -1,0 +1,100 @@
+--- 
+ar: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: "السلام عليكم"
+            saluto02: "يوم سعيد"
+            saluto03: "صباح الخير"
+            saluto04: "مساء الخير"
+            saluto05: "ليلة سعيدة"
+            saluto06: "كيف حالك؟"
+            saluto07: "بخير ، شكرا. وأنت؟"
+            saluto08: عادي.
+            saluto09: "لست بخير."
+            saluto10: "بالهناء والشفاء !"
+            saluto11: "ولك بالمثل ، شكرا."
+            saluto12: "بصحتك !"
+            saluto13: "أراك لاحقا !"
+            saluto14: "مع السلامة."
+            salutoj: التحية
+          pagxo02: 
+            relativoj: 
+              hieraŭ: أمس
+              hodiaŭ: اليوم
+              morgaŭ: غدًا
+            semajno: 
+              dimanĉo: الأحد
+              lundo: الإثنين
+              mardo: الثلاثاء
+              merkredo: الأربعاء
+              sabato: السبت
+              vendredo: الجمعة
+              ĵaŭdo: الخميس
+            tagoj: الأيام
+          pagxo03: 
+            datoj: 
+              datoj: التواريخ
+              datoj-ekzpliko: "وتقرأ التواريخ كالآتي (مع حذف \\\"tago\\\" و \\\"en la jaro\\\" إلا عند الحاجة طبعا) :"
+            monatoj: 
+              aprilo: "نيسان (أبريل)"
+              aŭgusto: "آب (أغسطس أو أوت)"
+              decembro: "كانون الأول (ديسمبر أو دشنبر)"
+              februaro: "شباط (فبراير)"
+              januaro: "كانون الثاني (يناير)"
+              julio: "تموز (جوان أو يوليه)"
+              junio: "حزيران (يونيه)"
+              majo: "أيار (ماي)"
+              marto: "آزار (مارس)"
+              monatoj: الأشهر
+              novembro: "تشرين الثاني (نوفمبر)"
+              oktobro: "تشرين الأول (أكتوبر)"
+              septembro: "أيلول (شتنبر أو سبتمبر)"
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "الإثبات :"
+                aserto-frazo: "الخبز جاف."
+              demandaj: الاستفهام
+              demandaj-ekzpliko: "مقابل \\\"هل\\\" بالإسبرانتو هو \\\"ĉu\\\" ، تضاف على أول الجملة دون تغيير في ترتيب الكلمات ، ويجاب عليها بـ\\\"نعم\\\" و\\\"لا\\\"."
+              demando: 
+                demando: "السؤال :"
+                demando-frazo: "هل الخبز جاف؟"
+              respondo: 
+                respondo: "الجواب :"
+                respondo-frazo-negativa: "لا ، ليس الخبز جافا."
+                respondo-frazo-pozitiva: "نعم ، الخبز جاف"
+          pagxo05: 
+            infano: طفل
+            kaj: و
+            kolekti: "أن يجمع"
+            kongreso: اجتماع
+            lando: "بلد أو أرض"
+            leciono: درس
+            lernejo: مدرَسَة
+            libro: كتاب
+            manĝi: "أن يأكل"
+            mejlo: ميل
+            monujo: "حقيبة يد"
+            neŭtrala: محايد
+            ovo: بيضة
+            poŝtmarko: "طابع بريدي"
+            sandviĉo: سندويش
+            sporto: رياضة
+            veni: "أن يأتي"
+            vojaĝi: "أن يسافر"
+            ĵurnalo: "مجلة أو جريدة"
+            ŝuo: حزاء
+          pagxo06: 
+            tekstokompreno: قطعة
+            tekstokompreno-ekzpliko: "كتب طالب إسبرانتو النص التالي. حاول أن تقرأه مستعينا بالمفردات أدناه عند الحاجة :"
+            vortaro: 
+              alia: آخر
+              antaŭ: "قبل أو أمام"
+              facila: سهل
+              interŝanĝi: "أن يستبدل"
+              komenci: "أن يبدأ"
+              lerni: "أن يتعلم"
+              tre: جدًا

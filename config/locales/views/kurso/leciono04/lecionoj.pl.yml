@@ -1,0 +1,100 @@
+--- 
+pl: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: "Witaj!  Witajcie!"
+            saluto02: "Dzień dobry!"
+            saluto03: "Dobrego ranka!"
+            saluto04: "Dobry wieczór!"
+            saluto05: "Dobranoc !"
+            saluto06: "Jak się czujesz?"
+            saluto07: "Dobrze, dziękuję, a ty?"
+            saluto08: "Wystarczająco  dobrze."
+            saluto09: "Nie bardzo dobrze."
+            saluto10: "Dobrego apetytu!"
+            saluto11: "To samo tobie, dziękuję!"
+            saluto12: "Na twoje zdrowie!"
+            saluto13: "Do zobaczenia!"
+            saluto14: "Żegnaj! Żegnajcie!"
+            salutoj: Powitania
+          pagxo02: 
+            relativoj: 
+              hieraŭ: wczoraj
+              hodiaŭ: dzisiaj
+              morgaŭ: jutro
+            semajno: 
+              dimanĉo: niedziela
+              lundo: poniedziałek
+              mardo: wtorek
+              merkredo: środa
+              sabato: sobota
+              vendredo: piątek
+              ĵaŭdo: czwartek
+            tagoj: "Dni tygodnia"
+          pagxo03: 
+            datoj: 
+              datoj: Daty
+              datoj-ekzpliko: "By podać datę użyj modelu ( \\\"dzień\\\" )  i  ( \\\"w roku\\\" ) 13.Jan.1964 = (13 stycznia ) ( w 1964r )"
+            monatoj: 
+              aprilo: kwiecień
+              aŭgusto: sierpień
+              decembro: grudzień
+              februaro: luty
+              januaro: styczeń
+              julio: lipiec
+              junio: czerwiec
+              majo: maj
+              marto: marzec
+              monatoj: "Miesiące roku"
+              novembro: listopad
+              oktobro: październik
+              septembro: wrzesień
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "Twierdzenie:"
+                aserto-frazo: "Chleb jest suchy."
+              demandaj: "Zdania pytające"
+              demandaj-ekzpliko: "Każde pytanie buduje się na twierdzeniu, stawiając tylko na początku zdania słówko  \\\"Czy\\\". To obowiązuje dla wszystkich pytań, na które odpowiedź jest   \\\"tak\\\", lub  \\\"nie\\\"."
+              demando: 
+                demando: "Pytanie:"
+                demando-frazo: "Czy chleb jest suchy?"
+              respondo: 
+                respondo: "Odpowiedź:"
+                respondo-frazo-negativa: "Nie, chleb nie jest suchy."
+                respondo-frazo-pozitiva: "Tak, chleb jest suchy."
+          pagxo05: 
+            infano: dziecko
+            kaj: "i, a"
+            kolekti: zbierać
+            kongreso: kongres
+            lando: kraj
+            leciono: lekcja
+            lernejo: szkoła
+            libro: książka
+            manĝi: jeść
+            mejlo: mila
+            monujo: portmonetka
+            neŭtrala: neutralny
+            ovo: jajko
+            poŝtmarko: "znaczek pocztowy"
+            sandviĉo: "sandwicz, kanapka"
+            sporto: sport
+            veni: przybywać
+            vojaĝi: podróżować
+            ĵurnalo: dziennik
+            ŝuo: but
+          pagxo06: 
+            tekstokompreno: "Rozumienie tekstu"
+            tekstokompreno-ekzpliko: "Przeczytaj poniższy tekst, napisany przez ucznia Esperanta i spróbuj  go zrozumieć z pomocą słownika."
+            vortaro: 
+              alia: inny
+              antaŭ: przed
+              facila: łatwy
+              interŝanĝi: wymieniać
+              komenci: zaczynać
+              lerni: "uczyć się"
+              tre: bardzo

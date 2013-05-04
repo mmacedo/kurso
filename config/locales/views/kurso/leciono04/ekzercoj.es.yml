@@ -1,0 +1,18 @@
+--- 
+es: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. ¿Tu padre colecciona estampillas?"
+            frazo02: "2. ¿El hijo olvidó la leche?"
+            frazo03: "3. ¿Los niños comen un emparedado?"
+            frazo04: "4. ¿Los muchachos sanos toman leche?"
+            frazo05: "5. ¿Lavará el padre las tazas pequeñas?"
+            frazo06: "6. ¿El profesor nuevo olvidó el libro?"
+            frazo07: "7. ¿Ellos venden café y té?"
+            frazo08: "8. ¿La hija enferma escribe mal?"
+            frazo09: "9. ¿Ellos son buenos amigos?"
+            frazo10: "10. ¿Tu hermano vende libros y periódicos?"
+            traduku: "Traduzca al Esperanto (sin contestar las preguntas):"

@@ -1,0 +1,100 @@
+--- 
+tr: 
+  views: 
+    kurso: 
+      leciono04: 
+        lecionoj: 
+          pagxo01: 
+            saluto01: "Selam !"
+            saluto02: "İyi Günler !"
+            saluto03: "İyi Sabahlar !"
+            saluto04: "İyi Akşamlar !"
+            saluto05: "İyi Geceler !"
+            saluto06: "Nasılsınız ?"
+            saluto07: "İyi, teşekkür ederim. Ve siz ?"
+            saluto08: "Oldukça iyi."
+            saluto09: "Çok iyi değil."
+            saluto10: "Afiyet Olsun !"
+            saluto11: "Sizede, teşekkürler !"
+            saluto12: "Sağlığınıza !"
+            saluto13: "Allaha ısmarladık !"
+            saluto14: "Allaha emanet olun !"
+            salutoj: Selamlar
+          pagxo02: 
+            relativoj: 
+              hieraŭ: Dün
+              hodiaŭ: Bugün
+              morgaŭ: Yarın
+            semajno: 
+              dimanĉo: Pazar
+              lundo: Pazartesi
+              mardo: Salı
+              merkredo: Çarşamba
+              sabato: Cumartesi
+              vendredo: Cuma
+              ĵaŭdo: Perşembe
+            tagoj: "Haftanın Günleri"
+          pagxo03: 
+            datoj: 
+              datoj: Tarihler
+              datoj-ekzpliko: "Tarihleri söylemek için modeli takip edin.\" Gün \" ve \" Sene \" içinde kelimeler aşağıda anlaşılmakta ve genelde onlardan bahsetmek gerekmiyor."
+            monatoj: 
+              aprilo: Nisan
+              aŭgusto: Agustos
+              decembro: Aralık
+              februaro: Şubat
+              januaro: Ocak
+              julio: Temmuz
+              junio: Haziran
+              majo: Mayıs
+              marto: Mart
+              monatoj: "Yılın Ayları"
+              novembro: Kasım
+              oktobro: Ekim
+              septembro: Eylül
+          pagxo04: 
+            demandaj: 
+              aserto: 
+                aserto: "Onaylamak:"
+                aserto-frazo: "Ekmek kurudur."
+              demandaj: "Soru cümleleri"
+              demandaj-ekzpliko: "Her soru onaylama veya onaylamama üzerine kurulur, sadece cümlenin önüne \\\" Ĉu \\\" ( mı , mi ) kelimeciğini koyarız. Bu cevaplar cevabı \\\"evet \\\" veya \\\"hayır\\\" olacak tüm sorular için geçerlidir."
+              demando: 
+                demando: "Soru :"
+                demando-frazo: "Ekmek kuru mu ?"
+              respondo: 
+                respondo: "Cevap :"
+                respondo-frazo-negativa: "Hayır, ekmek kuru değildir."
+                respondo-frazo-pozitiva: "Evet, ekmek kurudur."
+          pagxo05: 
+            infano: Çocuk
+            kaj: Ve
+            kolekti: Toplamak
+            kongreso: Kongre
+            lando: Ülke
+            leciono: Ders
+            lernejo: Okul
+            libro: Kitap
+            manĝi: "Yemek yemek"
+            mejlo: "Mil ( uzunluk )"
+            monujo: "Para kesesi"
+            neŭtrala: Nötr
+            ovo: Yumurta
+            poŝtmarko: "Posta pulu"
+            sandviĉo: Sandoviç
+            sporto: Spor
+            veni: Gelmek
+            vojaĝi: "Seyahat etmek"
+            ĵurnalo: Gazete
+            ŝuo: Ayakkabı
+          pagxo06: 
+            tekstokompreno: "Anlama Testi"
+            tekstokompreno-ekzpliko: "Esperanto öğrenen bir öğrenci tarafından yazılmış aşağıdaki metni sözlük yardımıyla okuyup anlamaya çalışın."
+            vortaro: 
+              alia: Diğeri
+              antaŭ: Önce
+              facila: Kolay
+              interŝanĝi: Dönüştürmek
+              komenci: Başlamak
+              lerni: Oku
+              tre: Çok

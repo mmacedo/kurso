@@ -1,0 +1,18 @@
+--- 
+sl: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "Ali tvoj oče (vaš oče) zbira poštne znamke?"
+            frazo02: "Ali je sin pozabil mleko?"
+            frazo03: "Ali otroci jedo sendvič?"
+            frazo04: "Ali zdrav deček pije mleko?"
+            frazo05: "Ali bo oče umil majhne skodelice?"
+            frazo06: "Ali je nova učiteljica pozabila knjigo?"
+            frazo07: "Ali oni prodajajo čaj in kavo?"
+            frazo08: "Ali bolna hčerka slabo piše?"
+            frazo09: "Ali so oni dobri prijatelji?"
+            frazo10: "Ali vaš brat prodaja knjige in časopise?"
+            traduku: "Prevedite v esperanto (ni potrebno odgovoriti na vprašanja)"

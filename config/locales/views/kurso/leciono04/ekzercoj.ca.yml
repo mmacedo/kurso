@@ -1,0 +1,18 @@
+--- 
+ca: 
+  views: 
+    kurso: 
+      leciono04: 
+        ekzercoj: 
+          pagxo10: 
+            frazo01: "1. El teu pare col·lecciona segells?"
+            frazo02: "2. El fill es va oblidar de la llet?"
+            frazo03: "3. Els nens mengen entrepans?"
+            frazo04: "4. Un noi sa beu llet?"
+            frazo05: "5. Que rentarà les tasses petites el pare?"
+            frazo06: "6. La nova professora es va oblidar el llibre?"
+            frazo07: "7. Que venen te i cafè?"
+            frazo08: "8. Que escriu malament la filla malalta?"
+            frazo09: "9. Són bons amics?"
+            frazo10: "10. El teu germà ven llibres i diaris?"
+            traduku: "Traduiu a l'esperanto (sense contestar a la preguntes):"
