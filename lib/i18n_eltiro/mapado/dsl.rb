@@ -1,7 +1,8 @@
 module I18nEltiro
   module Mapado
     class Dsl
-      def initialize(de_kunteksto, al_kunteksto = nil)
+      def initialize(lingvo, de_kunteksto, al_kunteksto = nil)
+        @lingvo       = lingvo
         @de_kunteksto = de_kunteksto
         @al_kunteksto = al_kunteksto || de_kunteksto
       end
@@ -11,11 +12,11 @@ module I18nEltiro
       end
 
       def de(pado, &block)
-        Dsl.new(akiri(@de_kunteksto, pado), @al_kunteksto).agordi(&block)
+        Dsl.new(@lingvo, akiri(@de_kunteksto, pado), @al_kunteksto).agordi(&block)
       end
 
       def al(pado, &block)
-        Dsl.new(@de_kunteksto, akiri(@al_kunteksto, pado, false)).agordi(&block)
+        Dsl.new(@lingvo, @de_kunteksto, akiri(@al_kunteksto, pado, false)).agordi(&block)
       end
 
       def atingo(pado, &block)
@@ -26,9 +27,15 @@ module I18nEltiro
         end
       end
 
-      def mapi(de, al)
-        objekto = forigi(de)
-        meti(al, objekto)
+      def mapi(de, al, escepte: [])
+        if escepte.include? @lingvo
+          pado, ponto, klavo = de.rpartition(/[.]/)
+          patro = akiri(@de_kunteksto, pado)
+          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @de_kunteksto, de}' plu!" if patro.has_key? klavo
+        else
+          objekto = forigi(de)
+          meti(al, objekto)
+        end
       end
 
       def forigi(de)

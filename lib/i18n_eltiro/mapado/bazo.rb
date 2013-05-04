@@ -5,10 +5,10 @@ module I18nEltiro
     class Bazo
       class << self
         @@blokoj = []
-        def kuri_mapoj!(kunteksto)
+        def kuri_mapoj!(lingvo, kunteksto)
           return if @@blokoj.nil?
           @@blokoj.each do |bloko|
-            Dsl.new(kunteksto).agordi do
+            Dsl.new(lingvo, kunteksto).agordi do
               de 'al_fari' do
                 instance_eval(&bloko)
               end

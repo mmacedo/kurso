@@ -5,7 +5,7 @@ require 'i18n_eltiro/mapado'
 require 'i18n_eltiro/skribanto'
 
 module I18nEltiro
-  LINGVOJ = { ar: "araba", ch: "china", en: "angla", eo: "esperanto", it: "itala", pt: "portugala", hi: "hinda" }
+  LINGVOJ = { ar: "araba", ch: "china", en: "angla", eo: "esperanto", it: "itala", pt: "portugala", hi: "hinda", sr: "serba" }
 
   def self.lingvoj
     LINGVOJ
@@ -49,7 +49,7 @@ module I18nEltiro
           normaligito    = normaligi(enhavo)
 
           # Mapas QT komponantnomoj al rails-i18n klavoj
-          kuri_mapoj!(normaligito)
+          kuri_mapoj!(lingvo.intern, normaligito)
 
           # Skribas YML
           @skribantoj.each { |skribanto| skribanto.savi(lingvo, normaligito) }
