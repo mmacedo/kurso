@@ -1,28 +1,30 @@
 module I18nEltiro
   module Mapado
     class Dsl
+      KOMANDOJ = %i[de al atingo mapi forigi meti]
+
+      def self.komandoj
+        KOMANDOJ
+      end
+
       def initialize(lingvo, de_kunteksto, al_kunteksto = nil)
         @lingvo       = lingvo
         @de_kunteksto = de_kunteksto
         @al_kunteksto = al_kunteksto || de_kunteksto
       end
 
-      def agordi(&block)
-        instance_eval(&block)
-      end
-
       def de(pado, &block)
-        Dsl.new(@lingvo, akiri(@de_kunteksto, pado), @al_kunteksto).agordi(&block)
+        Dsl.new(@lingvo, akiri(@de_kunteksto, pado), @al_kunteksto).instance_eval(&block)
       end
 
       def al(pado, &block)
-        Dsl.new(@lingvo, @de_kunteksto, akiri(@al_kunteksto, pado, false)).agordi(&block)
+        Dsl.new(@lingvo, @de_kunteksto, akiri(@al_kunteksto, pado, false)).instance_eval(&block)
       end
 
       def atingo(pado, &block)
         de(pado) do
           al(pado) do
-            agordi(&block)
+            instance_eval(&block)
           end
         end
       end

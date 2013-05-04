@@ -4,21 +4,27 @@ module I18nEltiro
   module Mapado
     class Bazo
       class << self
-        @@blokoj = []
+        # DSL vokoj de ĉiuj filoj klasoj
+        @@vokoj = []
+
+        # Reludas vokoj por la kunteksto
         def kuri_mapoj!(lingvo, kunteksto)
-          return if @@blokoj.nil?
-          @@blokoj.each do |bloko|
-            Dsl.new(lingvo, kunteksto).agordi do
-              de 'al_fari' do
-                instance_eval(&bloko)
-              end
+          return if @@vokoj.nil?
+          Dsl.new(lingvo, kunteksto).de 'al_fari' do
+            @@vokoj.each do |(komando, bloko, args)|
+              send(komando, *args, &bloko)
             end
           end
           purigi!(kunteksto)
         end
 
-        def agordi(&bloko)
-          @@blokoj << bloko
+        # Replikas la DSL komandoj, sed nur rekordas vokoj
+        class_eval do
+          Dsl.komandoj.each do |komando|
+            define_method(komando) do |*args, &bloko|
+              @@vokoj << [komando, bloko, args]
+            end
+          end
         end
 
         private
@@ -29,9 +35,9 @@ module I18nEltiro
           end
           enhavo.each do |(klavo, valoro)|
             next unless valoro.is_a? Hash
-            # Rekursias
+            # Rekursias en nodo
             purigi! valoro
-            # Forĵetas se malplena
+            # Forĵetas nodo se malplena
             enhavo.delete(klavo) if valoro.empty?
           end
           enhavo
