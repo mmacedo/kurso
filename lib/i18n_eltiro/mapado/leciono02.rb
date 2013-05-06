@@ -112,7 +112,7 @@ module I18nEltiro
     end
 
     class Ekzercoj < Bazo
-      de 'lecionoj.leciono02' do
+      el 'lecionoj.leciono02' do
         al 'ekzercoj.leciono02.pagxo10' do
           mapi 'tf41_l084', 'ekzpliko'
         end
@@ -120,7 +120,7 @@ module I18nEltiro
     end
 
     class Traduku < Bazo
-      de 'lecionoj.leciono02' do
+      el 'lecionoj.leciono02' do
         al 'ekzercoj.leciono02.pagxo11' do
           mapi 'l237', 'frazo01'
           mapi 'l238', 'frazo02'

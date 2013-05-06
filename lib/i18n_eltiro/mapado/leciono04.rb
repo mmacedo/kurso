@@ -138,7 +138,7 @@ module I18nEltiro
     end
 
     class Traduku < Bazo
-      de 'lecionoj.leciono04' do
+      el 'lecionoj.leciono04' do
         al 'ekzercoj.leciono04.pagxo10' do
           mapi 'l005', 'traduku'
           mapi 'l385', 'frazo01'

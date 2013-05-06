@@ -34,7 +34,7 @@ module I18nEltiro
     end
 
     class NumeralojEkzercoj < Bazo
-      de 'lecionoj.leciono03' do
+      el 'lecionoj.leciono03' do
         al 'ekzercoj.leciono03.pagxo04' do
           mapi 'l011', 'numeraloj-ekzercoj'
           mapi 'l012', 'numeraloj-ekzercoj-instrukcioj'
@@ -101,7 +101,7 @@ module I18nEltiro
     end
 
     class Traduku < Bazo
-      de 'lecionoj.leciono03' do
+      el 'lecionoj.leciono03' do
         al 'ekzercoj.leciono03.pagxo09' do
           mapi 'l302', 'frazo01'
           mapi 'l303', 'frazo02'

@@ -1,49 +1,49 @@
 module I18nEltiro
   module Mapado
     class Dsl
-      KOMANDOJ = %i[de al atingo mapi forigi meti]
+      KOMANDOJ = %i[el al atingo mapi forigi meti]
 
       def self.komandoj
         KOMANDOJ
       end
 
-      def initialize(lingvo, de_kunteksto, al_kunteksto = nil)
+      def initialize(lingvo, el_kunteksto, al_kunteksto = nil)
         @lingvo       = lingvo
-        @de_kunteksto = de_kunteksto
-        @al_kunteksto = al_kunteksto || de_kunteksto
+        @el_kunteksto = el_kunteksto
+        @al_kunteksto = al_kunteksto || el_kunteksto
       end
 
-      def de(pado, &block)
-        Dsl.new(@lingvo, akiri(@de_kunteksto, pado), @al_kunteksto).instance_eval(&block)
+      def el(pado, &block)
+        Dsl.new(@lingvo, akiri(@el_kunteksto, pado), @al_kunteksto).instance_eval(&block)
       end
 
       def al(pado, &block)
-        Dsl.new(@lingvo, @de_kunteksto, akiri(@al_kunteksto, pado, false)).instance_eval(&block)
+        Dsl.new(@lingvo, @el_kunteksto, akiri(@al_kunteksto, pado, false)).instance_eval(&block)
       end
 
       def atingo(pado, &block)
-        de(pado) do
+        el(pado) do
           al(pado) do
             instance_eval(&block)
           end
         end
       end
 
-      def mapi(de, al, escepte: [])
+      def mapi(el, al, escepte: [])
         if escepte.include? @lingvo
-          pado, ponto, klavo = de.rpartition(/[.]/)
-          patro = akiri(@de_kunteksto, pado)
-          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @de_kunteksto, de}' plu!" if patro.has_key? klavo
+          pado, ponto, klavo = el.rpartition(/[.]/)
+          patro = akiri(@el_kunteksto, pado)
+          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
         else
-          objekto = forigi(de)
+          objekto = forigi(el)
           meti(al, objekto)
         end
       end
 
-      def forigi(de)
-        pado, ponto, klavo = de.rpartition(/[.]/)
-        enhavo = akiri(@de_kunteksto, pado)
-        raise "Pado '#{kunigi_pado @de_kunteksto, de}' ne trovita!" unless enhavo.has_key? klavo
+      def forigi(el)
+        pado, ponto, klavo = el.rpartition(/[.]/)
+        enhavo = akiri(@el_kunteksto, pado)
+        raise "Pado '#{kunigi_pado @el_kunteksto, el}' ne trovita!" unless enhavo.has_key? klavo
         enhavo.delete(klavo)
       end
 

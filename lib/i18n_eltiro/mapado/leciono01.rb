@@ -12,7 +12,7 @@ module I18nEltiro
     end
 
     class Auxdkompreno01 < Bazo
-      de 'lecionoj.leciono01' do
+      el 'lecionoj.leciono01' do
         al 'ekzercoj.leciono01.pagxo02' do
           mapi 'l003', 'auxdkompreno01'
           mapi 'l006', 'auxdkompreno01-instrukcio'
@@ -148,7 +148,7 @@ module I18nEltiro
         al 'pagxo07' do
           mapi 'l040', 'posedaj-pronomoj'
           mapi 'l041', 'posedaj-pronomoj-ekzpliko'
-          # personaj pruntita de pagxo 3
+          # personaj pruntita el pagxo 3
           al 'posedaj' do
             mapi 'l011', 'mia'
             mapi 'l070', 'via'
@@ -198,7 +198,7 @@ module I18nEltiro
     end
 
     class Traduku < Bazo
-      de 'lecionoj.leciono01' do
+      el 'lecionoj.leciono01' do
         al 'ekzercoj.leciono01.pagxo12' do
           mapi 'l121', 'frazo01'
           mapi 'l122', 'frazo02'

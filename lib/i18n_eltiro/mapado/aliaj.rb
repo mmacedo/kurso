@@ -11,18 +11,18 @@ module I18nEltiro
     end
 
     class Redundoj < Bazo
-      de 'lecionoj.leciono02' do
+      el 'lecionoj.leciono02' do
         forigi 'l007' # rimarkigo
         forigi 'l008' # rimarkigo
         forigi 'l157' # vortaro
         forigi 'l236' # traduku
       end
-      de 'lecionoj.leciono03' do
+      el 'lecionoj.leciono03' do
         forigi 'l009' # vortaro
         forigi 'l010' # traduku
         forigi 'l013' # rimarkigo
       end
-      de 'lecionoj.leciono04' do
+      el 'lecionoj.leciono04' do
         forigi 'l018' # vortaro
       end
     end

@@ -10,7 +10,7 @@ module I18nEltiro
         # Reludas vokoj por la kunteksto
         def kuri_mapoj!(lingvo, kunteksto)
           return if @@vokoj.nil?
-          Dsl.new(lingvo, kunteksto).de 'al_fari' do
+          Dsl.new(lingvo, kunteksto).el 'al_fari' do
             @@vokoj.each do |(komando, bloko, args)|
               send(komando, *args, &bloko)
             end
