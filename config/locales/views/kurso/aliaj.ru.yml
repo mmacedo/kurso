@@ -4,6 +4,9 @@ ru:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Примечание:"
+          rimarkigo: Примечание
           traduku: "Переведите на эсперанто"
           vortaro: Словарь
+        lingvo: 
+          denaska: Русский
+          esperanta: rusa_2

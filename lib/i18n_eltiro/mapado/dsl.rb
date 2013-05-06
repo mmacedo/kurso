@@ -29,14 +29,23 @@ module I18nEltiro
         end
       end
 
-      def mapi(el, al, escepte: [])
+      def mapi(el, al=nil, escepte: [], &block)
         if escepte.include? @lingvo
           pado, ponto, klavo = el.rpartition(/[.]/)
           patro = akiri(@el_kunteksto, pado)
           raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
         else
           objekto = forigi(el)
-          meti(al, objekto)
+          if block_given?
+            if al.nil?
+              instance_exec(objekto, &block)
+            else
+              meti(al, instance_exec(objekto, &block))
+            end
+          else
+            raise "Malbona uzo de `mapi`, ĝi bezonas blokon kaj/aŭ padon!" if al.nil?
+            meti(al, objekto)
+          end
         end
       end
 
@@ -51,10 +60,10 @@ module I18nEltiro
         pado, ponto, klavo = al.rpartition(/[.]/)
         patro = akiri(@al_kunteksto, pado, false)
         if patro.has_key? klavo
-          if kunteksto[klavo].is_a? Hash
+          if patro[klavo].is_a? Hash
             raise "Pado '#{kunigi_pado @al_kunteksto, al}' havas filojn nodojn!"
           else
-            raise "Duobligita pado '#{kunigi_pado @al_kunteksto, al}'!"
+            raise "Duobligita pado '#{kunigi_pado @al_kunteksto, al}' jam havas valoron '#{patro[klavo]}'!"
           end
         end
         patro[klavo] = objekto
@@ -75,7 +84,11 @@ module I18nEltiro
       end
 
       def kunigi_pado(kunteksto, pado)
-        "#{kunteksto[:__pado] || ''}.#{pado}"
+        if kunteksto.has_key? :__pado
+          "#{kunteksto[:__pado]}.#{pado}"
+        else
+          pado
+        end
       end
     end
   end

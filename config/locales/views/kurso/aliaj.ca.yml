@@ -4,6 +4,9 @@ ca:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Atenció:"
+          rimarkigo: Atenció
           traduku: "Traduiu a l'esperanto"
           vortaro: Vocabulari
+        lingvo: 
+          denaska: Català
+          esperanta: kataluna

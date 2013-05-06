@@ -4,6 +4,9 @@ es:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Nota:"
+          rimarkigo: Nota
           traduku: "Traduzca al Esperanto"
           vortaro: Glosario
+        lingvo: 
+          denaska: Español
+          esperanta: hispana

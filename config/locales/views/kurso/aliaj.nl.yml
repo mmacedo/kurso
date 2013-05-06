@@ -4,6 +4,9 @@ nl:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Opmerking:"
+          rimarkigo: Opmerking
           traduku: "Vertaal naar Esperanto"
           vortaro: Woordenlijst
+        lingvo: 
+          denaska: Nederlands
+          esperanta: nederlanda

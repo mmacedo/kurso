@@ -4,6 +4,9 @@ el:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Παρατήρηση:"
+          rimarkigo: Παρατήρηση
           traduku: "Μεταφράστε στην Εσπεράντο"
           vortaro: Λεξιλόγιο
+        lingvo: 
+          denaska: Ελληνικά
+          esperanta: greka

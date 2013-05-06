@@ -4,6 +4,9 @@ fi:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Huom.:"
+          rimarkigo: Huom.
           traduku: "Käännä esperantoksi"
           vortaro: Sanasto
+        lingvo: 
+          denaska: Suomi
+          esperanta: finna

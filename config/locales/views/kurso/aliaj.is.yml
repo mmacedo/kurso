@@ -4,6 +4,9 @@ is:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Athuga:"
+          rimarkigo: Athuga
           traduku: "Þýddu á esperanto"
           vortaro: Orðasafn
+        lingvo: 
+          denaska: Islenska
+          esperanta: islanda

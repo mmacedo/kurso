@@ -4,6 +4,9 @@ sv:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "OBS:"
+          rimarkigo: OBS
           traduku: "Översätt till Esperanto"
           vortaro: Ordlista
+        lingvo: 
+          denaska: Svenska
+          esperanta: sveda

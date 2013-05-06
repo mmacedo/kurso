@@ -4,6 +4,9 @@ la:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Piezīme:"
+          rimarkigo: Piezīme
           traduku: "Pārtulkojiet esperanto valodā"
           vortaro: Vārdnīca
+        lingvo: 
+          denaska: Latviešu
+          esperanta: latva

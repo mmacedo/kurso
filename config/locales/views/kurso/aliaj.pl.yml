@@ -4,6 +4,9 @@ pl:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Uwaga:"
+          rimarkigo: Uwaga
           traduku: "Tłumacz na Esperanto."
           vortaro: Słownik
+        lingvo: 
+          denaska: Polski
+          esperanta: pola

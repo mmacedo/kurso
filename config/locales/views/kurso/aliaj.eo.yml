@@ -4,6 +4,8 @@ eo:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Rimarkigo:"
+          rimarkigo: Rimarkigo
           traduku: "Traduku al Esperanto"
           vortaro: Vortaro
+        lingvo: 
+          denaska: Esperanto

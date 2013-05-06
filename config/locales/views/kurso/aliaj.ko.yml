@@ -4,6 +4,9 @@ ko:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "주의:"
+          rimarkigo: 주의
           traduku: "에스페란토로 번역하세요"
           vortaro: 사전
+        lingvo: 
+          denaska: 한국어
+          esperanta: korea

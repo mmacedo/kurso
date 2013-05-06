@@ -4,6 +4,9 @@ li:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Pastaba:"
+          rimarkigo: Pastaba
           traduku: "Išverskite į esperanto kalbą"
           vortaro: Žodynas
+        lingvo: 
+          denaska: Lietuviškai
+          esperanta: litova

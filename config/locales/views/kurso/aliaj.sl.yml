@@ -4,6 +4,9 @@ sl:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Opomba:"
+          rimarkigo: Opomba
           traduku: "Prevedi v Esperanto"
           vortaro: Besede
+        lingvo: 
+          denaska: Slovenščina
+          esperanta: slovena

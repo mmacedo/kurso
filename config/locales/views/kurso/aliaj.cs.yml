@@ -4,6 +4,9 @@ cs:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Poznámka:"
+          rimarkigo: Poznámka
           traduku: "Přeložte do esperanta"
           vortaro: Slovník
+        lingvo: 
+          denaska: Česky
+          esperanta: ĉeĥa

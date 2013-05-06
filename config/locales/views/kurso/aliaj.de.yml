@@ -4,6 +4,9 @@ de:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Bemerkung:"
-          traduku: "Übersetzen Sie ins Esperanto:"
+          rimarkigo: Bemerkung
+          traduku: "Übersetzen Sie ins Esperanto"
           vortaro: Wörterverzeichnis
+        lingvo: 
+          denaska: Deutsch
+          esperanta: germana

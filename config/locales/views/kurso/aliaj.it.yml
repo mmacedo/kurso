@@ -4,6 +4,9 @@ it:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Nota:"
+          rimarkigo: Nota
           traduku: "Traduci in esperanto"
           vortaro: Vocaboli
+        lingvo: 
+          denaska: Italiano
+          esperanta: itala

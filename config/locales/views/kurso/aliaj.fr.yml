@@ -4,6 +4,9 @@ fr:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Remarque :"
+          rimarkigo: Remarque 
           traduku: "Traduisez en espéranto"
           vortaro: Vocabulaire
+        lingvo: 
+          denaska: Français
+          esperanta: franca

@@ -4,6 +4,9 @@ hr:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Napomena:"
+          rimarkigo: Napomena
           traduku: "Prevedite na Esperanto"
           vortaro: Rječnik
+        lingvo: 
+          denaska: Hrvatski
+          esperanta: kroata

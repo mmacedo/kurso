@@ -4,6 +4,9 @@ vi:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Chú ý:"
+          rimarkigo: "Chú ý"
           traduku: "Dịch sang Quốc Tế Ngữ"
           vortaro: "Từ vựng"
+        lingvo: 
+          denaska: "Tiếng Việt"
+          esperanta: vjetnama

@@ -4,9 +4,9 @@ module I18nEltiro
   module Mapado
     class Dividitoj < Bazo
       al 'aliaj.dividitoj' do
-        mapi 'lecionoj.leciono01.l035', 'vortaro'
-        mapi 'lecionoj.leciono01.l069', 'rimarkigo'
-        mapi 'lecionoj.leciono01.l099', 'traduku'
+        mapi('lecionoj.leciono01.l035', 'vortaro')   { |obj| obj.gsub(/:\s*\z/m, '') }
+        mapi('lecionoj.leciono01.l069', 'rimarkigo') { |obj| obj.gsub(/:\s*\z/m, '') }
+        mapi('lecionoj.leciono01.l099', 'traduku')   { |obj| obj.gsub(/:\s*\z/m, '') }
       end
     end
 
@@ -24,6 +24,14 @@ module I18nEltiro
       end
       el 'lecionoj.leciono04' do
         forigi 'l018' # vortaro
+      end
+    end
+
+    class Lingvo < Bazo
+      mapi 'aliaj.traduko.lingvo' do |obj|
+        denaska, disigilo, esperanta = obj.partition(/\s*—\s*/)
+        meti 'aliaj.lingvo.denaska', denaska
+        meti 'aliaj.lingvo.esperanta', esperanta unless esperanta.empty?
       end
     end
   end

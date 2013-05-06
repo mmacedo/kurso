@@ -4,6 +4,9 @@ sr:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Напомена:"
+          rimarkigo: Напомена
           traduku: "Преведите на есперанто"
           vortaro: Речник
+        lingvo: 
+          denaska: Srpski
+          esperanta: serba

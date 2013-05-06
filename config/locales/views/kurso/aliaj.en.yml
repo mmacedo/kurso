@@ -4,6 +4,9 @@ en:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Note:"
+          rimarkigo: Note
           traduku: "Translate to Esperanto"
           vortaro: Vocabulary
+        lingvo: 
+          denaska: English
+          esperanta: angla

@@ -4,6 +4,9 @@ da:
     kurso: 
       aliaj: 
         dividitoj: 
-          rimarkigo: "Bemærkning:"
+          rimarkigo: Bemærkning
           traduku: "Oversæt til esperanto"
           vortaro: Gloser
+        lingvo: 
+          denaska: Dansk
+          esperanta: dana
