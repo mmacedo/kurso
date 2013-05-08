@@ -29,9 +29,16 @@ module I18nEltiro
 
     class Lingvo < Bazo
       mapi 'aliaj.traduko.lingvo' do |obj|
-        denaska, disigilo, esperanta = obj.partition(/\s*—\s*/)
-        meti 'aliaj.lingvo.denaska', denaska
-        meti 'aliaj.lingvo.esperanta', esperanta unless esperanta.empty?
+        if m = obj.match(/\A (.*?) \s*—\s* ([\wĉĝĥĵŝŭ]+a)(_\d)? \z/xm)
+          denaska, esperanta = m[1..2]
+        elsif m = obj.match(/\A (.*?) \s* \( ([\wĉĝĥĵŝŭ]+a) \) \z/xm)
+          denaska, esperanta = m[1..2]
+        else
+          denaska, esperanta = obj, obj
+          esperanta, denaska = "esperanto", nil if esperanta == "Esperanto"
+        end
+        meti 'aliaj.lingvo.denaska', denaska unless denaska.nil?
+        meti 'aliaj.lingvo.esperanta', esperanta
       end
     end
   end
