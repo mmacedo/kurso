@@ -13,15 +13,9 @@
     = stylesheet_link_tag "index", media: "all", "data-turbolinks-track" => true
     = javascript_include_tag "index", "data-turbolinks-track" => true
   %body
-    %header.navbar.navbar-fixed-top
-      %nav.navbar-inner
-        .container
-          = render 'layouts/navigation'
+    = render 'layouts/navigation'
     .main{role: "main"}
       .container
-        .content
-          .row
-            .span12
-              = render 'layouts/messages'
-              = yield
-          %footer
+        = render 'layouts/messages'
+        = yield
+        %footer

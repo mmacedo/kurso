@@ -1,4 +1,12 @@
-= link_to "Kurso de Esperanto", root_path(locale: I18n.locale), class: 'brand'
-%ul.nav
-  %li
-    = link_to 'Lerni', "#"
+%header.navbar.navbar-fixed-top
+  %nav.navbar-inner
+    .container
+      %a.btn.btn-navbar{'data-toggle' => "collapse", 'data-target' => ".nav-collapse"}
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+      = link_to "Kurso de Esperanto", root_path(locale: I18n.locale), class: 'brand'
+      .nav-collapse.collapse
+        %ul.nav
+          %li= link_to 'Lerni', "#"
+          %li= link_to 'Helpo', "#"
