@@ -4,6 +4,6 @@ Kurso::Application.routes.draw do
   end.join("|")
 
   scope "(:locale)", :locale => Regexp.new(lokaĵarojn_ŝablono) do
-    root to: 'hejmo#index'
+    root to: 'cxefa#cxefpagxo'
   end
 end
