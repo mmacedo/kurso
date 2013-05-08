@@ -5,4 +5,8 @@ module ApplicationHelper
       yield
     end
   end
+
+  def li(active, klass = "", &block)
+    content_tag(:li, :class => "#{klass} #{if active then 'active' else '' end}", &block)
+  end
 end
