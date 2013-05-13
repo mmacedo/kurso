@@ -4,6 +4,30 @@
 @import "bootstrap/komponantoj";
 @import "bootstrap/ekstraj";
 
-body { padding-top: 90px; }
+// Necesa por respondema fiksita supra navbar
+body { padding-top: 85px; }
 
 @import "bootstrap/respondema";
+
+// Grandaj tiparoj por supra navbar
+.navbar {
+  .brand {
+    font-size: 300%;
+    font-weight: bold;
+  }
+  .nav > li > a {
+    text-shadow: none;
+    font-size: 120%;
+    font-weight: bold;
+  }
+}
+
+// Riparas ŝvebi por respondema supra navbar
+@media (max-width: @navbarCollapseWidth) {
+  .nav-collapse .nav > li > a:hover,
+  .nav-collapse .nav > li > a:focus,
+  .nav-collapse .dropdown-menu a:hover,
+  .nav-collapse .dropdown-menu a:focus {
+    background-color: @navbarLinkBackgroundHover;
+  }
+}
