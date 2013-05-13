@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
         I18n.locale = params[:locale]
       else
         lokaĵaro =  lokaĵaro_preferita || I18n.default_locale
-        redirect_to "/#{lokaĵaro}#{request.path}"
+        redirect_to "/#{lokaĵaro}#{request.path}".gsub(%r[/\z], '')
       end
     end
 
