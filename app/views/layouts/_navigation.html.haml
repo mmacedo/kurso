@@ -8,8 +8,14 @@
       = link_to "kurso", root_path(locale: I18n.locale), class: 'brand'
       .nav-collapse.collapse
         %ul.nav.pull-right
-          %li= link_to 'Lerni', "#"
-          %li= link_to 'Helpo', "#"
+          %li
+            %a{href: lernado_path(locale: I18n.locale)}
+              %i.icon-book
+              Lernado
+          %li
+            %a{href: helpo_path(locale: I18n.locale)}
+              %i.icon-question-sign
+              Helpo
           %li.dropdown
             %a.dropdown-toggle{href: '#', 'data-toggle' => "dropdown"}
               %i.icon-globe

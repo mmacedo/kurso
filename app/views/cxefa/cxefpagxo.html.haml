@@ -1,5 +1,10 @@
 .row
   .span12
     .hero-unit
-      %h1 Kurso de Esperanto
-      %a{href: "http://kurso.com.br/index.php?#{I18n.locale}"} Kurso de Esperanto por elŝuto
+      %h2 Kurso de Esperanto
+      %a.btn.btn-large.btn-primary{href: lernado_path(locale: I18n.locale)}
+        %i.icon-book
+        Komenci lerni
+      %a.btn.btn-large{href: helpo_path(locale: I18n.locale)}
+        %i.icon-question-sign
+        Ricevi helpon

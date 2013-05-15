@@ -5,5 +5,8 @@ Kurso::Application.routes.draw do
 
   scope "(:locale)", :locale => Regexp.new(lokaĵarojn_ŝablono) do
     root to: 'cxefa#cxefpagxo'
+
+    get 'lernado', to: 'cxefa#lernado', as: 'lernado'
+    get 'helpo',   to: 'cxefa#helpo',   as: 'helpo'
   end
 end
