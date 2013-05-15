@@ -28,7 +28,7 @@ ar:
           pagxo04: 
             adjektivoj: 
               adjektivoj: الصفات
-              adjektivoj-ekspliko: "تنتهي كل الصفات بـ\\\"-a\\\""
+              adjektivoj-ekspliko: "تنتهي كل الصفات بـ\"-a\""
               bela: جميل
               sana: معاف
               varma: "دافئ أو سخن"
@@ -37,7 +37,7 @@ ar:
               frato: أخ
               kafo: قهوة
               nomoj: الأسماء
-              nomoj-ekspliko: "تنتهي كل الأسماء بـ\\\"-o\\\""
+              nomoj-ekspliko: "تنتهي كل الأسماء بـ\"-o\""
             verboj: 
               ne-singularo: 
                 ili-estas: "هم (يكونون)"
@@ -50,7 +50,7 @@ ar:
                 mi-estas: "أنا (أكون)"
                 sxi-estas: "هي (تكون)"
               verboj: الأفعال
-              verboj-ekspliko: "تنتهي كل المصادر بـi كما في \\\"esti\\\"وكل المواضي بـis وكل الحواضر بـas وكل المستقبلات بـos. أما بقية الأزمنة فتذكر لاحقا."
+              verboj-ekspliko: "تنتهي كل المصادر بـi كما في \"esti\"وكل المواضي بـis وكل الحواضر بـas وكل المستقبلات بـos. أما بقية الأزمنة فتذكر لاحقا."
           pagxo05: 
             amiko: صديق
             bela: جميل
@@ -85,7 +85,7 @@ ar:
               patroj: آباء
               sanaj: معافون
               sanaj-patroj: "آباء معافون"
-            pluralo-ekzpliko: "تجمع الكلمات بإضافة \\\"-j\\\" إلى آخرها."
+            pluralo-ekzpliko: "تجمع الكلمات بإضافة \"-j\" إلى آخرها."
             pluralo-titolo: الجمع
             singularo: 
               amiko: صديق
@@ -112,11 +112,11 @@ ar:
               miaj-amikoj: أصدقائي
               nia-floro: وردتنا
               niaj-floroj: ورودنا
-              posedaj-pronomoj-rimarkigo: "تتبع الصفات أسماءها في الجمع والإفراد فتأخد \\\"j-\\\" عند تبعها لجمع."
+              posedaj-pronomoj-rimarkigo: "تتبع الصفات أسماءها في الجمع والإفراد فتأخد \"j-\" عند تبعها لجمع."
           pagxo08: 
             artikolo: 
               artikolo: "أداة المعرفة"
-              artikolo-ekzpliko: "أداة المعرفة الإسبرانتية هي \\\"la\\\" ، ولا يعرّف إلا اسم ، فلا تتبع الصفات أسماءها في التعريف ، وإنما هي أداة واحدة تضاف قبل الاسم وكل صفاته :"
+              artikolo-ekzpliko: "أداة المعرفة الإسبرانتية هي \"la\" ، ولا يعرّف إلا اسم ، فلا تتبع الصفات أسماءها في التعريف ، وإنما هي أداة واحدة تضاف قبل الاسم وكل صفاته :"
               floroj: ورود
               knabo: صبي
               la-floroj: الورود

@@ -10,7 +10,7 @@ fr:
           pagxo03: 
             personaj-pronomoj: "Les pronoms personnels"
             pluralo: 
-              ili: "ils/elles (pluriel de \\\"ŝi\\\", \\\"li\\\" et \\\"ĝi\\\")"
+              ili: "ils/elles (pluriel de \"ŝi\", \"li\" et \"ĝi\")"
               ni: nous
               pluralo: Pluriel
               vi: vous
@@ -85,7 +85,7 @@ fr:
               patroj: "des pères"
               sanaj: "sain(e)s, bien portant(e)s"
               sanaj-patroj: "des pères bien portants"
-            pluralo-ekzpliko: "Pour indiquer le pluriel, on ajoute la lettre \\\"j\\\" à la fin des adjectifs et des noms :"
+            pluralo-ekzpliko: "Pour indiquer le pluriel, on ajoute la lettre \"j\" à la fin des adjectifs et des noms :"
             pluralo-titolo: "Le pluriel"
             singularo: 
               amiko: ami
@@ -116,7 +116,7 @@ fr:
           pagxo08: 
             artikolo: 
               artikolo: L'article
-              artikolo-ekzpliko: "L'article indéfini n'existe pas en espéranto ; seul existe l'article défini \\\"la\\\", utilisé quel que soit le genre et le nombre."
+              artikolo-ekzpliko: "L'article indéfini n'existe pas en espéranto ; seul existe l'article défini \"la\", utilisé quel que soit le genre et le nombre."
               floroj: "des fleurs"
               knabo: "un garçon"
               la-floroj: "les fleurs"

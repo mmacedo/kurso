@@ -11,7 +11,7 @@ fr:
               frazo-virino: "les grandes femmes"
             sufikso-ino: "Suffixe -ino"
             sufikso-ino-ekspliko-1: "Dans la première leçon, nous avons vu qu'en espéranto, les adjectifs s'accordent en nombre avec le substantif; quand celui-ci est au singulier, l'adjectif reste au singulier et quand le substantif est au pluriel, l'adjectif se met au pluriel. Cependant, l'adjectif n'est jamais modifié en genre (masculin ou féminin)."
-            sufikso-ino-ekspliko-2: "Seuls les noms utilisés pour des êtres sexués peuvent identifier le sexe en se terminant, soit par \\\"o\\\" pour le masculin, soit par \\\"ino\\\" pour le féminin."
+            sufikso-ino-ekspliko-2: "Seuls les noms utilisés pour des êtres sexués peuvent identifier le sexe en se terminant, soit par \"o\" pour le masculin, soit par \"ino\" pour le féminin."
             vortoj: 
               amikino: amie
               amiko: ami
@@ -23,10 +23,10 @@ fr:
               viro: homme
           pagxo02: 
             akusativo: "Accusatif (-n)"
-            akusativo-ekzpliko-1: "Il y a une autre terminaison, très utile, qui nous permet de reconnaître le complément d'objet direct (C.O.D.) dans une proposition. C'est l'accusatif qui se met à la fin des substantifs, des adjectifs et des pronoms. On reconnaît ainsi le C.O.D. par la terminaison \\\"n\\\"."
+            akusativo-ekzpliko-1: "Il y a une autre terminaison, très utile, qui nous permet de reconnaître le complément d'objet direct (C.O.D.) dans une proposition. C'est l'accusatif qui se met à la fin des substantifs, des adjectifs et des pronoms. On reconnaît ainsi le C.O.D. par la terminaison \"n\"."
             akusativo-ekzpliko-2: "Remarquez que l'on met l'indication du pluriel avant celle de l'accusatif et ceci toujours à la fin du mot. Le complément d'objet direct peut apparaître au début, au milieu ou à la fin de la proposition et cela ne modifie en aucune façon le sens car il est indiqué par l'accusatif. Voici trois phrases dont le sens est le même :"
             akusativo-rimarkigo-1: "En fait, les ordres de mots différents peuvent être utilisés pour indiquer des nuances de la phrase. Nous traiterons cela plus loin dans le cours."
-            akusativo-rimarkigo-2: "Après le verbe \\\"esti\\\", on ne met pas d'accusatif car le verbe \\\"esti\\\" implique de lui-même une équivalence entre le sujet et l'attribut du sujet."
+            akusativo-rimarkigo-2: "Après le verbe \"esti\", on ne met pas d'accusatif car le verbe \"esti\" implique de lui-même une équivalence entre le sujet et l'attribut du sujet."
             frazo-plurala: "Je lave les nouvelles tasses."
             frazo-singulara: "Je lave la nouvelle tasse."
           pagxo03: 
@@ -36,7 +36,7 @@ fr:
               frazo03: "Elle n'est pas ma mère."
               frazo04: "Les gâteaux n'étaient pas chauds."
               neado: Négation
-              neado-ekspliko: "Pour rendre une phrase négative, il suffit de mettre le mot \\\"ne\\\" devant le verbe."
+              neado-ekspliko: "Pour rendre une phrase négative, il suffit de mettre le mot \"ne\" devant le verbe."
             prefikso-mal: 
               amiko: ami
               avara: avare
@@ -49,10 +49,10 @@ fr:
               malnova: "ancien(ne), vieux(vieille)"
               nova: "nouveau, nouvelle"
               prefikso-mal: "Préfixe \"mal\""
-              prefikso-mal-ekspliko: "Le préfixe \\\"mal\\\" nous permet de créer de nouveaux mots, dont le sens est l'opposé de celui des mots auxquels il est ajouté."
+              prefikso-mal-ekspliko: "Le préfixe \"mal\" nous permet de créer de nouveaux mots, dont le sens est l'opposé de celui des mots auxquels il est ajouté."
           pagxo04: 
             muziko: "Musique en espéranto"
-            muziko-ekzpliko: "Écoutons maintenant la chanson en espéranto \\\"Jen\\\" du groupe argentin \\\"la porkoj\\\" (les Porcs) récompensés aux concours artistiques organisés par l'Association mondiale d'Espéranto. Le groupe est formé de Alejandro Cossavella (voix), Pablo Ciancio (batterie), Ignacio Mendizabal (guitare) et Salvador Agustoni (basse). \\\"Jen\\\" est le mot utilisé pour annoncer quelque chose que l'on attend. Appuyez sur le bouton pour démarrer la musique."
+            muziko-ekzpliko: "Écoutons maintenant la chanson en espéranto \"Jen\" du groupe argentin \"la porkoj\" (les Porcs) récompensés aux concours artistiques organisés par l'Association mondiale d'Espéranto. Le groupe est formé de Alejandro Cossavella (voix), Pablo Ciancio (batterie), Ignacio Mendizabal (guitare) et Salvador Agustoni (basse). \"Jen\" est le mot utilisé pour annoncer quelque chose que l'on attend. Appuyez sur le bouton pour démarrer la musique."
           pagxo05: 
             akvo: eau
             ami: aimer

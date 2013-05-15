@@ -53,7 +53,7 @@ it:
             horo: "[un']ora"
             jaro: "[un] anno"
             kuri: correre
-            mateno: "\\[una\\] mattina, \\[un\\] mattino"
+            mateno: "[una] mattina, [un] mattino"
             minuto: "[un] minuto"
             nokto: "[una] notte"
             peti: "chiedere (per avere)"

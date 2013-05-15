@@ -37,7 +37,7 @@ fi:
           pagxo03: 
             datoj: 
               datoj: Päivämäärät
-              datoj-ekzpliko: "Päivämääristä puhuessa, katso mallia. Sanat \\\"päivä\\\" ja \\\"vuonna\\\" ovat jo asiayhteydestä ymmärrettävissä, eikä niitä yleensä tarvitse mainita."
+              datoj-ekzpliko: "Päivämääristä puhuessa, katso mallia. Sanat \"päivä\" ja \"vuonna\" ovat jo asiayhteydestä ymmärrettävissä, eikä niitä yleensä tarvitse mainita."
             monatoj: 
               aprilo: huhtikuu
               aŭgusto: elokuu
@@ -58,7 +58,7 @@ fi:
                 aserto: "Väite:"
                 aserto-frazo: "Leipä on kuiva."
               demandaj: Kysymyslauseet
-              demandaj-ekzpliko: "Väitteestä muodostetaan kysymys, asettamalla kysymyspartikkeli \\\"Ĉu\\\" lauseen alkuun. Tämä ei muuta lauseen sanajärjestystä, vain \\\"ĉu\\\" partikkeli tulee lauseen eteen. Tämä pätee kaikkiin kysymyksiin, joiden vastaus on \\\"kyllä\\\" tai \\\"ei\\\"."
+              demandaj-ekzpliko: "Väitteestä muodostetaan kysymys, asettamalla kysymyspartikkeli \"Ĉu\" lauseen alkuun. Tämä ei muuta lauseen sanajärjestystä, vain \"ĉu\" partikkeli tulee lauseen eteen. Tämä pätee kaikkiin kysymyksiin, joiden vastaus on \"kyllä\" tai \"ei\"."
               demando: 
                 demando: "Kysymys:"
                 demando-frazo: "Onko leipä kuiva?"

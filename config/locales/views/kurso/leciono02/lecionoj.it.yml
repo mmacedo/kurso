@@ -23,10 +23,10 @@ it:
               viro: "[un] uomo (maschio)"
           pagxo02: 
             akusativo: "Accusativo (-n)"
-            akusativo-ekzpliko-1: "Esiste un'altra terminazione - molto utile - che, contrassegnando la forma grammaticale denominata \\\"accusativo\\\", permette di riconoscere nella proposizione il complemento oggetto (o \\\"complemento diretto\\\"): è la terminazione -n, che si aggiunge in coda alla parola (sostantivo, aggettivo o pronome che sia)."
+            akusativo-ekzpliko-1: "Esiste un'altra terminazione - molto utile - che, contrassegnando la forma grammaticale denominata \"accusativo\", permette di riconoscere nella proposizione il complemento oggetto (o \"complemento diretto\"): è la terminazione -n, che si aggiunge in coda alla parola (sostantivo, aggettivo o pronome che sia)."
             akusativo-ekzpliko-2: "Al plurale, la terminazione -n dell'accusativo si pone dopo la terminazione -j del plurale. L'uso del segnacaso dell'accusativo (-n) consente il massimo di flessibilità nella disposizione delle parole, senza che mai ne scapiti la chiarezza. Ecco tre frasi il cui significato è, nella sostanza, equivalente:"
             akusativo-rimarkigo-1: "In pratica, variando l'ordine delle parole, il significato fondamentale di una frase non cambia, ma se ne possono esprimere più sfumature distinte. (-> B2f)"
-            akusativo-rimarkigo-2: "Dopo il verbo \\\"essere\\\" non s'usa mai l'accusativo, poiché il verbo \\\"essere\\\" non esprime un'azione e richiede che il predicato sia nello stesso caso del soggetto (cioè al nominativo)."
+            akusativo-rimarkigo-2: "Dopo il verbo \"essere\" non s'usa mai l'accusativo, poiché il verbo \"essere\" non esprime un'azione e richiede che il predicato sia nello stesso caso del soggetto (cioè al nominativo)."
             frazo-plurala: "[Io] lavo le tazze nuove."
             frazo-singulara: "[Io] lavo la tazza nuova."
           pagxo03: 
@@ -52,13 +52,13 @@ it:
               prefikso-mal-ekspliko: "Il prefisso mal- permette di creare parole il cui significato è il contrario della parola originaria (un po' come l'italiano: malaccorto, maldestro, etc.; ma, in esperanto, senza la connotazione negativa che ha in italiano)."
           pagxo04: 
             muziko: "Musica in esperanto."
-            muziko-ekzpliko: "Ora ascolta la canzone in esperanto \\\"Jen\\\" (Ecco), del gruppo argentino \\\"La Porkoj\\\" (I Maiali), premiato ai concorsi artistici dell'Uea (Universala Esperanto - Asocio). Il gruppo è formato da: Alejandro Cossavella (voce), Pablo Ciancio (percussione), Ignacio Mendizabal (chitarre) e Salvador Agustoni (chitarra basso). Premi il pulsante a punta verde per l'avvio."
+            muziko-ekzpliko: "Ora ascolta la canzone in esperanto \"Jen\" (Ecco), del gruppo argentino \"La Porkoj\" (I Maiali), premiato ai concorsi artistici dell'Uea (Universala Esperanto - Asocio). Il gruppo è formato da: Alejandro Cossavella (voce), Pablo Ciancio (percussione), Ignacio Mendizabal (chitarre) e Salvador Agustoni (chitarra basso). Premi il pulsante a punta verde per l'avvio."
           pagxo05: 
             akvo: "[dell'] acqua"
             ami: amare
-            amo: "\\[un, l'\\] amore"
+            amo: "[un, l'] amore"
             birdo: "[un] uccello"
-            butiko: "\\[un\\] negozio, \\[una\\] bottega"
+            butiko: "[un] negozio, [una] bottega"
             fari: fare
             forgesi: dimenticare
             havi: avere

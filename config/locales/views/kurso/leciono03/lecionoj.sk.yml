@@ -7,8 +7,8 @@ sk:
           pagxo01: 
             adverboj: 
               adverboj: Príslovky
-              adverboj-ekzpliko-1: "Príslovky fungujú rovnako ako prídavné mená, neviažu sa však na podstatné mená, ale na slovesá a prídavné mená. Nemôžu však získať koncovku \\\"j\\\". Určujú spôsob, príčinu, miesto alebo čas."
-              adverboj-ekzpliko-2: "V esperante končia príslovky väčšinou na koncovku \\\"e\\\" (vždy, keď sú odvodené od iných slov). Jednoduchou výmenou koncovky tak môže slovo nadobúdať rôzne slovné druhy."
+              adverboj-ekzpliko-1: "Príslovky fungujú rovnako ako prídavné mená, neviažu sa však na podstatné mená, ale na slovesá a prídavné mená. Nemôžu však získať koncovku \"j\". Určujú spôsob, príčinu, miesto alebo čas."
+              adverboj-ekzpliko-2: "V esperante končia príslovky väčšinou na koncovku \"e\" (vždy, keď sú odvodené od iných slov). Jednoduchou výmenou koncovky tak môže slovo nadobúdať rôzne slovné druhy."
               frazoj: 
                 adverboj-rimarkigo: "Príslovky sa väčšinou kladú pred slovo, ku ktorému sa viažu."
                 frazo-sana: "Je zdravý."
@@ -25,7 +25,7 @@ sk:
           pagxo04: 
             adjektivoj: 
               adjektivoj-el-numeraloj: "Príslovky z čísloviek"
-              adjektivoj-el-numeraloj-ekzpliko: "Radové číslovky sa tvoria príponou \\\"a\\\". Pretože majú koncovku \\\"a\\\", môžu získať i koncovku množného čísla (-j) a akuzatívu (-n)."
+              adjektivoj-el-numeraloj-ekzpliko: "Radové číslovky sa tvoria príponou \"a\". Pretože majú koncovku \"a\", môžu získať i koncovku množného čísla (-j) a akuzatívu (-n)."
               frazoj: 
                 frazo-adjektivoj-1: "Príchádzajú prví chlapci."
                 frazo-adjektivoj-2: "Chytil tretí hmyz."

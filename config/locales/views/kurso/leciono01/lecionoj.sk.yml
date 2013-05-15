@@ -22,7 +22,7 @@ sk:
               sxi: Ona
               vi: Ty
             specialaj: 
-              oni: "Oni - nedefinované osobné zámeno, ktoré znamená \\\"ľudia; človek; \\\"sa\\\" \\\", používané keď nechceme alebo sa nedá upresniť podmet. (človek nemôže, nedá sa, zdá sa...)"
+              oni: "Oni - nedefinované osobné zámeno, ktoré znamená \"ľudia; človek; \"sa\" \", používané keď nechceme alebo sa nedá upresniť podmet. (človek nemôže, nedá sa, zdá sa...)"
               si: "Si - zvratné zámeno tretej osoby - li, ŝi, ĝi, ili, oni - používa sa iba ak prislúcha podmetu v 3. os.!"
               specialaj: Špeciálne
           pagxo04: 
@@ -116,7 +116,7 @@ sk:
           pagxo08: 
             artikolo: 
               artikolo: Člen
-              artikolo-ekzpliko: "Neurčitý člen v esperante neexistuje. Existuje iba určitý člen \\\"la\\\", používaný pre všetky rody, pády a čísla."
+              artikolo-ekzpliko: "Neurčitý člen v esperante neexistuje. Existuje iba určitý člen \"la\", používaný pre všetky rody, pády a čísla."
               floroj: Kvety
               knabo: Chlapec
               la-floroj: "(tie) kvety"

@@ -8,7 +8,7 @@ nl:
             alfabeto-ekspliko: |-
                 In Esperanto schrijf je de woorden precies volgens hun uitspraak en je spreekt ze uit volgens de klank van elke geschreven letter. De klemtoon van een meerlettergrepig woord valt altijd op de voorlaatste klinker (klik op de 
                 knoppen om uitspraak van A B C Ĉ... en woordjes te beluisteren en herhaal  luidop). Let  op: S is geen Z! C 
-                klinkt TS,  H altijd uitspreken!  G is zoals in het Frans, Ŭ onze w. De \"naam\" van medeklinkers eindigt op O.
+                klinkt TS,  H altijd uitspreken!  G is zoals in het Frans, Ŭ onze w. De "naam" van medeklinkers eindigt op O.
             alfabeto-titolo: "Het Esperanto alfabet"
           pagxo03: 
             personaj-pronomoj: "Persoonlijke voornaamwoorden"
@@ -28,15 +28,15 @@ nl:
               vi: "Jij, gij (of u)"
             specialaj: 
               oni: |-
-                  MEN (onpersoonlijk voornaamwoord). In het nederlands gebruikt men i.p.v. \"men\" ook vaak \"je\" of  \"ze\". 
-                  Bvb: \"Ze zeggen zoveel\" = \"Men zegt zoveel\" ;     \"Je zegt in het Nl...\" = \"Men zegt in het Nl...\"
+                  MEN (onpersoonlijk voornaamwoord). In het nederlands gebruikt men i.p.v. "men" ook vaak "je" of  "ze". 
+                  Bvb: "Ze zeggen zoveel" = "Men zegt zoveel" ;     "Je zegt in het Nl..." = "Men zegt in het Nl..."
               si: |-
                   ZICH (wederkerend voornaamwoord van de derde persoon enkel- en meervoud, slaat altijd op het 
                   onderwerp van de zin). Hij wast zich. Zij kleden zich aan.
               specialaj: Speciale
           pagxo04: 
             adjektivoj: 
-              adjektivoj: "Bijvoeglijke naamwoorden ( = \\\"Adjectieven\\\" of \\\"Hoedanigheidswoorden\\\")"
+              adjektivoj: "Bijvoeglijke naamwoorden ( = \"Adjectieven\" of \"Hoedanigheidswoorden\")"
               adjektivoj-ekspliko: "Eindigen op de letter -a:"
               bela: Mooie
               sana: Gezonde
@@ -112,7 +112,7 @@ nl:
               mia: mijn
               nia: "ons (onze)"
               via: "jouw (jullie, uw)"
-              ĝia: "betekent: \\\"van het\\\" (meestal = \\\"zijn\\\")"
+              ĝia: "betekent: \"van het\" (meestal = \"zijn\")"
               ŝia: haar
             posedaj-pronomoj: "Bezittelijke voornaamwoorden"
             posedaj-pronomoj-ekzpliko: |-
@@ -129,7 +129,7 @@ nl:
           pagxo08: 
             artikolo: 
               artikolo: Lidwoord
-              artikolo-ekzpliko: "Het onbepaald lidwoord (\\\"een\\\") bestaat niet in Esperanto (patro = een vader). Er is alleen het bepalend lidwoord \\\"la\\\" (= de, het). Het is onveranderlijk."
+              artikolo-ekzpliko: "Het onbepaald lidwoord (\"een\") bestaat niet in Esperanto (patro = een vader). Er is alleen het bepalend lidwoord \"la\" (= de, het). Het is onveranderlijk."
               floroj: bloemen
               knabo: "een jongen"
               la-floroj: "de bloemen"

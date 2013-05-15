@@ -58,7 +58,7 @@ cs:
                 aserto: "Tvrzení:"
                 aserto-frazo: "Chleba je suchý."
               demandaj: "Tázací věty"
-              demandaj-ekzpliko: "Otázky tvoříme z věty oznamovací, pouze na začátek klademe slůvko \\\"Ĉu\\\" (= zda). Slovosled se nemění, jen slůvko \\\"ĉu\\\" předchází celou větu. Přesněji řečeno, platí to pouze pro ten typ otázek, na které odpovídáme \\\"ano\\\" nebo \\\"ne\\\"."
+              demandaj-ekzpliko: "Otázky tvoříme z věty oznamovací, pouze na začátek klademe slůvko \"Ĉu\" (= zda). Slovosled se nemění, jen slůvko \"ĉu\" předchází celou větu. Přesněji řečeno, platí to pouze pro ten typ otázek, na které odpovídáme \"ano\" nebo \"ne\"."
               demando: 
                 demando: "Otázka:"
                 demando-frazo: "Je ten chleba suchý?"

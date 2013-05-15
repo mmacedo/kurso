@@ -11,7 +11,7 @@ pt:
               frazo-virino: "As grandes mulheres"
             sufikso-ino: "Sufixo -ino"
             sufikso-ino-ekspliko-1: "Na primeira lição, nós vimos que em esperanto os adjetivos concordam no singular e no plural como o substantivo; quando trata-se de apenas um, eles permanecem no singular; mais de um, vão para o plural. Por outro lado, eles nunca se modificam conforme o gênero (masculino ou feminino)."
-            sufikso-ino-ekspliko-2: "Só os nomes destinados aos seres sexuados podem identificar o sexo, terminando em \\\"o\\\" os masculinos e em \\\"ino\\\" os femininos."
+            sufikso-ino-ekspliko-2: "Só os nomes destinados aos seres sexuados podem identificar o sexo, terminando em \"o\" os masculinos e em \"ino\" os femininos."
             vortoj: 
               amikino: amiga
               amiko: amigo
@@ -23,10 +23,10 @@ pt:
               viro: homem
           pagxo02: 
             akusativo: "Acusativo (-n)"
-            akusativo-ekzpliko-1: "Há uma outra terminação, muito prática, que nos possibilita reconhecer o objeto direto numa oração. É o acusativo, que se coloca no final dos substantivos, adjetivos e pronomes para formar o objeto direto. Assim reconhecemos o objeto direto pela terminação \\\"n\\\"."
+            akusativo-ekzpliko-1: "Há uma outra terminação, muito prática, que nos possibilita reconhecer o objeto direto numa oração. É o acusativo, que se coloca no final dos substantivos, adjetivos e pronomes para formar o objeto direto. Assim reconhecemos o objeto direto pela terminação \"n\"."
             akusativo-ekzpliko-2: "Note que o plural é colocado antes do acusativo, e este aparece sempre no final da palavra. O objeto direto pode aparecer no começo, no meio ou no final da oração, e isso de forma alguma modifica o sentido, porque ele está indicado pelo acusativo. As três frases seguintes têm o mesmo significado:"
             akusativo-rimarkigo-1: "De fato as diferentes ordens das palavras podem ser usadas para de alguma forma dar uma nuança para a frase. Isso será tratado mais adiante no curso."
-            akusativo-rimarkigo-2: "Após o verbo \\\"esti\\\" o acusativo não é usado, porque o verbo \\\"esti\\\", por si mesmo, implica que o sujeito e o predicativo são equivalentes."
+            akusativo-rimarkigo-2: "Após o verbo \"esti\" o acusativo não é usado, porque o verbo \"esti\", por si mesmo, implica que o sujeito e o predicativo são equivalentes."
             frazo-plurala: "Eu lavo as xícaras novas."
             frazo-singulara: "Eu lavo a xícara nova."
           pagxo03: 
@@ -36,7 +36,7 @@ pt:
               frazo03: "Ela não é minha mãe."
               frazo04: "Os bolos não estavam quentes."
               neado: Negação
-              neado-ekspliko: "Para tornar uma frase negativa, basta colocar a palavrinha \\\"ne\\\" antes do verbo."
+              neado-ekspliko: "Para tornar uma frase negativa, basta colocar a palavrinha \"ne\" antes do verbo."
             prefikso-mal: 
               amiko: amigo
               avara: avarento(a)
@@ -52,7 +52,7 @@ pt:
               prefikso-mal-ekspliko: "O prefixo \"mal\" nos permite criar palavras cujo significado é o contrário da palavra à qual está ligado."
           pagxo04: 
             muziko: "Música em Esperanto"
-            muziko-ekzpliko: "Vamos ouvir agora uma canção em Esperanto, \\\"Jen\\\", do grupo argentino La Porkoj, premiado no concurso internacional de arte da Associação Mundial de Esperanto. O grupo é formado por Alejandro Cossavella (voz), Pablo Ciancio (bateria), Ignacio Mendizabal (guitarras) e Salvador Agustoni (baixo). \\\"Jen\\\" é uma palavrinha usada para apresentar/mostrar algo ou alguém (correspondente à expressão portuguesa \\\"eis\\\"). Pressione o botão verde para iniciar a canção."
+            muziko-ekzpliko: "Vamos ouvir agora uma canção em Esperanto, \"Jen\", do grupo argentino La Porkoj, premiado no concurso internacional de arte da Associação Mundial de Esperanto. O grupo é formado por Alejandro Cossavella (voz), Pablo Ciancio (bateria), Ignacio Mendizabal (guitarras) e Salvador Agustoni (baixo). \"Jen\" é uma palavrinha usada para apresentar/mostrar algo ou alguém (correspondente à expressão portuguesa \"eis\"). Pressione o botão verde para iniciar a canção."
           pagxo05: 
             akvo: água
             ami: amar

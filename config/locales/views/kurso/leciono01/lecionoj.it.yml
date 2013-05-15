@@ -10,7 +10,7 @@ it:
           pagxo03: 
             personaj-pronomoj: "Pronomi personali."
             pluralo: 
-              ili: "Loro (essi, esse; è il plurale corrispondente a \\\"li\\\", \\\"ŝi\\\" e \\\"ĝi\\\", indifferentemente)"
+              ili: "Loro (essi, esse; è il plurale corrispondente a \"li\", \"ŝi\" e \"ĝi\", indifferentemente)"
               ni: Noi
               pluralo: Plurale
               vi: Voi
@@ -22,7 +22,7 @@ it:
               sxi: "Lei (ella)"
               vi: "Tu (-> Come usare il corso, nota B2a)"
             specialaj: 
-              oni: "= Si (Pronome personale indefinito, col significato di \\\"la gente; più persone; qualcuno, sconosciuto o imprecisato\\\".). E' usato quando non si può - o non s'intende - precisare il soggetto."
+              oni: "= Si (Pronome personale indefinito, col significato di \"la gente; più persone; qualcuno, sconosciuto o imprecisato\".). E' usato quando non si può - o non s'intende - precisare il soggetto."
               si: "= Si (Pronome riflessivo di terza persona (singolare, plurale o indefinita: li, ŝi, ĝi; ili; oni).). Si riferisce al soggetto della proposizione in cui si trova.. Non può mai essere esso stesso soggetto di proposizione."
               specialaj: "Forme particolari"
           pagxo04: 
@@ -43,10 +43,10 @@ it:
                 ili-estas: "[Loro / essi / esse] sono"
                 ni-estas: "[Noi] siamo"
                 oni-estos: "Si sarà"
-                vi-estis: "\\[Tu / Voi\\] fosti / foste (eri; sei stato -> B2c)"
+                vi-estis: "[Tu / Voi] fosti / foste (eri; sei stato -> B2c)"
               singularo: 
                 gxi-estos: "[Esso / a] sarà"
-                li-estis: "\\[Egli\\] fu (era; è stato; -> B2c)"
+                li-estis: "[Egli] fu (era; è stato; -> B2c)"
                 mi-estas: "[Io] sono (-> nota B2b)"
                 sxi-estas: "[Lei] è"
               verboj: Verbi
@@ -106,7 +106,7 @@ it:
               ĝia: "[il] suo / [la] sua (di esso)"
               ŝia: "[il] suo / [la] sua (di lei)"
             posedaj-pronomoj: Possessivi
-            posedaj-pronomoj-ekzpliko: "Il possessivo (pronome o aggettivo; quest'ultimo mai preceduto dall'articolo \\\"la\\\") si ottiene aggiungendo in coda ai pronomi personali la terminazione -a dell'aggettivo:"
+            posedaj-pronomoj-ekzpliko: "Il possessivo (pronome o aggettivo; quest'ultimo mai preceduto dall'articolo \"la\") si ottiene aggiungendo in coda ai pronomi personali la terminazione -a dell'aggettivo:"
             rimarkigo: 
               mia-amiko: "Il mio amico"
               miaj-amikoj: "I miei amici"
@@ -116,7 +116,7 @@ it:
           pagxo08: 
             artikolo: 
               artikolo: Articolo
-              artikolo-ekzpliko: "L'articolo indeterminativo (un, uno; una) in esperanto non esiste, e si considera sottinteso ove manchi l'articolo determinativo \\\"la\\\". Quest'ultimo non varia al variare di genere, caso e numero."
+              artikolo-ekzpliko: "L'articolo indeterminativo (un, uno; una) in esperanto non esiste, e si considera sottinteso ove manchi l'articolo determinativo \"la\". Quest'ultimo non varia al variare di genere, caso e numero."
               floroj: "[Dei] fiori (-> nota B2e)"
               knabo: "[Un] ragazzo (-> nota B2e)"
               la-floroj: "I fiori"

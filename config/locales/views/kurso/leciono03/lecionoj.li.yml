@@ -7,7 +7,7 @@ li:
           pagxo01: 
             adverboj: 
               adverboj: Prieveiksmiai
-              adverboj-ekzpliko-1: "Prieveiksmiai, skirtingai nuo būdvardžių, susiję ne su daiktavardžiu, o su veiksmažodžiu ir būdvardžiu. Daugiskaitoje prieveiksmiai neturi galūnės \\\"-j\\\". Jie išreiškia būdą, priežastį, laiką ar vietą."
+              adverboj-ekzpliko-1: "Prieveiksmiai, skirtingai nuo būdvardžių, susiję ne su daiktavardžiu, o su veiksmažodžiu ir būdvardžiu. Daugiskaitoje prieveiksmiai neturi galūnės \"-j\". Jie išreiškia būdą, priežastį, laiką ar vietą."
               adverboj-ekzpliko-2: "Esperanto kalboje išvestiniai prieveiksmiai paprastai baigiasi \"-e\". Pagrindinė žodžio šaknies reikšmė gali keistis priklausomai nuo galūnės."
               frazoj: 
                 adverboj-rimarkigo: "Prieveiksmiai paprastai rašomi prieš žodį, su kuriuo jis susijęs."
@@ -25,7 +25,7 @@ li:
           pagxo04: 
             adjektivoj: 
               adjektivoj-el-numeraloj: "Kelintiniai skaitvardžiai"
-              adjektivoj-el-numeraloj-ekzpliko: "Kelintiniai skaitvardžiai sudaromi prie skaitvardžio pridedant galūnę \\\"-a\\\".  Kaip ir būdvardžiai, daugiskaitoje jie turi galūnę \\\"-j\\\", o galininko linksnyje - \\\"-n\\\"."
+              adjektivoj-el-numeraloj-ekzpliko: "Kelintiniai skaitvardžiai sudaromi prie skaitvardžio pridedant galūnę \"-a\".  Kaip ir būdvardžiai, daugiskaitoje jie turi galūnę \"-j\", o galininko linksnyje - \"-n\"."
               frazoj: 
                 frazo-adjektivoj-1: "Pirmieji berniukai ateina."
                 frazo-adjektivoj-2: "Jis pagavo trečią vabzdį."
@@ -38,7 +38,7 @@ li:
                 tria: "trečias\n"
             adverboj: 
               adverboj-el-numeraloj: "Prieveiksmiai, padaryti iš skaitvardžių"
-              adverboj-el-numeraloj-ekzpliko: "Prie skaitvardžių pridedant galūnę \\\"-e\\\", gaunami prieveiksmiai:"
+              adverboj-el-numeraloj-ekzpliko: "Prie skaitvardžių pridedant galūnę \"-e\", gaunami prieveiksmiai:"
               frazoj: 
                 frazo-adverboj-1: "Pirmiausia jis gers vandenį."
               vortoj: 

@@ -37,7 +37,7 @@ la:
           pagxo03: 
             datoj: 
               datoj: Datumi
-              datoj-ekzpliko: "Lai izteiktu datumus, sekojiet piemēram. Vārdi \\\"tago\\\" un \\\"en la jaro\\\" netiek lietoti:"
+              datoj-ekzpliko: "Lai izteiktu datumus, sekojiet piemēram. Vārdi \"tago\" un \"en la jaro\" netiek lietoti:"
             monatoj: 
               aprilo: aprīlis
               aŭgusto: augusts
@@ -58,7 +58,7 @@ la:
                 aserto: "Apgalvojums:"
                 aserto-frazo: "Maize ir sausa."
               demandaj: "Jautājamās frāzes"
-              demandaj-ekzpliko: "Jebkurš jautājums tiek veidots uz apgalvojuma vai nolieguma, kuram pirms frāzes tiek pievienots vārds \\\"Ĉu\\\". Pievērsiet uzmanību, ka vārdu kārtība esperanto valodā netiek mainīta, tikai pirms frāzes pievieno vārdu \\\"Ĉu\\\". Tas ir derīgs visiem jautājumiem, kuriem atbildes būs \\\"jes - jā\\\" vai \\\"ne - nē\\\""
+              demandaj-ekzpliko: "Jebkurš jautājums tiek veidots uz apgalvojuma vai nolieguma, kuram pirms frāzes tiek pievienots vārds \"Ĉu\". Pievērsiet uzmanību, ka vārdu kārtība esperanto valodā netiek mainīta, tikai pirms frāzes pievieno vārdu \"Ĉu\". Tas ir derīgs visiem jautājumiem, kuriem atbildes būs \"jes - jā\" vai \"ne - nē\""
               demando: 
                 demando: "Jautājums:"
                 demando-frazo: "Vai maize ir sausa?"

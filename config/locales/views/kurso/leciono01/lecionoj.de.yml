@@ -6,8 +6,8 @@ de:
         lecionoj: 
           pagxo01: 
             alfabeto-ekspliko: |-
-                In Esperanto schreibt man die Wörter lauttreu, d. h. genau nach dem Klang der Laute. Dabei werden die  Wörter stets auf der vorletzten \[Sprech-\]Silbe betont.
-                \[Bitte Wörter (1) anklicken und laut nachsprechen, (2) vorher aussprechen und dann abhören\]
+                In Esperanto schreibt man die Wörter lauttreu, d. h. genau nach dem Klang der Laute. Dabei werden die  Wörter stets auf der vorletzten [Sprech-]Silbe betont.
+                [Bitte Wörter (1) anklicken und laut nachsprechen, (2) vorher aussprechen und dann abhören]
             alfabeto-titolo: Esperanto-ABC
           pagxo03: 
             personaj-pronomoj: Personalpronomen
@@ -25,7 +25,7 @@ de:
               vi: du
             specialaj: 
               oni: "man (Indefinitpronomen, unpersönlich)"
-              si: "sich \\[Reflexivpronomen der 3. Person (er, sie, es, man), rückbezogen auf das Subjekt               des Satzes\\]"
+              si: "sich [Reflexivpronomen der 3. Person (er, sie, es, man), rückbezogen auf das Subjekt               des Satzes]"
               specialaj: Besondere
           pagxo04: 
             adjektivoj: 
@@ -52,7 +52,7 @@ de:
                 mi-estas: "ich bin"
                 sxi-estas: "sie ist"
               verboj: Verben
-              verboj-ekspliko: "Der Infinitiv endet stets auf -i: esti = sein.  Die Zeitformen (Tempora)  erkennt man an ihren \\[gleich bleibenden\\] Endungen: (1) Präteritum (-is): estis = war,  (2) Präsens (-as): estas = ist und (3) Futur (-os): estos = wird sein. Weitere Formen des Verbs behandeln wir in Lektion 9."
+              verboj-ekspliko: "Der Infinitiv endet stets auf -i: esti = sein.  Die Zeitformen (Tempora)  erkennt man an ihren [gleich bleibenden] Endungen: (1) Präteritum (-is): estis = war,  (2) Präsens (-as): estas = ist und (3) Futur (-os): estos = wird sein. Weitere Formen des Verbs behandeln wir in Lektion 9."
           pagxo05: 
             amiko: Freund
             bela: schön
@@ -87,7 +87,7 @@ de:
               patroj: Väter
               sanaj: gesunde
               sanaj-patroj: "gesunde Väter"
-            pluralo-ekzpliko: "Der Plural endet auf \\\"oj\\\" bei den Nomen, auf \\\"aj\\\" bei den Adjektiven."
+            pluralo-ekzpliko: "Der Plural endet auf \"oj\" bei den Nomen, auf \"aj\" bei den Adjektiven."
             pluralo-titolo: "Mehrzahl - Plural"
             singularo: 
               amiko: "(ein) Freund"
@@ -108,7 +108,7 @@ de:
               ĝia: sein
               ŝia: ihr
             posedaj-pronomoj: Possessivpronomen
-            posedaj-pronomoj-ekzpliko: "Man bildet ein Possessivpronomen aus dem Personalpronomen, indem man an dieses die Adjektivendung \\\"a\\\" anfügt, also: mi = ich, mia = mein (usw.)"
+            posedaj-pronomoj-ekzpliko: "Man bildet ein Possessivpronomen aus dem Personalpronomen, indem man an dieses die Adjektivendung \"a\" anfügt, also: mi = ich, mia = mein (usw.)"
             rimarkigo: 
               mia-amiko: "mein Freund"
               miaj-amikoj: "meine Freunde"
@@ -118,7 +118,7 @@ de:
           pagxo08: 
             artikolo: 
               artikolo: Artikel
-              artikolo-ekzpliko: "Das Esperanto kennt nur den bestimmten Artikel \\\"la\\\", dt. 'der/die/das'. Fehlt \\\"la\\\" vor einem Nomen/Substantiv, ist dies gleichbedeutend mit dem unbestimmten Artikel (ein/e) im Dt."
+              artikolo-ekzpliko: "Das Esperanto kennt nur den bestimmten Artikel \"la\", dt. 'der/die/das'. Fehlt \"la\" vor einem Nomen/Substantiv, ist dies gleichbedeutend mit dem unbestimmten Artikel (ein/e) im Dt."
               floroj: Blumen
               knabo: "(ein) Junge"
               la-floroj: "die Blumen"

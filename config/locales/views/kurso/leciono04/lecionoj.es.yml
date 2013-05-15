@@ -37,7 +37,7 @@ es:
           pagxo03: 
             datoj: 
               datoj: Fechas
-              datoj-ekzpliko: "Para decir la fecha, siga el modelo. Las palabras \\\"día\\\" y \\\"en el año\\\" están implícitas, y normalmente no es necesario mencionarlas."
+              datoj-ekzpliko: "Para decir la fecha, siga el modelo. Las palabras \"día\" y \"en el año\" están implícitas, y normalmente no es necesario mencionarlas."
             monatoj: 
               aprilo: abril
               aŭgusto: agosto
@@ -58,7 +58,7 @@ es:
                 aserto: "Afirmación:"
                 aserto-frazo: "El pan está seco."
               demandaj: "Oraciones Interrogativas"
-              demandaj-ekzpliko: "Todas las preguntas se construyen sobre la afirmación, simplemente colocando la palabra \\\"Ĉu\\\" al principio de la oración. Note que el orden de palabras en Esperanto no varía; sólo se coloca la palabra \\\"ĉu\\\" al inicio. Esto es válido para todas las preguntas cuyas respuestas serán \\\"sí\\\" o \\\"no\\\"."
+              demandaj-ekzpliko: "Todas las preguntas se construyen sobre la afirmación, simplemente colocando la palabra \"Ĉu\" al principio de la oración. Note que el orden de palabras en Esperanto no varía; sólo se coloca la palabra \"ĉu\" al inicio. Esto es válido para todas las preguntas cuyas respuestas serán \"sí\" o \"no\"."
               demando: 
                 demando: "Pregunta:"
                 demando-frazo: "¿Está seco el pan?"

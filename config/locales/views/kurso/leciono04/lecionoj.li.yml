@@ -37,7 +37,7 @@ li:
           pagxo03: 
             datoj: 
               datoj: Datos
-              datoj-ekzpliko: "Sakykite datą pagal pavyzdį (žodžiai \\\"tago\\\" ir \\\"jaro\\\" praleisti, nes jie savaime suprantami)."
+              datoj-ekzpliko: "Sakykite datą pagal pavyzdį (žodžiai \"tago\" ir \"jaro\" praleisti, nes jie savaime suprantami)."
             monatoj: 
               aprilo: balandis
               aŭgusto: rugpjūtis
@@ -58,7 +58,7 @@ li:
                 aserto: "Teiginys:"
                 aserto-frazo: "Duona yra sausa."
               demandaj: "Klausiamieji sakiniai"
-              demandaj-ekzpliko: "Visi klausimai, sudaryti kokiam nors teiginiui, prasideda žodeliu \\\"Ĉu\\\".  Atkreipkite dėmesį, kad žodžių tvarka sakinyje nesikeičia, tik prieš sakinį parašomas žodelis \\\"Ĉu\\\". Tai galioja visiems klausimams, į kuriuos galima atsakyti \\\"taip\\\" arba \\\"ne\\\"."
+              demandaj-ekzpliko: "Visi klausimai, sudaryti kokiam nors teiginiui, prasideda žodeliu \"Ĉu\".  Atkreipkite dėmesį, kad žodžių tvarka sakinyje nesikeičia, tik prieš sakinį parašomas žodelis \"Ĉu\". Tai galioja visiems klausimams, į kuriuos galima atsakyti \"taip\" arba \"ne\"."
               demando: 
                 demando: "Klausimas:"
                 demando-frazo: "Ar duona yra sausa?"

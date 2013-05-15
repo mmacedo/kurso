@@ -37,7 +37,7 @@ de:
           pagxo03: 
             datoj: 
               datoj: "Das Datum"
-              datoj-ekzpliko: "Bei der Datumsnennung das Muster befolgen; Wörter wie \\\"Tag\\\" oder \\\"im Jahr\\\" sind mitgemeint:"
+              datoj-ekzpliko: "Bei der Datumsnennung das Muster befolgen; Wörter wie \"Tag\" oder \"im Jahr\" sind mitgemeint:"
             monatoj: 
               aprilo: April
               aŭgusto: August
@@ -58,7 +58,7 @@ de:
                 aserto: "Aussage:"
                 aserto-frazo: "Das Brot ist trocken."
               demandaj: Fragesätze
-              demandaj-ekzpliko: "Durch das vorangestellte Fragewort \\\"ĉu\\\" behalten die Entscheidungsfragen \\[Ja/Nein\\]  im Esperanto die Satzgliedfolge des Aussagesatzes bei - im Unterschied zum Dt., wo das Verb die Frage einleitet."
+              demandaj-ekzpliko: "Durch das vorangestellte Fragewort \"ĉu\" behalten die Entscheidungsfragen [Ja/Nein]  im Esperanto die Satzgliedfolge des Aussagesatzes bei - im Unterschied zum Dt., wo das Verb die Frage einleitet."
               demando: 
                 demando: "Frage:"
                 demando-frazo: "Ist das Brot trocken?"

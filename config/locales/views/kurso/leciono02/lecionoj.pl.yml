@@ -23,10 +23,10 @@ pl:
               viro: mężczyzna
           pagxo02: 
             akusativo: "Biernik (-n)"
-            akusativo-ekzpliko-1: "Jest inna końcówka, bardzo użyteczna, umożliwiająca rozpoznanie prostego dopełnienia. Jest to litera   \\\"-n \\\"  oznaczająca biernik i dodawana do rzeczowników, przymiotników i zaimków."
+            akusativo-ekzpliko-1: "Jest inna końcówka, bardzo użyteczna, umożliwiająca rozpoznanie prostego dopełnienia. Jest to litera   \"-n \"  oznaczająca biernik i dodawana do rzeczowników, przymiotników i zaimków."
             akusativo-ekzpliko-2: "Zauważ, że liczbę mnogą  zaznacza się przed biernikiem , a on jest zawsze zaznaczony na końcu wyrazu  np: -jn Proste dopełnienie może znajdować się na początku, w środku, lub na końcu zdania i to nie zmienia jego sensu, ponieważ dopełnienie wskazuje biernik. Oto trzy zdania, których sens jest  taki sam:"
             akusativo-rimarkigo-1: "Różny szyk wyrazów w zdaniu może być użyty, aby je  zróżnicować.To wyjaśnimy później."
-            akusativo-rimarkigo-2: "Po  czasowniku  \\\"być\\\" nie używaj biernika, ponieważ \\\"być\\\" wskazuje, że podmiot i orzeczenie  są  równoważne."
+            akusativo-rimarkigo-2: "Po  czasowniku  \"być\" nie używaj biernika, ponieważ \"być\" wskazuje, że podmiot i orzeczenie  są  równoważne."
             frazo-plurala: "Ja myję nowe filiżanki."
             frazo-singulara: "Ja myję nową filiżankę."
           pagxo03: 
@@ -36,7 +36,7 @@ pl:
               frazo03: "Ona nie jest moją matką."
               frazo04: "Ciastka nie były ciepłe."
               neado: Przeczenie
-              neado-ekspliko: "Aby utworzyć zdanie przeczące, wystarczy dać słówko \\\"ne\\\"  przed czasownikiem."
+              neado-ekspliko: "Aby utworzyć zdanie przeczące, wystarczy dać słówko \"ne\"  przed czasownikiem."
             prefikso-mal: 
               amiko: przyjaciel
               avara: skąpy
@@ -49,10 +49,10 @@ pl:
               malnova: "stary /odnośnie rzeczy/"
               nova: nowy
               prefikso-mal: "Przedrostek  \"mal-\""
-              prefikso-mal-ekspliko: "Przedrostek  \\\"mal-\\\" pozwala tworzyć wyrazy, których znaczenie jest przeciwieństwem słowa, z którym jest połączony."
+              prefikso-mal-ekspliko: "Przedrostek  \"mal-\" pozwala tworzyć wyrazy, których znaczenie jest przeciwieństwem słowa, z którym jest połączony."
           pagxo04: 
             muziko: "Muzyka w Esperanto"
-            muziko-ekzpliko: "Słuchaj piosenki \\\"Oto\\\" argentyńskiej grupy \\\"Świnie\\\", nagrodzonej na konkursach UEA.Członkowie grupy to A.Cossavella(głos) P.Cianco (drumle) I. Mendizabal (gitara) S.  Agustoni (gitara basowa). \\\"Oto\\\" to słówko, które zapowiada, zwraca uwagę. Kliknij na przycisk, aby usłyszeć piosenkę."
+            muziko-ekzpliko: "Słuchaj piosenki \"Oto\" argentyńskiej grupy \"Świnie\", nagrodzonej na konkursach UEA.Członkowie grupy to A.Cossavella(głos) P.Cianco (drumle) I. Mendizabal (gitara) S.  Agustoni (gitara basowa). \"Oto\" to słówko, które zapowiada, zwraca uwagę. Kliknij na przycisk, aby usłyszeć piosenkę."
           pagxo05: 
             akvo: woda
             ami: kochać

@@ -37,7 +37,7 @@ sl:
           pagxo03: 
             datoj: 
               datoj: Datumi
-              datoj-ekzpliko: "Za izražanja datumov sledite vzorcu. Besedi \\\"tago\\\" in \\\"en la jaro\\\" izpustimo, saj sta samoumevni."
+              datoj-ekzpliko: "Za izražanja datumov sledite vzorcu. Besedi \"tago\" in \"en la jaro\" izpustimo, saj sta samoumevni."
             monatoj: 
               aprilo: april
               aŭgusto: avgust
@@ -58,7 +58,7 @@ sl:
                 aserto: "Trdilni stavek:"
                 aserto-frazo: "Kruh je suh."
               demandaj: "Vprašalni stavki"
-              demandaj-ekzpliko: "Vsak trdilni stavek preprosto spremenimo v vprašalni stavek. Potrebno je samo na začetek stavka dodati vprašalnico \\\"Ĉu\\\". Bodite pazljivi, saj se v esperantu besedni red ne spremeni. Potrebno je samo postaviti vprašalnico \\\"Ĉu\\\" na začetek stavka. To velja za vsa vprašanja, na katera odgovorimo z \\\"Ja\\\" ali \\\"Ne\\\"."
+              demandaj-ekzpliko: "Vsak trdilni stavek preprosto spremenimo v vprašalni stavek. Potrebno je samo na začetek stavka dodati vprašalnico \"Ĉu\". Bodite pazljivi, saj se v esperantu besedni red ne spremeni. Potrebno je samo postaviti vprašalnico \"Ĉu\" na začetek stavka. To velja za vsa vprašanja, na katera odgovorimo z \"Ja\" ali \"Ne\"."
               demando: 
                 demando: "Vprašalni stavek:"
                 demando-frazo: "Ali je kruh suh?"

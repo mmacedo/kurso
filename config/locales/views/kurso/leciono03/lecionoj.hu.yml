@@ -7,8 +7,8 @@ hu:
           pagxo01: 
             adverboj: 
               adverboj: Határozók
-              adverboj-ekzpliko-1: "A határozó szóknak hasonló a szerepük, mint a mellékneveknek. Miközben a melléknevek a fõnevet jellemzik, a határozószók az igét határozzák meg.  A határozók viszont nem kapnak többes szám \\\"j\\\" végzõdést.  Általában módot, okot, idõt vagy helyet határoznak meg."
-              adverboj-ekzpliko-2: "Az összes határozó más szavakból származik, és \\\"e\\\" betûvel végzõdik.  A szógyök alapjelentését többféleképpen lehet használni,  a végzõdések egyszerû megváltoztatásával."
+              adverboj-ekzpliko-1: "A határozó szóknak hasonló a szerepük, mint a mellékneveknek. Miközben a melléknevek a fõnevet jellemzik, a határozószók az igét határozzák meg.  A határozók viszont nem kapnak többes szám \"j\" végzõdést.  Általában módot, okot, idõt vagy helyet határoznak meg."
+              adverboj-ekzpliko-2: "Az összes határozó más szavakból származik, és \"e\" betûvel végzõdik.  A szógyök alapjelentését többféleképpen lehet használni,  a végzõdések egyszerû megváltoztatásával."
               frazoj: 
                 adverboj-rimarkigo: "A határozó szokás szerint a vonatkozott szó elé kerül."
                 frazo-sana: "Õ(férfi) egészséges."
@@ -25,7 +25,7 @@ hu:
           pagxo04: 
             adjektivoj: 
               adjektivoj-el-numeraloj: "Számnevekbõl képzett melléknevek"
-              adjektivoj-el-numeraloj-ekzpliko: "A sorszámnevek a számnevekbõl képzõdnek az \\\"a\\\" végzõdés hozzáadásával. Ezért kaphatnak \\\"-j\\\" többes szám, és \\\"-n\\\" tárgyeset jelet is."
+              adjektivoj-el-numeraloj-ekzpliko: "A sorszámnevek a számnevekbõl képzõdnek az \"a\" végzõdés hozzáadásával. Ezért kaphatnak \"-j\" többes szám, és \"-n\" tárgyeset jelet is."
               frazoj: 
                 frazo-adjektivoj-1: "Az elsõ fiúk jönnek."
                 frazo-adjektivoj-2: "Õ(férfi) elkapta a harmadik rovart."

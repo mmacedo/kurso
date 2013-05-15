@@ -10,7 +10,7 @@ cs:
           pagxo03: 
             personaj-pronomoj: "Osobní zájména"
             pluralo: 
-              ili: "Oni/Ony/Ona (množné číslo společné pro všechny tři rody \\\"li, ŝi, ĝi\\\")"
+              ili: "Oni/Ony/Ona (množné číslo společné pro všechny tři rody \"li, ŝi, ĝi\")"
               ni: My
               pluralo: "Množné číslo"
               vi: "Vy (množné číslo)"
@@ -22,7 +22,7 @@ cs:
               sxi: Ona
               vi: "Ty, Vy  (jednotné číslo, vždy se vyká)"
             specialaj: 
-              oni: "(vyslov  \\\"ony\\\") - neurčité osobní zájméno, značící \\\"člověk, lidé\\\", nemáme-li na mysli konkrétní osobu (člověka by to nenapadlo, jeden  se ani nediví, lidé říkají, říká se, ono se proslýchá)"
+              oni: "(vyslov  \"ony\") - neurčité osobní zájméno, značící \"člověk, lidé\", nemáme-li na mysli konkrétní osobu (člověka by to nenapadlo, jeden  se ani nediví, lidé říkají, říká se, ono se proslýchá)"
               si: "Si (= se, zvratné zájméno třetí osoby - li, ŝi, ĝi, ili, oni) - vztahuje se k podmětu, ne však v první a druhé osobě (pak říkáme doslova: myji mne, myješ tebe, myje se, myjeme nás, myjete vás, myjí se.)"
               specialaj: Zvláštní
           pagxo04: 
@@ -116,7 +116,7 @@ cs:
           pagxo08: 
             artikolo: 
               artikolo: Člen
-              artikolo-ekzpliko: "Neurčitý člen v esperantu není; je pouze člen určitý \\\"la\\\", stejný pro všechny rody, pády a čísla."
+              artikolo-ekzpliko: "Neurčitý člen v esperantu není; je pouze člen určitý \"la\", stejný pro všechny rody, pády a čísla."
               floroj: Květiny
               knabo: Chlapec
               la-floroj: "(ty) květiny"

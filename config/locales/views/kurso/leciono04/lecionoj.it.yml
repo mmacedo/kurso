@@ -37,7 +37,7 @@ it:
           pagxo03: 
             datoj: 
               datoj: Date
-              datoj-ekzpliko: "Per esprimere le date, segui il modello (le locuzioni \\\"tago\\\" e \\\"en la jaro\\\" si sottintendono):"
+              datoj-ekzpliko: "Per esprimere le date, segui il modello (le locuzioni \"tago\" e \"en la jaro\" si sottintendono):"
             monatoj: 
               aprilo: aprile
               aŭgusto: agosto
@@ -58,7 +58,7 @@ it:
                 aserto: "Affermazione:"
                 aserto-frazo: "Il pane è secco."
               demandaj: "Frasi interrogative"
-              demandaj-ekzpliko: "Qualunque asserzione si trasforma nella corrispondente domanda anteponendole la particella \\\"Ĉu\\\". L'ordine delle parole in esperanto rimane invariato; la sola trasformazione consiste nel porre la particella \\\"ĉu\\\" all'inizio della frase. Ciò vale per tutte le domande a cui si risponde \\\"sì\\\" o \\\"no\\\"."
+              demandaj-ekzpliko: "Qualunque asserzione si trasforma nella corrispondente domanda anteponendole la particella \"Ĉu\". L'ordine delle parole in esperanto rimane invariato; la sola trasformazione consiste nel porre la particella \"ĉu\" all'inizio della frase. Ciò vale per tutte le domande a cui si risponde \"sì\" o \"no\"."
               demando: 
                 demando: "Domanda:"
                 demando-frazo: "Il pane è secco?"
@@ -71,7 +71,7 @@ it:
             kaj: e
             kolekti: raccogliere
             kongreso: "[un] congresso"
-            lando: "\\[una\\] terra, \\[un\\] paese"
+            lando: "[una] terra, [un] paese"
             leciono: "[una] lezione"
             lernejo: "[una] scuola"
             libro: "[un] libro"
@@ -81,7 +81,7 @@ it:
             neŭtrala: neutrale
             ovo: "[un] uovo"
             poŝtmarko: "[un] francobollo"
-            sandviĉo: "\\[un\\] panino \\[imbottito\\], \\[un\\] \\\"sandwich\\\""
+            sandviĉo: "[un] panino [imbottito], [un] \"sandwich\""
             sporto: "[uno] sport"
             veni: venire
             vojaĝi: viaggiare
@@ -92,7 +92,7 @@ it:
             tekstokompreno-ekzpliko: "Leggi il testo sottostante, scritto da uno studente di esperanto, e sforzati di capirlo con l'aiuto dei vocaboli allegati."
             vortaro: 
               alia: "altro / a"
-              antaŭ: "davanti a, prima di, \\[tempo\\] fa"
+              antaŭ: "davanti a, prima di, [tempo] fa"
               facila: facile
               interŝanĝi: scambiare
               komenci: cominciare

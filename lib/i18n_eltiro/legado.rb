@@ -10,9 +10,10 @@ module I18nEltiro
       ripari_sintaksaj_eraroj! dosiero, ini_linioj
       # analiza INI linoj en listo de paroj
       ini = IniFile.new(ini_linioj.join).to_h
+      # riparas ini analizilo eraroj
+      ripari_analizilo_eraroj! ini
 
       [ ini["Traduko"]["LingvoID"], ini ]
-
     rescue IniFile::Error => e
       puts "Error processing #{dosiero}:"
       puts e
@@ -64,6 +65,21 @@ module I18nEltiro
         end
         linio
       end
+    end
+
+    def ripari_analizilo_eraroj!(ini)
+      ini.each do |(klavo, valoro)|
+        if valoro.is_a? Hash
+          ripari_analizilo_eraroj!(valoro)
+        else
+          ini[klavo] = ripari_analizilo_valoro(valoro)
+        end
+      end
+    end
+
+    def ripari_analizilo_valoro(valoro)
+      # Forigas '\'
+      valoro.gsub(/ \\ (.) /mx, '\1')
     end
 
     def printi_difekto(mesaĝo, dosiero, de, al)

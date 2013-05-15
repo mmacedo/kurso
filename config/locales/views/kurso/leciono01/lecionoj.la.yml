@@ -22,8 +22,8 @@ la:
               sxi: viņa
               vi: "tu; jūs (vienskaitlis)"
             specialaj: 
-              oni: "Bezpersonisks vietniekvārds; nozīmē \\\"cilvēki; daudz vai dažas personas;  kaut kāds nepazīstams\\\", tiek pielietots, kad negrib vai nevar precizēt, kas veica darbību. Piem., oni parolas, ke... - runā, ka..."
-              si: "\\\"Sia - savs\\\": trešās personas vietniekvārds, kurš tiek lietots, kad tas attiecas uz teikuma priekšmetu."
+              oni: "Bezpersonisks vietniekvārds; nozīmē \"cilvēki; daudz vai dažas personas;  kaut kāds nepazīstams\", tiek pielietots, kad negrib vai nevar precizēt, kas veica darbību. Piem., oni parolas, ke... - runā, ka..."
+              si: "\"Sia - savs\": trešās personas vietniekvārds, kurš tiek lietots, kad tas attiecas uz teikuma priekšmetu."
               specialaj: Īpašie
           pagxo04: 
             adjektivoj: 
@@ -116,7 +116,7 @@ la:
           pagxo08: 
             artikolo: 
               artikolo: Artikuls
-              artikolo-ekzpliko: "Nenoteiktā artikula esperanto valodā nav, bet ir tikai noteiktais artikuls \\\"la\\\", kurš ir vienāds visām dzimtēm, locījumiem un skaitļiem. Artikulu pielieto runājot par kādu konkrētu lietu vai sarunu biedram zināmu lietu. Latviski to netulko."
+              artikolo-ekzpliko: "Nenoteiktā artikula esperanto valodā nav, bet ir tikai noteiktais artikuls \"la\", kurš ir vienāds visām dzimtēm, locījumiem un skaitļiem. Artikulu pielieto runājot par kādu konkrētu lietu vai sarunu biedram zināmu lietu. Latviski to netulko."
               floroj: puķes
               knabo: zēns
               la-floroj: "(konkrētas; tās) puķes"

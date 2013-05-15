@@ -37,7 +37,7 @@ pl:
           pagxo03: 
             datoj: 
               datoj: Daty
-              datoj-ekzpliko: "By podać datę użyj modelu ( \\\"dzień\\\" )  i  ( \\\"w roku\\\" ) 13.Jan.1964 = (13 stycznia ) ( w 1964r )"
+              datoj-ekzpliko: "By podać datę użyj modelu ( \"dzień\" )  i  ( \"w roku\" ) 13.Jan.1964 = (13 stycznia ) ( w 1964r )"
             monatoj: 
               aprilo: kwiecień
               aŭgusto: sierpień
@@ -58,7 +58,7 @@ pl:
                 aserto: "Twierdzenie:"
                 aserto-frazo: "Chleb jest suchy."
               demandaj: "Zdania pytające"
-              demandaj-ekzpliko: "Każde pytanie buduje się na twierdzeniu, stawiając tylko na początku zdania słówko  \\\"Czy\\\". To obowiązuje dla wszystkich pytań, na które odpowiedź jest   \\\"tak\\\", lub  \\\"nie\\\"."
+              demandaj-ekzpliko: "Każde pytanie buduje się na twierdzeniu, stawiając tylko na początku zdania słówko  \"Czy\". To obowiązuje dla wszystkich pytań, na które odpowiedź jest   \"tak\", lub  \"nie\"."
               demando: 
                 demando: "Pytanie:"
                 demando-frazo: "Czy chleb jest suchy?"

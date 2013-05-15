@@ -10,7 +10,7 @@ es:
           pagxo03: 
             personaj-pronomoj: "Pronombres Personales"
             pluralo: 
-              ili: "Ellos/Ellas/Esos (es el plural para \\\"ŝi\\\", \\\"li\\\" y \\\"ĝi\\\")"
+              ili: "Ellos/Ellas/Esos (es el plural para \"ŝi\", \"li\" y \"ĝi\")"
               ni: Nosotros
               pluralo: Plural
               vi: "Ustedes, Vosotros"
@@ -22,7 +22,7 @@ es:
               sxi: Ella
               vi: Tú
             specialaj: 
-              oni: "Uno (pron.  indef., que significa \\\"los hombres; algunas personas; alguien desconocido\\\". Se usa cuando no se quiere o no se puede precisar quién hizo o sufrió la acción)."
+              oni: "Uno (pron.  indef., que significa \"los hombres; algunas personas; alguien desconocido\". Se usa cuando no se quiere o no se puede precisar quién hizo o sufrió la acción)."
               si: "Se (pronombre reflexivo de la tercera persona - el, ella, eso, ellos, uno. Se usa cuando se hace referencia al sujeto de la oración)."
               specialaj: Especiales
           pagxo04: 
@@ -116,7 +116,7 @@ es:
           pagxo08: 
             artikolo: 
               artikolo: Artículo
-              artikolo-ekzpliko: "El artículo indefinido no existe en Esperanto; únicamente existe el artículo definido \\\"la\\\", que es igual para todos los géneros, casos y números."
+              artikolo-ekzpliko: "El artículo indefinido no existe en Esperanto; únicamente existe el artículo definido \"la\", que es igual para todos los géneros, casos y números."
               floroj: "(Unas) Flores"
               knabo: "(Un) Chamo, muchacho"
               la-floroj: "Las flores"

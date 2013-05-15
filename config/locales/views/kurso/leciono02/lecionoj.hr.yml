@@ -11,7 +11,7 @@ hr:
               frazo-virino: "velike žene"
             sufikso-ino: "Sufiks -ino"
             sufikso-ino-ekspliko-1: "Kako smo vidjeli u prošloj lekciji, u Esperantu se pridjevi slažu sa imenicama, kako u jednini, tako i u množini. Množina je sve što je više od jedan. Pridjevi se ne mijenjaju, bez obzira na rod."
-            sufikso-ino-ekspliko-2: "Samo imena bića kojima se određuje spol dobivaju nastavak \\\"o\\\" za muški spol, a \\\"ino\\\" za ženski spol."
+            sufikso-ino-ekspliko-2: "Samo imena bića kojima se određuje spol dobivaju nastavak \"o\" za muški spol, a \"ino\" za ženski spol."
             vortoj: 
               amikino: prijateljica
               amiko: prijatelj
@@ -23,10 +23,10 @@ hr:
               viro: muškarac
           pagxo02: 
             akusativo: "Akuzativ (-n)"
-            akusativo-ekzpliko-1: "Postoji jedan vrlo koristan nastavak koji pomaže prepoznavanje objekta u složenoj rečenici. To je akuzativ, a dolazi na kraju imenica, pridjeva i zamjenica stvarajući tako upravni objekt. A to se postiže nastavkom \\\"-n\\\"."
+            akusativo-ekzpliko-1: "Postoji jedan vrlo koristan nastavak koji pomaže prepoznavanje objekta u složenoj rečenici. To je akuzativ, a dolazi na kraju imenica, pridjeva i zamjenica stvarajući tako upravni objekt. A to se postiže nastavkom \"-n\"."
             akusativo-ekzpliko-2: "Oznaka za množinu dolazi ispred oznake za akuzativ, i to uvijek na kraju riječi. Tako se objekt može pojaviti na početku, u sredini, ili na kraju rečenice, a da se smisao rečenice ne mijenja, jer je objekt označen akuzativom. Evo tri rečenice, čiji smisao ostaje neizmjenjen:"
             akusativo-rimarkigo-1: "Ustvari, različit redoslijed riječi u rečenici može donekle nijansirati smisao. No, to ćemo učiti poslije."
-            akusativo-rimarkigo-2: "Iza glagola \\\"biti\\\" ne slijedi akuzativ, jer glagol \\\"biti\\\" podrazumijeva istovjetnost subjekta sa predikatom."
+            akusativo-rimarkigo-2: "Iza glagola \"biti\" ne slijedi akuzativ, jer glagol \"biti\" podrazumijeva istovjetnost subjekta sa predikatom."
             frazo-plurala: "Mi peremo nove šalice."
             frazo-singulara: "Ja perem novu šalicu."
           pagxo03: 
@@ -49,10 +49,10 @@ hr:
               malnova: stari
               nova: novi
               prefikso-mal: "Prefiks \"mal\""
-              prefikso-mal-ekspliko: "Prefiks \\\"mal\\\" nam omogućuje tvorbu riječi, čiji smisao je suprotan onome kojeg označuje korijen riječi."
+              prefikso-mal-ekspliko: "Prefiks \"mal\" nam omogućuje tvorbu riječi, čiji smisao je suprotan onome kojeg označuje korijen riječi."
           pagxo04: 
             muziko: "Glazba na Esperantu"
-            muziko-ekzpliko: "Slušajmo esperantsku šansonu \\\"Jen\\\",  od argentinske grupe \\\"La Porkoj\\\", koja je nagrađena na natječaju lijepe umjetnosti uea. Grupu sačinjavaju: Alejandro Cossavella (vokal), Pablo Ciancio (bubnjevi) Ignacio Mendizabal (gitare), i Salvador Agustoni (basgitara). Ako želite čuti šansonu pritisnite gumb."
+            muziko-ekzpliko: "Slušajmo esperantsku šansonu \"Jen\",  od argentinske grupe \"La Porkoj\", koja je nagrađena na natječaju lijepe umjetnosti uea. Grupu sačinjavaju: Alejandro Cossavella (vokal), Pablo Ciancio (bubnjevi) Ignacio Mendizabal (gitare), i Salvador Agustoni (basgitara). Ako želite čuti šansonu pritisnite gumb."
           pagxo05: 
             akvo: voda
             ami: voljeti

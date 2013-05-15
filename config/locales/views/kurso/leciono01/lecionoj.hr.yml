@@ -23,7 +23,7 @@ hr:
               vi: Ti
             specialaj: 
               oni: "Bezlična zamjenica (prevodi se sa \"ljudi\" ili \"se\") a koristi se kada se ne želi ili ne može odrediti vršitelj radnje ili onaj koji trpi radnju."
-              si: "\\\"Se\\\", \\\"sebe\\\" (Povratna zamjenica trećeg lica jednine i množine kada radnja prelazi na sam subjekt)"
+              si: "\"Se\", \"sebe\" (Povratna zamjenica trećeg lica jednine i množine kada radnja prelazi na sam subjekt)"
               specialaj: "Posebne zamjenice"
           pagxo04: 
             adjektivoj: 
@@ -116,7 +116,7 @@ hr:
           pagxo08: 
             artikolo: 
               artikolo: Član
-              artikolo-ekzpliko: "Neodređeni član u Esperantu ne postoji. Član \\\"la\\\" stavlja se ispred određenih imenica svih rodova, padeža i brojeva. Ako se želi naznačiti neodređeni smisao riječi, onda se član izostavi."
+              artikolo-ekzpliko: "Neodređeni član u Esperantu ne postoji. Član \"la\" stavlja se ispred određenih imenica svih rodova, padeža i brojeva. Ako se želi naznačiti neodređeni smisao riječi, onda se član izostavi."
               floroj: "(neko) Cvijeće"
               knabo: "(neki) Dječak"
               la-floroj: "(ovo) Cvijeće"

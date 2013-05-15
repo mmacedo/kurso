@@ -7,8 +7,8 @@ fi:
           pagxo01: 
             adverboj: 
               adverboj: Adverbit
-              adverboj-ekzpliko-1: "Adverbit käyttäytyvät adjektiivien tavoin, mutta määrittelemättä substantiivin ilmaisuja. Ne määrittelevät verbin ja adjektiivin ilmaisuja, mutta eivät saa \\\"j\\\" päätettä. Yleensä ne ilmaisevat tapaa, syytä, aikaa tai paikkaa."
-              adverboj-ekzpliko-2: "Adverbien pääte on yleensä \\\"e\\\" (näin on aina siloin, kun ne ovat toisen sanan johdannaisia). Sanan merkitystä voidaan muuttaa yksinkertaisesti, päätettä muuttamalla."
+              adverboj-ekzpliko-1: "Adverbit käyttäytyvät adjektiivien tavoin, mutta määrittelemättä substantiivin ilmaisuja. Ne määrittelevät verbin ja adjektiivin ilmaisuja, mutta eivät saa \"j\" päätettä. Yleensä ne ilmaisevat tapaa, syytä, aikaa tai paikkaa."
+              adverboj-ekzpliko-2: "Adverbien pääte on yleensä \"e\" (näin on aina siloin, kun ne ovat toisen sanan johdannaisia). Sanan merkitystä voidaan muuttaa yksinkertaisesti, päätettä muuttamalla."
               frazoj: 
                 adverboj-rimarkigo: "Yleensä adverbi tulee ennen sanaa, johon se liittyy."
                 frazo-sana: "Hän on terve."
@@ -25,7 +25,7 @@ fi:
           pagxo04: 
             adjektivoj: 
               adjektivoj-el-numeraloj: "Numeraaleista adjektiiveja"
-              adjektivoj-el-numeraloj-ekzpliko: "Järjestysluvut muodostetaan päätteellä \\\"a\\\". Koska päätteenä on \\\"a\\\", ne voivat esiintyä myös monikossa päätteellä (-j) ja akkusatiivissa päätteellä (-n)."
+              adjektivoj-el-numeraloj-ekzpliko: "Järjestysluvut muodostetaan päätteellä \"a\". Koska päätteenä on \"a\", ne voivat esiintyä myös monikossa päätteellä (-j) ja akkusatiivissa päätteellä (-n)."
               frazoj: 
                 frazo-adjektivoj-1: "Ensimmäiset pojat tulevat."
                 frazo-adjektivoj-2: "Hän pyydysti kolmannen hyönteisen."

@@ -10,7 +10,7 @@ vi:
           pagxo03: 
             personaj-pronomoj: "Đại Từ Nhân Xưng"
             pluralo: 
-              ili: "họ (số nhiều cho \\\"ŝi\\\", \\\"li\\\" và \\\"ĝi\\\")"
+              ili: "họ (số nhiều cho \"ŝi\", \"li\" và \"ĝi\")"
               ni: "chúng tôi"
               pluralo: "Dạng số nhiều"
               vi: "các bạn"
@@ -22,7 +22,7 @@ vi:
               sxi: "cô ấy"
               vi: "bạn (số ít)"
             specialaj: 
-              oni: "Một ai đó, họ, người (đại từ chỉ người không rõ ràng, có nghĩa là \\\" người, một vài người, một người nào đó không rõ ràng\\\", sử dụng khi bạn không muốn hay không thể nói được ai được chỉ ra."
+              oni: "Một ai đó, họ, người (đại từ chỉ người không rõ ràng, có nghĩa là \" người, một vài người, một người nào đó không rõ ràng\", sử dụng khi bạn không muốn hay không thể nói được ai được chỉ ra."
               si: "(self) đại từ phả thân chỉ người (cả số ít và số nhiều). Qui trở lại cho CHỦ NGỮ của câu. \"Si\" không thể là chủ ngữ hay là một bộ phận của chủ ngữ."
               specialaj: "Dạng đặc biệt"
           pagxo04: 
@@ -116,7 +116,7 @@ vi:
           pagxo08: 
             artikolo: 
               artikolo: "Mạo từ"
-              artikolo-ekzpliko: "Mạo từ bất định không tồn tại trong Quốc tế ngữ. Chỉ có mạo từ bất định \\\"la\\\", tương đương với tiếng Anh là \\\"the\\\"."
+              artikolo-ekzpliko: "Mạo từ bất định không tồn tại trong Quốc tế ngữ. Chỉ có mạo từ bất định \"la\", tương đương với tiếng Anh là \"the\"."
               floroj: "những bông hoa"
               knabo: "đứa bé trai"
               la-floroj: "những bông hoa"

@@ -11,7 +11,7 @@ es:
               frazo-virino: "Las grandes mujeres"
             sufikso-ino: "Sufijo -ino"
             sufikso-ino-ekspliko-1: "En la primera lección vimos que, en Esperanto, los adjetivos concuerdan en número con el sustantivo; cuando se trata de sólo uno, quedan en singular; cuando se trata de más de uno, deben pasar al plural. Por otra parte, ellos nunca se modifican según género (masculino o femenino)."
-            sufikso-ino-ekspliko-2: "Sólo los nombres destinados a seres sexuados pueden identificar sexo, terminando en \\\"o\\\" los masculinos y en \\\"ino\\\" los femeninos."
+            sufikso-ino-ekspliko-2: "Sólo los nombres destinados a seres sexuados pueden identificar sexo, terminando en \"o\" los masculinos y en \"ino\" los femeninos."
             vortoj: 
               amikino: amiga
               amiko: amigo
@@ -23,10 +23,10 @@ es:
               viro: hombre
           pagxo02: 
             akusativo: "Acusativo (-n)"
-            akusativo-ekzpliko-1: "Existe otra terminación, muy útil, que nos permite reconocer el objeto directo en una oración. Es el acusativo, y se le coloca al final de los sustantivos, adjetivos y pronombres para formar el objeto directo. De modo que se reconoce al objeto directo por la terminación \\\"n\\\"."
+            akusativo-ekzpliko-1: "Existe otra terminación, muy útil, que nos permite reconocer el objeto directo en una oración. Es el acusativo, y se le coloca al final de los sustantivos, adjetivos y pronombres para formar el objeto directo. De modo que se reconoce al objeto directo por la terminación \"n\"."
             akusativo-ekzpliko-2: "Note que el plural se coloca delante del acusativo, y que éste siempre aparece al final de la palabra. El objeto directo puede aparecer al principio, medio o final de una oración, y eso en ningún modo modifica el sentido, el cual es indicado por el acusativo. He aquí tres frases con el mismo sentido:"
             akusativo-rimarkigo-1: "De hecho, los distintos órdenes de palabras pueden usarse para dar énfasis a la frase. De eso hablaremos posteriormente en este curso."
-            akusativo-rimarkigo-2: "Después del verbo \\\"esti\\\" no se usa el acusativo, ya que el verbo \\\"esti\\\" (ser, estar) implica, por sí mismo, que el sujeto y el predicado son equivalentes."
+            akusativo-rimarkigo-2: "Después del verbo \"esti\" no se usa el acusativo, ya que el verbo \"esti\" (ser, estar) implica, por sí mismo, que el sujeto y el predicado son equivalentes."
             frazo-plurala: "Lavo las tazas nuevas"
             frazo-singulara: "Lavo la taza nueva"
           pagxo03: 
@@ -36,7 +36,7 @@ es:
               frazo03: "Ella no es mi madre."
               frazo04: "Las tortas no estaban calientes."
               neado: Negación
-              neado-ekspliko: "Para hacer negativa una frase, basta colocar la palabra \\\"ne\\\" delante del verbo."
+              neado-ekspliko: "Para hacer negativa una frase, basta colocar la palabra \"ne\" delante del verbo."
             prefikso-mal: 
               amiko: amigo
               avara: avaro
@@ -52,7 +52,7 @@ es:
               prefikso-mal-ekspliko: "El prefijo \"mal\" nos permite crear palabras cuyo sentido es el opuesto al de la palabra al cual se le coloca."
           pagxo04: 
             muziko: "Música en Esperanto"
-            muziko-ekzpliko: "Escuchemos ahora la canción en Esperanto \\\"Jen\\\", del grupo argentino \\\"La Porkoj\\\", premiada en los concursos de bellas artes de la Asociación Mundial de Esperanto. Conforman el grupo Alejandro Cossavella (voz), Pablo Ciancio (batería), Ignacio Mendizabal (guitarra) y Salvador Agustoni (bajo). Presione el botón para hacer sonar la canción."
+            muziko-ekzpliko: "Escuchemos ahora la canción en Esperanto \"Jen\", del grupo argentino \"La Porkoj\", premiada en los concursos de bellas artes de la Asociación Mundial de Esperanto. Conforman el grupo Alejandro Cossavella (voz), Pablo Ciancio (batería), Ignacio Mendizabal (guitarra) y Salvador Agustoni (bajo). Presione el botón para hacer sonar la canción."
           pagxo05: 
             akvo: agua
             ami: amar

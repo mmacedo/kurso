@@ -37,7 +37,7 @@ hu:
           pagxo03: 
             datoj: 
               datoj: "Dátum, idõpont, keltezés"
-              datoj-ekzpliko: "A dátum kifejezéséhez kövesd a példát.  A \\\"tago\\\" és az \\\"en la jaro\\\" hozzágondolt,  ezért nem szükséges megemlíteni."
+              datoj-ekzpliko: "A dátum kifejezéséhez kövesd a példát.  A \"tago\" és az \"en la jaro\" hozzágondolt,  ezért nem szükséges megemlíteni."
             monatoj: 
               aprilo: Április
               aŭgusto: Augusztus
@@ -58,7 +58,7 @@ hu:
                 aserto: "Kijelentés:"
                 aserto-frazo: "A kenyér száraz."
               demandaj: "Kérdõ mondatok"
-              demandaj-ekzpliko: "Az összes kérdés a kijelentésre épül, csak elékerül a \\\"Ĉu\\\" szó. Jegyezd meg, hogy a szórend nem változik meg, csak a \\\"Ĉu\\\" szó kerül a mondat elé. Ez érvényes az összes olyan kérdésre, amelyre \\\"igen\\\"-nel  vagy \\\"nem\\\"-mel lehet válaszolni."
+              demandaj-ekzpliko: "Az összes kérdés a kijelentésre épül, csak elékerül a \"Ĉu\" szó. Jegyezd meg, hogy a szórend nem változik meg, csak a \"Ĉu\" szó kerül a mondat elé. Ez érvényes az összes olyan kérdésre, amelyre \"igen\"-nel  vagy \"nem\"-mel lehet válaszolni."
               demando: 
                 demando: "Kérdés:"
                 demando-frazo: "Száraz a kenyér?"

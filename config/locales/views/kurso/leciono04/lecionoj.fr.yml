@@ -58,7 +58,7 @@ fr:
                 aserto: "Affirmation :"
                 aserto-frazo: "Le pain est sec."
               demandaj: "Phrases interrogatives"
-              demandaj-ekzpliko: "On construit chaque question à partir de l'affirmation, en mettant seulement, au début de la phrase, le petit mot \\\"Ĉu\\\". Faites attention que l'ordre des mots ne change pas en espéranto, on met seulement le mot \\\"ĉu\\\" devant la phrase. Cela est valable pour toutes les questions dont les réponses sont \\\"oui\\\" ou \\\"non\\\"."
+              demandaj-ekzpliko: "On construit chaque question à partir de l'affirmation, en mettant seulement, au début de la phrase, le petit mot \"Ĉu\". Faites attention que l'ordre des mots ne change pas en espéranto, on met seulement le mot \"ĉu\" devant la phrase. Cela est valable pour toutes les questions dont les réponses sont \"oui\" ou \"non\"."
               demando: 
                 demando: "Question :"
                 demando-frazo: "Est-ce que le pain est sec ? Le pain est-il sec ?"

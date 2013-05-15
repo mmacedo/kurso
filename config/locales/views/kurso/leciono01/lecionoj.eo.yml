@@ -10,7 +10,7 @@ eo:
           pagxo03: 
             personaj-pronomoj: "Personaj Pronomoj"
             pluralo: 
-              ili: "Ili (estas la multnombro por \\\"ŝi\\\", \\\"li\\\" kaj \\\"ĝi\\\")"
+              ili: "Ili (estas la multnombro por \"ŝi\", \"li\" kaj \"ĝi\")"
               ni: Ni
               pluralo: Multnombro
               vi: "Vi (multnombro)"
@@ -22,7 +22,7 @@ eo:
               sxi: Ŝi
               vi: "Vi (ununombro)"
             specialaj: 
-              oni: "Oni - Persona sendifina pronomo, signifanta \\\"la homoj; multaj aŭ kelkaj personoj; iu nekonata\\\", uzata kiam oni ne volas aŭ ne povas precizigi kiu faris aŭ suferis la agon."
+              oni: "Oni - Persona sendifina pronomo, signifanta \"la homoj; multaj aŭ kelkaj personoj; iu nekonata\", uzata kiam oni ne volas aŭ ne povas precizigi kiu faris aŭ suferis la agon."
               si: "Si - Refleksa pronomo de la tria persono - li, ŝi, ĝi, ili, oni -, uzata kiam ĝi rilatas al la subjekto de la propozicio."
               specialaj: Specialaj
           pagxo04: 
@@ -116,7 +116,7 @@ eo:
           pagxo08: 
             artikolo: 
               artikolo: Artikolo
-              artikolo-ekzpliko: "La sendifina artikolo ne ekzistas en Esperanto; sole ekzistas la difina artikolo \\\"la\\\", egala por ĉiuj genroj, kazoj kaj nombroj."
+              artikolo-ekzpliko: "La sendifina artikolo ne ekzistas en Esperanto; sole ekzistas la difina artikolo \"la\", egala por ĉiuj genroj, kazoj kaj nombroj."
               floroj: Floroj
               knabo: Knabo
               la-floroj: "La floroj"

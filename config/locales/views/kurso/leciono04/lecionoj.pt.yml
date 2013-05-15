@@ -37,7 +37,7 @@ pt:
           pagxo03: 
             datoj: 
               datoj: Datas
-              datoj-ekzpliko: "Para dizer as datas, siga o modelo. As palavras \\\"tago\\\" e \\\"en la jaro\\\" já estão subentendidas, e geralmente não é necessário mencioná-las."
+              datoj-ekzpliko: "Para dizer as datas, siga o modelo. As palavras \"tago\" e \"en la jaro\" já estão subentendidas, e geralmente não é necessário mencioná-las."
             monatoj: 
               aprilo: abril
               aŭgusto: agosto
@@ -58,7 +58,7 @@ pt:
                 aserto: "Afirmação:"
                 aserto-frazo: "O pão está seco."
               demandaj: "Frases interrogativas"
-              demandaj-ekzpliko: "Toda pergunta é construída sobre a afirmação ou negação, apenas colocando antes da frase a partícula \\\"Ĉu\\\". Note que a ordem das palavras em esperanto não se altera, apenas a partícula \\\"ĉu\\\" é colocada antes da frase. Isso vale para todas as perguntas, cujas respostas sejam \\\"sim\\\" ou \\\"não\\\"."
+              demandaj-ekzpliko: "Toda pergunta é construída sobre a afirmação ou negação, apenas colocando antes da frase a partícula \"Ĉu\". Note que a ordem das palavras em esperanto não se altera, apenas a partícula \"ĉu\" é colocada antes da frase. Isso vale para todas as perguntas, cujas respostas sejam \"sim\" ou \"não\"."
               demando: 
                 demando: "Pergunta:"
                 demando-frazo: "O pão está seco?"

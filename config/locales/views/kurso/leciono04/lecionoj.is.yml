@@ -58,7 +58,7 @@ is:
                 aserto: "Fullyrðing:"
                 aserto-frazo: "Brauðið er þurrt."
               demandaj: Spurnarsetningar
-              demandaj-ekzpliko: "Spurning byggist á fullyrðingu, aðeins þarf að setja smáorðið \\\"Ĉu\\\" fremst í spurnarsetninguna.  Þetta á við um allar spurningar sem svarað er með já eða nei.  Athugaðu að orðaröð breytist ekki frá fullyrðingu til spurningar."
+              demandaj-ekzpliko: "Spurning byggist á fullyrðingu, aðeins þarf að setja smáorðið \"Ĉu\" fremst í spurnarsetninguna.  Þetta á við um allar spurningar sem svarað er með já eða nei.  Athugaðu að orðaröð breytist ekki frá fullyrðingu til spurningar."
               demando: 
                 demando: "Spurning:"
                 demando-frazo: "Er brauðið þurrt?"

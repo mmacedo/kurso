@@ -7,8 +7,8 @@ es:
           pagxo01: 
             adverboj: 
               adverboj: Adverbios
-              adverboj-ekzpliko-1: "Los adverbios funcionan igual que los adjetivos, pero en lugar de definir las ideas expresadas por el sustantivo, ellos definen las ideas del verbo y los adjetivos, pero no reciben la terminación \\\"j\\\". Generalmente expresan modo, causa, tiempo o lugar."
-              adverboj-ekzpliko-2: "En Esperanto los adverbios generalmente terminan en \\\"e\\\" (esto sucede siempre que son derivados de otra palabra). La idea básica expresada por la raíz de la palabra puede ser usada de diversas maneras, gracias a un simple cambio de terminación."
+              adverboj-ekzpliko-1: "Los adverbios funcionan igual que los adjetivos, pero en lugar de definir las ideas expresadas por el sustantivo, ellos definen las ideas del verbo y los adjetivos, pero no reciben la terminación \"j\". Generalmente expresan modo, causa, tiempo o lugar."
+              adverboj-ekzpliko-2: "En Esperanto los adverbios generalmente terminan en \"e\" (esto sucede siempre que son derivados de otra palabra). La idea básica expresada por la raíz de la palabra puede ser usada de diversas maneras, gracias a un simple cambio de terminación."
               frazoj: 
                 adverboj-rimarkigo: "El adverbio generalmente se coloca antes de la palabra con la cual se relaciona."
                 frazo-sana: "Él está sano."
@@ -25,7 +25,7 @@ es:
           pagxo04: 
             adjektivoj: 
               adjektivoj-el-numeraloj: "Adjetivos de números"
-              adjektivoj-el-numeraloj-ekzpliko: "Los números ordinales se forman agregando la terminación \\\"a\\\" a los números cardinales. Dado que tienen la terminación \\\"a\\\", pueden recibir el plural (-j) y el acusativo (-n)."
+              adjektivoj-el-numeraloj-ekzpliko: "Los números ordinales se forman agregando la terminación \"a\" a los números cardinales. Dado que tienen la terminación \"a\", pueden recibir el plural (-j) y el acusativo (-n)."
               frazoj: 
                 frazo-adjektivoj-1: "Los primeros muchachos vienen."
                 frazo-adjektivoj-2: "Él capturó al tercer insecto."

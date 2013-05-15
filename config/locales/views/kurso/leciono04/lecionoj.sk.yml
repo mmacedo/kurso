@@ -58,7 +58,7 @@ sk:
                 aserto: Tvrdenie
                 aserto-frazo: "Ten chlieb je suchý."
               demandaj: "Opytovacie vety"
-              demandaj-ekzpliko: "Každá otázka sa tvorí jednoduchým položením slovíčka \\\"ĉu\\\" na začiatok vety. Dajte pozor na to, že slovosled sa nemení. To platí pre všetky otázky, na ktoré sa dá odpovedať \\\"áno\\\" alebo \\\"nie\\\"."
+              demandaj-ekzpliko: "Každá otázka sa tvorí jednoduchým položením slovíčka \"ĉu\" na začiatok vety. Dajte pozor na to, že slovosled sa nemení. To platí pre všetky otázky, na ktoré sa dá odpovedať \"áno\" alebo \"nie\"."
               demando: 
                 demando: Otázka
                 demando-frazo: "Je ten chlieb suchý?"

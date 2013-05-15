@@ -37,7 +37,7 @@ id:
           pagxo03: 
             datoj: 
               datoj: Tanggal
-              datoj-ekzpliko: "Untuk mengucapkan tanggal, ikuti model ini.  Kata \\\"tago\\\" (hari) dan \\\"en la jaro\\\" (dalam tahun itu) anda tidak harus mengucapkan, karena anda sudah mengertinya."
+              datoj-ekzpliko: "Untuk mengucapkan tanggal, ikuti model ini.  Kata \"tago\" (hari) dan \"en la jaro\" (dalam tahun itu) anda tidak harus mengucapkan, karena anda sudah mengertinya."
             monatoj: 
               aprilo: "bulan April"
               aŭgusto: "bulan Agustus"
@@ -58,7 +58,7 @@ id:
                 aserto: Perkataan
                 aserto-frazo: "Roti itu kering."
               demandaj: "Kalimat Pertanyaan"
-              demandaj-ekzpliko: "Semua pertanyaan terdiri dalam kalimat sederhana, pihak atau negatif, hanya mengambahkan dengan kata \\\"Ĉu\\\" sebelumnya.  Perhatikanlah bahwa urutan dalam kata bahasa Esperanto tidak berubah, hanya kata \\\"Ĉu\\\" ditambah pada permulaan kalimat.  Pertanyaan itu betul untuk semua yang dapat dijawab dengan \\\"ya\\\" atau \\\"tidak\\\" / \\\"bukan\\\"."
+              demandaj-ekzpliko: "Semua pertanyaan terdiri dalam kalimat sederhana, pihak atau negatif, hanya mengambahkan dengan kata \"Ĉu\" sebelumnya.  Perhatikanlah bahwa urutan dalam kata bahasa Esperanto tidak berubah, hanya kata \"Ĉu\" ditambah pada permulaan kalimat.  Pertanyaan itu betul untuk semua yang dapat dijawab dengan \"ya\" atau \"tidak\" / \"bukan\"."
               demando: 
                 demando: "Pertanyaan:"
                 demando-frazo: "Apakah roti itu kering?"

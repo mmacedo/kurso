@@ -10,7 +10,7 @@ pl:
           pagxo03: 
             personaj-pronomoj: "Zaimki osobowe."
             pluralo: 
-              ili: "Oni  (liczba mnoga dla \\\"ona\\\",\\\"on\\\",\\\"ono\\\")"
+              ili: "Oni  (liczba mnoga dla \"ona\",\"on\",\"ono\")"
               ni: My
               pluralo: "Liczba mnoga"
               vi: "Wy  (liczba  mnoga)"
@@ -116,7 +116,7 @@ pl:
           pagxo08: 
             artikolo: 
               artikolo: Rodzajnik
-              artikolo-ekzpliko: "Nieokreślony rodzajnik nie istnieje w Esperanto. Jest tylko określony rodzajnik   \\\"la\\\" dla wszystkich rodzajów, przypadków i liczb."
+              artikolo-ekzpliko: "Nieokreślony rodzajnik nie istnieje w Esperanto. Jest tylko określony rodzajnik   \"la\" dla wszystkich rodzajów, przypadków i liczb."
               floroj: kwiaty
               knabo: chłopiec
               la-floroj: "kwiaty /konkretne/"

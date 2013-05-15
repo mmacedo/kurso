@@ -85,7 +85,7 @@ fi:
               patroj: isät
               sanaj: terveet
               sanaj-patroj: "terveet isät"
-            pluralo-ekzpliko: "Monikko muodostetaan \\\"j\\\" päätteelä, joka lisätään sekä substantiiviin että adjektiiviin:"
+            pluralo-ekzpliko: "Monikko muodostetaan \"j\" päätteelä, joka lisätään sekä substantiiviin että adjektiiviin:"
             pluralo-titolo: Monikko
             singularo: 
               amiko: ystävä
@@ -116,7 +116,7 @@ fi:
           pagxo08: 
             artikolo: 
               artikolo: Artkkeli
-              artikolo-ekzpliko: "Epämääräistä artikkelia Esperantossa ei ole. Määräinen artikkeli on \\\"la\\\", joka ei taivu."
+              artikolo-ekzpliko: "Epämääräistä artikkelia Esperantossa ei ole. Määräinen artikkeli on \"la\", joka ei taivu."
               floroj: Kukat
               knabo: Poika
               la-floroj: "(tietyt) Kukat"

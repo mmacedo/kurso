@@ -58,7 +58,7 @@ da:
                 aserto: "Påstand:"
                 aserto-frazo: "Brødet er tørt."
               demandaj: "Spørgende sætninger:"
-              demandaj-ekzpliko: "Hvert spørgsmål danner man ud fra en påstand ved at sætte ordet  \\\"Ĉu\\\"  foran sætningen. Bemærk at ordstilligen ikke ændres herved. Dette gælder for alle spørgsmål, hvis svar vil være ja eller nej."
+              demandaj-ekzpliko: "Hvert spørgsmål danner man ud fra en påstand ved at sætte ordet  \"Ĉu\"  foran sætningen. Bemærk at ordstilligen ikke ændres herved. Dette gælder for alle spørgsmål, hvis svar vil være ja eller nej."
               demando: 
                 demando: "Spørgsmål:"
                 demando-frazo: "Er brødet tørt?"

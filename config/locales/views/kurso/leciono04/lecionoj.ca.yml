@@ -37,7 +37,7 @@ ca:
           pagxo03: 
             datoj: 
               datoj: Dates
-              datoj-ekzpliko: "Per dir la data, seguiu el model (les paraules \\\"tago\\\" -dia- i \\\"en la jaro\\\" -de l'any- són implícites)"
+              datoj-ekzpliko: "Per dir la data, seguiu el model (les paraules \"tago\" -dia- i \"en la jaro\" -de l'any- són implícites)"
             monatoj: 
               aprilo: abril
               aŭgusto: agost
@@ -58,7 +58,7 @@ ca:
                 aserto: "Afirmació:"
                 aserto-frazo: "El pa està sec."
               demandaj: "Oracions interrogatives"
-              demandaj-ekzpliko: "Totes les preguntes es construeixen sobre l'afirmació o la negació, simplement col·locant la paraula \\\"ĉu\\\" al principi de l'oració. Tingueu en compte que l'ordre de les paraules en esperanto no varia, només es col·loca la paraula \\\"ĉu\\\" davant de la frase. Això val per a les preguntes amb resposta \\\"sí\\\" o \\\"no\\\"."
+              demandaj-ekzpliko: "Totes les preguntes es construeixen sobre l'afirmació o la negació, simplement col·locant la paraula \"ĉu\" al principi de l'oració. Tingueu en compte que l'ordre de les paraules en esperanto no varia, només es col·loca la paraula \"ĉu\" davant de la frase. Això val per a les preguntes amb resposta \"sí\" o \"no\"."
               demando: 
                 demando: "Pregunta:"
                 demando-frazo: "Que està sec el pa?"

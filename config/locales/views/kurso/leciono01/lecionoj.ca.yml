@@ -10,19 +10,19 @@ ca:
           pagxo03: 
             personaj-pronomoj: "Pronoms Personals\n"
             pluralo: 
-              ili: "Ells/Elles/Aquells (és el plural de \\\"ŝi\\\", \\\"li\\\" i \\\"ĝi\\\")"
+              ili: "Ells/Elles/Aquells (és el plural de \"ŝi\", \"li\" i \"ĝi\")"
               ni: Nosaltres
               pluralo: Plural
               vi: "Vosaltres (o vostès)"
             singularo: 
-              gxi: "Ell, això (per referir-nos a algú o alguna cosa el sexe del qual no és necessari precisar. És equivalent al pronom anglès \\\"it\\\")"
+              gxi: "Ell, això (per referir-nos a algú o alguna cosa el sexe del qual no és necessari precisar. És equivalent al pronom anglès \"it\")"
               li: Ell
               mi: Jo
               singularo: Singular
               sxi: Ella
               vi: "Tu (o vostè)"
             specialaj: 
-              oni: "Hom (pronom indefinit, que significa \\\"els homes; moltes o algunes persones; algú desconegut\\\". S'utilitza quan no es vol o no es pot precisar qui fa o en qui recau l'acció del verb. S'utilitza també per formar frases impersonals)"
+              oni: "Hom (pronom indefinit, que significa \"els homes; moltes o algunes persones; algú desconegut\". S'utilitza quan no es vol o no es pot precisar qui fa o en qui recau l'acció del verb. S'utilitza també per formar frases impersonals)"
               si: "Es (Pronom reflexiu de la tercera persona - li, ŝi, ĝi, ili, oni -, utilitzat quan es fa referència al subjecte de l'oració)"
               specialaj: Especials
           pagxo04: 
@@ -118,7 +118,7 @@ ca:
           pagxo08: 
             artikolo: 
               artikolo: Article
-              artikolo-ekzpliko: "L'article indefinit (un, una) no existeix en esperanto; només existeix l'article definit \\\"la\\\", que és igual per a tots els gèneres, casos i números."
+              artikolo-ekzpliko: "L'article indefinit (un, una) no existeix en esperanto; només existeix l'article definit \"la\", que és igual per a tots els gèneres, casos i números."
               floroj: "(Unes) flors"
               knabo: "(Un) noi"
               la-floroj: "Les flors"

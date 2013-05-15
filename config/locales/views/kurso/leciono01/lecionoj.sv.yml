@@ -130,8 +130,8 @@ sv:
             artikolo: 
               artikolo: "Bestämd artikel"
               artikolo-ekzpliko: |-
-                  Obestämd artikel finns inte i esperanto; Det finns endast EN bestämd artikel \"la\" som används 
-                  för alla genus, deklinationer och numerus. Obestämd form skapas genom att utesluta ordet \"la\".
+                  Obestämd artikel finns inte i esperanto; Det finns endast EN bestämd artikel "la" som används 
+                  för alla genus, deklinationer och numerus. Obestämd form skapas genom att utesluta ordet "la".
               floroj: blommor
               knabo: pojke
               la-floroj: blommorna

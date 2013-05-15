@@ -58,7 +58,7 @@ tr:
                 aserto: "Onaylamak:"
                 aserto-frazo: "Ekmek kurudur."
               demandaj: "Soru cümleleri"
-              demandaj-ekzpliko: "Her soru onaylama veya onaylamama üzerine kurulur, sadece cümlenin önüne \\\" Ĉu \\\" ( mı , mi ) kelimeciğini koyarız. Bu cevaplar cevabı \\\"evet \\\" veya \\\"hayır\\\" olacak tüm sorular için geçerlidir."
+              demandaj-ekzpliko: "Her soru onaylama veya onaylamama üzerine kurulur, sadece cümlenin önüne \" Ĉu \" ( mı , mi ) kelimeciğini koyarız. Bu cevaplar cevabı \"evet \" veya \"hayır\" olacak tüm sorular için geçerlidir."
               demando: 
                 demando: "Soru :"
                 demando-frazo: "Ekmek kuru mu ?"

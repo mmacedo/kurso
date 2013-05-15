@@ -7,8 +7,8 @@ fr:
           pagxo01: 
             adverboj: 
               adverboj: "Les adverbes"
-              adverboj-ekzpliko-1: "Les adverbes fonctionnent de la même manière que les adjectifs mais au lieu de définir les idées exprimées par le nom, ils définissent les idées du verbe et de l'adjectif mais ne prennent pas la terminaison \\\"j\\\". En général, ils expriment la manière, la cause, le temps ou le lieu."
-              adverboj-ekzpliko-2: "En espéranto, les adverbes se terminent généralement par \\\"e\\\" (c'est toujours le cas lorsqu'il s'agit d'un adverbe dérivé d'un autre mot). L'idée fondamentale exprimée par la racine d'un mot peut être utilisée de différentes façons grâce à un simple changement de terminaison :"
+              adverboj-ekzpliko-1: "Les adverbes fonctionnent de la même manière que les adjectifs mais au lieu de définir les idées exprimées par le nom, ils définissent les idées du verbe et de l'adjectif mais ne prennent pas la terminaison \"j\". En général, ils expriment la manière, la cause, le temps ou le lieu."
+              adverboj-ekzpliko-2: "En espéranto, les adverbes se terminent généralement par \"e\" (c'est toujours le cas lorsqu'il s'agit d'un adverbe dérivé d'un autre mot). L'idée fondamentale exprimée par la racine d'un mot peut être utilisée de différentes façons grâce à un simple changement de terminaison :"
               frazoj: 
                 adverboj-rimarkigo: "D'ordinaire, on met l'adverbe devant le mot auquel il se rapporte."
                 frazo-sana: "Il est sain, bien portant."
@@ -25,7 +25,7 @@ fr:
           pagxo04: 
             adjektivoj: 
               adjektivoj-el-numeraloj: "Adjectifs issus de nombres cardinaux"
-              adjektivoj-el-numeraloj-ekzpliko: "On forme les nombres ordinaux en ajoutant la terminaison \\\"a\\\" aux nombres cardinaux. Comme  ils possèdent la terminaison \\\"a\\\", ils peuvent se mettre au pluriel (-j) et à l'accusatif (-n)."
+              adjektivoj-el-numeraloj-ekzpliko: "On forme les nombres ordinaux en ajoutant la terminaison \"a\" aux nombres cardinaux. Comme  ils possèdent la terminaison \"a\", ils peuvent se mettre au pluriel (-j) et à l'accusatif (-n)."
               frazoj: 
                 frazo-adjektivoj-1: "Les premiers garçons viennent."
                 frazo-adjektivoj-2: "Il a attrapé le troisième insecte."
@@ -38,7 +38,7 @@ fr:
                 tria: troisième
             adverboj: 
               adverboj-el-numeraloj: "Adverbes issus des nombres cardinaux"
-              adverboj-el-numeraloj-ekzpliko: "En ajoutant la terminaison \\\"e\\\" aux nombres cardinaux, on forme des adverbes :"
+              adverboj-el-numeraloj-ekzpliko: "En ajoutant la terminaison \"e\" aux nombres cardinaux, on forme des adverbes :"
               frazoj: 
                 frazo-adverboj-1: "Il boira d'abord de l'eau."
               vortoj: 

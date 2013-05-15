@@ -37,7 +37,7 @@ eo:
           pagxo03: 
             datoj: 
               datoj: Datoj
-              datoj-ekzpliko: "Por diri la datojn, sekvu la modelon. La vortoj \\\"tago\\\" kaj \\\"en la jaro\\\" estas jam subkomprenataj, kaj ordinare oni ne bezonas mencii ilin."
+              datoj-ekzpliko: "Por diri la datojn, sekvu la modelon. La vortoj \"tago\" kaj \"en la jaro\" estas jam subkomprenataj, kaj ordinare oni ne bezonas mencii ilin."
             monatoj: 
               aprilo: aprilo
               aŭgusto: aŭgusto
@@ -58,7 +58,7 @@ eo:
                 aserto: "Aserto:"
                 aserto-frazo: "La pano estas seka."
               demandaj: "Demandaj frazoj"
-              demandaj-ekzpliko: "Ĉiun demandon oni konstruas sur la aserto aŭ malaserto, nur metante antaŭ la frazo la vorteton \\\"Ĉu\\\". Atentu ke la vortordo en Esperanto ne ŝanĝiĝas, nur la vorteton \\\"ĉu\\\" oni metas antaŭ la frazo.  Tio validas por ĉiuj demandoj, kies respondoj estos \\\"jes\\\" aŭ \\\"ne\\\"."
+              demandaj-ekzpliko: "Ĉiun demandon oni konstruas sur la aserto aŭ malaserto, nur metante antaŭ la frazo la vorteton \"Ĉu\". Atentu ke la vortordo en Esperanto ne ŝanĝiĝas, nur la vorteton \"ĉu\" oni metas antaŭ la frazo.  Tio validas por ĉiuj demandoj, kies respondoj estos \"jes\" aŭ \"ne\"."
               demando: 
                 demando: "Demando:"
                 demando-frazo: "Ĉu la pano estas seka?"

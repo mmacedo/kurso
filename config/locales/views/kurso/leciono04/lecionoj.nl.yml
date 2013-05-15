@@ -61,8 +61,8 @@ nl:
                 aserto-frazo: "Het brood is droog."
               demandaj: "Vragende zinnen"
               demandaj-ekzpliko: |-
-                  Elke vraag kun je maken van een bewering door voor de zin het woordje \"Ĉu\" te plaatsen. Let er op dat de 
-                  woordvolgorde verder niet verandert, alleen het woordje \"ĉu\" komt voor de zin. Dit geldt voor alle vragen waarop het antwoord \"ja\" of \"nee\" mogelijk is.
+                  Elke vraag kun je maken van een bewering door voor de zin het woordje "Ĉu" te plaatsen. Let er op dat de 
+                  woordvolgorde verder niet verandert, alleen het woordje "ĉu" komt voor de zin. Dit geldt voor alle vragen waarop het antwoord "ja" of "nee" mogelijk is.
               demando: 
                 demando: "Vraag:"
                 demando-frazo: "Is het brood droog?"

@@ -10,7 +10,7 @@ id:
           pagxo03: 
             personaj-pronomoj: "Kata Ganti Orang"
             pluralo: 
-              ili: "Ili -Mereka (bentuk jamak  \\\"ŝi\\\", \\\"li\\\" dan \\\"ĝi\\\")"
+              ili: "Ili -Mereka (bentuk jamak  \"ŝi\", \"li\" dan \"ĝi\")"
               ni: "Ni - Kami, kita"
               pluralo: "Bentuk jamak"
               vi: "Vi - Kamu (bentuk jamak)"
@@ -22,8 +22,8 @@ id:
               sxi: "Ŝi - Dia, ia (perempuan)"
               vi: "Vi - anda (tunggal)"
             specialaj: 
-              oni: "Oni - Kata ganti orang tak tentu, artinya \\\"seorang, orang-orang, seseorang yg tak dikenal\\\", digunakan kalau tidak mau atau tidak dapat mengatakan siapa terlibat - siapa membuat atau menderita aksi."
-              si: "Si - Kata-ganti refleksip orang ketiga  - li, ŝi, ĝi, ili, oni - ( diri - dia, ia, nya, mereka).  \\\"Si\\\" berkenaan dengan pokok kalimat.  \\\"Si\\\" tidak dapat jadi pokok kalimat."
+              oni: "Oni - Kata ganti orang tak tentu, artinya \"seorang, orang-orang, seseorang yg tak dikenal\", digunakan kalau tidak mau atau tidak dapat mengatakan siapa terlibat - siapa membuat atau menderita aksi."
+              si: "Si - Kata-ganti refleksip orang ketiga  - li, ŝi, ĝi, ili, oni - ( diri - dia, ia, nya, mereka).  \"Si\" berkenaan dengan pokok kalimat.  \"Si\" tidak dapat jadi pokok kalimat."
               specialaj: "Yang lain"
           pagxo04: 
             adjektivoj: 
@@ -116,7 +116,7 @@ id:
           pagxo08: 
             artikolo: 
               artikolo: Kata-Sandang
-              artikolo-ekzpliko: "Tidak ada kata-sandang dalam bahasa Esperanto; hanya ada kata-sandang tertentu \\\"la\\\".  Kata \\\"la\\\" sama untuk segala jenis kelamin, segala kasus,  bentuk tunggal dan bentuk jamak.  (Ini sama dengan \\\"itu\\\" dalam bahasa Indonesia.)"
+              artikolo-ekzpliko: "Tidak ada kata-sandang dalam bahasa Esperanto; hanya ada kata-sandang tertentu \"la\".  Kata \"la\" sama untuk segala jenis kelamin, segala kasus,  bentuk tunggal dan bentuk jamak.  (Ini sama dengan \"itu\" dalam bahasa Indonesia.)"
               floroj: bunga-bunga
               knabo: "anak laki-laki"
               la-floroj: "Bunga (itu)"

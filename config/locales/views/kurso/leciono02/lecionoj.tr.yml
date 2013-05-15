@@ -11,7 +11,7 @@ tr:
               frazo-virino: "büyük kadınlar"
             sufikso-ino: "-ino son eki ( dişil )"
             sufikso-ino-ekspliko-1: "İlk derste Esperantodaki sıfatların , niteledikleri isimlerin tekil veya çoğul hallerine uyum gösterdiğini gördük. Bir isim tekilse, onun sıfatı da tekil kalmakta; isim birden fazla şeyi gösteriyorsa sıfatlarda çoğul şekildedir."
-            sufikso-ino-ekspliko-2: "Sadece cinsiyeti belli olan varlıkların isimleri tanımlıdır.Erkekler için \\\"o\\\" , dişiler için ise \\\"ino\\\" son takısı ile biter.Bir diğer kullanışlı bitirme şeklide, cümlenin içindeki dolaysız nesneyi tanımlamaya yardım eder."
+            sufikso-ino-ekspliko-2: "Sadece cinsiyeti belli olan varlıkların isimleri tanımlıdır.Erkekler için \"o\" , dişiler için ise \"ino\" son takısı ile biter.Bir diğer kullanışlı bitirme şeklide, cümlenin içindeki dolaysız nesneyi tanımlamaya yardım eder."
             vortoj: 
               amikino: "kadın arkadaş"
               amiko: arkadaş
@@ -23,10 +23,10 @@ tr:
               viro: erkek
           pagxo02: 
             akusativo: "İyelik hali (-n)"
-            akusativo-ekzpliko-1: "Edatlarda bize doğru objeyi tanıma imkanı sağlayan çok faydalı başka bir son takı vardır. Bu iyelik halidir ve genelde isimlerin, sıfatların ve zamirlerin sonuna konarak cümleye bir bütünlük kazandırmaktadır.Bu şekilde sondaki \\\"n\\\" harfini ilave etmekle cümledeki dolaysız nesneyi tanımlarız."
+            akusativo-ekzpliko-1: "Edatlarda bize doğru objeyi tanıma imkanı sağlayan çok faydalı başka bir son takı vardır. Bu iyelik halidir ve genelde isimlerin, sıfatların ve zamirlerin sonuna konarak cümleye bir bütünlük kazandırmaktadır.Bu şekilde sondaki \"n\" harfini ilave etmekle cümledeki dolaysız nesneyi tanımlarız."
             akusativo-ekzpliko-2: "Dikkat edin, çoğullama her zaman iyelik halinin önüne konmaktadır ve bu kelime sonunda belirmektedir.Ve dolaysız nesne cümlenin başına, ortasına veya sonuna da konabilir Ama bu cümlenin manasını hiçbir şekilde değiştirmez, çünkü o iyelik hali -i hali tarafından belirtilmiştir. Aşağıdaki üç cümlede aynı anlamı taşır:"
             akusativo-rimarkigo-1: "Aslında değişik kelime sıralaması cümleye nüans kazandırmak için kullanılabilir.Bunu daha ilerki derslerde tartışacağız."
-            akusativo-rimarkigo-2: "Fiilden sonraki \\\"esti\\\" kelimesinde iyelik hali kullanılmaz, çünkü, \\\"esti\\\" kelimesi kendi kendini ifade eder.Bu cümlede özne ve yüklem eşit anlamdadır."
+            akusativo-rimarkigo-2: "Fiilden sonraki \"esti\" kelimesinde iyelik hali kullanılmaz, çünkü, \"esti\" kelimesi kendi kendini ifade eder.Bu cümlede özne ve yüklem eşit anlamdadır."
             frazo-plurala: "Ben yeni tasları yıkıyorum."
             frazo-singulara: "Ben yeni tası yıkıyorum."
           pagxo03: 
@@ -52,7 +52,7 @@ tr:
               prefikso-mal-ekspliko: "Olumsuz \"mal\" ön takısı bize manası olumsuz kelime şeklini yaratmamıza izin verir."
           pagxo04: 
             muziko: "Esperantoca müzik"
-            muziko-ekzpliko: "Şimdi Arjantinli \\\"Domuzlar\\\" grubundan \\\"işte\\\" şarkısını Esperanto dilinde dinleyelim. Uluslararası Esperanto cemiyeti tarafından güzel sanatlar yarışmasında ödül almış olan bu grup Alejandro Cossavella (ses), Pablo Ciancio (bateri) Ignacio Mendizabal (gitar) ve Salvador Agustoni (basgitar)'dan oluşmaktadır.Şarkıyı dinlemek için butona basınız."
+            muziko-ekzpliko: "Şimdi Arjantinli \"Domuzlar\" grubundan \"işte\" şarkısını Esperanto dilinde dinleyelim. Uluslararası Esperanto cemiyeti tarafından güzel sanatlar yarışmasında ödül almış olan bu grup Alejandro Cossavella (ses), Pablo Ciancio (bateri) Ignacio Mendizabal (gitar) ve Salvador Agustoni (basgitar)'dan oluşmaktadır.Şarkıyı dinlemek için butona basınız."
           pagxo05: 
             akvo: su
             ami: sevmek

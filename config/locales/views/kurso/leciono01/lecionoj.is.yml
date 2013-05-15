@@ -10,7 +10,7 @@ is:
           pagxo03: 
             personaj-pronomoj: Persónufornöfn
             pluralo: 
-              ili: "þeir, þær, þau (fleirtala fyrir \\\"ŝi\\\", \\\"li\\\" og \\\"ĝi\\\")"
+              ili: "þeir, þær, þau (fleirtala fyrir \"ŝi\", \"li\" og \"ĝi\")"
               ni: við
               pluralo: Fleirtala
               vi: þið
@@ -22,8 +22,8 @@ is:
               sxi: hún
               vi: þú
             specialaj: 
-              oni: "Oni (óákveðið fornafn, sem merkir \\\"menn\\\"; eða marga eða nokkra einstaklinga; einhverja óþekkta.  Notað þegar menn vilja ekki eða geta ekki bent á einhvern sérstakan."
-              si: "si - afturbeygt fornafn þriðju persónu - li, ŝi, ĝi, oni - notað þegar vísað er til geranda (frumlags)). Á íslensku \\\"sig\\\"."
+              oni: "Oni (óákveðið fornafn, sem merkir \"menn\"; eða marga eða nokkra einstaklinga; einhverja óþekkta.  Notað þegar menn vilja ekki eða geta ekki bent á einhvern sérstakan."
+              si: "si - afturbeygt fornafn þriðju persónu - li, ŝi, ĝi, oni - notað þegar vísað er til geranda (frumlags)). Á íslensku \"sig\"."
               specialaj: "Önnur fornöfn"
           pagxo04: 
             adjektivoj: 
@@ -50,7 +50,7 @@ is:
                 mi-estas: "ég er"
                 sxi-estas: "hún er"
               verboj: Sagnir
-              verboj-ekspliko: "Nafnháttur endar á -i: esti = að vera;  þátíð endar á -is: estis = var; nútíð endar á -as: estas = er; og framtíð endar á -os: estos = verður (\\\"mun verða\\\").  Aðrar beygingar sagna verða teknar fyrir síðar."
+              verboj-ekspliko: "Nafnháttur endar á -i: esti = að vera;  þátíð endar á -is: estis = var; nútíð endar á -as: estas = er; og framtíð endar á -os: estos = verður (\"mun verða\").  Aðrar beygingar sagna verða teknar fyrir síðar."
           pagxo05: 
             amiko: vinur
             bela: fallegur
@@ -116,7 +116,7 @@ is:
           pagxo08: 
             artikolo: 
               artikolo: Greinir
-              artikolo-ekzpliko: "Í esperanto er einn og óumbreytanlegur ákveðinn greinir \\\"la\\\",  eins í öllum kynjum, föllum og  tölum."
+              artikolo-ekzpliko: "Í esperanto er einn og óumbreytanlegur ákveðinn greinir \"la\",  eins í öllum kynjum, föllum og  tölum."
               floroj: "blóm (tvö eða mörg)"
               knabo: drengur
               la-floroj: blómin
