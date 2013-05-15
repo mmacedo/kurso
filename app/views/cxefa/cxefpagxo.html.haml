@@ -1,14 +1,5 @@
 .row
-  .span9
+  .span12
     .hero-unit
       %h1 Kurso de Esperanto
       %a{href: "http://kurso.com.br/index.php?#{I18n.locale}"} Kurso de Esperanto por elŝuto
-  .span3
-    %ul.nav.nav-pills.nav-stacked
-      - cxiu_lingvo do |lingvo, selektas, preferas|
-        = li selektas do
-          %a{href: root_path(locale: lingvo)}
-            - if preferas
-              %strong= lingvo_nomo(lingvo)
-            - else
-              = lingvo_nomo(lingvo)

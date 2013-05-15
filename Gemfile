@@ -32,6 +32,7 @@ gem 'jbuilder'
 gem 'turbolinks'
 gem 'jquery-rails'
 gem 'less-rails-bootstrap'
+gem 'font-awesome-rails'
 
 
 ### Disvolviĝo

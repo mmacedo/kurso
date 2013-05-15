@@ -1,7 +1,7 @@
 %header.navbar.navbar-fixed-top
   %nav.navbar-inner
     .container
-      %a.btn.btn-navbar{'data-toggle' => "collapse", 'data-target' => ".nav-collapse"}
+      %button.btn.btn-navbar{'data-toggle' => "collapse", 'data-target' => ".nav-collapse"}
         %span.icon-bar
         %span.icon-bar
         %span.icon-bar
@@ -10,3 +10,10 @@
         %ul.nav.pull-right
           %li= link_to 'Lerni', "#"
           %li= link_to 'Helpo', "#"
+          %li.dropdown
+            %a.dropdown-toggle{href: '#', 'data-toggle' => "dropdown"}
+              %i.icon-globe
+              = lingvo_nomo(I18n.locale, true)
+              %b.caret
+            %ul.dropdown-menu
+              = lingvo_selektado_opcioj

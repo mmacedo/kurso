@@ -58,6 +58,8 @@ GEM
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    font-awesome-rails (3.1.1.1)
+      railties (>= 3.2, < 5.0)
     grit (2.5.0)
       diff-lcs (~> 1.1)
       mime-types (~> 1.15)
@@ -205,6 +207,7 @@ DEPENDENCIES
   better_errors
   binding_of_caller
   coffee-rails
+  font-awesome-rails
   haml-rails
   http_accept_language (>= 2.0.0.pre)
   inifile

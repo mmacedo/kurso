@@ -1,4 +1,5 @@
 #= require twitter/bootstrap/collapse.js
+#= require twitter/bootstrap/dropdown.js
 #= require twitter/bootstrap/transition.js
 
 # require twitter/bootstrap/affix.js
