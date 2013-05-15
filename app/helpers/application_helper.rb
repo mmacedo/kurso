@@ -42,8 +42,10 @@ module ApplicationHelper
   private
 
   def lingvo_opcio(lingvo)
+    # Ŝanĝas lingvo atingo el kuranta pado
+    nova_pado = request.path.gsub(%r(\A/#{Regexp.quote(I18n.locale)}), "/#{lingvo}")
     content_tag :li do
-      content_tag(:a, lingvo_nomo(lingvo), href: root_path(locale: lingvo))
+      content_tag(:a, lingvo_nomo(lingvo), href: nova_pado)
     end
   end
 end
