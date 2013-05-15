@@ -1,0 +1,98 @@
+--- 
+ru: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: Привет!
+        saluto02: "Добрый день!"
+        saluto03: "Доброе утро!"
+        saluto04: "Добрый вечер!"
+        saluto05: "Спокойной ночи!"
+        saluto06: "Как вы поживаете?"
+        saluto07: "Хорошо, спасибо. А вы ?"
+        saluto08: "Вполне хорошо."
+        saluto09: "Не очень хорошо."
+        saluto10: "Приятного аппетита!"
+        saluto11: "Спасибо, вам того же!"
+        saluto12: "На здоровье!"
+        saluto13: "До свидания!"
+        saluto14: Прощайте!
+        salutoj: "Виды приветствий"
+      pagxo02: 
+        relativoj: 
+          hieraŭ: вчера
+          hodiaŭ: сегодня
+          morgaŭ: завтра
+        semajno: 
+          dimanĉo: воскресенье
+          lundo: понедельник
+          mardo: вторник
+          merkredo: среда
+          sabato: суббота
+          vendredo: пятница
+          ĵaŭdo: четверг
+        tagoj: "Дни недели"
+      pagxo03: 
+        datoj: 
+          datoj: Даты
+          datoj-ekzpliko: "Чтобы сказать дату, следуйте примеру. Слова \"день\" и \"в году\" здесь опущены:"
+        monatoj: 
+          aprilo: апрель
+          aŭgusto: август
+          decembro: декабрь
+          februaro: февраль
+          januaro: январь
+          julio: июль
+          junio: июнь
+          majo: май
+          marto: март
+          monatoj: "Месяцы года"
+          novembro: ноябрь
+          oktobro: октябрь
+          septembro: сентябрь
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Утверждение:"
+            aserto-frazo: "Хлеб сухой."
+          demandaj: "Вопросительные фразы"
+          demandaj-ekzpliko: "Любой вопрос строится на основе повествовательного предложения, достаточно лишь добавить перед фразой частицу ĉu. Обратите внимание, что порядок слов изменять не нужно. Это справедливо для всех вопросов, которые подразумевают ответ \"да\" или \"нет\"."
+          demando: 
+            demando: "Вопрос:"
+            demando-frazo: "Хлеб сухой?"
+          respondo: 
+            respondo: "Ответ:"
+            respondo-frazo-negativa: "Нет, хлеб не сухой."
+            respondo-frazo-pozitiva: "Да, хлеб сухой."
+      pagxo05: 
+        infano: ребенок
+        kaj: "и, \"а\" в значении \"и\""
+        kolekti: "коллекционировать, собирать"
+        kongreso: "конгресс, съезд"
+        lando: "страна, местность"
+        leciono: "урок, лекция"
+        lernejo: школа
+        libro: книга
+        manĝi: "кушать, есть"
+        mejlo: "миля  (мера длины)"
+        monujo: кошелек
+        neŭtrala: нейтральный
+        ovo: яйцо
+        poŝtmarko: "почтовая марка"
+        sandviĉo: "сэндвич, тартинка"
+        sporto: спорт
+        veni: "прибыть, прийти, приехать"
+        vojaĝi: путешествовать
+        ĵurnalo: журнал
+        ŝuo: "ботинок, туфля, башмак"
+      pagxo06: 
+        tekstokompreno: "Текст на понимание"
+        tekstokompreno-ekzpliko: "Прочитайте текст, приведенный ниже и попробуйте его понять, используя словарь."
+        vortaro: 
+          alia: другой
+          antaŭ: "до, перед, прежде, впереди"
+          facila: легкий
+          interŝanĝi: обмениваться
+          komenci: начинать
+          lerni: учить
+          tre: очень

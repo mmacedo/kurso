@@ -1,0 +1,98 @@
+--- 
+sl: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: Zdravo!
+        saluto02: "Dober dan!"
+        saluto03: "Dobro jutro!"
+        saluto04: "Dober večer!"
+        saluto05: "Dobro (lahko) noč!"
+        saluto06: "Kako ti gre? (Kako vam gre?)"
+        saluto07: "Dobro, hvala. In ti? (In vam?)"
+        saluto08: "Dovolj dobro."
+        saluto09: "Ne zelo dobro."
+        saluto10: "Dober tek!"
+        saluto11: "Enako tudi tebi, hvala! (Enako tudi vam, hvala!)"
+        saluto12: "Na tvoje zdravje! (Na vaše zdravje!)"
+        saluto13: Nasvidenje!
+        saluto14: Adijo!
+        salutoj: Pozdravi
+      pagxo02: 
+        relativoj: 
+          hieraŭ: včeraj
+          hodiaŭ: danes
+          morgaŭ: jutri
+        semajno: 
+          dimanĉo: nedelja
+          lundo: ponedeljek
+          mardo: torek
+          merkredo: sreda
+          sabato: sobota
+          vendredo: petek
+          ĵaŭdo: četrtek
+        tagoj: "Dnevi v tednu"
+      pagxo03: 
+        datoj: 
+          datoj: Datumi
+          datoj-ekzpliko: "Za izražanja datumov sledite vzorcu. Besedi \"tago\" in \"en la jaro\" izpustimo, saj sta samoumevni."
+        monatoj: 
+          aprilo: april
+          aŭgusto: avgust
+          decembro: december
+          februaro: februar
+          januaro: januar
+          julio: julij
+          junio: junij
+          majo: maj
+          marto: marec
+          monatoj: "Meseci v letu"
+          novembro: november
+          oktobro: oktober
+          septembro: september
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Trdilni stavek:"
+            aserto-frazo: "Kruh je suh."
+          demandaj: "Vprašalni stavki"
+          demandaj-ekzpliko: "Vsak trdilni stavek preprosto spremenimo v vprašalni stavek. Potrebno je samo na začetek stavka dodati vprašalnico \"Ĉu\". Bodite pazljivi, saj se v esperantu besedni red ne spremeni. Potrebno je samo postaviti vprašalnico \"Ĉu\" na začetek stavka. To velja za vsa vprašanja, na katera odgovorimo z \"Ja\" ali \"Ne\"."
+          demando: 
+            demando: "Vprašalni stavek:"
+            demando-frazo: "Ali je kruh suh?"
+          respondo: 
+            respondo: "Odgovor:"
+            respondo-frazo-negativa: "Ne, kruh ni suh."
+            respondo-frazo-pozitiva: "Ja, kruh je suh."
+      pagxo05: 
+        infano: otrok
+        kaj: in
+        kolekti: zbirati
+        kongreso: kongres
+        lando: dežela
+        leciono: lekcija
+        lernejo: šola
+        libro: knjiga
+        manĝi: jesti
+        mejlo: milja
+        monujo: denarnica
+        neŭtrala: "nevtralen (a,o)"
+        ovo: jajce
+        poŝtmarko: "poštna znamka"
+        sandviĉo: sendvič
+        sporto: šport
+        veni: priti
+        vojaĝi: potovati
+        ĵurnalo: časopis
+        ŝuo: čevelj
+      pagxo06: 
+        tekstokompreno: "Razumevanje besedila"
+        tekstokompreno-ekzpliko: "Preberite spodnji tekst, ki ga je napisal učenec esperanta. Poskušajte razumeti besedilo. Pomagate si lahko s pomočjo slovarja."
+        vortaro: 
+          alia: "drugačen (a,o)"
+          antaŭ: pred
+          facila: "lahek (a,o)"
+          interŝanĝi: izmenjati
+          komenci: začeti
+          lerni: "učiti se"
+          tre: zelo

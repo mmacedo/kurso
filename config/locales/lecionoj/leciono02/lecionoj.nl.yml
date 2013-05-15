@@ -1,0 +1,94 @@
+--- 
+nl: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "De mooie vriendin"
+          frazo-patrino: "De goede moeder"
+          frazo-virino: "De grote vrouwen"
+        sufikso-ino: "Het achtervoegsel -ino"
+        sufikso-ino-ekspliko-1: |-
+            In de eerste les zagen we, dat in het Esperanto de uitgangen van bijvoeglijke naamwoorden in enkel- en 
+            meervoud overeenkomen met het zelfstandig naamwoord: als het over één gaat krijgen ze de enkelvoudsvorm (zonder eind -j), anders de meervoudsvorm (met eind -j). 
+            Woorden kennen geen geslachtsvormen (vrouwelijk, mannelijk, onzijdig)
+        sufikso-ino-ekspliko-2: "Alleen namen van geslachtelijke wezens identificeren het geslacht van die wezens. Voor het mannelijk geslacht eindigen die namen op  \"o\", namen van vrouwelijke wezens eindigen op \"ino\""
+        vortoj: 
+          amikino: vriendin
+          amiko: vriend
+          filino: dochter
+          filo: zoon
+          patrino: moeder
+          patro: vader
+          virino: vrouw
+          viro: man
+      pagxo02: 
+        akusativo: "Naamvals -n  (ook \"accusatief\" of \"vierde naamval\" genaamd)"
+        akusativo-ekzpliko-1: |-
+            Een andere, heel nuttige eindletter -n maakt het  mogelijk het lijdend voorwerp in een zin te herkennen. Dat is 
+            de z.g. naamvals -n ("accusatief" of "vierde naamval" -uitgang).  Men zet die aan zelfstandige naamwoorden, bijvoeglijke naamwoorden en voornaamwoorden om het lijdend voorwerp aan te geven. Men herkent dus het lijdend voorwerp aan de uitgang -n, wat de verstaanbaarheid van zinnen sterk verhoogt.
+        akusativo-ekzpliko-2: "Merk op dat de meervoudsuitgang -j voor de naamvals -n komt, dus eerst de \"j\", dan de \"n\". Het lijdend voorwerp mag aan het begin van de zin staan, aan het einde, of er midden in, dat verandert niets aan de betekenis van de zin. Je herkent het altijd aan de  -n. Hier komen drie zinnen, die alle drie hetzelfde betekenen."
+        akusativo-rimarkigo-1: "Een veranderde woordvolgorde kan wel worden gebruikt om de betekenis een beetje te nuanceren. Dat komt later in de cursus aan de beurt."
+        akusativo-rimarkigo-2: "Na een vorm van het werkwoord \"esti \" (= zijn) komt geen naamvals-n. Het werkwoord \"esti\" drukt immers altijd equivalentie uit van onderwerp en gezegde."
+        frazo-plurala: "Ik was de nieuwe kopjes af."
+        frazo-singulara: "Ik was het nieuwe kopje af."
+      pagxo03: 
+        neado: 
+          frazo01: "Ik zal het nieuwe kopje niet afwassen."
+          frazo02: "Hij is mijn broer niet."
+          frazo03: "Zij is mijn moeder niet,"
+          frazo04: "De koeken waren niet warm."
+          neado: Ontkenning
+          neado-ekspliko: "Om een zin ONTKENNEND te maken zet je het woordje \"ne\" voor het werkwoord."
+        prefikso-mal: 
+          amiko: vriend
+          avara: gierig
+          bela: mooi
+          juna: jong
+          malamiko: vijand
+          malavara: "vrijgevig, gul"
+          malbela: lelijk
+          maljuna: "oud (van levende wezens)"
+          malnova: "oud (van dingen)"
+          nova: nieuw
+          prefikso-mal: "Het voorvoegsel \"mal-\""
+          prefikso-mal-ekspliko: |-
+              Met het voorvoegsel mal- kunnen we woorden maken, waarvan de betekenis de TEGENGESTELDE is van het 
+              woord waar het mee is verbonden. (Later zien we nog meer om je woordenlijst moeiteloos uit te breiden).
+      pagxo04: 
+        muziko: Esperantomuziek
+        muziko-ekzpliko: |-
+            Laat ons nu luisteren naar het Esperanto chanson "Jen" van 
+            de Argentijnse groep "La Porkoj", bekroond in de prijskamp 
+            voor schone  kunsten van de Universele Esperanto 
+            Vereniging. 
+            Maken deel uit van de groep: Alejandro Cossavella (stem), 
+            Pablo Ciancio (drums), Ignacio Mendizabal (gitaar) en 
+            Salvador Agustoni (basgitaar). 
+            Klik op de pijlknop om het chanson af te spelen.
+      pagxo05: 
+        akvo: water
+        ami: liefhebben
+        amo: liefde
+        birdo: vogel
+        butiko: winkel
+        fari: "maken, doen"
+        forgesi: vergeten
+        havi: "hebben (bezitten)"
+        insekto: insect
+        kapti: vangen
+        lavi: (af)wassen
+        limonado: limonade
+        papero: papier
+        peti: "verzoeken, vragen"
+        plumo: "pen, veer"
+        porti: dragen
+        pura: "rein, schoon, zuiver"
+        renkonti: ontmoeten
+        skribi: schrijven
+        sukeri: "suiker op/in doen"
+        taso: "kopje, tas"
+        trinki: drinken
+        trovi: vinden
+        vendi: verkopen
+        vidi: zien

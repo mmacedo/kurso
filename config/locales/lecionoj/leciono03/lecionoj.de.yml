@@ -1,0 +1,64 @@
+--- 
+de: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: Adverbien
+          adverboj-ekzpliko-1: "Das Adjektiv begleitet das Nomen und bestimmt es als 'Eigenschaftswort' näher, während die Adverbien das Verb begleiten und dessen Bedeutung näher bestimmen. Häufig enthalten sie Angaben zu Ort, Zeit, Art (Weise) und Grund. Nomen, Verb sowie deren Begleiter sind Wortarten."
+          adverboj-ekzpliko-2: "In Esperanto enden die Adverbien meist auf -e. Man kann sie bequem aus Adjektiven und anderen Wortarten ableiten; z. B. bela kanto, aber: Vi bele kantas."
+          frazoj: 
+            adverboj-rimarkigo: "Das Adverb kann vor und nach einem Verb stehen, aber auch vor Adjektiven u. Adverbien."
+            frazo-sana: "Er ist gesund."
+            frazo-sane: "Er lebt gesund."
+            frazo-sani: "Er ist gesund."
+            frazo-sano: "Er hat eine gute Gesundheit."
+          vortoj: 
+            sana: gesund
+            sane: gesund
+            sani: "gesund sein"
+            sano: "Gesundes, Gesundheit"
+      pagxo02: 
+        numeraloj: "Numeralien - Zahlwörter"
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: "Adjektive aus Zahlwörtern"
+          adjektivoj-el-numeraloj-ekzpliko: "Die Ordnungszahlen enden auf -a (=Adjektive). Sie sind deklinierbar, d. h. sie können Plural- (-j) und Akkusativendungen (-n) erhalten."
+          frazoj: 
+            frazo-adjektivoj-1: "Die ersten Jungen kommen."
+            frazo-adjektivoj-2: "Er fing das dritte Insekt."
+          vortoj: 
+            dek: zehn
+            dek-naux: neunzehn
+            dek-nauxa: neunzehnte/r
+            deka: zehnte/r
+            tri: drei
+            tria: dritte/r
+        adverboj: 
+          adverboj-el-numeraloj: "Adverbien aus Zahlwörtern"
+          adverboj-el-numeraloj-ekzpliko: "Durch die Endung -e entstehen Adverbien aus den Zahlwörtern."
+          frazoj: 
+            frazo-adverboj-1: "Er wird zuerst Wasser trinken."
+          vortoj: 
+            du: zwei
+            due: zweitens
+            unu: ein
+            unue: erstens
+      pagxo05: 
+        atendi: warten
+        demandi: fragen
+        fumi: rauchen
+        horo: Stunde
+        jaro: Jahr
+        kuri: laufen
+        mateno: Morgen
+        minuto: Minute
+        nokto: Nacht
+        peti: bitten
+        promeni: spazieren
+        respondi: antworten
+        semajno: Woche
+        soifi: dürsten
+        tago: Tag
+        vespero: Abend
+        vivi: leben

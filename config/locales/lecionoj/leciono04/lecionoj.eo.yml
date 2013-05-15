@@ -1,0 +1,98 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: Saluton!
+        saluto02: "Bonan tagon!"
+        saluto03: "Bonan matenon!"
+        saluto04: "Bonan vesperon!"
+        saluto05: "Bonan nokton!"
+        saluto06: "Kiel vi fartas?"
+        saluto07: "Bone, dankon. Kaj vi?"
+        saluto08: "Sufiĉe bone."
+        saluto09: "Ne tre bone."
+        saluto10: "Bonan apetiton!"
+        saluto11: "La samon al vi, dankon!"
+        saluto12: "Je via sano!"
+        saluto13: "Ĝis revido!"
+        saluto14: Adiaŭ!
+        salutoj: Salutoj
+      pagxo02: 
+        relativoj: 
+          hieraŭ: hieraŭ
+          hodiaŭ: hodiaŭ
+          morgaŭ: morgaŭ
+        semajno: 
+          dimanĉo: dimanĉo
+          lundo: lundo
+          mardo: mardo
+          merkredo: merkredo
+          sabato: sabato
+          vendredo: vendredo
+          ĵaŭdo: ĵaŭdo
+        tagoj: "Tagoj de la semajno"
+      pagxo03: 
+        datoj: 
+          datoj: Datoj
+          datoj-ekzpliko: "Por diri la datojn, sekvu la modelon. La vortoj \"tago\" kaj \"en la jaro\" estas jam subkomprenataj, kaj ordinare oni ne bezonas mencii ilin."
+        monatoj: 
+          aprilo: aprilo
+          aŭgusto: aŭgusto
+          decembro: decembro
+          februaro: februaro
+          januaro: januaro
+          julio: julio
+          junio: junio
+          majo: majo
+          marto: marto
+          monatoj: "Monatoj de la jaro"
+          novembro: novembro
+          oktobro: oktobro
+          septembro: septembro
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Aserto:"
+            aserto-frazo: "La pano estas seka."
+          demandaj: "Demandaj frazoj"
+          demandaj-ekzpliko: "Ĉiun demandon oni konstruas sur la aserto aŭ malaserto, nur metante antaŭ la frazo la vorteton \"Ĉu\". Atentu ke la vortordo en Esperanto ne ŝanĝiĝas, nur la vorteton \"ĉu\" oni metas antaŭ la frazo.  Tio validas por ĉiuj demandoj, kies respondoj estos \"jes\" aŭ \"ne\"."
+          demando: 
+            demando: "Demando:"
+            demando-frazo: "Ĉu la pano estas seka?"
+          respondo: 
+            respondo: "Respondo:"
+            respondo-frazo-negativa: "Ne, la pano ne estas seka."
+            respondo-frazo-pozitiva: "Jes, la pano estas seka."
+      pagxo05: 
+        infano: infano
+        kaj: kaj
+        kolekti: kolekti
+        kongreso: kongreso
+        lando: lando
+        leciono: leciono
+        lernejo: lernejo
+        libro: libro
+        manĝi: manĝi
+        mejlo: mejlo
+        monujo: monujo
+        neŭtrala: neŭtrala
+        ovo: ovo
+        poŝtmarko: poŝtmarko
+        sandviĉo: sandviĉo
+        sporto: sporto
+        veni: veni
+        vojaĝi: vojaĝi
+        ĵurnalo: ĵurnalo
+        ŝuo: ŝuo
+      pagxo06: 
+        tekstokompreno: Tekstokompreno
+        tekstokompreno-ekzpliko: "Legu la suban tekston, skribitan de lernanto de Esperanto, kaj provu ĝin kompreni uzante la vortaron."
+        vortaro: 
+          alia: alia
+          antaŭ: antaŭ
+          facila: facila
+          interŝanĝi: interŝanĝi
+          komenci: komenci
+          lerni: lerni
+          tre: tre

@@ -1,0 +1,98 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "Den vackra väninnan"
+          frazo-patrino: "Den goda modern"
+          frazo-virino: "De stora kvinnorna"
+        sufikso-ino: "Suffixet -ino"
+        sufikso-ino-ekspliko-1: |-
+            Första lektionen visade att adjektiven på Esperanto följer substantivens numerus. Om ett 
+            substantiv står i ental skall tillhörande adjektiv också stå i ental. Om substantivet står i plural 
+            skall adjektivet också stå i plural. Dock sker ingen ändring vad avser kön (genus). Ex. En vacker 
+            kvinna = Bela virino. (ALDRIG BelINa virINo ).
+        sufikso-ino-ekspliko-2: |-
+            Bara ordstammar (substantiv) som avser varelser med  olika kön får ändelsen 'o' för  
+            maskulinum  och 'ino' för femininum.
+        vortoj: 
+          amikino: väninna
+          amiko: vän
+          filino: dotter
+          filo: son
+          patrino: mor
+          patro: far
+          virino: kvinna
+          viro: man
+      pagxo02: 
+        akusativo: "Ackusativ (-n)"
+        akusativo-ekzpliko-1: |-
+            Det finns en annan ändelse, mycket användbar, vilken gör det möjligt för oss att identifiera det 
+            direkta objektet i en mening. Det är ackusativändelsen -n, som man placerar i slutet av sub- 
+            stantiv, adjektiv och pronomina  för att skapa ackusativformen. Tack vare n-ändelsen kan man 
+            identifiera det direkta objektet även om man använder omvänd ordföljd.
+        akusativo-ekzpliko-2: "OBS att man placerar pluraländelsen 'j' före ackusativändelsen 'n' och att dessa alltid återfinns i slutet av ordet. Det direkta objektet kan uppträda i början, mitten eller slutet av meningen. Detta ändrar på inget sätt meningens innebörd eftersom betydelsen styrs av ackusativet. Här är tre fraser som har samma betydelse."
+        akusativo-rimarkigo-1: |-
+            Den (nästan) fria ordföljden i Esperanto ger möjlighet  att 
+            nyansera innebörden av en mening.  Detta skall vi 
+            behandla senare under kursen.
+        akusativo-rimarkigo-2: |-
+            Efter verbet "esti" skall man inte använda ackusativformen, ty verbet "esti"  anger att 
+            subjektet och predikatet är samma sak eller person.  (Ordet efter "esti" är predikatsfyllnad.)
+        frazo-plurala: "Jag tvättar (diskar) de nya kopparna."
+        frazo-singulara: "Jag tvättar(diskar) den nya koppen."
+      pagxo03: 
+        neado: 
+          frazo01: "Jag kommer inte att tvätta (diska) den nya koppen."
+          frazo02: "Han är inte min bror."
+          frazo03: "Hon är inte min mor."
+          frazo04: "Kakorna var inte (har inte varit) varma"
+          neado: Nekande
+          neado-ekspliko: "För att göra frasen nekande är det tillräckligt att placera det lilla ordet 'ne' framför verbet"
+        prefikso-mal: 
+          amiko: vän
+          avara: snål
+          bela: vacker
+          juna: ung
+          malamiko: ovän
+          malavara: generös
+          malbela: ful
+          maljuna: "gammal (ålder)"
+          malnova: "gammal (ej ny)"
+          nova: ny
+          prefikso-mal: "Prefixet 'mal'"
+          prefikso-mal-ekspliko: |-
+              Prefixet "mal" tillåter oss att skapa ord vars betydelse är motsatsen till det ord som det är 
+              sammanbundet med.
+      pagxo04: 
+        muziko: "Musik på Esperanto"
+        muziko-ekzpliko: |-
+            Nu skall vi lyssna på en Esperantosång, 'Jen' (se här) av den argentinska gruppen 'La Porkoj' (Grisarna) som fått pris i UEA:s (Universala Esperanto- Asocio = Universella Esperanto-Förbundet) skönliterära tävlingar.  Gruppen består av följande personer: Alejandro Cossavella (sång), Pablo Ciancio (trummor),  Ignacio Mendizabal  (gitarr) och  
+            Salvador Agustoni  (basgitarr). Tryck på knappen för att spela upp sången.
+      pagxo05: 
+        akvo: vatten
+        ami: älska
+        amo: kärlek
+        birdo: fågel
+        butiko: butik
+        fari: göra
+        forgesi: glömma
+        havi: ha
+        insekto: insekt
+        kapti: fånga
+        lavi: tvätta
+        limonado: lemonad
+        papero: papper
+        peti: be
+        plumo: bläckpenna
+        porti: bära
+        pura: ren
+        renkonti: möta
+        skribi: skriva
+        sukeri: sockra
+        taso: kopp
+        trinki: dricka
+        trovi: finna
+        vendi: sälja
+        vidi: se

@@ -1,0 +1,98 @@
+--- 
+da: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: Hej!
+        saluto02: "God dag!"
+        saluto03: "God morgen!"
+        saluto04: "God aften!"
+        saluto05: "God nat!"
+        saluto06: "Hvordan har du det?"
+        saluto07: "Godt, tak. Og du?"
+        saluto08: "Godt nok."
+        saluto09: "Ikke så godt."
+        saluto10: "Vel bekomme!"
+        saluto11: "Tak, i lige måde!"
+        saluto12: Skål!
+        saluto13: "På gensyn!"
+        saluto14: Farvel!
+        salutoj: Hilsener
+      pagxo02: 
+        relativoj: 
+          hieraŭ: "i går"
+          hodiaŭ: "i dag"
+          morgaŭ: "i morgen"
+        semajno: 
+          dimanĉo: søndag
+          lundo: mandag
+          mardo: tirsdag
+          merkredo: onsdag
+          sabato: lørdag
+          vendredo: fredag
+          ĵaŭdo: torsdag
+        tagoj: "Ugens dage"
+      pagxo03: 
+        datoj: 
+          datoj: Datoer
+          datoj-ekzpliko: "Følg modellen for at udtrykke datoer. Ordene \"dag\" og \"i året\"  er underforståede og normalt behøver man ikke at nævne dem."
+        monatoj: 
+          aprilo: april
+          aŭgusto: august
+          decembro: december
+          februaro: februar
+          januaro: januar
+          julio: juli
+          junio: juni
+          majo: maj
+          marto: marts
+          monatoj: "Årets måneder"
+          novembro: november
+          oktobro: oktober
+          septembro: september
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Påstand:"
+            aserto-frazo: "Brødet er tørt."
+          demandaj: "Spørgende sætninger:"
+          demandaj-ekzpliko: "Hvert spørgsmål danner man ud fra en påstand ved at sætte ordet  \"Ĉu\"  foran sætningen. Bemærk at ordstilligen ikke ændres herved. Dette gælder for alle spørgsmål, hvis svar vil være ja eller nej."
+          demando: 
+            demando: "Spørgsmål:"
+            demando-frazo: "Er brødet tørt?"
+          respondo: 
+            respondo: "Svar:"
+            respondo-frazo-negativa: "Nej, brødet er ikke tørt."
+            respondo-frazo-pozitiva: "Ja, brødet er tørt."
+      pagxo05: 
+        infano: "et barn"
+        kaj: og
+        kolekti: "at samle"
+        kongreso: "en kongres"
+        lando: "et land"
+        leciono: "en lektion"
+        lernejo: "en skole"
+        libro: "en bog"
+        manĝi: "at spise"
+        mejlo: "en mil"
+        monujo: "en pengepung"
+        neŭtrala: neutral
+        ovo: "et æg"
+        poŝtmarko: "et frimærke"
+        sandviĉo: "en sandwich"
+        sporto: "en sport"
+        veni: "at komme"
+        vojaĝi: "at rejse"
+        ĵurnalo: "en avis"
+        ŝuo: "en sko"
+      pagxo06: 
+        tekstokompreno: Tekstforståelse
+        tekstokompreno-ekzpliko: "Læs følgende tekst der er skrevet af en esperanto-elev. Prøv at forstå teksten ved at bruge ordlisten."
+        vortaro: 
+          alia: anden
+          antaŭ: "før, forud for, foran, for...siden"
+          facila: let
+          interŝanĝi: "at udveksle"
+          komenci: "at begynde"
+          lerni: "at lære"
+          tre: meget

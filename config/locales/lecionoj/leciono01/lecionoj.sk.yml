@@ -1,0 +1,133 @@
+--- 
+sk: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: "V esperante sa slová píšu presne podľa výslovnosti a vyslovujú sa presne podľa zvuku každého napísaného písmena (Píš ako počuješ). Dôraz sa kladie vždy na predposlednú slabiku. Kliknite na tlačidlá pre vypočutie si výslovnosti a nahlas opakujte."
+        alfabeto-titolo: "Abeceda esperanta"
+      pagxo03: 
+        personaj-pronomoj: "Osobné zámená"
+        pluralo: 
+          ili: "Ony, Oni"
+          ni: My
+          pluralo: "Množné číslo"
+          vi: Vy
+        singularo: 
+          gxi: "Ono (niečo alebo niekto, ktorého pohlavie nie je nutné upresniť)"
+          li: "On"
+          mi: Ja
+          singularo: "Jednotné číslo"
+          sxi: Ona
+          vi: Ty
+        specialaj: 
+          oni: "Oni - nedefinované osobné zámeno, ktoré znamená \"ľudia; človek; \"sa\" \", používané keď nechceme alebo sa nedá upresniť podmet. (človek nemôže, nedá sa, zdá sa...)"
+          si: "Si - zvratné zámeno tretej osoby - li, ŝi, ĝi, ili, oni - používa sa iba ak prislúcha podmetu v 3. os.!"
+          specialaj: Špeciálne
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: "Prídavné mená"
+          adjektivoj-ekspliko: "Zakončené písmenom \"a\""
+          bela: Pekná
+          sana: Zdravý
+          varma: Teplý
+        nomoj: 
+          amiko: Priateľ
+          frato: Brat
+          kafo: Mačka
+          nomoj: "Podstatné mená"
+          nomoj-ekspliko: "Zakončené písmenom \"o\""
+        verboj: 
+          ne-singularo: 
+            ili-estas: "Oni/ony sú"
+            ni-estas: "My sme"
+            oni-estos: Bude
+            vi-estis: "Vy ste"
+          singularo: 
+            gxi-estos: "Ono je"
+            li-estis: "On je"
+            mi-estas: "Ja som"
+            sxi-estas: "Ona je"
+          verboj: Slovesá
+          verboj-ekspliko: "Infinitív má koncovku -i : esti (byť). Minulí čas končí na -is : estis (bol). Prítomný čas končí na -as a budúci sa tvorí pomocou koncovky -os. Inými slvoesnými časmi sa budeme zaoberať v ďalších lekciách."
+      pagxo05: 
+        amiko: priateľ
+        bela: pekná
+        biskvito: keks
+        blanka: biely
+        bona: dobrý
+        filo: syn
+        floro: kvet
+        frato: brat
+        granda: veľký
+        instruisto: učiteľ
+        kafo: káva
+        knabo: chlapec
+        kuko: koláč
+        lakto: mlieko
+        nova: nový
+        pano: chlieb
+        patro: otec
+        sana: zdravý
+        seka: suchý
+        sukero: cukor
+        teo: čaj
+        varma: teplý
+        viro: muž
+      pagxo06: 
+        pluralo: 
+          amikoj: priatelia
+          belaj: pekné
+          belaj-floroj: "pekné kvety"
+          bonaj-amikoj: "dobrí priatelia"
+          floroj: kvety
+          patroj: otcovia
+          sanaj: zdraví
+          sanaj-patroj: "zdraví otcovia"
+        pluralo-ekzpliko: "Množné číslo sa tvorí pripojením písmena \"j\" ku koncu podstatných a prídavných mien"
+        pluralo-titolo: "Množné číslo"
+        singularo: 
+          amiko: priateľ
+          bela: pekná
+          bela-floro: "pekný kvet"
+          bona-amiko: "dobrý priateľ"
+          floro: kvet
+          patro: otec
+          sana: zdravý
+          sana-patro: "zdravý otec"
+      pagxo07: 
+        posedaj: 
+          ilia: ich
+          lia: jeho
+          mia: môj
+          nia: náš
+          via: tvoj
+          ĝia: jeho
+          ŝia: jej
+        posedaj-pronomoj: "Privlastňovacie zámená"
+        posedaj-pronomoj-ekzpliko: "Privlastňovacie zámená sa tvoria pripojením prívlastkovej koncovky \"a\" k osobným zámenám"
+        rimarkigo: 
+          mia-amiko: "Môj priateľ"
+          miaj-amikoj: "Moji priatelia"
+          nia-floro: "Náš kvet"
+          niaj-floroj: "Naše kvety"
+          posedaj-pronomoj-rimarkigo: "Taktiež privlastňovacie zámená dostávajú koncovku \"j\" pri množnom čísle"
+      pagxo08: 
+        artikolo: 
+          artikolo: Člen
+          artikolo-ekzpliko: "Neurčitý člen v esperante neexistuje. Existuje iba určitý člen \"la\", používaný pre všetky rody, pády a čísla."
+          floroj: Kvety
+          knabo: Chlapec
+          la-floroj: "(tie) kvety"
+          la-knabo: "(Ten) chlapec"
+          la-pano: "(ten) otec"
+          la-patroj: "(tí) otcovia"
+          pano: Chlieb
+          patroj: Otcovia
+        frazoj: 
+          frazo01: "Tvoji synovia sú našimi priateľmi."
+          frazo02: "Ten chlieb je suchý."
+          frazo03: "Teplé mlieko je dobré."
+          frazo04: "Kvet je krásny."
+          frazo05: "Tí chlapci sú veľkí."
+          frazo06: "Otec je dobrý."
+          frazoj: Vety

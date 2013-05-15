@@ -1,0 +1,133 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: "Esperanton ääntäminen on täysin kirjoituksen mukaista, eli jokainen kirjain äännetään kuten se kirjoitetaan. Sanan paino on aina toiseksiviimeisellä tavulla, jolloin painollinen vokaali ääntyy puolipitkänä (napsauta painiketta kuullaksesi ääntämismallin ja toista ääneen kuulemasi)."
+        alfabeto-titolo: "Esperanton aakkoset"
+      pagxo03: 
+        personaj-pronomoj: Persoonapronominit.
+        pluralo: 
+          ili: "He, Ne tai Nuo."
+          ni: Me
+          pluralo: Monikko.
+          vi: "Te (monikko)"
+        singularo: 
+          gxi: Se
+          li: "Hän (mies)"
+          mi: Minä
+          singularo: Yksikkö.
+          sxi: "Hän (nainen)"
+          vi: "Sinä tai Te (yksikössä)"
+        specialaj: 
+          oni: "Oni, persoonaton pronomini, jolla ilmaistaan passiivia."
+          si: "Si, kolmannen persoonan refleksiivipronomini."
+          specialaj: Erityiset.
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: Adjektiivit.
+          adjektivoj-ekspliko: "Päättyy \"a\" kirjaimeen:"
+          bela: Kaunis
+          sana: Terve
+          varma: Lämmin
+        nomoj: 
+          amiko: Ystävä.
+          frato: Veli
+          kafo: Kahvi
+          nomoj: Substantiivit
+          nomoj-ekspliko: "Päättyy \"o\" kirjaimeen:"
+        verboj: 
+          ne-singularo: 
+            ili-estas: "He ovat; ne ovat; nuo ovat"
+            ni-estas: "Me olemme."
+            oni-estos: "Tullaan olemaan (passiivin futuuri)"
+            vi-estis: "Te olitte; sinä olit"
+          singularo: 
+            gxi-estos: "Se on (tulee olemaan)."
+            li-estis: "Hän (mies) on."
+            mi-estas: "Minä olen."
+            sxi-estas: "Hän (nainen) on."
+          verboj: Verbit.
+          verboj-ekspliko: "Preesensin pääte on -as, inperfektin -is, futuurin -os, konditionaalin -us, imperatiivin -u ja infinitiivin -i. Muut verbimuodot käsitellään myöhemmin."
+      pagxo05: 
+        amiko: ystävä
+        bela: kaunis
+        biskvito: keksi
+        blanka: valkoinen
+        bona: hyvä
+        filo: "(oma) poika"
+        floro: kukka
+        frato: veli
+        granda: iso
+        instruisto: opettaja
+        kafo: kahvi
+        knabo: poika
+        kuko: kakku
+        lakto: maito
+        nova: uusi
+        pano: leipä
+        patro: isä
+        sana: terve
+        seka: kuiva
+        sukero: sokeri
+        teo: tee
+        varma: lämmin
+        viro: mies
+      pagxo06: 
+        pluralo: 
+          amikoj: ystävät
+          belaj: kauniit
+          belaj-floroj: "kauniit kukat"
+          bonaj-amikoj: "hyvät ystävät"
+          floroj: kukat
+          patroj: isät
+          sanaj: terveet
+          sanaj-patroj: "terveet isät"
+        pluralo-ekzpliko: "Monikko muodostetaan \"j\" päätteelä, joka lisätään sekä substantiiviin että adjektiiviin:"
+        pluralo-titolo: Monikko
+        singularo: 
+          amiko: ystävä
+          bela: kaunis
+          bela-floro: "kaunis kukka"
+          bona-amiko: "hyvä ystävä"
+          floro: kukka
+          patro: isä
+          sana: terve
+          sana-patro: "terve  isä"
+      pagxo07: 
+        posedaj: 
+          ilia: "heidän; niiden; noiden"
+          lia: "hänen (mieshenkilön)"
+          mia: minun
+          nia: meidän
+          via: "sinun; teidän"
+          ĝia: sen
+          ŝia: "hänen (naishenkilön)"
+        posedaj-pronomoj: Possessiivipronominit
+        posedaj-pronomoj-ekzpliko: "Possessiivipronominit muodostetaan liittämällä adjektiivin pääte (\"a\") persoonapronominiin:"
+        rimarkigo: 
+          mia-amiko: Ystäväni
+          miaj-amikoj: "Ystäväni (monikko)"
+          nia-floro: "Meidän kukka"
+          niaj-floroj: "Meidän kukkamme"
+          posedaj-pronomoj-rimarkigo: "Myös possessiivipronomit saavat monikossa päätten \"j\":"
+      pagxo08: 
+        artikolo: 
+          artikolo: Artkkeli
+          artikolo-ekzpliko: "Epämääräistä artikkelia Esperantossa ei ole. Määräinen artikkeli on \"la\", joka ei taivu."
+          floroj: Kukat
+          knabo: Poika
+          la-floroj: "(tietyt) Kukat"
+          la-knabo: "(tietty) Poika"
+          la-pano: "(tietty) Isä"
+          la-patroj: "(tietyt) Isät"
+          pano: Leipä
+          patroj: Isät
+        frazoj: 
+          frazo01: "Poikanne ovat ystäviämme."
+          frazo02: "Leipä on kuiva."
+          frazo03: "Lämmin maito on hyvää."
+          frazo04: "Kukka on kaunis."
+          frazo05: "Pojat ovat isot."
+          frazo06: "Isä on hyvä."
+          frazoj: Lauseet

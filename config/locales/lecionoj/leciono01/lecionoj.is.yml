@@ -1,0 +1,133 @@
+--- 
+is: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: "Á esperanto eru orð skrifuð eftir framburði og hver stafur hefur alltaf sama hljóð.  Aðaláherslan er alltaf á næst-síðasta atkvæði.  Smelltu á orðin til þess að heyra framburðinn og endurtaktu þau upphátt."
+        alfabeto-titolo: "Esperanto: Stafrófið"
+      pagxo03: 
+        personaj-pronomoj: Persónufornöfn
+        pluralo: 
+          ili: "þeir, þær, þau (fleirtala fyrir \"ŝi\", \"li\" og \"ĝi\")"
+          ni: við
+          pluralo: Fleirtala
+          vi: þið
+        singularo: 
+          gxi: "það (um eitthvað sem ekki er þörf á að greina eftir kyni)"
+          li: hann
+          mi: ég
+          singularo: Eintala
+          sxi: hún
+          vi: þú
+        specialaj: 
+          oni: "Oni (óákveðið fornafn, sem merkir \"menn\"; eða marga eða nokkra einstaklinga; einhverja óþekkta.  Notað þegar menn vilja ekki eða geta ekki bent á einhvern sérstakan."
+          si: "si - afturbeygt fornafn þriðju persónu - li, ŝi, ĝi, oni - notað þegar vísað er til geranda (frumlags)). Á íslensku \"sig\"."
+          specialaj: "Önnur fornöfn"
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: Lýsingarorð
+          adjektivoj-ekspliko: "Enda á \"a\":"
+          bela: fallegur
+          sana: heilbrigður
+          varma: heitur
+        nomoj: 
+          amiko: vinur
+          frato: bróðir
+          kafo: kaffi
+          nomoj: Nafnorð
+          nomoj-ekspliko: "Enda á \"o\":"
+        verboj: 
+          ne-singularo: 
+            ili-estas: "þeir (þær, þau) eru"
+            ni-estas: "við erum"
+            oni-estos: "\"menn\" verða (í framtíðinni)"
+            vi-estis: "þú varst"
+          singularo: 
+            gxi-estos: "það verður"
+            li-estis: "hann var"
+            mi-estas: "ég er"
+            sxi-estas: "hún er"
+          verboj: Sagnir
+          verboj-ekspliko: "Nafnháttur endar á -i: esti = að vera;  þátíð endar á -is: estis = var; nútíð endar á -as: estas = er; og framtíð endar á -os: estos = verður (\"mun verða\").  Aðrar beygingar sagna verða teknar fyrir síðar."
+      pagxo05: 
+        amiko: vinur
+        bela: fallegur
+        biskvito: kex
+        blanka: hvítur
+        bona: góður
+        filo: sonur
+        floro: blóm
+        frato: bróðir
+        granda: stór
+        instruisto: kennari
+        kafo: kaffi
+        knabo: drengur
+        kuko: kaka
+        lakto: mjólk
+        nova: nýr
+        pano: brauð
+        patro: faðir
+        sana: heilbrigður
+        seka: þurr
+        sukero: sykur
+        teo: te
+        varma: heitur
+        viro: karlmaður
+      pagxo06: 
+        pluralo: 
+          amikoj: vinir
+          belaj: fallegir
+          belaj-floroj: "falleg blóm"
+          bonaj-amikoj: "góðir vinir"
+          floroj: "blóm (tvö eða mörg)"
+          patroj: feður
+          sanaj: heilbrigðir
+          sanaj-patroj: "heilbrigðir feður"
+        pluralo-ekzpliko: "Fleirtala myndast með því að bæta \"j\" við endingu nafnorða og lýsingarorða:"
+        pluralo-titolo: Fleirtala
+        singularo: 
+          amiko: vinur
+          bela: fallegur
+          bela-floro: "fallegt blóm"
+          bona-amiko: "góður vinur"
+          floro: blóm
+          patro: faðir
+          sana: heilbrigður
+          sana-patro: "heilbrigður faðir"
+      pagxo07: 
+        posedaj: 
+          ilia: þeirra
+          lia: hans
+          mia: "minn, mín, mitt"
+          nia: okkar
+          via: "þinn, þín, þitt"
+          ĝia: þess
+          ŝia: hennar
+        posedaj-pronomoj: Eignarfornöfn
+        posedaj-pronomoj-ekzpliko: "Eignarfornöfn eru mynduð með því að bæta lýsingarorðsendingunni \"a\" við persónufornöfn:"
+        rimarkigo: 
+          mia-amiko: "Vinur minn"
+          miaj-amikoj: "Vinir mínir"
+          nia-floro: "Blómið okkar"
+          niaj-floroj: "Blómin okkar"
+          posedaj-pronomoj-rimarkigo: "Eignarfornöfnin bæta við sig \"j\" í fleirtölu:"
+      pagxo08: 
+        artikolo: 
+          artikolo: Greinir
+          artikolo-ekzpliko: "Í esperanto er einn og óumbreytanlegur ákveðinn greinir \"la\",  eins í öllum kynjum, föllum og  tölum."
+          floroj: "blóm (tvö eða mörg)"
+          knabo: drengur
+          la-floroj: blómin
+          la-knabo: drengurinn
+          la-pano: brauðið
+          la-patroj: feðurnir
+          pano: brauð
+          patroj: feður
+        frazoj: 
+          frazo01: "Synir ykkar eru vinir okkar."
+          frazo02: "Brauðið er þurrt."
+          frazo03: "Heit mjólk er góð."
+          frazo04: "Blóm er fallegt."
+          frazo05: "Drengirnir eru stórir."
+          frazo06: "Faðirinn er góður."
+          frazoj: Setningar

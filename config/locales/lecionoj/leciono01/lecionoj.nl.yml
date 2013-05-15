@@ -1,0 +1,146 @@
+--- 
+nl: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: |-
+            In Esperanto schrijf je de woorden precies volgens hun uitspraak en je spreekt ze uit volgens de klank van elke geschreven letter. De klemtoon van een meerlettergrepig woord valt altijd op de voorlaatste klinker (klik op de 
+            knoppen om uitspraak van A B C Ĉ... en woordjes te beluisteren en herhaal  luidop). Let  op: S is geen Z! C 
+            klinkt TS,  H altijd uitspreken!  G is zoals in het Frans, Ŭ onze w. De "naam" van medeklinkers eindigt op O.
+        alfabeto-titolo: "Het Esperanto alfabet"
+      pagxo03: 
+        personaj-pronomoj: "Persoonlijke voornaamwoorden"
+        pluralo: 
+          ili: "Zij (meervoud)"
+          ni: Wij
+          pluralo: Meervoud
+          vi: "Jullie ( of U, meervoud)"
+        singularo: 
+          gxi: |-
+              Het (wijst op iets of iemand, waarvan geen 
+              geslacht  te bepalen is)
+          li: Hij
+          mi: Ik
+          singularo: Enkelvoud
+          sxi: Zij
+          vi: "Jij, gij (of u)"
+        specialaj: 
+          oni: |-
+              MEN (onpersoonlijk voornaamwoord). In het nederlands gebruikt men i.p.v. "men" ook vaak "je" of  "ze". 
+              Bvb: "Ze zeggen zoveel" = "Men zegt zoveel" ;     "Je zegt in het Nl..." = "Men zegt in het Nl..."
+          si: |-
+              ZICH (wederkerend voornaamwoord van de derde persoon enkel- en meervoud, slaat altijd op het 
+              onderwerp van de zin). Hij wast zich. Zij kleden zich aan.
+          specialaj: Speciale
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: "Bijvoeglijke naamwoorden ( = \"Adjectieven\" of \"Hoedanigheidswoorden\")"
+          adjektivoj-ekspliko: "Eindigen op de letter -a:"
+          bela: Mooie
+          sana: Gezonde
+          varma: Warme
+        nomoj: 
+          amiko: Vriend
+          frato: Broer
+          kafo: Koffie
+          nomoj: "Zelfstandige naamwoorden (ook \"substantieven\" genoemd)"
+          nomoj-ekspliko: "eindigen op de letter -o:"
+        verboj: 
+          ne-singularo: 
+            ili-estas: "Zij zijn"
+            ni-estas: "Wij zijn"
+            oni-estos: "Men zal zijn"
+            vi-estis: "Jullie waren ( Jij was) (gij waart)"
+          singularo: 
+            gxi-estos: "Het (bijv. het kind) zal zijn"
+            li-estis: "Hij was"
+            mi-estas: "Ik ben"
+            sxi-estas: "Zij is"
+          verboj: Werkwoorden
+          verboj-ekspliko: "De noemvorm eindigt op -i: zijn = esti;  de verleden tijd op -is: estis; de tegenwoordige tijd op -as: estas; en de toekomende tijd op -os: estos.            (Onthoudregeltje voor Nederlandstaligen: gISteren -IS, vandAAg -AS, mOrgen -OS)           Andere vormen volgen in een latere les."
+      pagxo05: 
+        amiko: vriend
+        bela: mooi(e)
+        biskvito: beschuit
+        blanka: wit(te)
+        bona: goed(e)
+        filo: zoon
+        floro: bloem
+        frato: broer
+        granda: "grote (groot)"
+        instruisto: leraar
+        kafo: koffie
+        knabo: jongen
+        kuko: koek
+        lakto: melk
+        nova: nieuw(e)
+        pano: brood
+        patro: vader
+        sana: gezond(e)
+        seka: "droog (droge)"
+        sukero: suiker
+        teo: thee
+        varma: warm(e)
+        viro: man
+      pagxo06: 
+        pluralo: 
+          amikoj: vrienden
+          belaj: mooie
+          belaj-floroj: "mooie bloemen"
+          bonaj-amikoj: "goede vrienden"
+          floroj: bloemen
+          patroj: vaders
+          sanaj: gezonde
+          sanaj-patroj: "gezonde vaders"
+        pluralo-ekzpliko: "Het meervoud maak je door een eind -j toe te voegen aan een zelfstandig  of een  bijvoeglijk naamwoord."
+        pluralo-titolo: Meervoud
+        singularo: 
+          amiko: "een vriend"
+          bela: mooie
+          bela-floro: "een mooie bloem"
+          bona-amiko: "een goede vriend"
+          floro: "een bloem"
+          patro: "een vader"
+          sana: gezonde
+          sana-patro: "een gezonde vader"
+      pagxo07: 
+        posedaj: 
+          ilia: hun
+          lia: zijn
+          mia: mijn
+          nia: "ons (onze)"
+          via: "jouw (jullie, uw)"
+          ĝia: "betekent: \"van het\" (meestal = \"zijn\")"
+          ŝia: haar
+        posedaj-pronomoj: "Bezittelijke voornaamwoorden"
+        posedaj-pronomoj-ekzpliko: |-
+            De bezittelijke voornaamwoorden maak je door de bijvoeglijke uitgang -a toe te voegen aan de persoonlijke 
+            voornaamwoorden:
+        rimarkigo: 
+          mia-amiko: "Mijn vriend"
+          miaj-amikoj: "Mijn vrienden"
+          nia-floro: "Onze bloem"
+          niaj-floroj: "Onze bloemen"
+          posedaj-pronomoj-rimarkigo: |-
+              Ook de bezittelijke voornaamwoorden 
+              krijgen de uitgang -j in het meervoud:
+      pagxo08: 
+        artikolo: 
+          artikolo: Lidwoord
+          artikolo-ekzpliko: "Het onbepaald lidwoord (\"een\") bestaat niet in Esperanto (patro = een vader). Er is alleen het bepalend lidwoord \"la\" (= de, het). Het is onveranderlijk."
+          floroj: bloemen
+          knabo: "een jongen"
+          la-floroj: "de bloemen"
+          la-knabo: "de jongen"
+          la-pano: "het brood"
+          la-patroj: "de vaders"
+          pano: brood
+          patroj: vaders
+        frazoj: 
+          frazo01: "Jullie (Jouw, Uw) zoons zijn onze vrienden."
+          frazo02: "Het brood is droog."
+          frazo03: "Warme melk is goed."
+          frazo04: "Een bloem is mooi."
+          frazo05: "De jongens zijn groot."
+          frazo06: "De vader is goed."
+          frazoj: Zinnen

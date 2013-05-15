@@ -1,0 +1,79 @@
+--- 
+sl: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "lepa prijateljica"
+          frazo-patrino: "dobra mama"
+          frazo-virino: "velike žene"
+        sufikso-ino: "Sufiks ali zapona -ino"
+        sufikso-ino-ekspliko-1: "V prvi lekciji smo se naučili, da se pridevniki ujemajo v številu s samostalnikom, na katerega se nanašajo. To pomeni, da kadar je samostalnik v ednini, tudi pridevnik ostane v ednini. Kadar pa je samostalnik v množini, tudi pridevnik dobi množinsko obliko."
+        sufikso-ino-ekspliko-2: "Samo samostalniki, ki označujejo spol, imajo za moški spol končnico \"o\" ter za ženski spol končnico \"ino\"."
+        vortoj: 
+          amikino: prijateljica
+          amiko: prijatelj
+          filino: hčerka
+          filo: sin
+          patrino: mama
+          patro: oče
+          virino: žena
+          viro: mož
+      pagxo02: 
+        akusativo: "Tožilnik ali akuzativ ( -n)"
+        akusativo-ekzpliko-1: "V esperantu sta samo dva sklona: nominativ (imenovalnik, 1. sklon) in akuzativ (tožilnik, 4. sklon). Akuzativ  tvorimo s končnico \"-N\" in odgovarja na vprašanje KOGA ali KAJ?  Akuzativ in množino imajo samo samostalniki in pridevniki, ki morajo biti vedno v istem sklonu."
+        akusativo-ekzpliko-2: "V množini je končnica za množino -j vedno pred končnico za akuzativ -n. Uporaba akuzativa (-n) omogoča veliko svobodo pri vrstnem redu besed, brez da bi se kakorkoli spremenil pomen. Spodnji trije stavki imajo tako enak pomen:"
+        akusativo-rimarkigo-1: "S spreminjanjem vrstnega reda besed ostaja smisel stavka enak, veliko lažje pa izrazimo majhne odtenke v pomenu. Več o tem malo kasneje."
+        akusativo-rimarkigo-2: "Za glagolom \"esti\"  (biti) nikoli ne uporabljamo akuzativa, saj glagol \"esti\"  sam po sebi izraža, da mora biti osebek v istem sklonu kot predikat (torej v nominativu). Npr. Jaz sem učitelj (KDO ali KAJ?)"
+        frazo-plurala: "Jaz umivam nove skodelice."
+        frazo-singulara: "Jaz umivam novo skodelico."
+      pagxo03: 
+        neado: 
+          frazo01: "Jaz ne bom umival nove skodelice."
+          frazo02: "On ni moj brat."
+          frazo03: "Ona ni moja mama."
+          frazo04: "Kolači niso bili topli."
+          neado: Zanikanje
+          neado-ekspliko: "Za zanikanje stavka samo postavimo besedico \"ne\" pred glagol. V esperantu ni dvojnega zanikanja."
+        prefikso-mal: 
+          amiko: prijatelj
+          avara: "škrt (a, o)"
+          bela: "lep (a, o)"
+          juna: "mlad (a, o)"
+          malamiko: sovražnik
+          malavara: "darežljiv (a, o)"
+          malbela: "grd (a, o)"
+          maljuna: "star (a, o)"
+          malnova: "star (a, o)"
+          nova: "nov (a, o)"
+          prefikso-mal: "Predpona \"mal\""
+          prefikso-mal-ekspliko: "Predpona \"mal\" daje besedi nasproten pomen."
+      pagxo04: 
+        muziko: "Glasba v esperantu"
+        muziko-ekzpliko: "Sedaj poslušajte pesem v esperantu, ki jo izvaja argentinska skupina \"La Porkoj\". Naslov pesmi je \"Jen\" (Glej). Pesem je bila nagrajena na mednarodnih natečajih, ki jih izvaja Uea (Universala Esperanto-Asocio). Skupino sestavljajo: Alejandro Cossavella (vokal), Pablo Ciancio (bobni), Ignacio Mendizabal (kitare) in Salvador Agustoni (baskitara). Za predvajanje pesmi pritisnite zeleni gumb."
+      pagxo05: 
+        akvo: voda
+        ami: ljubiti
+        amo: ljubezen
+        birdo: ptič
+        butiko: "butik, trgovina"
+        fari: "narediti, storiti"
+        forgesi: pozabiti
+        havi: imeti
+        insekto: insekt
+        kapti: ujeti
+        lavi: "umiti, oprati"
+        limonado: limonada
+        papero: papir
+        peti: prositi
+        plumo: pero
+        porti: nesti
+        pura: "čist (a,o)"
+        renkonti: srečati
+        skribi: pisati
+        sukeri: sladkati
+        taso: skodelica
+        trinki: piti
+        trovi: najti
+        vendi: prodati
+        vidi: videti

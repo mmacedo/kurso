@@ -1,0 +1,79 @@
+--- 
+da: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "den smukke veninde"
+          frazo-patrino: "den gode mor"
+          frazo-virino: "de store kvinder"
+        sufikso-ino: "Endelsen -ino"
+        sufikso-ino-ekspliko-1: "I den første lektion så vi at tillægsordene på esperanto står i ental eller flertal i overensstemmelse med navneordene . Der sker ingen bøjning af tillægsordet på grund af køn (han eller hun)."
+        sufikso-ino-ekspliko-2: "Navneord som beskriver kønnede væsener, kan identificere kønnet  idet de ender på  \"ino\" for hunkønsvæsener."
+        vortoj: 
+          amikino: "en veninde"
+          amiko: "en ven"
+          filino: "en datter"
+          filo: "en søn"
+          patrino: "en mor"
+          patro: "en far"
+          virino: "en kvinde"
+          viro: "en mand"
+      pagxo02: 
+        akusativo: "Akkusativ (n-form)"
+        akusativo-ekzpliko-1: "En anden nyttig endelse er \"n\"  som  gør det muligt at genkende genstandsledet (det direkte objekt) i en sætning.  Genstandsfald kaldes også akkusativ. Endelsen benyttes i  navneord, tillægsord og stedord."
+        akusativo-ekzpliko-2: "Bemærk at flertalsendelsen placeres før akkusativ-endelsen. Genstandsleddet kan stå i begyndelsen, i midten eller i slutningen af sætningen. Genstandsleddets placering i sætningen  påvirker ikke meningen fordi genstandsleddet genkendes via akkusativ-endelsen.  Her er tre sætninger som har samme mening:"
+        akusativo-rimarkigo-1: "I virkeligheden kan den valgte rækkefølge af ordene benyttes til at nuancere en sætning. Dette behandler vi senere i kurset."
+        akusativo-rimarkigo-2: "Efter udsagnsordet \"esti\" (at være)  benyttes ikke akkusativ (n-form) . Omsagnsled til grundled står nemlig i nævnefald (nominativ)."
+        frazo-plurala: "Jeg vasker de nye kopper"
+        frazo-singulara: "Jeg vasker den nye kop"
+      pagxo03: 
+        neado: 
+          frazo01: "Jeg vil ikke vaske den nye kop."
+          frazo02: "Han er ikke min bror."
+          frazo03: "Hun er ikke min mor."
+          frazo04: "Kagerne var ikke varme."
+          neado: Nægtelse
+          neado-ekspliko: "Sætninger gøres nægtende ved at sætte ordet \"ne\" foran verbet."
+        prefikso-mal: 
+          amiko: "en ven"
+          avara: nærig
+          bela: smuk
+          juna: juna
+          malamiko: "en fjende"
+          malavara: gavmild
+          malbela: grim
+          maljuna: gammel
+          malnova: gammel
+          nova: ny
+          prefikso-mal: "Forstavelsen (præfikset) \"mal\""
+          prefikso-mal-ekspliko: "Forstavelsen \"mal\" betegner det modsatte."
+      pagxo04: 
+        muziko: "Musik på esperanto"
+        muziko-ekzpliko: "Lad os nu høre sangen \"Jen\",  af den argentinske gruppe \"La Porkoj\",  premieret  ved Verdens-esperantoforeningens konkurrence for kunst. Gruppen består af Alejandro Cossavella (stemme), Pablo Ciancio (trommer), Ignacio Mendizabal (guitar) og Salvador Agustoni (basguitar). Tryk på knappen for at afspille sangen."
+      pagxo05: 
+        akvo: vand
+        ami: "at elske"
+        amo: kærlighed
+        birdo: "en fugl"
+        butiko: "en butik"
+        fari: "at gøre"
+        forgesi: "at glemme"
+        havi: "at have"
+        insekto: "et insekt"
+        kapti: "at fange"
+        lavi: "at vaske"
+        limonado: "en limonade"
+        papero: papir
+        peti: "at bede om"
+        plumo: "en fjer,pen"
+        porti: "at bære/ bringe"
+        pura: ren
+        renkonti: "at møde"
+        skribi: "at skrive"
+        sukeri: "at søde"
+        taso: "en kop"
+        trinki: "at drikke"
+        trovi: "at finde"
+        vendi: "at sælge"
+        vidi: "at se"

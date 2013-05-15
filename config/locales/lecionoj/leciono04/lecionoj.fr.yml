@@ -1,0 +1,98 @@
+--- 
+fr: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: "Salut ! (Bonjour !)"
+        saluto02: Bonjour !
+        saluto03: "Bonjour ! (le matin)"
+        saluto04: Bonsoir !
+        saluto05: "Bonne nuit !"
+        saluto06: "Comment allez-vous ? Comment vas-tu ?"
+        saluto07: "Bien, merci. Et vous ? (Et toi ?)"
+        saluto08: "Assez bien."
+        saluto09: "Pas très bien."
+        saluto10: "Bon appétit !"
+        saluto11: "Pareillement à vous, merci !"
+        saluto12: "A votre santé !"
+        saluto13: "Au revoir !"
+        saluto14: "Au revoir ! Adieu !"
+        salutoj: Salutations
+      pagxo02: 
+        relativoj: 
+          hieraŭ: hier
+          hodiaŭ: aujourd'hui
+          morgaŭ: demain
+        semajno: 
+          dimanĉo: dimanche
+          lundo: lundi
+          mardo: mardi
+          merkredo: mercredi
+          sabato: samedi
+          vendredo: vendredi
+          ĵaŭdo: jeudi
+        tagoj: "Les jours de la semaine"
+      pagxo03: 
+        datoj: 
+          datoj: "Les dates"
+          datoj-ekzpliko: "Voici comment énoncer les dates (les mots \"jour\" et \"dans l'année\" sont sous-entendus) :"
+        monatoj: 
+          aprilo: avril
+          aŭgusto: août
+          decembro: décembre
+          februaro: février
+          januaro: janvier
+          julio: juillet
+          junio: juin
+          majo: mai
+          marto: mars
+          monatoj: "Les mois de l'année"
+          novembro: novembre
+          oktobro: octobre
+          septembro: septembre
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Affirmation :"
+            aserto-frazo: "Le pain est sec."
+          demandaj: "Phrases interrogatives"
+          demandaj-ekzpliko: "On construit chaque question à partir de l'affirmation, en mettant seulement, au début de la phrase, le petit mot \"Ĉu\". Faites attention que l'ordre des mots ne change pas en espéranto, on met seulement le mot \"ĉu\" devant la phrase. Cela est valable pour toutes les questions dont les réponses sont \"oui\" ou \"non\"."
+          demando: 
+            demando: "Question :"
+            demando-frazo: "Est-ce que le pain est sec ? Le pain est-il sec ?"
+          respondo: 
+            respondo: "Réponse :"
+            respondo-frazo-negativa: "Non, le pain n'est pas sec."
+            respondo-frazo-pozitiva: "Oui, le pain est sec."
+      pagxo05: 
+        infano: enfant
+        kaj: et
+        kolekti: "rassembler, recueillir, collectionner"
+        kongreso: congrès
+        lando: pays
+        leciono: leçon
+        lernejo: école
+        libro: livre
+        manĝi: manger
+        mejlo: "mille (unité de distance)"
+        monujo: porte-monnaie
+        neŭtrala: "neutre (politique)"
+        ovo: oeuf
+        poŝtmarko: "timbre, timbre-poste"
+        sandviĉo: sandwich
+        sporto: sport
+        veni: venir
+        vojaĝi: voyager
+        ĵurnalo: journal
+        ŝuo: chaussure
+      pagxo06: 
+        tekstokompreno: "Compréhension de texte"
+        tekstokompreno-ekzpliko: "Lisez le texte ci-dessous écrit par un élève d'un cours d'espéranto et essayez de le comprendre avec l'aide du vocabulaire."
+        vortaro: 
+          alia: autre
+          antaŭ: "avant, devant"
+          facila: facile
+          interŝanĝi: échanger
+          komenci: commencer
+          lerni: apprendre
+          tre: très

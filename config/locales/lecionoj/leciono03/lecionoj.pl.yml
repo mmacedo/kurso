@@ -1,0 +1,64 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: Przysłówki
+          adverboj-ekzpliko-1: "Przysłówki działają jak przymiotniki, ale zamiast określać rzeczownik, określają czasownik i przymiotnik  i  nie otrzymują końcówki  \"j\". Ogólnie wyrażąją  one  sposób,  przyczynę,  czas i miejsce."
+          adverboj-ekzpliko-2: "W Esperanto  przysłówki kończa się na literę \"-e\"  ( kiedy pochodzą od wyrazu)."
+          frazoj: 
+            adverboj-rimarkigo: "Przysłówek daje się przed wyrazem, którego on dotyczy."
+            frazo-sana: "On jest zdrowy."
+            frazo-sane: "On zdrowo żyje."
+            frazo-sani: "On jest zdrowy *"
+            frazo-sano: "On ma dobre zdrowie"
+          vortoj: 
+            sana: zdrowy
+            sane: zdrowo
+            sani: "być zdrowym*"
+            sano: zdrowie
+      pagxo02: 
+        numeraloj: Liczebniki
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: "Przymiotniki  z liczebników."
+          adjektivoj-el-numeraloj-ekzpliko: "Liczebniki porządkowe tworzy się dodając końcówkę  \"-a\"  do liczebników głównych.  Mają one też liczbę mnogą  ( -j ) i  biernik (-n )"
+          frazoj: 
+            frazo-adjektivoj-1: "Pierwsi chłopcy przybywają."
+            frazo-adjektivoj-2: "On złapał trzeciego owada."
+          vortoj: 
+            dek: dziesięć
+            dek-naux: dziewiętnaście
+            dek-nauxa: dziewiętnasty
+            deka: dziesiąty
+            tri: trzy
+            tria: trzeci
+        adverboj: 
+          adverboj-el-numeraloj: "Przysłówki z liczebników"
+          adverboj-el-numeraloj-ekzpliko: "Dodając końcówkę  \"-e\" do liczebników  tworzy się  przysłówki:"
+          frazoj: 
+            frazo-adverboj-1: "On najpierw będzie pił wodę."
+          vortoj: 
+            du: dwa
+            due: "po drugie"
+            unu: jeden
+            unue: "po pierwsze"
+      pagxo05: 
+        atendi: czekać
+        demandi: pytać
+        fumi: "dymić, palić papierosa"
+        horo: godzina
+        jaro: rok
+        kuri: biec
+        mateno: ranek
+        minuto: minuta
+        nokto: noc
+        peti: prosić
+        promeni: spacerować
+        respondi: odpowiadać
+        semajno: tydzień
+        soifi: "pragnąć (pić)"
+        tago: dzień
+        vespero: wieczór
+        vivi: żyć

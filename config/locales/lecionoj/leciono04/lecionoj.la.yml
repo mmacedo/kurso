@@ -1,0 +1,98 @@
+--- 
+la: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: Sveiks!
+        saluto02: Labdien!
+        saluto03: Labrīt!
+        saluto04: Labvakar!
+        saluto05: "Ar labu nakti!"
+        saluto06: "Kā jums klājas?"
+        saluto07: "Paldies, labi. Un jums?"
+        saluto08: "Pietiekami labi."
+        saluto09: "Ne ļoti labi."
+        saluto10: "Labu apetīti!"
+        saluto11: "Paldies, jums tāpat!"
+        saluto12: "Uz veselību!"
+        saluto13: "Uz redzēšanos!"
+        saluto14: "Ar Dievu!"
+        salutoj: Sasveicināšanās
+      pagxo02: 
+        relativoj: 
+          hieraŭ: vakar
+          hodiaŭ: šodien
+          morgaŭ: rīt
+        semajno: 
+          dimanĉo: svētdiena
+          lundo: pirmdiena
+          mardo: otrdiena
+          merkredo: trešdiena
+          sabato: sestdiena
+          vendredo: piektdiena
+          ĵaŭdo: ceturtdiena
+        tagoj: "Nedēļas dienas"
+      pagxo03: 
+        datoj: 
+          datoj: Datumi
+          datoj-ekzpliko: "Lai izteiktu datumus, sekojiet piemēram. Vārdi \"tago\" un \"en la jaro\" netiek lietoti:"
+        monatoj: 
+          aprilo: aprīlis
+          aŭgusto: augusts
+          decembro: decembris
+          februaro: februāris
+          januaro: janvāris
+          julio: jūlijs
+          junio: jūnijs
+          majo: maijs
+          marto: marts
+          monatoj: "Gada mēneši"
+          novembro: novembris
+          oktobro: oktobris
+          septembro: septembris
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Apgalvojums:"
+            aserto-frazo: "Maize ir sausa."
+          demandaj: "Jautājamās frāzes"
+          demandaj-ekzpliko: "Jebkurš jautājums tiek veidots uz apgalvojuma vai nolieguma, kuram pirms frāzes tiek pievienots vārds \"Ĉu\". Pievērsiet uzmanību, ka vārdu kārtība esperanto valodā netiek mainīta, tikai pirms frāzes pievieno vārdu \"Ĉu\". Tas ir derīgs visiem jautājumiem, kuriem atbildes būs \"jes - jā\" vai \"ne - nē\""
+          demando: 
+            demando: "Jautājums:"
+            demando-frazo: "Vai maize ir sausa?"
+          respondo: 
+            respondo: "Atbilde:"
+            respondo-frazo-negativa: "Nē, maize nav sausa."
+            respondo-frazo-pozitiva: "Jā, maize ir sausa."
+      pagxo05: 
+        infano: bērns
+        kaj: un
+        kolekti: "kolekcionēt, savākt"
+        kongreso: kongress
+        lando: zeme
+        leciono: lekcija
+        lernejo: skola
+        libro: grāmata
+        manĝi: ēst
+        mejlo: jūdze
+        monujo: maks
+        neŭtrala: neitrāls
+        ovo: ola
+        poŝtmarko: pastmarka
+        sandviĉo: sendvičs
+        sporto: sports
+        veni: "nākt, atbraukt"
+        vojaĝi: ceļot
+        ĵurnalo: "avīze, laikraksts"
+        ŝuo: kurpe
+      pagxo06: 
+        tekstokompreno: "Teksta izpratne"
+        tekstokompreno-ekzpliko: "Izlasiet apakšā doto tekstu, kuru ir izrakstījis esperanto skolnieks un pamēģiniet to saprast izmantojot vārdnīcu."
+        vortaro: 
+          alia: cits
+          antaŭ: "pirms, priekšā"
+          facila: viegls
+          interŝanĝi: apmainīties
+          komenci: sākt
+          lerni: mācīties
+          tre: ļoti

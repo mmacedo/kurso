@@ -1,0 +1,148 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: |
+            På esperanto skrivs orden precis som de uttalas. Varje bokstav uttalas alltid på samma sätt, 
+            d.v.s. enligt ljudmönstret i denna lektion, oavsett var i ordet bokstaven finns.  Betoningen läggs alltid på näst sista stavelsen (klicka på knapparna och repetera med tydlig röst)
+        alfabeto-titolo: "Esperantos alfabet"
+      pagxo03: 
+        personaj-pronomoj: "Personliga Pronomina"
+        pluralo: 
+          ili: |-
+              de (flertal för  'hon', 'han' och  
+              'den/det')
+          ni: vi
+          pluralo: "Flertal (Plural)"
+          vi: ni
+        singularo: 
+          gxi: |-
+              cen/det (anger föremål eller person 
+              vars kön man inte behöver precisera)
+          li: han
+          mi: jag
+          singularo: "Ental (singular)"
+          sxi: hon
+          vi: "du (ental) Ci = Du  (anv. mest i poesi)"
+        specialaj: 
+          oni: "man = obestämt pronomen som anger 'människor i allmänhet. Ex. Man kan vad man vill."
+          si: |-
+              sig - Reflexivt (återspeglande pronomen i tredje person - han/hon, den/det, de, eller 
+              man - ), används när det har anknytning till subjektet i meningen.
+          specialaj: Särskilda
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: Adjektiv
+          adjektivoj-ekspliko: "Adjektiv slutar med bokstaven 'a':"
+          bela: vacker
+          sana: frisk
+          varma: varm
+        nomoj: 
+          amiko: vän
+          frato: bror
+          kafo: kaffe
+          nomoj: Substantiv
+          nomoj-ekspliko: "Substantiv slutar med bokstaven 'o':"
+        verboj: 
+          ne-singularo: 
+            ili-estas: "de är"
+            ni-estas: "vi är"
+            oni-estos: "man kommer att vara"
+            vi-estis: "ni har varit / Ni var"
+          singularo: 
+            gxi-estos: "den/det kommer att vara / bli"
+            li-estis: "han var  /  han har varit"
+            mi-estas: "jag är"
+            sxi-estas: "hon är"
+          verboj: Verb
+          verboj-ekspliko: |-
+              Infinitivet (grundform) slutar med -i: esti;  preteritum (förfluten tid) slutar med -is: estis; 
+              presens (nutid) slutar med -as: estas; futurum (framtid) slutar på -os: estos;. Verbens 
+              övriga tidsformer kommer vi att behandla i följande lektioner.
+      pagxo05: 
+        amiko: vän
+        bela: vacker
+        biskvito: kaka
+        blanka: vit
+        bona: god/bra
+        filo: son
+        floro: blomma
+        frato: bror
+        granda: stor
+        instruisto: lärare
+        kafo: kaffe
+        knabo: pojke
+        kuko: kaka
+        lakto: mjölk
+        nova: ny
+        pano: bröd
+        patro: far
+        sana: frisk
+        seka: torr
+        sukero: socker
+        teo: te
+        varma: varm
+        viro: man
+      pagxo06: 
+        pluralo: 
+          amikoj: vänner
+          belaj: vackra
+          belaj-floroj: "vackra blommor"
+          bonaj-amikoj: "goda vänner"
+          floroj: blommor
+          patroj: fäder
+          sanaj: friska
+          sanaj-patroj: "friska fäder"
+        pluralo-ekzpliko: "Plural skapas genom tillägg av bokstaven \" j \"  i slutet på substantiv och adjektiv:"
+        pluralo-titolo: "Flertal (plural)"
+        singularo: 
+          amiko: vän
+          bela: vacker
+          bela-floro: "en vacker blomma"
+          bona-amiko: "en god vän"
+          floro: blomma
+          patro: far
+          sana: frisk
+          sana-patro: "en frisk far"
+      pagxo07: 
+        posedaj: 
+          ilia: deras
+          lia: hans
+          mia: min
+          nia: vår
+          via: "din /edra"
+          ĝia: dess
+          ŝia: hennes
+        posedaj-pronomoj: "Possesiva (ägande) pronomen"
+        posedaj-pronomoj-ekzpliko: "Possesiva (ägande) pronomen skapas genom tillägg av ändelsen \" a  \" till personliga pronomen:"
+        rimarkigo: 
+          mia-amiko: "min vän"
+          miaj-amikoj: "mina vänner"
+          nia-floro: "vår blomma"
+          niaj-floroj: "våra blommor"
+          posedaj-pronomoj-rimarkigo: |
+              Även possessiva (ägande) pronom- 
+              en får ändelsen 'j' i flertal (plural)
+      pagxo08: 
+        artikolo: 
+          artikolo: "Bestämd artikel"
+          artikolo-ekzpliko: |-
+              Obestämd artikel finns inte i esperanto; Det finns endast EN bestämd artikel "la" som används 
+              för alla genus, deklinationer och numerus. Obestämd form skapas genom att utesluta ordet "la".
+          floroj: blommor
+          knabo: pojke
+          la-floroj: blommorna
+          la-knabo: pojken
+          la-pano: brödet
+          la-patroj: fädren
+          pano: bröd
+          patroj: fäder
+        frazoj: 
+          frazo01: "Dina / era söner är våra vänner."
+          frazo02: "Brödet är torrt."
+          frazo03: "Varm mjölk är god."
+          frazo04: "En blomma är vacker."
+          frazo05: "Pojkarna är stora."
+          frazo06: "Fadern är god (bra)"
+          frazoj: "Meningar (fraser)"

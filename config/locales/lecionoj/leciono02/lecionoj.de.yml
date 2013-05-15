@@ -1,0 +1,90 @@
+--- 
+de: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "Die schöne Freundin"
+          frazo-patrino: "Die gute Mutter"
+          frazo-virino: "Die großen Frauen"
+        sufikso-ino: "Suffix/Endung -ino"
+        sufikso-ino-ekspliko-1: "Die Adjektive passen sich dem Substantiv im Numerus an, wie wir gelernt haben (1. Lektion) - im Singular enden sie auf -a, im Plural auf -aj. Maßgeblich ist auch, ob sie ein oder mehrere Substantive begleiten.  Das grammatische Geschlecht (m/f/n) entfällt beim Esperanto."
+        sufikso-ino-ekspliko-2: "Beim natürlichen Geschlecht unterscheidet man: viro - Mann; virino -  Frau; fraŭlo - Jungeselle; fraŭlino - Fräulein usw. Das Merkmal 'weiblich' wird also durch die Endung -ino ausgedrückt."
+        vortoj: 
+          amikino: Freundin
+          amiko: Freund
+          filino: Tochter
+          filo: Sohn
+          patrino: Mutter
+          patro: Vater
+          virino: Frau
+          viro: Mann
+      pagxo02: 
+        akusativo: "Akkusativ (-n)"
+        akusativo-ekzpliko-1: "Sehr praktisch - besonders für deutsche Ohren - ist die Endung -n beim Akkusativ (Wenfall). Daran erkennt man das direkte Objekt eines Satzes bei Nomen, Pronomen und Adjektiven."
+        akusativo-ekzpliko-2: "An folgenden Beispielen sieht man, wie leicht sich Satzglieder umstellen lassen:"
+        akusativo-rimarkigo-1: |-
+            Die veränderte Stellung der Satzglieder (Objekte) erlaubt uns, feinere Unterschiede des Satzsinnes auszudrücken.  
+            Darüber später mehr.
+        akusativo-rimarkigo-2: "Beim Verb \"esti = sein\" steht gewöhnlich der Nominativ (wer?) - als Subjekt oder Prädikats- nomen, jedoch nicht der Akkusativ."
+        frazo-plurala: "Ich spüle die neuen Tassen."
+        frazo-singulara: "Ich spüle die neue Tasse."
+      pagxo03: 
+        neado: 
+          frazo01: |-
+              Ich werde die neue Tasse nicht spülen.
+              Ich werde die neue Tasse nicht waschen.
+          frazo02: "Er ist nicht mein Bruder."
+          frazo03: "Sie ist nicht meine Mutter."
+          frazo04: "Die Kuchen waren nicht warm."
+          neado: Negation/Verneinung
+          neado-ekspliko: "Durch \"ne\" (vor dem Verb) verneint man den Satzsinn."
+        prefikso-mal: 
+          amiko: Freund
+          avara: geizig
+          bela: schön
+          juna: jung
+          malamiko: Feind
+          malavara: freigebig
+          malbela: hässlich
+          maljuna: alt
+          malnova: alt
+          nova: neu
+          prefikso-mal: "Die Vorsilbe \"mal\""
+          prefikso-mal-ekspliko: "Das Präfix (Vorsilbe) \"mal\" verkehrt die Bedeutung des Grundwortes ins Gegenteil."
+      pagxo04: 
+        muziko: "Musik auf Esperanto"
+        muziko-ekzpliko: |-
+            Hören wir nun das Esperanto-Lied "Jen (Siehe da!)" der argentinischen Gruppe "La Porkoj  - Die Schweine". Sie gewann den Kunstpreis des Esperanto-Weltbundes. 
+            Ihre Mitglieder:
+            Alejandro Cossavella (Gesang)
+            Pablo Ciancio (Schlagzeug)
+            Ignacio Mendizabal (Gitarre)
+            Salvador Augustoni (Bassgitarre)
+            Zum Abspielen bitte den 'Knopf drücken'.
+      pagxo05: 
+        akvo: Wasser
+        ami: lieben
+        amo: Liebe
+        birdo: Vogel
+        butiko: "Laden, Geschäft"
+        fari: "tun, machen"
+        forgesi: vergessen
+        havi: haben
+        insekto: Insekt
+        kapti: fangen
+        lavi: waschen
+        limonado: Limonade
+        papero: Papier
+        peti: bitten
+        plumo: Feder
+        porti: tragen
+        pura: rein
+        renkonti: treffen
+        skribi: schreiben
+        sukeri: zuckern
+        taso: Tasse
+        trinki: trinken
+        trovi: finden
+        vendi: verkaufen
+        vidi: sehen

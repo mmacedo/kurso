@@ -1,0 +1,72 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: Adverb
+          adverboj-ekzpliko-1: |-
+              Adverben fungerar på samma sätt som adjektiven men, istället för att definiera egenskaper för 
+              substantiv beskriver de egenskaper för verb och adjektiv. Ett adverb skall aldrig ha pluraländ- 
+              elsen 'j'. I allmänhet uttrycker adverbet sätt, orsak, tid eller plats.
+          adverboj-ekzpliko-2: |-
+              Adverb på Esperanto är antingen ursprungliga eller  bildas genom att lägga till ändelsen -e i 
+              slutet av ordet / ordstammen. Den grundläggande idén med Esperanto är att man, genom tillägg 
+              av olika ändelser, kan använda en ordstam för olika ändamål.
+          frazoj: 
+            adverboj-rimarkigo: "Man brukar i allmänhet placera adverbet före verbet till vilket det hör."
+            frazo-sana: "Han är frisk"
+            frazo-sane: "Han lever sunt (friskt)"
+            frazo-sani: "Han mår bra"
+            frazo-sano: "Han har (en) god hälsa"
+          vortoj: 
+            sana: frisk
+            sane: friskt
+            sani: "må bra"
+            sano: hälsa
+      pagxo02: 
+        numeraloj: Räkneord
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: "Adjektiv av räkneord"
+          adjektivoj-el-numeraloj-ekzpliko: |-
+              Ordningstal skapar man genom att lägga till ändelsen 'a' till räkneordet. Eftersom de försetts 
+              med ändelsen 'a' kan man även  skapa plural (-J) och ackusativ (-n).
+          frazoj: 
+            frazo-adjektivoj-1: "De första pojkarna kommer."
+            frazo-adjektivoj-2: "Han fångade den tredje insekten."
+          vortoj: 
+            dek: tio
+            dek-naux: nitton
+            dek-nauxa: nittonde
+            deka: tionde
+            tri: tre
+            tria: tredje
+        adverboj: 
+          adverboj-el-numeraloj: "Adverb av räkneord"
+          adverboj-el-numeraloj-ekzpliko: "Genom att lägga till ändelsen 'e' till räkneord skapar man adverb:"
+          frazoj: 
+            frazo-adverboj-1: "Först kommer han att dricka vatten"
+          vortoj: 
+            du: två
+            due: "(för det) andra"
+            unu: ett
+            unue: "(för det) första"
+      pagxo05: 
+        atendi: vänta
+        demandi: fråga
+        fumi: röka
+        horo: timme
+        jaro: år
+        kuri: springa(löpa)
+        mateno: morgon
+        minuto: minut
+        nokto: natt
+        peti: be
+        promeni: promenera
+        respondi: svara
+        semajno: vecka
+        soifi: törsta
+        tago: dag
+        vespero: kväll
+        vivi: leva

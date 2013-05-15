@@ -45,18 +45,20 @@ module I18nEltiro
         leciono   = "leciono#{i.to_s.rjust(2,'0')}"
         dosierujo = File.join(@eliga_dosierujo, leciono)
         %w[lecionoj ekzercoj].each do |klavo|
-          if enhavo.has_key? klavo and enhavo[klavo].has_key? leciono
-            savi_dosiero lingvo, klavo, dosierujo, Hash[leciono, Hash[klavo, enhavo[klavo][leciono]]]
-          end
+          next unless enhavo.has_key? klavo and enhavo[klavo].has_key? leciono
+          savi_dosiero lingvo, klavo, dosierujo, Hash[leciono, enhavo[klavo][leciono]]
         end
       end
-      savi_dosiero lingvo, 'aliaj', @eliga_dosierujo, { 'aliaj' => enhavo['aliaj'] } if enhavo.has_key? 'aliaj'
+      if enhavo.has_key? 'aliaj'
+        dosierujo = File.join(@eliga_dosierujo, 'aliaj')
+        savi_dosiero lingvo, 'aliaj', dosierujo, { 'aliaj' => enhavo['aliaj'] }
+      end
     end
 
     private
     def savi_dosiero(lingvo, klavo, dosierujo, enhavo)
       dosiero  = File.join(dosierujo, "#{klavo}.#{lingvo}.yml")
-      enpakita = Hash[lingvo, { 'views' => { 'kurso' => enhavo } }]
+      enpakita = Hash[lingvo, { 'lecionoj' => enhavo }]
       FileUtils.mkdir_p dosierujo
       IO.write dosiero, enpakita.ya2yaml
       puts dosiero

@@ -1,0 +1,133 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: 世界语共有28个字母，一个字母代表一个音，没有不规则的音变，因而语音形式和书写形式完全一致。其重音固定在倒数第二个音节上。除元音字母A、E、I、O、U外，辅音字母的名称，一律在字母后加“O”。下面请反复点击按钮听发音，并跟着大声读。
+        alfabeto-titolo: 世界语字母表
+      pagxo03: 
+        personaj-pronomoj: 人称代词
+        pluralo: 
+          ili: 他们，它们（“ŝi”、“li”和“ĝi”的复数）
+          ni: 我们
+          pluralo: 复数
+          vi: 你们(复数)
+        singularo: 
+          gxi: 它(表示事物，动物或不需明确性别的人)
+          li: 他
+          mi: 我
+          singularo: 单数
+          sxi: 她
+          vi: 你(单数)
+        specialaj: 
+          oni: Oni：人们；人(指不定的人，可以是单数或复数)
+          si: Si：他(或她，它，他们)自己(第三人称反身代词，常用于动词后用以反指施动者)
+          specialaj: 特殊代词
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: 形容词
+          adjektivoj-ekspliko: 形容词以“a”结尾：
+          bela: 漂亮的，美丽的
+          sana: 健康的
+          varma: 热的，暖和的；热情的
+        nomoj: 
+          amiko: 朋友
+          frato: 兄弟，哥哥，弟弟
+          kafo: 咖啡
+          nomoj: 名词
+          nomoj-ekspliko: 名词以“o”结尾：
+        verboj: 
+          ne-singularo: 
+            ili-estas: 他们是
+            ni-estas: 我们是
+            oni-estos: 人们是
+            vi-estis: 你是
+          singularo: 
+            gxi-estos: 它是
+            li-estis: 他是
+            mi-estas: 我是
+            sxi-estas: 她是
+          verboj: 动词
+          verboj-ekspliko: 动词原形以“-i”结尾：esti；动词过去时以“-is”结尾：estis；动词现在时以“-as”结尾，动词将来时以“-os”结尾。动词的其它时态将在以后各课学习。
+      pagxo05: 
+        amiko: 朋友
+        bela: 美丽的，漂亮的
+        biskvito: 饼干
+        blanka: 白色的
+        bona: 好的，善良的，合格的
+        filo: 儿子
+        floro: 花朵
+        frato: 兄弟，哥哥，弟弟
+        granda: 大的，伟大，身材高大
+        instruisto: 教师
+        kafo: 咖啡
+        knabo: 男孩
+        kuko: 糕点，点心，蛋糕
+        lakto: 乳，乳汁，奶
+        nova: 新的
+        pano: 面包
+        patro: 父亲，爸爸
+        sana: 健康的
+        seka: 干的
+        sukero: 糖
+        teo: 茶，茶叶
+        varma: 热的，温暖的；热情的
+        viro: 男人
+      pagxo06: 
+        pluralo: 
+          amikoj: 朋友们
+          belaj: 美丽的(指复数)
+          belaj-floroj: 美丽的花(指复数)
+          bonaj-amikoj: 好朋友们
+          floroj: 花(指复数)
+          patroj: 父亲们
+          sanaj: 健康的(指复数)
+          sanaj-patroj: 健康的父亲们
+        pluralo-ekzpliko: 名词和形容词词尾加“j”表示复数：
+        pluralo-titolo: 复数
+        singularo: 
+          amiko: 朋友
+          bela: 美丽
+          bela-floro: 美丽的花朵
+          bona-amiko: 好朋友
+          floro: 花朵
+          patro: 父亲
+          sana: 健康
+          sana-patro: 健康的父亲
+      pagxo07: 
+        posedaj: 
+          ilia: 他们的，它们的
+          lia: 他的
+          mia: 我的
+          nia: 我们的
+          via: 你的，你们的
+          ĝia: 它的
+          ŝia: 她的
+        posedaj-pronomoj: 物主代词
+        posedaj-pronomoj-ekzpliko: 人称代词加词尾“a”表示物主代词：
+        rimarkigo: 
+          mia-amiko: 我的朋友
+          miaj-amikoj: 我的朋友们
+          nia-floro: 我们的花
+          niaj-floroj: 我们的花(指复数)
+          posedaj-pronomoj-rimarkigo: 物主代词的复数也加后缀“j”：
+      pagxo08: 
+        artikolo: 
+          artikolo: 冠词
+          artikolo-ekzpliko: 世界语里没有不定冠词，只有定冠词“la”，其性、数、格的形式都一样。
+          floroj: 花(指复数)
+          knabo: 男孩
+          la-floroj: 花(指复数)
+          la-knabo: 男孩
+          la-pano: 面包
+          la-patroj: 父亲们
+          pano: 面包
+          patroj: 父亲们
+        frazoj: 
+          frazo01: 你的几个儿子是我们的朋友。
+          frazo02: 那块面包是干的。
+          frazo03: 热奶是好的。
+          frazo04: 花朵很美丽。
+          frazo05: 那几个男孩是大孩子。
+          frazo06: 父亲是善良的。
+          frazoj: 句子

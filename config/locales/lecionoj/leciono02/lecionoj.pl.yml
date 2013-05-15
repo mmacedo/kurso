@@ -1,0 +1,79 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "Ładna przyjaciółka"
+          frazo-patrino: "Dobra matka"
+          frazo-virino: "Duże kobiety"
+        sufikso-ino: "Przyrostek -ino"
+        sufikso-ino-ekspliko-1: "W pierwszej lekcji widzieliśmy, że w Esperanto  przymiotniki zgadzają  się w liczbie pojedyńczej i mnogiej z rzeczownikami. Jeśli jest jeden rzeczownik, to  przymiotnik jest w liczbie pojedyńczej, jeśli więcej niż jeden rzeczownik, to przymiotnik jest w liczbie mnogiej. Przymiotniki są jednakowe dla każdej płci."
+        sufikso-ino-ekspliko-2: "Tylko  rzeczowniki  określają  płeć  męską  końcówką  \"-o\"  i  żeńską   końcówką  \"-ino\"."
+        vortoj: 
+          amikino: przyjaciółka
+          amiko: przyjaciel
+          filino: córka
+          filo: syn
+          patrino: matka
+          patro: ojciec
+          virino: kobieta
+          viro: mężczyzna
+      pagxo02: 
+        akusativo: "Biernik (-n)"
+        akusativo-ekzpliko-1: "Jest inna końcówka, bardzo użyteczna, umożliwiająca rozpoznanie prostego dopełnienia. Jest to litera   \"-n \"  oznaczająca biernik i dodawana do rzeczowników, przymiotników i zaimków."
+        akusativo-ekzpliko-2: "Zauważ, że liczbę mnogą  zaznacza się przed biernikiem , a on jest zawsze zaznaczony na końcu wyrazu  np: -jn Proste dopełnienie może znajdować się na początku, w środku, lub na końcu zdania i to nie zmienia jego sensu, ponieważ dopełnienie wskazuje biernik. Oto trzy zdania, których sens jest  taki sam:"
+        akusativo-rimarkigo-1: "Różny szyk wyrazów w zdaniu może być użyty, aby je  zróżnicować.To wyjaśnimy później."
+        akusativo-rimarkigo-2: "Po  czasowniku  \"być\" nie używaj biernika, ponieważ \"być\" wskazuje, że podmiot i orzeczenie  są  równoważne."
+        frazo-plurala: "Ja myję nowe filiżanki."
+        frazo-singulara: "Ja myję nową filiżankę."
+      pagxo03: 
+        neado: 
+          frazo01: "Ja nie będę mył nowej filiżanki."
+          frazo02: "On nie jest moim bratem."
+          frazo03: "Ona nie jest moją matką."
+          frazo04: "Ciastka nie były ciepłe."
+          neado: Przeczenie
+          neado-ekspliko: "Aby utworzyć zdanie przeczące, wystarczy dać słówko \"ne\"  przed czasownikiem."
+        prefikso-mal: 
+          amiko: przyjaciel
+          avara: skąpy
+          bela: ładny
+          juna: młody
+          malamiko: wróg
+          malavara: szczodry
+          malbela: brzydki
+          maljuna: "stary /odnośnie do istot/"
+          malnova: "stary /odnośnie rzeczy/"
+          nova: nowy
+          prefikso-mal: "Przedrostek  \"mal-\""
+          prefikso-mal-ekspliko: "Przedrostek  \"mal-\" pozwala tworzyć wyrazy, których znaczenie jest przeciwieństwem słowa, z którym jest połączony."
+      pagxo04: 
+        muziko: "Muzyka w Esperanto"
+        muziko-ekzpliko: "Słuchaj piosenki \"Oto\" argentyńskiej grupy \"Świnie\", nagrodzonej na konkursach UEA.Członkowie grupy to A.Cossavella(głos) P.Cianco (drumle) I. Mendizabal (gitara) S.  Agustoni (gitara basowa). \"Oto\" to słówko, które zapowiada, zwraca uwagę. Kliknij na przycisk, aby usłyszeć piosenkę."
+      pagxo05: 
+        akvo: woda
+        ami: kochać
+        amo: miłość
+        birdo: ptak
+        butiko: butik
+        fari: robić
+        forgesi: zapomnieć
+        havi: mieć
+        insekto: owad
+        kapti: łapać
+        lavi: myć
+        limonado: lemoniada
+        papero: papier
+        peti: prosić
+        plumo: pióro
+        porti: nieść
+        pura: czysty
+        renkonti: spotkać
+        skribi: pisać
+        sukeri: słodzić
+        taso: filiżanka
+        trinki: pić
+        trovi: znaleźć
+        vendi: sprzedać
+        vidi: widzieć

@@ -1,0 +1,98 @@
+--- 
+li: 
+  lecionoj: 
+    leciono04: 
+      pagxo01: 
+        saluto01: "Sveikas! Sveiki!"
+        saluto02: "Laba diena!"
+        saluto03: "Labas rytas!"
+        saluto04: "Labas vakaras!"
+        saluto05: "Labos nakties! Labanakt!"
+        saluto06: "Kaip gyvuoji?"
+        saluto07: "Gerai, ačiū. O tu?"
+        saluto08: "Gana gerai."
+        saluto09: "Nelabai gerai."
+        saluto10: "Gero apetito!"
+        saluto11: "Ačiū, ir tau to paties!"
+        saluto12: "Į sveikatą!"
+        saluto13: "Iki pasimatymo!"
+        saluto14: "Sudiev! Viso gero!"
+        salutoj: Pasisveikinimai
+      pagxo02: 
+        relativoj: 
+          hieraŭ: vakar
+          hodiaŭ: šiandien
+          morgaŭ: rytoj
+        semajno: 
+          dimanĉo: sekmadienis
+          lundo: pirmadienis
+          mardo: antradienis
+          merkredo: trečiadienis
+          sabato: šeštadienis
+          vendredo: penktadienis
+          ĵaŭdo: ketvirtadienis
+        tagoj: "Savaitės dienos"
+      pagxo03: 
+        datoj: 
+          datoj: Datos
+          datoj-ekzpliko: "Sakykite datą pagal pavyzdį (žodžiai \"tago\" ir \"jaro\" praleisti, nes jie savaime suprantami)."
+        monatoj: 
+          aprilo: balandis
+          aŭgusto: rugpjūtis
+          decembro: gruodis
+          februaro: vasaris
+          januaro: sausis
+          julio: liepa
+          junio: birželis
+          majo: gegužė
+          marto: kovas
+          monatoj: Mėnesiai
+          novembro: lapkritis
+          oktobro: spalis
+          septembro: rugsėjis
+      pagxo04: 
+        demandaj: 
+          aserto: 
+            aserto: "Teiginys:"
+            aserto-frazo: "Duona yra sausa."
+          demandaj: "Klausiamieji sakiniai"
+          demandaj-ekzpliko: "Visi klausimai, sudaryti kokiam nors teiginiui, prasideda žodeliu \"Ĉu\".  Atkreipkite dėmesį, kad žodžių tvarka sakinyje nesikeičia, tik prieš sakinį parašomas žodelis \"Ĉu\". Tai galioja visiems klausimams, į kuriuos galima atsakyti \"taip\" arba \"ne\"."
+          demando: 
+            demando: "Klausimas:"
+            demando-frazo: "Ar duona yra sausa?"
+          respondo: 
+            respondo: "Atsakymas:"
+            respondo-frazo-negativa: "Ne, duona nėra sausa."
+            respondo-frazo-pozitiva: "Taip, duona yra sausa."
+      pagxo05: 
+        infano: vaikas
+        kaj: ir
+        kolekti: rinkti
+        kongreso: kongresas
+        lando: šalis
+        leciono: pamoka
+        lernejo: mokykla
+        libro: knyga
+        manĝi: valgyti
+        mejlo: mylia
+        monujo: piniginė
+        neŭtrala: neutralus
+        ovo: kiaušinis
+        poŝtmarko: "pašto ženklas"
+        sandviĉo: sumuštinis
+        sporto: sportas
+        veni: "ateiti, atvykti"
+        vojaĝi: keliauti
+        ĵurnalo: laikraštis
+        ŝuo: pusbatis
+      pagxo06: 
+        tekstokompreno: "Teksto supratimas"
+        tekstokompreno-ekzpliko: "Perskaitykite pateiktą tekstą, parašytą vieno mokinio, besimokančio esperanto kalbos, ir pabandykite jį suprasti naudodamiesi žodynu."
+        vortaro: 
+          alia: kitas
+          antaŭ: "prieš, priešais"
+          facila: lengvas
+          interŝanĝi: apsikeisti
+          komenci: pradėti
+          lerni: mokytis
+          tre: labai

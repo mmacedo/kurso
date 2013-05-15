@@ -1,0 +1,83 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "Kaunis ystävätär"
+          frazo-patrino: "Hyvä äiti"
+          frazo-virino: "Suuret naiset"
+        sufikso-ino: "Jälkiliite -ino"
+        sufikso-ino-ekspliko-1: |-
+            Ensimmäsessä oppikappaleessa huomasimme, että toistensa yhteydessä oleva substantiivi ja adjektiivi ovat molemmat, joko yksikössä, tai vastaavasti molemmat monikossa.
+            Toisaalta, maskuliinilla tai feminiinillä ei ole vaikutusta adjektiivin taipumiseen.
+        sufikso-ino-ekspliko-2: "Sukupuolen omaavat oliot voidaan erotella toisistaan jälkiliitteellä. Urospuolisilla päättenä on pelkkä \"-o\" ja naaraspuolisilla \"-ino\"."
+        vortoj: 
+          amikino: ystävätär
+          amiko: ystävä
+          filino: tytär
+          filo: "(oma) poika"
+          patrino: äiti
+          patro: isä
+          virino: nainen
+          viro: mies
+      pagxo02: 
+        akusativo: "Akkusatiivi (-n)"
+        akusativo-ekzpliko-1: "Akkusatiivi ilmaistaan \"-n\" päätteellä, ja sitä käytetään samoin kun suomenkielessä, tosin  joskus on mahdollista valita, käyttääkö akkusatiivia vai prepositiota."
+        akusativo-ekzpliko-2: "Akkusatiivin pääte on aina, niin yksikössä kuin monikossa, sanan viimeinen kirjain. Koska akkusatiivi määrää lauseen merkityksen, niin suora objekti voi sijaita, merkityksen olennaisesti muuttumatta, lauseen alussa, keskellä, lopussa tai preposition jäljessä. Tässä seuraa kolme lausetta, joiden merkitys on sama:"
+        akusativo-rimarkigo-1: |-
+            Lauseen sanajärjestystä voidaan muuttaa  erilaisen painotuksen aikaansaamiseksi. 
+            Sitä käsitellään myöhemmin.
+        akusativo-rimarkigo-2: "Verbin \"esti\" yhteydessä ei voi käyttää akkusatiivia, koska tässä tapauksessa subjekti ja predikatiivi ovat samanarvoiset."
+        frazo-plurala: "Pesen uudet kupit."
+        frazo-singulara: "Pesen uuden kupin."
+      pagxo03: 
+        neado: 
+          frazo01: "Minä en pese uutta kuppia."
+          frazo02: "Hän ei ole veljeni."
+          frazo03: "Hän (nainen) ei ole äitini."
+          frazo04: "Kakut eivät ole lämpimät."
+          neado: Kieltäminen
+          neado-ekspliko: "Lause voidaan muuttaa kielteiseksi, asettamalla \"ne\" sana verbin eteen."
+        prefikso-mal: 
+          amiko: ystävä
+          avara: saita
+          bela: kaunis
+          juna: nuori
+          malamiko: vihamies
+          malavara: antelias
+          malbela: ruma
+          maljuna: "(iältään) vanha, iäkäs"
+          malnova: vanha
+          nova: uusi
+          prefikso-mal: "Etuliite \"mal\""
+          prefikso-mal-ekspliko: "Etuliite \"mal\" muuttaa sanan merkityksen päinvastaiseksi."
+      pagxo04: 
+        muziko: "Musiikki ja Esperanto"
+        muziko-ekzpliko: "Kuulemme nyt argentinalaisen ryhmän \"La Porkoj\" esittämän laulelman \"Jen\", jolla ryhmä voitti palkinnon Kansainvälisen Esperato-liiton kaunotaiteiden kilpailussa. Ryhmään kuuluu Alejandro Cossavellla (laulusolisti), Pablo Ciancio  (rummut), Inacio Mendizabal (kitarat) ja Salvador Aagustoni (bassokitara). Paina painiketta kuullaksesi esityksen."
+      pagxo05: 
+        akvo: vesi
+        ami: rakastaa
+        amo: rakkaus
+        birdo: lintu
+        butiko: myymälä
+        fari: tehdä
+        forgesi: unohtaa
+        havi: "omata, olla jklla"
+        insekto: hyönteinen
+        kapti: "tarttua, ottaa"
+        lavi: pestä
+        limonado: limsa
+        papero: paperi
+        peti: pyytää
+        plumo: "sulka, höyhen"
+        porti: kantaa
+        pura: puhdas
+        renkonti: tavata
+        skribi: kirjoittaa
+        sukeri: sokeroida
+        taso: kuppi
+        trinki: juoda
+        trovi: löytää
+        vendi: myydä
+        vidi: nähdä

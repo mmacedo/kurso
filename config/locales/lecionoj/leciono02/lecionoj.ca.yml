@@ -1,0 +1,79 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono02: 
+      pagxo01: 
+        frazoj: 
+          frazo-amikino: "La amiga bonica"
+          frazo-patrino: "La mare bona"
+          frazo-virino: "Les dones grans"
+        sufikso-ino: "El sufix -ino"
+        sufikso-ino-ekspliko-1: "A la primera lliçó vam veure que en esperanto els adjectius concorden en número (singular o plural) amb el substantiu. Per altra banda, no varien mai segons el gènere (masculí o femení)."
+        sufikso-ino-ekspliko-2: "Només en els substantius associats a éssers sexuats se'n pot identificar el sexe utilitzant la terminació \"o\" en els masculins i \"ino\" en els femenins."
+        vortoj: 
+          amikino: amiga
+          amiko: amic
+          filino: filla
+          filo: fill
+          patrino: mare
+          patro: pare
+          virino: dona
+          viro: home
+      pagxo02: 
+        akusativo: "Acusatiu (-n)"
+        akusativo-ekzpliko-1: "Hi ha una altra terminació molt útil que ens permet reconèixer el complement directe dins d'una oració. És l'acusatiu, i es col·loca al final dels substantius, adjectius i pronoms per formar el complement directe. Així doncs, sempre es reconeix el complement directe per la terminació \"n\"."
+        akusativo-ekzpliko-2: "Fixeu-vos que el plural es col·loca davant l'acusatiu, i que aquest apareix al final de la paraula. El complement directe pot aparèixer al principi, al mig o al final de l'oració, i això no en modifica en absolut el sentit, que no és ambigu gràcies a l'acusatiu. Heus aquí tres frases amb el mateix sentit:"
+        akusativo-rimarkigo-1: "De fet, el canvi d'ordre dins de l'oració s'acostuma a utilitzar per emfatitzar un element o un altre de la frase. D'això en parlarem més endavant."
+        akusativo-rimarkigo-2: "Després del verb \"esti\" no utilitzem l'acusatiu perquè el verb \"esti\" ja implica que el subjecte i el predicat són equivalents."
+        frazo-plurala: "Rento les tasses noves."
+        frazo-singulara: "Rento la tassa nova."
+      pagxo03: 
+        neado: 
+          frazo01: "No rentaré la tassa nova."
+          frazo02: "Ell no és el meu germà."
+          frazo03: "Ella no és la meva mare."
+          frazo04: "Els pastissos no eren calents."
+          neado: Negació
+          neado-ekspliko: "Per fer negativa una frase n'hi ha prou amb col·locar la paraula \"ne\" davant del verb."
+        prefikso-mal: 
+          amiko: amic
+          avara: avar/a
+          bela: "bell/a, bonic/a"
+          juna: jove
+          malamiko: enemic
+          malavara: generós/osa
+          malbela: lleig/lletja
+          maljuna: vell/a
+          malnova: antic/ga
+          nova: nou/va
+          prefikso-mal: "El prefix \"mal\""
+          prefikso-mal-ekspliko: "El prefix \"mal\" ens permet crear paraules amb el significat contrari al de la paraula a la que se li col·loca."
+      pagxo04: 
+        muziko: "Música en esperanto"
+        muziko-ekzpliko: "Escoltem ara la cançó \"Jen\" (Vet aquí) del grup argentí \"La Porkoj\" (Els Porcs), que va ser premiada per la Associació Universal d'Esperanto. El grup està format per Alejandro Cossavella (veu), Pablo Ciancio (bateria), Ignacio Mendizabal (guitarres) i Salvador Agustoni (baix). Pitjeu el botó per escoltar-la."
+      pagxo05: 
+        akvo: aigua
+        ami: estimar
+        amo: amor
+        birdo: ocell
+        butiko: botiga
+        fari: fer
+        forgesi: oblidar
+        havi: tenir
+        insekto: insecte
+        kapti: "agafar, capturar"
+        lavi: rentar
+        limonado: llimonada
+        papero: paper
+        peti: demanar
+        plumo: ploma
+        porti: portar
+        pura: net/a
+        renkonti: "trobar, trobar-se amb"
+        skribi: escriure
+        sukeri: "posar sucre a, endolcir"
+        taso: tassa
+        trinki: beure
+        trovi: trobar
+        vendi: vendre
+        vidi: veure

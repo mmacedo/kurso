@@ -1,0 +1,64 @@
+--- 
+jp: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: 副詞(ふくし)
+          adverboj-ekzpliko-1: "副詞は形容詞と似ています。 形容詞は名詞について説明をくわえ、副詞は動詞や形容詞について説明をくわえます。 副詞は複数で形が変わることはありません。 副詞は一般に、方法、様子、原因、時間、場所などをあらわします。"
+          adverboj-ekzpliko-2: "副詞の多くは、終わりが\"e\"で、残りは他の単語（名詞、形容詞、動詞など）と同じです。 エスペラントでは、単語の基本的な意味に対して、単語の語尾をとりかえて、いろいろな役割に使えます。"
+          frazoj: 
+            adverboj-rimarkigo: 副詞は、その副詞が関係する単語の前に置くのがふつうです。
+            frazo-sana: 彼は健康です。
+            frazo-sane: 彼は健康に生きています。
+            frazo-sani: 彼は健康です。
+            frazo-sano: 彼はとても健康です。
+          vortoj: 
+            sana: 健康な（形容詞）
+            sane: 健康に（副詞）
+            sani: 健康である（動詞）
+            sano: 健康（名詞）
+      pagxo02: 
+        numeraloj: 数詞(すうし)
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: 数詞からできる形容詞
+          adjektivoj-el-numeraloj-ekzpliko: "序数(じょすう=順番を表す数)は数詞の後ろに\"a\"を付けて作ります。 \"a\"で終わるので、複数のときは\"j\"、対格のときは\"n\"が付きます。"
+          frazoj: 
+            frazo-adjektivoj-1: 最初の男の子たちが来ます。
+            frazo-adjektivoj-2: 彼は3番めの虫をつかまえました。
+          vortoj: 
+            dek: "10"
+            dek-naux: "19"
+            dek-nauxa: 19番めの
+            deka: 10番めの
+            tri: "3"
+            tria: 3番めの
+        adverboj: 
+          adverboj-el-numeraloj: 数詞からできる副詞
+          adverboj-el-numeraloj-ekzpliko: "数詞の最後に \"e\" をつけると副詞になります。"
+          frazoj: 
+            frazo-adverboj-1: 彼は最初に水を飲むでしょう。
+          vortoj: 
+            du: "2"
+            due: 2番めに
+            unu: "1"
+            unue: 1番めに
+      pagxo05: 
+        atendi: 待つ
+        demandi: 質問する
+        fumi: タバコをすう
+        horo: 時
+        jaro: 年
+        kuri: 走る
+        mateno: 朝
+        minuto: 分
+        nokto: 夜
+        peti: たのむ
+        promeni: 散歩する
+        respondi: 答える
+        semajno: 週
+        soifi: のどがかわく
+        tago: 日
+        vespero: 夕方
+        vivi: 生きる・生活する

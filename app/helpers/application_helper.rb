@@ -30,8 +30,8 @@ module ApplicationHelper
   end
 
   def lingvo_nomo(lingvo, nur_esperanta = false)
-    denasko   = I18n.t 'views.kurso.aliaj.lingvo.denaska',   locale: lingvo, default: "" unless nur_esperanta
-    esperanto = I18n.t 'views.kurso.aliaj.lingvo.esperanta', locale: lingvo
+    denasko   = I18n.t 'lecionoj.aliaj.lingvo.denaska',   locale: lingvo, default: "" unless nur_esperanta
+    esperanto = I18n.t 'lecionoj.aliaj.lingvo.esperanta', locale: lingvo
     if nur_esperanta or denasko.empty?
       "#{esperanto.mb_chars.capitalize}"
     else

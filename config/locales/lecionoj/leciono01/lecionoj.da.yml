@@ -1,0 +1,133 @@
+--- 
+da: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: "På esperanto skriver man ordene ligesom de udtales, og et bogstav udtales ens i alle ord.  I flerstavelsesord ligger trykket altid på næstsidste stavelse  (klik  på knapperne for at høre udtalen og gentag selv)."
+        alfabeto-titolo: "Alfabetet på esperanto"
+      pagxo03: 
+        personaj-pronomoj: "Personlige stedord (personlige pronomener)"
+        pluralo: 
+          ili: "de (flertal for hun, han, den og det)"
+          ni: vi
+          pluralo: Flertal
+          vi: I
+        singularo: 
+          gxi: "den, det  (angiver noget eller nogen hvis køn ikke kræves præciseret)"
+          li: han
+          mi: jeg
+          singularo: Ental
+          sxi: hun
+          vi: du
+        specialaj: 
+          oni: "Man (ubestemt pronomen benyttes, når man ikke vil eller kan præcisere hvem der foretager eller udsættes for en handling)"
+          si: "sig (henførende stedord (refleksivt pronomen) der i  tredie person - hun, han, den, det, de, man -  viser tilbage til grundledet)."
+          specialaj: Specielle
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: "Tillægsord (adjektiver)"
+          adjektivoj-ekspliko: "Ender på bogstavet  \"a\":"
+          bela: smuk
+          sana: sund
+          varma: varm
+        nomoj: 
+          amiko: "en ven"
+          frato: "en bror"
+          kafo: kaffe
+          nomoj: "Navneord (substantiver)"
+          nomoj-ekspliko: "Ender på bogstavet  \"o\":"
+        verboj: 
+          ne-singularo: 
+            ili-estas: "de er"
+            ni-estas: "vi er"
+            oni-estos: "man vil være"
+            vi-estis: "I var"
+          singularo: 
+            gxi-estos: "den vil være"
+            li-estis: "han var"
+            mi-estas: "jeg er"
+            sxi-estas: "hun er"
+          verboj: "Udsagnsord (verber)"
+          verboj-ekspliko: "Navnemåde (infinitiv) ender på -i : esti; datid (præteritum) ender på -is: estis; nutid (præsens) ender på -as og fremtid (futurum) ender på -os. Øvrige tider behandles i følgende lektioner."
+      pagxo05: 
+        amiko: "en ven"
+        bela: smuk
+        biskvito: "en tvebak"
+        blanka: hvid
+        bona: god
+        filo: "en søn"
+        floro: "en blomst"
+        frato: "en bror"
+        granda: stor
+        instruisto: "en lærer"
+        kafo: kaffe
+        knabo: "en dreng"
+        kuko: "en kage"
+        lakto: mælk
+        nova: ny
+        pano: "et brød"
+        patro: "en far"
+        sana: sund
+        seka: tør
+        sukero: sukker
+        teo: te
+        varma: varm
+        viro: "en mand"
+      pagxo06: 
+        pluralo: 
+          amikoj: venner
+          belaj: smukke
+          belaj-floroj: "smukke blomster"
+          bonaj-amikoj: "gode venner"
+          floroj: blomster
+          patroj: fædre
+          sanaj: sunde
+          sanaj-patroj: "sunde fædre"
+        pluralo-ekzpliko: "Man danner flertal ved at tilføje bogstavet \"j\" til navneord og tillægsord:"
+        pluralo-titolo: Flertal
+        singularo: 
+          amiko: "en ven"
+          bela: smuk
+          bela-floro: "en smuk blomst"
+          bona-amiko: "en god ven"
+          floro: "en blomst"
+          patro: "en far"
+          sana: sund
+          sana-patro: "en sund far"
+      pagxo07: 
+        posedaj: 
+          ilia: deres
+          lia: hans
+          mia: min
+          nia: vores
+          via: din
+          ĝia: dens/dets
+          ŝia: hendes
+        posedaj-pronomoj: "Ejestedord (possesive pronomener)"
+        posedaj-pronomoj-ekzpliko: "Ejestedord dannes ved tilføjelse af endelsen \"a\" til det personlige stedord:"
+        rimarkigo: 
+          mia-amiko: "min ven"
+          miaj-amikoj: "mine venner"
+          nia-floro: "vores blomst"
+          niaj-floroj: "vores blomster"
+          posedaj-pronomoj-rimarkigo: "Ejestedordene får også endelsen \"j\" i flertal:"
+      pagxo08: 
+        artikolo: 
+          artikolo: Artikel
+          artikolo-ekzpliko: "Det ubestemte kendeord  (artikel)  (på dansk en og et foran navneordet) findes ikke på esperanto; der eksisterer kun den bestemte artikel \"la\"  uafhængigt af køn og tal."
+          floroj: blomster
+          knabo: "en dreng"
+          la-floroj: blomsterne
+          la-knabo: drengen
+          la-pano: brødet
+          la-patroj: fædrene
+          pano: "et brød"
+          patroj: fædre
+        frazoj: 
+          frazo01: "jeres sønner er vores venner."
+          frazo02: "brødet er tørt."
+          frazo03: "varm mælk er godt."
+          frazo04: "en blomst er smuk."
+          frazo05: "drengene er store."
+          frazo06: "faderen er god."
+          frazoj: Sætninger

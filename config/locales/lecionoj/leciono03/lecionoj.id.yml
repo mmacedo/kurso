@@ -1,0 +1,64 @@
+--- 
+id: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: Kata-Keterangan
+          adverboj-ekzpliko-1: "Kata-keterangan berfungsi sama dengat kata sifat, tetapi menambahkan kata-kerja dan kata sifat daripada kata-benda.  Kata-keterangan tidak berubah untuk bentuk jamak.  Biasanya mereka akan menguraikan cara, alasan, waktu atau tempat."
+          adverboj-ekzpliko-2: "Dalam bahasa Esperanto, kata-kata keterangan biasanya berakhir dengan \"e\" (ini selalu betul kalau  kata-keterangan itu berasal dari kata lain).   Dalam bahasa ini, satu kata bisa menjadi banyak arti, dengan menambahkan kata akhiran."
+          frazoj: 
+            adverboj-rimarkigo: "Kata-keterangan biasanya ditempatkan lebih dulu dari kata kerja."
+            frazo-sana: "Dia sehat."
+            frazo-sane: "Dia hidup dengan cara yang sehat."
+            frazo-sani: "Dia sehat."
+            frazo-sano: "Kesehatannya baik."
+          vortoj: 
+            sana: sehat
+            sane: "dengan cara yg sehat"
+            sani: "mempunyai kesehatan"
+            sano: kesehatan
+      pagxo02: 
+        numeraloj: Angka
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: "Kata-Sifat yang Berbentuk dari Angka"
+          adjektivoj-el-numeraloj-ekzpliko: "Nomor urutan berbentuk dengan menambahkan akhiran \"a\" pada angka.  Karena nomor urutan punya akhiran \"a\", mereka bisa menerima bentuk jamak akhiran \"j\" dan akusatip \"n\"."
+          frazoj: 
+            frazo-adjektivoj-1: "Anak laki-laki pertama sedang datang."
+            frazo-adjektivoj-2: "Dia menangkap serangga yang ketiga."
+          vortoj: 
+            dek: sepuluh
+            dek-naux: "sembilan belas"
+            dek-nauxa: "kesembilan belas"
+            deka: kesepuluh
+            tri: tiga
+            tria: ketiga
+        adverboj: 
+          adverboj-el-numeraloj: "Kata-Keterangan yang Berbentuk dari Angka"
+          adverboj-el-numeraloj-ekzpliko: "Kata-keterangan dapat berbentuk dengan menambahkan akhiran \"e\" pada angka."
+          frazoj: 
+            frazo-adverboj-1: "Dia pertama akan minum air."
+          vortoj: 
+            du: dua
+            due: kedua
+            unu: satu
+            unue: pertama
+      pagxo05: 
+        atendi: menunggu
+        demandi: menanya
+        fumi: merokok
+        horo: jam
+        jaro: tahun
+        kuri: berlari
+        mateno: pagi
+        minuto: menit
+        nokto: malam
+        peti: meminta
+        promeni: berjalan-jalan
+        respondi: menjawab
+        semajno: minggu
+        soifi: haus
+        tago: hari
+        vespero: "malam benar"
+        vivi: hidup

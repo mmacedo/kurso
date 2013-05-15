@@ -1,0 +1,64 @@
+--- 
+is: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: Atviksorð
+          adverboj-ekzpliko-1: "Atviksorð hafa svipað hlutverk og lýsingarorð, en í stað þess að lýsa nafnorði, lýsa þau sagnorði eða lýsingarorði.  Þau taka ekki með sér fleirtöluendinguna \"j\".  Yfirleitt  lýsa þau á hvern hátt eitthvað gerist, orsök einhvers, tíma og stað."
+          adverboj-ekzpliko-2: "Í esperanto enda atviksorð oftast á \"e\" (það gerist alltaf þegar þau eru dregin af öðru orði).  Aðalmerkingu orðstofns má tákna á mismunandi hátt með því að breyta endingunni."
+          frazoj: 
+            adverboj-rimarkigo: "Atviksorðið fer venjulega á undan orði sem það á við."
+            frazo-sana: "Hann er heilbrigður."
+            frazo-sane: "Hann lifir á heilbrigðan hátt."
+            frazo-sani: "Honum heilsast vel."
+            frazo-sano: "Hann hefur góða heilsu."
+          vortoj: 
+            sana: heilbrigður
+            sane: "á heilbrigðan hátt"
+            sani: "að vera heilbrigður"
+            sano: heilbrigði
+      pagxo02: 
+        numeraloj: Töluorð
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: "Lýsingarorð mynduð af töluorðum"
+          adjektivoj-el-numeraloj-ekzpliko: "Raðtölur eru myndaðar með því að bæta endingunni \"a\" við frumtölur.  Raðtölur geta bætt við sig fleirtöluendingunni \"j\" og þolfallsendingunni \"n\"."
+          frazoj: 
+            frazo-adjektivoj-1: "Fyrstu drengirnir koma."
+            frazo-adjektivoj-2: "Hann veiddi þriðja skordýrið."
+          vortoj: 
+            dek: tíu
+            dek-naux: nítján
+            dek-nauxa: nítjándi
+            deka: tíundi
+            tri: þrír
+            tria: þriðji
+        adverboj: 
+          adverboj-el-numeraloj: "Atviksorð mynduð af töluorðum"
+          adverboj-el-numeraloj-ekzpliko: "Atviksorð eru mynduð af töluorðum með endingunni \"e\":"
+          frazoj: 
+            frazo-adverboj-1: "Fyrst drekkur hann vatn (framtíð)."
+          vortoj: 
+            du: tveir
+            due: "í öðru lagi"
+            unu: einn
+            unue: "fyrst, í fyrstu"
+      pagxo05: 
+        atendi: "bíða, búast við"
+        demandi: spyrja
+        fumi: reykja
+        horo: klukkustund
+        jaro: ár
+        kuri: hlaupa
+        mateno: morgunn
+        minuto: mínúta
+        nokto: nótt
+        peti: biðja
+        promeni: "ganga (sér til skemmtunar )"
+        respondi: svara
+        semajno: vika
+        soifi: þyrsta
+        tago: dagur
+        vespero: kvöld
+        vivi: lifa

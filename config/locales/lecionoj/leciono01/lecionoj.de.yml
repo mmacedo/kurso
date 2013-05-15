@@ -1,0 +1,135 @@
+--- 
+de: 
+  lecionoj: 
+    leciono01: 
+      pagxo01: 
+        alfabeto-ekspliko: |-
+            In Esperanto schreibt man die Wörter lauttreu, d. h. genau nach dem Klang der Laute. Dabei werden die  Wörter stets auf der vorletzten [Sprech-]Silbe betont.
+            [Bitte Wörter (1) anklicken und laut nachsprechen, (2) vorher aussprechen und dann abhören]
+        alfabeto-titolo: Esperanto-ABC
+      pagxo03: 
+        personaj-pronomoj: Personalpronomen
+        pluralo: 
+          ili: "sie (Mehrzahl von 'er, sie, es')"
+          ni: wir
+          pluralo: "Mehrzahl - Plural"
+          vi: ihr
+        singularo: 
+          gxi: "es (geschlechtsneutral/'sächlich')"
+          li: er
+          mi: ich
+          singularo: "Einzahl - Singular"
+          sxi: sie
+          vi: du
+        specialaj: 
+          oni: "man (Indefinitpronomen, unpersönlich)"
+          si: "sich [Reflexivpronomen der 3. Person (er, sie, es, man), rückbezogen auf das Subjekt               des Satzes]"
+          specialaj: Besondere
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj: Adjektive
+          adjektivoj-ekspliko: "Endung: -a"
+          bela: schön
+          sana: gesund
+          varma: warm
+        nomoj: 
+          amiko: Freund
+          frato: Bruder
+          kafo: Kaffee
+          nomoj: Nomen/Substantive
+          nomoj-ekspliko: "Endung:  -o"
+        verboj: 
+          ne-singularo: 
+            ili-estas: "sie sind"
+            ni-estas: "wir sind"
+            oni-estos: "man wird sein"
+            vi-estis: "ihr wart"
+          singularo: 
+            gxi-estos: "es wird sein"
+            li-estis: "er war"
+            mi-estas: "ich bin"
+            sxi-estas: "sie ist"
+          verboj: Verben
+          verboj-ekspliko: "Der Infinitiv endet stets auf -i: esti = sein.  Die Zeitformen (Tempora)  erkennt man an ihren [gleich bleibenden] Endungen: (1) Präteritum (-is): estis = war,  (2) Präsens (-as): estas = ist und (3) Futur (-os): estos = wird sein. Weitere Formen des Verbs behandeln wir in Lektion 9."
+      pagxo05: 
+        amiko: Freund
+        bela: schön
+        biskvito: "Zwieback, Biskuit"
+        blanka: weiß
+        bona: gut
+        filo: Sohn
+        floro: Blume
+        frato: Bruder
+        granda: groß
+        instruisto: Lehrer
+        kafo: Kaffee
+        knabo: Junge
+        kuko: Kuchen
+        lakto: Milch
+        nova: neu
+        pano: Brot
+        patro: Vater
+        sana: gesund
+        seka: trocken
+        sukero: Zucker
+        teo: Tee
+        varma: warm
+        viro: Mann
+      pagxo06: 
+        pluralo: 
+          amikoj: Freunde
+          belaj: schöne
+          belaj-floroj: "schöne Blumen"
+          bonaj-amikoj: "gute Freunde"
+          floroj: Blumen
+          patroj: Väter
+          sanaj: gesunde
+          sanaj-patroj: "gesunde Väter"
+        pluralo-ekzpliko: "Der Plural endet auf \"oj\" bei den Nomen, auf \"aj\" bei den Adjektiven."
+        pluralo-titolo: "Mehrzahl - Plural"
+        singularo: 
+          amiko: "(ein) Freund"
+          bela: schön
+          bela-floro: "(eine) schöne Blume"
+          bona-amiko: "(ein) guter Freund"
+          floro: "(eine) Blume"
+          patro: "(ein) Vater"
+          sana: gesund
+          sana-patro: "(ein) gesunder Vater"
+      pagxo07: 
+        posedaj: 
+          ilia: ihr
+          lia: sein
+          mia: mein
+          nia: unser
+          via: dein
+          ĝia: sein
+          ŝia: ihr
+        posedaj-pronomoj: Possessivpronomen
+        posedaj-pronomoj-ekzpliko: "Man bildet ein Possessivpronomen aus dem Personalpronomen, indem man an dieses die Adjektivendung \"a\" anfügt, also: mi = ich, mia = mein (usw.)"
+        rimarkigo: 
+          mia-amiko: "mein Freund"
+          miaj-amikoj: "meine Freunde"
+          nia-floro: "unsere Blume"
+          niaj-floroj: "unsere Blumen"
+          posedaj-pronomoj-rimarkigo: "Auch die Possessivpronomen enden im Plural auf -aj."
+      pagxo08: 
+        artikolo: 
+          artikolo: Artikel
+          artikolo-ekzpliko: "Das Esperanto kennt nur den bestimmten Artikel \"la\", dt. 'der/die/das'. Fehlt \"la\" vor einem Nomen/Substantiv, ist dies gleichbedeutend mit dem unbestimmten Artikel (ein/e) im Dt."
+          floroj: Blumen
+          knabo: "(ein) Junge"
+          la-floroj: "die Blumen"
+          la-knabo: "der Junge"
+          la-pano: "das Brot"
+          la-patroj: "die Väter"
+          pano: "(ein) Brot"
+          patroj: Väter
+        frazoj: 
+          frazo01: "Deine Söhne sind unsere Freunde."
+          frazo02: "Das Brot ist trocken."
+          frazo03: "Warme Milch ist gut."
+          frazo04: "Eine Blume ist schön."
+          frazo05: "Die Jungen sind groß."
+          frazo06: "Der Vater ist gut."
+          frazoj: "Zum Gebrauch des Artikels"

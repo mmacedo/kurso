@@ -1,0 +1,64 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono03: 
+      pagxo01: 
+        adverboj: 
+          adverboj: Adverbis
+          adverboj-ekzpliko-1: "Els adverbis funcionen igual que els adjectius però en comptes de matisar les idees expressades pel substantiu fan referència a les del verb i els adjectius, i no porten la terminació \"j\". Habitualment expressen mode, causa, temps o lloc."
+          adverboj-ekzpliko-2: "En esperanto els adverbis acostumen a acabar en \"e\" (això passa sempre que són derivats d'algun altre mot). La idea bàsica expressada per l'arrel de la paraula pot utilitzar-se de diverses maneres gràcies a un simple canvi de terminació."
+          frazoj: 
+            adverboj-rimarkigo: "L'adverbi se sol col·locar abans de la paraula que complementa."
+            frazo-sana: "Ell està sa."
+            frazo-sane: "Ell viu sanament."
+            frazo-sani: "Ell està sa."
+            frazo-sano: "Ell té bona salut."
+          vortoj: 
+            sana: sa/sana
+            sane: sanament
+            sani: "estar sa, trobar-se bé."
+            sano: salut
+      pagxo02: 
+        numeraloj: Numerals
+      pagxo04: 
+        adjektivoj: 
+          adjektivoj-el-numeraloj: "Numerals ordinals"
+          adjektivoj-el-numeraloj-ekzpliko: "Els numerals ordinals es formen afegint la terminació \"a\" als cardinals. En tenir la terminació \"a\", poden rebre el plural (-j) i l'acusatiu (-n)."
+          frazoj: 
+            frazo-adjektivoj-1: "El primers nois vénen."
+            frazo-adjektivoj-2: "Ell va capturar el tercer insecte."
+          vortoj: 
+            dek: deu
+            dek-naux: dinou
+            dek-nauxa: dinovè/ena
+            deka: desè/ena
+            tri: tres
+            tria: tercer/a
+        adverboj: 
+          adverboj-el-numeraloj: "Adverbis derivats de numerals"
+          adverboj-el-numeraloj-ekzpliko: "Afegint la terminació \"e\" als numerals, se'n formen adverbis:"
+          frazoj: 
+            frazo-adverboj-1: "Ell primer beurà aigua."
+          vortoj: 
+            du: "dos, dues"
+            due: "En segon lloc"
+            unu: "u, un, una"
+            unue: "Primerament, en primer lloc"
+      pagxo05: 
+        atendi: esperar
+        demandi: preguntar
+        fumi: fumar
+        horo: hora
+        jaro: any
+        kuri: córrer
+        mateno: matí
+        minuto: minut
+        nokto: nit
+        peti: "demanar (un favor)"
+        promeni: passejar
+        respondi: "contestar, respondre"
+        semajno: setmana
+        soifi: "tenir set"
+        tago: dia
+        vespero: "tarda, vespre, vesprada, horabaixa"
+        vivi: viure

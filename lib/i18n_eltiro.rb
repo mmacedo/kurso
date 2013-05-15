@@ -13,7 +13,7 @@ module I18nEltiro
 
   def self.konstrui_skribantoj(radiko, tipoj)
     @skribantoj = []
-    @skribantoj << RailsI18nSkribanto.new(radiko.join("config/locales/views/kurso")) if tipoj.include? :yml
+    @skribantoj << RailsI18nSkribanto.new(radiko.join("config/locales/lecionoj")) if tipoj.include? :yml
     @skribantoj << ElpurigoSkribanto.new(radiko.join("tmp/locales")) if tipoj.include? :ai
     @skribantoj
   end
