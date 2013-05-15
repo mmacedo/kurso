@@ -2,54 +2,115 @@
 hi: 
   lecionoj: 
     leciono01: 
-      pagxo01: 
-        alfabeto-ekspliko: "एस्पेरान्तो में जो कहा जाता हैं वही लिखा जाता हैं, और जो लिखा जाता हैं वही पढ़ा जाता हैं. अंतउच्चारण से पहले अक्षर को दबाकर कहा जाता हैं. इस खटका को दबाने से आप उच्चारण सुन सकते हैं, फिर ध्यान से सुनकर आप उच्चारण कीजिये."
-        alfabeto-titolo: "एस्पेरान्तो अक्षरमाला"
-      pagxo03: 
-        personaj-pronomoj: सर्वनाम
+      adjektivoj: 
+        bela: सुन्दर
+        ekspliko: "\"a\" से अन्ता होता हैं  !"
+        sana: तंदुरुस्त
+        titolo: विशेषण
+        varma: गरम
+      alfabeto: 
+        ekspliko: "एस्पेरान्तो में जो कहा जाता हैं वही लिखा जाता हैं, और जो लिखा जाता हैं वही पढ़ा जाता हैं. अंतउच्चारण से पहले अक्षर को दबाकर कहा जाता हैं. इस खटका को दबाने से आप उच्चारण सुन सकते हैं, फिर ध्यान से सुनकर आप उच्चारण कीजिये."
+        titolo: "एस्पेरान्तो अक्षरमाला"
+      artikolo: 
+        ekspliko: "एस्पेरान्तो मैं अनिश्चितकालीन लेख नहीं होता हैं; केवल निश्चित लेख मौजूद है \"la\", सब के लिए."
+        frazoj: 
+          frazo-1: "आपके बच्चे हमारे दोस्त हैं"
+          frazo-2: "रोटी सूख गयी."
+          frazo-3: "गरम दूध अच्छा होता हैं!"
+          frazo-4: "फूल सुन्दर हैं."
+          frazo-5: "बच्चे बड़े होगये हैं!"
+          frazo-6: "पिताजी अच्छे हैं."
+          titolo: वाक्य
+        titolo: लेख
+        vortoj: 
+          floroj: फूल
+          knabo: बच्चा
+          la-floroj: फूल
+          la-knabo: "एक बच्चा"
+          la-pano: रोटी
+          la-patroj: पिताजी
+          pano: रोटी
+          patroj: पिताजी
+      nomoj: 
+        amiko: दोस्त
+        ekspliko: "\"o\" से अन्ता होता हैं"
+        frato: भाई
+        kafo: कॉफ़ी
+        titolo: संज्ञा
+      personaj_pronomoj: 
         pluralo: 
           ili: "वे, ये"
           ni: हम
-          pluralo: "अधिक संक्या में"
+          titolo: "अधिक संक्या में"
           vi: आप
         singularo: 
           gxi: "वह, यह"
           li: "वह, यह"
           mi: में
-          singularo: "एक मात्र"
           sxi: "वह, यह"
+          titolo: "एक मात्र"
           vi: "तुम, तू, आप"
         specialaj: 
           oni: "उनमे से एक"
           si: "अपने आप"
-          specialaj: विशेशताएँ
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj: विशेषण
-          adjektivoj-ekspliko: "\"a\" से अन्ता होता हैं  !"
-          bela: सुन्दर
-          sana: तंदुरुस्त
-          varma: गरम
-        nomoj: 
+          titolo: विशेशताएँ
+        titolo: सर्वनाम
+      pluralo: 
+        ekspliko: "संज्ञा और विशेषण के बहुवचन शब्द \"j\" से अंत होता हैं."
+        pluralo: 
+          amikoj: दोस्त
+          belaj: सुन्दर
+          belaj-floroj: "सुन्दर फूल"
+          bonaj-amikoj: "अच्छे दोस्त"
+          floroj: फूल
+          patroj: पिता
+          sanaj: तंदुरुस्त
+          sanaj-patroj: "तंदुरुस्त पिता"
+        singularo: 
           amiko: दोस्त
-          frato: भाई
-          kafo: कॉफ़ी
-          nomoj: संज्ञा
-          nomoj-ekspliko: "\"o\" से अन्ता होता हैं"
-        verboj: 
-          ne-singularo: 
-            ili-estas: "ओ थे"
-            ni-estas: "हम सब"
-            oni-estos: "कोई होगा"
-            vi-estis: "आप थे"
-          singularo: 
-            gxi-estos: वह
-            li-estis: वह
-            mi-estas: मैं
-            sxi-estas: वह
-          verboj: क्रियाएँ
-          verboj-ekspliko: "क्रिया शब्द हमेशा \"i\" से अंत होता हैं : esti (to be). बुतकाल \"is\" से अंत होता हैं: mi estis (I was) . वर्तमान काल \"as\" से अंत होता हैं: mi estas (I am). बविष्यत काल \"os\" से अंत होता हैं: mi estos (I will be). और भी क्रिया शब्द अगले पाठ में पड़ेंगे."
-      pagxo05: 
+          bela: सुन्दर
+          bela-floro: "सुन्दर फूल"
+          bona-amiko: "अच्छा दोस्त"
+          floro: फूल
+          patro: पिता
+          sana: तंदुरुस्त
+          sana-patro: "तंदुरुस्त पिता"
+        titolo: "अधिक संक्या में"
+      posedaj_pronomoj: 
+        ekspliko: "सम्बन्धसूचक सर्वनाम शब्द \"a\" से अंत होता हैं."
+        posedaj: 
+          ilia: |-
+              आपके, आपकी, आपका, तुम्हारी, 
+              तुम्हारे, तुम्हारा
+          lia: "उसके, उसकी, उसका, उसको, इसका, इसको"
+          mia: "मेरी, मेरा"
+          nia: |-
+              आपके, आपकी, आपका, तुम्हारी,  
+              तुम्हारे, तुम्हारा
+          via: "आपके, आपकी, आपका, तुम्हारी, तुम्हारे, तुम्हारा"
+          ĝia: "उसके, उसकी, उसका, उसको, इसका, इसको"
+          ŝia: "उसके, उसकी, उसका, उसको, इसका, इसको"
+        rimarkigo: 
+          ekspliko: "और अधिक संक्या में \"j\" से अंत होता हैं."
+          mia-amiko: "मेरा दोस्त"
+          miaj-amikoj: "मेरे दोस्त"
+          nia-floro: "हमारे फूल"
+          niaj-floroj: "हमारे फूल"
+        titolo: "सम्बन्धसूचक सर्वनाम"
+      verboj: 
+        ekspliko: "क्रिया शब्द हमेशा \"i\" से अंत होता हैं : esti (to be). बुतकाल \"is\" से अंत होता हैं: mi estis (I was) . वर्तमान काल \"as\" से अंत होता हैं: mi estas (I am). बविष्यत काल \"os\" से अंत होता हैं: mi estos (I will be). और भी क्रिया शब्द अगले पाठ में पड़ेंगे."
+        ne-singularo: 
+          ili-estas: "ओ थे"
+          ni-estas: "हम सब"
+          oni-estos: "कोई होगा"
+          vi-estis: "आप थे"
+        singularo: 
+          gxi-estos: वह
+          li-estis: वह
+          mi-estas: मैं
+          sxi-estas: वह
+        titolo: क्रियाएँ
+      vortaro01: 
         amiko: दोस्त
         bela: सुन्दर
         biskvito: बिस्कुट
@@ -73,65 +134,3 @@ hi:
         teo: चाय
         varma: गरम
         viro: आदमी
-      pagxo06: 
-        pluralo: 
-          amikoj: दोस्त
-          belaj: सुन्दर
-          belaj-floroj: "सुन्दर फूल"
-          bonaj-amikoj: "अच्छे दोस्त"
-          floroj: फूल
-          patroj: पिता
-          sanaj: तंदुरुस्त
-          sanaj-patroj: "तंदुरुस्त पिता"
-        pluralo-ekzpliko: "संज्ञा और विशेषण के बहुवचन शब्द \"j\" से अंत होता हैं."
-        pluralo-titolo: "अधिक संक्या में"
-        singularo: 
-          amiko: दोस्त
-          bela: सुन्दर
-          bela-floro: "सुन्दर फूल"
-          bona-amiko: "अच्छा दोस्त"
-          floro: फूल
-          patro: पिता
-          sana: तंदुरुस्त
-          sana-patro: "तंदुरुस्त पिता"
-      pagxo07: 
-        posedaj: 
-          ilia: |-
-              आपके, आपकी, आपका, तुम्हारी, 
-              तुम्हारे, तुम्हारा
-          lia: "उसके, उसकी, उसका, उसको, इसका, इसको"
-          mia: "मेरी, मेरा"
-          nia: |-
-              आपके, आपकी, आपका, तुम्हारी,  
-              तुम्हारे, तुम्हारा
-          via: "आपके, आपकी, आपका, तुम्हारी, तुम्हारे, तुम्हारा"
-          ĝia: "उसके, उसकी, उसका, उसको, इसका, इसको"
-          ŝia: "उसके, उसकी, उसका, उसको, इसका, इसको"
-        posedaj-pronomoj: "सम्बन्धसूचक सर्वनाम"
-        posedaj-pronomoj-ekzpliko: "सम्बन्धसूचक सर्वनाम शब्द \"a\" से अंत होता हैं."
-        rimarkigo: 
-          mia-amiko: "मेरा दोस्त"
-          miaj-amikoj: "मेरे दोस्त"
-          nia-floro: "हमारे फूल"
-          niaj-floroj: "हमारे फूल"
-          posedaj-pronomoj-rimarkigo: "और अधिक संक्या में \"j\" से अंत होता हैं."
-      pagxo08: 
-        artikolo: 
-          artikolo: लेख
-          artikolo-ekzpliko: "एस्पेरान्तो मैं अनिश्चितकालीन लेख नहीं होता हैं; केवल निश्चित लेख मौजूद है \"la\", सब के लिए."
-          floroj: फूल
-          knabo: बच्चा
-          la-floroj: फूल
-          la-knabo: "एक बच्चा"
-          la-pano: रोटी
-          la-patroj: पिताजी
-          pano: रोटी
-          patroj: पिताजी
-        frazoj: 
-          frazo01: "आपके बच्चे हमारे दोस्त हैं"
-          frazo02: "रोटी सूख गयी."
-          frazo03: "गरम दूध अच्छा होता हैं!"
-          frazo04: "फूल सुन्दर हैं."
-          frazo05: "बच्चे बड़े होगये हैं!"
-          frazo06: "पिताजी अच्छे हैं."
-          frazoj: वाक्य

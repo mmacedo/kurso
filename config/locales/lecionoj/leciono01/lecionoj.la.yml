@@ -2,54 +2,111 @@
 la: 
   lecionoj: 
     leciono01: 
-      pagxo01: 
-        alfabeto-ekspliko: "Esperanto valodā vārdi tiek rakstīti tāpat kā tie tiek izrunāti, un tie tiek izrunāti tieši saskaņā ar ikkatru rakstītā burta skanējumu. Uzsvars vienmēr ir uz priekšpēdējās zilbes. Uzklikšķiniet uz pogām, lai dzirdētu izrunu, un atkārtojiet to balsī."
-        alfabeto-titolo: "Esperanto alfabēts"
-      pagxo03: 
-        personaj-pronomoj: Personvietniekvārdi
+      adjektivoj: 
+        bela: skaists
+        ekspliko: "beidzas ar galotni \"a\"."
+        sana: vesels
+        titolo: "Īpašības vārdi"
+        varma: silts
+      alfabeto: 
+        ekspliko: "Esperanto valodā vārdi tiek rakstīti tāpat kā tie tiek izrunāti, un tie tiek izrunāti tieši saskaņā ar ikkatru rakstītā burta skanējumu. Uzsvars vienmēr ir uz priekšpēdējās zilbes. Uzklikšķiniet uz pogām, lai dzirdētu izrunu, un atkārtojiet to balsī."
+        titolo: "Esperanto alfabēts"
+      artikolo: 
+        ekspliko: "Nenoteiktā artikula esperanto valodā nav, bet ir tikai noteiktais artikuls \"la\", kurš ir vienāds visām dzimtēm, locījumiem un skaitļiem. Artikulu pielieto runājot par kādu konkrētu lietu vai sarunu biedram zināmu lietu. Latviski to netulko."
+        frazoj: 
+          frazo-1: "Jūsu dēli ir mūsu draugi."
+          frazo-2: "(Tā) Maize ir sausa."
+          frazo-3: "Silts piens ir labs."
+          frazo-4: "Puķe ir skaista."
+          frazo-5: "(Tie) Zēni ir lieli."
+          frazo-6: "(Tas) Tēvs ir labs."
+          titolo: Frāzes
+        titolo: Artikuls
+        vortoj: 
+          floroj: puķes
+          knabo: zēns
+          la-floroj: "(konkrētas; tās) puķes"
+          la-knabo: "(kāds konkrēts; tas) zēns"
+          la-pano: "(konkrēta; tā) maize"
+          la-patroj: "(konkrētie; tie) tēvi"
+          pano: maize
+          patroj: tēvi
+      nomoj: 
+        amiko: draugs
+        ekspliko: "beidzas ar galotni \"o\"."
+        frato: brālis
+        kafo: kafija
+        titolo: Lietvārdi
+      personaj_pronomoj: 
         pluralo: 
           ili: "viņi, viņas; tie, tās"
           ni: mēs
-          pluralo: Daudzskaitlis
+          titolo: Daudzskaitlis
           vi: "jūs (daudzskaitlis)"
         singularo: 
           gxi: "tas, tā (par nedzīvu būtni vai arī kam nav noteikts dzimums)"
           li: viņš
           mi: es
-          singularo: Vienskaitlis
           sxi: viņa
+          titolo: Vienskaitlis
           vi: "tu; jūs (vienskaitlis)"
         specialaj: 
           oni: "Bezpersonisks vietniekvārds; nozīmē \"cilvēki; daudz vai dažas personas;  kaut kāds nepazīstams\", tiek pielietots, kad negrib vai nevar precizēt, kas veica darbību. Piem., oni parolas, ke... - runā, ka..."
           si: "\"Sia - savs\": trešās personas vietniekvārds, kurš tiek lietots, kad tas attiecas uz teikuma priekšmetu."
-          specialaj: Īpašie
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj: "Īpašības vārdi"
-          adjektivoj-ekspliko: "beidzas ar galotni \"a\"."
-          bela: skaists
-          sana: vesels
-          varma: silts
-        nomoj: 
+          titolo: Īpašie
+        titolo: Personvietniekvārdi
+      pluralo: 
+        ekspliko: "Daudzskaitli veido pievienojot burtu \"j\" lietvārda un īpašības vārda galotnei:"
+        pluralo: 
+          amikoj: draugi
+          belaj: skaistas
+          belaj-floroj: "skaistas puķes"
+          bonaj-amikoj: "labi draugi"
+          floroj: puķes
+          patroj: tēvi
+          sanaj: veseli
+          sanaj-patroj: "veseli tēvi"
+        singularo: 
           amiko: draugs
-          frato: brālis
-          kafo: kafija
-          nomoj: Lietvārdi
-          nomoj-ekspliko: "beidzas ar galotni \"o\"."
-        verboj: 
-          ne-singularo: 
-            ili-estas: "viņi; viņas; tie; tās ir"
-            ni-estas: "mēs esam"
-            oni-estos: "(kaut kāds cilvēks, cilvēki) būs"
-            vi-estis: "jūs bijāt"
-          singularo: 
-            gxi-estos: "tas; tā būs"
-            li-estis: "viņš bija"
-            mi-estas: "es esmu"
-            sxi-estas: "viņa ir"
-          verboj: "Darbības vārdi"
-          verboj-ekspliko: "Nenoteiksmei galotne ir -i: esti; pagātnei -is: estis, tagadnei -as un nākotnei -os. Pārējās darbības vārdu laikus izņemsim nākošajās lekcijās."
-      pagxo05: 
+          bela: skaists
+          bela-floro: "skaista puķe"
+          bona-amiko: "labs draugs"
+          floro: puķe
+          patro: tēvs
+          sana: vesels
+          sana-patro: "vesels tēvs"
+        titolo: Daudzskaitlis
+      posedaj_pronomoj: 
+        ekspliko: "Piederības vietniekvārdus veido pievienojot personas vietniekvārdiem īpašības galotni (\"a\"):"
+        posedaj: 
+          ilia: "viņu; to"
+          lia: viņa
+          mia: mans
+          nia: mūsu
+          via: "tavs; jūsu"
+          ĝia: "tā; tās"
+          ŝia: viņas
+        rimarkigo: 
+          ekspliko: "Arī piederības vietniekvārdi daudzskaitlī augūst galotni \"j\":"
+          mia-amiko: "mans draugs"
+          miaj-amikoj: "mani draugi"
+          nia-floro: "mūsu puķe"
+          niaj-floroj: "mūsu puķes"
+        titolo: "Piederības vietniekvārdi"
+      verboj: 
+        ekspliko: "Nenoteiksmei galotne ir -i: esti; pagātnei -is: estis, tagadnei -as un nākotnei -os. Pārējās darbības vārdu laikus izņemsim nākošajās lekcijās."
+        ne-singularo: 
+          ili-estas: "viņi; viņas; tie; tās ir"
+          ni-estas: "mēs esam"
+          oni-estos: "(kaut kāds cilvēks, cilvēki) būs"
+          vi-estis: "jūs bijāt"
+        singularo: 
+          gxi-estos: "tas; tā būs"
+          li-estis: "viņš bija"
+          mi-estas: "es esmu"
+          sxi-estas: "viņa ir"
+        titolo: "Darbības vārdi"
+      vortaro01: 
         amiko: draugs
         bela: skaists
         biskvito: cepums
@@ -73,61 +130,3 @@ la:
         teo: tēja
         varma: silts
         viro: "vīrietis, vīrs"
-      pagxo06: 
-        pluralo: 
-          amikoj: draugi
-          belaj: skaistas
-          belaj-floroj: "skaistas puķes"
-          bonaj-amikoj: "labi draugi"
-          floroj: puķes
-          patroj: tēvi
-          sanaj: veseli
-          sanaj-patroj: "veseli tēvi"
-        pluralo-ekzpliko: "Daudzskaitli veido pievienojot burtu \"j\" lietvārda un īpašības vārda galotnei:"
-        pluralo-titolo: Daudzskaitlis
-        singularo: 
-          amiko: draugs
-          bela: skaists
-          bela-floro: "skaista puķe"
-          bona-amiko: "labs draugs"
-          floro: puķe
-          patro: tēvs
-          sana: vesels
-          sana-patro: "vesels tēvs"
-      pagxo07: 
-        posedaj: 
-          ilia: "viņu; to"
-          lia: viņa
-          mia: mans
-          nia: mūsu
-          via: "tavs; jūsu"
-          ĝia: "tā; tās"
-          ŝia: viņas
-        posedaj-pronomoj: "Piederības vietniekvārdi"
-        posedaj-pronomoj-ekzpliko: "Piederības vietniekvārdus veido pievienojot personas vietniekvārdiem īpašības galotni (\"a\"):"
-        rimarkigo: 
-          mia-amiko: "mans draugs"
-          miaj-amikoj: "mani draugi"
-          nia-floro: "mūsu puķe"
-          niaj-floroj: "mūsu puķes"
-          posedaj-pronomoj-rimarkigo: "Arī piederības vietniekvārdi daudzskaitlī augūst galotni \"j\":"
-      pagxo08: 
-        artikolo: 
-          artikolo: Artikuls
-          artikolo-ekzpliko: "Nenoteiktā artikula esperanto valodā nav, bet ir tikai noteiktais artikuls \"la\", kurš ir vienāds visām dzimtēm, locījumiem un skaitļiem. Artikulu pielieto runājot par kādu konkrētu lietu vai sarunu biedram zināmu lietu. Latviski to netulko."
-          floroj: puķes
-          knabo: zēns
-          la-floroj: "(konkrētas; tās) puķes"
-          la-knabo: "(kāds konkrēts; tas) zēns"
-          la-pano: "(konkrēta; tā) maize"
-          la-patroj: "(konkrētie; tie) tēvi"
-          pano: maize
-          patroj: tēvi
-        frazoj: 
-          frazo01: "Jūsu dēli ir mūsu draugi."
-          frazo02: "(Tā) Maize ir sausa."
-          frazo03: "Silts piens ir labs."
-          frazo04: "Puķe ir skaista."
-          frazo05: "(Tie) Zēni ir lieli."
-          frazo06: "(Tas) Tēvs ir labs."
-          frazoj: Frāzes

@@ -2,54 +2,111 @@
 eo: 
   lecionoj: 
     leciono01: 
-      pagxo01: 
-        alfabeto-ekspliko: "En Esperanto la vortojn oni skribas ĝuste laŭ ilia prononco, kaj ilin prononcas ĝuste laŭ la sono de ĉiu skribita litero. La plej forta silabo estas ĉiam la antaŭlasta. Klaku la butonojn por aŭdi la prononcon, kaj ripetu ĝin laŭtvoĉe."
-        alfabeto-titolo: "La Alfabeto de Esperanto"
-      pagxo03: 
-        personaj-pronomoj: "Personaj Pronomoj"
+      adjektivoj: 
+        bela: Bela
+        ekspliko: "Finiĝas per la litero \"a\":"
+        sana: Sana
+        titolo: Adjektivoj
+        varma: Varma
+      alfabeto: 
+        ekspliko: "En Esperanto la vortojn oni skribas ĝuste laŭ ilia prononco, kaj ilin prononcas ĝuste laŭ la sono de ĉiu skribita litero. La plej forta silabo estas ĉiam la antaŭlasta. Klaku la butonojn por aŭdi la prononcon, kaj ripetu ĝin laŭtvoĉe."
+        titolo: "La Alfabeto de Esperanto"
+      artikolo: 
+        ekspliko: "La sendifina artikolo ne ekzistas en Esperanto; sole ekzistas la difina artikolo \"la\", egala por ĉiuj genroj, kazoj kaj nombroj."
+        frazoj: 
+          frazo-1: "Viaj filoj estas niaj amikoj."
+          frazo-2: "La pano estas seka."
+          frazo-3: "Varma lakto estas bona."
+          frazo-4: "Floro estas bela."
+          frazo-5: "La knaboj estas grandaj."
+          frazo-6: "La patro estas bona."
+          titolo: Frazoj
+        titolo: Artikolo
+        vortoj: 
+          floroj: Floroj
+          knabo: Knabo
+          la-floroj: "La floroj"
+          la-knabo: "La knabo"
+          la-pano: "La pano"
+          la-patroj: "La patroj"
+          pano: Pano
+          patroj: Patroj
+      nomoj: 
+        amiko: Amiko
+        ekspliko: "Finiĝas per la litero \"o\":"
+        frato: Frato
+        kafo: Kafo
+        titolo: Nomoj
+      personaj_pronomoj: 
         pluralo: 
           ili: "Ili (estas la multnombro por \"ŝi\", \"li\" kaj \"ĝi\")"
           ni: Ni
-          pluralo: Multnombro
+          titolo: Multnombro
           vi: "Vi (multnombro)"
         singularo: 
           gxi: "Ĝi (por montri ion aŭ iun, kies sekson oni ne bezonas precizigi)"
           li: Li
           mi: Mi
-          singularo: Ununombro
           sxi: Ŝi
+          titolo: Ununombro
           vi: "Vi (ununombro)"
         specialaj: 
           oni: "Oni - Persona sendifina pronomo, signifanta \"la homoj; multaj aŭ kelkaj personoj; iu nekonata\", uzata kiam oni ne volas aŭ ne povas precizigi kiu faris aŭ suferis la agon."
           si: "Si - Refleksa pronomo de la tria persono - li, ŝi, ĝi, ili, oni -, uzata kiam ĝi rilatas al la subjekto de la propozicio."
-          specialaj: Specialaj
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj: Adjektivoj
-          adjektivoj-ekspliko: "Finiĝas per la litero \"a\":"
-          bela: Bela
-          sana: Sana
-          varma: Varma
-        nomoj: 
-          amiko: Amiko
-          frato: Frato
-          kafo: Kafo
-          nomoj: Nomoj
-          nomoj-ekspliko: "Finiĝas per la litero \"o\":"
-        verboj: 
-          ne-singularo: 
-            ili-estas: "Ili estas"
-            ni-estas: "Ni estas"
-            oni-estos: "Oni estos"
-            vi-estis: "Vi estis"
-          singularo: 
-            gxi-estos: "Ĝi estos"
-            li-estis: "Li estis"
-            mi-estas: "Mi estas"
-            sxi-estas: "Ŝi estas"
-          verboj: Verboj
-          verboj-ekspliko: "La infinitivo finiĝas per -i: esti; la preterito finiĝas per -is: estis; la prezenco finiĝas per -as kaj la futuro finiĝas per -os. Aliajn verbajn tempojn ni pritaktos en la sekvantaj lecionoj."
-      pagxo05: 
+          titolo: Specialaj
+        titolo: "Personaj Pronomoj"
+      pluralo: 
+        ekspliko: "La multnombron oni faras per la aldono de la litero \"j\" al la fino de nomoj kaj adjektivoj:"
+        pluralo: 
+          amikoj: amikoj
+          belaj: belaj
+          belaj-floroj: "belaj floroj"
+          bonaj-amikoj: "bonaj amikoj"
+          floroj: floroj
+          patroj: patroj
+          sanaj: sanaj
+          sanaj-patroj: "sanaj patroj"
+        singularo: 
+          amiko: amiko
+          bela: bela
+          bela-floro: "bela floro"
+          bona-amiko: "bona amiko"
+          floro: floro
+          patro: patro
+          sana: sana
+          sana-patro: "sana patro"
+        titolo: Multnombro
+      posedaj_pronomoj: 
+        ekspliko: "La posedajn pronomojn oni formas per la aldono de la adjektiva finaĵo (\"a\") al la personaj pronomoj:"
+        posedaj: 
+          ilia: ilia
+          lia: lia
+          mia: mia
+          nia: nia
+          via: via
+          ĝia: ĝia
+          ŝia: ŝia
+        rimarkigo: 
+          ekspliko: "Ankaŭ la posedaj pronomoj ricevas la finaĵon \"j\" en la multnombro:"
+          mia-amiko: "Mia amiko"
+          miaj-amikoj: "Miaj amikoj"
+          nia-floro: "Nia floro"
+          niaj-floroj: "Niaj floroj"
+        titolo: "Posedaj Pronomoj"
+      verboj: 
+        ekspliko: "La infinitivo finiĝas per -i: esti; la preterito finiĝas per -is: estis; la prezenco finiĝas per -as kaj la futuro finiĝas per -os. Aliajn verbajn tempojn ni pritaktos en la sekvantaj lecionoj."
+        ne-singularo: 
+          ili-estas: "Ili estas"
+          ni-estas: "Ni estas"
+          oni-estos: "Oni estos"
+          vi-estis: "Vi estis"
+        singularo: 
+          gxi-estos: "Ĝi estos"
+          li-estis: "Li estis"
+          mi-estas: "Mi estas"
+          sxi-estas: "Ŝi estas"
+        titolo: Verboj
+      vortaro01: 
         amiko: amiko
         bela: bela
         biskvito: biskvito
@@ -73,61 +130,3 @@ eo:
         teo: teo
         varma: varma
         viro: viro
-      pagxo06: 
-        pluralo: 
-          amikoj: amikoj
-          belaj: belaj
-          belaj-floroj: "belaj floroj"
-          bonaj-amikoj: "bonaj amikoj"
-          floroj: floroj
-          patroj: patroj
-          sanaj: sanaj
-          sanaj-patroj: "sanaj patroj"
-        pluralo-ekzpliko: "La multnombron oni faras per la aldono de la litero \"j\" al la fino de nomoj kaj adjektivoj:"
-        pluralo-titolo: Multnombro
-        singularo: 
-          amiko: amiko
-          bela: bela
-          bela-floro: "bela floro"
-          bona-amiko: "bona amiko"
-          floro: floro
-          patro: patro
-          sana: sana
-          sana-patro: "sana patro"
-      pagxo07: 
-        posedaj: 
-          ilia: ilia
-          lia: lia
-          mia: mia
-          nia: nia
-          via: via
-          ĝia: ĝia
-          ŝia: ŝia
-        posedaj-pronomoj: "Posedaj Pronomoj"
-        posedaj-pronomoj-ekzpliko: "La posedajn pronomojn oni formas per la aldono de la adjektiva finaĵo (\"a\") al la personaj pronomoj:"
-        rimarkigo: 
-          mia-amiko: "Mia amiko"
-          miaj-amikoj: "Miaj amikoj"
-          nia-floro: "Nia floro"
-          niaj-floroj: "Niaj floroj"
-          posedaj-pronomoj-rimarkigo: "Ankaŭ la posedaj pronomoj ricevas la finaĵon \"j\" en la multnombro:"
-      pagxo08: 
-        artikolo: 
-          artikolo: Artikolo
-          artikolo-ekzpliko: "La sendifina artikolo ne ekzistas en Esperanto; sole ekzistas la difina artikolo \"la\", egala por ĉiuj genroj, kazoj kaj nombroj."
-          floroj: Floroj
-          knabo: Knabo
-          la-floroj: "La floroj"
-          la-knabo: "La knabo"
-          la-pano: "La pano"
-          la-patroj: "La patroj"
-          pano: Pano
-          patroj: Patroj
-        frazoj: 
-          frazo01: "Viaj filoj estas niaj amikoj."
-          frazo02: "La pano estas seka."
-          frazo03: "Varma lakto estas bona."
-          frazo04: "Floro estas bela."
-          frazo05: "La knaboj estas grandaj."
-          frazo06: "La patro estas bona."
-          frazoj: Frazoj

@@ -1,7 +1,7 @@
 module ApplicationHelper
   def rimarkigo
     content_tag :div, class:                   'bsdocs-skatolo',
-                      'data-skatolo-titolo' => t('dividitoj.rimarkigo') do
+                      'data-skatolo-titolo' => t('lecionoj.aliaj.dividitoj.rimarkigo') do
       yield
     end
   end
