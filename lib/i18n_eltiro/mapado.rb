@@ -16,7 +16,7 @@ require 'i18n_eltiro/mapado/aliaj'
 module I18nEltiro
   module Mapado
     def kuri_mapoj!(lingvo, kunteksto)
-      Bazo.kuri_mapoj!(lingvo, kunteksto)
+      I18nEltiro::Mapado.kuri_mapoj!(lingvo, kunteksto)
     end
   end
 end
