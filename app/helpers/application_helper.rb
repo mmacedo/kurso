@@ -1,4 +1,10 @@
 module ApplicationHelper
+
+  def formati_nombro(n)
+    number_with_delimiter(n, delimiter: " ", separator: ",")
+  end
+  alias :l2 :formati_nombro
+
   def rimarkigo
     content_tag :div, class:                   'bsdocs-skatolo',
                       'data-skatolo-titolo' => t('lecionoj.aliaj.dividitoj.rimarkigo') do

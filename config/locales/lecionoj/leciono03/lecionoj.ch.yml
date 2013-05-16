@@ -2,49 +2,47 @@
 ch: 
   lecionoj: 
     leciono03: 
-      pagxo01: 
-        adverboj: 
-          adverboj: 副词
-          adverboj-ekzpliko-1: 副词的作用与形容词相当，形容词是用来修饰名词的，副词则是用来修饰动词和形容词的，并且不用词尾“j”，它们一般用来表示原因、时间和地点。
-          adverboj-ekzpliko-2: 世界语的副词一般以“e”结尾（当副词由其它词派生而来时永远以“e”结尾）。在世界语里，只需简单地改变一下词尾，词根就可以表达出各种意思。
-          frazoj: 
-            adverboj-rimarkigo: 副词一般位于它所修饰词的前面。
-            frazo-sana: 他是健康的。
-            frazo-sane: 他健康地生活着。
-            frazo-sani: 他现在身体好。
-            frazo-sano: 他有良好的健康状况。
-          vortoj: 
-            sana: 健康的
-            sane: 健康地
-            sani: 健康，身体好
-            sano: 健康
-      pagxo02: 
-        numeraloj: 数词
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj-el-numeraloj: 序数词
-          adjektivoj-el-numeraloj-ekzpliko: 序数词是在数词后加词尾“a”构成，因为它们是以“a”结尾，所以可以用复数词尾“-j”和宾格“-n”。
-          frazoj: 
-            frazo-adjektivoj-1: 第一批男孩来了。
-            frazo-adjektivoj-2: 他抓住了第三只虫子。
-          vortoj: 
-            dek: 十
-            dek-naux: 十九
-            dek-nauxa: 第十九
-            deka: 第十
-            tri: 三
-            tria: 第三
-        adverboj: 
-          adverboj-el-numeraloj: 表示序数的副词
-          adverboj-el-numeraloj-ekzpliko: 数词加上词尾“e”就变成了表示序数的副词：
-          frazoj: 
-            frazo-adverboj-1: 他首先将喝水。
-          vortoj: 
-            du: 二
-            due: 其次，第二
-            unu: 一
-            unue: 首先，第一
-      pagxo05: 
+      adjektivoj_el_numeraloj: 
+        ekspliko: 序数词是在数词后加词尾“a”构成，因为它们是以“a”结尾，所以可以用复数词尾“-j”和宾格“-n”。
+        frazoj: 
+          frazo-1: 第一批男孩来了。
+          frazo-2: 他抓住了第三只虫子。
+        titolo: 序数词
+        vortoj: 
+          dek: 十
+          dek-naux: 十九
+          dek-nauxa: 第十九
+          deka: 第十
+          tri: 三
+          tria: 第三
+      adverboj: 
+        ekspliko-1: 副词的作用与形容词相当，形容词是用来修饰名词的，副词则是用来修饰动词和形容词的，并且不用词尾“j”，它们一般用来表示原因、时间和地点。
+        ekspliko-2: 世界语的副词一般以“e”结尾（当副词由其它词派生而来时永远以“e”结尾）。在世界语里，只需简单地改变一下词尾，词根就可以表达出各种意思。
+        frazoj: 
+          frazo-sana: 他是健康的。
+          frazo-sane: 他健康地生活着。
+          frazo-sani: 他现在身体好。
+          frazo-sano: 他有良好的健康状况。
+        rimarkigo: 副词一般位于它所修饰词的前面。
+        titolo: 副词
+        vortoj: 
+          sana: 健康的
+          sane: 健康地
+          sani: 健康，身体好
+          sano: 健康
+      adverboj_el_numeraloj: 
+        ekspliko: 数词加上词尾“e”就变成了表示序数的副词：
+        frazoj: 
+          frazo-1: 他首先将喝水。
+        titolo: 表示序数的副词
+        vortoj: 
+          du: 二
+          due: 其次，第二
+          unu: 一
+          unue: 首先，第一
+      numeraloj: 
+        titolo: 数词
+      vortaro03: 
         atendi: 等候
         demandi: 问，询问
         fumi: 吸烟，冒烟

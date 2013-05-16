@@ -2,49 +2,47 @@
 li: 
   lecionoj: 
     leciono03: 
-      pagxo01: 
-        adverboj: 
-          adverboj: Prieveiksmiai
-          adverboj-ekzpliko-1: "Prieveiksmiai, skirtingai nuo būdvardžių, susiję ne su daiktavardžiu, o su veiksmažodžiu ir būdvardžiu. Daugiskaitoje prieveiksmiai neturi galūnės \"-j\". Jie išreiškia būdą, priežastį, laiką ar vietą."
-          adverboj-ekzpliko-2: "Esperanto kalboje išvestiniai prieveiksmiai paprastai baigiasi \"-e\". Pagrindinė žodžio šaknies reikšmė gali keistis priklausomai nuo galūnės."
-          frazoj: 
-            adverboj-rimarkigo: "Prieveiksmiai paprastai rašomi prieš žodį, su kuriuo jis susijęs."
-            frazo-sana: "Jis yra sveikas."
-            frazo-sane: "Jis sveikai gyvena."
-            frazo-sani: "Jis yra sveikas."
-            frazo-sano: "Jis turi gerą sveikatą."
-          vortoj: 
-            sana: sveikas
-            sane: sveikai
-            sani: "būti sveikam"
-            sano: sveikata
-      pagxo02: 
-        numeraloj: Skaitvardžiai
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj-el-numeraloj: "Kelintiniai skaitvardžiai"
-          adjektivoj-el-numeraloj-ekzpliko: "Kelintiniai skaitvardžiai sudaromi prie skaitvardžio pridedant galūnę \"-a\".  Kaip ir būdvardžiai, daugiskaitoje jie turi galūnę \"-j\", o galininko linksnyje - \"-n\"."
-          frazoj: 
-            frazo-adjektivoj-1: "Pirmieji berniukai ateina."
-            frazo-adjektivoj-2: "Jis pagavo trečią vabzdį."
-          vortoj: 
-            dek: dešimt
-            dek-naux: devyniolika
-            dek-nauxa: devynioliktas
-            deka: dešimtas
-            tri: trys
-            tria: "trečias\n"
-        adverboj: 
-          adverboj-el-numeraloj: "Prieveiksmiai, padaryti iš skaitvardžių"
-          adverboj-el-numeraloj-ekzpliko: "Prie skaitvardžių pridedant galūnę \"-e\", gaunami prieveiksmiai:"
-          frazoj: 
-            frazo-adverboj-1: "Pirmiausia jis gers vandenį."
-          vortoj: 
-            du: du
-            due: añtra
-            unu: vienas
-            unue: "pirma (pirmiausia, visų pirma)"
-      pagxo05: 
+      adjektivoj_el_numeraloj: 
+        ekspliko: "Kelintiniai skaitvardžiai sudaromi prie skaitvardžio pridedant galūnę \"-a\".  Kaip ir būdvardžiai, daugiskaitoje jie turi galūnę \"-j\", o galininko linksnyje - \"-n\"."
+        frazoj: 
+          frazo-1: "Pirmieji berniukai ateina."
+          frazo-2: "Jis pagavo trečią vabzdį."
+        titolo: "Kelintiniai skaitvardžiai"
+        vortoj: 
+          dek: dešimt
+          dek-naux: devyniolika
+          dek-nauxa: devynioliktas
+          deka: dešimtas
+          tri: trys
+          tria: "trečias\n"
+      adverboj: 
+        ekspliko-1: "Prieveiksmiai, skirtingai nuo būdvardžių, susiję ne su daiktavardžiu, o su veiksmažodžiu ir būdvardžiu. Daugiskaitoje prieveiksmiai neturi galūnės \"-j\". Jie išreiškia būdą, priežastį, laiką ar vietą."
+        ekspliko-2: "Esperanto kalboje išvestiniai prieveiksmiai paprastai baigiasi \"-e\". Pagrindinė žodžio šaknies reikšmė gali keistis priklausomai nuo galūnės."
+        frazoj: 
+          frazo-sana: "Jis yra sveikas."
+          frazo-sane: "Jis sveikai gyvena."
+          frazo-sani: "Jis yra sveikas."
+          frazo-sano: "Jis turi gerą sveikatą."
+        rimarkigo: "Prieveiksmiai paprastai rašomi prieš žodį, su kuriuo jis susijęs."
+        titolo: Prieveiksmiai
+        vortoj: 
+          sana: sveikas
+          sane: sveikai
+          sani: "būti sveikam"
+          sano: sveikata
+      adverboj_el_numeraloj: 
+        ekspliko: "Prie skaitvardžių pridedant galūnę \"-e\", gaunami prieveiksmiai:"
+        frazoj: 
+          frazo-1: "Pirmiausia jis gers vandenį."
+        titolo: "Prieveiksmiai, padaryti iš skaitvardžių"
+        vortoj: 
+          du: du
+          due: añtra
+          unu: vienas
+          unue: "pirma (pirmiausia, visų pirma)"
+      numeraloj: 
+        titolo: Skaitvardžiai
+      vortaro03: 
         atendi: laukti
         demandi: klausti
         fumi: rūkyti

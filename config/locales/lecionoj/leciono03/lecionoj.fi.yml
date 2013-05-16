@@ -2,49 +2,47 @@
 fi: 
   lecionoj: 
     leciono03: 
-      pagxo01: 
-        adverboj: 
-          adverboj: Adverbit
-          adverboj-ekzpliko-1: "Adverbit käyttäytyvät adjektiivien tavoin, mutta määrittelemättä substantiivin ilmaisuja. Ne määrittelevät verbin ja adjektiivin ilmaisuja, mutta eivät saa \"j\" päätettä. Yleensä ne ilmaisevat tapaa, syytä, aikaa tai paikkaa."
-          adverboj-ekzpliko-2: "Adverbien pääte on yleensä \"e\" (näin on aina siloin, kun ne ovat toisen sanan johdannaisia). Sanan merkitystä voidaan muuttaa yksinkertaisesti, päätettä muuttamalla."
-          frazoj: 
-            adverboj-rimarkigo: "Yleensä adverbi tulee ennen sanaa, johon se liittyy."
-            frazo-sana: "Hän on terve."
-            frazo-sane: "Hän elää terveesti."
-            frazo-sani: "Hän on terve."
-            frazo-sano: "Hänellä on hyvä terveys."
-          vortoj: 
-            sana: terve
-            sane: terveesti
-            sani: "tervehtyä, parantua"
-            sano: terveys
-      pagxo02: 
-        numeraloj: Numeraalit
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj-el-numeraloj: "Numeraaleista adjektiiveja"
-          adjektivoj-el-numeraloj-ekzpliko: "Järjestysluvut muodostetaan päätteellä \"a\". Koska päätteenä on \"a\", ne voivat esiintyä myös monikossa päätteellä (-j) ja akkusatiivissa päätteellä (-n)."
-          frazoj: 
-            frazo-adjektivoj-1: "Ensimmäiset pojat tulevat."
-            frazo-adjektivoj-2: "Hän pyydysti kolmannen hyönteisen."
-          vortoj: 
-            dek: kymmenen
-            dek-naux: yhdeksäntista
-            dek-nauxa: yhdeksästoista
-            deka: kymmenes
-            tri: kolme
-            tria: Kolmas
-        adverboj: 
-          adverboj-el-numeraloj: "Numeraaliset adverbit"
-          adverboj-el-numeraloj-ekzpliko: "Päätteellä \"e\" lukusanoista muodostetaan adverbejä."
-          frazoj: 
-            frazo-adverboj-1: "Ensiksi hän juo vettä."
-          vortoj: 
-            du: kaksi
-            due: toiseksi
-            unu: yksi
-            unue: ensiksi
-      pagxo05: 
+      adjektivoj_el_numeraloj: 
+        ekspliko: "Järjestysluvut muodostetaan päätteellä \"a\". Koska päätteenä on \"a\", ne voivat esiintyä myös monikossa päätteellä (-j) ja akkusatiivissa päätteellä (-n)."
+        frazoj: 
+          frazo-1: "Ensimmäiset pojat tulevat."
+          frazo-2: "Hän pyydysti kolmannen hyönteisen."
+        titolo: "Numeraaleista adjektiiveja"
+        vortoj: 
+          dek: kymmenen
+          dek-naux: yhdeksäntista
+          dek-nauxa: yhdeksästoista
+          deka: kymmenes
+          tri: kolme
+          tria: Kolmas
+      adverboj: 
+        ekspliko-1: "Adverbit käyttäytyvät adjektiivien tavoin, mutta määrittelemättä substantiivin ilmaisuja. Ne määrittelevät verbin ja adjektiivin ilmaisuja, mutta eivät saa \"j\" päätettä. Yleensä ne ilmaisevat tapaa, syytä, aikaa tai paikkaa."
+        ekspliko-2: "Adverbien pääte on yleensä \"e\" (näin on aina siloin, kun ne ovat toisen sanan johdannaisia). Sanan merkitystä voidaan muuttaa yksinkertaisesti, päätettä muuttamalla."
+        frazoj: 
+          frazo-sana: "Hän on terve."
+          frazo-sane: "Hän elää terveesti."
+          frazo-sani: "Hän on terve."
+          frazo-sano: "Hänellä on hyvä terveys."
+        rimarkigo: "Yleensä adverbi tulee ennen sanaa, johon se liittyy."
+        titolo: Adverbit
+        vortoj: 
+          sana: terve
+          sane: terveesti
+          sani: "tervehtyä, parantua"
+          sano: terveys
+      adverboj_el_numeraloj: 
+        ekspliko: "Päätteellä \"e\" lukusanoista muodostetaan adverbejä."
+        frazoj: 
+          frazo-1: "Ensiksi hän juo vettä."
+        titolo: "Numeraaliset adverbit"
+        vortoj: 
+          du: kaksi
+          due: toiseksi
+          unu: yksi
+          unue: ensiksi
+      numeraloj: 
+        titolo: Numeraalit
+      vortaro03: 
         atendi: odottaa
         demandi: kysyä
         fumi: polttaa

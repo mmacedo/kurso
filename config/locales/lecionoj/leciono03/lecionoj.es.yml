@@ -2,49 +2,47 @@
 es: 
   lecionoj: 
     leciono03: 
-      pagxo01: 
-        adverboj: 
-          adverboj: Adverbios
-          adverboj-ekzpliko-1: "Los adverbios funcionan igual que los adjetivos, pero en lugar de definir las ideas expresadas por el sustantivo, ellos definen las ideas del verbo y los adjetivos, pero no reciben la terminación \"j\". Generalmente expresan modo, causa, tiempo o lugar."
-          adverboj-ekzpliko-2: "En Esperanto los adverbios generalmente terminan en \"e\" (esto sucede siempre que son derivados de otra palabra). La idea básica expresada por la raíz de la palabra puede ser usada de diversas maneras, gracias a un simple cambio de terminación."
-          frazoj: 
-            adverboj-rimarkigo: "El adverbio generalmente se coloca antes de la palabra con la cual se relaciona."
-            frazo-sana: "Él está sano."
-            frazo-sane: "Él vive sanamente."
-            frazo-sani: "Él está sano."
-            frazo-sano: "Él tiene buena salud."
-          vortoj: 
-            sana: sano
-            sane: sanamente
-            sani: "estar sano"
-            sano: salud
-      pagxo02: 
-        numeraloj: Números
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj-el-numeraloj: "Adjetivos de números"
-          adjektivoj-el-numeraloj-ekzpliko: "Los números ordinales se forman agregando la terminación \"a\" a los números cardinales. Dado que tienen la terminación \"a\", pueden recibir el plural (-j) y el acusativo (-n)."
-          frazoj: 
-            frazo-adjektivoj-1: "Los primeros muchachos vienen."
-            frazo-adjektivoj-2: "Él capturó al tercer insecto."
-          vortoj: 
-            dek: diez
-            dek-naux: diecinueve
-            dek-nauxa: decimonoveno
-            deka: décimo
-            tri: tres
-            tria: tercer
-        adverboj: 
-          adverboj-el-numeraloj: "Adverbios de números"
-          adverboj-el-numeraloj-ekzpliko: "Agregando la terminación \"e\" a los números se forman adverbios:"
-          frazoj: 
-            frazo-adverboj-1: "El primeramente tomará agua."
-          vortoj: 
-            du: dos
-            due: "en segundo lugar (segundamente)"
-            unu: uno
-            unue: primeramente
-      pagxo05: 
+      adjektivoj_el_numeraloj: 
+        ekspliko: "Los números ordinales se forman agregando la terminación \"a\" a los números cardinales. Dado que tienen la terminación \"a\", pueden recibir el plural (-j) y el acusativo (-n)."
+        frazoj: 
+          frazo-1: "Los primeros muchachos vienen."
+          frazo-2: "Él capturó al tercer insecto."
+        titolo: "Adjetivos de números"
+        vortoj: 
+          dek: diez
+          dek-naux: diecinueve
+          dek-nauxa: decimonoveno
+          deka: décimo
+          tri: tres
+          tria: tercer
+      adverboj: 
+        ekspliko-1: "Los adverbios funcionan igual que los adjetivos, pero en lugar de definir las ideas expresadas por el sustantivo, ellos definen las ideas del verbo y los adjetivos, pero no reciben la terminación \"j\". Generalmente expresan modo, causa, tiempo o lugar."
+        ekspliko-2: "En Esperanto los adverbios generalmente terminan en \"e\" (esto sucede siempre que son derivados de otra palabra). La idea básica expresada por la raíz de la palabra puede ser usada de diversas maneras, gracias a un simple cambio de terminación."
+        frazoj: 
+          frazo-sana: "Él está sano."
+          frazo-sane: "Él vive sanamente."
+          frazo-sani: "Él está sano."
+          frazo-sano: "Él tiene buena salud."
+        rimarkigo: "El adverbio generalmente se coloca antes de la palabra con la cual se relaciona."
+        titolo: Adverbios
+        vortoj: 
+          sana: sano
+          sane: sanamente
+          sani: "estar sano"
+          sano: salud
+      adverboj_el_numeraloj: 
+        ekspliko: "Agregando la terminación \"e\" a los números se forman adverbios:"
+        frazoj: 
+          frazo-1: "El primeramente tomará agua."
+        titolo: "Adverbios de números"
+        vortoj: 
+          du: dos
+          due: "en segundo lugar (segundamente)"
+          unu: uno
+          unue: primeramente
+      numeraloj: 
+        titolo: Números
+      vortaro03: 
         atendi: esperar
         demandi: preguntar
         fumi: fumar

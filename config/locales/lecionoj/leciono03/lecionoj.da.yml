@@ -2,49 +2,47 @@
 da: 
   lecionoj: 
     leciono03: 
-      pagxo01: 
-        adverboj: 
-          adverboj: "Biord (adverbier)"
-          adverboj-ekzpliko-1: "Medens tillægsord knytter sig til navneord, så er biord (adverbier) ord der knytter sig til udsagnsord, tillægsord eller til andre biord, og de angiver en biomstændighed eller lægger sig som forklarende tillæg til andre ord. Angiver ofte tid, sted, måde, årsag, nægtelse og lign."
-          adverboj-ekzpliko-2: "På esperanto ender de afledte biord på \"e\".  Den grundlæggende idé som udtrykkes i  ordstammen,  kan forandres takket være den simple ændring af endelsen."
-          frazoj: 
-            adverboj-rimarkigo: "Biordet placeres normalt foran det ord, der relateres til"
-            frazo-sana: "Han er sund"
-            frazo-sane: "Han lever sundt."
-            frazo-sani: "Han er sund"
-            frazo-sano: "Han har god sundhed"
-          vortoj: 
-            sana: sund
-            sane: sundt
-            sani: "at være sund"
-            sano: sundhed
-      pagxo02: 
-        numeraloj: "Talord (numeraler)"
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj-el-numeraloj: "Biord afledt af talord"
-          adjektivoj-el-numeraloj-ekzpliko: "Ordenstallene dannes ved at tilføje endelsen \"a\"  til talordene. Ideti ordenstallene har endelsen \"a\" kan de få flertalsendelsen (-j) og akkusativendelsen (-n)."
-          frazoj: 
-            frazo-adjektivoj-1: "De første drenge kommer."
-            frazo-adjektivoj-2: "Han fangede det tredje insekt."
-          vortoj: 
-            dek: ti
-            dek-naux: nitten
-            dek-nauxa: nittende
-            deka: tiende
-            tri: tre
-            tria: tredje
-        adverboj: 
-          adverboj-el-numeraloj: "Biord dannet af talord"
-          adverboj-el-numeraloj-ekzpliko: "Ved at tilføje endelsen \"e\" til  talordene danner man biord:"
-          frazoj: 
-            frazo-adverboj-1: "Først vil han drikke vand"
-          vortoj: 
-            du: to
-            due: "for det andet"
-            unu: en
-            unue: "først/for det første"
-      pagxo05: 
+      adjektivoj_el_numeraloj: 
+        ekspliko: "Ordenstallene dannes ved at tilføje endelsen \"a\"  til talordene. Ideti ordenstallene har endelsen \"a\" kan de få flertalsendelsen (-j) og akkusativendelsen (-n)."
+        frazoj: 
+          frazo-1: "De første drenge kommer."
+          frazo-2: "Han fangede det tredje insekt."
+        titolo: "Biord afledt af talord"
+        vortoj: 
+          dek: ti
+          dek-naux: nitten
+          dek-nauxa: nittende
+          deka: tiende
+          tri: tre
+          tria: tredje
+      adverboj: 
+        ekspliko-1: "Medens tillægsord knytter sig til navneord, så er biord (adverbier) ord der knytter sig til udsagnsord, tillægsord eller til andre biord, og de angiver en biomstændighed eller lægger sig som forklarende tillæg til andre ord. Angiver ofte tid, sted, måde, årsag, nægtelse og lign."
+        ekspliko-2: "På esperanto ender de afledte biord på \"e\".  Den grundlæggende idé som udtrykkes i  ordstammen,  kan forandres takket være den simple ændring af endelsen."
+        frazoj: 
+          frazo-sana: "Han er sund"
+          frazo-sane: "Han lever sundt."
+          frazo-sani: "Han er sund"
+          frazo-sano: "Han har god sundhed"
+        rimarkigo: "Biordet placeres normalt foran det ord, der relateres til"
+        titolo: "Biord (adverbier)"
+        vortoj: 
+          sana: sund
+          sane: sundt
+          sani: "at være sund"
+          sano: sundhed
+      adverboj_el_numeraloj: 
+        ekspliko: "Ved at tilføje endelsen \"e\" til  talordene danner man biord:"
+        frazoj: 
+          frazo-1: "Først vil han drikke vand"
+        titolo: "Biord dannet af talord"
+        vortoj: 
+          du: to
+          due: "for det andet"
+          unu: en
+          unue: "først/for det første"
+      numeraloj: 
+        titolo: "Talord (numeraler)"
+      vortaro03: 
         atendi: "at vente"
         demandi: "at spørge"
         fumi: "at ryge"

@@ -2,57 +2,55 @@
 nl: 
   lecionoj: 
     leciono03: 
-      pagxo01: 
-        adverboj: 
-          adverboj: Bijwoorden
-          adverboj-ekzpliko-1: |-
-              Bijwoorden bepalen nader het karakter  -niet zoals bijvoeglijke naamwoorden  van een zelfstandig naamwoord 
-              (de SNELLE auto)- maar van een werkwoord (hij rijdt SNEL) of van een bijvoeglijk naamwoord (het SNEL 
-              verouderde model). Ze krijgen nooit de uitgang "j".
-          adverboj-ekzpliko-2: |-
-              In Esperanto eindigen bijwoorden gewoonlijk op -e (altijd als ze afgeleid zijn van een woord). Het basisidee 
-              uitgedrukt door een woordstam kan op verschillende manieren worden gebruikt, gewoon door de uitgang te 
-              wijzigen. Aan zo'n gemak moet je wel even wennen, echt waar!
-          frazoj: 
-            adverboj-rimarkigo: "Het bijwoord zet je in het algemeen voor het woord waar het betrekking op heeft."
-            frazo-sana: "Hij is gezond."
-            frazo-sane: "Hij leeft gezond."
-            frazo-sani: "Hij is gezond."
-            frazo-sano: "Hij heeft een goede gezondheid."
-          vortoj: 
-            sana: "gezond (bijv. nw)"
-            sane: "op een gezonde manier"
-            sani: "gezond zijn"
-            sano: gezondheid
-      pagxo02: 
-        numeraloj: Telwoorden
-      pagxo04: 
-        adjektivoj: 
-          adjektivoj-el-numeraloj: "Bijvoeglijke naamwoorden van telwoorden gemaakt"
-          adjektivoj-el-numeraloj-ekzpliko: |-
-              De rangtelwoorden maak je door de uitgang -a toe te voegen aan de hoofdtelwoorden. Omdat ze de uitgang -a 
-              hebben, kunnen ze ook de meervouds -j  en/of  de accusatief -n bijkrijgen.
-          frazoj: 
-            frazo-adjektivoj-1: "De eerste jongens komen."
-            frazo-adjektivoj-2: "Hij ving het derde insekt."
-          vortoj: 
-            dek: tien
-            dek-naux: negentien
-            dek-nauxa: negentiende
-            deka: tiende
-            tri: drie
-            tria: derde
-        adverboj: 
-          adverboj-el-numeraloj: "Bijwoorden van telwoorden afgeleid"
-          adverboj-el-numeraloj-ekzpliko: "Door er een -e achter te zetten maak je van telwoorden bijwoorden:"
-          frazoj: 
-            frazo-adverboj-1: "Eerst (ten eerste) zal hij water drinken"
-          vortoj: 
-            du: twee
-            due: "ten tweede"
-            unu: een
-            unue: "eerst (ten eerste)"
-      pagxo05: 
+      adjektivoj_el_numeraloj: 
+        ekspliko: |-
+            De rangtelwoorden maak je door de uitgang -a toe te voegen aan de hoofdtelwoorden. Omdat ze de uitgang -a 
+            hebben, kunnen ze ook de meervouds -j  en/of  de accusatief -n bijkrijgen.
+        frazoj: 
+          frazo-1: "De eerste jongens komen."
+          frazo-2: "Hij ving het derde insekt."
+        titolo: "Bijvoeglijke naamwoorden van telwoorden gemaakt"
+        vortoj: 
+          dek: tien
+          dek-naux: negentien
+          dek-nauxa: negentiende
+          deka: tiende
+          tri: drie
+          tria: derde
+      adverboj: 
+        ekspliko-1: |-
+            Bijwoorden bepalen nader het karakter  -niet zoals bijvoeglijke naamwoorden  van een zelfstandig naamwoord 
+            (de SNELLE auto)- maar van een werkwoord (hij rijdt SNEL) of van een bijvoeglijk naamwoord (het SNEL 
+            verouderde model). Ze krijgen nooit de uitgang "j".
+        ekspliko-2: |-
+            In Esperanto eindigen bijwoorden gewoonlijk op -e (altijd als ze afgeleid zijn van een woord). Het basisidee 
+            uitgedrukt door een woordstam kan op verschillende manieren worden gebruikt, gewoon door de uitgang te 
+            wijzigen. Aan zo'n gemak moet je wel even wennen, echt waar!
+        frazoj: 
+          frazo-sana: "Hij is gezond."
+          frazo-sane: "Hij leeft gezond."
+          frazo-sani: "Hij is gezond."
+          frazo-sano: "Hij heeft een goede gezondheid."
+        rimarkigo: "Het bijwoord zet je in het algemeen voor het woord waar het betrekking op heeft."
+        titolo: Bijwoorden
+        vortoj: 
+          sana: "gezond (bijv. nw)"
+          sane: "op een gezonde manier"
+          sani: "gezond zijn"
+          sano: gezondheid
+      adverboj_el_numeraloj: 
+        ekspliko: "Door er een -e achter te zetten maak je van telwoorden bijwoorden:"
+        frazoj: 
+          frazo-1: "Eerst (ten eerste) zal hij water drinken"
+        titolo: "Bijwoorden van telwoorden afgeleid"
+        vortoj: 
+          du: twee
+          due: "ten tweede"
+          unu: een
+          unue: "eerst (ten eerste)"
+      numeraloj: 
+        titolo: Telwoorden
+      vortaro03: 
         atendi: wachten
         demandi: "vragen (naar iets)"
         fumi: roken
