@@ -11,6 +11,7 @@ Kurso::Application.routes.draw do
 
     scope :lernado do
       get 'leciono01', to: 'lecionoj#leciono01', as: 'leciono01'
+      get 'leciono02', to: 'lecionoj#leciono02', as: 'leciono02'
     end
   end
 end

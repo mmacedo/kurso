@@ -2,14 +2,45 @@
 ch: 
   lecionoj: 
     leciono02: 
-      pagxo01: 
+      akuzativo: 
+        ekspliko-1: 宾格“-n”是一个非常有用的词尾，它可以让我们一眼就看出句子里的直接宾语来。它一般放在名词、形容词和代词的结尾来表示直接宾语，所以我们可以通过词尾“n”来找出句子的直接宾语。
+        ekspliko-2: 注意：复数词尾“j”总是位于宾格的前面，而宾格“n”永远位于词尾。直接宾语放在句首，句中或句尾都不会改变句子的意思，因为它有宾格标志。如下面三个句子的意思就完全一样：
+        frazo-plurala: 我洗这些新杯子。
+        frazo-singulara: 我洗这个新杯子。
+        rimarkigo-1: 事实上，使用不同的词序在某种程度上可以更细腻的表达句子的意思，这方面的内容在以后的课程中会讲到。
+        rimarkigo-2: 动词“esti”没有宾语，因为它本身已暗示主语和表语是相等的。
+        titolo: 宾格(-n)
+      neado: 
+        ekspliko: 一般来说，否定句只要在动词前面加个否定副词“ne”就行了。
+        frazoj: 
+          frazo-1: 我不洗新杯子。
+          frazo-2: 他不是我的兄弟。
+          frazo-3: 她不是我妈妈。
+          frazo-4: 这这些糕点不热了。
+        titolo: 否定
+      prefikso_mal: 
+        ekspliko: 前缀“mal”表示相反的意思，用它我们可以造出与词根意义相反的新词。
+        kun: 
+          malamiko: 敌人
+          malavara: 慷慨的，大方的
+          malbela: 丑的
+          maljuna: 老的，年老的
+          malnova: 旧的
+        sin: 
+          amiko: 朋友
+          avara: 吝啬的，贪婪的
+          bela: 漂亮的，美丽的
+          juna: 年青的
+          nova: 新的
+        titolo: 前缀“mal”
+      sufikso_ino: 
+        ekspliko-1: 在第一课我们已经看到，世界语里形容词在单数和复数上是与名词一致的；当只表示一个时，它们用单数形式，如果表示一个以上时，就用复数形式。此外，它们没有性（阴性或阳性）的变化。
+        ekspliko-2: 有性别之分的人或物是用词尾“o”表示男性或雄性，用后缀“ino”表示女性或雌性。
         frazoj: 
           frazo-amikino: 漂亮的女友
           frazo-patrino: 好妈妈
           frazo-virino: 身材高大的妇女们
-        sufikso-ino: "后缀 -ino"
-        sufikso-ino-ekspliko-1: 在第一课我们已经看到，世界语里形容词在单数和复数上是与名词一致的；当只表示一个时，它们用单数形式，如果表示一个以上时，就用复数形式。此外，它们没有性（阴性或阳性）的变化。
-        sufikso-ino-ekspliko-2: 有性别之分的人或物是用词尾“o”表示男性或雄性，用后缀“ino”表示女性或雌性。
+        titolo: "后缀 -ino"
         vortoj: 
           amikino: 女朋友
           amiko: 朋友
@@ -19,39 +50,7 @@ ch:
           patro: 父亲，爸爸
           virino: 妇女，女人，女士
           viro: 男人，男士
-      pagxo02: 
-        akusativo: 宾格(-n)
-        akusativo-ekzpliko-1: 宾格“-n”是一个非常有用的词尾，它可以让我们一眼就看出句子里的直接宾语来。它一般放在名词、形容词和代词的结尾来表示直接宾语，所以我们可以通过词尾“n”来找出句子的直接宾语。
-        akusativo-ekzpliko-2: 注意：复数词尾“j”总是位于宾格的前面，而宾格“n”永远位于词尾。直接宾语放在句首，句中或句尾都不会改变句子的意思，因为它有宾格标志。如下面三个句子的意思就完全一样：
-        akusativo-rimarkigo-1: 事实上，使用不同的词序在某种程度上可以更细腻的表达句子的意思，这方面的内容在以后的课程中会讲到。
-        akusativo-rimarkigo-2: 动词“esti”没有宾语，因为它本身已暗示主语和表语是相等的。
-        frazo-plurala: 我洗这些新杯子。
-        frazo-singulara: 我洗这个新杯子。
-      pagxo03: 
-        neado: 
-          frazo01: 我不洗新杯子。
-          frazo02: 他不是我的兄弟。
-          frazo03: 她不是我妈妈。
-          frazo04: 这这些糕点不热了。
-          neado: 否定
-          neado-ekspliko: 一般来说，否定句只要在动词前面加个否定副词“ne”就行了。
-        prefikso-mal: 
-          amiko: 朋友
-          avara: 吝啬的，贪婪的
-          bela: 漂亮的，美丽的
-          juna: 年青的
-          malamiko: 敌人
-          malavara: 慷慨的，大方的
-          malbela: 丑的
-          maljuna: 老的，年老的
-          malnova: 旧的
-          nova: 新的
-          prefikso-mal: 前缀“mal”
-          prefikso-mal-ekspliko: 前缀“mal”表示相反的意思，用它我们可以造出与词根意义相反的新词。
-      pagxo04: 
-        muziko: 世界语音乐
-        muziko-ekzpliko: "现在来听一首世界语歌曲吧，它是由曾在国际世界语协会文艺竞赛中获奖的阿根廷“La Porkoj”乐队演唱的。该乐队由歌手 Alejandro Cossavella，鼓手Pablo Ciancio， 吉它演奏Ignacio Mendizabal  以及低音吉它演奏Salvador Agustoni组成。 点击按钮播放吧。"
-      pagxo05: 
+      vortaro02: 
         akvo: 水
         ami: "爱[动词]"
         amo: "爱[名词]"

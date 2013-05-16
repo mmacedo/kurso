@@ -2,14 +2,45 @@
 en: 
   lecionoj: 
     leciono02: 
-      pagxo01: 
+      akuzativo: 
+        ekspliko-1: "Another very useful ending allows us to identify the direct object of a sentence. It is the accusative ending \"n\", placed at the end of nouns, adjectives, and pronouns.  (Note:  The direct object is what the verb acts upon.  It receives the action of the verb.  E.g., in \"I see you\", \"you\" is the direct object)."
+        ekspliko-2: "Note that the accusative \"n\" is always at the end of the word (after the plural \"j\"). The direct object may go anywhere in the sentence without changing its meaning. The following three sentences have the same meaning:"
+        frazo-plurala: "I wash the new cups."
+        frazo-singulara: "I wash the new cup."
+        rimarkigo-1: "The different word order may be used for emphasis. We will see this in a later lesson."
+        rimarkigo-2: "The accusative is not used after the verb \"esti\".  \"Esti\" is a so-called linking verb which implies that the subject and the object are equivalent."
+        titolo: "Accusative (-n)"
+      neado: 
+        ekspliko: "To make a negative sentence it is enough to put the word \"ne\" (no, not) before the verb."
+        frazoj: 
+          frazo-1: "I won't wash the new cup."
+          frazo-2: "He is not my brother."
+          frazo-3: "She isn't my mother."
+          frazo-4: "The cakes weren't hot."
+        titolo: Negation
+      prefikso_mal: 
+        ekspliko: "The Prefix \"mal\" allows us to create words with the opposite meaning of the original word."
+        kun: 
+          malamiko: enemy
+          malavara: generous
+          malbela: ugly
+          maljuna: old
+          malnova: old
+        sin: 
+          amiko: friend
+          avara: "miserly, avaricious"
+          bela: beautiful
+          juna: young
+          nova: new
+        titolo: "Prefix \"mal\""
+      sufikso_ino: 
+        ekspliko-1: "In the first lesson we saw that in Esperanto adjectives agree in number (singular or plural) with the nouns they describe; when a noun refers to one thing, its adjectives stay singular and when the noun refers to more than one, its adjectives are made plural."
+        ekspliko-2: "Most nouns do not indicate gender, but a small number referring to people do.  For such words, the '-o' ending refers to males and '-ino' refers to females."
         frazoj: 
           frazo-amikino: "The beautiful (female) friend"
           frazo-patrino: "The good mother"
           frazo-virino: "The big women"
-        sufikso-ino: "Suffix -ino"
-        sufikso-ino-ekspliko-1: "In the first lesson we saw that in Esperanto adjectives agree in number (singular or plural) with the nouns they describe; when a noun refers to one thing, its adjectives stay singular and when the noun refers to more than one, its adjectives are made plural."
-        sufikso-ino-ekspliko-2: "Most nouns do not indicate gender, but a small number referring to people do.  For such words, the '-o' ending refers to males and '-ino' refers to females."
+        titolo: "Suffix -ino"
         vortoj: 
           amikino: "(female) friend"
           amiko: friend
@@ -19,39 +50,7 @@ en:
           patro: father
           virino: woman
           viro: man
-      pagxo02: 
-        akusativo: "Accusative (-n)"
-        akusativo-ekzpliko-1: "Another very useful ending allows us to identify the direct object of a sentence. It is the accusative ending \"n\", placed at the end of nouns, adjectives, and pronouns.  (Note:  The direct object is what the verb acts upon.  It receives the action of the verb.  E.g., in \"I see you\", \"you\" is the direct object)."
-        akusativo-ekzpliko-2: "Note that the accusative \"n\" is always at the end of the word (after the plural \"j\"). The direct object may go anywhere in the sentence without changing its meaning. The following three sentences have the same meaning:"
-        akusativo-rimarkigo-1: "The different word order may be used for emphasis. We will see this in a later lesson."
-        akusativo-rimarkigo-2: "The accusative is not used after the verb \"esti\".  \"Esti\" is a so-called linking verb which implies that the subject and the object are equivalent."
-        frazo-plurala: "I wash the new cups."
-        frazo-singulara: "I wash the new cup."
-      pagxo03: 
-        neado: 
-          frazo01: "I won't wash the new cup."
-          frazo02: "He is not my brother."
-          frazo03: "She isn't my mother."
-          frazo04: "The cakes weren't hot."
-          neado: Negation
-          neado-ekspliko: "To make a negative sentence it is enough to put the word \"ne\" (no, not) before the verb."
-        prefikso-mal: 
-          amiko: friend
-          avara: "miserly, avaricious"
-          bela: beautiful
-          juna: young
-          malamiko: enemy
-          malavara: generous
-          malbela: ugly
-          maljuna: old
-          malnova: old
-          nova: new
-          prefikso-mal: "Prefix \"mal\""
-          prefikso-mal-ekspliko: "The Prefix \"mal\" allows us to create words with the opposite meaning of the original word."
-      pagxo04: 
-        muziko: "Music in Esperanto"
-        muziko-ekzpliko: "Now let's listen to the Esperanto song \"Jen\", by the Argentinean group \"La Porkoj\", awarded the arts competition of the Universal Esperanto Association.  The group was formed by Alejandro Cossavella (Vocals), Pablo Ciancio (Drums), Ignacio Mendizabal (Guitar) and Salvador Agustoni (Bass Guitar).  Press the button to play the song."
-      pagxo05: 
+      vortaro02: 
         akvo: water
         ami: "to love"
         amo: love

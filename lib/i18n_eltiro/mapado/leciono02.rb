@@ -1,9 +1,9 @@
 I18nEltiro::Mapado.agordi do
   atingo 'lecionoj.leciono02' do
-    al 'pagxo01' do
-      mapi 'l131', 'sufikso-ino'
-      mapi 'l132', 'sufikso-ino-ekspliko-1'
-      mapi 'l133', 'sufikso-ino-ekspliko-2'
+    al 'sufikso_ino' do
+      mapi 'l131', 'titolo'
+      mapi 'l132', 'ekspliko-1'
+      mapi 'l133', 'ekspliko-2'
       al 'vortoj' do
         mapi 'l011', 'viro'
         mapi 'l012', 'amiko'
@@ -21,47 +21,47 @@ I18nEltiro::Mapado.agordi do
       end
     end
 
-    al 'pagxo02' do
-      mapi 'l139', 'akusativo'
-      mapi 'l140', 'akusativo-ekzpliko-1'
+    al 'akuzativo' do
+      mapi 'l139', 'titolo'
+      mapi 'l140', 'ekspliko-1'
       mapi 'l019', 'frazo-singulara'
       mapi 'l020', 'frazo-plurala'
-      mapi 'l143', 'akusativo-ekzpliko-2'
-      mapi 'l144', 'akusativo-rimarkigo-1'
-      mapi 'l145', 'akusativo-rimarkigo-2'
+      mapi 'l143', 'ekspliko-2'
+      mapi 'l144', 'rimarkigo-1'
+      mapi 'l145', 'rimarkigo-2'
     end
 
-    al 'pagxo03' do
-      al 'prefikso-mal' do
-        mapi 'l146', 'prefikso-mal'
-        mapi 'l147', 'prefikso-mal-ekspliko'
+    al 'prefikso_mal' do
+      mapi 'l146', 'titolo'
+      mapi 'l147', 'ekspliko'
+      al 'sin' do
         mapi 'l148', 'amiko'
         mapi 'l150', 'nova'
         mapi 'l017', 'avara'
         mapi 'l149', 'bela'
         mapi 'l009', 'juna'
+      end
+      al 'kun' do
         mapi 'l004', 'malamiko'
         mapi 'l006', 'malnova'
         mapi 'l018', 'malavara'
         mapi 'l005', 'malbela'
         mapi 'l010', 'maljuna'
       end
-      al 'neado' do
-        mapi 'l151', 'neado'
-        mapi 'l152', 'neado-ekspliko'
-        mapi 'l021', 'frazo01'
-        mapi 'l154', 'frazo02'
-        mapi 'l155', 'frazo03'
-        mapi 'l156', 'frazo04'
+    end
+
+    al 'neado' do
+      mapi 'l151', 'titolo'
+      mapi 'l152', 'ekspliko'
+      al 'frazoj' do
+        mapi 'l021', 'frazo-1'
+        mapi 'l154', 'frazo-2'
+        mapi 'l155', 'frazo-3'
+        mapi 'l156', 'frazo-4'
       end
     end
 
-    al 'pagxo04' do
-      mapi 'l050', 'muziko'
-      mapi 'l049', 'muziko-ekzpliko'
-    end
-
-    al 'pagxo05' do
+    al 'vortaro02' do
       mapi 'l158', 'akvo'
       mapi 'l159', 'ami'
       mapi 'l160', 'amo'
@@ -87,27 +87,6 @@ I18nEltiro::Mapado.agordi do
       mapi 'l180', 'trovi'
       mapi 'l181', 'vendi'
       mapi 'l182', 'vidi'
-    end
-  end
-
-  el 'lecionoj.leciono02' do
-    al 'ekzercoj.leciono02.pagxo10' do
-      mapi 'tf41_l084', 'ekzpliko'
-    end
-  end
-
-  el 'lecionoj.leciono02' do
-    al 'ekzercoj.leciono02.pagxo11' do
-      mapi 'l237', 'frazo01'
-      mapi 'l238', 'frazo02'
-      mapi 'l022', 'frazo03'
-      mapi 'l240', 'frazo04'
-      mapi 'l241', 'frazo05'
-      mapi 'l242', 'frazo06'
-      mapi 'l243', 'frazo07'
-      mapi 'l244', 'frazo08'
-      mapi 'l245', 'frazo09'
-      mapi 'l246', 'frazo10'
     end
   end
 end
