@@ -2,23 +2,53 @@
 ar: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: "السلام عليكم"
-        saluto02: "يوم سعيد"
-        saluto03: "صباح الخير"
-        saluto04: "مساء الخير"
-        saluto05: "ليلة سعيدة"
-        saluto06: "كيف حالك؟"
-        saluto07: "بخير ، شكرا. وأنت؟"
-        saluto08: عادي.
-        saluto09: "لست بخير."
-        saluto10: "بالهناء والشفاء !"
-        saluto11: "ولك بالمثل ، شكرا."
-        saluto12: "بصحتك !"
-        saluto13: "أراك لاحقا !"
-        saluto14: "مع السلامة."
-        salutoj: التحية
-      pagxo02: 
+      datoj: 
+        ekspliko: "وتقرأ التواريخ كالآتي (مع حذف \"tago\" و \"en la jaro\" إلا عند الحاجة طبعا) :"
+        titolo: التواريخ
+      demandoj: 
+        aserto: 
+          frazo-1: "الخبز جاف."
+          titolo: "الإثبات :"
+        demando: 
+          frazo-1: "هل الخبز جاف؟"
+          titolo: "السؤال :"
+        ekspliko: "مقابل \"هل\" بالإسبرانتو هو \"ĉu\" ، تضاف على أول الجملة دون تغيير في ترتيب الكلمات ، ويجاب عليها بـ\"نعم\" و\"لا\"."
+        respondo: 
+          frazo-negativa: "لا ، ليس الخبز جافا."
+          frazo-pozitiva: "نعم ، الخبز جاف"
+          titolo: "الجواب :"
+        titolo: الاستفهام
+      monatoj: 
+        aprilo: "نيسان (أبريل)"
+        aŭgusto: "آب (أغسطس أو أوت)"
+        decembro: "كانون الأول (ديسمبر أو دشنبر)"
+        februaro: "شباط (فبراير)"
+        januaro: "كانون الثاني (يناير)"
+        julio: "تموز (جوان أو يوليه)"
+        junio: "حزيران (يونيه)"
+        majo: "أيار (ماي)"
+        marto: "آزار (مارس)"
+        novembro: "تشرين الثاني (نوفمبر)"
+        oktobro: "تشرين الأول (أكتوبر)"
+        septembro: "أيلول (شتنبر أو سبتمبر)"
+        titolo: الأشهر
+      salutoj: 
+        saluto-1: "السلام عليكم"
+        saluto-10: "بالهناء والشفاء !"
+        saluto-11: "ولك بالمثل ، شكرا."
+        saluto-12: "بصحتك !"
+        saluto-13: "أراك لاحقا !"
+        saluto-14: "مع السلامة."
+        saluto-2: "يوم سعيد"
+        saluto-3: "صباح الخير"
+        saluto-4: "مساء الخير"
+        saluto-5: "ليلة سعيدة"
+        saluto-6: "كيف حالك؟"
+        saluto-7: "بخير ، شكرا. وأنت؟"
+        saluto-8: عادي.
+        saluto-9: "لست بخير."
+        titolo: التحية
+      tagoj: 
         relativoj: 
           hieraŭ: أمس
           hodiaŭ: اليوم
@@ -31,40 +61,19 @@ ar:
           sabato: السبت
           vendredo: الجمعة
           ĵaŭdo: الخميس
-        tagoj: الأيام
-      pagxo03: 
-        datoj: 
-          datoj: التواريخ
-          datoj-ekzpliko: "وتقرأ التواريخ كالآتي (مع حذف \"tago\" و \"en la jaro\" إلا عند الحاجة طبعا) :"
-        monatoj: 
-          aprilo: "نيسان (أبريل)"
-          aŭgusto: "آب (أغسطس أو أوت)"
-          decembro: "كانون الأول (ديسمبر أو دشنبر)"
-          februaro: "شباط (فبراير)"
-          januaro: "كانون الثاني (يناير)"
-          julio: "تموز (جوان أو يوليه)"
-          junio: "حزيران (يونيه)"
-          majo: "أيار (ماي)"
-          marto: "آزار (مارس)"
-          monatoj: الأشهر
-          novembro: "تشرين الثاني (نوفمبر)"
-          oktobro: "تشرين الأول (أكتوبر)"
-          septembro: "أيلول (شتنبر أو سبتمبر)"
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "الإثبات :"
-            aserto-frazo: "الخبز جاف."
-          demandaj: الاستفهام
-          demandaj-ekzpliko: "مقابل \"هل\" بالإسبرانتو هو \"ĉu\" ، تضاف على أول الجملة دون تغيير في ترتيب الكلمات ، ويجاب عليها بـ\"نعم\" و\"لا\"."
-          demando: 
-            demando: "السؤال :"
-            demando-frazo: "هل الخبز جاف؟"
-          respondo: 
-            respondo: "الجواب :"
-            respondo-frazo-negativa: "لا ، ليس الخبز جافا."
-            respondo-frazo-pozitiva: "نعم ، الخبز جاف"
-      pagxo05: 
+        titolo: الأيام
+      tekstokompreno: 
+        ekspliko: "كتب طالب إسبرانتو النص التالي. حاول أن تقرأه مستعينا بالمفردات أدناه عند الحاجة :"
+        titolo: قطعة
+        vortaro: 
+          alia: آخر
+          antaŭ: "قبل أو أمام"
+          facila: سهل
+          interŝanĝi: "أن يستبدل"
+          komenci: "أن يبدأ"
+          lerni: "أن يتعلم"
+          tre: جدًا
+      vortaro04: 
         infano: طفل
         kaj: و
         kolekti: "أن يجمع"
@@ -85,14 +94,3 @@ ar:
         vojaĝi: "أن يسافر"
         ĵurnalo: "مجلة أو جريدة"
         ŝuo: حزاء
-      pagxo06: 
-        tekstokompreno: قطعة
-        tekstokompreno-ekzpliko: "كتب طالب إسبرانتو النص التالي. حاول أن تقرأه مستعينا بالمفردات أدناه عند الحاجة :"
-        vortaro: 
-          alia: آخر
-          antaŭ: "قبل أو أمام"
-          facila: سهل
-          interŝanĝi: "أن يستبدل"
-          komenci: "أن يبدأ"
-          lerni: "أن يتعلم"
-          tre: جدًا

@@ -2,23 +2,56 @@
 ko: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: 안녕하세요(반갑습니다)!
-        saluto02: "안녕하세요(낮 인사)!"
-        saluto03: 안녕하세요(아침인사)!
-        saluto04: 안녕하세요(저녁인사)!
-        saluto05: "안녕히 주무세요(밤에, 작별인사)!"
-        saluto06: "당신은 어떻게 지냅니까?"
-        saluto07: "잘지냅니다. 감사합니다. 당신은요?"
-        saluto08: "충분히(sufiĉe) 잘 지냅니다."
-        saluto09: "썩 좋진 못합니다."
-        saluto10: "맛있는 식사를!(맛있게 드세요.많이 드세요)"
-        saluto11: "당신에게도 똑같이, 고맙습니다!"
-        saluto12: "당신의 건강을 위하여!"
-        saluto13: "(Ĝis revido!)다시 만납시다.(안녕히 계십시오)"
-        saluto14: Adiaŭ안녕히(작별인사)
-        salutoj: 인사
-      pagxo02: 
+      datoj: 
+        ekspliko: "날짜는 아래 모델(일(tago)과 일년의(en la jaro)라는 말이 내포됨)을 따라 날짜를 말해 보세요:"
+        titolo: 날짜
+      demandoj: 
+        aserto: 
+          frazo-1: "그 빵은 말라 있다(딱딱하다)."
+          titolo: "평서문(주의, 주목):"
+        demando: 
+          frazo-1: "(Ĉu) 그 빵은 말라 있습니까(딱딱한가요)?"
+          titolo: "질문:"
+        ekspliko: |-
+            모든 질문(의문문)을 만들 때, 평서문에 <Ĉu>를  그 문장 앞에 두기만 하면 됩니다.
+            에스페란토에서는어순의 변화는 없지만, 일반의문문을 만드는 부사인 <Ĉu>만 앞에 두기만 하면 된다는 점만 기억해 두세요. 이것은 <jes><ne>의 대답을 요구하는 모든 의문문에 적용됩니다.
+            주목할 점은, 에스페란토의 의문 문을 만들 때 어순의 변화는 없고, 다만문장 앞에 <Ĉu>를 붙이기만 하면 된다. 이 의문문은 그문문의 대답이<예(jes)>나 <아니오(ne)가 되든지 상관없이 차별없이 그런 형태를 취한다.
+        respondo: 
+          frazo-negativa: "아뇨, 그 빵은 말라 있지 않습니다(딱딱하지 않습니다)."
+          frazo-pozitiva: "예, 그 빵은 말라 있습니다.(딱딱합니다.)"
+          titolo: "대답:"
+        titolo: 의문문
+      monatoj: 
+        aprilo: 사월
+        aŭgusto: aŭgusto팔월
+        decembro: 십이월
+        februaro: 이월
+        januaro: 일월
+        julio: 칠월
+        junio: 유월
+        majo: 오월
+        marto: 삼월
+        novembro: 십일월
+        oktobro: 시월
+        septembro: 구월
+        titolo: "일년의 각 달(일월,이월,삼월 ,...)"
+      salutoj: 
+        saluto-1: 안녕하세요(반갑습니다)!
+        saluto-10: "맛있는 식사를!(맛있게 드세요.많이 드세요)"
+        saluto-11: "당신에게도 똑같이, 고맙습니다!"
+        saluto-12: "당신의 건강을 위하여!"
+        saluto-13: "(Ĝis revido!)다시 만납시다.(안녕히 계십시오)"
+        saluto-14: Adiaŭ안녕히(작별인사)
+        saluto-2: "안녕하세요(낮 인사)!"
+        saluto-3: 안녕하세요(아침인사)!
+        saluto-4: 안녕하세요(저녁인사)!
+        saluto-5: "안녕히 주무세요(밤에, 작별인사)!"
+        saluto-6: "당신은 어떻게 지냅니까?"
+        saluto-7: "잘지냅니다. 감사합니다. 당신은요?"
+        saluto-8: "충분히(sufiĉe) 잘 지냅니다."
+        saluto-9: "썩 좋진 못합니다."
+        titolo: 인사
+      tagoj: 
         relativoj: 
           hieraŭ: hieraŭ어제
           hodiaŭ: hodiaŭ오늘
@@ -31,43 +64,19 @@ ko:
           sabato: 토요일
           vendredo: 금요일
           ĵaŭdo: ĵaŭdo목요일
-        tagoj: "일주일의 각요일(월,화,수...)"
-      pagxo03: 
-        datoj: 
-          datoj: 날짜
-          datoj-ekzpliko: "날짜는 아래 모델(일(tago)과 일년의(en la jaro)라는 말이 내포됨)을 따라 날짜를 말해 보세요:"
-        monatoj: 
-          aprilo: 사월
-          aŭgusto: aŭgusto팔월
-          decembro: 십이월
-          februaro: 이월
-          januaro: 일월
-          julio: 칠월
-          junio: 유월
-          majo: 오월
-          marto: 삼월
-          monatoj: "일년의 각 달(일월,이월,삼월 ,...)"
-          novembro: 십일월
-          oktobro: 시월
-          septembro: 구월
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "평서문(주의, 주목):"
-            aserto-frazo: "그 빵은 말라 있다(딱딱하다)."
-          demandaj: 의문문
-          demandaj-ekzpliko: |-
-              모든 질문(의문문)을 만들 때, 평서문에 <Ĉu>를  그 문장 앞에 두기만 하면 됩니다.
-              에스페란토에서는어순의 변화는 없지만, 일반의문문을 만드는 부사인 <Ĉu>만 앞에 두기만 하면 된다는 점만 기억해 두세요. 이것은 <jes><ne>의 대답을 요구하는 모든 의문문에 적용됩니다.
-              주목할 점은, 에스페란토의 의문 문을 만들 때 어순의 변화는 없고, 다만문장 앞에 <Ĉu>를 붙이기만 하면 된다. 이 의문문은 그문문의 대답이<예(jes)>나 <아니오(ne)가 되든지 상관없이 차별없이 그런 형태를 취한다.
-          demando: 
-            demando: "질문:"
-            demando-frazo: "(Ĉu) 그 빵은 말라 있습니까(딱딱한가요)?"
-          respondo: 
-            respondo: "대답:"
-            respondo-frazo-negativa: "아뇨, 그 빵은 말라 있지 않습니다(딱딱하지 않습니다)."
-            respondo-frazo-pozitiva: "예, 그 빵은 말라 있습니다.(딱딱합니다.)"
-      pagxo05: 
+        titolo: "일주일의 각요일(월,화,수...)"
+      tekstokompreno: 
+        ekspliko: "에스페란토를 배우는학생이 쓴 아래의 문장을 읽고, 사전을 사용하여 그 문장을 이해하도록 하세요."
+        titolo: 텍스트이해
+        vortaro: 
+          alia: "다른, 등등"
+          antaŭ: antaŭ앞에(이전에)
+          facila: "쉬운, 쉽다, 용이한 , 용이하다"
+          interŝanĝi: "interŝanĝi교환하다,바꾸다"
+          komenci: "(...)을 시작하다, 개시하다"
+          lerni: "(...)을 배우다,학습하다"
+          tre: "매우 , 아주 (부사)"
+      vortaro04: 
         infano: "아이,어린이"
         kaj: 그리고(와)(접속사)
         kolekti: "(...)을 모으다, 수집하다"
@@ -88,14 +97,3 @@ ko:
         vojaĝi: vojaĝo여행
         ĵurnalo: ĵurnalo신문
         ŝuo: ĝuo기쁨
-      pagxo06: 
-        tekstokompreno: 텍스트이해
-        tekstokompreno-ekzpliko: "에스페란토를 배우는학생이 쓴 아래의 문장을 읽고, 사전을 사용하여 그 문장을 이해하도록 하세요."
-        vortaro: 
-          alia: "다른, 등등"
-          antaŭ: antaŭ앞에(이전에)
-          facila: "쉬운, 쉽다, 용이한 , 용이하다"
-          interŝanĝi: "interŝanĝi교환하다,바꾸다"
-          komenci: "(...)을 시작하다, 개시하다"
-          lerni: "(...)을 배우다,학습하다"
-          tre: "매우 , 아주 (부사)"

@@ -2,23 +2,53 @@
 en: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: Hello!
-        saluto02: "Good day!"
-        saluto03: "Good morning!"
-        saluto04: "Good evening!"
-        saluto05: "Good night!"
-        saluto06: "How are you?  How do you do? (literally: How are you faring?)"
-        saluto07: "Well, thanks.  And you?"
-        saluto08: "Well enough."
-        saluto09: "Not very well."
-        saluto10: "Good appetite!, Enjoy your meal!"
-        saluto11: "The same to you, thank you!"
-        saluto12: "To your health!"
-        saluto13: "See you soon!"
-        saluto14: "Good bye!"
-        salutoj: Greetings
-      pagxo02: 
+      datoj: 
+        ekspliko: "To say the dates follow the model (the words \"tago\" and \"en la jaro\" are usually left out)."
+        titolo: Dates
+      demandoj: 
+        aserto: 
+          frazo-1: "The bread is dry."
+          titolo: "Affirmation:"
+        demando: 
+          frazo-1: "Is the bread dry?"
+          titolo: "Question:"
+        ekspliko: "Questions are formed by adding the word \"cxu\" before the corresponding affirmative sentence. The word order doesn't change.  This is true for all questions that can be answered by \"yes\" or \"no\"."
+        respondo: 
+          frazo-negativa: "No, the bread is not dry."
+          frazo-pozitiva: "Yes, the bread is dry."
+          titolo: "Answer:"
+        titolo: "Interrogative sentences"
+      monatoj: 
+        aprilo: April
+        aŭgusto: August
+        decembro: December
+        februaro: February
+        januaro: January
+        julio: July
+        junio: June
+        majo: May
+        marto: March
+        novembro: November
+        oktobro: October
+        septembro: September
+        titolo: "Months of the year"
+      salutoj: 
+        saluto-1: Hello!
+        saluto-10: "Good appetite!, Enjoy your meal!"
+        saluto-11: "The same to you, thank you!"
+        saluto-12: "To your health!"
+        saluto-13: "See you soon!"
+        saluto-14: "Good bye!"
+        saluto-2: "Good day!"
+        saluto-3: "Good morning!"
+        saluto-4: "Good evening!"
+        saluto-5: "Good night!"
+        saluto-6: "How are you?  How do you do? (literally: How are you faring?)"
+        saluto-7: "Well, thanks.  And you?"
+        saluto-8: "Well enough."
+        saluto-9: "Not very well."
+        titolo: Greetings
+      tagoj: 
         relativoj: 
           hieraŭ: yesterday
           hodiaŭ: today
@@ -31,40 +61,19 @@ en:
           sabato: Saturday
           vendredo: Friday
           ĵaŭdo: Thursday
-        tagoj: "Days of the week"
-      pagxo03: 
-        datoj: 
-          datoj: Dates
-          datoj-ekzpliko: "To say the dates follow the model (the words \"tago\" and \"en la jaro\" are usually left out)."
-        monatoj: 
-          aprilo: April
-          aŭgusto: August
-          decembro: December
-          februaro: February
-          januaro: January
-          julio: July
-          junio: June
-          majo: May
-          marto: March
-          monatoj: "Months of the year"
-          novembro: November
-          oktobro: October
-          septembro: September
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Affirmation:"
-            aserto-frazo: "The bread is dry."
-          demandaj: "Interrogative sentences"
-          demandaj-ekzpliko: "Questions are formed by adding the word \"cxu\" before the corresponding affirmative sentence. The word order doesn't change.  This is true for all questions that can be answered by \"yes\" or \"no\"."
-          demando: 
-            demando: "Question:"
-            demando-frazo: "Is the bread dry?"
-          respondo: 
-            respondo: "Answer:"
-            respondo-frazo-negativa: "No, the bread is not dry."
-            respondo-frazo-pozitiva: "Yes, the bread is dry."
-      pagxo05: 
+        titolo: "Days of the week"
+      tekstokompreno: 
+        ekspliko: "Please read the following text, written by an Esperanto student, and try to understand it using the vocabulary."
+        titolo: "Reading comprehension"
+        vortaro: 
+          alia: "other, another"
+          antaŭ: before
+          facila: easy
+          interŝanĝi: "to interchange"
+          komenci: "to begin"
+          lerni: "to learn"
+          tre: very
+      vortaro04: 
         infano: child
         kaj: and
         kolekti: "to collect, gather"
@@ -85,14 +94,3 @@ en:
         vojaĝi: "to travel"
         ĵurnalo: "newspaper, journal"
         ŝuo: shoe
-      pagxo06: 
-        tekstokompreno: "Reading comprehension"
-        tekstokompreno-ekzpliko: "Please read the following text, written by an Esperanto student, and try to understand it using the vocabulary."
-        vortaro: 
-          alia: "other, another"
-          antaŭ: before
-          facila: easy
-          interŝanĝi: "to interchange"
-          komenci: "to begin"
-          lerni: "to learn"
-          tre: very

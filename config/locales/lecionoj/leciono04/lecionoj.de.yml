@@ -2,23 +2,53 @@
 de: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: "Sei mir gegrüßt! / Hallo!"
-        saluto02: "Guten Tag!"
-        saluto03: "Guten Morgen!"
-        saluto04: "Guten Abend!"
-        saluto05: "Gute Nacht!"
-        saluto06: "Wie geht es dir?"
-        saluto07: "Gut, danke. Und dir?"
-        saluto08: "Geht so (einigermaßen gut)."
-        saluto09: "Nicht sehr gut."
-        saluto10: "Guten Appetit!"
-        saluto11: "Danke, gleichfalls!"
-        saluto12: "Auf Ihre Gesundheit!"
-        saluto13: "Auf Wiedersehen!"
-        saluto14: "ade! / tschüss!"
-        salutoj: Grüße
-      pagxo02: 
+      datoj: 
+        ekspliko: "Bei der Datumsnennung das Muster befolgen; Wörter wie \"Tag\" oder \"im Jahr\" sind mitgemeint:"
+        titolo: "Das Datum"
+      demandoj: 
+        aserto: 
+          frazo-1: "Das Brot ist trocken."
+          titolo: "Aussage:"
+        demando: 
+          frazo-1: "Ist das Brot trocken?"
+          titolo: "Frage:"
+        ekspliko: "Durch das vorangestellte Fragewort \"ĉu\" behalten die Entscheidungsfragen [Ja/Nein]  im Esperanto die Satzgliedfolge des Aussagesatzes bei - im Unterschied zum Dt., wo das Verb die Frage einleitet."
+        respondo: 
+          frazo-negativa: "Nein, das Brot ist nicht trocken."
+          frazo-pozitiva: "Ja, das Brot ist trocken."
+          titolo: "Antwort:"
+        titolo: Fragesätze
+      monatoj: 
+        aprilo: April
+        aŭgusto: August
+        decembro: Dezember
+        februaro: Februar
+        januaro: Januar
+        julio: Juli
+        junio: Juni
+        majo: Mai
+        marto: März
+        novembro: November
+        oktobro: Oktober
+        septembro: September
+        titolo: "Die Monate"
+      salutoj: 
+        saluto-1: "Sei mir gegrüßt! / Hallo!"
+        saluto-10: "Guten Appetit!"
+        saluto-11: "Danke, gleichfalls!"
+        saluto-12: "Auf Ihre Gesundheit!"
+        saluto-13: "Auf Wiedersehen!"
+        saluto-14: "ade! / tschüss!"
+        saluto-2: "Guten Tag!"
+        saluto-3: "Guten Morgen!"
+        saluto-4: "Guten Abend!"
+        saluto-5: "Gute Nacht!"
+        saluto-6: "Wie geht es dir?"
+        saluto-7: "Gut, danke. Und dir?"
+        saluto-8: "Geht so (einigermaßen gut)."
+        saluto-9: "Nicht sehr gut."
+        titolo: Grüße
+      tagoj: 
         relativoj: 
           hieraŭ: gestern
           hodiaŭ: heute
@@ -31,40 +61,19 @@ de:
           sabato: Samstag
           vendredo: Freitag
           ĵaŭdo: Donnerstag
-        tagoj: "Die Wochentage"
-      pagxo03: 
-        datoj: 
-          datoj: "Das Datum"
-          datoj-ekzpliko: "Bei der Datumsnennung das Muster befolgen; Wörter wie \"Tag\" oder \"im Jahr\" sind mitgemeint:"
-        monatoj: 
-          aprilo: April
-          aŭgusto: August
-          decembro: Dezember
-          februaro: Februar
-          januaro: Januar
-          julio: Juli
-          junio: Juni
-          majo: Mai
-          marto: März
-          monatoj: "Die Monate"
-          novembro: November
-          oktobro: Oktober
-          septembro: September
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Aussage:"
-            aserto-frazo: "Das Brot ist trocken."
-          demandaj: Fragesätze
-          demandaj-ekzpliko: "Durch das vorangestellte Fragewort \"ĉu\" behalten die Entscheidungsfragen [Ja/Nein]  im Esperanto die Satzgliedfolge des Aussagesatzes bei - im Unterschied zum Dt., wo das Verb die Frage einleitet."
-          demando: 
-            demando: "Frage:"
-            demando-frazo: "Ist das Brot trocken?"
-          respondo: 
-            respondo: "Antwort:"
-            respondo-frazo-negativa: "Nein, das Brot ist nicht trocken."
-            respondo-frazo-pozitiva: "Ja, das Brot ist trocken."
-      pagxo05: 
+        titolo: "Die Wochentage"
+      tekstokompreno: 
+        ekspliko: "Lesen Sie den folgenden Text, den ein Esperanto-Lerner verfasst hat - wenn nötig mit Hilfe des Wörterverzeichnisses."
+        titolo: Textverständnis
+        vortaro: 
+          alia: ander
+          antaŭ: vor
+          facila: leicht
+          interŝanĝi: austauschen
+          komenci: beginnen
+          lerni: lernen
+          tre: sehr
+      vortaro04: 
         infano: Kind
         kaj: und
         kolekti: sammeln
@@ -85,14 +94,3 @@ de:
         vojaĝi: reisen
         ĵurnalo: Zeitung
         ŝuo: Schuh
-      pagxo06: 
-        tekstokompreno: Textverständnis
-        tekstokompreno-ekzpliko: "Lesen Sie den folgenden Text, den ein Esperanto-Lerner verfasst hat - wenn nötig mit Hilfe des Wörterverzeichnisses."
-        vortaro: 
-          alia: ander
-          antaŭ: vor
-          facila: leicht
-          interŝanĝi: austauschen
-          komenci: beginnen
-          lerni: lernen
-          tre: sehr

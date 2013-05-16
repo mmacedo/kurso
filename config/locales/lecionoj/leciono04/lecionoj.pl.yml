@@ -2,23 +2,53 @@
 pl: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: "Witaj!  Witajcie!"
-        saluto02: "Dzień dobry!"
-        saluto03: "Dobrego ranka!"
-        saluto04: "Dobry wieczór!"
-        saluto05: "Dobranoc !"
-        saluto06: "Jak się czujesz?"
-        saluto07: "Dobrze, dziękuję, a ty?"
-        saluto08: "Wystarczająco  dobrze."
-        saluto09: "Nie bardzo dobrze."
-        saluto10: "Dobrego apetytu!"
-        saluto11: "To samo tobie, dziękuję!"
-        saluto12: "Na twoje zdrowie!"
-        saluto13: "Do zobaczenia!"
-        saluto14: "Żegnaj! Żegnajcie!"
-        salutoj: Powitania
-      pagxo02: 
+      datoj: 
+        ekspliko: "By podać datę użyj modelu ( \"dzień\" )  i  ( \"w roku\" ) 13.Jan.1964 = (13 stycznia ) ( w 1964r )"
+        titolo: Daty
+      demandoj: 
+        aserto: 
+          frazo-1: "Chleb jest suchy."
+          titolo: "Twierdzenie:"
+        demando: 
+          frazo-1: "Czy chleb jest suchy?"
+          titolo: "Pytanie:"
+        ekspliko: "Każde pytanie buduje się na twierdzeniu, stawiając tylko na początku zdania słówko  \"Czy\". To obowiązuje dla wszystkich pytań, na które odpowiedź jest   \"tak\", lub  \"nie\"."
+        respondo: 
+          frazo-negativa: "Nie, chleb nie jest suchy."
+          frazo-pozitiva: "Tak, chleb jest suchy."
+          titolo: "Odpowiedź:"
+        titolo: "Zdania pytające"
+      monatoj: 
+        aprilo: kwiecień
+        aŭgusto: sierpień
+        decembro: grudzień
+        februaro: luty
+        januaro: styczeń
+        julio: lipiec
+        junio: czerwiec
+        majo: maj
+        marto: marzec
+        novembro: listopad
+        oktobro: październik
+        septembro: wrzesień
+        titolo: "Miesiące roku"
+      salutoj: 
+        saluto-1: "Witaj!  Witajcie!"
+        saluto-10: "Dobrego apetytu!"
+        saluto-11: "To samo tobie, dziękuję!"
+        saluto-12: "Na twoje zdrowie!"
+        saluto-13: "Do zobaczenia!"
+        saluto-14: "Żegnaj! Żegnajcie!"
+        saluto-2: "Dzień dobry!"
+        saluto-3: "Dobrego ranka!"
+        saluto-4: "Dobry wieczór!"
+        saluto-5: "Dobranoc !"
+        saluto-6: "Jak się czujesz?"
+        saluto-7: "Dobrze, dziękuję, a ty?"
+        saluto-8: "Wystarczająco  dobrze."
+        saluto-9: "Nie bardzo dobrze."
+        titolo: Powitania
+      tagoj: 
         relativoj: 
           hieraŭ: wczoraj
           hodiaŭ: dzisiaj
@@ -31,40 +61,19 @@ pl:
           sabato: sobota
           vendredo: piątek
           ĵaŭdo: czwartek
-        tagoj: "Dni tygodnia"
-      pagxo03: 
-        datoj: 
-          datoj: Daty
-          datoj-ekzpliko: "By podać datę użyj modelu ( \"dzień\" )  i  ( \"w roku\" ) 13.Jan.1964 = (13 stycznia ) ( w 1964r )"
-        monatoj: 
-          aprilo: kwiecień
-          aŭgusto: sierpień
-          decembro: grudzień
-          februaro: luty
-          januaro: styczeń
-          julio: lipiec
-          junio: czerwiec
-          majo: maj
-          marto: marzec
-          monatoj: "Miesiące roku"
-          novembro: listopad
-          oktobro: październik
-          septembro: wrzesień
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Twierdzenie:"
-            aserto-frazo: "Chleb jest suchy."
-          demandaj: "Zdania pytające"
-          demandaj-ekzpliko: "Każde pytanie buduje się na twierdzeniu, stawiając tylko na początku zdania słówko  \"Czy\". To obowiązuje dla wszystkich pytań, na które odpowiedź jest   \"tak\", lub  \"nie\"."
-          demando: 
-            demando: "Pytanie:"
-            demando-frazo: "Czy chleb jest suchy?"
-          respondo: 
-            respondo: "Odpowiedź:"
-            respondo-frazo-negativa: "Nie, chleb nie jest suchy."
-            respondo-frazo-pozitiva: "Tak, chleb jest suchy."
-      pagxo05: 
+        titolo: "Dni tygodnia"
+      tekstokompreno: 
+        ekspliko: "Przeczytaj poniższy tekst, napisany przez ucznia Esperanta i spróbuj  go zrozumieć z pomocą słownika."
+        titolo: "Rozumienie tekstu"
+        vortaro: 
+          alia: inny
+          antaŭ: przed
+          facila: łatwy
+          interŝanĝi: wymieniać
+          komenci: zaczynać
+          lerni: "uczyć się"
+          tre: bardzo
+      vortaro04: 
         infano: dziecko
         kaj: "i, a"
         kolekti: zbierać
@@ -85,14 +94,3 @@ pl:
         vojaĝi: podróżować
         ĵurnalo: dziennik
         ŝuo: but
-      pagxo06: 
-        tekstokompreno: "Rozumienie tekstu"
-        tekstokompreno-ekzpliko: "Przeczytaj poniższy tekst, napisany przez ucznia Esperanta i spróbuj  go zrozumieć z pomocą słownika."
-        vortaro: 
-          alia: inny
-          antaŭ: przed
-          facila: łatwy
-          interŝanĝi: wymieniać
-          komenci: zaczynać
-          lerni: "uczyć się"
-          tre: bardzo

@@ -2,23 +2,53 @@
 it: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: "Ciao! / Salve! (-> nota B2g)"
-        saluto02: "Buon giorno!"
-        saluto03: "Buon mattino!"
-        saluto04: "Buona sera!"
-        saluto05: "Buona notte!"
-        saluto06: "Come stai? / Come va [la salute]?"
-        saluto07: "Bene, grazie. E tu?"
-        saluto08: "Abbastanza bene."
-        saluto09: "Non molto bene."
-        saluto10: "Buon appetito!"
-        saluto11: "Altrettanto a te, grazie!"
-        saluto12: "Alla tua salute!"
-        saluto13: Arrivederci!
-        saluto14: Addio!
-        salutoj: Saluti
-      pagxo02: 
+      datoj: 
+        ekspliko: "Per esprimere le date, segui il modello (le locuzioni \"tago\" e \"en la jaro\" si sottintendono):"
+        titolo: Date
+      demandoj: 
+        aserto: 
+          frazo-1: "Il pane è secco."
+          titolo: "Affermazione:"
+        demando: 
+          frazo-1: "Il pane è secco?"
+          titolo: "Domanda:"
+        ekspliko: "Qualunque asserzione si trasforma nella corrispondente domanda anteponendole la particella \"Ĉu\". L'ordine delle parole in esperanto rimane invariato; la sola trasformazione consiste nel porre la particella \"ĉu\" all'inizio della frase. Ciò vale per tutte le domande a cui si risponde \"sì\" o \"no\"."
+        respondo: 
+          frazo-negativa: "No, il pane non è secco."
+          frazo-pozitiva: "Sì, il pane è secco."
+          titolo: "Risposta:"
+        titolo: "Frasi interrogative"
+      monatoj: 
+        aprilo: aprile
+        aŭgusto: agosto
+        decembro: dicembre
+        februaro: febbraio
+        januaro: gennaio
+        julio: luglio
+        junio: giugno
+        majo: maggio
+        marto: marzo
+        novembro: novembre
+        oktobro: ottobre
+        septembro: settembre
+        titolo: "I mesi dell'anno"
+      salutoj: 
+        saluto-1: "Ciao! / Salve! (-> nota B2g)"
+        saluto-10: "Buon appetito!"
+        saluto-11: "Altrettanto a te, grazie!"
+        saluto-12: "Alla tua salute!"
+        saluto-13: Arrivederci!
+        saluto-14: Addio!
+        saluto-2: "Buon giorno!"
+        saluto-3: "Buon mattino!"
+        saluto-4: "Buona sera!"
+        saluto-5: "Buona notte!"
+        saluto-6: "Come stai? / Come va [la salute]?"
+        saluto-7: "Bene, grazie. E tu?"
+        saluto-8: "Abbastanza bene."
+        saluto-9: "Non molto bene."
+        titolo: Saluti
+      tagoj: 
         relativoj: 
           hieraŭ: ieri
           hodiaŭ: oggi
@@ -31,40 +61,19 @@ it:
           sabato: sabato
           vendredo: venerdì
           ĵaŭdo: giovedì
-        tagoj: "I giorni della settimana"
-      pagxo03: 
-        datoj: 
-          datoj: Date
-          datoj-ekzpliko: "Per esprimere le date, segui il modello (le locuzioni \"tago\" e \"en la jaro\" si sottintendono):"
-        monatoj: 
-          aprilo: aprile
-          aŭgusto: agosto
-          decembro: dicembre
-          februaro: febbraio
-          januaro: gennaio
-          julio: luglio
-          junio: giugno
-          majo: maggio
-          marto: marzo
-          monatoj: "I mesi dell'anno"
-          novembro: novembre
-          oktobro: ottobre
-          septembro: settembre
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Affermazione:"
-            aserto-frazo: "Il pane è secco."
-          demandaj: "Frasi interrogative"
-          demandaj-ekzpliko: "Qualunque asserzione si trasforma nella corrispondente domanda anteponendole la particella \"Ĉu\". L'ordine delle parole in esperanto rimane invariato; la sola trasformazione consiste nel porre la particella \"ĉu\" all'inizio della frase. Ciò vale per tutte le domande a cui si risponde \"sì\" o \"no\"."
-          demando: 
-            demando: "Domanda:"
-            demando-frazo: "Il pane è secco?"
-          respondo: 
-            respondo: "Risposta:"
-            respondo-frazo-negativa: "No, il pane non è secco."
-            respondo-frazo-pozitiva: "Sì, il pane è secco."
-      pagxo05: 
+        titolo: "I giorni della settimana"
+      tekstokompreno: 
+        ekspliko: "Leggi il testo sottostante, scritto da uno studente di esperanto, e sforzati di capirlo con l'aiuto dei vocaboli allegati."
+        titolo: "Comprensione del testo"
+        vortaro: 
+          alia: "altro / a"
+          antaŭ: "davanti a, prima di, [tempo] fa"
+          facila: facile
+          interŝanĝi: scambiare
+          komenci: cominciare
+          lerni: "imparare, studiare"
+          tre: molto
+      vortaro04: 
         infano: "[un] bambino"
         kaj: e
         kolekti: raccogliere
@@ -85,14 +94,3 @@ it:
         vojaĝi: viaggiare
         ĵurnalo: "[un] giornale"
         ŝuo: "[una] scarpa"
-      pagxo06: 
-        tekstokompreno: "Comprensione del testo"
-        tekstokompreno-ekzpliko: "Leggi il testo sottostante, scritto da uno studente di esperanto, e sforzati di capirlo con l'aiuto dei vocaboli allegati."
-        vortaro: 
-          alia: "altro / a"
-          antaŭ: "davanti a, prima di, [tempo] fa"
-          facila: facile
-          interŝanĝi: scambiare
-          komenci: cominciare
-          lerni: "imparare, studiare"
-          tre: molto

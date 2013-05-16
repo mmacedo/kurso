@@ -2,23 +2,53 @@
 la: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: Sveiks!
-        saluto02: Labdien!
-        saluto03: Labrīt!
-        saluto04: Labvakar!
-        saluto05: "Ar labu nakti!"
-        saluto06: "Kā jums klājas?"
-        saluto07: "Paldies, labi. Un jums?"
-        saluto08: "Pietiekami labi."
-        saluto09: "Ne ļoti labi."
-        saluto10: "Labu apetīti!"
-        saluto11: "Paldies, jums tāpat!"
-        saluto12: "Uz veselību!"
-        saluto13: "Uz redzēšanos!"
-        saluto14: "Ar Dievu!"
-        salutoj: Sasveicināšanās
-      pagxo02: 
+      datoj: 
+        ekspliko: "Lai izteiktu datumus, sekojiet piemēram. Vārdi \"tago\" un \"en la jaro\" netiek lietoti:"
+        titolo: Datumi
+      demandoj: 
+        aserto: 
+          frazo-1: "Maize ir sausa."
+          titolo: "Apgalvojums:"
+        demando: 
+          frazo-1: "Vai maize ir sausa?"
+          titolo: "Jautājums:"
+        ekspliko: "Jebkurš jautājums tiek veidots uz apgalvojuma vai nolieguma, kuram pirms frāzes tiek pievienots vārds \"Ĉu\". Pievērsiet uzmanību, ka vārdu kārtība esperanto valodā netiek mainīta, tikai pirms frāzes pievieno vārdu \"Ĉu\". Tas ir derīgs visiem jautājumiem, kuriem atbildes būs \"jes - jā\" vai \"ne - nē\""
+        respondo: 
+          frazo-negativa: "Nē, maize nav sausa."
+          frazo-pozitiva: "Jā, maize ir sausa."
+          titolo: "Atbilde:"
+        titolo: "Jautājamās frāzes"
+      monatoj: 
+        aprilo: aprīlis
+        aŭgusto: augusts
+        decembro: decembris
+        februaro: februāris
+        januaro: janvāris
+        julio: jūlijs
+        junio: jūnijs
+        majo: maijs
+        marto: marts
+        novembro: novembris
+        oktobro: oktobris
+        septembro: septembris
+        titolo: "Gada mēneši"
+      salutoj: 
+        saluto-1: Sveiks!
+        saluto-10: "Labu apetīti!"
+        saluto-11: "Paldies, jums tāpat!"
+        saluto-12: "Uz veselību!"
+        saluto-13: "Uz redzēšanos!"
+        saluto-14: "Ar Dievu!"
+        saluto-2: Labdien!
+        saluto-3: Labrīt!
+        saluto-4: Labvakar!
+        saluto-5: "Ar labu nakti!"
+        saluto-6: "Kā jums klājas?"
+        saluto-7: "Paldies, labi. Un jums?"
+        saluto-8: "Pietiekami labi."
+        saluto-9: "Ne ļoti labi."
+        titolo: Sasveicināšanās
+      tagoj: 
         relativoj: 
           hieraŭ: vakar
           hodiaŭ: šodien
@@ -31,40 +61,19 @@ la:
           sabato: sestdiena
           vendredo: piektdiena
           ĵaŭdo: ceturtdiena
-        tagoj: "Nedēļas dienas"
-      pagxo03: 
-        datoj: 
-          datoj: Datumi
-          datoj-ekzpliko: "Lai izteiktu datumus, sekojiet piemēram. Vārdi \"tago\" un \"en la jaro\" netiek lietoti:"
-        monatoj: 
-          aprilo: aprīlis
-          aŭgusto: augusts
-          decembro: decembris
-          februaro: februāris
-          januaro: janvāris
-          julio: jūlijs
-          junio: jūnijs
-          majo: maijs
-          marto: marts
-          monatoj: "Gada mēneši"
-          novembro: novembris
-          oktobro: oktobris
-          septembro: septembris
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Apgalvojums:"
-            aserto-frazo: "Maize ir sausa."
-          demandaj: "Jautājamās frāzes"
-          demandaj-ekzpliko: "Jebkurš jautājums tiek veidots uz apgalvojuma vai nolieguma, kuram pirms frāzes tiek pievienots vārds \"Ĉu\". Pievērsiet uzmanību, ka vārdu kārtība esperanto valodā netiek mainīta, tikai pirms frāzes pievieno vārdu \"Ĉu\". Tas ir derīgs visiem jautājumiem, kuriem atbildes būs \"jes - jā\" vai \"ne - nē\""
-          demando: 
-            demando: "Jautājums:"
-            demando-frazo: "Vai maize ir sausa?"
-          respondo: 
-            respondo: "Atbilde:"
-            respondo-frazo-negativa: "Nē, maize nav sausa."
-            respondo-frazo-pozitiva: "Jā, maize ir sausa."
-      pagxo05: 
+        titolo: "Nedēļas dienas"
+      tekstokompreno: 
+        ekspliko: "Izlasiet apakšā doto tekstu, kuru ir izrakstījis esperanto skolnieks un pamēģiniet to saprast izmantojot vārdnīcu."
+        titolo: "Teksta izpratne"
+        vortaro: 
+          alia: cits
+          antaŭ: "pirms, priekšā"
+          facila: viegls
+          interŝanĝi: apmainīties
+          komenci: sākt
+          lerni: mācīties
+          tre: ļoti
+      vortaro04: 
         infano: bērns
         kaj: un
         kolekti: "kolekcionēt, savākt"
@@ -85,14 +94,3 @@ la:
         vojaĝi: ceļot
         ĵurnalo: "avīze, laikraksts"
         ŝuo: kurpe
-      pagxo06: 
-        tekstokompreno: "Teksta izpratne"
-        tekstokompreno-ekzpliko: "Izlasiet apakšā doto tekstu, kuru ir izrakstījis esperanto skolnieks un pamēģiniet to saprast izmantojot vārdnīcu."
-        vortaro: 
-          alia: cits
-          antaŭ: "pirms, priekšā"
-          facila: viegls
-          interŝanĝi: apmainīties
-          komenci: sākt
-          lerni: mācīties
-          tre: ļoti

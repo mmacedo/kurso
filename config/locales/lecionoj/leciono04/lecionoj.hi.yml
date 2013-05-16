@@ -2,23 +2,53 @@
 hi: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: नमस्ते!
-        saluto02: "शुभ दिन!"
-        saluto03: "शुभ प्रातः काल !"
-        saluto04: "शुभ संध्या!"
-        saluto05: "शुभ रात्री!"
-        saluto06: "आप कैसें हैं?"
-        saluto07: "अच्छे, धन्यवाद, और आप?"
-        saluto08: "बहुत अच्छे हैं."
-        saluto09: "उतना अच्छे नहीं हैं."
-        saluto10: "अच्छे खाईये!"
-        saluto11: "आपको भी, धन्यवाद!"
-        saluto12: "तबियत के लिए !"
-        saluto13: "फिर मिलेंगे!"
-        saluto14: "फिर मिलेंगे!"
-        salutoj: नमस्ते
-      pagxo02: 
+      datoj: 
+        ekspliko: "दिन कहने के लिए इस तरह उपयोग कीजिये. दिन और महीने दुसरे बाषा से लिया गया हैं और आप इसको जल्दी समझ पाएंगे."
+        titolo: दिनांक
+      demandoj: 
+        aserto: 
+          frazo-1: "रोटी सूखा हैं."
+          titolo: "दृढ़-वचन:"
+        demando: 
+          frazo-1: "क्या रोटी सूखा हैं?"
+          titolo: "प्रश्न:"
+        ekspliko: "हम जब प्रश्न बनाते हैं हमे बस \"ĉu\" को उपयोग करना हैं. वाख्य का अर्थ कभी नहीं बदलता पर जब हम \"ĉu\" इस शब्द का उपयोग करते हैं तब इसका उत्तार \"Jes\" और \"Ne\" मैं हो सकता हैं."
+        respondo: 
+          frazo-negativa: "नहीं, रोटी सूखा नहीं हैं."
+          frazo-pozitiva: "हाँ, रोटी सूखा हैं."
+          titolo: "जवाब:"
+        titolo: "वाख्य प्रश्न"
+      monatoj: 
+        aprilo: अप्रेल
+        aŭgusto: अगस्त
+        decembro: दिसम्बर
+        februaro: फरवरी
+        januaro: जनवरी
+        julio: जूलाई
+        junio: जून
+        majo: मई
+        marto: मार्च
+        novembro: नवम्बर
+        oktobro: अक्टूबर
+        septembro: सितम्बर
+        titolo: "साल के महीने"
+      salutoj: 
+        saluto-1: नमस्ते!
+        saluto-10: "अच्छे खाईये!"
+        saluto-11: "आपको भी, धन्यवाद!"
+        saluto-12: "तबियत के लिए !"
+        saluto-13: "फिर मिलेंगे!"
+        saluto-14: "फिर मिलेंगे!"
+        saluto-2: "शुभ दिन!"
+        saluto-3: "शुभ प्रातः काल !"
+        saluto-4: "शुभ संध्या!"
+        saluto-5: "शुभ रात्री!"
+        saluto-6: "आप कैसें हैं?"
+        saluto-7: "अच्छे, धन्यवाद, और आप?"
+        saluto-8: "बहुत अच्छे हैं."
+        saluto-9: "उतना अच्छे नहीं हैं."
+        titolo: नमस्ते
+      tagoj: 
         relativoj: 
           hieraŭ: कल
           hodiaŭ: आज
@@ -31,40 +61,21 @@ hi:
           sabato: शनिवार
           vendredo: शुक्रवार
           ĵaŭdo: गुरूवार
-        tagoj: "हफ्ते के दिन"
-      pagxo03: 
-        datoj: 
-          datoj: दिनांक
-          datoj-ekzpliko: "दिन कहने के लिए इस तरह उपयोग कीजिये. दिन और महीने दुसरे बाषा से लिया गया हैं और आप इसको जल्दी समझ पाएंगे."
-        monatoj: 
-          aprilo: अप्रेल
-          aŭgusto: अगस्त
-          decembro: दिसम्बर
-          februaro: फरवरी
-          januaro: जनवरी
-          julio: जूलाई
-          junio: जून
-          majo: मई
-          marto: मार्च
-          monatoj: "साल के महीने"
-          novembro: नवम्बर
-          oktobro: अक्टूबर
-          septembro: सितम्बर
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "दृढ़-वचन:"
-            aserto-frazo: "रोटी सूखा हैं."
-          demandaj: "वाख्य प्रश्न"
-          demandaj-ekzpliko: "हम जब प्रश्न बनाते हैं हमे बस \"ĉu\" को उपयोग करना हैं. वाख्य का अर्थ कभी नहीं बदलता पर जब हम \"ĉu\" इस शब्द का उपयोग करते हैं तब इसका उत्तार \"Jes\" और \"Ne\" मैं हो सकता हैं."
-          demando: 
-            demando: "प्रश्न:"
-            demando-frazo: "क्या रोटी सूखा हैं?"
-          respondo: 
-            respondo: "जवाब:"
-            respondo-frazo-negativa: "नहीं, रोटी सूखा नहीं हैं."
-            respondo-frazo-pozitiva: "हाँ, रोटी सूखा हैं."
-      pagxo05: 
+        titolo: "हफ्ते के दिन"
+      tekstokompreno: 
+        ekspliko: |-
+            निचे दिए गए शब्दों पड़ने की कोशिश कीजिये, इसे एस्पेरान्तो पड़ने वाला लिखा हैं, और पड़ते पड़ते
+            शब्दकोश के उपयोग से समझने की कोशिश कीजिये.
+        titolo: "वाख्य समझना"
+        vortaro: 
+          alia: अन्य
+          antaŭ: "के सामने"
+          facila: आसान
+          interŝanĝi: "अदला बदला करना"
+          komenci: "जारी करना"
+          lerni: "ज्ञान प्राप्त करना"
+          tre: बहूत
+      vortaro04: 
         infano: बच्चा
         kaj: और
         kolekti: "जमा होना"
@@ -85,16 +96,3 @@ hi:
         vojaĝi: "यात्रा करना"
         ĵurnalo: अखबार
         ŝuo: जूता
-      pagxo06: 
-        tekstokompreno: "वाख्य समझना"
-        tekstokompreno-ekzpliko: |-
-            निचे दिए गए शब्दों पड़ने की कोशिश कीजिये, इसे एस्पेरान्तो पड़ने वाला लिखा हैं, और पड़ते पड़ते
-            शब्दकोश के उपयोग से समझने की कोशिश कीजिये.
-        vortaro: 
-          alia: अन्य
-          antaŭ: "के सामने"
-          facila: आसान
-          interŝanĝi: "अदला बदला करना"
-          komenci: "जारी करना"
-          lerni: "ज्ञान प्राप्त करना"
-          tre: बहूत

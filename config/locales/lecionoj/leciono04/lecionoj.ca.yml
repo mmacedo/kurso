@@ -2,23 +2,53 @@
 ca: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: Hola!
-        saluto02: "Bon dia! (a qualsevol moment del dia)"
-        saluto03: "Bon dia! Bon matí!"
-        saluto04: "Bona tarda! Bona nit!"
-        saluto05: "Bona nit! (en anar a dormir)"
-        saluto06: "Com estàs?"
-        saluto07: "Bé, gràcies. I tu?"
-        saluto08: "Prou bé."
-        saluto09: "No gaire bé."
-        saluto10: "Bon profit!"
-        saluto11: "Igualment, gràcies!"
-        saluto12: Salut!
-        saluto13: "A reveure! Adéu!"
-        saluto14: "Adéu! (comiat per una llarga durada)"
-        salutoj: Salutacions
-      pagxo02: 
+      datoj: 
+        ekspliko: "Per dir la data, seguiu el model (les paraules \"tago\" -dia- i \"en la jaro\" -de l'any- són implícites)"
+        titolo: Dates
+      demandoj: 
+        aserto: 
+          frazo-1: "El pa està sec."
+          titolo: "Afirmació:"
+        demando: 
+          frazo-1: "Que està sec el pa?"
+          titolo: "Pregunta:"
+        ekspliko: "Totes les preguntes es construeixen sobre l'afirmació o la negació, simplement col·locant la paraula \"ĉu\" al principi de l'oració. Tingueu en compte que l'ordre de les paraules en esperanto no varia, només es col·loca la paraula \"ĉu\" davant de la frase. Això val per a les preguntes amb resposta \"sí\" o \"no\"."
+        respondo: 
+          frazo-negativa: "No, el pa no està sec."
+          frazo-pozitiva: "Sí, el pa està sec."
+          titolo: "Resposta:"
+        titolo: "Oracions interrogatives"
+      monatoj: 
+        aprilo: abril
+        aŭgusto: agost
+        decembro: desembre
+        februaro: febrer
+        januaro: gener
+        julio: juliol
+        junio: juny
+        majo: maig
+        marto: març
+        novembro: novembre
+        oktobro: octubre
+        septembro: setembre
+        titolo: "Mesos de l'any"
+      salutoj: 
+        saluto-1: Hola!
+        saluto-10: "Bon profit!"
+        saluto-11: "Igualment, gràcies!"
+        saluto-12: Salut!
+        saluto-13: "A reveure! Adéu!"
+        saluto-14: "Adéu! (comiat per una llarga durada)"
+        saluto-2: "Bon dia! (a qualsevol moment del dia)"
+        saluto-3: "Bon dia! Bon matí!"
+        saluto-4: "Bona tarda! Bona nit!"
+        saluto-5: "Bona nit! (en anar a dormir)"
+        saluto-6: "Com estàs?"
+        saluto-7: "Bé, gràcies. I tu?"
+        saluto-8: "Prou bé."
+        saluto-9: "No gaire bé."
+        titolo: Salutacions
+      tagoj: 
         relativoj: 
           hieraŭ: ahir
           hodiaŭ: avui
@@ -31,40 +61,19 @@ ca:
           sabato: dissabte
           vendredo: divendres
           ĵaŭdo: dijous
-        tagoj: "Dies de la setmana"
-      pagxo03: 
-        datoj: 
-          datoj: Dates
-          datoj-ekzpliko: "Per dir la data, seguiu el model (les paraules \"tago\" -dia- i \"en la jaro\" -de l'any- són implícites)"
-        monatoj: 
-          aprilo: abril
-          aŭgusto: agost
-          decembro: desembre
-          februaro: febrer
-          januaro: gener
-          julio: juliol
-          junio: juny
-          majo: maig
-          marto: març
-          monatoj: "Mesos de l'any"
-          novembro: novembre
-          oktobro: octubre
-          septembro: setembre
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Afirmació:"
-            aserto-frazo: "El pa està sec."
-          demandaj: "Oracions interrogatives"
-          demandaj-ekzpliko: "Totes les preguntes es construeixen sobre l'afirmació o la negació, simplement col·locant la paraula \"ĉu\" al principi de l'oració. Tingueu en compte que l'ordre de les paraules en esperanto no varia, només es col·loca la paraula \"ĉu\" davant de la frase. Això val per a les preguntes amb resposta \"sí\" o \"no\"."
-          demando: 
-            demando: "Pregunta:"
-            demando-frazo: "Que està sec el pa?"
-          respondo: 
-            respondo: "Resposta:"
-            respondo-frazo-negativa: "No, el pa no està sec."
-            respondo-frazo-pozitiva: "Sí, el pa està sec."
-      pagxo05: 
+        titolo: "Dies de la setmana"
+      tekstokompreno: 
+        ekspliko: "Llegiu el text superior, escrit per un estudiant d'esperanto, i intenteu entendre'l utilitzant el diccionari."
+        titolo: "Comprensió escrita"
+        vortaro: 
+          alia: altre/a
+          antaŭ: "davant de, abans de"
+          facila: fàcil
+          interŝanĝi: intercanviar
+          komenci: començar
+          lerni: aprendre
+          tre: molt
+      vortaro04: 
         infano: nen
         kaj: i
         kolekti: "arreplegar, col·leccionar"
@@ -85,14 +94,3 @@ ca:
         vojaĝi: viatjar
         ĵurnalo: diari
         ŝuo: sabata
-      pagxo06: 
-        tekstokompreno: "Comprensió escrita"
-        tekstokompreno-ekzpliko: "Llegiu el text superior, escrit per un estudiant d'esperanto, i intenteu entendre'l utilitzant el diccionari."
-        vortaro: 
-          alia: altre/a
-          antaŭ: "davant de, abans de"
-          facila: fàcil
-          interŝanĝi: intercanviar
-          komenci: començar
-          lerni: aprendre
-          tre: molt

@@ -2,23 +2,53 @@
 cs: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: Nazdar!
-        saluto02: "Dobrý den!"
-        saluto03: "Dobré ráno!"
-        saluto04: "Dobrý večer!"
-        saluto05: "Dobrou noc!"
-        saluto06: "Jak se máte?"
-        saluto07: "Dobře, díky. A vy?"
-        saluto08: "Docela (= dost) dobře."
-        saluto09: "Nepříliš (= ne velmi) dobře."
-        saluto10: "Doboru chuť!"
-        saluto11: "Nápodobně, díky!"
-        saluto12: "Na vaše zdraví!"
-        saluto13: "Na shledanou!"
-        saluto14: Sbohem!
-        salutoj: Pozdravy
-      pagxo02: 
+      datoj: 
+        ekspliko: "Pro vyjádření data použijte vzor (slova \"tago\" a \"en la jaro\" se obvykle nevyjadřují)"
+        titolo: Data
+      demandoj: 
+        aserto: 
+          frazo-1: "Chleba je suchý."
+          titolo: "Tvrzení:"
+        demando: 
+          frazo-1: "Je ten chleba suchý?"
+          titolo: "Otázka:"
+        ekspliko: "Otázky tvoříme z věty oznamovací, pouze na začátek klademe slůvko \"Ĉu\" (= zda). Slovosled se nemění, jen slůvko \"ĉu\" předchází celou větu. Přesněji řečeno, platí to pouze pro ten typ otázek, na které odpovídáme \"ano\" nebo \"ne\"."
+        respondo: 
+          frazo-negativa: "Ne, ten chleba není suchý."
+          frazo-pozitiva: "Ano, ten chleba je suchý."
+          titolo: "Odpověď:"
+        titolo: "Tázací věty"
+      monatoj: 
+        aprilo: duben
+        aŭgusto: srpen
+        decembro: prosinec
+        februaro: únor
+        januaro: leden
+        julio: červenec
+        junio: červen
+        majo: květen
+        marto: březen
+        novembro: listopad
+        oktobro: říjen
+        septembro: září
+        titolo: "Měsíce v roce"
+      salutoj: 
+        saluto-1: Nazdar!
+        saluto-10: "Doboru chuť!"
+        saluto-11: "Nápodobně, díky!"
+        saluto-12: "Na vaše zdraví!"
+        saluto-13: "Na shledanou!"
+        saluto-14: Sbohem!
+        saluto-2: "Dobrý den!"
+        saluto-3: "Dobré ráno!"
+        saluto-4: "Dobrý večer!"
+        saluto-5: "Dobrou noc!"
+        saluto-6: "Jak se máte?"
+        saluto-7: "Dobře, díky. A vy?"
+        saluto-8: "Docela (= dost) dobře."
+        saluto-9: "Nepříliš (= ne velmi) dobře."
+        titolo: Pozdravy
+      tagoj: 
         relativoj: 
           hieraŭ: včera
           hodiaŭ: dnes
@@ -31,40 +61,19 @@ cs:
           sabato: sobota
           vendredo: pátek
           ĵaŭdo: čtvrtek
-        tagoj: "Dny v týdnu"
-      pagxo03: 
-        datoj: 
-          datoj: Data
-          datoj-ekzpliko: "Pro vyjádření data použijte vzor (slova \"tago\" a \"en la jaro\" se obvykle nevyjadřují)"
-        monatoj: 
-          aprilo: duben
-          aŭgusto: srpen
-          decembro: prosinec
-          februaro: únor
-          januaro: leden
-          julio: červenec
-          junio: červen
-          majo: květen
-          marto: březen
-          monatoj: "Měsíce v roce"
-          novembro: listopad
-          oktobro: říjen
-          septembro: září
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Tvrzení:"
-            aserto-frazo: "Chleba je suchý."
-          demandaj: "Tázací věty"
-          demandaj-ekzpliko: "Otázky tvoříme z věty oznamovací, pouze na začátek klademe slůvko \"Ĉu\" (= zda). Slovosled se nemění, jen slůvko \"ĉu\" předchází celou větu. Přesněji řečeno, platí to pouze pro ten typ otázek, na které odpovídáme \"ano\" nebo \"ne\"."
-          demando: 
-            demando: "Otázka:"
-            demando-frazo: "Je ten chleba suchý?"
-          respondo: 
-            respondo: "Odpověď:"
-            respondo-frazo-negativa: "Ne, ten chleba není suchý."
-            respondo-frazo-pozitiva: "Ano, ten chleba je suchý."
-      pagxo05: 
+        titolo: "Dny v týdnu"
+      tekstokompreno: 
+        ekspliko: "Přečtěte si níže uvedený text, napsaný žákem esperanta, a pokuste se mu porozumět za pomoci slovníku."
+        titolo: "Pochopení textu"
+        vortaro: 
+          alia: jiný
+          antaŭ: před
+          facila: snadný
+          interŝanĝi: vyměnit
+          komenci: začít
+          lerni: "učit se"
+          tre: velmi
+      vortaro04: 
         infano: dítě
         kaj: a
         kolekti: sbírat
@@ -85,14 +94,3 @@ cs:
         vojaĝi: cestovat
         ĵurnalo: "deník, noviny"
         ŝuo: "střevíc, polobotka"
-      pagxo06: 
-        tekstokompreno: "Pochopení textu"
-        tekstokompreno-ekzpliko: "Přečtěte si níže uvedený text, napsaný žákem esperanta, a pokuste se mu porozumět za pomoci slovníku."
-        vortaro: 
-          alia: jiný
-          antaŭ: před
-          facila: snadný
-          interŝanĝi: vyměnit
-          komenci: začít
-          lerni: "učit se"
-          tre: velmi

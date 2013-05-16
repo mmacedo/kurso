@@ -2,23 +2,53 @@
 sk: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: Ahoj!
-        saluto02: "Dobrý deň!"
-        saluto03: "Dobré ráno!"
-        saluto04: "Dobrý večer!"
-        saluto05: "Dobrú noc!"
-        saluto06: "Ako sa máš?"
-        saluto07: "Dobre, ďakujem. A ty?"
-        saluto08: "Celkom (dosť) dobre."
-        saluto09: "Nie veľmi dobre."
-        saluto10: "Dobrú chuť!"
-        saluto11: "Nápodobne, ďakujem!"
-        saluto12: "Na tvoje zdravie!"
-        saluto13: Dovidenia.
-        saluto14: Zbohom!
-        salutoj: Pozdravy
-      pagxo02: 
+      datoj: 
+        ekspliko: "Dátumy vyjadríte nasledovným spôsobom. Slová \"tago\" a \"en la jaro\" sa obyčajne už neuvádzajú."
+        titolo: Dátumy
+      demandoj: 
+        aserto: 
+          frazo-1: "Ten chlieb je suchý."
+          titolo: Tvrdenie
+        demando: 
+          frazo-1: "Je ten chlieb suchý?"
+          titolo: Otázka
+        ekspliko: "Každá otázka sa tvorí jednoduchým položením slovíčka \"ĉu\" na začiatok vety. Dajte pozor na to, že slovosled sa nemení. To platí pre všetky otázky, na ktoré sa dá odpovedať \"áno\" alebo \"nie\"."
+        respondo: 
+          frazo-negativa: "Nie, ten chleba nie je suchý."
+          frazo-pozitiva: "Áno, ten chleba je suchý."
+          titolo: Odpoveď
+        titolo: "Opytovacie vety"
+      monatoj: 
+        aprilo: apríl
+        aŭgusto: august
+        decembro: december
+        februaro: február
+        januaro: január
+        julio: júl
+        junio: jún
+        majo: máj
+        marto: marec
+        novembro: november
+        oktobro: október
+        septembro: september
+        titolo: "Mesiace v roku"
+      salutoj: 
+        saluto-1: Ahoj!
+        saluto-10: "Dobrú chuť!"
+        saluto-11: "Nápodobne, ďakujem!"
+        saluto-12: "Na tvoje zdravie!"
+        saluto-13: Dovidenia.
+        saluto-14: Zbohom!
+        saluto-2: "Dobrý deň!"
+        saluto-3: "Dobré ráno!"
+        saluto-4: "Dobrý večer!"
+        saluto-5: "Dobrú noc!"
+        saluto-6: "Ako sa máš?"
+        saluto-7: "Dobre, ďakujem. A ty?"
+        saluto-8: "Celkom (dosť) dobre."
+        saluto-9: "Nie veľmi dobre."
+        titolo: Pozdravy
+      tagoj: 
         relativoj: 
           hieraŭ: včera
           hodiaŭ: dnes
@@ -31,40 +61,19 @@ sk:
           sabato: sobota
           vendredo: piatok
           ĵaŭdo: štvrtok
-        tagoj: "Dni v týždni"
-      pagxo03: 
-        datoj: 
-          datoj: Dátumy
-          datoj-ekzpliko: "Dátumy vyjadríte nasledovným spôsobom. Slová \"tago\" a \"en la jaro\" sa obyčajne už neuvádzajú."
-        monatoj: 
-          aprilo: apríl
-          aŭgusto: august
-          decembro: december
-          februaro: február
-          januaro: január
-          julio: júl
-          junio: jún
-          majo: máj
-          marto: marec
-          monatoj: "Mesiace v roku"
-          novembro: november
-          oktobro: október
-          septembro: september
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: Tvrdenie
-            aserto-frazo: "Ten chlieb je suchý."
-          demandaj: "Opytovacie vety"
-          demandaj-ekzpliko: "Každá otázka sa tvorí jednoduchým položením slovíčka \"ĉu\" na začiatok vety. Dajte pozor na to, že slovosled sa nemení. To platí pre všetky otázky, na ktoré sa dá odpovedať \"áno\" alebo \"nie\"."
-          demando: 
-            demando: Otázka
-            demando-frazo: "Je ten chlieb suchý?"
-          respondo: 
-            respondo: Odpoveď
-            respondo-frazo-negativa: "Nie, ten chleba nie je suchý."
-            respondo-frazo-pozitiva: "Áno, ten chleba je suchý."
-      pagxo05: 
+        titolo: "Dni v týždni"
+      tekstokompreno: 
+        ekspliko: "Prečítajte si nasledujúci text, napísaný žiakom učiacim sa esperanto, a pokúste sa mu s pomocou slovníka porozumieť."
+        titolo: "Porozumenie textu"
+        vortaro: 
+          alia: iný
+          antaŭ: pred
+          facila: ľahký
+          interŝanĝi: vymieňať
+          komenci: začať
+          lerni: "učiť sa"
+          tre: veľmi
+      vortaro04: 
         infano: dieťa
         kaj: a
         kolekti: zbierať
@@ -85,14 +94,3 @@ sk:
         vojaĝi: cestovať
         ĵurnalo: "denník, noviny"
         ŝuo: topánka
-      pagxo06: 
-        tekstokompreno: "Porozumenie textu"
-        tekstokompreno-ekzpliko: "Prečítajte si nasledujúci text, napísaný žiakom učiacim sa esperanto, a pokúste sa mu s pomocou slovníka porozumieť."
-        vortaro: 
-          alia: iný
-          antaŭ: pred
-          facila: ľahký
-          interŝanĝi: vymieňať
-          komenci: začať
-          lerni: "učiť sa"
-          tre: veľmi

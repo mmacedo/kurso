@@ -2,23 +2,53 @@
 tr: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: "Selam !"
-        saluto02: "İyi Günler !"
-        saluto03: "İyi Sabahlar !"
-        saluto04: "İyi Akşamlar !"
-        saluto05: "İyi Geceler !"
-        saluto06: "Nasılsınız ?"
-        saluto07: "İyi, teşekkür ederim. Ve siz ?"
-        saluto08: "Oldukça iyi."
-        saluto09: "Çok iyi değil."
-        saluto10: "Afiyet Olsun !"
-        saluto11: "Sizede, teşekkürler !"
-        saluto12: "Sağlığınıza !"
-        saluto13: "Allaha ısmarladık !"
-        saluto14: "Allaha emanet olun !"
-        salutoj: Selamlar
-      pagxo02: 
+      datoj: 
+        ekspliko: "Tarihleri söylemek için modeli takip edin.\" Gün \" ve \" Sene \" içinde kelimeler aşağıda anlaşılmakta ve genelde onlardan bahsetmek gerekmiyor."
+        titolo: Tarihler
+      demandoj: 
+        aserto: 
+          frazo-1: "Ekmek kurudur."
+          titolo: "Onaylamak:"
+        demando: 
+          frazo-1: "Ekmek kuru mu ?"
+          titolo: "Soru :"
+        ekspliko: "Her soru onaylama veya onaylamama üzerine kurulur, sadece cümlenin önüne \" Ĉu \" ( mı , mi ) kelimeciğini koyarız. Bu cevaplar cevabı \"evet \" veya \"hayır\" olacak tüm sorular için geçerlidir."
+        respondo: 
+          frazo-negativa: "Hayır, ekmek kuru değildir."
+          frazo-pozitiva: "Evet, ekmek kurudur."
+          titolo: "Cevap :"
+        titolo: "Soru cümleleri"
+      monatoj: 
+        aprilo: Nisan
+        aŭgusto: Agustos
+        decembro: Aralık
+        februaro: Şubat
+        januaro: Ocak
+        julio: Temmuz
+        junio: Haziran
+        majo: Mayıs
+        marto: Mart
+        novembro: Kasım
+        oktobro: Ekim
+        septembro: Eylül
+        titolo: "Yılın Ayları"
+      salutoj: 
+        saluto-1: "Selam !"
+        saluto-10: "Afiyet Olsun !"
+        saluto-11: "Sizede, teşekkürler !"
+        saluto-12: "Sağlığınıza !"
+        saluto-13: "Allaha ısmarladık !"
+        saluto-14: "Allaha emanet olun !"
+        saluto-2: "İyi Günler !"
+        saluto-3: "İyi Sabahlar !"
+        saluto-4: "İyi Akşamlar !"
+        saluto-5: "İyi Geceler !"
+        saluto-6: "Nasılsınız ?"
+        saluto-7: "İyi, teşekkür ederim. Ve siz ?"
+        saluto-8: "Oldukça iyi."
+        saluto-9: "Çok iyi değil."
+        titolo: Selamlar
+      tagoj: 
         relativoj: 
           hieraŭ: Dün
           hodiaŭ: Bugün
@@ -31,40 +61,19 @@ tr:
           sabato: Cumartesi
           vendredo: Cuma
           ĵaŭdo: Perşembe
-        tagoj: "Haftanın Günleri"
-      pagxo03: 
-        datoj: 
-          datoj: Tarihler
-          datoj-ekzpliko: "Tarihleri söylemek için modeli takip edin.\" Gün \" ve \" Sene \" içinde kelimeler aşağıda anlaşılmakta ve genelde onlardan bahsetmek gerekmiyor."
-        monatoj: 
-          aprilo: Nisan
-          aŭgusto: Agustos
-          decembro: Aralık
-          februaro: Şubat
-          januaro: Ocak
-          julio: Temmuz
-          junio: Haziran
-          majo: Mayıs
-          marto: Mart
-          monatoj: "Yılın Ayları"
-          novembro: Kasım
-          oktobro: Ekim
-          septembro: Eylül
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Onaylamak:"
-            aserto-frazo: "Ekmek kurudur."
-          demandaj: "Soru cümleleri"
-          demandaj-ekzpliko: "Her soru onaylama veya onaylamama üzerine kurulur, sadece cümlenin önüne \" Ĉu \" ( mı , mi ) kelimeciğini koyarız. Bu cevaplar cevabı \"evet \" veya \"hayır\" olacak tüm sorular için geçerlidir."
-          demando: 
-            demando: "Soru :"
-            demando-frazo: "Ekmek kuru mu ?"
-          respondo: 
-            respondo: "Cevap :"
-            respondo-frazo-negativa: "Hayır, ekmek kuru değildir."
-            respondo-frazo-pozitiva: "Evet, ekmek kurudur."
-      pagxo05: 
+        titolo: "Haftanın Günleri"
+      tekstokompreno: 
+        ekspliko: "Esperanto öğrenen bir öğrenci tarafından yazılmış aşağıdaki metni sözlük yardımıyla okuyup anlamaya çalışın."
+        titolo: "Anlama Testi"
+        vortaro: 
+          alia: Diğeri
+          antaŭ: Önce
+          facila: Kolay
+          interŝanĝi: Dönüştürmek
+          komenci: Başlamak
+          lerni: Oku
+          tre: Çok
+      vortaro04: 
         infano: Çocuk
         kaj: Ve
         kolekti: Toplamak
@@ -85,14 +94,3 @@ tr:
         vojaĝi: "Seyahat etmek"
         ĵurnalo: Gazete
         ŝuo: Ayakkabı
-      pagxo06: 
-        tekstokompreno: "Anlama Testi"
-        tekstokompreno-ekzpliko: "Esperanto öğrenen bir öğrenci tarafından yazılmış aşağıdaki metni sözlük yardımıyla okuyup anlamaya çalışın."
-        vortaro: 
-          alia: Diğeri
-          antaŭ: Önce
-          facila: Kolay
-          interŝanĝi: Dönüştürmek
-          komenci: Başlamak
-          lerni: Oku
-          tre: Çok

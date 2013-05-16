@@ -2,23 +2,58 @@
 sv: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: Hej!
-        saluto02: "God dag !"
-        saluto03: "God morgon!"
-        saluto04: "God kväll!"
-        saluto05: "God natt!"
-        saluto06: "Hur mår du?"
-        saluto07: "Bra, tack. Och du?"
-        saluto08: "Ganska bra"
-        saluto09: "Inte så bra."
-        saluto10: "Smaklig måltid!"
-        saluto11: "Tack det samma! (Det samma till dig, tack)"
-        saluto12: "Skål! (För din hälsa!)"
-        saluto13: "På återseende!"
-        saluto14: Adjö!
-        salutoj: Hälsningar
-      pagxo02: 
+      datoj: 
+        ekspliko: "Datum utläses enlig modellen ( orden 'tago' och 'en la jaro' är underförstådda):"
+        titolo: Datum
+      demandoj: 
+        aserto: 
+          frazo-1: "Brödet är torrt."
+          titolo: "Påstående:"
+        demando: 
+          frazo-1: "Är brödet torrt?"
+          titolo: "Fråga:"
+        ekspliko: |-
+            Alla frågor konstrueras med utgångspunkt från en påståendefras genom att man placerar det 
+            lilla ordet 'Ĉu' i början av frasen / meningen. Observera att påståendefrasens ordföljd inte 
+            behöver ändras, det är bara det lilla ordet 'ĉu' som placeras först i frasen.  Detta gäller alla 
+            frågor vars svar kommer att bli 'jes' (ja) eller 'ne' (nej).  Senare i kursen kommer andra 
+            frågeord (kio, kial, kiel osv.) att behandlas. 'ĉu' kan lämpligen översättas med 'månne'.
+        respondo: 
+          frazo-negativa: "Nej, brödet är inte torrt"
+          frazo-pozitiva: "Ja, brödet är torrt."
+          titolo: "Svar:"
+        titolo: Frågemeningar
+      monatoj: 
+        aprilo: april
+        aŭgusto: augusti
+        decembro: december
+        februaro: februari
+        januaro: januari
+        julio: juli
+        junio: juni
+        majo: maj
+        marto: mars
+        novembro: november
+        oktobro: oktober
+        septembro: september
+        titolo: "Årets månader."
+      salutoj: 
+        saluto-1: Hej!
+        saluto-10: "Smaklig måltid!"
+        saluto-11: "Tack det samma! (Det samma till dig, tack)"
+        saluto-12: "Skål! (För din hälsa!)"
+        saluto-13: "På återseende!"
+        saluto-14: Adjö!
+        saluto-2: "God dag !"
+        saluto-3: "God morgon!"
+        saluto-4: "God kväll!"
+        saluto-5: "God natt!"
+        saluto-6: "Hur mår du?"
+        saluto-7: "Bra, tack. Och du?"
+        saluto-8: "Ganska bra"
+        saluto-9: "Inte så bra."
+        titolo: Hälsningar
+      tagoj: 
         relativoj: 
           hieraŭ: "i går"
           hodiaŭ: "i dag"
@@ -31,45 +66,21 @@ sv:
           sabato: lördag
           vendredo: fredag
           ĵaŭdo: torsdag
-        tagoj: "Veckans dagar"
-      pagxo03: 
-        datoj: 
-          datoj: Datum
-          datoj-ekzpliko: "Datum utläses enlig modellen ( orden 'tago' och 'en la jaro' är underförstådda):"
-        monatoj: 
-          aprilo: april
-          aŭgusto: augusti
-          decembro: december
-          februaro: februari
-          januaro: januari
-          julio: juli
-          junio: juni
-          majo: maj
-          marto: mars
-          monatoj: "Årets månader."
-          novembro: november
-          oktobro: oktober
-          septembro: september
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Påstående:"
-            aserto-frazo: "Brödet är torrt."
-          demandaj: Frågemeningar
-          demandaj-ekzpliko: |-
-              Alla frågor konstrueras med utgångspunkt från en påståendefras genom att man placerar det 
-              lilla ordet 'Ĉu' i början av frasen / meningen. Observera att påståendefrasens ordföljd inte 
-              behöver ändras, det är bara det lilla ordet 'ĉu' som placeras först i frasen.  Detta gäller alla 
-              frågor vars svar kommer att bli 'jes' (ja) eller 'ne' (nej).  Senare i kursen kommer andra 
-              frågeord (kio, kial, kiel osv.) att behandlas. 'ĉu' kan lämpligen översättas med 'månne'.
-          demando: 
-            demando: "Fråga:"
-            demando-frazo: "Är brödet torrt?"
-          respondo: 
-            respondo: "Svar:"
-            respondo-frazo-negativa: "Nej, brödet är inte torrt"
-            respondo-frazo-pozitiva: "Ja, brödet är torrt."
-      pagxo05: 
+        titolo: "Veckans dagar"
+      tekstokompreno: 
+        ekspliko: |-
+            Läs nedanstående text, skriven av esperantostuderande, och försök förstå den genom att 
+            använda ordlistan.
+        titolo: Textförståelse
+        vortaro: 
+          alia: annan
+          antaŭ: "före, sedan"
+          facila: "lätt (ej svårt)"
+          interŝanĝi: "byta (sins emellan)"
+          komenci: börja
+          lerni: lära
+          tre: "mycket (graden)"
+      vortaro04: 
         infano: barn
         kaj: och
         kolekti: samla
@@ -90,16 +101,3 @@ sv:
         vojaĝi: resa
         ĵurnalo: dagstidning
         ŝuo: sko
-      pagxo06: 
-        tekstokompreno: Textförståelse
-        tekstokompreno-ekzpliko: |-
-            Läs nedanstående text, skriven av esperantostuderande, och försök förstå den genom att 
-            använda ordlistan.
-        vortaro: 
-          alia: annan
-          antaŭ: "före, sedan"
-          facila: "lätt (ej svårt)"
-          interŝanĝi: "byta (sins emellan)"
-          komenci: börja
-          lerni: lära
-          tre: "mycket (graden)"

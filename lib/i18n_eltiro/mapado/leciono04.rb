@@ -1,25 +1,25 @@
 I18nEltiro::Mapado.agordi do
   atingo 'lecionoj.leciono04' do
-    al 'pagxo01' do
-      mapi 'l007', 'salutoj'
-      mapi 'l404', 'saluto01'
-      mapi 'l405', 'saluto02'
-      mapi 'l406', 'saluto03'
-      mapi 'l407', 'saluto04'
-      mapi 'l408', 'saluto05'
-      mapi 'l409', 'saluto06'
-      mapi 'l410', 'saluto07'
-      mapi 'l411', 'saluto08'
-      mapi 'l412', 'saluto09'
-      mapi 'l011', 'saluto10'
-      mapi 'l013', 'saluto11'
-      mapi 'l012', 'saluto12'
-      mapi 'l014', 'saluto13'
-      mapi 'l015', 'saluto14'
+    al 'salutoj' do
+      mapi 'l007', 'titolo'
+      mapi 'l404', 'saluto-1'
+      mapi 'l405', 'saluto-2'
+      mapi 'l406', 'saluto-3'
+      mapi 'l407', 'saluto-4'
+      mapi 'l408', 'saluto-5'
+      mapi 'l409', 'saluto-6'
+      mapi 'l410', 'saluto-7'
+      mapi 'l411', 'saluto-8'
+      mapi 'l412', 'saluto-9'
+      mapi 'l011', 'saluto-10'
+      mapi 'l013', 'saluto-11'
+      mapi 'l012', 'saluto-12'
+      mapi 'l014', 'saluto-13'
+      mapi 'l015', 'saluto-14'
     end
 
-    al 'pagxo02' do
-      mapi 'l020', 'tagoj'
+    al 'tagoj' do
+      mapi 'l020', 'titolo'
       al 'semajno' do
         mapi 'l317', 'dimanĉo'
         mapi 'l318', 'lundo'
@@ -36,8 +36,8 @@ I18nEltiro::Mapado.agordi do
       end
     end
 
-    al 'pagxo03.monatoj' do
-      mapi 'l021', 'monatoj'
+    al 'monatoj' do
+      mapi 'l021', 'titolo'
       mapi 'l325', 'januaro'
       mapi 'l326', 'februaro'
       mapi 'l327', 'marto'
@@ -51,30 +51,31 @@ I18nEltiro::Mapado.agordi do
       mapi 'l335', 'novembro'
       mapi 'l336', 'decembro'
     end
-    al 'pagxo03.datoj' do
-      mapi 'l026', 'datoj'
-      mapi 'l022', 'datoj-ekzpliko'
+
+    al 'datoj' do
+      mapi 'l026', 'titolo'
+      mapi 'l022', 'ekspliko'
     end
 
-    al 'pagxo04.demandaj' do
-      mapi 'l010', 'demandaj'
-      mapi 'l315', 'demandaj-ekzpliko'
+    al 'demandoj' do
+      mapi 'l010', 'titolo'
+      mapi 'l315', 'ekspliko'
       al 'aserto' do
-        mapi 'l298', 'aserto'
-        mapi 'l299', 'aserto-frazo'
+        mapi 'l298', 'titolo'
+        mapi 'l299', 'frazo-1'
       end
       al 'demando' do
-        mapi 'l300', 'demando'
-        mapi 'l301', "demando-frazo"
+        mapi 'l300', 'titolo'
+        mapi 'l301', "frazo-1"
       end
       al 'respondo' do
-        mapi 'l311', 'respondo'
-        mapi 'l312', 'respondo-frazo-pozitiva'
-        mapi 'l314', 'respondo-frazo-negativa'
+        mapi 'l311', 'titolo'
+        mapi 'l312', 'frazo-pozitiva'
+        mapi 'l314', 'frazo-negativa'
       end
     end
 
-    al 'pagxo05' do
+    al 'vortaro04' do
       mapi 'l361', 'infano'
       mapi 'l360', 'ĵurnalo'
       mapi 'l362', 'kaj'
@@ -97,9 +98,9 @@ I18nEltiro::Mapado.agordi do
       mapi 'l383', 'vojaĝi'
     end
 
-    al 'pagxo06' do
-      mapi 'l008', 'tekstokompreno'
-      mapi 'l418', 'tekstokompreno-ekzpliko'
+    al 'tekstokompreno' do
+      mapi 'l008', 'titolo'
+      mapi 'l418', 'ekspliko'
       al 'vortaro' do
         mapi 'l420', 'lerni'
         mapi 'l421', 'tre'
@@ -109,22 +110,6 @@ I18nEltiro::Mapado.agordi do
         mapi 'l426', 'facila'
         mapi 'l428', 'alia'
       end
-    end
-  end
-
-  el 'lecionoj.leciono04' do
-    al 'ekzercoj.leciono04.pagxo10' do
-      mapi 'l005', 'traduku'
-      mapi 'l385', 'frazo01'
-      mapi 'l386', 'frazo02'
-      mapi 'l387', 'frazo03', escepte: %i[sr]
-      mapi 'l388', 'frazo04'
-      mapi 'l389', 'frazo05'
-      mapi 'l391', 'frazo06'
-      mapi 'l392', 'frazo07'
-      mapi 'l393', 'frazo08'
-      mapi 'l394', 'frazo09'
-      mapi 'l395', 'frazo10', escepte: %i[sr]
     end
   end
 end

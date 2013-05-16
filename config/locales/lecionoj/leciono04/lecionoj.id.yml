@@ -2,23 +2,53 @@
 id: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: "Salam!  Halo!"
-        saluto02: "Selamat  (hari)!"
-        saluto03: "Selamat pagi!"
-        saluto04: "Selamat sore!  (sesudah matahari terbenam)"
-        saluto05: "Selamat malam!"
-        saluto06: "Apa kabar?"
-        saluto07: "Kabar baik, terima kasih.  Apa kabar anda?"
-        saluto08: "Baik baik saja."
-        saluto09: "Tidak baik."
-        saluto10: "Nikmatilah makanan anda!"
-        saluto11: "Anda juga, terima kasih!"
-        saluto12: "Nikmatilah minuman anda!"
-        saluto13: "Sampai bertemu lagi!  Sampai jumpa!"
-        saluto14: "Selamat tinggal.  Selamat jalan."
-        salutoj: Sambutan
-      pagxo02: 
+      datoj: 
+        ekspliko: "Untuk mengucapkan tanggal, ikuti model ini.  Kata \"tago\" (hari) dan \"en la jaro\" (dalam tahun itu) anda tidak harus mengucapkan, karena anda sudah mengertinya."
+        titolo: Tanggal
+      demandoj: 
+        aserto: 
+          frazo-1: "Roti itu kering."
+          titolo: Perkataan
+        demando: 
+          frazo-1: "Apakah roti itu kering?"
+          titolo: "Pertanyaan:"
+        ekspliko: "Semua pertanyaan terdiri dalam kalimat sederhana, pihak atau negatif, hanya mengambahkan dengan kata \"Ĉu\" sebelumnya.  Perhatikanlah bahwa urutan dalam kata bahasa Esperanto tidak berubah, hanya kata \"Ĉu\" ditambah pada permulaan kalimat.  Pertanyaan itu betul untuk semua yang dapat dijawab dengan \"ya\" atau \"tidak\" / \"bukan\"."
+        respondo: 
+          frazo-negativa: "Tidak, roti itu tidak kering."
+          frazo-pozitiva: "Ya, roti itu kering."
+          titolo: "Jawaban:"
+        titolo: "Kalimat Pertanyaan"
+      monatoj: 
+        aprilo: "bulan April"
+        aŭgusto: "bulan Agustus"
+        decembro: "bulan Desember"
+        februaro: "bulan Pebruari"
+        januaro: "bulan Januari"
+        julio: "bulan Juli"
+        junio: "bulan Juni"
+        majo: "bulan Mei"
+        marto: "bulan Maret"
+        novembro: "bulan Nopember"
+        oktobro: "bulan Oktober"
+        septembro: "bulan September"
+        titolo: "Bulan-Bulan dalam Satu Tahun"
+      salutoj: 
+        saluto-1: "Salam!  Halo!"
+        saluto-10: "Nikmatilah makanan anda!"
+        saluto-11: "Anda juga, terima kasih!"
+        saluto-12: "Nikmatilah minuman anda!"
+        saluto-13: "Sampai bertemu lagi!  Sampai jumpa!"
+        saluto-14: "Selamat tinggal.  Selamat jalan."
+        saluto-2: "Selamat  (hari)!"
+        saluto-3: "Selamat pagi!"
+        saluto-4: "Selamat sore!  (sesudah matahari terbenam)"
+        saluto-5: "Selamat malam!"
+        saluto-6: "Apa kabar?"
+        saluto-7: "Kabar baik, terima kasih.  Apa kabar anda?"
+        saluto-8: "Baik baik saja."
+        saluto-9: "Tidak baik."
+        titolo: Sambutan
+      tagoj: 
         relativoj: 
           hieraŭ: kemarin
           hodiaŭ: "hari ini"
@@ -31,40 +61,19 @@ id:
           sabato: "hari Sabtu"
           vendredo: "hari Jum'at"
           ĵaŭdo: "hari Kamis"
-        tagoj: "Hari-Hari dalam Satu Minggu"
-      pagxo03: 
-        datoj: 
-          datoj: Tanggal
-          datoj-ekzpliko: "Untuk mengucapkan tanggal, ikuti model ini.  Kata \"tago\" (hari) dan \"en la jaro\" (dalam tahun itu) anda tidak harus mengucapkan, karena anda sudah mengertinya."
-        monatoj: 
-          aprilo: "bulan April"
-          aŭgusto: "bulan Agustus"
-          decembro: "bulan Desember"
-          februaro: "bulan Pebruari"
-          januaro: "bulan Januari"
-          julio: "bulan Juli"
-          junio: "bulan Juni"
-          majo: "bulan Mei"
-          marto: "bulan Maret"
-          monatoj: "Bulan-Bulan dalam Satu Tahun"
-          novembro: "bulan Nopember"
-          oktobro: "bulan Oktober"
-          septembro: "bulan September"
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: Perkataan
-            aserto-frazo: "Roti itu kering."
-          demandaj: "Kalimat Pertanyaan"
-          demandaj-ekzpliko: "Semua pertanyaan terdiri dalam kalimat sederhana, pihak atau negatif, hanya mengambahkan dengan kata \"Ĉu\" sebelumnya.  Perhatikanlah bahwa urutan dalam kata bahasa Esperanto tidak berubah, hanya kata \"Ĉu\" ditambah pada permulaan kalimat.  Pertanyaan itu betul untuk semua yang dapat dijawab dengan \"ya\" atau \"tidak\" / \"bukan\"."
-          demando: 
-            demando: "Pertanyaan:"
-            demando-frazo: "Apakah roti itu kering?"
-          respondo: 
-            respondo: "Jawaban:"
-            respondo-frazo-negativa: "Tidak, roti itu tidak kering."
-            respondo-frazo-pozitiva: "Ya, roti itu kering."
-      pagxo05: 
+        titolo: "Hari-Hari dalam Satu Minggu"
+      tekstokompreno: 
+        ekspliko: "Bacalah teks di bawah, yang tertulis oleh pelajar bahasa Esperanto.  Coba mengertinya, mempergunakan kosa-kata."
+        titolo: "Pengertian Bacaan"
+        vortaro: 
+          alia: "lain, yang lain"
+          antaŭ: "sebelum,  lebih dulu"
+          facila: mudah
+          interŝanĝi: bertukar
+          komenci: memulai
+          lerni: "mempelajari,  belajar"
+          tre: "sekali, amat, sangat"
+      vortaro04: 
         infano: anak
         kaj: dan
         kolekti: mengumpulkan
@@ -85,14 +94,3 @@ id:
         vojaĝi: berpergian
         ĵurnalo: "surat kabar"
         ŝuo: sepatu
-      pagxo06: 
-        tekstokompreno: "Pengertian Bacaan"
-        tekstokompreno-ekzpliko: "Bacalah teks di bawah, yang tertulis oleh pelajar bahasa Esperanto.  Coba mengertinya, mempergunakan kosa-kata."
-        vortaro: 
-          alia: "lain, yang lain"
-          antaŭ: "sebelum,  lebih dulu"
-          facila: mudah
-          interŝanĝi: bertukar
-          komenci: memulai
-          lerni: "mempelajari,  belajar"
-          tre: "sekali, amat, sangat"

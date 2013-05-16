@@ -2,23 +2,53 @@
 es: 
   lecionoj: 
     leciono04: 
-      pagxo01: 
-        saluto01: ¡Hola!
-        saluto02: "¡Buenos días!"
-        saluto03: "¡Buena mañana!"
-        saluto04: "¡Buenas tardes!"
-        saluto05: "¡Buenas noches!"
-        saluto06: "¿Cómo te va?, ¿Cómo estás (de salud)?"
-        saluto07: "Bien, gracias. ¿Y a tí?"
-        saluto08: "Bastante bien."
-        saluto09: "No muy bien."
-        saluto10: "¡Buen provecho!, ¡Buen apetito!"
-        saluto11: "Igual para ti, ¡gracias!"
-        saluto12: ¡Salud!
-        saluto13: "¡Hasta la próxima!"
-        saluto14: ¡Adiós!
-        salutoj: Saludos
-      pagxo02: 
+      datoj: 
+        ekspliko: "Para decir la fecha, siga el modelo. Las palabras \"día\" y \"en el año\" están implícitas, y normalmente no es necesario mencionarlas."
+        titolo: Fechas
+      demandoj: 
+        aserto: 
+          frazo-1: "El pan está seco."
+          titolo: "Afirmación:"
+        demando: 
+          frazo-1: "¿Está seco el pan?"
+          titolo: "Pregunta:"
+        ekspliko: "Todas las preguntas se construyen sobre la afirmación, simplemente colocando la palabra \"Ĉu\" al principio de la oración. Note que el orden de palabras en Esperanto no varía; sólo se coloca la palabra \"ĉu\" al inicio. Esto es válido para todas las preguntas cuyas respuestas serán \"sí\" o \"no\"."
+        respondo: 
+          frazo-negativa: "No, el pan no está seco."
+          frazo-pozitiva: "Sí, el pan está seco."
+          titolo: "Respuesta:"
+        titolo: "Oraciones Interrogativas"
+      monatoj: 
+        aprilo: abril
+        aŭgusto: agosto
+        decembro: diciembre
+        februaro: febrero
+        januaro: enero
+        julio: julio
+        junio: junio
+        majo: mayo
+        marto: marzo
+        novembro: noviembre
+        oktobro: octubre
+        septembro: septiembre
+        titolo: "Meses del Año"
+      salutoj: 
+        saluto-1: ¡Hola!
+        saluto-10: "¡Buen provecho!, ¡Buen apetito!"
+        saluto-11: "Igual para ti, ¡gracias!"
+        saluto-12: ¡Salud!
+        saluto-13: "¡Hasta la próxima!"
+        saluto-14: ¡Adiós!
+        saluto-2: "¡Buenos días!"
+        saluto-3: "¡Buena mañana!"
+        saluto-4: "¡Buenas tardes!"
+        saluto-5: "¡Buenas noches!"
+        saluto-6: "¿Cómo te va?, ¿Cómo estás (de salud)?"
+        saluto-7: "Bien, gracias. ¿Y a tí?"
+        saluto-8: "Bastante bien."
+        saluto-9: "No muy bien."
+        titolo: Saludos
+      tagoj: 
         relativoj: 
           hieraŭ: ayer
           hodiaŭ: hoy
@@ -31,40 +61,19 @@ es:
           sabato: sábado
           vendredo: viernes
           ĵaŭdo: jueves
-        tagoj: "Días de la Semana"
-      pagxo03: 
-        datoj: 
-          datoj: Fechas
-          datoj-ekzpliko: "Para decir la fecha, siga el modelo. Las palabras \"día\" y \"en el año\" están implícitas, y normalmente no es necesario mencionarlas."
-        monatoj: 
-          aprilo: abril
-          aŭgusto: agosto
-          decembro: diciembre
-          februaro: febrero
-          januaro: enero
-          julio: julio
-          junio: junio
-          majo: mayo
-          marto: marzo
-          monatoj: "Meses del Año"
-          novembro: noviembre
-          oktobro: octubre
-          septembro: septiembre
-      pagxo04: 
-        demandaj: 
-          aserto: 
-            aserto: "Afirmación:"
-            aserto-frazo: "El pan está seco."
-          demandaj: "Oraciones Interrogativas"
-          demandaj-ekzpliko: "Todas las preguntas se construyen sobre la afirmación, simplemente colocando la palabra \"Ĉu\" al principio de la oración. Note que el orden de palabras en Esperanto no varía; sólo se coloca la palabra \"ĉu\" al inicio. Esto es válido para todas las preguntas cuyas respuestas serán \"sí\" o \"no\"."
-          demando: 
-            demando: "Pregunta:"
-            demando-frazo: "¿Está seco el pan?"
-          respondo: 
-            respondo: "Respuesta:"
-            respondo-frazo-negativa: "No, el pan no está seco."
-            respondo-frazo-pozitiva: "Sí, el pan está seco."
-      pagxo05: 
+        titolo: "Días de la Semana"
+      tekstokompreno: 
+        ekspliko: "Lea el siguiente texto, escrito por un aprendiz de Esperanto, e intente comprenderlo usando el glosario."
+        titolo: "Comprensión Escrita"
+        vortaro: 
+          alia: otro
+          antaŭ: "antes, delante"
+          facila: fácil
+          interŝanĝi: intercambiar
+          komenci: comenzar
+          lerni: aprender
+          tre: muy
+      vortaro04: 
         infano: niño
         kaj: "y"
         kolekti: coleccionar
@@ -85,14 +94,3 @@ es:
         vojaĝi: viajar
         ĵurnalo: periódico
         ŝuo: zapato
-      pagxo06: 
-        tekstokompreno: "Comprensión Escrita"
-        tekstokompreno-ekzpliko: "Lea el siguiente texto, escrito por un aprendiz de Esperanto, e intente comprenderlo usando el glosario."
-        vortaro: 
-          alia: otro
-          antaŭ: "antes, delante"
-          facila: fácil
-          interŝanĝi: intercambiar
-          komenci: comenzar
-          lerni: aprender
-          tre: muy
