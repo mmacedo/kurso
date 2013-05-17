@@ -1,0 +1,112 @@
+--- 
+da: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Vi har en række småord der kaldes de korrelative (samsvarende) ord. Betydningen af et sådant ord er bestemt ved  kombinationen af ordets rod (prefiks) og dets endelse (suffiks)."
+        titolo: Korrelativer
+      korelativoj_am: 
+        cxi: 
+          frazo: "Men jeg ønskede altid at besøge det."
+          vorto: altid
+        ekspliko: Tid
+        i: 
+          frazo: "Besøgte du engang Brasilien?"
+          vorto: engang
+        ki: 
+          frazo: "Hvornår vil du købe bogen? — I morgen tidligt."
+          vorto: "hvornår / når / da"
+        neni: 
+          frazo: "Nej, jeg besøgte aldrig det land."
+          vorto: aldrig
+        ti: 
+          frazo: "Jeg lærte esperanto dengang da jeg var i skolen."
+          vorto: "dengang / da / så"
+      korelativoj_cxi: 
+        ekspliko: "Ĉi indikerer nærhed:"
+        frazo-1: "Hvad er dette?"
+        frazo-2: "Dette er et dyr."
+        frazo-3: "Dette er mit hus."
+        rimarkigo: "Korrelativer, som ender på \"o\" (\"kio\", \"tio\" osv.) kan have akkusativendelsen (-n), men ikke flertalsendelsen (-j).  Korrelativer, som ender på \"a\" og \"u\" kan have både endelsen (-n) og (-j). Foran spørgeordende (\"kio\", \"kie\" osv.) bruger man ikke ordet \"Ĉu\"."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Viser samling."
+          frazo: "En tåbe skriver sit navn overalt."
+          vorto: "overalt / alle vegne"
+        ekspliko: "Viser sted."
+        i: 
+          ekspliko: "Viser ubestemthed."
+          frazo: "Min blyant er et eller andet sted i haven."
+          vorto: "et eller andet sted"
+        ki: 
+          ekspliko: "Viser spørgsmål; viser relation til forudgående sætning."
+          frazo: "Hvor bor du? — Jeg bor i Canada."
+          vorto: hvor
+        neni: 
+          ekspliko: "Har nægtende betydning."
+          frazo: "Intetsteds fandt jeg min bog."
+          vorto: intetsteds
+        ti: 
+          ekspliko: "Benyttes til at påpege."
+          frazo: "Jeg bor der hvor bilen er."
+          vorto: der
+      korelativoj_o: 
+        cxi: 
+          frazo: "Jeg glemte alt."
+          vorto: "alt / alting"
+        ekspliko: "Ting, sag."
+        i: 
+          frazo: "Noget hændte!"
+          vorto: noget
+        ki: 
+          frazo: "Hvad er geografi? — Geografi er en videnskab."
+          vorto: "hvad  / som"
+        neni: 
+          frazo: "Bedre noget end intet."
+          vorto: intet
+        ti: 
+          frazo: "Hvad er det? — Det er et musikinstrument."
+          vorto: det
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Viser samling."
+          frazo: "Hvert menneske elsker sig selv."
+          vorto: "enhver / hver"
+        ekspliko: "Viser person. Når det drejer sig om mere end en, skal der tilføjes endelsen \"j\"."
+        i: 
+          ekspliko: "Viser ubestemthed."
+          frazo: "Der kom nogle personer som jeg ikke kender."
+          vorto: "nogen / en eller anden"
+        ki: 
+          ekspliko: "Viser spørgsmål; viser relation til den forudgående sætning."
+          frazo: "Hvem var din første lærer? — Hr Karlo."
+          vorto: "Hvem, hvilken, som, der"
+        neni: 
+          ekspliko: "Præsenterer nægtende betydning."
+          frazo: "Hvem kom i går? — Ingen kom i går."
+          vorto: ingen
+        ti: 
+          ekspliko: "Benyttes til at påpege."
+          frazo: "Den bog er meget god."
+          vorto: "den / det"
+      vortaro05: 
+        al: til
+        anonco: "en annonce"
+        aĉeti: "at købe"
+        biciklo: "en cykel"
+        bildkarto: "et postkort"
+        bildo: "et billede"
+        danco: "en dans"
+        de: af
+        deziri: "at ønske"
+        domo: "et hus"
+        edzo: "en ægtemand"
+        el: af
+        geografio: "en geografi"
+        gustumi: "at smage"
+        jam: allerede
+        loĝi: "at bo"
+        ĉambro: "et værelse"
+        ĉokolado: chokolade
+        ĝojo: "en glæde"
+        ĵaluza: skinsyg

@@ -1,0 +1,112 @@
+--- 
+la: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Lūk trīs noderīgi vārdi, kuri veido vienkāršu un elastīgu sistēmu. Šos vārdus sauc par korelatīviem. Katra korelatīva nozīmi veido tā saknes (priedēklis) un tā galotnes (piedēkļa) savienošanas rezultāts."
+        titolo: Korelatīvi
+      korelativoj_am: 
+        cxi: 
+          frazo: "Tomēr es vienmēr vēlējos to apmeklēt."
+          vorto: Vienmēr
+        ekspliko: Laiks
+        i: 
+          frazo: "Vai jūs kaut kad apmeklējāt Brazīliju?"
+          vorto: "Kaut kad"
+        ki: 
+          frazo: "Kad jūs pirksiet grāmatu? — Rīt no rīta."
+          vorto: Kad
+        neni: 
+          frazo: "Nē, es nekad neapmeklēju to zemi."
+          vorto: Nekad
+        ti: 
+          frazo: "Es mācījos esperanto tad, kad es biju skolā."
+          vorto: Tad
+      korelativoj_cxi: 
+        ekspliko: "Šī daliņa norāda uz objekta tuvumu un var būt pirms vai pēc korelatīva, uz kuru tas attiecas."
+        frazo-1: "Kas ir šis?"
+        frazo-2: "Šis ir dzīvnieks."
+        frazo-3: "Šī ir mana māja."
+        rimarkigo: "Korelatīviem, kuri beidzas ar galotni -о (kio, tio utt.), var pievienot akuzatīva galotni (-n),  bet tie neiegūst daudzskaitļa galotni (-j). Korelatīviem, kuri beidzas ar -a un -u, var pievienot gan -n gan -j galotnes. Pirms jautājamiem korelatīviem (kio, kie utt.) netiek pievienota daļiņa \"ĉu\"."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Parāda kopumu, grupu."
+          frazo: "Muļķis visur raksta savu vārdu."
+          vorto: Visur
+        ekspliko: "Norāda vietu."
+        i: 
+          ekspliko: "Parāda nenoteiktību."
+          frazo: "Mans zīmulis ir kaut kur dārzā."
+          vorto: "Kaut kur"
+        ki: 
+          ekspliko: "Izsaka jautājumu;  parāda attiecību uz priekšā stāvošo teikumu."
+          frazo: "Kur jūs dzīvojat? — Es dzīvoju Kanādā."
+          vorto: Kur
+        neni: 
+          ekspliko: "Parāda nolieguma nozīmi."
+          frazo: "Nekur es neatradu savu grāmatu."
+          vorto: Nekur
+        ti: 
+          ekspliko: "Tiek lietots, lai uz kaut ko norādītu."
+          frazo: "Es dzīvoju tur, kur ir auto."
+          vorto: Tur
+      korelativoj_o: 
+        cxi: 
+          frazo: "Es aizmirsu visu."
+          vorto: Viss
+        ekspliko: "Darīšana, lieta, priekšmets."
+        i: 
+          frazo: "Kaut kas notika!"
+          vorto: "Kaut kas"
+        ki: 
+          frazo: "Kas ir ģeogrāfija? — Ģeogrāfija ir zinātne."
+          vorto: Kas
+        neni: 
+          frazo: "Labāk kaut kas, nekā nekas."
+          vorto: Nekas
+        ti: 
+          frazo: "Kas tas ir? — Tas ir mūzikas instruments."
+          vorto: "Tas, tā"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Parāda kopumu, grupu."
+          frazo: "Katrs cilvēks mīl pats sevi."
+          vorto: "Katrs, ikviens"
+        ekspliko: "Izsaka individualitāti. Kad tiek runāts vairāk nekā par vienu objektu, tad nepieciešams pievienot galotni -j."
+        i: 
+          ekspliko: "Parāda nenoteiktību."
+          frazo: "Atnāca kaut kādas personas, kuras es nepazīstu."
+          vorto: "Kaut kurš, kaut kāds"
+        ki: 
+          ekspliko: "Izsaka jautājumu;  parāda attiecību uz priekšā stāvošo teikumu."
+          frazo: "Kas bija jūsu pirmais skolotājs? — Karlo kungs."
+          vorto: "Kas, kurš, kura (dzīva būtne)"
+        neni: 
+          ekspliko: "Izsaka nolieguma nozīmi."
+          frazo: "Kas vakar atnāca? — Neviens vakar neatnāca."
+          vorto: Neviens
+        ti: 
+          ekspliko: "Tiek lietots, lai uz kaut ko norādītu."
+          frazo: "Tā grāmata ir ļoti laba."
+          vorto: "Tas, tā"
+      vortaro05: 
+        al: "pie, uz; datīva apzīmēšana"
+        anonco: sludinājums
+        aĉeti: (no)pirkt
+        biciklo: velosipēds
+        bildkarto: atklātne
+        bildo: bilde
+        danco: deja
+        de: "no; ģenetīva apzīmēšana"
+        deziri: vēlēties
+        domo: māja
+        edzo: vīrs
+        el: "no"
+        geografio: ģeogrāfija
+        gustumi: nogaršot
+        jam: jau
+        loĝi: dzīvot
+        ĉambro: istaba
+        ĉokolado: šokolāde
+        ĝojo: prieks
+        ĵaluza: greizsirdīgs

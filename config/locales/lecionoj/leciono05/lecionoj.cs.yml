@@ -1,0 +1,112 @@
+--- 
+cs: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Zde předkládáme užitečná slůvka, která jsou částí pravidelného a uzavřeného systému, tvořícího tabulku. Říkáme jim korelativa, slova souvztažná nebo tabulková. Význam každého slůvka je kombinací předpony a přípony."
+        titolo: "Tabulková slova (korelativa, slova souvztažná)"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Přesto jsem si vždy přál ji navštívit."
+          vorto: Vždy
+        ekspliko: Čas
+        i: 
+          frazo: "Navštívil jste někdy Brazilii?"
+          vorto: Někdy
+        ki: 
+          frazo: "Kdy koupíte tu knihu? - Zítra ráno."
+          vorto: "Kdy, když"
+        neni: 
+          frazo: "Ne, nikdy jsem tu zemi nenavštívil."
+          vorto: Nikdy
+        ti: 
+          frazo: "Učil jsem se esperanto tehdy, když jsem byl ve škole."
+          vorto: Tehdy
+      korelativoj_cxi: 
+        ekspliko: "Toto slůvko označuje větší blízkost: Může stát před tabulkovým slovem nebo za ním."
+        frazo-1: "Copak je tohleto?"
+        frazo-2: "Tohle je zvíře."
+        frazo-3: "Tohleto je můj dům."
+        rimarkigo: "Tabulková slova končící na \"o\" (kio, tio atd.) mohou získat koncovku 4. pádu (-n), ale nemají množné číslo (-j). Slova končící na \"a\" nebo \"u\" mohou získat jak \"-n\", tak \"-j\". Před tázacími slovy (kio, kie atd.) nepoužíváme tázací slůvko \"ĉu\"."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Zahrnuje vše, zevšeobecňuje."
+          frazo: "Hlupák všude svoje jméno píše."
+          vorto: Vše
+        ekspliko: "Ukazuje místo."
+        i: 
+          ekspliko: "Vyjadřuje neurčitost."
+          frazo: "Moje tužka je někde na zahradě."
+          vorto: Někde
+        ki: 
+          ekspliko: "Vyjadřuje otázku nebo  vztah k předchozí větě (slova tázací a vztažná)."
+          frazo: "Kde bydlíš? - Bydlím v Kanadě."
+          vorto: Kde
+        neni: 
+          ekspliko: "Vyjadřuje zápor.."
+          frazo: "Nikde jsem nenašel svou knihu."
+          vorto: Nikde
+        ti: 
+          ekspliko: "Slouží k ukazování."
+          frazo: "Bydlím tam, kde je to auto."
+          vorto: Tam
+      korelativoj_o: 
+        cxi: 
+          frazo: "Zapomněl jsem vše."
+          vorto: Vše
+        ekspliko: "Záležitost, předmět, věc."
+        i: 
+          frazo: "Něco se stalo!"
+          vorto: Něco
+        ki: 
+          frazo: "Co je zeměpis? - Zeměpis je věda."
+          vorto: Co
+        neni: 
+          frazo: "Lepší něco nežli nic."
+          vorto: Nic
+        ti: 
+          frazo: "Co je to? - To je hudební nástroj."
+          vorto: To
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Zahrnuje vše, zevšeobecňuje."
+          frazo: "Každý člověk miluje sám sebe."
+          vorto: Každý
+        ekspliko: "Ukazuje jednotlivou osobu nebo věc. V množném čísle přibírá koncovku -j."
+        i: 
+          ekspliko: "Vyjadřuje neurčitost."
+          frazo: "Přišly nějaké osoby, které neznám."
+          vorto: Někdo
+        ki: 
+          ekspliko: "Vyjadřuje otázku nebo  vztah k předchozí větě (slova tázací a vztažná)."
+          frazo: "Kdo byl tvůj první učitel? - Pan Karel."
+          vorto: "Kdo, který"
+        neni: 
+          ekspliko: "Vyjadřuje zápor."
+          frazo: "Kdo přišel včera? - Nikdo včera nepřišel."
+          vorto: Nikdo
+        ti: 
+          ekspliko: "Slouží k ukazování."
+          frazo: "Ta kniha je velmi dobrá."
+          vorto: "Ten (ta, to)"
+      vortaro05: 
+        al: k
+        anonco: oznámení
+        aĉeti: koupit
+        biciklo: "jízdní kolo"
+        bildkarto: pohlednice
+        bildo: obraz
+        danco: tanec
+        de: od
+        deziri: přát
+        domo: dům
+        edzo: manžel
+        el: z
+        geografio: zeměpis
+        gustumi: ochutnat
+        jam: už
+        loĝi: bydlet
+        ĉambro: "pokoj, místnost"
+        ĉokolado: čokoláda
+        ĝojo: radost
+        ĵaluza: žárlivý

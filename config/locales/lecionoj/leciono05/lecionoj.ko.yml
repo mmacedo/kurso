@@ -1,0 +1,118 @@
+--- 
+ko: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: |-
+            규칙적인 체계로 된 일련의 아주 유용한 낱말들이 있습니다. 우리는 이를 <상관사>라고 부릅니다. 
+            모든 상관사는 어근(접두사)+어미(접미사)로 구성되어 있습니다.
+        titolo: 상관사
+      korelativoj_am: 
+        cxi: 
+          frazo: "그럼에도 나는 언제나(ĉiam) 그 곳(ĝin)을 가보고 싶어 합니다."
+          vorto: "ĉiam언제나, 모든 시간에"
+        ekspliko: 시간
+        i: 
+          frazo: "당신은 언제 브라질을 한 번 다녀 간 적이 있나요?"
+          vorto: 언젠가
+        ki: 
+          frazo: "당신은 언제 그 책을 구입할 것입니까aĉetos? —내일morgaŭ 아침에요."
+          vorto: 언제
+        neni: 
+          frazo: "아뇨. 나는 한 번도 그 나라를 다녀 가 본 적이 없습니다."
+          vorto: "결코(한 번도)...않다(없다)"
+        ti: 
+          frazo: "나는 내가 학교 다닐 때에, 그 때에 에스페란토를 배웠다."
+          vorto: "그 때, 그 시각"
+      korelativoj_cxi: 
+        ekspliko: "이 낱말 <Ĉi>는 근접성을 나타낸다:"
+        frazo-1: "이것(ĉi tio)은 무엇입니까?"
+        frazo-2: "이것은(ĉi tio) 짐승입니다."
+        frazo-3: "이것이(ĉi) 나의 집입니다."
+        rimarkigo: |-
+            "o" ("kio", "tio" 등) 로 끝나는 상관사들은 목적격어미 < -n>을 받을 수 있습니다만, 복수어미는 받지 않습니다.
+             —a-나-u-로 끝나는 상관사들은 목적격<-n>과 복수어미<-j>를 받을 수 있습니다. 
+            의문의 상관사들 앞에는 <ĉu>를   두면 안됩니다.수 있지만,복수어미<-j>는 받지 않는다.
+            "a" kaj "u"로 끝나는 상관사들은목적겨어미 "-n"와 복수 어미 "-j"를 받을 수 있다.
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "집합,무리를 나타냅니다."
+          frazo: "바보(malsaĝulo)는 자신의 이름을 어디에나(ĉie) 써놓는다."
+          vorto: "ĉie어디라도, 모든 곳에"
+        ekspliko: "장소를 가리킵니다."
+        i: 
+          ekspliko: "불확정함을 나타냅니다."
+          frazo: "내 연필은 정원(ĝardeno)의 어딘 가에 있다."
+          vorto: "어딘가에,어디에"
+        ki: 
+          ekspliko: "의문을 나타냅니다."
+          frazo: "당신은 어디에 거주합니까loĝas?— 나는 캐나다에 거주합니다loĝas."
+          vorto: 어디에
+        neni: 
+          ekspliko: "부정의 의미를 나타냅니다."
+          frazo: "아무곳에서도 나는 나의 책을 찿지 못했다."
+          vorto: "아무 곳에도...없는(않는)"
+        ti: 
+          ekspliko: "지시,방향을 나타냅니다."
+          frazo: "나는 저 자동차가aŭto  있는 곳에 산다loĝas."
+          vorto: 그곳에
+      korelativoj_o: 
+        cxi: 
+          frazo: "나는 모든 것을(ĉion)  잊어버렸다."
+          vorto: "ĉio모든 것, 만사, 만물"
+        ekspliko: "일, 사물, 물건(aĵo)"
+        i: 
+          frazo: "뭔가가 일어났다!"
+          vorto: "무엇(불특정한 것)"
+        ki: 
+          frazo: "지리학은 무엇입니까? — 지리학은 과학(학문)입니다."
+          vorto: 무엇(의문)
+        neni: 
+          frazo: "아무 것도 없는 것보다야 뭔가 있는 것이 더 낫다"
+          vorto: "아무 것도 ...않다(없다)"
+        ti: 
+          frazo: "그것은 무엇입니까? 그것은 악기입니다."
+          vorto: "그것, 저것"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "집합,무리를 나타냅니다."
+          frazo: "모든(ĉiu) 사람은 자기 자신을 사랑한다."
+          vorto: "ĉiu 모든 사람, 모두"
+        ekspliko: "개개인을 나타냅니다. 둘 이상을 표현할 때는 복수어미 <j>를 붙여야 합니다.\n"
+        i: 
+          ekspliko: "불확정됨을 보여 줍니다."
+          frazo: "내가 모르는 어떤 사람들이 왔습니다."
+          vorto: 누군가
+        ki: 
+          ekspliko: "물음을 나타냅니다."
+          frazo: "귀하의 첫 선생님은 누구십니까?—-카를로 씨입니다"
+          vorto: 누구
+        neni: 
+          ekspliko: "부정의 의미를 나타냅니다."
+          frazo: "어제hieraŭ 누가 왔나요?— 아무도 어제hieraŭ 오지 않았습니다."
+          vorto: 아무도...않다(없다).
+        ti: 
+          ekspliko: "지시를 나타냅니다."
+          frazo: "저 책은 아주 좋다."
+          vorto: "그 사람, 그것의"
+      vortaro05: 
+        al: "(누구,무엇)에게(전치사)"
+        anonco: "알림,공고,통지"
+        aĉeti: aĉeti사다(구입하다)
+        biciklo: 자전거
+        bildkarto: 그림엽서
+        bildo: 그림
+        danco: 춤
+        de: "(사람, 사물)의(전치사)"
+        deziri: "원하다. 바라다.기원하다"
+        domo: "집,건물"
+        edzo: "남편,부군"
+        el: "(사람,사물)으로부터(전치사)"
+        geografio: 지리
+        gustumi: 맛보다
+        jam: 이미(부사)
+        loĝi: loĝo거주
+        ĉambro: ĉambro방
+        ĉokolado: ĉokolado초콜릿
+        ĝojo: ĝojo기쁨
+        ĵaluza: "ĵaluza질투심이 나다, 질투심이 많은"

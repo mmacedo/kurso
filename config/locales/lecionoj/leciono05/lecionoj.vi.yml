@@ -1,0 +1,112 @@
+--- 
+vi: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Đây là những từ rất hữu dụng, những từ mà là bộ phận thường qui của một hệ thống đóng — thì được gọi là tương liên từ. Nghĩa của mỗi tương liên từ thì là tổ hợp kết quả của từ đầu và từ cuối cùng."
+        titolo: "Các tương liên từ"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Tuy vậy, Tôi luôn mong muốn đến đó."
+          vorto: "luôn luôn"
+        ekspliko: "Thời gian"
+        i: 
+          frazo: "Bạn đã từng bao giờ đến Brazil chưa?"
+          vorto: "một lúc nào đấy"
+        ki: 
+          frazo: "Khi nào bạn sẽ đi mua sách?  —  Sáng mai."
+          vorto: "Khi nào?, Vào thời điểm nào?; khi mà"
+        neni: 
+          frazo: "Không, tôi chưa từng bao giờ đến thăm vùng đất ấy."
+          vorto: "không bao giờ, không vào lúc nào cả"
+        ti: 
+          frazo: "Tôi đã học Quốc tế ngữ khi tôi còn ở trường phổ thông."
+          vorto: "khi ấy, vào thời điểm ấy"
+      korelativoj_cxi: 
+        ekspliko: "Từ này thể hiện tính keo kiệt."
+        frazo-1: "Đây là cái gì?"
+        frazo-2: "Đâu là một con vật."
+        frazo-3: "Đây là nhà của tôi."
+        rimarkigo: "Phần đuôi tương liên từ ở dạng \"o\" (\"kio\", \"tio\", v.v..) không thể nhận đuôi dạng số nhiều \"j\", nhưng nó có thể nhận phần đuôi đổi cách \"n\". Những từ kết thúc với \"anh\" và \"u\" có thể nhận cả dạng đuôi số nhiều \"j\" và đổi cách \"n\". Đừng sử dụng từ \"ĉu\" trước các từ nghi vấn (\"kio\", \"kie\", v.v..)."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "ngụ ý tất cả các thành viên trong một nhóm."
+          frazo: "Một người đần độn viết tên anh ta (cô ta) ở khắp nơi."
+          vorto: "ở tất cả mọi nơi, mọi chỗ"
+        ekspliko: "ngụ ý vị trí, nơi chốn."
+        i: 
+          ekspliko: "ngụ ý thứ gì đó bất định. (Thường dịch là một ít \"nước\", ít đường v.v..)"
+          frazo: "Chiếc bút chì ở đâu đó trong vườn."
+          vorto: "nơi nào đó, ở địa điểm nào đó"
+        ki: 
+          ekspliko: "ngụ ý một câu hỏi hay bắt đầu một mệnh đề quan hệ."
+          frazo: "Bạn sống ở đâu?  —  Tôi sống ở Canada"
+          vorto: "Ở đâu?, Ở chỗ nào?; Ở nơi mà"
+        neni: 
+          ekspliko: "ngụ ý phủ định hay indicates negativeness or non-existence."
+          frazo: "Không ở đâu tôi có thể tìm thấy quyển sách của tôi."
+          vorto: "không ở đâu cả, không chỗ nào cả"
+        ti: 
+          ekspliko: "được dùng để chỉ. (Thường dịch là cái đó, những cái đó)"
+          frazo: "Tôi sống ở nơi mà chiếc xe hơi kia ở."
+          vorto: "ở đó, ở chỗ đó"
+      korelativoj_o: 
+        cxi: 
+          frazo: "Tôi đã quên mọi thứ."
+          vorto: "tất cả, mọi thứ"
+        ekspliko: "biểu thị một đối tượng chung chung, thứ gì đó hay khái niệm"
+        i: 
+          frazo: "Có điều gì đó đã xảy ra!"
+          vorto: "vài thứ (đồ vật)"
+        ki: 
+          frazo: "Môn địa lý là gì?  —  Môn địa lý là một môn khoa học."
+          vorto: "Cái gì?, Cái gì đó hay khái niệm gì?; cái đó, cái mà"
+        neni: 
+          frazo: "Có vài thứ còn hơn chẳng có gì."
+          vorto: "chẳng (cái) gì cả"
+        ti: 
+          frazo: "Đấy là cái gì? — Đấy là một dụng cụ âm nhạc."
+          vorto: "cái đó, vật hay khái niệm đó"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "ngụ ý tất cả các thành viên trong một nhóm"
+          frazo: "Tất cả mọi người đều yêu quí bản thân mình."
+          vorto: "mọi người, tất cả"
+        ekspliko: "Biểu thị một cá thể riêng biệt, khi số lượng nhiều hơn một nó nhận dạng số nhiều \"j\"."
+        i: 
+          ekspliko: "biểu thị từ bất định dịch là \"bất kỳ\" hoặc \"một vài\".v.v.."
+          frazo: "Người nào đó đã tới, ai thì tôi không rõ."
+          vorto: "người nào đó, cái nào đó, vài, bất kỳ"
+        ki: 
+          ekspliko: "biểu thị một câu hỏi hay bắt đầu một mệnh đề quan hệ."
+          frazo: "Ai là giáo viên đầu tiên của bạn? — Thầy Karlo."
+          vorto: "Ai?, Cái nào?; người mà , cái mà v.v.."
+        neni: 
+          ekspliko: "ngụ ý  tính phủ định hay không tồn tại."
+          frazo: "Ai đã tới đây hôm qua?  —  Không ai tới đây hôm qua cả."
+          vorto: "cũng không, không ai cả, không cái gì"
+        ti: 
+          ekspliko: "dùng để chỉ thị hay điểm. Thường dịch là đó, những cái đó"
+          frazo: "Quyển sách này rất hay(tốt)."
+          vorto: "đó, cái đó, người đó"
+      vortaro05: 
+        al: "tới, hướng về, đối với"
+        anonco: "quảng cáo"
+        aĉeti: mua
+        biciklo: "xe đạp"
+        bildkarto: "bưu ảnh"
+        bildo: ảnh
+        danco: "khiêu vũ, nhảy"
+        de: "của, từ"
+        deziri: "ước muốn, khao khát"
+        domo: "ngôi nhà"
+        edzo: "người chồng"
+        el: "ra ngoài, ra khỏi, rời"
+        geografio: "môn địa lý"
+        gustumi: "nếm, kiểm tra mùi vị"
+        jam: "đã, đã...rồi"
+        loĝi: "sống, cư ngụ"
+        ĉambro: "phòng ở"
+        ĉokolado: "sô cô la"
+        ĝojo: "vui sướng"
+        ĵaluza: "ghen ghét, đố kỵ"

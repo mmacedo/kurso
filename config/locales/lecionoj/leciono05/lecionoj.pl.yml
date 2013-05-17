@@ -1,0 +1,112 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Korelatywy są słówkami zamkniętego  regularnego systemu. Znaczenie  nowo powstałego słowa jest wynikiem ich połączenia."
+        titolo: Korelatywy
+      korelativoj_am: 
+        cxi: 
+          frazo: "Jednak zawsze chciałem go odwiedzić."
+          vorto: zawsze
+        ekspliko: czas
+        i: 
+          frazo: "Czy odwiedziłeś kiedyś Brazylię?"
+          vorto: kiedyś
+        ki: 
+          frazo: "Kiedy kupisz książkę? —  Jutro rano."
+          vorto: kiedy
+        neni: 
+          frazo: "Nie, nigdy nie odwiedziłem tamtego kraju."
+          vorto: nigdy
+        ti: 
+          frazo: "Uczyłem się Esperanta wtedy, kiedy byłem w szkole."
+          vorto: wtedy
+      korelativoj_cxi: 
+        ekspliko: "To słówko wskazuje bliskość i może stać przed, lub po korelatywie, do którego należy."
+        frazo-1: "Co to jest?"
+        frazo-2: "To jest zwierzę."
+        frazo-3: "Ten jest mój dom."
+        rimarkigo: "Korelatywy kończące się na  -o   ( kio, tio, io, ĉio, nenio ) otrzymują  końcówkę  -n   w bierniku:  kion, tion, ion, ĉion, nenion ,  ( ale nie mają liczby mnogiej   -j  )"
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Określa zbiór takich samych rzeczy, lub ludzi należących do tej samej  idei."
+          frazo: "Głupiec wszędzie swoje imię pisze."
+          vorto: wszędzie
+        ekspliko: "określa miejsce"
+        i: 
+          ekspliko: "oznacza coś nieznanego, nieokreślonego"
+          frazo: "Mój ołówek jest gdzieś w ogrodzie."
+          vorto: gdzieś
+        ki: 
+          ekspliko: "pyta, albo pokazuje stosunek do poprzedniego zdania"
+          frazo: "Gdzie mieszkasz? — Mieszkam w Kanadzie."
+          vorto: gdzie
+        neni: 
+          ekspliko: zaprzecza
+          frazo: "Nigdzie nie znalazłem mojej książki."
+          vorto: nigdzie
+        ti: 
+          ekspliko: pokazuje
+          frazo: "Mieszkam tam, gdzie jest auto."
+          vorto: tam
+      korelativoj_o: 
+        cxi: 
+          frazo: "Zapomniałem wszystko."
+          vorto: wszystko
+        ekspliko: "zdarzenie, przedmiot, objekt"
+        i: 
+          frazo: "Coś się zdarzyło."
+          vorto: coś
+        ki: 
+          frazo: "Czym jest geografia? — Geografia jest nauką."
+          vorto: co
+        neni: 
+          frazo: "Lepsze coś, niż nic."
+          vorto: nic
+        ti: 
+          frazo: "Co jest  tamto? — Tamto jest instrumentem muzycznym."
+          vorto: tamto
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "oznacza  zbiór, zgromadzenie jednakowych rzeczy, osób o tych samych cechach."
+          frazo: "każdy człowiek kocha siebie samego"
+          vorto: każdy
+        ekspliko: "oznacza osobę. W liczbie mnogiej otrzymuje końcówkę   -j"
+        i: 
+          ekspliko: "wyraża coś nieokreślonego, lub kogoś nieznanego"
+          frazo: "Przybyły jakieś osoby,   których ja nie znam."
+          vorto: ktoś
+        ki: 
+          ekspliko: "pyta , a w zdaniu podrzędnym  pokazuje stosunek do poprzedniego zdania. Ma dwa znaczenia."
+          frazo: "Kto  był twoim pierwszym nauczycielem? — Pan Karol."
+          vorto: kto
+        neni: 
+          ekspliko: przeczy
+          frazo: "Kto przybył wczoraj? — Nikt nie przybył wczoraj."
+          vorto: nikt
+        ti: 
+          ekspliko: pokazuje
+          frazo: "Tamta książka jest bardzo dobra."
+          vorto: "Tamten,-a,-o"
+      vortaro05: 
+        al: do
+        anonco: ogłoszenie
+        aĉeti: kupić
+        biciklo: rower
+        bildkarto: widokówka
+        bildo: obraz
+        danco: taniec
+        de: "od(miejsca,czasu,wskazuje właściciela"
+        deziri: pragnąć
+        domo: dom
+        edzo: mąż
+        el: z
+        geografio: geografia
+        gustumi: "smakować, kosztować"
+        jam: już
+        loĝi: mieszkać
+        ĉambro: pokój
+        ĉokolado: czekolada
+        ĝojo: radość
+        ĵaluza: "zazdrosny -a -e"

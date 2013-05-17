@@ -1,0 +1,112 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Tässä on hyödyllisiä pikkusanoja, jotka ovat osa säännöllistä ja suljettua järjestelmää. Näitä pikkusanoja kutsutaan korrelatiiveiksi. Korrelatiivien merkitys on muodostaa johdannainen sen vartalosta (etuliite) ja sen päätteestä (jälkiliite)."
+        titolo: Korrelatiivit
+      korelativoj_am: 
+        cxi: 
+          frazo: "Kuitenkin, minä aina halusin käydä siellä."
+          vorto: Aina
+        ekspliko: Aika
+        i: 
+          frazo: "Kävitkö joskus Brasiliassa?"
+          vorto: Joskus
+        ki: 
+          frazo: "Milloin ostat (sen) kirjan? - Huomenna aamulla."
+          vorto: Milloin
+        neni: 
+          frazo: "Ei, en koskaan käynyt tuossa maassa."
+          vorto: "Ei koskaan, en koskaan"
+        ti: 
+          frazo: "Minä opin Esperanton silloin, kun olin koulussa."
+          vorto: Silloin
+      korelativoj_cxi: 
+        ekspliko: "Tämä pikku sana ilmaisee läheisyyttä."
+        frazo-1: "Mikä on tämä?"
+        frazo-2: "Tämä on eläin."
+        frazo-3: "Tämä on minun taloni."
+        rimarkigo: "Taulukkosanat, joiden pääte on \"o\" (\"kio\", \"tio\" jne.) saavat tarvittaessa akkusatiivin päätteen (-n), mutta eivät monikon päätettä (-j)."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Osoittaa ryhmää, joukkoa."
+          frazo: "Tyhmyri kirjoittaa nimensä kaikkialla."
+          vorto: Kaikkialla
+        ekspliko: "Osoittaa paikkaa."
+        i: 
+          ekspliko: "Osoittaa epämääräisyyttä."
+          frazo: "Lyijykynäni on jossakin (tuossa) puutarhassa."
+          vorto: Jossakin
+        ki: 
+          ekspliko: "Ilmaisee kysymyksen: osoittaa suhteen aikaisempaan lauseeseen."
+          frazo: "Missä sinä asut? -Asun Kanadassa."
+          vorto: Missä
+        neni: 
+          ekspliko: "Osoittaa kielteisen merkityksen."
+          frazo: "Missään (mistään) en löytänyt kirjaani."
+          vorto: "Ei missään"
+        ti: 
+          ekspliko: "Käytetään osoittamiseen."
+          frazo: "Minä asun tuolla, missä on (tuo) auto."
+          vorto: Tuolla
+      korelativoj_o: 
+        cxi: 
+          frazo: "Unohdin kaiken."
+          vorto: Kaikki
+        ekspliko: "Asia, kohde, esine."
+        i: 
+          frazo: "Jokin (jotakin) tapahtui!"
+          vorto: Jokin
+        ki: 
+          frazo: "Mikä on maantiede? - Maantiede on tiede."
+          vorto: "Mikä, mitä"
+        neni: 
+          frazo: "Parempi jokin (jotakin), kun ei mikään (mitään)."
+          vorto: "Ei mitään, ei mikään"
+        ti: 
+          frazo: "Mikä on tuo? - Tuo on soitin."
+          vorto: Tuo
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Ilmaisee joukkoa, ryhmää."
+          frazo: "Jokainen ihminen rakastaa itseään."
+          vorto: Jokainen
+        ekspliko: "Osoittaa yksilön. Kun kyseessä on enemmän kuin yksi, se saa päätteen \"j\"."
+        i: 
+          ekspliko: "Osoittaa epämääräisyyttä."
+          frazo: "Tuli joitakin henkilöitä, joita minä en tunne."
+          vorto: Joku
+        ki: 
+          ekspliko: "Osoittaa kysymyksen: osoittaa suhteen edeltävään lauseeseen."
+          frazo: "Kuka oli ensimmäinen opettajasi? - Herra Karlo."
+          vorto: Kuka
+        neni: 
+          ekspliko: "Ilmaisee kielteisen merkityksen."
+          frazo: "Kuka tuli eilen? - Ei kukaan tullut eilen."
+          vorto: "Ei kukaan"
+        ti: 
+          ekspliko: "Käytetään määrittelemään, osoittamaan."
+          frazo: "Tuo kirja on erittäin hyvä."
+          vorto: Tuo
+      vortaro05: 
+        al: "(prep.) luokse, suuntaan"
+        anonco: "ilmoitus, kuulutus"
+        aĉeti: ostaa
+        biciklo: polkupyörä
+        bildkarto: kuvakortti
+        bildo: kuva
+        danco: tanssi
+        de: "(prep.) ilmaisee omistajaa, lähtökohtaa tai tekijää."
+        deziri: haluta
+        domo: talo
+        edzo: aviomies
+        el: "(prep.) jostakin"
+        geografio: maantiede
+        gustumi: maistaa
+        jam: jo
+        loĝi: asua
+        ĉambro: huone
+        ĉokolado: suklaa
+        ĝojo: "riemu, ilo"
+        ĵaluza: mustasukkainen

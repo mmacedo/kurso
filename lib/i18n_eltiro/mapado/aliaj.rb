@@ -21,6 +21,11 @@ I18nEltiro::Mapado.agordi do
   el 'lecionoj.leciono04' do
     forigi 'l018' # vortaro
   end
+  el 'lecionoj.leciono05' do
+    forigi 'l008' # traduku
+    forigi 'l018' # vortaro
+    forigi 'l022' # rimarkigo
+  end
 
   # lingvo
   mapi 'aliaj.traduko.lingvo' do |obj|

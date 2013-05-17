@@ -1,0 +1,112 @@
+--- 
+en: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "These small words — which are part of a regular, closed system — are called correlatives.  The meaning of each correlative is the combined result of its beginning and ending."
+        titolo: Correlatives
+      korelativoj_am: 
+        cxi: 
+          frazo: "However, I've always desired to visit it."
+          vorto: "always, at all times"
+        ekspliko: Time
+        i: 
+          frazo: "Have you ever visited Brazil?"
+          vorto: "sometime, anytime, ever"
+        ki: 
+          frazo: "When are you going to buy the book?  —  Tomorrow morning."
+          vorto: "When?, At what time?; when"
+        neni: 
+          frazo: "No, I've never visited that land."
+          vorto: "never, at no time, not ever"
+        ti: 
+          frazo: "I learned Esperanto when I was at school."
+          vorto: "then, at that time"
+      korelativoj_cxi: 
+        ekspliko: "This word shows nearness."
+        frazo-1: "What is this?"
+        frazo-2: "This is an animal."
+        frazo-3: "This is my house."
+        rimarkigo: "The correlatives ending in \"o\" (\"kio\", \"tio\", etc) cannot receive the the plural ending \"j\", but can receive the accusative ending \"n\".  Those ending in \"a\" and \"u\" can receive both the plural \"j\" and the accusative \"n\".  Don't use the word \"Æu\" before the interrogative words (\"kio\", \"kie\", etc)."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "indicates all members of a group."
+          frazo: "A fool writes his (or her) name everywhere."
+          vorto: "in all places, in every place, everywhere"
+        ekspliko: "indicates location."
+        i: 
+          ekspliko: "indicates something indefinite.  (often translated as \"any\" or \"some\")"
+          frazo: "My pencil is somewhere in the garden."
+          vorto: "somewhere,anywhere, in some place"
+        ki: 
+          ekspliko: "indicates a question or introduces a relative clause."
+          frazo: "Where do you live?  —  I live in Canada"
+          vorto: "Where?, In what place?; where"
+        neni: 
+          ekspliko: "indicates negativeness or non-existence."
+          frazo: "Nowhere did I find my book."
+          vorto: "nowhere, in no place"
+        ti: 
+          ekspliko: "is used to indicate or point.  (Often translated as \"that\" or \"those\")"
+          frazo: "I live there where the car is."
+          vorto: "there, in that place"
+      korelativoj_o: 
+        cxi: 
+          frazo: "I forgot everything."
+          vorto: "all, everything"
+        ekspliko: "indicates a general object, thing, or concept"
+        i: 
+          frazo: "Something happened!"
+          vorto: something
+        ki: 
+          frazo: "What is geography?  —  Geography is a science."
+          vorto: "What?, What general thing or concept?; that, which"
+        neni: 
+          frazo: "Better something, than nothing."
+          vorto: nothing
+        ti: 
+          frazo: "What is that? — That is a musical instrument."
+          vorto: "that, that general thing or concept"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "indicates all members of a group."
+          frazo: "Every person loves herself (or himself)."
+          vorto: "everyone, everybody, all, each"
+        ekspliko: "indicates a particular person or thing.  (It may take the plural \"j\" and/or the accusative \"n\" when appropriate.)"
+        i: 
+          ekspliko: "indicates something indefinite.  (often translated as \"any\" or \"some\")"
+          frazo: "Some people came, whom I don't know."
+          vorto: "someone, somebody, some, any"
+        ki: 
+          ekspliko: "indicates a question or introduces a relative clause."
+          frazo: "Who was your first teacher? — Mr. Karlo."
+          vorto: "Who?, Which?; who, which, that"
+        neni: 
+          ekspliko: "indicates negativeness or non-existence."
+          frazo: "Who came yesterday?  —  Nobody came yesterday."
+          vorto: "nobody, no one"
+        ti: 
+          ekspliko: "is used to indicate or point.  (Often translated as \"that\" or \"those\")"
+          frazo: "That book is very good."
+          vorto: "that person, that one"
+      vortaro05: 
+        al: "to, towards"
+        anonco: advertisement
+        aĉeti: "to buy"
+        biciklo: bicycle
+        bildkarto: "picture postcard"
+        bildo: picture
+        danco: dance
+        de: "of, from"
+        deziri: "to desire"
+        domo: house
+        edzo: husband
+        el: "out of, from"
+        geografio: geography
+        gustumi: "to taste, test the taste of"
+        jam: already
+        loĝi: "to live, to dwell"
+        ĉambro: room
+        ĉokolado: chocolate
+        ĝojo: joy
+        ĵaluza: jealous

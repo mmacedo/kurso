@@ -1,0 +1,112 @@
+--- 
+jp: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: ここにとても役に立ついつも使う単語の一部の部分をまとめました。この単語は相関詞と呼ばれます。すべての相関詞の意味は語根（元の単語）、前置詞や単語の最後（語尾）として結びついた時にきまります。
+        titolo: 相関詞(そうかんし)
+      korelativoj_am: 
+        cxi: 
+          frazo: でも、いつでもそこに行きたいと思っていました。
+          vorto: いつでも
+        ekspliko: 時（時間、時刻）
+        i: 
+          frazo: ブラジルにいつか行ったことがありますか？
+          vorto: いつか
+        ki: 
+          frazo: "あなたはいつその本を買いますか? — 明日の朝です。"
+          vorto: いつ
+        neni: 
+          frazo: いいえ、一度もその国へ行ったことがありません。
+          vorto: けっして～しない
+        ti: 
+          frazo: 私はその学校にいるときにエスペラントを勉強しました。
+          vorto: その時
+      korelativoj_cxi: 
+        ekspliko: "\"ĉi\"は、近いことをあらわします:"
+        frazo-1: これはなんですか?
+        frazo-2: これは動物です。
+        frazo-3: これは私の家です。
+        rimarkigo: "\"o\" で終わる相関詞(\"kio\", \"tio\"など)は対格語尾の\"n\"がつくことがありますが、複数語尾の\"j\"は付きません。 \"a\" や \"u\" で終わる相関詞には複数語尾の\"j\"も対格語尾の\"n\"も付くことがあります。 疑問の相関詞(\"kio\", \"kie\" など)の前には \"Ĉu\" は使いません。"
+      korelativoj_e: 
+        cxi: 
+          ekspliko: 集まり（集合）をしめす。
+          frazo: 愚か者は所かまわず自分の名前を書く。
+          vorto: すべてのところに、どこでも
+        ekspliko: 場所を示す。
+        i: 
+          ekspliko: 曖昧さ（不確定なことを）しめします。
+          frazo: 私の鉛筆は庭のどこかにあります。
+          vorto: どこかに
+        ki: 
+          ekspliko: 疑問（質問）を表す時には、前に置く前置詞との関係で疑問（質問）の意味を表します。
+          frazo: "あなたはどこに住んでいますか? — 私はカナダに住んでいます。"
+          vorto: どこ
+        neni: 
+          ekspliko: 否定的な意味を示す。
+          frazo: 私は自分の本を何処にも見つけなかった。
+          vorto: どこにもない
+        ti: 
+          ekspliko: （何かを）指ししめす、表す。
+          frazo: 私はその車があるところに住んでいます。
+          vorto: そこ
+      korelativoj_o: 
+        cxi: 
+          frazo: 私はすべてを忘れました。
+          vorto: すべてのもの、すべてのこと
+        ekspliko: 事、対象物、物
+        i: 
+          frazo: 何かが起こった！
+          vorto: あるもの、あること
+        ki: 
+          frazo: "地理とはなんですか? — 地理とは科学です。"
+          vorto: なに
+        neni: 
+          frazo: 何もないよりは何かある方がましです。
+          vorto: 何も～ない
+        ti: 
+          frazo: それは何ですか？････それは楽器です。
+          vorto: それ
+      korelativoj_u: 
+        cxi: 
+          ekspliko: 集まったもの（事）を表す。
+          frazo: すべて人（というもの）は自分を愛します。
+          vorto: みんな、すべての、全部
+        ekspliko: ここに説明しましょう。　一つ以上（複数）のものを表す時には元の単語に語尾”ｊ”を付けます。
+        i: 
+          ekspliko: 曖昧(あいまい）なこと、きまっていないことを表現する。
+          frazo: 誰か私の知らない人たちがきます。
+          vorto: ある人、ある～
+        ki: 
+          ekspliko: 疑問（質問）を表す時には、前に置く前置詞との関係で疑問（質問）の意味を表します。
+          frazo: "あなたの1番目の先生は誰でしたか? — カルロ(Karlo)先生でした。"
+          vorto: だれ、どの
+        neni: 
+          ekspliko: 否定的な意味を表す。
+          frazo: "昨日誰が来ましたか? — 昨日は誰も来ませんでした。"
+          vorto: 誰も～しない
+        ti: 
+          ekspliko: 引用したり、指し示すときに使われます。
+          frazo: その本はとてもよいです。
+          vorto: その人、それ
+      vortaro05: 
+        al: ～へ、～に
+        anonco: 告知・お知らせ
+        aĉeti: 買う
+        biciklo: 自転車
+        bildkarto: 絵葉書
+        bildo: 絵
+        danco: ダンス
+        de: ～の、～によって、～から
+        deziri: 望む
+        domo: 家
+        edzo: 夫(おっと)
+        el: ～から
+        geografio: 地理
+        gustumi: 味わう
+        jam: もう、すでに
+        loĝi: 住む
+        ĉambro: 部屋
+        ĉokolado: チョコレート
+        ĝojo: 喜び
+        ĵaluza: しっと深い、やきもちの

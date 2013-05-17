@@ -1,0 +1,115 @@
+--- 
+de: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Das hier sind sehr nützliche kleine Wörter eines in sich geschlossenen Regelwerks. Man nennt sie Korrelativa oder Tabellwörter. Ihre Bedeutung ergibt sich jeweils aus einer Kombination von Stamm (Präfix) und Endung (Suffix)."
+        titolo: "Beziehungswörter (Korrelativa)"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Dennoch wünschte ich immer, es zu besuchen."
+          vorto: immer
+        ekspliko: "Zeit (temporal)"
+        i: 
+          frazo: "Sind Sie einmal [irgendwann] in Brasilien gewesen? [W.: Besuchten Sie .. B.?]"
+          vorto: "irgendwann, einst"
+        ki: 
+          frazo: "Wann wirst du das Buch kaufen? — Morgen früh."
+          vorto: "wann, wenn"
+        neni: 
+          frazo: "Nein,  das [jenes] Land habe ich nie besucht."
+          vorto: "nie, niemals"
+        ti: 
+          frazo: "Ich lernte [damals] Esperanto, als ich auf die Schule ging. [.. in der Schule war]."
+          vorto: "dann, damals, da"
+      korelativoj_cxi: 
+        ekspliko: "Beigefügtes \"ĉi\" zeigt Nähe an."
+        frazo-1: "Was ist dies?"
+        frazo-2: "Dies ist ein Tier."
+        frazo-3: "Dies ist mein Haus."
+        rimarkigo: |-
+            Die Korrelativa auf -o ("kio", "tio" usw.) bilden einen Akkusativ (-n), aber keinen Plural (-j).
+            Dagegen kann man an -a oder -u beides (-j/-n) anhängen. 
+            Fragewörter ("kio", "kie" usw.) leiten Ergänzungsfragen ein. [Bei diesen kein "ĉu" setzen!]
+      korelativoj_e: 
+        cxi: 
+          ekspliko: Allumfassend/gesamt
+          frazo: "Ein Dummkopf schreibt überall seinen Namen hin. [Narrenhände beschmieren Tisch u. ..]"
+          vorto: überall
+        ekspliko: "Ort (lokal)"
+        i: 
+          ekspliko: Unbestimmt
+          frazo: "Mein Bleistift liegt [ist] irgendwo im Garten."
+          vorto: irgendwo
+        ki: 
+          ekspliko: Fragend
+          frazo: "Wo wohnst du? — Ich wohne in Kanada."
+          vorto: wo
+        neni: 
+          ekspliko: Verneinend
+          frazo: "Nirgends fand ich mein Buch."
+          vorto: nirgends
+        ti: 
+          ekspliko: Hinweisend
+          frazo: "Ich wohne dort, wo das Auto steht [ist]."
+          vorto: "da, dort"
+      korelativoj_o: 
+        cxi: 
+          frazo: "Ich vergaß alles."
+          vorto: alles
+        ekspliko: "Angelegenheit, Gegenstand, Sache"
+        i: 
+          frazo: "Etwas ist passiert/geschehen! [Prät.]"
+          vorto: (irgend)etwas
+        ki: 
+          frazo: "Was ist Geografie? — Geografie ist eine Wissenschaft."
+          vorto: was
+        neni: 
+          frazo: "Besser etwas (Gutes) als (gar) nichts. [gutes Etwas .. Nichts]."
+          vorto: nichts
+        ti: 
+          frazo: "Was ist das? — Das ist ein Musikinstrument."
+          vorto: "das, jenes"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: Allumfasssend/gesamt
+          frazo: "Jeder Mensch liebt sich selbst."
+          vorto: "jeder,-e,-es [Person u. benannte Sache]"
+        ekspliko: "Benanntes Einzelwesen (Individuum): Person/Sache (Mehrzahl: -uj)."
+        i: 
+          ekspliko: Unbestimmt
+          frazo: "Es kamen einige [irgendwelche] Leute [Personen], die ich nicht kenne."
+          vorto: "irgendeiner, jemand"
+        ki: 
+          ekspliko: "Fragend (Fragepronomen/-adverb) oder bezüglich (Relativpronomen/-adverb)."
+          frazo: "Wer war dein erster Lehrer? — Herr Karl."
+          vorto: "wer?  welcher, -e, -es?; der, die das [welcher, -e, -es]"
+        neni: 
+          ekspliko: Verneinend
+          frazo: "Wer kam gestern? — Gestern kam niemand."
+          vorto: "niemand, keiner"
+        ti: 
+          ekspliko: Hinweisend
+          frazo: "Das Buch (da) ist sehr gut."
+          vorto: "der [die, das]; jener [jene, jenes]"
+      vortaro05: 
+        al: zu
+        anonco: Anzeige
+        aĉeti: kaufen
+        biciklo: Fahrrad
+        bildkarto: Ansichtskarte
+        bildo: Bild
+        danco: Tanz
+        de: von
+        deziri: wünschen
+        domo: Haus
+        edzo: "Gatte, Ehemann"
+        el: aus
+        geografio: "Geografie, Erdkunde"
+        gustumi: "kosten, genießen"
+        jam: schon
+        loĝi: wohnen
+        ĉambro: Zimmer
+        ĉokolado: Schokolade
+        ĝojo: Freude
+        ĵaluza: eifersüchtig

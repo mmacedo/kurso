@@ -1,0 +1,91 @@
+--- 
+sl: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Evo nekaj zelo uporabnih besed, ki so del pravilnega in zaključenega sistema. Imenijemo jih \"korelativi\". Pomen vsakega korelativa je skupni seštevek  pomena  korena (prefiks) in pomena končnice (sufiks)."
+        titolo: "Korelativi (zaimki in prislovi)"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Vendar sem si vedno želel jo obiskati."
+          vorto: vedno
+        ekspliko: Čas.
+        i: 
+          frazo: "Ste nekoč že obiskali Brazilijo? (Si nekoč že obiskal Brazilijo?)"
+          vorto: "nekoč, nekdaj"
+        ki: 
+          frazo: "Kdaj boste kupili (boš kupil) knjigo? — Jutri zjutraj."
+          vorto: "kdaj, kadar"
+        neni: 
+          frazo: "Ne, jaz nisem nikoli obiskal tvoje dežele."
+          vorto: nikoli
+        ti: 
+          frazo: "Jaz sem se učil esperanto takrat, kadar sem bil v šoli."
+          vorto: "tedaj, takrat"
+      korelativoj_cxi: 
+        ekspliko: "Je beseda, ki približuje pomen. Lahko se uporablja pred ali za besedami iz korelativne tabele. Npr. TIE = tam, ĉi tie ali tie ĉi = tukaj, TIU = ta, oni, tiu ĉi ali ĉi tiu = tale."
+        frazo-1: "Kaj je tole?"
+        frazo-2: "Tole je žival."
+        frazo-3: "Tale je moja hiša."
+        rimarkigo: "Korelativi , ki se končajo na \"o\" (\"kio\", \"tio\", ...) dobijo v akuzativu končnico (-n) (\"kiojn\",\"tion\",...), toda ne dobijo v množini končnice (-j)."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: Posploševalno.
+          frazo: "Neumnež povsod piše svoje ime."
+          vorto: povsod
+        ekspliko: Kraj.
+        i: 
+          ekspliko: Nedoločno.
+          frazo: "Moj svinčnik je nekje v vrtu."
+          vorto: "kje, nekje"
+        ki: 
+          ekspliko: "Vprašalno in oziralno. Določa vprašanje, oziroma razmerje s prejšnjim predlogom (prepozicijo)."
+          frazo: "Kje vi stanujete (kje ti stanuješ)? — Jaz stanujem v Kanadi."
+          vorto: "kje, kjer"
+        neni: 
+          ekspliko: Nikalno.
+          frazo: "Nikjer nisem našel moje knjige."
+          vorto: nikjer
+        ti: 
+          ekspliko: Kazalno.
+          frazo: "Jaz stanujem tam, kjer je avto."
+          vorto: "tam, tamle."
+      korelativoj_o: 
+        cxi: 
+          frazo: "Jaz sem pozabil vse."
+          vorto: vse
+        ekspliko: "Stvar, pojem."
+        i: 
+          frazo: "Nekaj se je zgodilo!"
+          vorto: "kaj, nekaj"
+        ki: 
+          frazo: "Kaj je geografija? — Geografija je znanost."
+          vorto: "kaj, kar"
+        neni: 
+          frazo: "Bolje nekaj, kot nič."
+          vorto: "nič, nobena stvar"
+        ti: 
+          frazo: "Kaj je to? — To je inštrument."
+          vorto: "to, ono"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: Posploševalno.
+          frazo: "Vsak človek ima rad samega sebe."
+          vorto: vsak(do)
+        ekspliko: "Oseba, določljiva stvar. Če sta osebi dve ali več, dobi množinsko končnico \"j\"."
+        i: 
+          ekspliko: Nedoločno.
+          frazo: "Prišle so neke osebe, ki jih ne poznam."
+          vorto: "kdo, nekdo"
+        ki: 
+          ekspliko: "Vprašalno in oziralno. Določa vprašanje, oziroma razmerje s prejšnjim predlogom (prepozicijo)."
+          frazo: "Kdo je bil vaš (tvoj) prvi učitelj? — Gospod Karel."
+          vorto: "kdo, kdor, ki, kateri"
+        neni: 
+          ekspliko: Nikalno.
+          frazo: "Kdo je prišel včeraj? — Nihče ni prišel včeraj."
+          vorto: "noben, nihče"
+        ti: 
+          ekspliko: Kazalno.
+          frazo: "Ta knjiga je zelo dobra."
+          vorto: "ta, tisti"

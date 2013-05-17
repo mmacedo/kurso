@@ -1,0 +1,115 @@
+--- 
+pt: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Há um grupo de 45 palavras muito úteis, que fazem parte de um sistema regular e fechado. Essas palavras são chamadas de correlativos. O significado de cada correlativo é o resultado da combinação de sua raiz (prefixo) e de sua terminação (sufixo)."
+        titolo: Correlativos
+      korelativoj_am: 
+        cxi: 
+          frazo: "Porém sempre desejei visitá-lo."
+          vorto: Sempre
+        ekspliko: Tempo
+        i: 
+          frazo: "Você alguma vez visitou o Brasil?"
+          vorto: "Alguma vez."
+        ki: 
+          frazo: "Quando irás comprar o livro? — Amanhã de manhã."
+          vorto: Quando.
+        neni: 
+          frazo: "Não, eu nunca visitei aquele país."
+          vorto: Nunca.
+        ti: 
+          frazo: "Eu aprendi Esperanto no tempo que estava na escola."
+          vorto: "Naquele tempo, então."
+      korelativoj_cxi: 
+        ekspliko: "Essa partícula invariável indica aproximação, e pode estar antes ou depois do correlativo ao qual se refere:"
+        frazo-1: "O que é isto?"
+        frazo-2: "Isto é um animal."
+        frazo-3: "Esta é a minha casa."
+        rimarkigo: |-
+            Os correlativos terminados em "o" ("kio", "tio" etc.) podem receber a terminação do acusativo (-n), mas não recebem o plural (-j). 
+            Já os terminados em "a" e "u"  podem receber tanto o "-n" quanto o "-j". 
+            Antes de palavras interrogativas ("kio", "kie" etc.) não se usa a partícula "ĉu".
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Mostra coletivo, reunião, todos"
+          frazo: "Um tolo em todo lugar escreve seu nome."
+          vorto: "Em todo lugar."
+        ekspliko: "Indica lugar."
+        i: 
+          ekspliko: "Indica indefinição"
+          frazo: "O meu lápis está em algum lugar no jardim."
+          vorto: "Em algum lugar."
+        ki: 
+          ekspliko: "Indica pergunta; mostra referência à oração anterior."
+          frazo: "Onde tu moras? — Eu moro no Canadá."
+          vorto: "Onde, em que lugar"
+        neni: 
+          ekspliko: "Indica negação."
+          frazo: "Em nenhum lugar encontrei o meu livro."
+          vorto: "Em nenhum lugar."
+        ti: 
+          ekspliko: "Usado para indicar, mostrar."
+          frazo: "Eu moro ali onde está o automóvel."
+          vorto: "Ali, acolá, lá."
+      korelativoj_o: 
+        cxi: 
+          frazo: "Eu esqueci tudo."
+          vorto: "Tudo, todas as coisas."
+        ekspliko: Coisa
+        i: 
+          frazo: "Algo aconteceu!"
+          vorto: "Algo, alguma coisa."
+        ki: 
+          frazo: "O que é Geografia? — Geografia é uma ciência."
+          vorto: "O que, que coisa."
+        neni: 
+          frazo: "Melhor alguma coisa do que nada."
+          vorto: "Nada, coisa alguma."
+        ti: 
+          frazo: "O que é aquilo? — Aquilo é um instrumento musical."
+          vorto: "Aquilo, isso, aquela coisa, essa coisa."
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Mostra coletivo, reunião, todos."
+          frazo: "Todo ser humano  ama a si mesmo."
+          vorto: "Todo; cada."
+        ekspliko: "Indica indivíduo. Quando se referir a mais de um, deve receber a terminação \"j\"."
+        i: 
+          ekspliko: "Indica indefinição"
+          frazo: "Vieram umas pessoas que eu não conheço."
+          vorto: "Alguém; algum."
+        ki: 
+          ekspliko: "Indica pergunta; mostra referência à oração anterior."
+          frazo: "Quem foi o teu primeiro professor? — O Sr. Karlo."
+          vorto: "Quem, qual; o qual"
+        neni: 
+          ekspliko: "Mostra negação"
+          frazo: "Quem veio ontem? — Ninguém veio ontem."
+          vorto: "Ninguém; nenhum."
+        ti: 
+          ekspliko: "Usado para indicar, mostrar."
+          frazo: "Aquele livro é muito bom."
+          vorto: "Aquele, esse."
+      vortaro05: 
+        al: "para, a, em direção a"
+        anonco: anúncio
+        aĉeti: comprar
+        biciklo: bicicleta
+        bildkarto: "cartão postal"
+        bildo: figura
+        danco: dança
+        de: de
+        deziri: desejar
+        domo: casa
+        edzo: marido
+        el: "de, dentre"
+        geografio: geografia
+        gustumi: "degustar, provar"
+        jam: já
+        loĝi: morar
+        ĉambro: "quarto, cômodo"
+        ĉokolado: chocolate
+        ĝojo: "alegria, contentamento"
+        ĵaluza: ciumento

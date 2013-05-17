@@ -1,0 +1,112 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: 下面是一些非常有用的词，它们是有规则的封闭体系中的一部分，称为相关词。每个相关词的意思是它的词根（前缀）与词尾（后缀）相结合的产物。
+        titolo: 相关词
+      korelativoj_am: 
+        cxi: 
+          frazo: 然而我一直想访问它。
+          vorto: 总是，一直
+        ekspliko: 时间
+        i: 
+          frazo: 你曾去过巴西吗？
+          vorto: 曾经
+        ki: 
+          frazo: "你什么时候买书，—— 明天早晨。"
+          vorto: 什么时候，当……时
+        neni: 
+          frazo: 没有，我从未去过那个国家。
+          vorto: 从来未有，永不
+        ti: 
+          frazo: 当我在学校的时候，我学了世界语。
+          vorto: 那时
+      korelativoj_cxi: 
+        ekspliko: 这个词表示近的意思，相当于“这”，可位于与其关联的相关词的前面或后面。
+        frazo-1: 这是什么？
+        frazo-2: 这是动物。
+        frazo-3: 这是我的房子。
+        rimarkigo: "以“o”结尾的相关词（如kio,tio等）可以有宾格词尾（如kion, tion），但不能用复数词尾“-j”。"
+      korelativoj_e: 
+        cxi: 
+          ekspliko: 表示集体，集合。
+          frazo: 傻瓜到处写自己的名字。
+          vorto: 处处，到处
+        ekspliko: 表示地点。
+        i: 
+          ekspliko: 表示不定的意思。
+          frazo: 我的铅笔在花园的某个地方。
+          vorto: 某个地方
+        ki: 
+          ekspliko: 表示疑问或与前面的句子关联。
+          frazo: "你住在哪里？—— 我住在加拿大。"
+          vorto: 哪里
+        neni: 
+          ekspliko: 表示否定。
+          frazo: 我在任何地方都没找到书。
+          vorto: 没有任何地方
+        ti: 
+          ekspliko: 用于指出，指示。
+          frazo: 我住在那辆车那边。
+          vorto: 那里
+      korelativoj_o: 
+        cxi: 
+          frazo: 我忘记了一切。
+          vorto: 一切
+        ekspliko: 事和物
+        i: 
+          frazo: 出事了！
+          vorto: 某事，某物
+        ki: 
+          frazo: "什么是地理？—— 地理是一门科学。"
+          vorto: 什么
+        neni: 
+          frazo: 有胜于无。
+          vorto: 什么都没有，不存在的东西，无物
+        ti: 
+          frazo: "那是什么？—— 那是乐器。"
+          vorto: 那个
+      korelativoj_u: 
+        cxi: 
+          ekspliko: 表示集体，集合。
+          frazo: 每人都自爱。
+          vorto: 每个，每人
+        ekspliko: "表示个体。如果表示一个以上时,必须用词尾“j”。"
+        i: 
+          ekspliko: 表示不定意思。
+          frazo: 来了一些我不认识的人。
+          vorto: 某人，某个
+        ki: 
+          ekspliko: 表示疑问或与前面的句子相关联。
+          frazo: 谁是你的第一位教师？——卡尔先生。
+          vorto: 谁
+        neni: 
+          ekspliko: 表示否定意思。
+          frazo: "昨天谁来了?？—— 昨天谁也没来。"
+          vorto: 没有任何人，没有任何一个
+        ti: 
+          ekspliko: 用于指出，指明。
+          frazo: 那本书非常好。
+          vorto: 那，那个
+      vortaro05: 
+        al: 向（某人，某处，表示趋近于那个方向）
+        anonco: 通知，公告
+        aĉeti: 买，购买
+        biciklo: 自行车
+        bildkarto: 图片，明信片
+        bildo: 图片，图画，景象
+        danco: 舞蹈
+        de: 的
+        deziri: 想要，希求
+        domo: 房子
+        edzo: 丈夫
+        el: 从……中，出自
+        geografio: 地理学
+        gustumi: 品尝
+        jam: 已经
+        loĝi: 居住
+        ĉambro: 房间
+        ĉokolado: 巧克力
+        ĝojo: 高兴
+        ĵaluza: 珍惜的；嫉妒的

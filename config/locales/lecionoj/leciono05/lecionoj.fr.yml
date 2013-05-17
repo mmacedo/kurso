@@ -1,0 +1,119 @@
+--- 
+fr: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Voici des petits mots très utiles; ils font parti d'un système régulier et fermé. On appelle ces mots des corrélatifs. La signification de chaque corrélatif résulte de la combinaison de son radical (préfixe) et de sa terminaison (suffixe)."
+        titolo: "Les corrélatifs"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Cependant, j'ai toujours voulu le visiter."
+          vorto: "toujours, en tout temps [à tout moment]"
+        ekspliko: "Indique le temps, le moment"
+        i: 
+          frazo: "Avez-vous déjà visité le Brésil ?"
+          vorto: "une fois, un jour [à un certain moment]"
+        ki: 
+          frazo: "Quand achèterez-vous le livre ? — Demain matin."
+          vorto: "quand ? [à quel moment ?]"
+        neni: 
+          frazo: "Non, je n'ai jamais visité ce pays."
+          vorto: "jamais [à aucun moment]"
+        ti: 
+          frazo: "J'ai appris l'espéranto quand j'étais à l'école."
+          vorto: "alors, en ce temps-là, à ce moment"
+      korelativoj_cxi: 
+        ekspliko: "Ce petit mot indique la proximité :"
+        frazo-1: "Qu'est ceci ? Qu'est-ce que ceci ?"
+        frazo-2: "C'est une bête. (Ceci est une bête)"
+        frazo-3: "Celle-ci est ma maison."
+        rimarkigo: |-
+            Les corrélatifs qui se terminent par "o" ("kio", "tio" etc...) peuvent prendre la marque de l'accusatif (-n) mais
+            ne peuvent pas prendre la marque du pluriel (-j).
+            
+            Ceux qui se terminent par "a" ou "u" peuvent prendre et la marque de l'accusatif (-n) et la marque du 
+            pluriel (-j).
+            
+            Devant les mots interrogatifs ("kio", "kie" etc...), on ne doit pas utiliser le mot "ĉu".
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Définit le collectif, l'ensemble, la totalité"
+          frazo: "L' imbécile écrit son nom partout."
+          vorto: "partout [en tout lieu]"
+        ekspliko: "Indique un lieu, un endroit"
+        i: 
+          ekspliko: "Indéfini (correspond à \"un certain ..., une certaine ..., quelque ...\")"
+          frazo: "Mon crayon est quelque part dans le jardin."
+          vorto: "quelque part [à un certain endroit]"
+        ki: 
+          ekspliko: "Indique une question, ou un lien avec la proposition qui précède."
+          frazo: "Où habitez-vous ? — J'habite au Canada."
+          vorto: "où ? [à quel endroit ?]"
+        neni: 
+          ekspliko: "Indique une négation totale (correspond à \"aucun, aucune ...\")"
+          frazo: "Je n'ai trouvé mon livre nulle part."
+          vorto: "nulle part [à aucun endroit]"
+        ti: 
+          ekspliko: "Utilisé pour indiquer, montrer (démonstratif)"
+          frazo: "J'habite là où est la voiture."
+          vorto: "là, y [à cet endroit]"
+      korelativoj_o: 
+        cxi: 
+          frazo: "J'ai tout oublié."
+          vorto: "tout, toute chose, chaque chose"
+        ekspliko: "Indique une affaire, un objet, une chose (peut prendre le \"n\" de l'accusatif)"
+        i: 
+          frazo: "Il s'est passé quelque chose !"
+          vorto: "quelque chose [une certaine chose]"
+        ki: 
+          frazo: "Qu'est-ce que la géographie ? — La géographie est une science."
+          vorto: "que ? quoi ? [quelle chose ?]"
+        neni: 
+          frazo: "Il vaut mieux quelque chose que rien."
+          vorto: "rien [aucune chose]"
+        ti: 
+          frazo: "Qu'est ce que c'est ? — C'est un instrument de musique."
+          vorto: "ce, cela [cette chose]"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Définit le collectif, l'ensemble, la totalité"
+          frazo: "Tout homme s'aime lui-même."
+          vorto: "chaque, tout, toute ; chacun, chacune"
+        ekspliko: "Indique une individualité (peut prendre le \"j\" du pluriel et le \"n\" de l'accusatif)"
+        i: 
+          ekspliko: "Indéfini (correspond à \"un certain ... , une certaine ..., quelque ...\")"
+          frazo: "Certaines personnes sont venues, que je ne connais pas."
+          vorto: "quelqu'un [une certaine personne]"
+        ki: 
+          ekspliko: "Indique une question, ou un lien avec la proposition qui précède."
+          frazo: "Qui était votre premier instituteur ? — Monsieur Karlo."
+          vorto: "Qui ? Quel ? Qui ..."
+        neni: 
+          ekspliko: "Indique une négation totale (correspond à \"aucun, aucune ...\")"
+          frazo: "Qui est venu hier ? — Personne n'est venu hier."
+          vorto: "aucun, personne [aucun individu]"
+        ti: 
+          ekspliko: "Utilisé pour indiquer, montrer (démonstratif)"
+          frazo: "Ce livre est très bon."
+          vorto: "ce, cet, cette, celui, celle"
+      vortaro05: 
+        al: vers
+        anonco: annonce
+        aĉeti: acheter
+        biciklo: "vélo, bicyclette"
+        bildkarto: "carte illustrée, carte postale"
+        bildo: "image, illustration"
+        danco: danse
+        de: de
+        deziri: "désirer, souhaiter"
+        domo: maison
+        edzo: mari
+        el: "de, hors de (provenance)"
+        geografio: géographie
+        gustumi: "goûter (action)"
+        jam: déjà
+        loĝi: habiter
+        ĉambro: "pièce (d'une maison...)"
+        ĉokolado: chocolat
+        ĝojo: joie
+        ĵaluza: "jaloux, jalouse"

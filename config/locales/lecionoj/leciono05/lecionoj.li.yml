@@ -1,0 +1,112 @@
+--- 
+li: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Sukurta klausiamųjų žodžių ir su jais susijusių atsakymų sistema. Ją sudaro penki pirmieji elementai ir devyni antrieji elementai, kuriuos galima sujungti įvairiais būdais. Jie vadinami koreliatyvais."
+        titolo: Koreliatyvai
+      korelativoj_am: 
+        cxi: 
+          frazo: "Tačiau aš visada troškau aplankyti ją."
+          vorto: visada
+        ekspliko: "Nurodo laiką."
+        i: 
+          frazo: "Ar tu kada nors buvai Brazilijoje?"
+          vorto: "kažkada, kada nors"
+        ki: 
+          frazo: "Kada tu nusipirksi knygą? — Rytoj ryte."
+          vorto: kada
+        neni: 
+          frazo: "Ne, aš niekada nebuvau toje šalyje."
+          vorto: niekada
+        ti: 
+          frazo: "Aš mokiausi esperanto tada, kai buvau mokykloje."
+          vorto: "tada, tuomet"
+      korelativoj_cxi: 
+        ekspliko: "Prieveiksmis \"ĉi\" žymi artumą (artimesnį asmenį ar daiktą). Jis gali stovėti prieš parodomuosius ir apibendrinamuosius žodžius arba po jų."
+        frazo-1: "Kas tai yra?"
+        frazo-2: "Tai yra žvėris."
+        frazo-3: "Šitas namas yra mano."
+        rimarkigo: "Koreliatyvai, kurie baigiasi balūne \"-o\" (\"kio\", \"tio\" ir t.t.) gali turėti galininko galūnę (\"-n\"), bet negali turėti daugiskaitos galūnės (\"-j\"). Tie, kurie turi galūnes \"-a\" ir \"-u\", gali turėti ir \"-n\", ir \"-j\". Su klausiamaisiais žodžiais (\"kio\", \"kie\" ir t.t.) žodelis \"Ĉu\" nevartojamas."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
+          frazo: "Kvailys visur savo vardą rašo."
+          vorto: visur
+        ekspliko: "Nurodo vietą."
+        i: 
+          ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
+          frazo: "Mano pieštukas yra kažkur sode."
+          vorto: "kažkur, kur nors"
+        ki: 
+          ekspliko: "Naudojamas sudarant klausiamuosius arba santykinius žodžius."
+          frazo: "Kur tu gyveni? — Aš gyvenu Kanadoje."
+          vorto: kur
+        neni: 
+          ekspliko: "Naudojamas sudarant neigiamuosius žodžius."
+          frazo: "Niekur aš neradau savo knygos."
+          vorto: niekur
+        ti: 
+          ekspliko: "Naudojamas sudarant parodomuosius žodžius."
+          frazo: "Aš gyvenu ten, kur yra automobilis."
+          vorto: "ten, tenai"
+      korelativoj_o: 
+        cxi: 
+          frazo: "Aš pamiršau viską."
+          vorto: viskas
+        ekspliko: "Nurodo neapibrėžtą dalyką, daiktą."
+        i: 
+          frazo: "Kažkas atsitiko!"
+          vorto: "kažkas, kas nors"
+        ki: 
+          frazo: "Kas yra geografija? — Geografija yra mokslas."
+          vorto: kas
+        neni: 
+          frazo: "Geriau kažkas nei niekas."
+          vorto: "niekas (apie daiktus)"
+        ti: 
+          frazo: "Kas tai? — Tai muzikos instrumentas."
+          vorto: "tai; tas"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
+          frazo: "Kiekvienas žmogus myli patį save."
+          vorto: kiekvienas
+        ekspliko: "Nurodo asmenį arba įvardintą dalyką. Kai kalbama apie daugiskaitą, pridedama galūnė \"-j\"."
+        i: 
+          ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
+          frazo: "Atėjo kažkokie asmenys, kurių aš nepažįstu."
+          vorto: "kažkas, kas nors"
+        ki: 
+          ekspliko: "Naudojamas sudarant klausiamuosius arba santykinius žodžius."
+          frazo: "Kas buvo tavo pirmasis mokytojas? — Ponas Karlas."
+          vorto: "kas; kuris"
+        neni: 
+          ekspliko: "Naudojamas sudarant neigiamuosius žodžius."
+          frazo: "Kas vakar atėjo? — Niekas vakar neatėjo."
+          vorto: "niekas, joks"
+        ti: 
+          ekspliko: "Naudojamas sudarant parodomuosius žodžius."
+          frazo: "Ta knyga yra labai gera."
+          vorto: "tas, anas"
+      vortaro05: 
+        al: "link, į, pas; žymi naudininką"
+        anonco: skelbimas
+        aĉeti: pirkti
+        biciklo: dviratis
+        bildkarto: atvirukas
+        bildo: paveikslas
+        danco: šokis
+        de: "žymi kilmininko linksnį"
+        deziri: "norėti, pageidauti"
+        domo: namas
+        edzo: "sutuoktinis (vyras)"
+        el: iš
+        geografio: geografija
+        gustumi: ragauti
+        jam: jau
+        loĝi: "gyventi (kame)"
+        ĉambro: kambarys
+        ĉokolado: šokoladas
+        ĝojo: džiaugsmas
+        ĵaluza: pavydus

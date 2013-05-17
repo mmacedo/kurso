@@ -1,0 +1,112 @@
+--- 
+id: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Adalah kelompok kata kecil yg berguna sekali, sebagian cara biasa dan terbatas.  Namanya kata-korelasi.  Arti setiap kata-korelasi adalah kombinasi arti kata-dasar (awalan) dengan akhiran."
+        titolo: Kata-Korelasi
+      korelativoj_am: 
+        cxi: 
+          frazo: "Tetapi saya selalu ingin mengunjunginya."
+          vorto: Selalu
+        ekspliko: Waktu
+        i: 
+          frazo: "Apakah anda sudah mengunjungi Brazil?"
+          vorto: "Pada suatu waktu, pernah"
+        ki: 
+          frazo: "Kapan anda akan membeli buku itu? - Besok pagi."
+          vorto: "Kapan, ketika, bilamana,  pada waktu, kalau"
+        neni: 
+          frazo: "Tidak.  Tak pernah saya mengunjungi negeri itu."
+          vorto: "Tak pernah"
+        ti: 
+          frazo: "Saya belajar bahasa Esperanto waktu saya di sekolah."
+          vorto: "Pada waktu itu, maka, lalu"
+      korelativoj_cxi: 
+        ekspliko: "Kata kecil ini menunjukkan dekatnya, dan  bisa terdapat di depan atau di belakang kata korelasi yang berhubungan dengannya."
+        frazo-1: "Apa ini?"
+        frazo-2: "Ini binatang."
+        frazo-3: "Ini rumah saya."
+        rimarkigo: "Kata-korelasi dengan akhiran \"o\" (\"kio\", \"tio\" dsb), bisa menerima akhiran akusatip (\"kion\", \"tion\"),  tetapi tidak bisa menerima akhiran bentuk jamak (-j)."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Menunjukkan kelompok."
+          frazo: "Orang bodoh dimana-mana menulis namanya."
+          vorto: "Pada semua tempat,  dimana-mana"
+        ekspliko: "Menunjukkan tempat."
+        i: 
+          ekspliko: "Menunjukkan sesuatu yang tidak tentu"
+          frazo: "Pensil saya di suatu tempat di kebun."
+          vorto: "Di suatu tempat"
+        ki: 
+          ekspliko: "Menunjukkan pertanyaan; menunjukkan hubungan dengan anak kalimat yg lebih dulu."
+          frazo: "Di mana anda tinggal? - Saya tinggal di Kanada."
+          vorto: "Di mana, tempat yang ...."
+        neni: 
+          ekspliko: "Menunjukkan arti negatip."
+          frazo: "Di manapun tidak saya mendapat buku saya."
+          vorto: "Tidak ada tempat, di manapun tidak"
+        ti: 
+          ekspliko: "Dipakai untuk menunjukkan, menyatakan"
+          frazo: "Saya tinggal di tempat itu yang ada mobil."
+          vorto: "Pada tempat itu, di sana"
+      korelativoj_o: 
+        cxi: 
+          frazo: "Saya (sudah) lupa semuanya."
+          vorto: "Apapun, segala sesuatu, semuanya"
+        ekspliko: "Benda, barang, hal, urusan"
+        i: 
+          frazo: "Sesuatu terjadi!"
+          vorto: Sesuatu
+        ki: 
+          frazo: "Apa ilmu bumi? - Ilmu bumi ilmu pengetahuan."
+          vorto: "Apa,  yang"
+        neni: 
+          frazo: "Apa sajah / sesuatu lebih baik daripada bukan apa apa."
+          vorto: "Tidak ada apa apa,    bukan apa apa,    sama sekali tidak,   dsb"
+        ti: 
+          frazo: "Apa itu? - Itu alat musik."
+          vorto: "Itu  (contoh: itu sudah diketahui umum.  Apa itu?  Itu betul.)"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Menunjukkan kelompok"
+          frazo: "Setiap orang cinta dirinya sendiri!"
+          vorto: "Semua, segala, setiap, masing-masing, tiap orang, tiap hari,  dsb"
+        ekspliko: "Menunjukkan bentuk tunggal.  Kalau bentuk jamak, korelasi itu harus menerima akhiran \"j\"."
+        i: 
+          ekspliko: "Menunjukkan sesuatu yang tidak tentu."
+          frazo: "Orang-orang yang saya tidak mengenal, datang. (yg lalu)"
+          vorto: "Seseorang,  salah seorang"
+        ki: 
+          ekspliko: "Menunjukkan pertanyaan;  menunjukkan hubungan dengan anak kalimat yg lebih dulu."
+          frazo: "Siapa guru anda yang pertama? - Saudara Charles."
+          vorto: "Siapa,  yang mana"
+        neni: 
+          ekspliko: "Memberikan arti negatip."
+          frazo: "Siapa yang datang kemarin?  Tidak seorangpun yang datang kemarin."
+          vorto: "Tidak seorangpun,  tak ada orang"
+        ti: 
+          ekspliko: "Dipakai untuk menunjukkan"
+          frazo: "Buku itu baik sekali."
+          vorto: "Orang itu,  ......... itu"
+      vortaro05: 
+        al: ke
+        anonco: pemberitahuan
+        aĉeti: membeli
+        biciklo: sepeda
+        bildkarto: "kartu gambar"
+        bildo: gambar
+        danco: tarian
+        de: dari
+        deziri: ingin
+        domo: rumah
+        edzo: suami
+        el: dari
+        geografio: "ilmu bumi"
+        gustumi: merasakan
+        jam: sudah
+        loĝi: tinggal
+        ĉambro: kamar
+        ĉokolado: coklat
+        ĝojo: "sukacita, kegembiraan, kesenangan"
+        ĵaluza: "iri hati, cemburu"

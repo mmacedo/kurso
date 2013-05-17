@@ -1,0 +1,112 @@
+--- 
+hu: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Nagyon hasznos szavacskák, amelyek részei egy szabályos és zárt rendszernek. Ezeket a szavacskákat névmásoknak hívják. Minden névmásnak az értelmét a szógyök (elõtag) és a végzõdés (utótag) együttesen adja."
+        titolo: Névmások
+      korelativoj_am: 
+        cxi: 
+          frazo: "Mindazonáltal én mindig vágytam azt meglátogatni."
+          vorto: mindig
+        ekspliko: Idõ
+        i: 
+          frazo: "Voltál valaha Brazíliában?"
+          vorto: "valamikor, egykor, hajdan, egyszer, valaha"
+        ki: 
+          frazo: "Mikor fogja(fogod) megvenni a könyvet?  —  Holnap reggel."
+          vorto: "mikor?, amikor"
+        neni: 
+          frazo: "Nem, én sohasem látogattam meg azt az országot."
+          vorto: "soha, semmikor"
+        ti: 
+          frazo: "Akkor tanultam eszperantót, amikor iskolába jártam."
+          vorto: "akkor, ekkor, abban (ebben) az esetben"
+      korelativoj_cxi: 
+        ekspliko: "Ez a szó közelséget jelent:"
+        frazo-1: "Mi ez?"
+        frazo-2: "Ez egy állat."
+        frazo-3: "Ez az én házam."
+        rimarkigo: "Az \"o\"-val végzõdõ névmások (kio, tio, stb.) kaphatnak (-n) tárgyeset végzõdést, viszont nem kaphatnak (-j) többes számot. Az \"a\" és a \"u\" végzõdésû névmások viszont kaphatnak \"-n\" tárgyesetet és \"-j\" többes számot. Sose használd a \"Ĉu\" szót kérdõszók (\"kio\", \"kie\", stb.) elõtt!"
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Gyûjtést, csoportot mutat."
+          frazo: "A buta ember mindenhová a saját nevét írja."
+          vorto: "mindenütt, mindenhol"
+        ekspliko: "Helyet mutat."
+        i: 
+          ekspliko: "Határozatlanságot mutat."
+          frazo: "A ceruzám valahol a kertben van."
+          vorto: valahol
+        ki: 
+          ekspliko: "Kérdést mutat; mutatja a viszonyt az elõzõ mondattal."
+          frazo: "Hol lakik(laksz)?  —  Kanadában lakom."
+          vorto: "hol?, ahol"
+        neni: 
+          ekspliko: "Nenmlegeséget mutat."
+          frazo: "Sehol sem találtam a könyvemet."
+          vorto: sehol
+        ti: 
+          ekspliko: "Mutatásra használatos."
+          frazo: "Ott lakom, ahol a kocsi van."
+          vorto: ott
+      korelativoj_o: 
+        cxi: 
+          frazo: "Mindent elfelejtettem."
+          vorto: minden
+        ekspliko: "Dolog, tárgy, valami."
+        i: 
+          frazo: "Valami történt!"
+          vorto: valami
+        ki: 
+          frazo: "Mi a földrajz?  —  A földrajz egy tudomány."
+          vorto: "mi?, ami"
+        neni: 
+          frazo: "Jobb valami, mint semmi."
+          vorto: semmi
+        ti: 
+          frazo: "Mi az? — Az egy hangszer."
+          vorto: az
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Gyûjtést, csoportot mutat."
+          frazo: "Minden ember szereti saját magát."
+          vorto: mindenki
+        ekspliko: "Egyént jelõl. Amikor több, mint egyrõl van szó, \"j\" végzõdést kap."
+        i: 
+          ekspliko: "Határozatlanságot mutat."
+          frazo: "Jöttek valakik, akiket nem ismerek."
+          vorto: valaki
+        ki: 
+          ekspliko: "Kérdést mutat; mutatja a viszonyt az elõzõ mondathoz."
+          frazo: "Ki az elsõ oktató? — Károly úr."
+          vorto: "ki; aki"
+        neni: 
+          ekspliko: "Nemlegességet mutat."
+          frazo: "Ki jött tegnap?  —  Senki sem jött tegnap."
+          vorto: "senki, egyik sem, semelyik"
+        ti: 
+          ekspliko: "Mutatásra használatos."
+          frazo: "Az a könyv nagyon jó."
+          vorto: az(személy)
+      vortaro05: 
+        al: "felé, tova"
+        anonco: hirdetés
+        aĉeti: venni
+        biciklo: bicikli
+        bildkarto: képeslap
+        bildo: kép
+        danco: tánc
+        de: "-tól,-tõl,-ról,óta,miatt,által,-nak,-nek"
+        deziri: kívánni
+        domo: ház
+        edzo: férj
+        el: "-ból, -bõl, ki-"
+        geografio: földrajz
+        gustumi: ízlelni
+        jam: már
+        loĝi: lakni
+        ĉambro: szoba
+        ĉokolado: csokoládé
+        ĝojo: élvezet
+        ĵaluza: féltékeny

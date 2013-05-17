@@ -1,0 +1,112 @@
+--- 
+hr: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "To su riječce vrlo korisne, koje čine pravilan i zatvoren sustav. Te riječi se zovu korelativi. Značenje svakog korelativa se dobiva kombinacijom korijena ili prefiksa i završetka ili sufiksa."
+        titolo: Korelativi
+      korelativoj_am: 
+        cxi: 
+          frazo: "Ipak, uvijek sam ju želio posjetiti."
+          vorto: uvijek
+        ekspliko: Vrijeme
+        i: 
+          frazo: "Dali ste ikada posjetili Brazil?"
+          vorto: nekada
+        ki: 
+          frazo: "Kada ćete kupiti knjigu? — Sutra ujutro."
+          vorto: kada
+        neni: 
+          frazo: "Ne, nikad nisam posjetio tu zemlju."
+          vorto: nikada
+        ti: 
+          frazo: "Učio sam Esperanto tada, kada sam bio u školi."
+          vorto: tada
+      korelativoj_cxi: 
+        ekspliko: "Ta riječca izražava bliskost, ona može biti ispred ili iza korelativa, na kojeg se odnosi."
+        frazo-1: "Što je to?"
+        frazo-2: "To je životinja."
+        frazo-3: "Ovo je moja kuća."
+        rimarkigo: "Korelativi koji završavaju na \"o\" (kio, tio i t. d.) mogu dobiti nastavak za akuzativ (-n), ali ne dobivaju nastavak za množinu (-j). Oni koji završavaju na \"a\" i \"u\" mogu dobiti \"-n\" kao i \"-j\". Ispred upitnih riječi (\"kio\", \"kie\" i t. d.) ne dolazi riječca \"ću\"."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Općeniti oblik."
+          frazo: "Glupan svuda svoje ime piše."
+          vorto: svugdje
+        ekspliko: "Pokazuje mjesto"
+        i: 
+          ekspliko: "Pokazuje neodređenost."
+          frazo: "Moja olovka je negdje u vrtu."
+          vorto: negdje
+        ki: 
+          ekspliko: "Upitna zamjenica; odnosi se na predhodnu složenu rečenicu."
+          frazo: "Gdje stanujete? — Stanujem u Kanadi."
+          vorto: gdje
+        neni: 
+          ekspliko: "Niječni oblik"
+          frazo: "Nigdje nisam našao moju knjigu."
+          vorto: nigdje
+        ti: 
+          ekspliko: "Pokazna zamjenica."
+          frazo: "Stanujem tamo, gdje je auto."
+          vorto: tamo
+      korelativoj_o: 
+        cxi: 
+          frazo: "Zaboravio sam sve."
+          vorto: sve
+        ekspliko: "Stvar (djelo, predmet, tvar)."
+        i: 
+          frazo: "Nešto se dogodilo!"
+          vorto: nešto
+        ki: 
+          frazo: "Što je zemljopis? — Zemljopis je znanost."
+          vorto: što
+        neni: 
+          frazo: "Bolje nešto, nego ništa."
+          vorto: ništa
+        ti: 
+          frazo: "Što je to? - To je glazbalo."
+          vorto: tio
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Općeniti oblik."
+          frazo: "Svaki čovjek voli sebe samog."
+          vorto: svatko
+        ekspliko: "Označuje jedinku. Kada se radi o više od jedan, onda on dobiva nastavak za množinu \"j\"."
+        i: 
+          ekspliko: "Neodređeni oblik."
+          frazo: "Došle su neke osobe, koje ne poznajem."
+          vorto: netko
+        ki: 
+          ekspliko: "Upitne zamjenice; pokazuje odnos prema predhodnoj složenoj rečenici."
+          frazo: "Tko je bio vaš prvi učitelj? - Gospodin Karlo."
+          vorto: tko
+        neni: 
+          ekspliko: "Niječni oblik."
+          frazo: "Tko je došao jučer? — Nitko nije došao jučer."
+          vorto: nitko
+        ti: 
+          ekspliko: "Koristi se za tvorbu pokaznih zamjenica."
+          frazo: "Ta knjiga je vrlo dobra."
+          vorto: taj
+      vortaro05: 
+        al: "k, ka"
+        anonco: oglas
+        aĉeti: kupiti
+        biciklo: bicikl
+        bildkarto: razglednica
+        bildo: slika
+        danco: ples
+        de: od
+        deziri: željeti
+        domo: kuća
+        edzo: suprug
+        el: iz
+        geografio: zemljopis
+        gustumi: kušati
+        jam: već
+        loĝi: stanovati
+        ĉambro: soba
+        ĉokolado: čokolada
+        ĝojo: veselje
+        ĵaluza: ljubomoran

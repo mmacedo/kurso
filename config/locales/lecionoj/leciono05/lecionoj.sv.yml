@@ -1,0 +1,119 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: |-
+            Här följer en grupp mycket användbara småord som ingår i en regelbunden och sluten tabell. 
+            Dessa småord kallas för korrelativ. Betydelsen beror av vilken bokstavskombination man 
+            placerar före och efter den gemensamma bokstaven " i " .
+        titolo: "Korrelativa tabellen"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Men, jag har alltid önskat besöka det."
+          vorto: alltid
+        ekspliko: Tid
+        i: 
+          frazo: "Har du besökt Brasilien någon gång?"
+          vorto: "någon gång, en gång"
+        ki: 
+          frazo: "När kommer du att köpa boken? — I morgon på morgonen."
+          vorto: "när: då, när"
+        neni: 
+          frazo: "Nej, jag har aldrig besökt detta land."
+          vorto: aldrig
+        ti: 
+          frazo: "Jag lärde (mig) esperanto då, när jag gick (var) i skolan."
+          vorto: då
+      korelativoj_cxi: 
+        ekspliko: "Detta lilla ord indikerar närhet: Det kan placeras framför eller efter det korelativ det tillhör."
+        frazo-1: "Vad är det här?"
+        frazo-2: "Detta  är ett djur."
+        frazo-3: "Det här är mitt hus."
+        rimarkigo: |-
+            De korrelativa ord som slutar med 'o' ('kio', 'tio' osv.) kan få ackusativändelsen (-n) men 
+            inte pluraländelsen (-j). De som slutar med 'a' och 'u' kan få såväl ändelsen '-n' som '-J'. 
+            Framför frågeorden ('kio', 'kie' osv. ) skall man inte använda det allmänna frågeordet  
+            'ĉu'.
+      korelativoj_e: 
+        cxi: 
+          ekspliko: Distributiva
+          frazo: "En oklok person skriver sitt namn överallt."
+          vorto: överallt
+        ekspliko: Plats
+        i: 
+          ekspliko: "Indefinita (obestämda)"
+          frazo: "Min penna finns någonstans i trädgården"
+          vorto: "någonstans, obestämd plats"
+        ki: 
+          ekspliko: "Frågande och relativa"
+          frazo: "Var bor du? — Jag bor i Kanada."
+          vorto: "var, varest"
+        neni: 
+          ekspliko: Nekande
+          frazo: "Jag fann inte min bok någonstans."
+          vorto: "ingenstans, ingenstädes"
+        ti: 
+          ekspliko: Demonstrativa
+          frazo: "Jag bor där, där det är (finns) en bil."
+          vorto: där
+      korelativoj_o: 
+        cxi: 
+          frazo: "Jag glömde allting"
+          vorto: "allt, allting"
+        ekspliko: "Sak, förmål"
+        i: 
+          frazo: "Något hände!"
+          vorto: "något, någonting"
+        ki: 
+          frazo: "Vad är geografi? — Geografi är en vetenskap."
+          vorto: "vad: vilket,(något) som"
+        neni: 
+          frazo: "Bättre något än inget"
+          vorto: "ingenting, inget"
+        ti: 
+          frazo: "Vad är detta? - Detta är ett musikinstrument."
+          vorto: "detta, det där"
+      korelativoj_u: 
+        cxi: 
+          ekspliko: Distributiva
+          frazo: "Varje människa älskar sig själv"
+          vorto: "var och en, varje"
+        ekspliko: "Anger individ eller specifik sak. Gäller det fler än en/ett skall pluraländelsen  \"j\" användas."
+        i: 
+          ekspliko: "Odefinierade / Indefinita"
+          frazo: "Det kom några personer, som jag inte känner"
+          vorto: "någon (person eller sak)"
+        ki: 
+          ekspliko: "Frågeord; korrelativ som anger relation till föregående sats."
+          frazo: "Vem var din första lärare — Herr (magister) Karl."
+          vorto: "vem: vilken, som"
+        neni: 
+          ekspliko: Nekande
+          frazo: "Vem kom i går? — Ingen kom i går."
+          vorto: ingen
+        ti: 
+          ekspliko: Utpekande
+          frazo: "Denna bok är mycket bra."
+          vorto: "denne, den där"
+      vortaro05: 
+        al: till/åt
+        anonco: annons
+        aĉeti: köpa
+        biciklo: cykel
+        bildkarto: vykort
+        bildo: bild
+        danco: dans
+        de: av/från
+        deziri: önska
+        domo: hus
+        edzo: make
+        el: från/ur
+        geografio: geografi
+        gustumi: "smaka (på)"
+        jam: redan
+        loĝi: bo
+        ĉambro: rum
+        ĉokolado: choklad
+        ĝojo: glädje
+        ĵaluza: svartsjuk

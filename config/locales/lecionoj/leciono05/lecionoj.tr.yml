@@ -1,0 +1,112 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono05: 
+      korelativoj: 
+        ekspliko: "Doğru ve kapalı sistemin bir parçası olan bu sisteme biz nispi zamirler diyoruz. Her nispi zamirlerin manası onun kökünün ön takısının ve son takısının birleşmesi sonucudur."
+        titolo: "Nispi Zamirler"
+      korelativoj_am: 
+        cxi: 
+          frazo: "Fakat onu her zaman ziyaret etmek isterim."
+          vorto: "Her zaman"
+        ekspliko: Zaman
+        i: 
+          frazo: "Brezilyada hiç bulundun mu?"
+          vorto: "Bir zamanlar"
+        ki: 
+          frazo: "Kitabı ne zaman satın alacaksın? — Yarın sabah."
+          vorto: "Ne zaman"
+        neni: 
+          frazo: "Hayır, bu ülkeyi hiçbir zaman ziyaret etmedim."
+          vorto: "Hiçbir zaman"
+        ti: 
+          frazo: "Ben Esperantoyu, okulda olduğum zaman öğrendim."
+          vorto: "O zaman"
+      korelativoj_cxi: 
+        ekspliko: "Bu kelimecik yakınlığı işaret etmekte, kiminle ilgili ise zamirin önünde veya arkasında olabilir."
+        frazo-1: "Bu nedir ?"
+        frazo-2: "Bu bir hayvandır."
+        frazo-3: "Bu benim evim."
+        rimarkigo: "Sonu \"o\" harfi ile biten nispi zamirler ( Ne , O , vb.) \"i\" halinin sonunu ( -n harfini ) alabilirler.( Neyi , Onu) Fakat, çoğullayıcı olan \"j\" harfini alamazlar."
+      korelativoj_e: 
+        cxi: 
+          ekspliko: "Genellemeyi göstermekte;"
+          frazo: "Akılsız heryere adını yazar."
+          vorto: "Her yerde"
+        ekspliko: "Yeri göstermektedir."
+        i: 
+          ekspliko: "Belirsizlik ifade etmekte."
+          frazo: "Benim kalemim orada bahçede bir yerdedir."
+          vorto: "Herhangi bir yerde"
+        ki: 
+          ekspliko: "Soru göstermekte; önceki basit cümle ile ilişkiyi göstermektedir."
+          frazo: "Nerede oturuyorsun? — Ben Kanada'da oturuyorum."
+          vorto: Nerede
+        neni: 
+          ekspliko: "Olumsuz anlamı göstermektedir."
+          frazo: "Kitabımı hiçbir yerde bulamadım."
+          vorto: "Hiçbir yerde"
+        ti: 
+          ekspliko: "İşaret göstermek için kullanılır."
+          frazo: "Ben arabanın olduğu yerde oturuyorum."
+          vorto: Orada
+      korelativoj_o: 
+        cxi: 
+          frazo: "Ben herşeyi unuttum."
+          vorto: Herşey
+        ekspliko: "İş, eşya, nesne"
+        i: 
+          frazo: "Birşey oldu !"
+          vorto: Birşey
+        ki: 
+          frazo: "Coğrafya nedir? — Coğrafya bir bilimdir."
+          vorto: Ne
+        neni: 
+          frazo: "Hiçbir şeyden, daha iyi bir şey."
+          vorto: "Hiç birşey"
+        ti: 
+          frazo: "O nedir? — O müzik aletidir."
+          vorto: O
+      korelativoj_u: 
+        cxi: 
+          ekspliko: "Genellemeyi göstermekte;"
+          frazo: "Her insan kendisini sever."
+          vorto: "Herkes , her kimse"
+        ekspliko: "\"u\" bir şahsı gösterir, eğer kişi sayısı birden fazla ise burda \"j\" harfini ekleyerek çoğullanabilir.."
+        i: 
+          ekspliko: "Belirsizlik göstermektedir."
+          frazo: "Tanımadığım birileri geldiler."
+          vorto: "Birisi veya birkimse"
+        ki: 
+          ekspliko: "\"Ki\" -ilgi , -soruyu işaret etmekle , bir önceki basit cümle ile arasındaki bağı göstermektedir."
+          frazo: "Sizin ilk öğretmeniniz kim di ? — Senyor Carlo'dur."
+          vorto: "Kim , Hangisi"
+        neni: 
+          ekspliko: "Olumsuz manayı ifade eder."
+          frazo: "Dün kim geldi? — Dün hiç kimse gelmedi."
+          vorto: "Hiçbir kimse"
+        ti: 
+          ekspliko: "İşaret göstermek için kullanılır."
+          frazo: "O kitap çok iyidir."
+          vorto: "O - o şahıs"
+      vortaro05: 
+        al: "-na takısıdır"
+        anonco: Anons
+        aĉeti: "Satın almak"
+        biciklo: Bisiklet
+        bildkarto: "Resimli kart"
+        bildo: Resim
+        danco: Dans
+        de: "-dan, -den takısı"
+        deziri: "Arzu etmek"
+        domo: Ev
+        edzo: Koca
+        el: "-den takısı"
+        geografio: Coğrafya
+        gustumi: Tatmak
+        jam: "-dan, -den sonra"
+        loĝi: "İkamet etmek"
+        ĉambro: Oda
+        ĉokolado: Çikolata
+        ĝojo: Sevinç
+        ĵaluza: Kıskanç
