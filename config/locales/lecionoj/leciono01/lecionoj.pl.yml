@@ -44,12 +44,12 @@ pl:
           titolo: "Liczba mnoga"
           vi: "Wy  (liczba  mnoga)"
         singularo: 
-          gxi: "Ono  (by określić coś, lub kogoś, gdy  płci nie trzeba  precyzować.)"
           li: "On"
           mi: Ja
-          sxi: Ona
           titolo: "Liczba pojedyńcza"
           vi: "Ty (liczba pojedyńcza)"
+          ĝi: "Ono  (by określić coś, lub kogoś, gdy  płci nie trzeba  precyzować.)"
+          ŝi: Ona
         specialaj: 
           oni: "Oni -   zaimek  bezosobowy, znaczący:  ludzie, wiele,  lub kilka osób, ktoś nieznany,"
           si: "Si ( Zaimek zwrotny trzeciej osoby-on,ona,ono,oni- używany kiedy odnosi się do podmiotu  zdania.)"
@@ -101,10 +101,10 @@ pl:
           oni-estos: "Będzie się"
           vi-estis: "Wy byliście"
         singularo: 
-          gxi-estos: "Ono  będzie"
           li-estis: "On był"
           mi-estas: "Ja jestem"
-          sxi-estas: "Ona  jest"
+          ĝi-estos: "Ono  będzie"
+          ŝi-estas: "Ona  jest"
         titolo: Czasowniki
       vortaro01: 
         amiko: przyjaciel

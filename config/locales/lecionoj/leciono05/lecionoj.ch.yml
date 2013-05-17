@@ -6,9 +6,6 @@ ch:
         ekspliko: 下面是一些非常有用的词，它们是有规则的封闭体系中的一部分，称为相关词。每个相关词的意思是它的词根（前缀）与词尾（后缀）相结合的产物。
         titolo: 相关词
       korelativoj_am: 
-        cxi: 
-          frazo: 然而我一直想访问它。
-          vorto: 总是，一直
         ekspliko: 时间
         i: 
           frazo: 你曾去过巴西吗？
@@ -22,6 +19,9 @@ ch:
         ti: 
           frazo: 当我在学校的时候，我学了世界语。
           vorto: 那时
+        ĉi: 
+          frazo: 然而我一直想访问它。
+          vorto: 总是，一直
       korelativoj_cxi: 
         ekspliko: 这个词表示近的意思，相当于“这”，可位于与其关联的相关词的前面或后面。
         frazo-1: 这是什么？
@@ -29,10 +29,6 @@ ch:
         frazo-3: 这是我的房子。
         rimarkigo: "以“o”结尾的相关词（如kio,tio等）可以有宾格词尾（如kion, tion），但不能用复数词尾“-j”。"
       korelativoj_e: 
-        cxi: 
-          ekspliko: 表示集体，集合。
-          frazo: 傻瓜到处写自己的名字。
-          vorto: 处处，到处
         ekspliko: 表示地点。
         i: 
           ekspliko: 表示不定的意思。
@@ -50,10 +46,11 @@ ch:
           ekspliko: 用于指出，指示。
           frazo: 我住在那辆车那边。
           vorto: 那里
+        ĉi: 
+          ekspliko: 表示集体，集合。
+          frazo: 傻瓜到处写自己的名字。
+          vorto: 处处，到处
       korelativoj_o: 
-        cxi: 
-          frazo: 我忘记了一切。
-          vorto: 一切
         ekspliko: 事和物
         i: 
           frazo: 出事了！
@@ -67,11 +64,10 @@ ch:
         ti: 
           frazo: "那是什么？—— 那是乐器。"
           vorto: 那个
+        ĉi: 
+          frazo: 我忘记了一切。
+          vorto: 一切
       korelativoj_u: 
-        cxi: 
-          ekspliko: 表示集体，集合。
-          frazo: 每人都自爱。
-          vorto: 每个，每人
         ekspliko: "表示个体。如果表示一个以上时,必须用词尾“j”。"
         i: 
           ekspliko: 表示不定意思。
@@ -89,6 +85,10 @@ ch:
           ekspliko: 用于指出，指明。
           frazo: 那本书非常好。
           vorto: 那，那个
+        ĉi: 
+          ekspliko: 表示集体，集合。
+          frazo: 每人都自爱。
+          vorto: 每个，每人
       vortaro05: 
         al: 向（某人，某处，表示趋近于那个方向）
         anonco: 通知，公告

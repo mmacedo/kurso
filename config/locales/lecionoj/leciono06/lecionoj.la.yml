@@ -6,9 +6,6 @@ la:
         ekspliko: "Tagad iemācīsimies pārejos korelatīvus. Iegaumējiet, ka korelatīvu sistēma ir slēgta, tas nozīmē, ka nevar atvasināt jaunus vārdus, kā tikai tos, kurus tagad apskatīsim."
         titolo: Korelatīvi
       korelativoj_a: 
-        cxi: 
-          frazo: "Jebkāda palīdzība ir laipni gaidīta."
-          vorto: "Ikkatrs, ikviens, katrs, jebkurš, visāds"
         ekspliko: "Izsaka kvalitāti, veidu, šķiru (tas var iegūt galotnes -j un -n)"
         i: 
           frazo: "Vai jums ir kaut kādas šaubas par esperanto gramatiku?"
@@ -22,10 +19,10 @@ la:
         ti: 
           frazo: "Es neēdīšu tādu maizi."
           vorto: "Tāds, tāda, (dažkārt) tik"
+        ĉi: 
+          frazo: "Jebkāda palīdzība ir laipni gaidīta."
+          vorto: "Ikkatrs, ikviens, katrs, jebkurš, visāds"
       korelativoj_al: 
-        cxi: 
-          frazo: "Jūs jautājat, kāpēc es mīlu viņu. Es atbildu: visādu iemeslu dēļ!"
-          vorto: "Dažādu iemeslu dēļ; katrā ziņā"
         ekspliko: Iemesls
         i: 
           frazo: "Es kaut kāda iemesla dēļ jūs vēl nepazīstu."
@@ -39,11 +36,10 @@ la:
         ti: 
           frazo: "Viņa ir ļoti skaista. Tāpēc es mīlu viņu."
           vorto: "Tādēļ, tāpēc"
+        ĉi: 
+          frazo: "Jūs jautājat, kāpēc es mīlu viņu. Es atbildu: visādu iemeslu dēļ!"
+          vorto: "Dažādu iemeslu dēļ; katrā ziņā"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Parāda kopumu, grupu."
-          frazo: "Viņi man visādi palīdzēja."
-          vorto: Visādi
         ekspliko: "Maniere, veids"
         i: 
           ekspliko: "Parāda nenoteiktību."
@@ -61,10 +57,11 @@ la:
           ekspliko: "Tiek lietots, lai uz kaut ko norādītu."
           frazo: "Viņa raksta tik labi, kā skolotāja."
           vorto: "Tā; tik"
+        ĉi: 
+          ekspliko: "Parāda kopumu, grupu."
+          frazo: "Viņi man visādi palīdzēja."
+          vorto: Visādi
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto valoda pieder visiem."
-          vorto: "Visu, visiem piederošs"
         ekspliko: "Parāda piederību."
         i: 
           frazo: "Es atradu kaut kā grāmatu."
@@ -78,10 +75,10 @@ la:
         ti: 
           frazo: "Kaķis skraidīja uz mājas un bojāja tās jumtu."
           vorto: "Tā, tās; tam, tai piederošs"
+        ĉi: 
+          frazo: "Esperanto valoda pieder visiem."
+          vorto: "Visu, visiem piederošs"
       korelativoj_om: 
-        cxi: 
-          frazo: "Cik benzīna jūs gribat? — Es gribu visu, cik jums ir."
-          vorto: "Viss (viss daudzums)"
         ekspliko: "Izsaka daudzumu."
         i: 
           frazo: "Man vajag nopirkt kaut cik kafijas."
@@ -95,6 +92,9 @@ la:
         ti: 
           frazo: "Viņš ēda tik, cik viņš gribēja."
           vorto: "Tik (daudz)"
+        ĉi: 
+          frazo: "Cik benzīna jūs gribat? — Es gribu visu, cik jums ir."
+          vorto: "Viss (viss daudzums)"
       relativoj: 
         ekspliko-1: "Vārdi, kuri sākas ar \"ki-\", arī var iesākt frāzi bez jautājuma nozīmes.  Tie ir tā sauktie saikļi, jo tie parāda attiecību starp palīgteikumu un virsteikumu."
         ekspliko-2: "Augšējā frāzē \"kiun\" attiecas uz \"tiu frukto\"."

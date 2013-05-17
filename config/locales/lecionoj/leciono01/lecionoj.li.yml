@@ -44,12 +44,12 @@ li:
           titolo: Daugiskaita
           vi: "jūs (daugiskaita)"
         singularo: 
-          gxi: "jis, ji (kalbant apie daiktus, gyvulius ir kūdikius)"
           li: jis
           mi: aš
-          sxi: ji
           titolo: Vienaskaita
           vi: "tu, Jūs (mandagiai kreipiantis)"
+          ĝi: "jis, ji (kalbant apie daiktus, gyvulius ir kūdikius)"
+          ŝi: ji
         specialaj: 
           oni: "Beasmenis įvardis. Žymi neapibrėžtą asmenį ar asmenis ir turi reikšmę \"kažkas, kai kas, žmonės\". Pvz.: oni parolas - kalbama, oni pensas - manoma. Į lietuvių kalbą \"oni\" neverčiamas."
           si: "savęs, save, sau (sangrąžinis įvardis ir yra vartojamas tik su trečiojo asmens įvardžiais)."
@@ -101,10 +101,10 @@ li:
           oni-estos: "bus (kažkas, kai kas, kas nors)"
           vi-estis: "jūs buvote"
         singularo: 
-          gxi-estos: "jis (ji ) bus"
           li-estis: "jis buvo"
           mi-estas: "aš esu"
-          sxi-estas: "ji yra"
+          ĝi-estos: "jis (ji ) bus"
+          ŝi-estas: "ji yra"
         titolo: Veiksmažodžiai
       vortaro01: 
         amiko: draugas

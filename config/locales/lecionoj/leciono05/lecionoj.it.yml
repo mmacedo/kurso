@@ -6,9 +6,6 @@ it:
         ekspliko: "Ecco alcune particelle molto utili (che appartengono ad un sistema regolare e conchiuso), denominate \"correlativi\". Il significato di ciascun correlativo risulta dalla combinazione dei significati della sua prima parte (prefisso) e della sua terminazione (suffisso)."
         titolo: Correlativi
       korelativoj_am: 
-        cxi: 
-          frazo: "Tuttavia, ho sempre desiderato visitarlo."
-          vorto: Sempre
         ekspliko: "Denota tempo"
         i: 
           frazo: "Hai mai visitato il Brasile?"
@@ -22,6 +19,9 @@ it:
         ti: 
           frazo: "Ho studiato l'esperanto [allora] quando ero a scuola."
           vorto: "Allora; A quel tempo."
+        ĉi: 
+          frazo: "Tuttavia, ho sempre desiderato visitarlo."
+          vorto: Sempre
       korelativoj_cxi: 
         ekspliko: "Questa particella indica vicinanza a chi parla; può essere collocata sia davanti - sia dietro - al correlativo cui si riferisce:"
         frazo-1: "Cos'è questo / questa cosa?"
@@ -29,10 +29,6 @@ it:
         frazo-3: "Questa è la mia casa."
         rimarkigo: "I correlativi che terminano in -o (kio, tio, etc.) possono ricevere la terminazione dell'accusativo (-n), ma non quella del plurale (-j). Quelli che terminano in -a e -u possono ricevere sia la terminazione -n, sia la terminazione -j. Davanti ai correlativi interrogativi (kiu, kio, kie, etc.) non si usa la particella \"ĉu\"."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
-          frazo: "Lo stolto scrive il proprio nome dappertutto."
-          vorto: "In ogni luogo; Dappertutto; In ogni dove."
         ekspliko: "Denota un luogo."
         i: 
           ekspliko: "Denota indefinitezza."
@@ -50,10 +46,11 @@ it:
           ekspliko: "Usato per indicare, mostrare."
           frazo: "Io abito [là], dove c'è l'automobile."
           vorto: "Là; Lì; Colà"
+        ĉi: 
+          ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
+          frazo: "Lo stolto scrive il proprio nome dappertutto."
+          vorto: "In ogni luogo; Dappertutto; In ogni dove."
       korelativoj_o: 
-        cxi: 
-          frazo: "Ho dimenticato ogni cosa."
-          vorto: "Ogni cosa; Tutto."
         ekspliko: "Denota un oggetto, una cosa, un affare."
         i: 
           frazo: "E' accaduto qualcosa!"
@@ -67,11 +64,10 @@ it:
         ti: 
           frazo: "Che è quello (quella cosa)? — [Quello] è uno strumento musicale."
           vorto: "Ciò; Quello; Quella cosa"
+        ĉi: 
+          frazo: "Ho dimenticato ogni cosa."
+          vorto: "Ogni cosa; Tutto."
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
-          frazo: "Ogni persona ama se stessa (ognuno ama se stesso)."
-          vorto: "Ognuno; Ogni; Ciascheduno."
         ekspliko: "Denota un individuo. Se gli individui sono più d'uno, prende la terminazione -j del plurale."
         i: 
           ekspliko: "Denota indefinitezza."
@@ -89,6 +85,10 @@ it:
           ekspliko: "Usato per indicare, mostrare."
           frazo: "Quel libro è molto buono."
           vorto: "Quello / a; Colui / Colei"
+        ĉi: 
+          ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
+          frazo: "Ogni persona ama se stessa (ognuno ama se stesso)."
+          vorto: "Ognuno; Ogni; Ciascheduno."
       vortaro05: 
         al: a
         anonco: "[un] annuncio"

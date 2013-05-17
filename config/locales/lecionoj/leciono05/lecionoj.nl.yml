@@ -10,9 +10,6 @@ nl:
             "achtervoegsels" in de "tabel". Met deze 5+10=15 ben je meteen 5 x 10=50 zeer nuttige woordjes rijker!
         titolo: "Correlatieven (ook \"Tabelwoorden\" genoemd)"
       korelativoj_am: 
-        cxi: 
-          frazo: "Nochtans heb ik altijd verlangd (verlangde ik altijd) het te bezoeken."
-          vorto: Altijd
         ekspliko: TIJDSTIP.
         i: 
           frazo: "Heb je ooit Brazilië bezocht?"
@@ -26,6 +23,9 @@ nl:
         ti: 
           frazo: "Ik leerde Esperanto (dan, wanneer) toen ik op school zat."
           vorto: "Op dat ogenblik, toen, dan"
+        ĉi: 
+          frazo: "Nochtans heb ik altijd verlangd (verlangde ik altijd) het te bezoeken."
+          vorto: Altijd
       korelativoj_cxi: 
         ekspliko: "Dit woordje ĉi geeft nabijheid aan; het kan zowel voor als na het correlatief staan, waarop het betrekking heeft."
         frazo-1: "Wat is dit?"
@@ -33,10 +33,6 @@ nl:
         frazo-3: "Dit is mijn huis."
         rimarkigo: "De correlatieven die op o eindigen (\"kio\", \"tio\" enz.) kunnen de naamvalsuitgang -n krijgen maar niet de meervoudsuitgang  -j. Die, welke eindigen op a  en u kunnen -j en -n  krijgen."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Wijst op een allesomvattende verzameling"
-          frazo: "Een dwazerik schrijft overal zijn naam."
-          vorto: Overal
         ekspliko: "Wijst op een PLAATS."
         i: 
           ekspliko: "Toont de onbepaaldheid."
@@ -54,10 +50,11 @@ nl:
           ekspliko: "Gebruikt om aan te wijzen, te tonen."
           frazo: "Ik woon daar, waar de auto is (staat)."
           vorto: Daar
+        ĉi: 
+          ekspliko: "Wijst op een allesomvattende verzameling"
+          frazo: "Een dwazerik schrijft overal zijn naam."
+          vorto: Overal
       korelativoj_o: 
-        cxi: 
-          frazo: "Ik heb alles vergeten. (Ik vergat alles)"
-          vorto: Alles
         ekspliko: "ZAAK,  DING,  VOORWERP."
         i: 
           frazo: "Er is iets gebeurd! (Iets gebeurde)."
@@ -71,11 +68,10 @@ nl:
         ti: 
           frazo: "Wat is dat? — Dat is een muziekinstrument."
           vorto: Dat
+        ĉi: 
+          frazo: "Ik heb alles vergeten. (Ik vergat alles)"
+          vorto: Alles
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Duidt op een allesomvattende verzameling."
-          frazo: "Iedere mens houdt van zichzelf."
-          vorto: "Iedereen, iedere"
         ekspliko: "Wijst een INDIVIDU aan. Als het over meer dan één gaat moet het de uitgang j krijgen."
         i: 
           ekspliko: "Wijst op een onbepaaldheid."
@@ -93,6 +89,10 @@ nl:
           ekspliko: "Wordt gebruikt om aan te wijzen, aan te duiden."
           frazo: "Dat boek is erg goed."
           vorto: "Die, dat (aanwijzend)"
+        ĉi: 
+          ekspliko: "Duidt op een allesomvattende verzameling."
+          frazo: "Iedere mens houdt van zichzelf."
+          vorto: "Iedereen, iedere"
       vortaro05: 
         al: "aan, naar"
         anonco: "advertentie, aankondiging"

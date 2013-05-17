@@ -44,12 +44,12 @@ is:
           titolo: Fleirtala
           vi: þið
         singularo: 
-          gxi: "það (um eitthvað sem ekki er þörf á að greina eftir kyni)"
           li: hann
           mi: ég
-          sxi: hún
           titolo: Eintala
           vi: þú
+          ĝi: "það (um eitthvað sem ekki er þörf á að greina eftir kyni)"
+          ŝi: hún
         specialaj: 
           oni: "Oni (óákveðið fornafn, sem merkir \"menn\"; eða marga eða nokkra einstaklinga; einhverja óþekkta.  Notað þegar menn vilja ekki eða geta ekki bent á einhvern sérstakan."
           si: "si - afturbeygt fornafn þriðju persónu - li, ŝi, ĝi, oni - notað þegar vísað er til geranda (frumlags)). Á íslensku \"sig\"."
@@ -101,10 +101,10 @@ is:
           oni-estos: "\"menn\" verða (í framtíðinni)"
           vi-estis: "þú varst"
         singularo: 
-          gxi-estos: "það verður"
           li-estis: "hann var"
           mi-estas: "ég er"
-          sxi-estas: "hún er"
+          ĝi-estos: "það verður"
+          ŝi-estas: "hún er"
         titolo: Sagnir
       vortaro01: 
         amiko: vinur

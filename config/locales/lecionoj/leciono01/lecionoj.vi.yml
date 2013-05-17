@@ -44,12 +44,12 @@ vi:
           titolo: "Dạng số nhiều"
           vi: "các bạn"
         singularo: 
-          gxi: nó
           li: "anh ấy"
           mi: Tôi
-          sxi: "cô ấy"
           titolo: "Dạng số ít"
           vi: "bạn (số ít)"
+          ĝi: nó
+          ŝi: "cô ấy"
         specialaj: 
           oni: "Một ai đó, họ, người (đại từ chỉ người không rõ ràng, có nghĩa là \" người, một vài người, một người nào đó không rõ ràng\", sử dụng khi bạn không muốn hay không thể nói được ai được chỉ ra."
           si: "(self) đại từ phả thân chỉ người (cả số ít và số nhiều). Qui trở lại cho CHỦ NGỮ của câu. \"Si\" không thể là chủ ngữ hay là một bộ phận của chủ ngữ."
@@ -101,10 +101,10 @@ vi:
           oni-estos: "Họ,người nào đó sẽ (thì)là (bất định)"
           vi-estis: "Bạn (thì)là"
         singularo: 
-          gxi-estos: "Nó sẽ (thì)là"
           li-estis: "Anh ấy (đã) (thì)là"
           mi-estas: "Tôi (thì)là"
-          sxi-estas: "Cô ấy (thì)là"
+          ĝi-estos: "Nó sẽ (thì)là"
+          ŝi-estas: "Cô ấy (thì)là"
         titolo: "Động từ"
       vortaro01: 
         amiko: "bạn bè"

@@ -6,9 +6,6 @@ en:
         ekspliko: "Let us now introduce the remaining correlatives.  Remember that the correlative system is closed, meaning it's not possible to use their beginnings or endings with any other words."
         titolo: Correlatives
       korelativoj_a: 
-        cxi: 
-          frazo: "Every sort of help is welcome."
-          vorto: "all kinds, every kind"
         ekspliko: "indicates sort or type (it can take the \"j\" and \"n\" endings)"
         i: 
           frazo: "Do you have any kind of doubt concerning the grammar of Esperanto?"
@@ -22,10 +19,10 @@ en:
         ti: 
           frazo: "I will not eat that kind of bread."
           vorto: "that kind of, that sort of, such a"
+        ĉi: 
+          frazo: "Every sort of help is welcome."
+          vorto: "all kinds, every kind"
       korelativoj_al: 
-        cxi: 
-          frazo: "You ask why I love you.  I respond: for every reason!"
-          vorto: "for every reason"
         ekspliko: "cause, reason"
         i: 
           frazo: "For some reason, I still don't know you."
@@ -39,11 +36,10 @@ en:
         ti: 
           frazo: "She is very beautiful.  For that reason I love her."
           vorto: "for that reason, so"
+        ĉi: 
+          frazo: "You ask why I love you.  I respond: for every reason!"
+          vorto: "for every reason"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "indicates all members of a group."
-          frazo: "They helped me in every way."
-          vorto: "in every way"
         ekspliko: manner
         i: 
           ekspliko: "indicates something indefinite.  (often translated as \"any\" or \"some\")"
@@ -61,10 +57,11 @@ en:
           ekspliko: "is used to indicate or point.  (Often translated as \"that\" or \"those\")"
           frazo: "She writes as well as the teacher."
           vorto: "like that, in that way (the combination tiel . . . kiel means as . . . as)"
+        ĉi: 
+          ekspliko: "indicates all members of a group."
+          frazo: "They helped me in every way."
+          vorto: "in every way"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto is everybody's language"
-          vorto: "everybody's, everyone's"
         ekspliko: "shows possession"
         i: 
           frazo: "I found someone's book."
@@ -78,10 +75,10 @@ en:
         ti: 
           frazo: "The cat ran on the house and ruined its (that one's — i.e. the house's) roof."
           vorto: "that one's"
+        ĉi: 
+          frazo: "Esperanto is everybody's language"
+          vorto: "everybody's, everyone's"
       korelativoj_om: 
-        cxi: 
-          frazo: "How much gasoline do you want? - I want all that you have."
-          vorto: "all of it, the whole quantity"
         ekspliko: "indicates quantity."
         i: 
           frazo: "I must buy some coffee."
@@ -95,6 +92,9 @@ en:
         ti: 
           frazo: "He ate as much as he wanted."
           vorto: "that quantity, as many, as much (tiom . . . kiom means as . . . as  relative to quantity)"
+        ĉi: 
+          frazo: "How much gasoline do you want? - I want all that you have."
+          vorto: "all of it, the whole quantity"
       relativoj: 
         ekspliko-1: "The \"Ki-\" correlatives can also introduce sentences that are not questions.  In this role they are called \"relatives\" because they show the relationship between a main sentence and a secondary sentence called a subordinate clause or relative clause."
         ekspliko-2: "In the sentence above \"kiun\" refers to \"tiu frukto\"."

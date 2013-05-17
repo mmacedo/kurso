@@ -50,14 +50,14 @@ sv:
           titolo: "Flertal (Plural)"
           vi: ni
         singularo: 
-          gxi: |-
-              cen/det (anger föremål eller person 
-              vars kön man inte behöver precisera)
           li: han
           mi: jag
-          sxi: hon
           titolo: "Ental (singular)"
           vi: "du (ental) Ci = Du  (anv. mest i poesi)"
+          ĝi: |-
+              cen/det (anger föremål eller person 
+              vars kön man inte behöver precisera)
+          ŝi: hon
         specialaj: 
           oni: "man = obestämt pronomen som anger 'människor i allmänhet. Ex. Man kan vad man vill."
           si: |-
@@ -116,10 +116,10 @@ sv:
           oni-estos: "man kommer att vara"
           vi-estis: "ni har varit / Ni var"
         singularo: 
-          gxi-estos: "den/det kommer att vara / bli"
           li-estis: "han var  /  han har varit"
           mi-estas: "jag är"
-          sxi-estas: "hon är"
+          ĝi-estos: "den/det kommer att vara / bli"
+          ŝi-estas: "hon är"
         titolo: Verb
       vortaro01: 
         amiko: vän

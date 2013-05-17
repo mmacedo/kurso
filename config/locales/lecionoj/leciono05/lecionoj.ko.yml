@@ -8,9 +8,6 @@ ko:
             모든 상관사는 어근(접두사)+어미(접미사)로 구성되어 있습니다.
         titolo: 상관사
       korelativoj_am: 
-        cxi: 
-          frazo: "그럼에도 나는 언제나(ĉiam) 그 곳(ĝin)을 가보고 싶어 합니다."
-          vorto: "ĉiam언제나, 모든 시간에"
         ekspliko: 시간
         i: 
           frazo: "당신은 언제 브라질을 한 번 다녀 간 적이 있나요?"
@@ -24,6 +21,9 @@ ko:
         ti: 
           frazo: "나는 내가 학교 다닐 때에, 그 때에 에스페란토를 배웠다."
           vorto: "그 때, 그 시각"
+        ĉi: 
+          frazo: "그럼에도 나는 언제나(ĉiam) 그 곳(ĝin)을 가보고 싶어 합니다."
+          vorto: "ĉiam언제나, 모든 시간에"
       korelativoj_cxi: 
         ekspliko: "이 낱말 <Ĉi>는 근접성을 나타낸다:"
         frazo-1: "이것(ĉi tio)은 무엇입니까?"
@@ -35,10 +35,6 @@ ko:
             의문의 상관사들 앞에는 <ĉu>를   두면 안됩니다.수 있지만,복수어미<-j>는 받지 않는다.
             "a" kaj "u"로 끝나는 상관사들은목적겨어미 "-n"와 복수 어미 "-j"를 받을 수 있다.
       korelativoj_e: 
-        cxi: 
-          ekspliko: "집합,무리를 나타냅니다."
-          frazo: "바보(malsaĝulo)는 자신의 이름을 어디에나(ĉie) 써놓는다."
-          vorto: "ĉie어디라도, 모든 곳에"
         ekspliko: "장소를 가리킵니다."
         i: 
           ekspliko: "불확정함을 나타냅니다."
@@ -56,10 +52,11 @@ ko:
           ekspliko: "지시,방향을 나타냅니다."
           frazo: "나는 저 자동차가aŭto  있는 곳에 산다loĝas."
           vorto: 그곳에
+        ĉi: 
+          ekspliko: "집합,무리를 나타냅니다."
+          frazo: "바보(malsaĝulo)는 자신의 이름을 어디에나(ĉie) 써놓는다."
+          vorto: "ĉie어디라도, 모든 곳에"
       korelativoj_o: 
-        cxi: 
-          frazo: "나는 모든 것을(ĉion)  잊어버렸다."
-          vorto: "ĉio모든 것, 만사, 만물"
         ekspliko: "일, 사물, 물건(aĵo)"
         i: 
           frazo: "뭔가가 일어났다!"
@@ -73,11 +70,10 @@ ko:
         ti: 
           frazo: "그것은 무엇입니까? 그것은 악기입니다."
           vorto: "그것, 저것"
+        ĉi: 
+          frazo: "나는 모든 것을(ĉion)  잊어버렸다."
+          vorto: "ĉio모든 것, 만사, 만물"
       korelativoj_u: 
-        cxi: 
-          ekspliko: "집합,무리를 나타냅니다."
-          frazo: "모든(ĉiu) 사람은 자기 자신을 사랑한다."
-          vorto: "ĉiu 모든 사람, 모두"
         ekspliko: "개개인을 나타냅니다. 둘 이상을 표현할 때는 복수어미 <j>를 붙여야 합니다.\n"
         i: 
           ekspliko: "불확정됨을 보여 줍니다."
@@ -95,6 +91,10 @@ ko:
           ekspliko: "지시를 나타냅니다."
           frazo: "저 책은 아주 좋다."
           vorto: "그 사람, 그것의"
+        ĉi: 
+          ekspliko: "집합,무리를 나타냅니다."
+          frazo: "모든(ĉiu) 사람은 자기 자신을 사랑한다."
+          vorto: "ĉiu 모든 사람, 모두"
       vortaro05: 
         al: "(누구,무엇)에게(전치사)"
         anonco: "알림,공고,통지"

@@ -44,12 +44,12 @@ ch:
           titolo: 复数
           vi: 你们(复数)
         singularo: 
-          gxi: 它(表示事物，动物或不需明确性别的人)
           li: 他
           mi: 我
-          sxi: 她
           titolo: 单数
           vi: 你(单数)
+          ĝi: 它(表示事物，动物或不需明确性别的人)
+          ŝi: 她
         specialaj: 
           oni: Oni：人们；人(指不定的人，可以是单数或复数)
           si: Si：他(或她，它，他们)自己(第三人称反身代词，常用于动词后用以反指施动者)
@@ -101,10 +101,10 @@ ch:
           oni-estos: 人们是
           vi-estis: 你是
         singularo: 
-          gxi-estos: 它是
           li-estis: 他是
           mi-estas: 我是
-          sxi-estas: 她是
+          ĝi-estos: 它是
+          ŝi-estas: 她是
         titolo: 动词
       vortaro01: 
         amiko: 朋友

@@ -6,9 +6,6 @@ cs:
         ekspliko: "Zde předkládáme užitečná slůvka, která jsou částí pravidelného a uzavřeného systému, tvořícího tabulku. Říkáme jim korelativa, slova souvztažná nebo tabulková. Význam každého slůvka je kombinací předpony a přípony."
         titolo: "Tabulková slova (korelativa, slova souvztažná)"
       korelativoj_am: 
-        cxi: 
-          frazo: "Přesto jsem si vždy přál ji navštívit."
-          vorto: Vždy
         ekspliko: Čas
         i: 
           frazo: "Navštívil jste někdy Brazilii?"
@@ -22,6 +19,9 @@ cs:
         ti: 
           frazo: "Učil jsem se esperanto tehdy, když jsem byl ve škole."
           vorto: Tehdy
+        ĉi: 
+          frazo: "Přesto jsem si vždy přál ji navštívit."
+          vorto: Vždy
       korelativoj_cxi: 
         ekspliko: "Toto slůvko označuje větší blízkost: Může stát před tabulkovým slovem nebo za ním."
         frazo-1: "Copak je tohleto?"
@@ -29,10 +29,6 @@ cs:
         frazo-3: "Tohleto je můj dům."
         rimarkigo: "Tabulková slova končící na \"o\" (kio, tio atd.) mohou získat koncovku 4. pádu (-n), ale nemají množné číslo (-j). Slova končící na \"a\" nebo \"u\" mohou získat jak \"-n\", tak \"-j\". Před tázacími slovy (kio, kie atd.) nepoužíváme tázací slůvko \"ĉu\"."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Zahrnuje vše, zevšeobecňuje."
-          frazo: "Hlupák všude svoje jméno píše."
-          vorto: Vše
         ekspliko: "Ukazuje místo."
         i: 
           ekspliko: "Vyjadřuje neurčitost."
@@ -50,10 +46,11 @@ cs:
           ekspliko: "Slouží k ukazování."
           frazo: "Bydlím tam, kde je to auto."
           vorto: Tam
-      korelativoj_o: 
-        cxi: 
-          frazo: "Zapomněl jsem vše."
+        ĉi: 
+          ekspliko: "Zahrnuje vše, zevšeobecňuje."
+          frazo: "Hlupák všude svoje jméno píše."
           vorto: Vše
+      korelativoj_o: 
         ekspliko: "Záležitost, předmět, věc."
         i: 
           frazo: "Něco se stalo!"
@@ -67,11 +64,10 @@ cs:
         ti: 
           frazo: "Co je to? - To je hudební nástroj."
           vorto: To
+        ĉi: 
+          frazo: "Zapomněl jsem vše."
+          vorto: Vše
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Zahrnuje vše, zevšeobecňuje."
-          frazo: "Každý člověk miluje sám sebe."
-          vorto: Každý
         ekspliko: "Ukazuje jednotlivou osobu nebo věc. V množném čísle přibírá koncovku -j."
         i: 
           ekspliko: "Vyjadřuje neurčitost."
@@ -89,6 +85,10 @@ cs:
           ekspliko: "Slouží k ukazování."
           frazo: "Ta kniha je velmi dobrá."
           vorto: "Ten (ta, to)"
+        ĉi: 
+          ekspliko: "Zahrnuje vše, zevšeobecňuje."
+          frazo: "Každý člověk miluje sám sebe."
+          vorto: Každý
       vortaro05: 
         al: k
         anonco: oznámení

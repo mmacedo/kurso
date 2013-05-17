@@ -27,7 +27,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l030', 'vorto'
         mapi 'l031', 'frazo'
       end
-      al 'cxi' do
+      al 'ĉi' do
         mapi 'l032', 'ekspliko'
         mapi 'l033', 'vorto'
         mapi 'l034', 'frazo'
@@ -52,7 +52,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l010', 'vorto'
         mapi 'l035', 'frazo'
       end
-      al 'cxi' do
+      al 'ĉi' do
         mapi 'l046', 'vorto'
         mapi 'l047', 'frazo'
       end
@@ -76,7 +76,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l056', 'vorto'
         mapi 'l057', 'frazo'
       end
-      al 'cxi' do
+      al 'ĉi' do
         mapi 'l055', 'vorto'
         mapi 'l058', 'frazo'
       end
@@ -100,7 +100,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l074', 'vorto'
         mapi 'l075', 'frazo'
       end
-      al 'cxi' do
+      al 'ĉi' do
         mapi 'l076', 'vorto'
         mapi 'l077', 'frazo'
       end
@@ -124,7 +124,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l067', 'vorto'
         mapi 'l068', 'frazo'
       end
-      al 'cxi' do
+      al 'ĉi' do
         mapi 'l069', 'vorto'
         mapi 'l070', 'frazo'
       end

@@ -12,8 +12,8 @@ ko:
         titolo: "수사에서 나온 부사들"
         vortoj: 
           dek: "열(십,10)"
-          dek-naux: "dek naŭ십구(19)"
-          dek-nauxa: "(dek-naŭ)열 아홉째의"
+          dek-naŭ: "dek naŭ십구(19)"
+          dek-naŭa: "(dek-naŭ)열 아홉째의"
           deka: |-
               열째의(열번째의)
               

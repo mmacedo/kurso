@@ -6,9 +6,6 @@ hr:
         ekspliko: "Sada naučimo i ostale korelative. Imajte na umu da je korelativni sustav ograničen na određeni broj, to znači, da ih nije moguće tvoriti još, izvan sada prikazanih."
         titolo: Korelativi
       korelativoj_a: 
-        cxi: 
-          frazo: "Svakakva pomoć je dobrodošla."
-          vorto: svakakav
         ekspliko: "Pokazuje kakvoću, vrstu (može dobivati nastavke \"j\" i \"n\")"
         i: 
           frazo: "Imate li kakvu sumnju o gramatici Esperanta?"
@@ -22,10 +19,10 @@ hr:
         ti: 
           frazo: "Neću jesti takav kruh."
           vorto: takav
+        ĉi: 
+          frazo: "Svakakva pomoć je dobrodošla."
+          vorto: svakakav
       korelativoj_al: 
-        cxi: 
-          frazo: "Vi pitate, zašto vas volim. Odgovaram: radi svega!"
-          vorto: svakako
         ekspliko: "Uzrok, razlog"
         i: 
           frazo: "Ja vas radi nečeg još ne poznajem."
@@ -39,11 +36,10 @@ hr:
         ti: 
           frazo: "Ona je vrlo lijepa. Zato ju volim."
           vorto: zato
+        ĉi: 
+          frazo: "Vi pitate, zašto vas volim. Odgovaram: radi svega!"
+          vorto: svakako
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Prikazuje zbir, grupu."
-          frazo: "Oni su mi pomogli na bilo koji način."
-          vorto: "na svaki način"
         ekspliko: Način
         i: 
           ekspliko: "Pokazuje neodređenost."
@@ -61,10 +57,11 @@ hr:
           ekspliko: "Koristi se indikativno, pokazno."
           frazo: "Ona piše tako dobro, kao i učiteljica."
           vorto: tako
+        ĉi: 
+          ekspliko: "Prikazuje zbir, grupu."
+          frazo: "Oni su mi pomogli na bilo koji način."
+          vorto: "na svaki način"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto je svačiji jezik."
-          vorto: svačiji
         ekspliko: "Pokazuje svojinu."
         i: 
           frazo: "Našao sam nečiju knjigu."
@@ -78,10 +75,10 @@ hr:
         ti: 
           frazo: "Mačak je trčao po kući i oštetio (od kuće) krov."
           vorto: "od onog"
+        ĉi: 
+          frazo: "Esperanto je svačiji jezik."
+          vorto: svačiji
       korelativoj_om: 
-        cxi: 
-          frazo: "Koliko benzina želite? - Želim sve, koliko imate."
-          vorto: svekoliko
         ekspliko: "Prikazuje količinu."
         i: 
           frazo: "Moram kupiti nešto kave."
@@ -95,6 +92,9 @@ hr:
         ti: 
           frazo: "Jeo je toliko, koliko je htio."
           vorto: toliko
+        ĉi: 
+          frazo: "Koliko benzina želite? - Želim sve, koliko imate."
+          vorto: svekoliko
       relativoj: 
         ekspliko-1: "Riječ koja započinje sa \"KI\" može uvoditi i u neupitne rečenice. Takve riječi se zovu relativi, jer pokazuju odnos između zavisne i glavne rečenice."
         ekspliko-2: "U gornjoj rečenici \"kiun\" odnosi se na \"ovo voće\"."

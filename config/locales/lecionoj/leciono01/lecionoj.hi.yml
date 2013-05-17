@@ -44,12 +44,12 @@ hi:
           titolo: "अधिक संक्या में"
           vi: आप
         singularo: 
-          gxi: "वह, यह"
           li: "वह, यह"
           mi: में
-          sxi: "वह, यह"
           titolo: "एक मात्र"
           vi: "तुम, तू, आप"
+          ĝi: "वह, यह"
+          ŝi: "वह, यह"
         specialaj: 
           oni: "उनमे से एक"
           si: "अपने आप"
@@ -105,10 +105,10 @@ hi:
           oni-estos: "कोई होगा"
           vi-estis: "आप थे"
         singularo: 
-          gxi-estos: वह
           li-estis: वह
           mi-estas: मैं
-          sxi-estas: वह
+          ĝi-estos: वह
+          ŝi-estas: वह
         titolo: क्रियाएँ
       vortaro01: 
         amiko: दोस्त

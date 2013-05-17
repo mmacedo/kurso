@@ -44,12 +44,12 @@ tr:
           titolo: Çoğul
           vi: "Siz ( Çoğul )"
         singularo: 
-          gxi: "O ( Cansız varlıklar için )"
           li: "O (erkek )"
           mi: Ben
-          sxi: "O ( Dişil )"
           titolo: Tekil
           vi: "Sen ( Tekil )"
+          ĝi: "O ( Cansız varlıklar için )"
+          ŝi: "O ( Dişil )"
         specialaj: 
           oni: "Mechul Zamir - Esperantoda belirsiz bir zamirdir ki, bu sayısı, cinsi ve tarifi yapılamayan varlıklar için kullanılmaktadır. Veya kişisi belirsiz durumlarda da kullanılmaktadır."
           si: "Refleks Zamiri - Sadece üçüncü şahısların tekil veya çoğul durumlarında kullanılır. \"Si mem\" özne olamaz. Cümledeki özneye dönüşüm yapar."
@@ -101,10 +101,10 @@ tr:
           oni-estos: "Olacaklar - Cansız varlıklar için"
           vi-estis: Sizdiniz
         singularo: 
-          gxi-estos: "O olacaktır - Cansızlar için"
           li-estis: "O idi ( Eril )"
           mi-estas: Benim
-          sxi-estas: "Odur ( Dişil )"
+          ĝi-estos: "O olacaktır - Cansızlar için"
+          ŝi-estas: "Odur ( Dişil )"
         titolo: Fiiller
       vortaro01: 
         amiko: Arkadaş

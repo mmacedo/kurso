@@ -6,9 +6,6 @@ hu:
         ekspliko: "Nagyon hasznos szavacskák, amelyek részei egy szabályos és zárt rendszernek. Ezeket a szavacskákat névmásoknak hívják. Minden névmásnak az értelmét a szógyök (elõtag) és a végzõdés (utótag) együttesen adja."
         titolo: Névmások
       korelativoj_am: 
-        cxi: 
-          frazo: "Mindazonáltal én mindig vágytam azt meglátogatni."
-          vorto: mindig
         ekspliko: Idõ
         i: 
           frazo: "Voltál valaha Brazíliában?"
@@ -22,6 +19,9 @@ hu:
         ti: 
           frazo: "Akkor tanultam eszperantót, amikor iskolába jártam."
           vorto: "akkor, ekkor, abban (ebben) az esetben"
+        ĉi: 
+          frazo: "Mindazonáltal én mindig vágytam azt meglátogatni."
+          vorto: mindig
       korelativoj_cxi: 
         ekspliko: "Ez a szó közelséget jelent:"
         frazo-1: "Mi ez?"
@@ -29,10 +29,6 @@ hu:
         frazo-3: "Ez az én házam."
         rimarkigo: "Az \"o\"-val végzõdõ névmások (kio, tio, stb.) kaphatnak (-n) tárgyeset végzõdést, viszont nem kaphatnak (-j) többes számot. Az \"a\" és a \"u\" végzõdésû névmások viszont kaphatnak \"-n\" tárgyesetet és \"-j\" többes számot. Sose használd a \"Ĉu\" szót kérdõszók (\"kio\", \"kie\", stb.) elõtt!"
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Gyûjtést, csoportot mutat."
-          frazo: "A buta ember mindenhová a saját nevét írja."
-          vorto: "mindenütt, mindenhol"
         ekspliko: "Helyet mutat."
         i: 
           ekspliko: "Határozatlanságot mutat."
@@ -50,10 +46,11 @@ hu:
           ekspliko: "Mutatásra használatos."
           frazo: "Ott lakom, ahol a kocsi van."
           vorto: ott
+        ĉi: 
+          ekspliko: "Gyûjtést, csoportot mutat."
+          frazo: "A buta ember mindenhová a saját nevét írja."
+          vorto: "mindenütt, mindenhol"
       korelativoj_o: 
-        cxi: 
-          frazo: "Mindent elfelejtettem."
-          vorto: minden
         ekspliko: "Dolog, tárgy, valami."
         i: 
           frazo: "Valami történt!"
@@ -67,11 +64,10 @@ hu:
         ti: 
           frazo: "Mi az? — Az egy hangszer."
           vorto: az
+        ĉi: 
+          frazo: "Mindent elfelejtettem."
+          vorto: minden
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Gyûjtést, csoportot mutat."
-          frazo: "Minden ember szereti saját magát."
-          vorto: mindenki
         ekspliko: "Egyént jelõl. Amikor több, mint egyrõl van szó, \"j\" végzõdést kap."
         i: 
           ekspliko: "Határozatlanságot mutat."
@@ -89,6 +85,10 @@ hu:
           ekspliko: "Mutatásra használatos."
           frazo: "Az a könyv nagyon jó."
           vorto: az(személy)
+        ĉi: 
+          ekspliko: "Gyûjtést, csoportot mutat."
+          frazo: "Minden ember szereti saját magát."
+          vorto: mindenki
       vortaro05: 
         al: "felé, tova"
         anonco: hirdetés

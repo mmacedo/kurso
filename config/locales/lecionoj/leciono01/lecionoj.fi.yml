@@ -44,12 +44,12 @@ fi:
           titolo: Monikko.
           vi: "Te (monikko)"
         singularo: 
-          gxi: Se
           li: "Hän (mies)"
           mi: Minä
-          sxi: "Hän (nainen)"
           titolo: Yksikkö.
           vi: "Sinä tai Te (yksikössä)"
+          ĝi: Se
+          ŝi: "Hän (nainen)"
         specialaj: 
           oni: "Oni, persoonaton pronomini, jolla ilmaistaan passiivia."
           si: "Si, kolmannen persoonan refleksiivipronomini."
@@ -101,10 +101,10 @@ fi:
           oni-estos: "Tullaan olemaan (passiivin futuuri)"
           vi-estis: "Te olitte; sinä olit"
         singularo: 
-          gxi-estos: "Se on (tulee olemaan)."
           li-estis: "Hän (mies) on."
           mi-estas: "Minä olen."
-          sxi-estas: "Hän (nainen) on."
+          ĝi-estos: "Se on (tulee olemaan)."
+          ŝi-estas: "Hän (nainen) on."
         titolo: Verbit.
       vortaro01: 
         amiko: ystävä

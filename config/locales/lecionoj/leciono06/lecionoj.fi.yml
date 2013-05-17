@@ -6,9 +6,6 @@ fi:
         ekspliko: "Nyt opimme loput korrelatiivit. Muista että korrelatiivit on suljettu järjestelmä, johon ei voi johtaa muita, kun nyt esilletulevat korrelatiivit."
         titolo: Korrelaatiivit
       korelativoj_a: 
-        cxi: 
-          frazo: "Kaikenlainen apu on tervetullut."
-          vorto: Kaikenlainen
         ekspliko: "Osoittaa laatua, lajia (se voi saada päätteet \"j\" ja \"n\")"
         i: 
           frazo: "Onko sinulla jonkinlainen epäilys Esperanton kiliopista?"
@@ -22,10 +19,10 @@ fi:
         ti: 
           frazo: "Minä en syö tuollaista leipää."
           vorto: "Sellainen, tuollainen"
+        ĉi: 
+          frazo: "Kaikenlainen apu on tervetullut."
+          vorto: Kaikenlainen
       korelativoj_al: 
-        cxi: 
-          frazo: "Sinä kysyt, miksi minä rakastan sinua. Minä vastaan: joka syystä!"
-          vorto: "Joka syystä"
         ekspliko: "Syy, aihe"
         i: 
           frazo: "Minä sinua jostakin syystä vielä en tunne."
@@ -39,11 +36,10 @@ fi:
         ti: 
           frazo: "Hän on hyvin kaunis. Siksi minä rakastan häntä."
           vorto: Siksi
+        ĉi: 
+          frazo: "Sinä kysyt, miksi minä rakastan sinua. Minä vastaan: joka syystä!"
+          vorto: "Joka syystä"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Osoittaa ryhmää, joukkoa."
-          frazo: "Kaikella tapaa he auttoivat minua."
-          vorto: "Kaikin tavoin"
         ekspliko: Tapa
         i: 
           ekspliko: "Osoittaa epämääräisyyttä."
@@ -64,10 +60,11 @@ fi:
           ekspliko: "Käytetään määrittelemään, osoittamaan."
           frazo: "Hän kirjoittaa niin hyvin, kuin opettaja."
           vorto: Siten
+        ĉi: 
+          ekspliko: "Osoittaa ryhmää, joukkoa."
+          frazo: "Kaikella tapaa he auttoivat minua."
+          vorto: "Kaikin tavoin"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto on jokaisen kieli."
-          vorto: "Jokaisen, kaikkien"
         ekspliko: "Osoittaa omistusta."
         i: 
           frazo: "Löysin jonkun (henkilön) kirjan."
@@ -81,10 +78,10 @@ fi:
         ti: 
           frazo: "Kissa juoksi talon päällä ja vikuutti sen katon."
           vorto: "Sen, tuon"
+        ĉi: 
+          frazo: "Esperanto on jokaisen kieli."
+          vorto: "Jokaisen, kaikkien"
       korelativoj_om: 
-        cxi: 
-          frazo: "Kuinka paljon bensiiniä sinä haluat? - Haluan koko sen määrän, jonka verran sinulla on."
-          vorto: "Koko määrä"
         ekspliko: "Osoittaa määrää."
         i: 
           frazo: "Minun pitää ostaa jonkin verran kahvia."
@@ -98,6 +95,9 @@ fi:
         ti: 
           frazo: "Hän söi niin paljon, minkä verran hän halusi."
           vorto: "Niin paljon"
+        ĉi: 
+          frazo: "Kuinka paljon bensiiniä sinä haluat? - Haluan koko sen määrän, jonka verran sinulla on."
+          vorto: "Koko määrä"
       relativoj: 
         ekspliko-1: "\"Ki\" alkuisilla sanoilla voidaan muodostaa lauseita myös ilman kysyvää merkitystä. Silloin niitä kutsutaan relatiiveiksi, koska ne osoittavat suhdetta sivulauseen ja päälauseen välillä."
         ekspliko-2: "Ylläolevassa lauseessa \"kiun\" on suhteessa \"tiu frukto\"."

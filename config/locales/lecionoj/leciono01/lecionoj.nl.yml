@@ -47,14 +47,14 @@ nl:
           titolo: Meervoud
           vi: "Jullie ( of U, meervoud)"
         singularo: 
-          gxi: |-
-              Het (wijst op iets of iemand, waarvan geen 
-              geslacht  te bepalen is)
           li: Hij
           mi: Ik
-          sxi: Zij
           titolo: Enkelvoud
           vi: "Jij, gij (of u)"
+          ĝi: |-
+              Het (wijst op iets of iemand, waarvan geen 
+              geslacht  te bepalen is)
+          ŝi: Zij
         specialaj: 
           oni: |-
               MEN (onpersoonlijk voornaamwoord). In het nederlands gebruikt men i.p.v. "men" ook vaak "je" of  "ze". 
@@ -114,10 +114,10 @@ nl:
           oni-estos: "Men zal zijn"
           vi-estis: "Jullie waren ( Jij was) (gij waart)"
         singularo: 
-          gxi-estos: "Het (bijv. het kind) zal zijn"
           li-estis: "Hij was"
           mi-estas: "Ik ben"
-          sxi-estas: "Zij is"
+          ĝi-estos: "Het (bijv. het kind) zal zijn"
+          ŝi-estas: "Zij is"
         titolo: Werkwoorden
       vortaro01: 
         amiko: vriend

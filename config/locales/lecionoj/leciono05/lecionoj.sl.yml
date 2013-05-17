@@ -6,9 +6,6 @@ sl:
         ekspliko: "Evo nekaj zelo uporabnih besed, ki so del pravilnega in zaključenega sistema. Imenijemo jih \"korelativi\". Pomen vsakega korelativa je skupni seštevek  pomena  korena (prefiks) in pomena končnice (sufiks)."
         titolo: "Korelativi (zaimki in prislovi)"
       korelativoj_am: 
-        cxi: 
-          frazo: "Vendar sem si vedno želel jo obiskati."
-          vorto: vedno
         ekspliko: Čas.
         i: 
           frazo: "Ste nekoč že obiskali Brazilijo? (Si nekoč že obiskal Brazilijo?)"
@@ -22,6 +19,9 @@ sl:
         ti: 
           frazo: "Jaz sem se učil esperanto takrat, kadar sem bil v šoli."
           vorto: "tedaj, takrat"
+        ĉi: 
+          frazo: "Vendar sem si vedno želel jo obiskati."
+          vorto: vedno
       korelativoj_cxi: 
         ekspliko: "Je beseda, ki približuje pomen. Lahko se uporablja pred ali za besedami iz korelativne tabele. Npr. TIE = tam, ĉi tie ali tie ĉi = tukaj, TIU = ta, oni, tiu ĉi ali ĉi tiu = tale."
         frazo-1: "Kaj je tole?"
@@ -29,10 +29,6 @@ sl:
         frazo-3: "Tale je moja hiša."
         rimarkigo: "Korelativi , ki se končajo na \"o\" (\"kio\", \"tio\", ...) dobijo v akuzativu končnico (-n) (\"kiojn\",\"tion\",...), toda ne dobijo v množini končnice (-j)."
       korelativoj_e: 
-        cxi: 
-          ekspliko: Posploševalno.
-          frazo: "Neumnež povsod piše svoje ime."
-          vorto: povsod
         ekspliko: Kraj.
         i: 
           ekspliko: Nedoločno.
@@ -50,10 +46,11 @@ sl:
           ekspliko: Kazalno.
           frazo: "Jaz stanujem tam, kjer je avto."
           vorto: "tam, tamle."
+        ĉi: 
+          ekspliko: Posploševalno.
+          frazo: "Neumnež povsod piše svoje ime."
+          vorto: povsod
       korelativoj_o: 
-        cxi: 
-          frazo: "Jaz sem pozabil vse."
-          vorto: vse
         ekspliko: "Stvar, pojem."
         i: 
           frazo: "Nekaj se je zgodilo!"
@@ -67,11 +64,10 @@ sl:
         ti: 
           frazo: "Kaj je to? — To je inštrument."
           vorto: "to, ono"
+        ĉi: 
+          frazo: "Jaz sem pozabil vse."
+          vorto: vse
       korelativoj_u: 
-        cxi: 
-          ekspliko: Posploševalno.
-          frazo: "Vsak človek ima rad samega sebe."
-          vorto: vsak(do)
         ekspliko: "Oseba, določljiva stvar. Če sta osebi dve ali več, dobi množinsko končnico \"j\"."
         i: 
           ekspliko: Nedoločno.
@@ -89,6 +85,10 @@ sl:
           ekspliko: Kazalno.
           frazo: "Ta knjiga je zelo dobra."
           vorto: "ta, tisti"
+        ĉi: 
+          ekspliko: Posploševalno.
+          frazo: "Vsak človek ima rad samega sebe."
+          vorto: vsak(do)
       vortaro05: 
         al: "k, h"
         anonco: oglas

@@ -6,9 +6,6 @@ ca:
         ekspliko: "Ara aprenguem la resta dels correlatius. Recordeu que el sistema de correlatius és un sistema tancat, és a dir que no se'n poden derivar més dels que ara us ensenyem."
         titolo: Correlatius
       korelativoj_a: 
-        cxi: 
-          frazo: "Tota mena d'ajuda serà benvinguda. (més enfàtic que \"ĉiu helpo\")"
-          vorto: "De tota mena"
         ekspliko: "Indica qualitat, tipus (pot tenir les marques \"j\" i \"n\")"
         i: 
           frazo: "Tens algun dubte sobre la gramàtica de l'esperanto? (més enfàtic que \"iun dubon\")"
@@ -22,10 +19,10 @@ ca:
         ti: 
           frazo: "No menjaré aquesta mena de pa."
           vorto: "D'aquesta mena"
+        ĉi: 
+          frazo: "Tota mena d'ajuda serà benvinguda. (més enfàtic que \"ĉiu helpo\")"
+          vorto: "De tota mena"
       korelativoj_al: 
-        cxi: 
-          frazo: "Em preguntes perquè t'estimo. Et contesto: per tot!"
-          vorto: "Per tots els motius"
         ekspliko: "Causa, raó"
         i: 
           frazo: "Per alguna raó encara no et conec."
@@ -39,11 +36,10 @@ ca:
         ti: 
           frazo: "És molt bonica. Per això l'estimo."
           vorto: "Per tant, per això"
+        ĉi: 
+          frazo: "Em preguntes perquè t'estimo. Et contesto: per tot!"
+          vorto: "Per tots els motius"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Indica grup, conjunt."
-          frazo: "Em van ajudar de totes les maneres possibles."
-          vorto: "De totes les maneres"
         ekspliko: Manera
         i: 
           ekspliko: "Indica indefinició."
@@ -61,10 +57,11 @@ ca:
           ekspliko: "Usat per indicar, mostrar"
           frazo: "Ella escriu tan bé com la professora."
           vorto: Així
+        ĉi: 
+          ekspliko: "Indica grup, conjunt."
+          frazo: "Em van ajudar de totes les maneres possibles."
+          vorto: "De totes les maneres"
       korelativoj_es: 
-        cxi: 
-          frazo: "L'esperanto és la llengua de tots."
-          vorto: "De tothom, de tots"
         ekspliko: "Indica possessió."
         i: 
           frazo: "He trobat el llibre d'algú."
@@ -78,10 +75,10 @@ ca:
         ti: 
           frazo: "El gat va córrer per damunt de la casa i va fer-ne malbé la teulada."
           vorto: "Del qual, d'aquest"
+        ĉi: 
+          frazo: "L'esperanto és la llengua de tots."
+          vorto: "De tothom, de tots"
       korelativoj_om: 
-        cxi: 
-          frazo: "Quanta gasolina vols? — Vull tota la que tinguis."
-          vorto: "Tot (tota la quantitat)"
         ekspliko: "Indica quantitat."
         i: 
           frazo: "He de comprar una mica de cafè."
@@ -95,6 +92,9 @@ ca:
         ti: 
           frazo: "Ell va menjar tant com va voler."
           vorto: Tant
+        ĉi: 
+          frazo: "Quanta gasolina vols? — Vull tota la que tinguis."
+          vorto: "Tot (tota la quantitat)"
       relativoj: 
         ekspliko-1: "Les paraules que comencen per \"KI\" també poden introduir frases sense sentit interrogatiu. Aquestes paraules s'anomenen relatius perquè indiquen la relació entre l'oració principal i la subordinada."
         ekspliko-2: "A la frase anterior \"kiun\" es relaciona amb \"tiu frukto\"."

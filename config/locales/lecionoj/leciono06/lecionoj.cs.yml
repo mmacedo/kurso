@@ -6,9 +6,6 @@ cs:
         ekspliko: "Nyní se naučme zbývající tabulková slova. Pamatujte, že tabulka je uzavřeným systémem, do kterého nelze další slova zavádět."
         titolo: "Tabulková slova"
       korelativoj_a: 
-        cxi: 
-          frazo: "Každá pomoc je vítána (= všeho druhu)."
-          vorto: Všelijaký
         ekspliko: "Ukazuje kvalitu, druh (může mít koncovky \"j\" a \"n\")"
         i: 
           frazo: "Máte nějakou pochybnost o mluvnici esperanta?"
@@ -22,10 +19,10 @@ cs:
         ti: 
           frazo: "Nebudu jíst takový chléb."
           vorto: Takový
+        ĉi: 
+          frazo: "Každá pomoc je vítána (= všeho druhu)."
+          vorto: Všelijaký
       korelativoj_al: 
-        cxi: 
-          frazo: "Ptáš se mě, proč tě miluji. Odpovídám: ze všech důvodů (které si umíš představit)!"
-          vorto: "Ze všech příčin"
         ekspliko: "Příčina, důvod"
         i: 
           frazo: "Z nějakého důvodu vás ještě neznám."
@@ -39,11 +36,10 @@ cs:
         ti: 
           frazo: "Je velmi krásná. Proto ji miluji."
           vorto: Proto
+        ĉi: 
+          frazo: "Ptáš se mě, proč tě miluji. Odpovídám: ze všech důvodů (které si umíš představit)!"
+          vorto: "Ze všech příčin"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Zahrnuje vše, zevšeobecňuje."
-          frazo: "Všemožně mi pomohli."
-          vorto: "Všelijak, všemi způsoby"
         ekspliko: Způsob
         i: 
           ekspliko: "Vyjadřuje neurčitost."
@@ -61,10 +57,11 @@ cs:
           ekspliko: "Slouží k ukazování."
           frazo: "Ona píše tak pěkně jako učitelka."
           vorto: Tak
+        ĉi: 
+          ekspliko: "Zahrnuje vše, zevšeobecňuje."
+          frazo: "Všemožně mi pomohli."
+          vorto: "Všelijak, všemi způsoby"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto je jazyk patřící všem."
-          vorto: "Všech (všem patřící)"
         ekspliko: "Vyjadřuje vlastnictví."
         i: 
           frazo: "Našel jsem něčí knihu."
@@ -78,10 +75,10 @@ cs:
         ti: 
           frazo: "Kočka běžela na domě a poškodila jeho střechu."
           vorto: "Toho (tomu patřící)"
+        ĉi: 
+          frazo: "Esperanto je jazyk patřící všem."
+          vorto: "Všech (všem patřící)"
       korelativoj_om: 
-        cxi: 
-          frazo: "Kolik benzínu chcete? - Chci úplně vše, co máte."
-          vorto: "Úplně vše"
         ekspliko: "Vyjadřuje množství."
         i: 
           frazo: "Musím koupit trochu kávy."
@@ -95,6 +92,9 @@ cs:
         ti: 
           frazo: "Snědl tolik, kolik chtěl."
           vorto: Tolik
+        ĉi: 
+          frazo: "Kolik benzínu chcete? - Chci úplně vše, co máte."
+          vorto: "Úplně vše"
       relativoj: 
         ekspliko-1: "Slova začínající na \"KI\" mohou uvádět slova i bez tázacího významu. Takovým slovům říkáme vztažná, protože ukazují vztah mezi hlavní a vedlejší větou."
         ekspliko-2: "Ve výše uvedené větě se \"kiun\"  vztahuje k výrazu \"tiu frukto\"."

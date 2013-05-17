@@ -29,10 +29,10 @@ I18nEltiro::Mapado.agordi do
       al 'vortoj' do
         mapi 'l015', 'tri'
         mapi 'l016', 'dek'
-        mapi 'l018', 'dek-naux'
+        mapi 'l018', 'dek-naŭ'
         mapi 'l262', 'tria'
         mapi 'l263', 'deka'
-        mapi 'l265', 'dek-nauxa'
+        mapi 'l265', 'dek-naŭa'
       end
       al 'frazoj' do
         mapi 'l266', 'frazo-1'

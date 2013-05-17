@@ -44,12 +44,12 @@ id:
           titolo: "Bentuk jamak"
           vi: "Vi - Kamu (bentuk jamak)"
         singularo: 
-          gxi: "Ĝi -Dia, ia, -nya, itu  ( menunjukkan  barang, binatang atau orang kalau tidak perlu mengatakan jenis kelaminnya)"
           li: "Li - Dia, ia (laki-laki)"
           mi: "Mi - Saya, aku"
-          sxi: "Ŝi - Dia, ia (perempuan)"
           titolo: "Bentuk  tunggal"
           vi: "Vi - anda (tunggal)"
+          ĝi: "Ĝi -Dia, ia, -nya, itu  ( menunjukkan  barang, binatang atau orang kalau tidak perlu mengatakan jenis kelaminnya)"
+          ŝi: "Ŝi - Dia, ia (perempuan)"
         specialaj: 
           oni: "Oni - Kata ganti orang tak tentu, artinya \"seorang, orang-orang, seseorang yg tak dikenal\", digunakan kalau tidak mau atau tidak dapat mengatakan siapa terlibat - siapa membuat atau menderita aksi."
           si: "Si - Kata-ganti refleksip orang ketiga  - li, ŝi, ĝi, ili, oni - ( diri - dia, ia, nya, mereka).  \"Si\" berkenaan dengan pokok kalimat.  \"Si\" tidak dapat jadi pokok kalimat."
@@ -101,10 +101,10 @@ id:
           oni-estos: "Orang (tak dikenal)  ...........yg akan............."
           vi-estis: "Anda (...waktu yg lalu)"
         singularo: 
-          gxi-estos: "Itu (...yg akan datang)"
           li-estis: "Dia (laki-laki) (...yg lalu)"
           mi-estas: "Saya (...sekarang)"
-          sxi-estas: "Dia (perempuan) (...sekarang)"
+          ĝi-estos: "Itu (...yg akan datang)"
+          ŝi-estas: "Dia (perempuan) (...sekarang)"
         titolo: Kata-Kerja
       vortaro01: 
         amiko: "teman, kawan"

@@ -12,8 +12,8 @@ I18nEltiro::Mapado.agordi do
         mapi 'l013', 'mi'
         mapi 'l014', 'vi'
         mapi 'l015', 'li'
-        mapi 'l016', 'sxi'
-        mapi 'l017', 'gxi'
+        mapi 'l016', 'ŝi'
+        mapi 'l017', 'ĝi'
       end
       al 'pluralo' do
         mapi 'l132', 'titolo'
@@ -34,8 +34,8 @@ I18nEltiro::Mapado.agordi do
       al 'singularo' do
         mapi 'l114', 'mi-estas'
         mapi 'l115', 'li-estis'
-        mapi 'l116', 'sxi-estas'
-        mapi 'l117', 'gxi-estos'
+        mapi 'l116', 'ŝi-estas'
+        mapi 'l117', 'ĝi-estos'
       end
       al 'ne-singularo' do
         mapi 'l118', 'ni-estas'

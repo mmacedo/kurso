@@ -8,9 +8,6 @@ sv:
             går att  lägga till nya ord i rabellen.
         titolo: "Korrelativa tabellen"
       korelativoj_a: 
-        cxi: 
-          frazo: "Varje slags hjälp är välkommen."
-          vorto: "varje (slags), allt (slags)"
         ekspliko: "Anger kvalitet, sort (det kan ha ändelserna '.j' och '-n'"
         i: 
           frazo: "Har du något tvivel angående Esperantos grammatik?"
@@ -24,10 +21,10 @@ sv:
         ti: 
           frazo: "Jag kommer inte att äta ett sådant bröd."
           vorto: sådan
+        ĉi: 
+          frazo: "Varje slags hjälp är välkommen."
+          vorto: "varje (slags), allt (slags)"
       korelativoj_al: 
-        cxi: 
-          frazo: "Du frågar. varför jag älskar dig.  Jag svarar: Av alla skäl."
-          vorto: "av alla skäl"
         ekspliko: "Orsak / skäl"
         i: 
           frazo: "Av någon anledning känner jag dig icke ännu."
@@ -41,11 +38,10 @@ sv:
         ti: 
           frazo: "Hon är mycket vacker. Därför älskar jag henne."
           vorto: därför
+        ĉi: 
+          frazo: "Du frågar. varför jag älskar dig.  Jag svarar: Av alla skäl."
+          vorto: "av alla skäl"
       korelativoj_el: 
-        cxi: 
-          ekspliko: Distributiva
-          frazo: "De hjälpte mig på alla sätt."
-          vorto: "på alla sätt"
         ekspliko: Sätt
         i: 
           ekspliko: "Odefinierad /Indefinit"
@@ -63,10 +59,11 @@ sv:
           ekspliko: "Visande /demonstrativt"
           frazo: "Hon skriver lika bra, som lärarinnan."
           vorto: "så, på så sätt"
+        ĉi: 
+          ekspliko: Distributiva
+          frazo: "De hjälpte mig på alla sätt."
+          vorto: "på alla sätt"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto är allas språk.\n"
-          vorto: "vars och ens, allas"
         ekspliko: "Anger ägande"
         i: 
           frazo: "Jag hittade någons bok."
@@ -80,10 +77,10 @@ sv:
         ti: 
           frazo: "Katten  hade sprungit  på huset och skadat  dess tak."
           vorto: dennes
+        ĉi: 
+          frazo: "Esperanto är allas språk.\n"
+          vorto: "vars och ens, allas"
       korelativoj_om: 
-        cxi: 
-          frazo: "Hur mycket bensin vill du ha? Jag vill ha så mycket som du har."
-          vorto: "det hela, allt sammans"
         ekspliko: "Anger mängd"
         i: 
           frazo: "Jag måste köpa lite kaffe."
@@ -97,6 +94,9 @@ sv:
         ti: 
           frazo: "Han åt så mycket, som han ville."
           vorto: "så mycket"
+        ĉi: 
+          frazo: "Hur mycket bensin vill du ha? Jag vill ha så mycket som du har."
+          vorto: "det hela, allt sammans"
       relativoj: 
         ekspliko-1: "Orden som börjar med 'KI' kan även inleda meningar utan frågande innebörd. Dessa ord kallas 'relativer', ty de anger förhållandet mellan ett ord i en huvudsats och ett ord i en bisats."
         ekspliko-2: "I ovanstående mening är det  relationen mellan orden 'kiun' och 'tiun frukton' som avses."

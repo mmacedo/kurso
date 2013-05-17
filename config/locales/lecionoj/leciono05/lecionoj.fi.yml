@@ -6,9 +6,6 @@ fi:
         ekspliko: "Tässä on hyödyllisiä pikkusanoja, jotka ovat osa säännöllistä ja suljettua järjestelmää. Näitä pikkusanoja kutsutaan korrelatiiveiksi. Korrelatiivien merkitys on muodostaa johdannainen sen vartalosta (etuliite) ja sen päätteestä (jälkiliite)."
         titolo: Korrelatiivit
       korelativoj_am: 
-        cxi: 
-          frazo: "Kuitenkin, minä aina halusin käydä siellä."
-          vorto: Aina
         ekspliko: Aika
         i: 
           frazo: "Kävitkö joskus Brasiliassa?"
@@ -22,6 +19,9 @@ fi:
         ti: 
           frazo: "Minä opin Esperanton silloin, kun olin koulussa."
           vorto: Silloin
+        ĉi: 
+          frazo: "Kuitenkin, minä aina halusin käydä siellä."
+          vorto: Aina
       korelativoj_cxi: 
         ekspliko: "Tämä pikku sana ilmaisee läheisyyttä."
         frazo-1: "Mikä on tämä?"
@@ -29,10 +29,6 @@ fi:
         frazo-3: "Tämä on minun taloni."
         rimarkigo: "Taulukkosanat, joiden pääte on \"o\" (\"kio\", \"tio\" jne.) saavat tarvittaessa akkusatiivin päätteen (-n), mutta eivät monikon päätettä (-j)."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Osoittaa ryhmää, joukkoa."
-          frazo: "Tyhmyri kirjoittaa nimensä kaikkialla."
-          vorto: Kaikkialla
         ekspliko: "Osoittaa paikkaa."
         i: 
           ekspliko: "Osoittaa epämääräisyyttä."
@@ -50,10 +46,11 @@ fi:
           ekspliko: "Käytetään osoittamiseen."
           frazo: "Minä asun tuolla, missä on (tuo) auto."
           vorto: Tuolla
+        ĉi: 
+          ekspliko: "Osoittaa ryhmää, joukkoa."
+          frazo: "Tyhmyri kirjoittaa nimensä kaikkialla."
+          vorto: Kaikkialla
       korelativoj_o: 
-        cxi: 
-          frazo: "Unohdin kaiken."
-          vorto: Kaikki
         ekspliko: "Asia, kohde, esine."
         i: 
           frazo: "Jokin (jotakin) tapahtui!"
@@ -67,11 +64,10 @@ fi:
         ti: 
           frazo: "Mikä on tuo? - Tuo on soitin."
           vorto: Tuo
+        ĉi: 
+          frazo: "Unohdin kaiken."
+          vorto: Kaikki
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Ilmaisee joukkoa, ryhmää."
-          frazo: "Jokainen ihminen rakastaa itseään."
-          vorto: Jokainen
         ekspliko: "Osoittaa yksilön. Kun kyseessä on enemmän kuin yksi, se saa päätteen \"j\"."
         i: 
           ekspliko: "Osoittaa epämääräisyyttä."
@@ -89,6 +85,10 @@ fi:
           ekspliko: "Käytetään määrittelemään, osoittamaan."
           frazo: "Tuo kirja on erittäin hyvä."
           vorto: Tuo
+        ĉi: 
+          ekspliko: "Ilmaisee joukkoa, ryhmää."
+          frazo: "Jokainen ihminen rakastaa itseään."
+          vorto: Jokainen
       vortaro05: 
         al: "(prep.) luokse, suuntaan"
         anonco: "ilmoitus, kuulutus"

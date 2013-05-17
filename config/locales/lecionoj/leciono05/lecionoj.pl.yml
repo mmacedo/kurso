@@ -6,9 +6,6 @@ pl:
         ekspliko: "Korelatywy są słówkami zamkniętego  regularnego systemu. Znaczenie  nowo powstałego słowa jest wynikiem ich połączenia."
         titolo: Korelatywy
       korelativoj_am: 
-        cxi: 
-          frazo: "Jednak zawsze chciałem go odwiedzić."
-          vorto: zawsze
         ekspliko: czas
         i: 
           frazo: "Czy odwiedziłeś kiedyś Brazylię?"
@@ -22,6 +19,9 @@ pl:
         ti: 
           frazo: "Uczyłem się Esperanta wtedy, kiedy byłem w szkole."
           vorto: wtedy
+        ĉi: 
+          frazo: "Jednak zawsze chciałem go odwiedzić."
+          vorto: zawsze
       korelativoj_cxi: 
         ekspliko: "To słówko wskazuje bliskość i może stać przed, lub po korelatywie, do którego należy."
         frazo-1: "Co to jest?"
@@ -29,10 +29,6 @@ pl:
         frazo-3: "Ten jest mój dom."
         rimarkigo: "Korelatywy kończące się na  -o   ( kio, tio, io, ĉio, nenio ) otrzymują  końcówkę  -n   w bierniku:  kion, tion, ion, ĉion, nenion ,  ( ale nie mają liczby mnogiej   -j  )"
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Określa zbiór takich samych rzeczy, lub ludzi należących do tej samej  idei."
-          frazo: "Głupiec wszędzie swoje imię pisze."
-          vorto: wszędzie
         ekspliko: "określa miejsce"
         i: 
           ekspliko: "oznacza coś nieznanego, nieokreślonego"
@@ -50,10 +46,11 @@ pl:
           ekspliko: pokazuje
           frazo: "Mieszkam tam, gdzie jest auto."
           vorto: tam
+        ĉi: 
+          ekspliko: "Określa zbiór takich samych rzeczy, lub ludzi należących do tej samej  idei."
+          frazo: "Głupiec wszędzie swoje imię pisze."
+          vorto: wszędzie
       korelativoj_o: 
-        cxi: 
-          frazo: "Zapomniałem wszystko."
-          vorto: wszystko
         ekspliko: "zdarzenie, przedmiot, objekt"
         i: 
           frazo: "Coś się zdarzyło."
@@ -67,11 +64,10 @@ pl:
         ti: 
           frazo: "Co jest  tamto? — Tamto jest instrumentem muzycznym."
           vorto: tamto
+        ĉi: 
+          frazo: "Zapomniałem wszystko."
+          vorto: wszystko
       korelativoj_u: 
-        cxi: 
-          ekspliko: "oznacza  zbiór, zgromadzenie jednakowych rzeczy, osób o tych samych cechach."
-          frazo: "każdy człowiek kocha siebie samego"
-          vorto: każdy
         ekspliko: "oznacza osobę. W liczbie mnogiej otrzymuje końcówkę   -j"
         i: 
           ekspliko: "wyraża coś nieokreślonego, lub kogoś nieznanego"
@@ -89,6 +85,10 @@ pl:
           ekspliko: pokazuje
           frazo: "Tamta książka jest bardzo dobra."
           vorto: "Tamten,-a,-o"
+        ĉi: 
+          ekspliko: "oznacza  zbiór, zgromadzenie jednakowych rzeczy, osób o tych samych cechach."
+          frazo: "każdy człowiek kocha siebie samego"
+          vorto: każdy
       vortaro05: 
         al: do
         anonco: ogłoszenie

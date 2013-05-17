@@ -46,12 +46,12 @@ de:
           titolo: "Mehrzahl - Plural"
           vi: ihr
         singularo: 
-          gxi: "es (geschlechtsneutral/'sächlich')"
           li: er
           mi: ich
-          sxi: sie
           titolo: "Einzahl - Singular"
           vi: du
+          ĝi: "es (geschlechtsneutral/'sächlich')"
+          ŝi: sie
         specialaj: 
           oni: "man (Indefinitpronomen, unpersönlich)"
           si: "sich [Reflexivpronomen der 3. Person (er, sie, es, man), rückbezogen auf das Subjekt               des Satzes]"
@@ -103,10 +103,10 @@ de:
           oni-estos: "man wird sein"
           vi-estis: "ihr wart"
         singularo: 
-          gxi-estos: "es wird sein"
           li-estis: "er war"
           mi-estas: "ich bin"
-          sxi-estas: "sie ist"
+          ĝi-estos: "es wird sein"
+          ŝi-estas: "sie ist"
         titolo: Verben
       vortaro01: 
         amiko: Freund

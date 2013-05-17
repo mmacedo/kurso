@@ -44,12 +44,12 @@ cs:
           titolo: "Množné číslo"
           vi: "Vy (množné číslo)"
         singularo: 
-          gxi: "Ono (týká se věcí a zvířat, jejichž pohlaví nepotřebujeme upřesnit)"
           li: "On"
           mi: Já
-          sxi: Ona
           titolo: "Jednotné číslo"
           vi: "Ty, Vy  (jednotné číslo, vždy se vyká)"
+          ĝi: "Ono (týká se věcí a zvířat, jejichž pohlaví nepotřebujeme upřesnit)"
+          ŝi: Ona
         specialaj: 
           oni: "(vyslov  \"ony\") - neurčité osobní zájméno, značící \"člověk, lidé\", nemáme-li na mysli konkrétní osobu (člověka by to nenapadlo, jeden  se ani nediví, lidé říkají, říká se, ono se proslýchá)"
           si: "Si (= se, zvratné zájméno třetí osoby - li, ŝi, ĝi, ili, oni) - vztahuje se k podmětu, ne však v první a druhé osobě (pak říkáme doslova: myji mne, myješ tebe, myje se, myjeme nás, myjete vás, myjí se.)"
@@ -101,10 +101,10 @@ cs:
           oni-estos: "bude se, lidé budou"
           vi-estis: "Byl jsi, byl jste, byli  jste"
         singularo: 
-          gxi-estos: "Ono bude"
           li-estis: "On byl"
           mi-estas: Jsem
-          sxi-estas: "Ona je"
+          ĝi-estos: "Ono bude"
+          ŝi-estas: "Ona je"
         titolo: Slovesa
       vortaro01: 
         amiko: přítel

@@ -6,9 +6,6 @@ vi:
         ekspliko: "Chúng ta hãy bắt đầu các tương liên từ còn lại. Hãy nhớ rằng hệ thống tương liên từ là đóng, nghĩa là nó không thể bắt đầu hay kết thúc bằng một từ khác."
         titolo: "Tương liên từ"
       korelativoj_a: 
-        cxi: 
-          frazo: "Mọi sự giúp đỡ đều được hoan nghênh."
-          vorto: "tất cả các loại"
         ekspliko: "biểu thị loại hay kiểu (nó có thể nhận đuôi \"j\" và \"n\")"
         i: 
           frazo: "Bạn có một số không rõ liên quan đến ngữ pháp trong Quốc tế ngữ phải không?"
@@ -22,10 +19,10 @@ vi:
         ti: 
           frazo: "Tôi sẽ không ăn loại bánh mì giống như thế."
           vorto: "giống như loại, giống như kiểu, giống như"
+        ĉi: 
+          frazo: "Mọi sự giúp đỡ đều được hoan nghênh."
+          vorto: "tất cả các loại"
       korelativoj_al: 
-        cxi: 
-          frazo: "Bạn hỏi tại sao tôi yêu bạn . Tôi trả lời: vì tất cả mọi lý do đó!"
-          vorto: "vì tất cả lẽ ấy"
         ekspliko: "nguyên nhân, lý do"
         i: 
           frazo: "Vì lẽ ấy, tôi vẫn không biết bạn."
@@ -39,11 +36,10 @@ vi:
         ti: 
           frazo: "Cô ấy rất đẹp. Đấy là lý do vì sao tôi yêu cô ta."
           vorto: "bởi vậy, cho nên, vì lý do đó"
+        ĉi: 
+          frazo: "Bạn hỏi tại sao tôi yêu bạn . Tôi trả lời: vì tất cả mọi lý do đó!"
+          vorto: "vì tất cả lẽ ấy"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "biểu thị nhóm"
-          frazo: "Họ giúp đỡ tôi ở mọi mặt."
-          vorto: "về mọi mặt"
         ekspliko: "cách, lối, kiểu"
         i: 
           ekspliko: "biểu thị cái gì đó bất định."
@@ -61,10 +57,11 @@ vi:
           ekspliko: "dùng trong chỉ định thường dịch là cái đó, những cái đó."
           frazo: "cô ấy viết tốt như là một giáo viên."
           vorto: "như, như thế"
+        ĉi: 
+          ekspliko: "biểu thị nhóm"
+          frazo: "Họ giúp đỡ tôi ở mọi mặt."
+          vorto: "về mọi mặt"
       korelativoj_es: 
-        cxi: 
-          frazo: "Quốc tế ngữ là ngôn ngữ của mọi người"
-          vorto: "của mọi người, mọi thứ"
         ekspliko: "Biểu thị quyền sở hữu."
         i: 
           frazo: "Tôi đã tìm thấy quyển sách của người nào đó."
@@ -78,10 +75,10 @@ vi:
         ti: 
           frazo: "Con mèo chạy phía trên ngôi nhà và  làm đổ nát mái (của chính ngôi nhà đó)."
           vorto: "cái của chính nó"
+        ĉi: 
+          frazo: "Quốc tế ngữ là ngôn ngữ của mọi người"
+          vorto: "của mọi người, mọi thứ"
       korelativoj_om: 
-        cxi: 
-          frazo: "Bạn muốn mua bao nhiêu xăng? - Tôi muốn tất cả mà anh có."
-          vorto: "tất cả chúng, toàn bộ (số lượng)"
         ekspliko: "biểu thị số lượng."
         i: 
           frazo: "Tôi phải mua một ít cà phê."
@@ -95,6 +92,9 @@ vi:
         ti: 
           frazo: "Anh ấy ăn nhiều như anh ta muốn."
           vorto: "số lượng như thế, nhiều như thế (tiom . . . kiom có nghĩa \"nhiều như\" liên quan đến số lượng)"
+        ĉi: 
+          frazo: "Bạn muốn mua bao nhiêu xăng? - Tôi muốn tất cả mà anh có."
+          vorto: "tất cả chúng, toàn bộ (số lượng)"
       relativoj: 
         ekspliko-1: "Đại từ quan hệ \"Ki-\" cũng có thể chỉ ra một câu không phải là câu hỏi. Trong vai trò này chúng được gọi là đại từ quan hệ bởi vì chúng thể hiện mối liên hệ giữa câu chính và câu thứ hai được gọi là mệnh đề phụ thuộc hay mệnh đề quan hệ."
         ekspliko-2: "Trong câu phía trên \"kiun\" ám chỉ đến \"tiu frukto\"."

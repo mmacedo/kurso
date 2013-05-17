@@ -6,9 +6,6 @@ li:
         ekspliko: "Sukurta klausiamųjų žodžių ir su jais susijusių atsakymų sistema. Ją sudaro penki pirmieji elementai ir devyni antrieji elementai, kuriuos galima sujungti įvairiais būdais. Jie vadinami koreliatyvais."
         titolo: Koreliatyvai
       korelativoj_am: 
-        cxi: 
-          frazo: "Tačiau aš visada troškau aplankyti ją."
-          vorto: visada
         ekspliko: "Nurodo laiką."
         i: 
           frazo: "Ar tu kada nors buvai Brazilijoje?"
@@ -22,6 +19,9 @@ li:
         ti: 
           frazo: "Aš mokiausi esperanto tada, kai buvau mokykloje."
           vorto: "tada, tuomet"
+        ĉi: 
+          frazo: "Tačiau aš visada troškau aplankyti ją."
+          vorto: visada
       korelativoj_cxi: 
         ekspliko: "Prieveiksmis \"ĉi\" žymi artumą (artimesnį asmenį ar daiktą). Jis gali stovėti prieš parodomuosius ir apibendrinamuosius žodžius arba po jų."
         frazo-1: "Kas tai yra?"
@@ -29,10 +29,6 @@ li:
         frazo-3: "Šitas namas yra mano."
         rimarkigo: "Koreliatyvai, kurie baigiasi balūne \"-o\" (\"kio\", \"tio\" ir t.t.) gali turėti galininko galūnę (\"-n\"), bet negali turėti daugiskaitos galūnės (\"-j\"). Tie, kurie turi galūnes \"-a\" ir \"-u\", gali turėti ir \"-n\", ir \"-j\". Su klausiamaisiais žodžiais (\"kio\", \"kie\" ir t.t.) žodelis \"Ĉu\" nevartojamas."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
-          frazo: "Kvailys visur savo vardą rašo."
-          vorto: visur
         ekspliko: "Nurodo vietą."
         i: 
           ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
@@ -50,10 +46,11 @@ li:
           ekspliko: "Naudojamas sudarant parodomuosius žodžius."
           frazo: "Aš gyvenu ten, kur yra automobilis."
           vorto: "ten, tenai"
+        ĉi: 
+          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
+          frazo: "Kvailys visur savo vardą rašo."
+          vorto: visur
       korelativoj_o: 
-        cxi: 
-          frazo: "Aš pamiršau viską."
-          vorto: viskas
         ekspliko: "Nurodo neapibrėžtą dalyką, daiktą."
         i: 
           frazo: "Kažkas atsitiko!"
@@ -67,11 +64,10 @@ li:
         ti: 
           frazo: "Kas tai? — Tai muzikos instrumentas."
           vorto: "tai; tas"
+        ĉi: 
+          frazo: "Aš pamiršau viską."
+          vorto: viskas
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
-          frazo: "Kiekvienas žmogus myli patį save."
-          vorto: kiekvienas
         ekspliko: "Nurodo asmenį arba įvardintą dalyką. Kai kalbama apie daugiskaitą, pridedama galūnė \"-j\"."
         i: 
           ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
@@ -89,6 +85,10 @@ li:
           ekspliko: "Naudojamas sudarant parodomuosius žodžius."
           frazo: "Ta knyga yra labai gera."
           vorto: "tas, anas"
+        ĉi: 
+          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
+          frazo: "Kiekvienas žmogus myli patį save."
+          vorto: kiekvienas
       vortaro05: 
         al: "link, į, pas; žymi naudininką"
         anonco: skelbimas

@@ -44,12 +44,12 @@ eo:
           titolo: Multnombro
           vi: "Vi (multnombro)"
         singularo: 
-          gxi: "Ĝi (por montri ion aŭ iun, kies sekson oni ne bezonas precizigi)"
           li: Li
           mi: Mi
-          sxi: Ŝi
           titolo: Ununombro
           vi: "Vi (ununombro)"
+          ĝi: "Ĝi (por montri ion aŭ iun, kies sekson oni ne bezonas precizigi)"
+          ŝi: Ŝi
         specialaj: 
           oni: "Oni - Persona sendifina pronomo, signifanta \"la homoj; multaj aŭ kelkaj personoj; iu nekonata\", uzata kiam oni ne volas aŭ ne povas precizigi kiu faris aŭ suferis la agon."
           si: "Si - Refleksa pronomo de la tria persono - li, ŝi, ĝi, ili, oni -, uzata kiam ĝi rilatas al la subjekto de la propozicio."
@@ -101,10 +101,10 @@ eo:
           oni-estos: "Oni estos"
           vi-estis: "Vi estis"
         singularo: 
-          gxi-estos: "Ĝi estos"
           li-estis: "Li estis"
           mi-estas: "Mi estas"
-          sxi-estas: "Ŝi estas"
+          ĝi-estos: "Ĝi estos"
+          ŝi-estas: "Ŝi estas"
         titolo: Verboj
       vortaro01: 
         amiko: amiko

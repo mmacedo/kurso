@@ -44,12 +44,12 @@ pt:
           titolo: Plural
           vi: "Vós, vocês"
         singularo: 
-          gxi: "Ele/ela (para mostrar algo ou alguém cujo sexo não é necessário especificar)"
           li: Ele
           mi: Eu
-          sxi: Ela
           titolo: Singular
           vi: "Tu, você"
+          ĝi: "Ele/ela (para mostrar algo ou alguém cujo sexo não é necessário especificar)"
+          ŝi: Ela
         specialaj: 
           oni: "Pronome pessoal indefinido que significa \"as pessoas, a gente, etc\", usado quando não se quer ou não se pode definir quem fez ou sofreu a ação."
           si: "Pronome reflexivo da terceira pessoa (li, ŝi, ĝi, ili, oni), usado quando relaciona-se com o sujeito da oração."
@@ -101,10 +101,10 @@ pt:
           oni-estos: "será, estará (sujeito indefinido)"
           vi-estis: "Vocês foram/eram, estavam/estiveram"
         singularo: 
-          gxi-estos: "Ele/ela será, estará"
           li-estis: "Ele foi/era, esteve/estava"
           mi-estas: "Eu sou, estou"
-          sxi-estas: "Ela é, está"
+          ĝi-estos: "Ele/ela será, estará"
+          ŝi-estas: "Ela é, está"
         titolo: Verbos
       vortaro01: 
         amiko: amigo

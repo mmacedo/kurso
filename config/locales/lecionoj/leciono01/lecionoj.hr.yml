@@ -44,12 +44,12 @@ hr:
           titolo: Množina
           vi: Vi
         singularo: 
-          gxi: "(neodređena zamjenica, kojom se označuje stvar ili pojava gdje spol ili rod nije posebno naznačen)"
           li: "On"
           mi: Ja
-          sxi: Ona
           titolo: Jednina
           vi: Ti
+          ĝi: "(neodređena zamjenica, kojom se označuje stvar ili pojava gdje spol ili rod nije posebno naznačen)"
+          ŝi: Ona
         specialaj: 
           oni: "Bezlična zamjenica (prevodi se sa \"ljudi\" ili \"se\") a koristi se kada se ne želi ili ne može odrediti vršitelj radnje ili onaj koji trpi radnju."
           si: "\"Se\", \"sebe\" (Povratna zamjenica trećeg lica jednine i množine kada radnja prelazi na sam subjekt)"
@@ -101,10 +101,10 @@ hr:
           oni-estos: "Bit' će (neodređeno)"
           vi-estis: "Ti si bio; Vi ste bili"
         singularo: 
-          gxi-estos: "Ono će biti"
           li-estis: "On je bio"
           mi-estas: "Ja sam"
-          sxi-estas: "Ona je"
+          ĝi-estos: "Ono će biti"
+          ŝi-estas: "Ona je"
         titolo: Glagoli
       vortaro01: 
         amiko: prijatelj

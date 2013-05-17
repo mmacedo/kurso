@@ -6,9 +6,6 @@ es:
         ekspliko: "Aprendamos ahora los demás correlativos. Recuerde que el sistema de correlativos es abierto, o sea que es posible derivar otros además de los correlativos mostrados ahora."
         titolo: Correlativos
       korelativoj_a: 
-        cxi: 
-          frazo: "Toda clase de ayuda es bienvenida."
-          vorto: "Toda clase"
         ekspliko: "Indica cualidad, especie (puede recibir las terminaciones \"j\" y \"n\")"
         i: 
           frazo: "¿Tienes algún tipo de duda sobre la gramática del Esperanto?"
@@ -22,10 +19,10 @@ es:
         ti: 
           frazo: "No comeré esa clase de pan."
           vorto: "Esa clase"
+        ĉi: 
+          frazo: "Toda clase de ayuda es bienvenida."
+          vorto: "Toda clase"
       korelativoj_al: 
-        cxi: 
-          frazo: "Preguntas, porqué te amo. Yo respondo: ¡por todas las razones!"
-          vorto: "Por toda razón"
         ekspliko: "Causa, razón"
         i: 
           frazo: "Por alguna razón todavía no te conozco."
@@ -39,11 +36,10 @@ es:
         ti: 
           frazo: "Ella es muy bella. Por eso la amo."
           vorto: "Por eso"
+        ĉi: 
+          frazo: "Preguntas, porqué te amo. Yo respondo: ¡por todas las razones!"
+          vorto: "Por toda razón"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Indica colección, grupo."
-          frazo: "Ellos de todos modos me ayudaron."
-          vorto: "De todos modos"
         ekspliko: Manera
         i: 
           ekspliko: "Indica indefinición."
@@ -61,10 +57,11 @@ es:
           ekspliko: "Usada para indicar, mostrar."
           frazo: "Ella escribe tan bien como la profesora."
           vorto: "Así; tan"
+        ĉi: 
+          ekspliko: "Indica colección, grupo."
+          frazo: "Ellos de todos modos me ayudaron."
+          vorto: "De todos modos"
       korelativoj_es: 
-        cxi: 
-          frazo: "El Esperanto es un idioma de todos."
-          vorto: "De todos"
         ekspliko: "Indica posesión"
         i: 
           frazo: "Encontré un libro de alguien."
@@ -78,10 +75,10 @@ es:
         ti: 
           frazo: "El gato corrió sobre la casa y dañó su tejado (el tejado de aquella casa)."
           vorto: "De ese, de aquél"
+        ĉi: 
+          frazo: "El Esperanto es un idioma de todos."
+          vorto: "De todos"
       korelativoj_om: 
-        cxi: 
-          frazo: "¿Cuánta gasolina quieres? - Quiero toda cuanta tengas."
-          vorto: "Toda cantidad"
         ekspliko: "Indica cantidad."
         i: 
           frazo: "Debo comprar algo de café."
@@ -95,6 +92,9 @@ es:
         ti: 
           frazo: "El comió tanto, cuánto quiso."
           vorto: Tanto
+        ĉi: 
+          frazo: "¿Cuánta gasolina quieres? - Quiero toda cuanta tengas."
+          vorto: "Toda cantidad"
       relativoj: 
         ekspliko-1: "Las palabras que comienzan con \"KI\" también pueden introducir frases sin sentido interrogativo. Esas palabras se llaman relativos, porque muestran la relación entre las oraciónes subordinada y principal."
         ekspliko-2: "En esta frase superior, \"kiun\" se relaciona con \"tiu frukto\"."

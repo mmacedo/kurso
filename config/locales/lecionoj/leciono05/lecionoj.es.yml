@@ -6,9 +6,6 @@ es:
         ekspliko: "Aquí hay unas palabritas muy útiles, que son parte de un sistema regular y abierto. Estas palabritas se llaman correlativos. El significado de cada correlativo es el resultado combinado de su raíz (prefijo) y de su terminación (sufijo)."
         titolo: Correlativos
       korelativoj_am: 
-        cxi: 
-          frazo: "Sin embargo, siempre deseé visitarlo."
-          vorto: Siempre
         ekspliko: Tiempo
         i: 
           frazo: "¿Visitaste Brasil en alguna ocasión?"
@@ -22,6 +19,9 @@ es:
         ti: 
           frazo: "Aprendí Esperanto entonces, cuando estaba en la escuela."
           vorto: Entonces
+        ĉi: 
+          frazo: "Sin embargo, siempre deseé visitarlo."
+          vorto: Siempre
       korelativoj_cxi: 
         ekspliko: "Esta palabrita indica proximidad, y puede estar antes o después del correlativo al que se relaciona."
         frazo-1: "¿Qué es esto?"
@@ -29,10 +29,6 @@ es:
         frazo-3: "Ésta es mi casa."
         rimarkigo: "Los correlativos que terminan en \"o\" (\"kio\", \"tio\", etc.) pueden recibir terminación acusativa (-n), pero no la terminación plural (-j)."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Indica colección, grupo."
-          frazo: "Un necio en todo lugar su nombre escribe."
-          vorto: "Todo lugar"
         ekspliko: "Indica lugar"
         i: 
           ekspliko: "Indica indefinición."
@@ -50,10 +46,11 @@ es:
           ekspliko: "Usada para indicar, mostrar."
           frazo: "Vivo allí, donde está el carro."
           vorto: Allí
+        ĉi: 
+          ekspliko: "Indica colección, grupo."
+          frazo: "Un necio en todo lugar su nombre escribe."
+          vorto: "Todo lugar"
       korelativoj_o: 
-        cxi: 
-          frazo: "Olvidé todo."
-          vorto: Todo
         ekspliko: "Indica cosa, objeto."
         i: 
           frazo: "¡Algo ocurrió!"
@@ -67,11 +64,10 @@ es:
         ti: 
           frazo: "¿Qué es eso? — Eso es un instrumento musical."
           vorto: Eso
+        ĉi: 
+          frazo: "Olvidé todo."
+          vorto: Todo
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Indica colección, grupo."
-          frazo: "Cada ser humano se ama a si mismo."
-          vorto: "Cada uno"
         ekspliko: "Indica individuo. Cuando se trata de más de uno, debe recibir la terminación \"j\"."
         i: 
           ekspliko: "Muestra indefinición."
@@ -89,6 +85,10 @@ es:
           ekspliko: "Usada para indicar, mostrar."
           frazo: "Ese libro es muy bueno."
           vorto: Ese
+        ĉi: 
+          ekspliko: "Indica colección, grupo."
+          frazo: "Cada ser humano se ama a si mismo."
+          vorto: "Cada uno"
       vortaro05: 
         al: "a, hacia"
         anonco: anuncio

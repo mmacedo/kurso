@@ -6,9 +6,6 @@ ca:
         ekspliko: "Heus aquí unes paraules molt útils que són part d'un sistema regular i tancat. Se les anomena \"correlatius\". El seu significat és el resultat de combinar una arrel i una terminació."
         titolo: Correlatius
       korelativoj_am: 
-        cxi: 
-          frazo: "Tanmateix sempre l'he volgut visitar."
-          vorto: Sempre
         ekspliko: Temps
         i: 
           frazo: "Has visitat Brasil alguna vegada?"
@@ -22,6 +19,9 @@ ca:
         ti: 
           frazo: "Vaig aprendre esperanto quan era a l'escola."
           vorto: "Llavors, aleshores"
+        ĉi: 
+          frazo: "Tanmateix sempre l'he volgut visitar."
+          vorto: Sempre
       korelativoj_cxi: 
         ekspliko: "Aquesta paraula indica proximitat i pot posar-se davant o darrere del correlatiu al que està associada."
         frazo-1: "Què és això?"
@@ -29,10 +29,6 @@ ca:
         frazo-3: "Aquesta és la meva casa."
         rimarkigo: "Els correlatius acabats en \"o\" (\"tio\", \"kio\", etc: \"què\", \"això\") poden tenir acusatiu (\"tion\", \"kion\"), però no plural (-j)."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Indica grup, conjunt."
-          frazo: "El poca-solta escriu el seu nom a tot arreu."
-          vorto: "Arreu, a tot arreu, pertot, pertot arreu"
         ekspliko: "Indica lloc."
         i: 
           ekspliko: "Indica indefinició."
@@ -50,10 +46,11 @@ ca:
           ekspliko: "Usat per indicar, mostrar"
           frazo: "Visc allà on hi ha el cotxe."
           vorto: Allà
+        ĉi: 
+          ekspliko: "Indica grup, conjunt."
+          frazo: "El poca-solta escriu el seu nom a tot arreu."
+          vorto: "Arreu, a tot arreu, pertot, pertot arreu"
       korelativoj_o: 
-        cxi: 
-          frazo: "Ho he oblidat tot."
-          vorto: Tot
         ekspliko: "Cosa, objecte."
         i: 
           frazo: "Ha passat alguna cosa!"
@@ -67,11 +64,10 @@ ca:
         ti: 
           frazo: "Què és això? — Això és un instrument."
           vorto: "Allò, això"
+        ĉi: 
+          frazo: "Ho he oblidat tot."
+          vorto: Tot
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Indica grup, conjunt."
-          frazo: "Tota persona s'estima a si mateixa"
-          vorto: Tot/a
         ekspliko: "Quan actua com a pronom indica persona. Quan n'hi ha més d'un ha de dur la terminació \"j\"."
         i: 
           ekspliko: "Indica indefinició."
@@ -89,6 +85,10 @@ ca:
           ekspliko: "Usat per indicar, mostrar."
           frazo: "Aquest llibre és molt bo."
           vorto: "Aquell/a, aquest/a"
+        ĉi: 
+          ekspliko: "Indica grup, conjunt."
+          frazo: "Tota persona s'estima a si mateixa"
+          vorto: Tot/a
       vortaro05: 
         al: "a, cap a"
         anonco: "anunci, anunciament"

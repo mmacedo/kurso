@@ -6,9 +6,6 @@ sl:
         ekspliko: "Naučimo se sedaj še ostale korelative. Zapomnite si, da je sistem korelativov zaprt sistem. To pomeni, da razen teh, ki so tu predstavljeni, ni mogoče izpeljevati drugih korelativov. Korelativi so prava mojstrovina. Če bi se jih morali učiti na pamet, bi obupali, kakor glede njih obupujemo v drugih jezikih.  V esperantu pa so urejeni v čudovit sistem."
         titolo: Korelativi
       korelativoj_a: 
-        cxi: 
-          frazo: "Vsakršna pomoč je dobrodošla."
-          vorto: "vsakršen (a,o)"
         ekspliko: "Kakovost, lastnost (pridevnik, lahko dobi končnici \"j\" in \"n\")."
         i: 
           frazo: "Ali omate kakšen dvom o esperantski slovnici?"
@@ -22,10 +19,10 @@ sl:
         ti: 
           frazo: "Jaz ne bom jedel takšnega kruha."
           vorto: "takšen (a,o)"
+        ĉi: 
+          frazo: "Vsakršna pomoč je dobrodošla."
+          vorto: "vsakršen (a,o)"
       korelativoj_al: 
-        cxi: 
-          frazo: "Vi sprašujete (ti sprašuješ) zakaj imam jaz vas (tebe) rada. Jaz ti odgovorim: iz vsakega vzroka!"
-          vorto: "iz vsakega vzroka"
         ekspliko: Vzrok.
         i: 
           frazo: "Zaradi česarkoli že, jaz vas ne poznam."
@@ -39,11 +36,10 @@ sl:
         ti: 
           frazo: "Ona je zelo lepa. Zato jo imam jaz rad."
           vorto: "zato, zatorej"
+        ĉi: 
+          frazo: "Vi sprašujete (ti sprašuješ) zakaj imam jaz vas (tebe) rada. Jaz ti odgovorim: iz vsakega vzroka!"
+          vorto: "iz vsakega vzroka"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Obče, v vseh primerih."
-          frazo: "Oni so mi vsekakor pomagali."
-          vorto: "vsekakor, na vsak način"
         ekspliko: "Način (prislov)."
         i: 
           ekspliko: Nedoločno.
@@ -61,10 +57,11 @@ sl:
           ekspliko: Kazalno.
           frazo: "Ona piše tako dobro, kakor učiteljica."
           vorto: tako
+        ĉi: 
+          ekspliko: "Obče, v vseh primerih."
+          frazo: "Oni so mi vsekakor pomagali."
+          vorto: "vsekakor, na vsak način"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto je jezik od vsakogar."
-          vorto: "vsakogar (last)"
         ekspliko: "posest (2. sklon)"
         i: 
           frazo: "Jaz sem našel knjigo, ki je lahko od kogarkoli last."
@@ -78,10 +75,10 @@ sl:
         ti: 
           frazo: "Mačka je tekla na hiši in poškodovala od one (hiše) streho."
           vorto: "onega, tistega"
+        ĉi: 
+          frazo: "Esperanto je jezik od vsakogar."
+          vorto: "vsakogar (last)"
       korelativoj_om: 
-        cxi: 
-          frazo: "Koliko bencina želite? — Jaz želim vse, kolikor imate (ti imaš)."
-          vorto: "vse, v vsaki količini"
         ekspliko: Količina.
         i: 
           frazo: "Jaz moram kupiti nekoliko kave."
@@ -95,6 +92,9 @@ sl:
         ti: 
           frazo: "On je jedel toliko, kolikor je hotel."
           vorto: "toliko, tolikor"
+        ĉi: 
+          frazo: "Koliko bencina želite? — Jaz želim vse, kolikor imate (ti imaš)."
+          vorto: "vse, v vsaki količini"
       relativoj: 
         ekspliko-1: "Besede, ki se začenjajo s \"KI\" nas lahko uvedejo tudi v nevprašalne stavke. Imenujemo jih relativi, ker prikazujejo odnos med glavnim in odvisnim stavkom."
         ekspliko-2: "V zgornjem stavku se \"kiun\" nanaša na \"tiu frukto\"."

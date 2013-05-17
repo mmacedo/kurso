@@ -44,12 +44,12 @@ la:
           titolo: Daudzskaitlis
           vi: "jūs (daudzskaitlis)"
         singularo: 
-          gxi: "tas, tā (par nedzīvu būtni vai arī kam nav noteikts dzimums)"
           li: viņš
           mi: es
-          sxi: viņa
           titolo: Vienskaitlis
           vi: "tu; jūs (vienskaitlis)"
+          ĝi: "tas, tā (par nedzīvu būtni vai arī kam nav noteikts dzimums)"
+          ŝi: viņa
         specialaj: 
           oni: "Bezpersonisks vietniekvārds; nozīmē \"cilvēki; daudz vai dažas personas;  kaut kāds nepazīstams\", tiek pielietots, kad negrib vai nevar precizēt, kas veica darbību. Piem., oni parolas, ke... - runā, ka..."
           si: "\"Sia - savs\": trešās personas vietniekvārds, kurš tiek lietots, kad tas attiecas uz teikuma priekšmetu."
@@ -101,10 +101,10 @@ la:
           oni-estos: "(kaut kāds cilvēks, cilvēki) būs"
           vi-estis: "jūs bijāt"
         singularo: 
-          gxi-estos: "tas; tā būs"
           li-estis: "viņš bija"
           mi-estas: "es esmu"
-          sxi-estas: "viņa ir"
+          ĝi-estos: "tas; tā būs"
+          ŝi-estas: "viņa ir"
         titolo: "Darbības vārdi"
       vortaro01: 
         amiko: draugs

@@ -6,9 +6,6 @@ sk:
         ekspliko: "Naučme sa teraz ostatné tabuľkové slová. Majte na pamäti, že systém je uzatvorený, to znamená, že nie je možné vytvoriť iné ako už ukázané tabuľkové slová."
         titolo: "Tabuľkové slová"
       korelativoj_a: 
-        cxi: 
-          frazo: "Každá pomoc je vítaná."
-          vorto: Všelijaký
         ekspliko: "Ukazuje kvalitu, druh (môže mať koncovku \"j\" aj \"n\")"
         i: 
           frazo: "Máš nejaké pochybnosti o gramatike esperanta?"
@@ -22,10 +19,10 @@ sk:
         ti: 
           frazo: "Nebudem jesť taký chleba."
           vorto: Taký
+        ĉi: 
+          frazo: "Každá pomoc je vítaná."
+          vorto: Všelijaký
       korelativoj_al: 
-        cxi: 
-          frazo: "Pýtaš sa, prečo ťa milujem. Odpovedám: pre všetko!"
-          vorto: "Pre všetko"
         ekspliko: Príčina
         i: 
           frazo: "Z nejakého dôvodu ťa ešte nepoznám."
@@ -39,11 +36,10 @@ sk:
         ti: 
           frazo: "Je veľmi pekná. Pretu ju milujem."
           vorto: Preto
+        ĉi: 
+          frazo: "Pýtaš sa, prečo ťa milujem. Odpovedám: pre všetko!"
+          vorto: "Pre všetko"
       korelativoj_el: 
-        cxi: 
-          ekspliko: Všeobecne
-          frazo: "Všemožne mi pomohli."
-          vorto: "Všelijako (všetkými spôsobmi)"
         ekspliko: Spôsob
         i: 
           ekspliko: Neurčitosť
@@ -61,10 +57,11 @@ sk:
           ekspliko: Ukazovacie
           frazo: "Píše tak dobre ako učiteľka."
           vorto: Tak
+        ĉi: 
+          ekspliko: Všeobecne
+          frazo: "Všemožne mi pomohli."
+          vorto: "Všelijako (všetkými spôsobmi)"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto je jazyk každého."
-          vorto: Každého
         ekspliko: Vlastníctvo
         i: 
           frazo: "Našiel som niekoho knihu."
@@ -78,10 +75,10 @@ sk:
         ti: 
           frazo: "Mačka bežala po dome a poškodila jeho strechu."
           vorto: Toho
+        ĉi: 
+          frazo: "Esperanto je jazyk každého."
+          vorto: Každého
       korelativoj_om: 
-        cxi: 
-          frazo: "Koľko chcete benzínu? - Chcem všetko, čo máte."
-          vorto: Všetko
         ekspliko: "Ukazuje množstvo"
         i: 
           frazo: "Músim kúpiť trochu (niekoľko) kávy."
@@ -95,6 +92,9 @@ sk:
         ti: 
           frazo: "Jedol toľko, koľko chcel."
           vorto: Toľko
+        ĉi: 
+          frazo: "Koľko chcete benzínu? - Chcem všetko, čo máte."
+          vorto: Všetko
       relativoj: 
         ekspliko-1: "Slová začínajúce na \"KI\" môžu taktiež uvádzať vety bez opytovacieho zmyslu. Vtedy sa nazývajú vzťažnými, pretože ukazujú vzťah medzi hlavnou a vedlajšou vetou."
         ekspliko-2: "V nasledujúcej vete sa \"kiun\" vzťahuje na \"tiu frukto\"."

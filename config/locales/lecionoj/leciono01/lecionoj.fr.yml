@@ -44,12 +44,12 @@ fr:
           titolo: Pluriel
           vi: vous
         singularo: 
-          gxi: "il/elle (objet, animal ou enfant dont on n'a pas besoin de préciser le sexe)"
           li: il
           mi: je
-          sxi: elle
           titolo: Singulier
           vi: tu
+          ĝi: "il/elle (objet, animal ou enfant dont on n'a pas besoin de préciser le sexe)"
+          ŝi: elle
         specialaj: 
           oni: "on (impersonnel)"
           si: "se (pronom réfléchi de la troisième personne, utilisé pour se référer au sujet de la proposition)."
@@ -101,10 +101,10 @@ fr:
           oni-estos: "on sera"
           vi-estis: "vous étiez"
         singularo: 
-          gxi-estos: "il/elle sera (objet, animal)"
           li-estis: "il était"
           mi-estas: "je suis"
-          sxi-estas: "elle est"
+          ĝi-estos: "il/elle sera (objet, animal)"
+          ŝi-estas: "elle est"
         titolo: "Les verbes"
       vortaro01: 
         amiko: ami

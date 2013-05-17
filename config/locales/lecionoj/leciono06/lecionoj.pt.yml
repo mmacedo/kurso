@@ -6,9 +6,6 @@ pt:
         ekspliko: "Vamos aprender agora os demais correlativos. Lembre-se de que o sistema de correlativos é um sistema fechado, isto é, não é possível derivar outros além dos 45 que estão sendo mostrados."
         titolo: Correlativos
       korelativoj_a: 
-        cxi: 
-          frazo: "Todo tipo de ajuda é bem-vinda."
-          vorto: "De todo tipo, de toda espécie."
         ekspliko: "Qualidade, espécie (pode receber as terminações \"j\" e \"n\")."
         i: 
           frazo: "Você tem algum tipo de dúvida sobre a gramática do Esperanto?"
@@ -22,10 +19,10 @@ pt:
         ti: 
           frazo: "Eu não vou comer um pão desse tipo."
           vorto: "Desse tipo, dessa espécie; tal."
+        ĉi: 
+          frazo: "Todo tipo de ajuda é bem-vinda."
+          vorto: "De todo tipo, de toda espécie."
       korelativoj_al: 
-        cxi: 
-          frazo: "Você pergunta por que eu te amo. Eu respondo: por todos os motivos!"
-          vorto: "Por todos os motivos, por todas as razões."
         ekspliko: "Causa, motivo."
         i: 
           frazo: "Por algum motivo ainda não te conheço."
@@ -39,11 +36,10 @@ pt:
         ti: 
           frazo: "Ela é muito bonita. Por isso a amo."
           vorto: "Por isso, por esse motivo, por essa razão, por aquele motivo, por aquela razão."
+        ĉi: 
+          frazo: "Você pergunta por que eu te amo. Eu respondo: por todos os motivos!"
+          vorto: "Por todos os motivos, por todas as razões."
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Indica coletivo, reunião, todos."
-          frazo: "Eles ajudaram-me de todas as maneiras."
-          vorto: "De todos os modos, de todas as maneiras."
         ekspliko: "Modo, maneira."
         i: 
           ekspliko: "Mostra indefinição"
@@ -61,10 +57,11 @@ pt:
           ekspliko: "Usado para indicar, mostrar."
           frazo: "Ela escreve tão bem quanto....."
           vorto: "Assim, desse modo, daquele modo."
+        ĉi: 
+          ekspliko: "Indica coletivo, reunião, todos."
+          frazo: "Eles ajudaram-me de todas as maneiras."
+          vorto: "De todos os modos, de todas as maneiras."
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto é língua de todos (O Esperanto pertence a todo mundo)."
-          vorto: "De todos, de todas as pessoas."
         ekspliko: Posse.
         i: 
           frazo: "Encontrei o livro de alguém."
@@ -78,10 +75,10 @@ pt:
         ti: 
           frazo: "O gato correu sobre a casa e estragou o telhado dessa."
           vorto: "Desse, daquele."
+        ĉi: 
+          frazo: "Esperanto é língua de todos (O Esperanto pertence a todo mundo)."
+          vorto: "De todos, de todas as pessoas."
       korelativoj_om: 
-        cxi: 
-          frazo: "De quanta gasolina você precisa? — Preciso de toda quantidade que você tiver."
-          vorto: "Toda quantidade."
         ekspliko: Quantidade.
         i: 
           frazo: "Eu tenho que comprar alguma quantidade de café."
@@ -95,6 +92,9 @@ pt:
         ti: 
           frazo: "Ele comeu o tanto que quis."
           vorto: "Tanto, essa quantidade."
+        ĉi: 
+          frazo: "De quanta gasolina você precisa? — Preciso de toda quantidade que você tiver."
+          vorto: "Toda quantidade."
       relativoj: 
         ekspliko-1: "As palavras que começam com \"KI\" também podem introduzir frases sem significado interrogativo. Essas palavras são chamadas relativos, porque mostram a relação entre a oração secundária e a oração principal."
         ekspliko-2: "Na frase acima \"kiun\" refere-se a \"tiu frukto\"."

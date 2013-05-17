@@ -6,9 +6,6 @@ pt:
         ekspliko: "Há um grupo de 45 palavras muito úteis, que fazem parte de um sistema regular e fechado. Essas palavras são chamadas de correlativos. O significado de cada correlativo é o resultado da combinação de sua raiz (prefixo) e de sua terminação (sufixo)."
         titolo: Correlativos
       korelativoj_am: 
-        cxi: 
-          frazo: "Porém sempre desejei visitá-lo."
-          vorto: Sempre
         ekspliko: Tempo
         i: 
           frazo: "Você alguma vez visitou o Brasil?"
@@ -22,6 +19,9 @@ pt:
         ti: 
           frazo: "Eu aprendi Esperanto no tempo que estava na escola."
           vorto: "Naquele tempo, então."
+        ĉi: 
+          frazo: "Porém sempre desejei visitá-lo."
+          vorto: Sempre
       korelativoj_cxi: 
         ekspliko: "Essa partícula invariável indica aproximação, e pode estar antes ou depois do correlativo ao qual se refere:"
         frazo-1: "O que é isto?"
@@ -32,10 +32,6 @@ pt:
             Já os terminados em "a" e "u"  podem receber tanto o "-n" quanto o "-j". 
             Antes de palavras interrogativas ("kio", "kie" etc.) não se usa a partícula "ĉu".
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Mostra coletivo, reunião, todos"
-          frazo: "Um tolo em todo lugar escreve seu nome."
-          vorto: "Em todo lugar."
         ekspliko: "Indica lugar."
         i: 
           ekspliko: "Indica indefinição"
@@ -53,10 +49,11 @@ pt:
           ekspliko: "Usado para indicar, mostrar."
           frazo: "Eu moro ali onde está o automóvel."
           vorto: "Ali, acolá, lá."
+        ĉi: 
+          ekspliko: "Mostra coletivo, reunião, todos"
+          frazo: "Um tolo em todo lugar escreve seu nome."
+          vorto: "Em todo lugar."
       korelativoj_o: 
-        cxi: 
-          frazo: "Eu esqueci tudo."
-          vorto: "Tudo, todas as coisas."
         ekspliko: Coisa
         i: 
           frazo: "Algo aconteceu!"
@@ -70,11 +67,10 @@ pt:
         ti: 
           frazo: "O que é aquilo? — Aquilo é um instrumento musical."
           vorto: "Aquilo, isso, aquela coisa, essa coisa."
+        ĉi: 
+          frazo: "Eu esqueci tudo."
+          vorto: "Tudo, todas as coisas."
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Mostra coletivo, reunião, todos."
-          frazo: "Todo ser humano  ama a si mesmo."
-          vorto: "Todo; cada."
         ekspliko: "Indica indivíduo. Quando se referir a mais de um, deve receber a terminação \"j\"."
         i: 
           ekspliko: "Indica indefinição"
@@ -92,6 +88,10 @@ pt:
           ekspliko: "Usado para indicar, mostrar."
           frazo: "Aquele livro é muito bom."
           vorto: "Aquele, esse."
+        ĉi: 
+          ekspliko: "Mostra coletivo, reunião, todos."
+          frazo: "Todo ser humano  ama a si mesmo."
+          vorto: "Todo; cada."
       vortaro05: 
         al: "para, a, em direção a"
         anonco: anúncio

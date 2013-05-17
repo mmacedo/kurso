@@ -6,9 +6,6 @@ tr:
         ekspliko: "Doğru ve kapalı sistemin bir parçası olan bu sisteme biz nispi zamirler diyoruz. Her nispi zamirlerin manası onun kökünün ön takısının ve son takısının birleşmesi sonucudur."
         titolo: "Nispi Zamirler"
       korelativoj_am: 
-        cxi: 
-          frazo: "Fakat onu her zaman ziyaret etmek isterim."
-          vorto: "Her zaman"
         ekspliko: Zaman
         i: 
           frazo: "Brezilyada hiç bulundun mu?"
@@ -22,6 +19,9 @@ tr:
         ti: 
           frazo: "Ben Esperantoyu, okulda olduğum zaman öğrendim."
           vorto: "O zaman"
+        ĉi: 
+          frazo: "Fakat onu her zaman ziyaret etmek isterim."
+          vorto: "Her zaman"
       korelativoj_cxi: 
         ekspliko: "Bu kelimecik yakınlığı işaret etmekte, kiminle ilgili ise zamirin önünde veya arkasında olabilir."
         frazo-1: "Bu nedir ?"
@@ -29,10 +29,6 @@ tr:
         frazo-3: "Bu benim evim."
         rimarkigo: "Sonu \"o\" harfi ile biten nispi zamirler ( Ne , O , vb.) \"i\" halinin sonunu ( -n harfini ) alabilirler.( Neyi , Onu) Fakat, çoğullayıcı olan \"j\" harfini alamazlar."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Genellemeyi göstermekte;"
-          frazo: "Akılsız heryere adını yazar."
-          vorto: "Her yerde"
         ekspliko: "Yeri göstermektedir."
         i: 
           ekspliko: "Belirsizlik ifade etmekte."
@@ -50,10 +46,11 @@ tr:
           ekspliko: "İşaret göstermek için kullanılır."
           frazo: "Ben arabanın olduğu yerde oturuyorum."
           vorto: Orada
+        ĉi: 
+          ekspliko: "Genellemeyi göstermekte;"
+          frazo: "Akılsız heryere adını yazar."
+          vorto: "Her yerde"
       korelativoj_o: 
-        cxi: 
-          frazo: "Ben herşeyi unuttum."
-          vorto: Herşey
         ekspliko: "İş, eşya, nesne"
         i: 
           frazo: "Birşey oldu !"
@@ -67,11 +64,10 @@ tr:
         ti: 
           frazo: "O nedir? — O müzik aletidir."
           vorto: O
+        ĉi: 
+          frazo: "Ben herşeyi unuttum."
+          vorto: Herşey
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Genellemeyi göstermekte;"
-          frazo: "Her insan kendisini sever."
-          vorto: "Herkes , her kimse"
         ekspliko: "\"u\" bir şahsı gösterir, eğer kişi sayısı birden fazla ise burda \"j\" harfini ekleyerek çoğullanabilir.."
         i: 
           ekspliko: "Belirsizlik göstermektedir."
@@ -89,6 +85,10 @@ tr:
           ekspliko: "İşaret göstermek için kullanılır."
           frazo: "O kitap çok iyidir."
           vorto: "O - o şahıs"
+        ĉi: 
+          ekspliko: "Genellemeyi göstermekte;"
+          frazo: "Her insan kendisini sever."
+          vorto: "Herkes , her kimse"
       vortaro05: 
         al: "-na takısıdır"
         anonco: Anons

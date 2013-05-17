@@ -6,9 +6,6 @@ pl:
         ekspliko: "Teraz poznamy następne korelatywy.  Pamiętaj, że są one w zamkniętym systemie i nie można tworzyć z nich innych słów oprócz tych pokazanych."
         titolo: "Wyrazy współzależne"
       korelativoj_a: 
-        cxi: 
-          frazo: "Każda pomoc jest oczekiwana."
-          vorto: Każdy
         ekspliko: "Pokazuje przymiot, cechę, jakość, właściwość. Otrzymuje końcówkę  \"-j\"  i  \"-n\""
         i: 
           frazo: "Czy masz jakąś wątpliwość co do gramatyki Esperanta?"
@@ -22,10 +19,10 @@ pl:
         ti: 
           frazo: "Ja nie będę jadł takiego chleba."
           vorto: Taki
+        ĉi: 
+          frazo: "Każda pomoc jest oczekiwana."
+          vorto: Każdy
       korelativoj_al: 
-        cxi: 
-          frazo: "Pytasz, dlaczego cię kocham. Odpowiadam: z każdego powodu."
-          vorto: "Z każdego powodu"
         ekspliko: "Przyczyna, powód."
         i: 
           frazo: "Z jakiegoś powodu jeszcze cię nie znam."
@@ -39,11 +36,10 @@ pl:
         ti: 
           frazo: "Ona jest bardzo ładna. Dlatego kocham ją."
           vorto: Dlatego
+        ĉi: 
+          frazo: "Pytasz, dlaczego cię kocham. Odpowiadam: z każdego powodu."
+          vorto: "Z każdego powodu"
       korelativoj_el: 
-        cxi: 
-          ekspliko: Uogólnia.
-          frazo: "Oni na każdy sposób pomogli mi."
-          vorto: "W każdy sposób"
         ekspliko: sposób
         i: 
           ekspliko: "Wyraża coś nieznanego, nieokreślonego."
@@ -61,10 +57,11 @@ pl:
           ekspliko: Wskazuje.
           frazo: "Ona pisze  tak  dobrze, jak nauczycielka."
           vorto: "W ten sposób"
+        ĉi: 
+          ekspliko: Uogólnia.
+          frazo: "Oni na każdy sposób pomogli mi."
+          vorto: "W każdy sposób"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto jest językiem wszystkich."
-          vorto: Każdego
         ekspliko: "Wyraża  posiadanie."
         i: 
           frazo: "Znalazłem czyjąś książkę."
@@ -78,10 +75,10 @@ pl:
         ti: 
           frazo: "Kot biegł po domu i uszkodził jego dach."
           vorto: Tego
+        ĉi: 
+          frazo: "Esperanto jest językiem wszystkich."
+          vorto: Każdego
       korelativoj_om: 
-        cxi: 
-          frazo: "Ile chcesz benzyny?  -  Chcę wszystko, ile masz."
-          vorto: Wszystko
         ekspliko: "Oznacza ilość."
         i: 
           frazo: "Muszę kupić jakąś ilość kawy."
@@ -95,6 +92,9 @@ pl:
         ti: 
           frazo: "On jadł tyle, ile chciał."
           vorto: Tyle
+        ĉi: 
+          frazo: "Ile chcesz benzyny?  -  Chcę wszystko, ile masz."
+          vorto: Wszystko
       relativoj: 
         ekspliko-1: "Wyrazy zaczynające się na  \"KI\"  mogą  też  wprowadzać zdania bez pytającego znaczenia."
         ekspliko-2: "W powyższym zdaniu \"kiun\" odnosi się do \"tego owocu\"."

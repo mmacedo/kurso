@@ -6,9 +6,6 @@ id:
         ekspliko: "Adalah kelompok kata kecil yg berguna sekali, sebagian cara biasa dan terbatas.  Namanya kata-korelasi.  Arti setiap kata-korelasi adalah kombinasi arti kata-dasar (awalan) dengan akhiran."
         titolo: Kata-Korelasi
       korelativoj_am: 
-        cxi: 
-          frazo: "Tetapi saya selalu ingin mengunjunginya."
-          vorto: Selalu
         ekspliko: Waktu
         i: 
           frazo: "Apakah anda sudah mengunjungi Brazil?"
@@ -22,6 +19,9 @@ id:
         ti: 
           frazo: "Saya belajar bahasa Esperanto waktu saya di sekolah."
           vorto: "Pada waktu itu, maka, lalu"
+        ĉi: 
+          frazo: "Tetapi saya selalu ingin mengunjunginya."
+          vorto: Selalu
       korelativoj_cxi: 
         ekspliko: "Kata kecil ini menunjukkan dekatnya, dan  bisa terdapat di depan atau di belakang kata korelasi yang berhubungan dengannya."
         frazo-1: "Apa ini?"
@@ -29,10 +29,6 @@ id:
         frazo-3: "Ini rumah saya."
         rimarkigo: "Kata-korelasi dengan akhiran \"o\" (\"kio\", \"tio\" dsb), bisa menerima akhiran akusatip (\"kion\", \"tion\"),  tetapi tidak bisa menerima akhiran bentuk jamak (-j)."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Menunjukkan kelompok."
-          frazo: "Orang bodoh dimana-mana menulis namanya."
-          vorto: "Pada semua tempat,  dimana-mana"
         ekspliko: "Menunjukkan tempat."
         i: 
           ekspliko: "Menunjukkan sesuatu yang tidak tentu"
@@ -50,10 +46,11 @@ id:
           ekspliko: "Dipakai untuk menunjukkan, menyatakan"
           frazo: "Saya tinggal di tempat itu yang ada mobil."
           vorto: "Pada tempat itu, di sana"
+        ĉi: 
+          ekspliko: "Menunjukkan kelompok."
+          frazo: "Orang bodoh dimana-mana menulis namanya."
+          vorto: "Pada semua tempat,  dimana-mana"
       korelativoj_o: 
-        cxi: 
-          frazo: "Saya (sudah) lupa semuanya."
-          vorto: "Apapun, segala sesuatu, semuanya"
         ekspliko: "Benda, barang, hal, urusan"
         i: 
           frazo: "Sesuatu terjadi!"
@@ -67,11 +64,10 @@ id:
         ti: 
           frazo: "Apa itu? - Itu alat musik."
           vorto: "Itu  (contoh: itu sudah diketahui umum.  Apa itu?  Itu betul.)"
+        ĉi: 
+          frazo: "Saya (sudah) lupa semuanya."
+          vorto: "Apapun, segala sesuatu, semuanya"
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Menunjukkan kelompok"
-          frazo: "Setiap orang cinta dirinya sendiri!"
-          vorto: "Semua, segala, setiap, masing-masing, tiap orang, tiap hari,  dsb"
         ekspliko: "Menunjukkan bentuk tunggal.  Kalau bentuk jamak, korelasi itu harus menerima akhiran \"j\"."
         i: 
           ekspliko: "Menunjukkan sesuatu yang tidak tentu."
@@ -89,6 +85,10 @@ id:
           ekspliko: "Dipakai untuk menunjukkan"
           frazo: "Buku itu baik sekali."
           vorto: "Orang itu,  ......... itu"
+        ĉi: 
+          ekspliko: "Menunjukkan kelompok"
+          frazo: "Setiap orang cinta dirinya sendiri!"
+          vorto: "Semua, segala, setiap, masing-masing, tiap orang, tiap hari,  dsb"
       vortaro05: 
         al: ke
         anonco: pemberitahuan

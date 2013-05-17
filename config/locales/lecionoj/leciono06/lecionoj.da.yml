@@ -6,9 +6,6 @@ da:
         ekspliko: "Vi skal nu gennemgå de øvrige korrelative ord."
         titolo: Korrelativer
       korelativoj_a: 
-        cxi: 
-          frazo: "Al slags hjælp er velkommen."
-          vorto: "enhver slags / al slags"
         ekspliko: "Beskaffendhed (kan få endelserne \"j\" og \"n\")"
         i: 
           frazo: "Har du en eller anden slags tvivl om esperantos grammatik?"
@@ -22,10 +19,10 @@ da:
         ti: 
           frazo: "Jeg vil ikke spise (skal ikke til at spise) den slags brød."
           vorto: "den slags / sådan"
+        ĉi: 
+          frazo: "Al slags hjælp er velkommen."
+          vorto: "enhver slags / al slags"
       korelativoj_al: 
-        cxi: 
-          frazo: "Du spørger, hvorfor jeg elsker ham. Jeg svarer: Af enhver grund!"
-          vorto: "af enhver grund"
         ekspliko: Årsag
         i: 
           frazo: "Af en eller anden grund kender jeg dig endnu ikke."
@@ -39,11 +36,10 @@ da:
         ti: 
           frazo: "Hun er meget smuk. Derfor elsker jeg hende."
           vorto: derfor
+        ĉi: 
+          frazo: "Du spørger, hvorfor jeg elsker ham. Jeg svarer: Af enhver grund!"
+          vorto: "af enhver grund"
       korelativoj_el: 
-        cxi: 
-          ekspliko: Sammenfattende
-          frazo: "De hjalp mig på enhver måde."
-          vorto: "på enhver måde"
         ekspliko: Måde
         i: 
           ekspliko: Ubestemt
@@ -61,10 +57,11 @@ da:
           ekspliko: "Anvendes til at påpege, vise."
           frazo: "Hun skriver lige så godt som lærerinden."
           vorto: "således / sådan"
+        ĉi: 
+          ekspliko: Sammenfattende
+          frazo: "De hjalp mig på enhver måde."
+          vorto: "på enhver måde"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto er alles sprog."
-          vorto: "alles enhver"
         ekspliko: Besiddelse
         i: 
           frazo: "Jeg fandt en eller andens bog."
@@ -78,10 +75,10 @@ da:
         ti: 
           frazo: "Katten løb på huset og beskadigede dets tag."
           vorto: "dens / dets"
+        ĉi: 
+          frazo: "Esperanto er alles sprog."
+          vorto: "alles enhver"
       korelativoj_om: 
-        cxi: 
-          frazo: "Hvor meget benzin ønsker du? - Jeg ønsker så meget, som du har."
-          vorto: "alt sammen / det hele / alt"
         ekspliko: Mængde
         i: 
           frazo: "Jeg må købe noget kaffe."
@@ -95,6 +92,9 @@ da:
         ti: 
           frazo: "Han spiste så meget som han ville."
           vorto: "så meget / så mange"
+        ĉi: 
+          frazo: "Hvor meget benzin ønsker du? - Jeg ønsker så meget, som du har."
+          vorto: "alt sammen / det hele / alt"
       relativoj: 
         ekspliko-1: "De ord som begynder på \"ki\" kan også indlede en sætning, som ikke er spørgende. Sådanne ord kaldes relativer fordi de viser relation mellem hoved- og bi-sætning."
         ekspliko-2: "I den ovenfor viste sætning henviser \"kiun\" til \"tiun frukton\"."

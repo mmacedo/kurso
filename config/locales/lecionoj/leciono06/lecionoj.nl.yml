@@ -6,9 +6,6 @@ nl:
         ekspliko: "Nu gaan we de overige correlatieven (\"tabelwoorden\") aanpakken. We weten dat het correlatievensysteem (de \"tabel\") een vast  systeem is.  D.w.z. er kunnen geen andere correlatieven afgeleid worden buiten de nu getoonde correlatieven."
         titolo: "Correlatieven (ook \"Tabelwoorden\" genoemd)"
       korelativoj_a: 
-        cxi: 
-          frazo: "Alle soort (allerlei) hulp is welgekomen (welkom)."
-          vorto: "Elk soort, allerlei"
         ekspliko: "Wijst op HOEDANIGHEID, kwaliteit , soort   (kan een eind -j en -n hebben)"
         i: 
           frazo: "Heb je enige (een of andere soort) twijfel betreffende (over) de grammatica van Esperanto?"
@@ -22,10 +19,10 @@ nl:
         ti: 
           frazo: "Ik zal zulk (dat soort) brood niet eten."
           vorto: "Zulke, zo een soort, zo een, zo 'n"
+        ĉi: 
+          frazo: "Alle soort (allerlei) hulp is welgekomen (welkom)."
+          vorto: "Elk soort, allerlei"
       korelativoj_al: 
-        cxi: 
-          frazo: "Je vraagt waarom ik van je houd. Ik antwoord: voor alles! (om elke reden!)"
-          vorto: "Om elke reden"
         ekspliko: "OORZAAK, REDEN"
         i: 
           frazo: "Om een of andere reden ken ik u nog niet."
@@ -39,11 +36,10 @@ nl:
         ti: 
           frazo: "Ze is zeer mooi. Daarom houd ik van haar."
           vorto: "Om die reden, daarom"
+        ĉi: 
+          frazo: "Je vraagt waarom ik van je houd. Ik antwoord: voor alles! (om elke reden!)"
+          vorto: "Om elke reden"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Wijst op een volle verzameling."
-          frazo: "Ze hielpen me op alle mogelijke manieren."
-          vorto: "Op alle manieren, alleszins"
         ekspliko: "MANIER, WIJZE"
         i: 
           ekspliko: "Toont onbepaaldheid."
@@ -61,10 +57,11 @@ nl:
           ekspliko: "Gebruikt om aan te wijzen, te tonen."
           frazo: "Zij schrijft zo (of: even) goed, als de lerares."
           vorto: "Op die manier, zo"
+        ĉi: 
+          ekspliko: "Wijst op een volle verzameling."
+          frazo: "Ze hielpen me op alle mogelijke manieren."
+          vorto: "Op alle manieren, alleszins"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto is ieders taal."
-          vorto: "Van iedereen, ieders"
         ekspliko: "Wijst op EIGENAAR."
         i: 
           frazo: "Ik vond iemands boek."
@@ -78,10 +75,10 @@ nl:
         ti: 
           frazo: "De kat liep op het huis en maakte het dak ervan (\"diens dak\") kapot."
           vorto: Diens
+        ĉi: 
+          frazo: "Esperanto is ieders taal."
+          vorto: "Van iedereen, ieders"
       korelativoj_om: 
-        cxi: 
-          frazo: "Hoeveel benzine wil u? - Ik wil de hele hoeveelheid, die u heeft (al, wat u heeft)."
-          vorto: "De hele hoeveelheid, (alles)"
         ekspliko: "Wijst op een HOEVEELHEID."
         i: 
           frazo: "Ik moet een beetje (een onbepaalde hoeveelheid / wat) koffie kopen."
@@ -95,6 +92,9 @@ nl:
         ti: 
           frazo: "Hij at zoveel (als) hij wilde."
           vorto: Zoveel
+        ĉi: 
+          frazo: "Hoeveel benzine wil u? - Ik wil de hele hoeveelheid, die u heeft (al, wat u heeft)."
+          vorto: "De hele hoeveelheid, (alles)"
       relativoj: 
         ekspliko-1: "De woorden die met KI- beginnen kunnen ook aan het begin van een niet vragende zin staan. Die woorden noem je dan betrekkelijke voornaamwoorden, omdat ze de betrekking aangeven tussen bijzin en hoofdzin."
         ekspliko-2: "In de zin hierboven heeft  \"kiun\" betrekking op \"tiu frukto\"."

@@ -44,12 +44,12 @@ sl:
           titolo: "Množina (dvojina v esperantu ne obstaja)"
           vi: Vi
         singularo: 
-          gxi: "Ono (on,ona). Zamenjuje besede, ki označujejo stvari, živali, pojave (žoga, pes)."
           li: "On"
           mi: Jaz
-          sxi: Ona
           titolo: Ednina
           vi: Ti
+          ĝi: "Ono (on,ona). Zamenjuje besede, ki označujejo stvari, živali, pojave (žoga, pes)."
+          ŝi: Ona
         specialaj: 
           oni: "Oni - Nedoločni zaimek, prevajamo ga z našim SE, uporabljamo ga, ko subjekt ni znan. Oni parolas = Govori se. Oni sidas = Sedi se."
           si: "Si - Povratno osebni zaimek SI (najpogosteje v akuzativu SIN) pomeni SE, toda samo v primerih, ko glagol kaže, da se dejanje vrača k subjektu. Primer: Li lavas SIN = On se umiva. Ŝi rigardas SIN = Ona se gleda."
@@ -101,10 +101,10 @@ sl:
           oni-estos: "Se bo"
           vi-estis: "Ti si bil, vi ste bili"
         singularo: 
-          gxi-estos: "Ono (on,ona) bo"
           li-estis: "On je bil"
           mi-estas: "Jaz sem"
-          sxi-estas: "Ona je"
+          ĝi-estos: "Ono (on,ona) bo"
+          ŝi-estas: "Ona je"
         titolo: Glagoli
       vortaro01: 
         amiko: prijatelj

@@ -10,8 +10,8 @@ eo:
         titolo: "Adjketivoj el numeraloj"
         vortoj: 
           dek: dek
-          dek-naux: "dek naŭ"
-          dek-nauxa: dek-naŭa
+          dek-naŭ: "dek naŭ"
+          dek-naŭa: dek-naŭa
           deka: deka
           tri: tri
           tria: tria

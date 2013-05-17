@@ -44,12 +44,12 @@ sk:
           titolo: "Množné číslo"
           vi: Vy
         singularo: 
-          gxi: "Ono (niečo alebo niekto, ktorého pohlavie nie je nutné upresniť)"
           li: "On"
           mi: Ja
-          sxi: Ona
           titolo: "Jednotné číslo"
           vi: Ty
+          ĝi: "Ono (niečo alebo niekto, ktorého pohlavie nie je nutné upresniť)"
+          ŝi: Ona
         specialaj: 
           oni: "Oni - nedefinované osobné zámeno, ktoré znamená \"ľudia; človek; \"sa\" \", používané keď nechceme alebo sa nedá upresniť podmet. (človek nemôže, nedá sa, zdá sa...)"
           si: "Si - zvratné zámeno tretej osoby - li, ŝi, ĝi, ili, oni - používa sa iba ak prislúcha podmetu v 3. os.!"
@@ -101,10 +101,10 @@ sk:
           oni-estos: Bude
           vi-estis: "Vy ste"
         singularo: 
-          gxi-estos: "Ono je"
           li-estis: "On je"
           mi-estas: "Ja som"
-          sxi-estas: "Ona je"
+          ĝi-estos: "Ono je"
+          ŝi-estas: "Ona je"
         titolo: Slovesá
       vortaro01: 
         amiko: priateľ

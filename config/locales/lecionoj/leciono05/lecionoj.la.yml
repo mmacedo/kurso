@@ -6,9 +6,6 @@ la:
         ekspliko: "Lūk trīs noderīgi vārdi, kuri veido vienkāršu un elastīgu sistēmu. Šos vārdus sauc par korelatīviem. Katra korelatīva nozīmi veido tā saknes (priedēklis) un tā galotnes (piedēkļa) savienošanas rezultāts."
         titolo: Korelatīvi
       korelativoj_am: 
-        cxi: 
-          frazo: "Tomēr es vienmēr vēlējos to apmeklēt."
-          vorto: Vienmēr
         ekspliko: Laiks
         i: 
           frazo: "Vai jūs kaut kad apmeklējāt Brazīliju?"
@@ -22,6 +19,9 @@ la:
         ti: 
           frazo: "Es mācījos esperanto tad, kad es biju skolā."
           vorto: Tad
+        ĉi: 
+          frazo: "Tomēr es vienmēr vēlējos to apmeklēt."
+          vorto: Vienmēr
       korelativoj_cxi: 
         ekspliko: "Šī daliņa norāda uz objekta tuvumu un var būt pirms vai pēc korelatīva, uz kuru tas attiecas."
         frazo-1: "Kas ir šis?"
@@ -29,10 +29,6 @@ la:
         frazo-3: "Šī ir mana māja."
         rimarkigo: "Korelatīviem, kuri beidzas ar galotni -о (kio, tio utt.), var pievienot akuzatīva galotni (-n),  bet tie neiegūst daudzskaitļa galotni (-j). Korelatīviem, kuri beidzas ar -a un -u, var pievienot gan -n gan -j galotnes. Pirms jautājamiem korelatīviem (kio, kie utt.) netiek pievienota daļiņa \"ĉu\"."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Parāda kopumu, grupu."
-          frazo: "Muļķis visur raksta savu vārdu."
-          vorto: Visur
         ekspliko: "Norāda vietu."
         i: 
           ekspliko: "Parāda nenoteiktību."
@@ -50,10 +46,11 @@ la:
           ekspliko: "Tiek lietots, lai uz kaut ko norādītu."
           frazo: "Es dzīvoju tur, kur ir auto."
           vorto: Tur
+        ĉi: 
+          ekspliko: "Parāda kopumu, grupu."
+          frazo: "Muļķis visur raksta savu vārdu."
+          vorto: Visur
       korelativoj_o: 
-        cxi: 
-          frazo: "Es aizmirsu visu."
-          vorto: Viss
         ekspliko: "Darīšana, lieta, priekšmets."
         i: 
           frazo: "Kaut kas notika!"
@@ -67,11 +64,10 @@ la:
         ti: 
           frazo: "Kas tas ir? — Tas ir mūzikas instruments."
           vorto: "Tas, tā"
+        ĉi: 
+          frazo: "Es aizmirsu visu."
+          vorto: Viss
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Parāda kopumu, grupu."
-          frazo: "Katrs cilvēks mīl pats sevi."
-          vorto: "Katrs, ikviens"
         ekspliko: "Izsaka individualitāti. Kad tiek runāts vairāk nekā par vienu objektu, tad nepieciešams pievienot galotni -j."
         i: 
           ekspliko: "Parāda nenoteiktību."
@@ -89,6 +85,10 @@ la:
           ekspliko: "Tiek lietots, lai uz kaut ko norādītu."
           frazo: "Tā grāmata ir ļoti laba."
           vorto: "Tas, tā"
+        ĉi: 
+          ekspliko: "Parāda kopumu, grupu."
+          frazo: "Katrs cilvēks mīl pats sevi."
+          vorto: "Katrs, ikviens"
       vortaro05: 
         al: "pie, uz; datīva apzīmēšana"
         anonco: sludinājums

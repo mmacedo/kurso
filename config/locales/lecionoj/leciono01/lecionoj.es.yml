@@ -44,12 +44,12 @@ es:
           titolo: Plural
           vi: "Ustedes, Vosotros"
         singularo: 
-          gxi: "Eso (para indicar algo o alguien cuyo sexo no se necesita precisar)"
           li: Él
           mi: Yo
-          sxi: Ella
           titolo: Singular
           vi: Tú
+          ĝi: "Eso (para indicar algo o alguien cuyo sexo no se necesita precisar)"
+          ŝi: Ella
         specialaj: 
           oni: "Uno (pron.  indef., que significa \"los hombres; algunas personas; alguien desconocido\". Se usa cuando no se quiere o no se puede precisar quién hizo o sufrió la acción)."
           si: "Se (pronombre reflexivo de la tercera persona - el, ella, eso, ellos, uno. Se usa cuando se hace referencia al sujeto de la oración)."
@@ -101,10 +101,10 @@ es:
           oni-estos: "Uno será"
           vi-estis: "Ustedes eran"
         singularo: 
-          gxi-estos: "Eso será"
           li-estis: "Él fue"
           mi-estas: "Yo soy"
-          sxi-estas: "Ella es"
+          ĝi-estos: "Eso será"
+          ŝi-estas: "Ella es"
         titolo: Verbos
       vortaro01: 
         amiko: amigo

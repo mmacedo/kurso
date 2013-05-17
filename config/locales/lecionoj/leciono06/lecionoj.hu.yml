@@ -6,9 +6,6 @@ hu:
         ekspliko: "Most tanuljunk meg bizonyos névmásokat. Jegyezzük meg, hogy a névmások rendszere zárt, ezért nem lehetséges származtatni más mutató névmásokat a most bemutatottakon kívûl."
         titolo: Névmások
       korelativoj_a: 
-        cxi: 
-          frazo: "Mindenféle segítség jól jön."
-          vorto: mindenféle
         ekspliko: "Minõséget, nemet, fajtát mutat (kaphat \"j\" és \"n\" végzõdést)."
         i: 
           frazo: "Van valamilyen kételyed az eszperantó nyelvtanával kapcsolatban?"
@@ -22,10 +19,10 @@ hu:
         ti: 
           frazo: "Nem fogok megenni olyan kenyeret."
           vorto: olyan
+        ĉi: 
+          frazo: "Mindenféle segítség jól jön."
+          vorto: mindenféle
       korelativoj_al: 
-        cxi: 
-          frazo: "Azt kérdezed, hogy miért szeretlek. Azt felelem: mindenért!"
-          vorto: mindenért
         ekspliko: Ok
         i: 
           frazo: "Téged valami okból még nem ismerlek."
@@ -39,11 +36,10 @@ hu:
         ti: 
           frazo: "Õ (nõ) nagyon szép. Ezért szeretem õt."
           vorto: "azért, ezért"
+        ĉi: 
+          frazo: "Azt kérdezed, hogy miért szeretlek. Azt felelem: mindenért!"
+          vorto: mindenért
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Gyûjtést, csoportot mutat."
-          frazo: "Õk mindenképpen segítettek nekem."
-          vorto: mindenképpen
         ekspliko: Mód
         i: 
           ekspliko: "Határozatlanságot mutat."
@@ -61,10 +57,11 @@ hu:
           ekspliko: "Mutatásra használatos."
           frazo: "Õ (nõ) olyan jól ír, mint a tanár."
           vorto: "úgy, így"
+        ĉi: 
+          ekspliko: "Gyûjtést, csoportot mutat."
+          frazo: "Õk mindenképpen segítettek nekem."
+          vorto: mindenképpen
       korelativoj_es: 
-        cxi: 
-          frazo: "Az eszperantó mindenki nyelve."
-          vorto: mindenkié
         ekspliko: "Tulajdont mutat."
         i: 
           frazo: "Megtaláltam valaki könyvét."
@@ -78,10 +75,10 @@ hu:
         ti: 
           frazo: "A macska futott a házon és megrongálta annak tetõzetét."
           vorto: "azé, annak a.. -ja"
+        ĉi: 
+          frazo: "Az eszperantó mindenki nyelve."
+          vorto: mindenkié
       korelativoj_om: 
-        cxi: 
-          frazo: "Mennyi benzint óhajt? - Mind (Az összest) kérem, amennyije van."
-          vorto: "minden, az összes"
         ekspliko: "Mennyiséget mutat."
         i: 
           frazo: "Kell vegyek valamennyi (egy kevés) kávét."
@@ -95,6 +92,9 @@ hu:
         ti: 
           frazo: "Annyit evett, amennyit akart."
           vorto: "annyi, ennyi"
+        ĉi: 
+          frazo: "Mennyi benzint óhajt? - Mind (Az összest) kérem, amennyije van."
+          vorto: "minden, az összes"
       relativoj: 
         ekspliko-1: "A \"KI\"-vel kezdõdõ névmások  bevezethetnek olyan mondatokat is, amelyeknek nincsen kérdõ értelmük. Ezeket a szavakat vonatkozó névmásoknak nevezzük, mert összefüggést fejeznek ki a fõmondat és a mellékmondat között."
         ekspliko-2: "A fenti mondatban a \"kiun\" a \"tiu frukto\"-ra vonatkozik."

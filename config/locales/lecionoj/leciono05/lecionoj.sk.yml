@@ -6,9 +6,6 @@ sk:
         ekspliko: "Nasledujúce veľmi užitočné slová sú časťou pravidelného a uzavretého systému. Tieto slovíčka sa nazývajú korelatíva alebo tabuľkové slová, pretože vytvárajú ucelenú tabuľku. Každé tabuľkové slovo je kombináciou predložky a koncovky."
         titolo: "Tabuľkové slová"
       korelativoj_am: 
-        cxi: 
-          frazo: "Ale vždy som si prial ju navštíviť."
-          vorto: Vždy
         ekspliko: Čas
         i: 
           frazo: "Navštívil si niekedy Brazíliu?"
@@ -22,6 +19,9 @@ sk:
         ti: 
           frazo: "Učil som sa esperanto vtedy, keď som bol v škole."
           vorto: Vtedy
+        ĉi: 
+          frazo: "Ale vždy som si prial ju navštíviť."
+          vorto: Vždy
       korelativoj_cxi: 
         ekspliko: "Toto slovíčko naznačuje blízkosť a môže byť pred alebo za tabuľkovým slovom, ku ktorému sa vzťahuje."
         frazo-1: "Čo je toto?"
@@ -29,10 +29,6 @@ sk:
         frazo-3: "Toto je môj dom."
         rimarkigo: "Tabuľkové slová končiace na \"o\" môžu získať koncovku akuzatívu (-n), ale nie koncovku množného čísla \"j\"."
       korelativoj_e: 
-        cxi: 
-          ekspliko: Všeobecnosť
-          frazo: "Hlupák píše svoje meno všade. (\"Jména hloupých na všech sloupích\" :-)"
-          vorto: Všade
         ekspliko: "Ukazuje miesto"
         i: 
           ekspliko: Neurčitosť
@@ -50,10 +46,11 @@ sk:
           ekspliko: Ukazovacia
           frazo: "Bývam tam, kde je to auto."
           vorto: "Tam (na otázku kde?, nie na otázku kam?)"
+        ĉi: 
+          ekspliko: Všeobecnosť
+          frazo: "Hlupák píše svoje meno všade. (\"Jména hloupých na všech sloupích\" :-)"
+          vorto: Všade
       korelativoj_o: 
-        cxi: 
-          frazo: "Všetko som zabudol"
-          vorto: Všetko
         ekspliko: "Udalosť, objekt, vec"
         i: 
           frazo: "Niečo sa stalo!"
@@ -67,11 +64,10 @@ sk:
         ti: 
           frazo: "Čo je to? - To je hudobný nástroj."
           vorto: To
+        ĉi: 
+          frazo: "Všetko som zabudol"
+          vorto: Všetko
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Ukazuje všeobecnosť"
-          frazo: "Každý človek sa má rád."
-          vorto: každý
         ekspliko: "Označuje osobu, či vec. Pokiaľ sa jedná o viac ako jednu, musí dostať koncovku \"j\"."
         i: 
           ekspliko: Neurčitosť
@@ -89,6 +85,10 @@ sk:
           ekspliko: Ukazovacia
           frazo: "Tá kniha je veľmi dobrá."
           vorto: "ten / tá / to"
+        ĉi: 
+          ekspliko: "Ukazuje všeobecnosť"
+          frazo: "Každý človek sa má rád."
+          vorto: každý
       vortaro05: 
         al: k
         anonco: oznam

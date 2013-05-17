@@ -44,12 +44,12 @@ hu:
           titolo: "Többes szám"
           vi: "Ti (Önök)"
         singularo: 
-          gxi: "Az (állat, tárgy, fogalom)"
           li: "Õ (férfi)"
           mi: Én
-          sxi: "Õ (nõ)"
           titolo: "Egyes szám"
           vi: "Te (Ön)"
+          ĝi: "Az (állat, tárgy, fogalom)"
+          ŝi: "Õ (nõ)"
         specialaj: 
           oni: "az ember; az emberek; mindenki, általában (határozatlan személyi névmás, általános alany): akkor használjuk, amikor nem akarunk vagy nem tudunk valakit megnevezni."
           si: "(saját)maga: Visszaható névmás. Sohasem szerepelhet fõnévszerûen. A mondatban az alanyra utal, akár fõnév az, akár harmadik személyû névmás, egyes vagy többes számú. Alanyesete nincsen, csak tárgy- és viszonyszós esete."
@@ -101,10 +101,10 @@ hu:
           oni-estos: "az ember(ek), (általában) lesz(nek)"
           vi-estis: "Ti (Önök) voltatok (voltak)"
         singularo: 
-          gxi-estos: "Az lesz"
           li-estis: "Õ (férfi) volt"
           mi-estas: "Én vagyok"
-          sxi-estas: "Õ (nõ) van"
+          ĝi-estos: "Az lesz"
+          ŝi-estas: "Õ (nõ) van"
         titolo: Igék
       vortaro01: 
         amiko: barát

@@ -6,9 +6,6 @@ fr:
         ekspliko: "Voici des petits mots très utiles; ils font parti d'un système régulier et fermé. On appelle ces mots des corrélatifs. La signification de chaque corrélatif résulte de la combinaison de son radical (préfixe) et de sa terminaison (suffixe)."
         titolo: "Les corrélatifs"
       korelativoj_am: 
-        cxi: 
-          frazo: "Cependant, j'ai toujours voulu le visiter."
-          vorto: "toujours, en tout temps [à tout moment]"
         ekspliko: "Indique le temps, le moment"
         i: 
           frazo: "Avez-vous déjà visité le Brésil ?"
@@ -22,6 +19,9 @@ fr:
         ti: 
           frazo: "J'ai appris l'espéranto quand j'étais à l'école."
           vorto: "alors, en ce temps-là, à ce moment"
+        ĉi: 
+          frazo: "Cependant, j'ai toujours voulu le visiter."
+          vorto: "toujours, en tout temps [à tout moment]"
       korelativoj_cxi: 
         ekspliko: "Ce petit mot indique la proximité :"
         frazo-1: "Qu'est ceci ? Qu'est-ce que ceci ?"
@@ -36,10 +36,6 @@ fr:
             
             Devant les mots interrogatifs ("kio", "kie" etc...), on ne doit pas utiliser le mot "ĉu".
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Définit le collectif, l'ensemble, la totalité"
-          frazo: "L' imbécile écrit son nom partout."
-          vorto: "partout [en tout lieu]"
         ekspliko: "Indique un lieu, un endroit"
         i: 
           ekspliko: "Indéfini (correspond à \"un certain ..., une certaine ..., quelque ...\")"
@@ -57,10 +53,11 @@ fr:
           ekspliko: "Utilisé pour indiquer, montrer (démonstratif)"
           frazo: "J'habite là où est la voiture."
           vorto: "là, y [à cet endroit]"
+        ĉi: 
+          ekspliko: "Définit le collectif, l'ensemble, la totalité"
+          frazo: "L' imbécile écrit son nom partout."
+          vorto: "partout [en tout lieu]"
       korelativoj_o: 
-        cxi: 
-          frazo: "J'ai tout oublié."
-          vorto: "tout, toute chose, chaque chose"
         ekspliko: "Indique une affaire, un objet, une chose (peut prendre le \"n\" de l'accusatif)"
         i: 
           frazo: "Il s'est passé quelque chose !"
@@ -74,11 +71,10 @@ fr:
         ti: 
           frazo: "Qu'est ce que c'est ? — C'est un instrument de musique."
           vorto: "ce, cela [cette chose]"
+        ĉi: 
+          frazo: "J'ai tout oublié."
+          vorto: "tout, toute chose, chaque chose"
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Définit le collectif, l'ensemble, la totalité"
-          frazo: "Tout homme s'aime lui-même."
-          vorto: "chaque, tout, toute ; chacun, chacune"
         ekspliko: "Indique une individualité (peut prendre le \"j\" du pluriel et le \"n\" de l'accusatif)"
         i: 
           ekspliko: "Indéfini (correspond à \"un certain ... , une certaine ..., quelque ...\")"
@@ -96,6 +92,10 @@ fr:
           ekspliko: "Utilisé pour indiquer, montrer (démonstratif)"
           frazo: "Ce livre est très bon."
           vorto: "ce, cet, cette, celui, celle"
+        ĉi: 
+          ekspliko: "Définit le collectif, l'ensemble, la totalité"
+          frazo: "Tout homme s'aime lui-même."
+          vorto: "chaque, tout, toute ; chacun, chacune"
       vortaro05: 
         al: vers
         anonco: annonce

@@ -44,12 +44,12 @@ it:
           titolo: Plurale
           vi: Voi
         singularo: 
-          gxi: "Esso/a (per indicare qualcosa - o qualcuno - il cui sesso è irrilevante)"
           li: "Egli (lui)"
           mi: Io
-          sxi: "Lei (ella)"
           titolo: Singolare
           vi: "Tu (-> Come usare il corso, nota B2a)"
+          ĝi: "Esso/a (per indicare qualcosa - o qualcuno - il cui sesso è irrilevante)"
+          ŝi: "Lei (ella)"
         specialaj: 
           oni: "= Si (Pronome personale indefinito, col significato di \"la gente; più persone; qualcuno, sconosciuto o imprecisato\".). E' usato quando non si può - o non s'intende - precisare il soggetto."
           si: "= Si (Pronome riflessivo di terza persona (singolare, plurale o indefinita: li, ŝi, ĝi; ili; oni).). Si riferisce al soggetto della proposizione in cui si trova.. Non può mai essere esso stesso soggetto di proposizione."
@@ -101,10 +101,10 @@ it:
           oni-estos: "Si sarà"
           vi-estis: "[Tu / Voi] fosti / foste (eri; sei stato -> B2c)"
         singularo: 
-          gxi-estos: "[Esso / a] sarà"
           li-estis: "[Egli] fu (era; è stato; -> B2c)"
           mi-estas: "[Io] sono (-> nota B2b)"
-          sxi-estas: "[Lei] è"
+          ĝi-estos: "[Esso / a] sarà"
+          ŝi-estas: "[Lei] è"
         titolo: Verbi
       vortaro01: 
         amiko: "[un] amico"

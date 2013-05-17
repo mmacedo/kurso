@@ -6,9 +6,6 @@ de:
         ekspliko: "Wir wollen nun die übrigen Korrelativa kennen lernen. Es geht um ein abgeschlossenes System, d. h. man kann außerdem keine weiteren Korrelativa ableiten."
         titolo: "Beziehungswörter (Korrelativa)"
       korelativoj_a: 
-        cxi: 
-          frazo: "Jede [jegliche] Hilfe ist willkommen."
-          vorto: "jeglich, jederlei, jedwede"
         ekspliko: "Beschaffenheit; Plural-Endungen: -aj und -ajn (Akk.)"
         i: 
           frazo: "Haben Sie irgendeinen Zweifel an der Grammatik von Esperanto?"
@@ -22,10 +19,10 @@ de:
         ti: 
           frazo: "Ich werde so ein Brot nicht essen."
           vorto: "solcher, solche, solches"
+        ĉi: 
+          frazo: "Jede [jegliche] Hilfe ist willkommen."
+          vorto: "jeglich, jederlei, jedwede"
       korelativoj_al: 
-        cxi: 
-          frazo: "Du fragst, warum ich dich liebe. Ich antworte: Aus jedem Grunde!"
-          vorto: "aus jedem Grunde"
         ekspliko: "Grund, Ursache"
         i: 
           frazo: "Aus irgendeinem Grund kenne ich Sie noch nicht."
@@ -39,11 +36,10 @@ de:
         ti: 
           frazo: "Sie ist sehr schön. Darum liebe ich sie."
           vorto: "darum, deshalb, deswegen"
+        ĉi: 
+          frazo: "Du fragst, warum ich dich liebe. Ich antworte: Aus jedem Grunde!"
+          vorto: "aus jedem Grunde"
       korelativoj_el: 
-        cxi: 
-          ekspliko: Allumfassend/gesamt
-          frazo: "Sie halfen mir auf jede Weise."
-          vorto: "auf jede Weise"
         ekspliko: "Art und Weise"
         i: 
           ekspliko: Unbestimmt
@@ -61,10 +57,11 @@ de:
           ekspliko: Hinweisend
           frazo: "Sie schreibt so gut wie die Lehrerin."
           vorto: so
+        ĉi: 
+          ekspliko: Allumfassend/gesamt
+          frazo: "Sie halfen mir auf jede Weise."
+          vorto: "auf jede Weise"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto ist eine Sprache für alle [w.:  .. jedermanns Sprache]."
-          vorto: jedermanns
         ekspliko: Besitzer
         i: 
           frazo: "Ich fand (irgend)jemandes Buch."
@@ -78,10 +75,10 @@ de:
         ti: 
           frazo: "Die Katze lief auf dem Haus [herum] und beschädigte dessen Dach."
           vorto: "dessen, deren"
+        ĉi: 
+          frazo: "Esperanto ist eine Sprache für alle [w.:  .. jedermanns Sprache]."
+          vorto: jedermanns
       korelativoj_om: 
-        cxi: 
-          frazo: "Wie viel Benzin wollen Sie [haben]? —  Ich möchte alles, was [wie viel] Sie haben."
-          vorto: "alles, das Ganze"
         ekspliko: Menge
         i: 
           frazo: "Ich muss etwas Kaffee kaufen."
@@ -95,6 +92,9 @@ de:
         ti: 
           frazo: "Er aß so viel, wie[viel] er wollte."
           vorto: "so viel(e)"
+        ĉi: 
+          frazo: "Wie viel Benzin wollen Sie [haben]? —  Ich möchte alles, was [wie viel] Sie haben."
+          vorto: "alles, das Ganze"
       relativoj: 
         ekspliko-1: |-
             Als Relativpronomen können KI-Wörter einen Nebensatz einleiten (Relativsatz), der sich auf ein vorausgehendes Nomen ["frukto"] bezieht -  und dessen Bedeutung näher bestimmt.

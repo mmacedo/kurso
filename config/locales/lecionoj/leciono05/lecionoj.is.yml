@@ -6,9 +6,6 @@ is:
         ekspliko: "Hér koma mjög gagnleg orð sem mynda reglubundna og lokaða heild.  Þau eru kölluð samsvörunarorð.  Merking hvers orðs ræðst af byrjun þess (stofni) og endingu (viðskeyti)."
         titolo: Samsvörunarorð
       korelativoj_am: 
-        cxi: 
-          frazo: "Þó hefur mig alltaf langað til að fara þangað."
-          vorto: alltaf
         ekspliko: "tími, tíð"
         i: 
           frazo: "Hefirðu einhverntíma komið til Brasilíu?"
@@ -22,6 +19,9 @@ is:
         ti: 
           frazo: "Ég lærði esperanto þegar ég var í skóla."
           vorto: þá
+        ĉi: 
+          frazo: "Þó hefur mig alltaf langað til að fara þangað."
+          vorto: alltaf
       korelativoj_cxi: 
         ekspliko: "Þetta smáorð (hérna) táknar nálægð og getur verið, hvort sem er, á undan eða á eftir samsvörunarorði."
         frazo-1: "Hvað er þetta (hérna)?"
@@ -29,10 +29,6 @@ is:
         frazo-3: "Þetta hús (hérna) er húsið mitt."
         rimarkigo: "Samsvörunarorðin, sem enda á \"o\" (\"kio\", \"tio\" o.s.frv.), geta bætt við sig  þolfallsendingunni (\"n\") en ekki fleirtöluendingunni (\"j\")."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Hefur altæka merkingu."
-          frazo: "Heimskingi skrifar nafn sitt alls staðar."
-          vorto: "alls staðar"
         ekspliko: "Táknar stað."
         i: 
           ekspliko: "Sýnir eitthvað óákveðið."
@@ -50,10 +46,11 @@ is:
           ekspliko: "Notað ábendandi."
           frazo: "Ég bý þar sem bíllinn er."
           vorto: þar
+        ĉi: 
+          ekspliko: "Hefur altæka merkingu."
+          frazo: "Heimskingi skrifar nafn sitt alls staðar."
+          vorto: "alls staðar"
       korelativoj_o: 
-        cxi: 
-          frazo: "Ég gleymdi öllu."
-          vorto: allt
         ekspliko: "Málefni, hlutur"
         i: 
           frazo: "Eitthvað kom fyrir!"
@@ -67,11 +64,10 @@ is:
         ti: 
           frazo: "Hvað er þetta?  Það er hljóðfæri."
           vorto: það
+        ĉi: 
+          frazo: "Ég gleymdi öllu."
+          vorto: allt
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Hefur altæka merkingu."
-          frazo: "Sérhver maður elskar sjálfan sig."
-          vorto: sérhver
         ekspliko: "Táknar einstakling.  Sé um fleiri að ræða þarf að bæta við endingunni \"j\"."
         i: 
           ekspliko: "Táknar eitthvað óákveðið."
@@ -89,6 +85,10 @@ is:
           ekspliko: "Notað ábendandi."
           frazo: "Þessi bók er mjög góð."
           vorto: þessi
+        ĉi: 
+          ekspliko: "Hefur altæka merkingu."
+          frazo: "Sérhver maður elskar sjálfan sig."
+          vorto: sérhver
       vortaro05: 
         al: "til, við"
         anonco: auglýsing

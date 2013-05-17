@@ -44,12 +44,12 @@ en:
           titolo: Plural
           vi: "you  (plural)"
         singularo: 
-          gxi: it
           li: he
           mi: I
-          sxi: she
           titolo: Singular
           vi: "you  (singular)"
+          ĝi: it
+          ŝi: she
         specialaj: 
           oni: "One, they, people (Indefinite personal pronoun, meaning \"people, some people, somebody unknown\", used when you don't want to or cannot say who was involved."
           si: "(self)  Third person reflexive pronoun (both singular and plural). Refers back to the SUBJECT of the sentence. \"Si\" cannot be the subject or a part of the subject."
@@ -101,10 +101,10 @@ en:
           oni-estos: "They, someone will be (indefinite)"
           vi-estis: "You were"
         singularo: 
-          gxi-estos: "It will be"
           li-estis: "He was"
           mi-estas: "I am"
-          sxi-estas: "She is"
+          ĝi-estos: "It will be"
+          ŝi-estas: "She is"
         titolo: Verbs
       vortaro01: 
         amiko: friend

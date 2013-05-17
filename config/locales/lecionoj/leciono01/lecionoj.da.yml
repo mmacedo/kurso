@@ -44,12 +44,12 @@ da:
           titolo: Flertal
           vi: I
         singularo: 
-          gxi: "den, det  (angiver noget eller nogen hvis køn ikke kræves præciseret)"
           li: han
           mi: jeg
-          sxi: hun
           titolo: Ental
           vi: du
+          ĝi: "den, det  (angiver noget eller nogen hvis køn ikke kræves præciseret)"
+          ŝi: hun
         specialaj: 
           oni: "Man (ubestemt pronomen benyttes, når man ikke vil eller kan præcisere hvem der foretager eller udsættes for en handling)"
           si: "sig (henførende stedord (refleksivt pronomen) der i  tredie person - hun, han, den, det, de, man -  viser tilbage til grundledet)."
@@ -101,10 +101,10 @@ da:
           oni-estos: "man vil være"
           vi-estis: "I var"
         singularo: 
-          gxi-estos: "den vil være"
           li-estis: "han var"
           mi-estas: "jeg er"
-          sxi-estas: "hun er"
+          ĝi-estos: "den vil være"
+          ŝi-estas: "hun er"
         titolo: "Udsagnsord (verber)"
       vortaro01: 
         amiko: "en ven"

@@ -6,9 +6,6 @@ tr:
         ekspliko: "Şimdi geriye kalan diğer nispi zamirler ile tanışalım.Unutmayın ki nispi zamirlerin sistemi kapalıdır yani burada belirtilmiş kelimeler dışında başka kelimeler yaratılamaz."
         titolo: "Nispi Zamirler"
       korelativoj_a: 
-        cxi: 
-          frazo: "Her çeşit yardım kabul edilir."
-          vorto: "Her çeşit ( tür)."
         ekspliko: "Kalite ve şekil (tür) göstermekte (sonlarında \"j\" ve \"n\" son ekini alabilir)."
         i: 
           frazo: "Esperanto'nun grameri hakkında herhangi bir şüpheniz var mı?"
@@ -22,10 +19,10 @@ tr:
         ti: 
           frazo: "Ben bu çeşit ekmeği yemeyeceğim."
           vorto: "Böyle, bu şekilde."
+        ĉi: 
+          frazo: "Her çeşit yardım kabul edilir."
+          vorto: "Her çeşit ( tür)."
       korelativoj_al: 
-        cxi: 
-          frazo: "Bana soruyorsun, neden seni seviyorum. Cevabım: Her şeyden dolayı!"
-          vorto: "Herbir şekilde, tarzda"
         ekspliko: "Sebep, neden."
         i: 
           frazo: "Bir sebepten dolayı, sizi hala tanımıyorum."
@@ -39,11 +36,10 @@ tr:
         ti: 
           frazo: "O (dişi) çok güzel. Onu bunun için seviyorum."
           vorto: "Bunun için, Bu sebepten."
+        ĉi: 
+          frazo: "Bana soruyorsun, neden seni seviyorum. Cevabım: Her şeyden dolayı!"
+          vorto: "Herbir şekilde, tarzda"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Genelleme, toplantıyı gösterir."
-          frazo: "Onlar bana her şekilde yardım ettiler."
-          vorto: "Her türlü, her şekilde."
         ekspliko: "Tarz, Usul"
         i: 
           ekspliko: "Belirsizlik göstermektedir."
@@ -61,10 +57,11 @@ tr:
           ekspliko: "Göstermek, işaret etmekte kullanılır."
           frazo: "O ( dişil ) kadar iyi yazıyor, aynı öğretmen kadar."
           vorto: "Böyle, bu şekilde."
+        ĉi: 
+          ekspliko: "Genelleme, toplantıyı gösterir."
+          frazo: "Onlar bana her şekilde yardım ettiler."
+          vorto: "Her türlü, her şekilde."
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto herkesin dilidir."
-          vorto: Herkesin.
         ekspliko: "Mülkiyeti göstermekte."
         i: 
           frazo: "Herhangi birisinin kitabını buldum."
@@ -78,10 +75,10 @@ tr:
         ti: 
           frazo: "Kedi evin üstünde koşuyordu ve çatıya zarar verdi."
           vorto: "Onun (Onların)"
+        ĉi: 
+          frazo: "Esperanto herkesin dilidir."
+          vorto: Herkesin.
       korelativoj_om: 
-        cxi: 
-          frazo: "Ne kadar benzin istiyorsun? - Ne kadar varsa, hepsini istiyorum."
-          vorto: "Hepsi, bütün miktar"
         ekspliko: "Miktar göstermekte"
         i: 
           frazo: "Biraz kahve satın almam lazım."
@@ -95,6 +92,9 @@ tr:
         ti: 
           frazo: "O (erkek) istediği kadar yedi."
           vorto: "O kadar"
+        ĉi: 
+          frazo: "Ne kadar benzin istiyorsun? - Ne kadar varsa, hepsini istiyorum."
+          vorto: "Hepsi, bütün miktar"
       relativoj: 
         ekspliko-1: "\"Ki\" ile başlayan kelimeler, soru biçiminde görünseler dahi soru manası içermemektedirler.Bu durumda bunlar normal nispi kelimelerdir.Çünkü yan cümle ile baş cümle arasındaki bağlantıyı gösterir."
         ekspliko-2: "Yukarıdaki cümlede \"kiun\" kelimesi \"o meyva hakkındadır\"."

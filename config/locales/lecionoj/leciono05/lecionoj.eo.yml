@@ -6,9 +6,6 @@ eo:
         ekspliko: "Jen tre utilaj vortetoj, kiuj estas parto de regula kaj fermita sistemo. Tiujn ĉi vortetojn oni nomas korelativoj. La signifo de ĉiu korelativo estas la kombina rezulto de ĝia radiko (prefikso) kaj ĝia finaĵo (sufikso)."
         titolo: Korelativoj
       korelativoj_am: 
-        cxi: 
-          frazo: "Tamen mi ĉiam deziris viziti ĝin."
-          vorto: Ĉiam
         ekspliko: Tempo
         i: 
           frazo: "Ĉu vi iam vizitis Brazilon?"
@@ -22,6 +19,9 @@ eo:
         ti: 
           frazo: "Mi lernis Esperanton tiam, kiam mi estis en la lernejo."
           vorto: Tiam
+        ĉi: 
+          frazo: "Tamen mi ĉiam deziris viziti ĝin."
+          vorto: Ĉiam
       korelativoj_cxi: 
         ekspliko: "Tiu ĉi vorteto indikas proksimecon, kaj povas esti antaŭ aŭ post la korelativo, al kiu ĝi rilatas."
         frazo-1: "Kio estas ĉi tio?"
@@ -29,10 +29,6 @@ eo:
         frazo-3: "Ĉi tiu estas mia domo."
         rimarkigo: "La korelativoj finiĝantaj per \"o\" (\"kio\", \"tio\" ktp) povas ricevi la akuzativan finaĵon (\"kion\", \"tion\"), sed  ne ricevas la pluralon (-j)."
       korelativoj_e: 
-        cxi: 
-          ekspliko: "Montras kolekton, aron."
-          frazo: "Malsaĝulo ĉie sian nomon skribas."
-          vorto: Ĉie
         ekspliko: "Montras lokon."
         i: 
           ekspliko: "Montras nedifinecon."
@@ -50,10 +46,11 @@ eo:
           ekspliko: "Uzata por indiki, montri."
           frazo: "Mi loĝas tie, kie estas la aŭto."
           vorto: Tie
+        ĉi: 
+          ekspliko: "Montras kolekton, aron."
+          frazo: "Malsaĝulo ĉie sian nomon skribas."
+          vorto: Ĉie
       korelativoj_o: 
-        cxi: 
-          frazo: "Mi forgesis ĉion."
-          vorto: Ĉio
         ekspliko: "Afero, objekto, aĵo."
         i: 
           frazo: "Io okazis!"
@@ -67,11 +64,10 @@ eo:
         ti: 
           frazo: "Kio estas tio? -- Tio estas muzikilo."
           vorto: Tio
+        ĉi: 
+          frazo: "Mi forgesis ĉion."
+          vorto: Ĉio
       korelativoj_u: 
-        cxi: 
-          ekspliko: "Montras kolekton, aron."
-          frazo: "Ĉiu homo amas sin mem."
-          vorto: Ĉiu
         ekspliko: "Montras individuon. Kiam temas pri pli ol unu, ĝi devas ricevi la finaĵon \"j\"."
         i: 
           ekspliko: "Montras nedifinecon."
@@ -89,6 +85,10 @@ eo:
           ekspliko: "Uzata por indiki, montri."
           frazo: "Tiu libro estas tre bona."
           vorto: Tiu
+        ĉi: 
+          ekspliko: "Montras kolekton, aron."
+          frazo: "Ĉiu homo amas sin mem."
+          vorto: Ĉiu
       vortaro05: 
         al: al
         anonco: anonco

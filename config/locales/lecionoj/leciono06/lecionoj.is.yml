@@ -6,9 +6,6 @@ is:
         ekspliko: "Lærum nú þau samsvörunarorð sem eftir eru.  Munum að þessi orð mynda heildstætt kerfi."
         titolo: Samsvörunarorð
       korelativoj_a: 
-        cxi: 
-          frazo: "Alls konar hjálp er vel þegin."
-          vorto: "alls konar"
         ekspliko: "Táknar \"hvernig\", \"þannig\" o.s.frv.  (Getur tekið með sér endingarnar \"j\" og \"n\")."
         i: 
           frazo: "Hefirðu einhverjar efasemdir um málfræði esperantos?"
@@ -22,10 +19,10 @@ is:
         ti: 
           frazo: "Ég borða ekki svona brauð."
           vorto: "þess konar, þannig, svona (lo.)"
+        ĉi: 
+          frazo: "Alls konar hjálp er vel þegin."
+          vorto: "alls konar"
       korelativoj_al: 
-        cxi: 
-          frazo: "Þú spyrð mig, hvers vegna ég elska þig.  Ég svara:  Alls vegna."
-          vorto: "alls vegna"
         ekspliko: orsök
         i: 
           frazo: "Af einhverjum ástæðum þekki ég þig ekki ennþá."
@@ -39,11 +36,10 @@ is:
         ti: 
           frazo: "Hún er mjög falleg.  Þess vegna elska ég hana."
           vorto: "þess vegna"
+        ĉi: 
+          frazo: "Þú spyrð mig, hvers vegna ég elska þig.  Ég svara:  Alls vegna."
+          vorto: "alls vegna"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Táknar allt sem kemur til greina."
-          frazo: "Þau hjálpuðu mér á allan hátt."
-          vorto: "á allan hátt"
         ekspliko: háttur
         i: 
           ekspliko: "Sýnir eitthvað óákveðið."
@@ -61,10 +57,11 @@ is:
           ekspliko: "Notað til ábendingar"
           frazo: "Hún skrifar svo vel, eins og kennslukonan."
           vorto: "þannig, svo"
+        ĉi: 
+          ekspliko: "Táknar allt sem kemur til greina."
+          frazo: "Þau hjálpuðu mér á allan hátt."
+          vorto: "á allan hátt"
       korelativoj_es: 
-        cxi: 
-          frazo: "Esperanto er mál allra."
-          vorto: allra
         ekspliko: "Táknar eign."
         i: 
           frazo: "Ég fann bók einhvers."
@@ -78,10 +75,10 @@ is:
         ti: 
           frazo: "Kötturinn hljóp á húsinu og skemmdi þak þess."
           vorto: þess
+        ĉi: 
+          frazo: "Esperanto er mál allra."
+          vorto: allra
       korelativoj_om: 
-        cxi: 
-          frazo: "Hvað viltu mikið af bensíni?   Ég vil allt sem þú átt."
-          vorto: allt
         ekspliko: "Táknar magn."
         i: 
           frazo: "Ég verð að kaupa dálítið af kaffi."
@@ -95,6 +92,9 @@ is:
         ti: 
           frazo: "Hann borðaði eins mikið og hann vildi."
           vorto: "eins mikið og, svo mikið"
+        ĉi: 
+          frazo: "Hvað viltu mikið af bensíni?   Ég vil allt sem þú átt."
+          vorto: allt
       relativoj: 
         ekspliko-1: "Orðin, sem byrja á \"KI\" geta líka byrjað setningu sem ekki er spurning.  Þá er orðið tilvísandi og sýnir samband aðalsetningar og aukasetningar."
         ekspliko-2: "Í setningunni hér að ofan vísar \"kiun\" til \"tiu frukto\""

@@ -6,9 +6,6 @@ it:
         ekspliko: "Impariamo gli altri correlativi. Va osservato che quello dei correlativi è un sistema conchiuso; vale a dire: non è possibile derivare altri correlativi oltre a quelli qui considerati."
         titolo: Correlativi
       korelativoj_a: 
-        cxi: 
-          frazo: "Qualsiasi aiuto è benvenuto."
-          vorto: "D'ogni specie; D'ogni genere; Qualsiasi"
         ekspliko: "Denota qualità, specie (può prendere le terminazioni -j ed -n)"
         i: 
           frazo: "Hai dubbi (letteralmente: un dubbio) di qualche genere sulla grammatica dell'esperanto?"
@@ -22,10 +19,10 @@ it:
         ti: 
           frazo: "Non mangerò pane di tal genere."
           vorto: "Tale; Di tal genere / specie / fatta; Siffatto / a"
+        ĉi: 
+          frazo: "Qualsiasi aiuto è benvenuto."
+          vorto: "D'ogni specie; D'ogni genere; Qualsiasi"
       korelativoj_al: 
-        cxi: 
-          frazo: "Mi domandi perché t'amo. Rispondo: per tutte le ragioni [di questo mondo]."
-          vorto: "Per tutte le ragioni."
         ekspliko: "Denota causa, motivo"
         i: 
           frazo: "Per qualche ragione, ancora non ti / vi conosco."
@@ -39,11 +36,10 @@ it:
         ti: 
           frazo: "[Lei] è molto bella. Perciò la amo."
           vorto: "Perciò; Per ciò; Per tanto"
+        ĉi: 
+          frazo: "Mi domandi perché t'amo. Rispondo: per tutte le ragioni [di questo mondo]."
+          vorto: "Per tutte le ragioni."
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
-          frazo: "Mi hanno aiutato in ogni modo."
-          vorto: "In ogni modo"
         ekspliko: "Denota il modo, la maniera."
         i: 
           ekspliko: "Denota indefinitezza."
@@ -61,10 +57,11 @@ it:
           ekspliko: "Usato per indicare, mostrare."
           frazo: "Lei scrive [così] bene come la insegnante."
           vorto: Così
+        ĉi: 
+          ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
+          frazo: "Mi hanno aiutato in ogni modo."
+          vorto: "In ogni modo"
       korelativoj_es: 
-        cxi: 
-          frazo: "L'esperanto è proprietà di ciascheduno."
-          vorto: "Di ognuno; Di ciasc(hed)uno; Di tutti"
         ekspliko: "Denota possesso, proprietà."
         i: 
           frazo: "Ho trovato il libro di qualcuno."
@@ -78,10 +75,10 @@ it:
         ti: 
           frazo: "Il gatto corse sopra la casa e ne danneggiò il tetto."
           vorto: "Di quello / a; Di ciò; Ne"
+        ĉi: 
+          frazo: "L'esperanto è proprietà di ciascheduno."
+          vorto: "Di ognuno; Di ciasc(hed)uno; Di tutti"
       korelativoj_om: 
-        cxi: 
-          frazo: "Quanta benzina vuoi? — [Ne] voglio [tanta] quanta [ne] hai."
-          vorto: "Del tutto, interamente"
         ekspliko: "Denota quantità."
         i: 
           frazo: "Devo comprare un po' di caffè."
@@ -95,6 +92,9 @@ it:
         ti: 
           frazo: "[Lui] ha mangiato [tanto] quanto ha voluto."
           vorto: Tanto
+        ĉi: 
+          frazo: "Quanta benzina vuoi? — [Ne] voglio [tanta] quanta [ne] hai."
+          vorto: "Del tutto, interamente"
       relativoj: 
         ekspliko-1: "Le parole che iniziano con \"ki-\" possono introdurre anche proposizioni non interrogative. Queste sono allora designate come \"proposizioni relative\" (in quanto denotano la relazione che sussiste tra la proposizione secondaria in cui si trovano, e la proposizione principale a cui corrispondono)."
         ekspliko-2: "Nella frase soprastante, il \"che\" si riferisce a \"quel frutto\"."

@@ -44,12 +44,12 @@ ca:
           titolo: Plural
           vi: "Vosaltres (o vostès)"
         singularo: 
-          gxi: "Ell, això (per referir-nos a algú o alguna cosa el sexe del qual no és necessari precisar. És equivalent al pronom anglès \"it\")"
           li: Ell
           mi: Jo
-          sxi: Ella
           titolo: Singular
           vi: "Tu (o vostè)"
+          ĝi: "Ell, això (per referir-nos a algú o alguna cosa el sexe del qual no és necessari precisar. És equivalent al pronom anglès \"it\")"
+          ŝi: Ella
         specialaj: 
           oni: "Hom (pronom indefinit, que significa \"els homes; moltes o algunes persones; algú desconegut\". S'utilitza quan no es vol o no es pot precisar qui fa o en qui recau l'acció del verb. S'utilitza també per formar frases impersonals)"
           si: "Es (Pronom reflexiu de la tercera persona - li, ŝi, ĝi, ili, oni -, utilitzat quan es fa referència al subjecte de l'oració)"
@@ -103,10 +103,10 @@ ca:
               Tu eres/estaves
               Vosaltes éreu/estàveu
         singularo: 
-          gxi-estos: "Això serà/estarà"
           li-estis: "Ell va ser/va estar"
           mi-estas: "Jo sóc/estic"
-          sxi-estas: "Ella és/està"
+          ĝi-estos: "Això serà/estarà"
+          ŝi-estas: "Ella és/està"
         titolo: Verbs
       vortaro01: 
         amiko: amic

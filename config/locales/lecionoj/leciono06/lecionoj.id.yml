@@ -6,9 +6,6 @@ id:
         ekspliko: "Sekarang kita akan mulai belajar kata-korelasi yang lain.  Jangan lupa bahwa sistem kata-korelasi ditutup, yaitu, tidak bisa membuat kata-korelasi selain daripada itu yang sekarang ditunjukkan."
         titolo: Kata-Korelasi
       korelativoj_a: 
-        cxi: 
-          frazo: "Semua cara tolong adalah menggembirakan."
-          vorto: "Semua cara"
         ekspliko: "Menunjukkan kualitas, macam.  (Bisa menerima akhiran \"j\" dan \"n\".)"
         i: 
           frazo: "Apakah anda meragukan suatu cara tentang tatabahasa Esperanto?"
@@ -22,10 +19,10 @@ id:
         ti: 
           frazo: "Saya tidak akan makan roti seperti itu."
           vorto: "Seperti itu"
+        ĉi: 
+          frazo: "Semua cara tolong adalah menggembirakan."
+          vorto: "Semua cara"
       korelativoj_al: 
-        cxi: 
-          frazo: "Anda menanya mengapa saya cinta anda.  Saya menjawab: karena segala sebab!"
-          vorto: "Dengan segala sebab"
         ekspliko: "Sebab,  alasan"
         i: 
           frazo: "Karena sesuatu sebab, saya masih tidak mengenal anda."
@@ -39,11 +36,10 @@ id:
         ti: 
           frazo: "Dia begitu cantik.  Oleh karena itu, saya cintanya."
           vorto: "Karena itu"
+        ĉi: 
+          frazo: "Anda menanya mengapa saya cinta anda.  Saya menjawab: karena segala sebab!"
+          vorto: "Dengan segala sebab"
       korelativoj_el: 
-        cxi: 
-          ekspliko: "Menunjukkan pengumpulan."
-          frazo: "Dengan cara apapun mereka menolong saya. (lebih dulu)"
-          vorto: "Dengan cara apapun"
         ekspliko: Cara
         i: 
           ekspliko: "Menunjukkan sesuatu yang tidak tentu."
@@ -61,10 +57,11 @@ id:
           ekspliko: "Dipakai untuk menunjukkan."
           frazo: "Dia (perempuan) menulis sama baiknya dengan gurunya."
           vorto: "Cara itu,  seperti itu"
+        ĉi: 
+          ekspliko: "Menunjukkan pengumpulan."
+          frazo: "Dengan cara apapun mereka menolong saya. (lebih dulu)"
+          vorto: "Dengan cara apapun"
       korelativoj_es: 
-        cxi: 
-          frazo: "Bahasa Esperanto bahasa yang kepunyaan setiap orang"
-          vorto: "Kepunyaan setiap orang"
         ekspliko: "Menunjukkan milik, kepunyaan."
         i: 
           frazo: "Saya mendapat  buku yang punya siapapun."
@@ -78,8 +75,24 @@ id:
         ti: 
           frazo: "Kucing itu berlari di atas rumah dan merusakkan atap rumah itu. (yg lalu)"
           vorto: Kepunyaan
+        ĉi: 
+          frazo: "Bahasa Esperanto bahasa yang kepunyaan setiap orang"
+          vorto: "Kepunyaan setiap orang"
       korelativoj_om: 
-        cxi: 
+        ekspliko: "Menunjukkan banyaknya."
+        i: 
+          frazo: "Saya harus membeli sedikit kopi."
+          vorto: "Beberapa,  sementara,  suatu,  sedikit"
+        ki: 
+          frazo: "Berapa dua tambah dua? - Empat!"
+          vorto: Berapa
+        neni: 
+          frazo: "Berapa anak bermain-main dalam rumah itu?  Tak seorang pun dari anak-anak."
+          vorto: "Tidak ada apa"
+        ti: 
+          frazo: "Dia makan sepuas-puasnya. (yg lalu)"
+          vorto: "Berapa, banyak, sedikit, begitu, sekali, sangat"
+        ĉi: 
           frazo: |
               Berapa minyak bensin saudara ingin?  Saya ingin seluruhnya yang ada.
               
@@ -100,19 +113,6 @@ id:
               
               Berapa minyak bensin saudara ingin? - Saya ingin semuanya anda punya.
           vorto: "Semuanya,  jumlah,  seluruh"
-        ekspliko: "Menunjukkan banyaknya."
-        i: 
-          frazo: "Saya harus membeli sedikit kopi."
-          vorto: "Beberapa,  sementara,  suatu,  sedikit"
-        ki: 
-          frazo: "Berapa dua tambah dua? - Empat!"
-          vorto: Berapa
-        neni: 
-          frazo: "Berapa anak bermain-main dalam rumah itu?  Tak seorang pun dari anak-anak."
-          vorto: "Tidak ada apa"
-        ti: 
-          frazo: "Dia makan sepuas-puasnya. (yg lalu)"
-          vorto: "Berapa, banyak, sedikit, begitu, sekali, sangat"
       relativoj: 
         ekspliko-1: "Kata yang mulai dengan \"Ki\" juga bisa memperkenalkan kalimat yang tidak ada pertanyaan.  Kata ini dikenal \"kata relatip\" karena kata itu menunjukkan hubungan diantara induk kalimat  dan anak kedua kalimat."
         ekspliko-2: "Dalam kalimat yang di atas, kata \"kiun\" berhubungan dengan kata \"tiu frukto\"."
