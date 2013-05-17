@@ -4,6 +4,7 @@ I18nEltiro::Mapado.agordi do
     mapi('lecionoj.leciono01.l035', 'vortaro')   { |obj| obj.gsub(/:\s*\z/m, '') }
     mapi('lecionoj.leciono01.l069', 'rimarkigo') { |obj| obj.gsub(/:\s*\z/m, '') }
     mapi('lecionoj.leciono01.l099', 'traduku')   { |obj| obj.gsub(/:\s*\z/m, '') }
+    mapi 'lecionoj.leciono04.l008', 'tekstokompreno'
   end
 
   # redundaj

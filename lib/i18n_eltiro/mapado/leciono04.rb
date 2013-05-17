@@ -99,7 +99,6 @@ I18nEltiro::Mapado.agordi do
     end
 
     al 'tekstokompreno01' do
-      mapi 'l008', 'titolo'
       mapi 'l418', 'ekspliko'
       al 'vortaro' do
         mapi 'l420', 'lerni'
