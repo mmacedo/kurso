@@ -1,6 +1,22 @@
 %h1 Leciono 4
 .row
-  .span12
+  .span3
+    %ul.nav.nav-list
+      %li
+        %a{href: '#salutoj'}= t('.salutoj.titolo')
+      %li
+        %a{href: '#tagoj'}= t('.tagoj.titolo')
+      %li
+        %a{href: '#monatoj'}= t('.monatoj.titolo')
+      %li
+        %a{href: '#datoj'}= t('.datoj.titolo')
+      %li
+        %a{href: '#demandoj'}= t('.demandoj.titolo')
+      %li
+        %a{href: '#vortaro04'}= t('lecionoj.aliaj.dividitoj.vortaro')
+      %li
+        %a{href: '#tekstokompreno01'}= t('lecionoj.aliaj.dividitoj.tekstokompreno')
+  .span9
     = render "lecionoj/leciono04/salutoj"
     = render "lecionoj/leciono04/tagoj"
     = render "lecionoj/leciono04/monatoj"

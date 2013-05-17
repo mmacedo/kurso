@@ -1,6 +1,22 @@
 %h1 Leciono 6
 .row
-  .span12
+  .span3
+    %ul.nav.nav-list
+      %li
+        %a{href: '#korelativoj02'}= t('.korelativoj02.titolo')
+      %li
+        %a{href: '#korelativoj_el'} -el
+      %li
+        %a{href: '#korelativoj_om'} -om
+      %li
+        %a{href: '#korelativoj_al'} -al
+      %li
+        %a{href: '#korelativoj_es'} -es
+      %li
+        %a{href: '#korelativoj_a'} -a
+      %li
+        %a{href: '#relativoj'}= t('.relativoj.titolo')
+  .span9
     = render "lecionoj/leciono06/korelativoj02"
     = render "lecionoj/leciono06/korelativoj_el"
     = render "lecionoj/leciono06/korelativoj_om"

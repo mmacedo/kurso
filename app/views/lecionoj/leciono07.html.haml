@@ -1,6 +1,18 @@
 %h1 Leciono 7
 .row
-  .span12
+  .span3
+    %ul.nav.nav-list
+      %li
+        %a{href: '#prepozicioj01'}= t('.prepozicioj01.titolo')
+      %li
+        %a{href: '#tekstokompreno02'}= t('lecionoj.aliaj.dividitoj.tekstokompreno')
+      %li
+        %a{href: '#prepozicioj02'}= t('.prepozicioj02.titolo')
+      %li
+        %a{href: '#tekstokompreno03'}= t('lecionoj.aliaj.dividitoj.tekstokompreno')
+      %li
+        %a{href: '#prepozicioj03'}= t('.prepozicioj03.titolo')
+  .span9
     = render "lecionoj/leciono07/prepozicioj01"
     = render "lecionoj/leciono07/tekstokompreno02"
     = render "lecionoj/leciono07/prepozicioj02"

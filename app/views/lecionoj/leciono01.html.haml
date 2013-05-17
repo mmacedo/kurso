@@ -1,6 +1,26 @@
 %h1 Leciono 1
 .row
-  .span12
+  .span3
+    %ul.nav.nav-list
+      %li
+        %a{href: '#alfabeto'}= t('.alfabeto.titolo')
+      %li
+        %a{href: '#personaj_pronomoj'}= t('.personaj_pronomoj.titolo')
+      %li
+        %a{href: '#verboj'}= t('.verboj.titolo')
+      %li
+        %a{href: '#nomoj'}= t('.nomoj.titolo')
+      %li
+        %a{href: '#adjektivoj'}= t('.adjektivoj.titolo')
+      %li
+        %a{href: '#vortaro01'}= t('lecionoj.aliaj.dividitoj.vortaro')
+      %li
+        %a{href: '#pluralo'}= t('.pluralo.titolo')
+      %li
+        %a{href: '#posedaj_pronomoj'}= t('.posedaj_pronomoj.titolo')
+      %li
+        %a{href: '#artikolo'}= t('.artikolo.titolo')
+  .span9
     = render "lecionoj/leciono01/alfabeto"
     = render "lecionoj/leciono01/personaj_pronomoj"
     = render "lecionoj/leciono01/verboj"
