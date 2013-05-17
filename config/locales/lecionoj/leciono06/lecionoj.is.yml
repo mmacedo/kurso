@@ -1,0 +1,108 @@
+--- 
+is: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Lærum nú þau samsvörunarorð sem eftir eru.  Munum að þessi orð mynda heildstætt kerfi."
+        titolo: Samsvörunarorð
+      korelativoj_a: 
+        cxi: 
+          frazo: "Alls konar hjálp er vel þegin."
+          vorto: "alls konar"
+        ekspliko: "Táknar \"hvernig\", \"þannig\" o.s.frv.  (Getur tekið með sér endingarnar \"j\" og \"n\")."
+        i: 
+          frazo: "Hefirðu einhverjar efasemdir um málfræði esperantos?"
+          vorto: "einhvers konar"
+        ki: 
+          frazo: "Hvernig var dagurinn hjá þér?  Dagurinn hjá mér var mjög góður, þökk fyrir."
+          vorto: "hvers konar, hvernig (lo.)"
+        neni: 
+          frazo: "Nei, ég hef enga (einskis konar) efasemd um hana."
+          vorto: "einskis konar, enginn"
+        ti: 
+          frazo: "Ég borða ekki svona brauð."
+          vorto: "þess konar, þannig, svona (lo.)"
+      korelativoj_al: 
+        cxi: 
+          frazo: "Þú spyrð mig, hvers vegna ég elska þig.  Ég svara:  Alls vegna."
+          vorto: "alls vegna"
+        ekspliko: orsök
+        i: 
+          frazo: "Af einhverjum ástæðum þekki ég þig ekki ennþá."
+          vorto: "af einhverjum ástæðum"
+        ki: 
+          frazo: "Hvers vegna hleypur barnið?  Af því að það er mjög glatt."
+          vorto: "hvers vegna"
+        neni: 
+          frazo: "Þú gætir egnt hann hve mikið sem verða vill.  Hann myndi engan veginn reiðast."
+          vorto: "af engum ástæðum"
+        ti: 
+          frazo: "Hún er mjög falleg.  Þess vegna elska ég hana."
+          vorto: "þess vegna"
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Táknar allt sem kemur til greina."
+          frazo: "Þau hjálpuðu mér á allan hátt."
+          vorto: "á allan hátt"
+        ekspliko: háttur
+        i: 
+          ekspliko: "Sýnir eitthvað óákveðið."
+          frazo: "Hún minnir mig einhvern veginn á aðra manneskju."
+          vorto: "einhvern veginn"
+        ki: 
+          ekspliko: "Myndar spurningu: sýnir tengingu við fyrri setningu"
+          frazo: "Hvernig líður þér?  Mér líður mjög vel, þakka þér fyrir."
+          vorto: hvernig
+        neni: 
+          ekspliko: "Hefur neitandi merkingu."
+          frazo: "Ég get engan veginn skilið það sem þú segir."
+          vorto: "engan veginn"
+        ti: 
+          ekspliko: "Notað til ábendingar"
+          frazo: "Hún skrifar svo vel, eins og kennslukonan."
+          vorto: "þannig, svo"
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto er mál allra."
+          vorto: allra
+        ekspliko: "Táknar eign."
+        i: 
+          frazo: "Ég fann bók einhvers."
+          vorto: einhvers
+        ki: 
+          frazo: "Hvers bók er þessi.  Þetta er bókin hans Jóhanns."
+          vorto: hvers
+        neni: 
+          frazo: "Esperanto er einskis eign."
+          vorto: einskis
+        ti: 
+          frazo: "Kötturinn hljóp á húsinu og skemmdi þak þess."
+          vorto: þess
+      korelativoj_om: 
+        cxi: 
+          frazo: "Hvað viltu mikið af bensíni?   Ég vil allt sem þú átt."
+          vorto: allt
+        ekspliko: "Táknar magn."
+        i: 
+          frazo: "Ég verð að kaupa dálítið af kaffi."
+          vorto: dálítið
+        ki: 
+          frazo: "Hve mikið eru tveir og tveir?  Fjórir."
+          vorto: "hve mikið"
+        neni: 
+          frazo: "Hve mörg börn leika sér í húsinu?  Engin."
+          vorto: ekkert
+        ti: 
+          frazo: "Hann borðaði eins mikið og hann vildi."
+          vorto: "eins mikið og, svo mikið"
+      relativoj: 
+        ekspliko-1: "Orðin, sem byrja á \"KI\" geta líka byrjað setningu sem ekki er spurning.  Þá er orðið tilvísandi og sýnir samband aðalsetningar og aukasetningar."
+        ekspliko-2: "Í setningunni hér að ofan vísar \"kiun\" til \"tiu frukto\""
+        frazo-1: "Ég vil þennan ávöxt sem þú bentir á."
+        frazo-2: "Ég skil ekki það sem þú segir."
+        frazo-3: "Ég sá manninn hvers hús er hvítt."
+        frazo-4: "Ég hitti hana þar sem kökur eru seldar."
+        frazo-5: "Í gær, þegar ég var í borginni, keypti ég blóm."
+        frazo-6: "Hún er svo falleg eins og móðirin."
+        frazo-7: "Ég keypti eins mikið og ég þurfti."
+        titolo: Tilvísunarorð

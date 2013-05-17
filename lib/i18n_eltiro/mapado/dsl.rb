@@ -30,12 +30,7 @@ module I18nEltiro
       end
 
       def mapi(el, al=nil, escepte: [], &block)
-        if escepte.include? @lingvo
-          pado, ponto, klavo = el.rpartition(/[.]/)
-          patro = akiri(@el_kunteksto, pado)
-          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
-        else
-          objekto = forigi(el)
+        forigi(el, escepte: escepte) do |objekto|
           if block_given?
             if al.nil?
               instance_exec(objekto, &block)
@@ -49,11 +44,22 @@ module I18nEltiro
         end
       end
 
-      def forigi(el)
+      def forigi(el, escepte: [], &block)
         pado, ponto, klavo = el.rpartition(/[.]/)
-        enhavo = akiri(@el_kunteksto, pado)
-        raise "Pado '#{kunigi_pado @el_kunteksto, el}' ne trovita!" unless enhavo.has_key? klavo
-        enhavo.delete(klavo)
+        patro = akiri(@el_kunteksto, pado)
+
+        if escepte.include? @lingvo
+          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
+        else
+          raise "Pado '#{kunigi_pado @el_kunteksto, el}' ne trovita!" unless patro.has_key? klavo
+          objekto = patro.delete(klavo)
+
+          if block_given?
+            yield(objekto)
+          else
+            objekto
+          end
+        end
       end
 
       def meti(al, objekto)

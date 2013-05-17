@@ -1,0 +1,108 @@
+--- 
+li: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Išmokime likusius koreliatyvus."
+        titolo: Koreliatyvai
+      korelativoj_a: 
+        cxi: 
+          frazo: "Visokia pagalba yra laukiama."
+          vorto: visoks
+        ekspliko: "Nurodo savybę ar kokybę (gali turėti galūnes \"j\" ir/arba \"n\")"
+        i: 
+          frazo: "Ar turi kokių nors abejonių dėl esperanto gramatikos?"
+          vorto: "kažkoks, koks nors"
+        ki: 
+          frazo: "Kokia buvo tavo diena? — Mano diena buvo labai gera, ačiū!"
+          vorto: koks
+        neni: 
+          frazo: "Ne, aš dėl jos neturiu jokių abejonių."
+          vorto: joks
+        ti: 
+          frazo: "Aš nevalgysiu tokios duonos."
+          vorto: toks
+      korelativoj_al: 
+        cxi: 
+          frazo: "Tu klausi, kodėl aš myliu tave. Aš atsakau: dėl visokių priežasčių."
+          vorto: "dėl visokių priežasčių"
+        ekspliko: "Nurodo priežastį."
+        i: 
+          frazo: "Aš kažkodėl tavęs dar nepažįstu."
+          vorto: kažkodėl
+        ki: 
+          frazo: "Kodėl vaikas bėga? — Nes jis yra labai linksmas."
+          vorto: kodėl
+        neni: 
+          frazo: "Tu galėtum jį erzinti bet kiek. Jis be jokios priežasties nepyktų."
+          vorto: "be jokios priežasties"
+        ti: 
+          frazo: "Ji yra labai graži. Todėl aš ją myliu."
+          vorto: "todėl, dėl to"
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
+          frazo: "Jie visaip padėjo man."
+          vorto: visaip
+        ekspliko: "Nurodo būdą."
+        i: 
+          ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
+          frazo: "Ji kažkaip man primena apie kitą asmenį."
+          vorto: "kažkaip, kaip nors"
+        ki: 
+          ekspliko: "Naudojamas sudarant klausiamuosius arba santykinius žodžius."
+          frazo: "Kaip gyvuoji? — Aš gyvuoju labai gerai, ačiū!"
+          vorto: kaip
+        neni: 
+          ekspliko: "Naudojamas sudarant neigiamuosius žodžius."
+          frazo: "Aš niekaip negaliu suprasti, ką tu kalbi."
+          vorto: "niekaip, jokiu būdu"
+        ti: 
+          ekspliko: "Naudojamas sudarant parodomuosius žodžius."
+          frazo: "Ji rašo taip gerai, kaip mokytoja."
+          vorto: "taip, tokiu būdu"
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto yra visų kalba."
+          vorto: "kiekvieno, visų"
+        ekspliko: "Nurodo priklausymą."
+        i: 
+          frazo: "Aš radau kažkieno knygą."
+          vorto: "kažkieno, kieno nors"
+        ki: 
+          frazo: "Kieno yra ta knyga? — Ta knyga yra Johano."
+          vorto: kieno
+        neni: 
+          frazo: "Esperanto yra niekieno nuosavybė."
+          vorto: niekieno
+        ti: 
+          frazo: "Katinas bėgo ant namo ir sugadino jo stogą."
+          vorto: "to, ano"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Kiek benzino nori? — Noriu tiek, kiek turi."
+          vorto: "bet kiek, visokiais kiekiais"
+        ekspliko: "Nurodo kiekį."
+        i: 
+          frazo: "Aš turiu nupirkti šiek tiek kavos."
+          vorto: "kažkiek, kiek nors, šiek tiek"
+        ki: 
+          frazo: "Kiek yra du ir du? — Keturi!"
+          vorto: kiek
+        neni: 
+          frazo: "Kiek vaikų žaidžia name? — Nė kiek."
+          vorto: "nė kiek"
+        ti: 
+          frazo: "Jis valgė tiek, kiek jis norėjo."
+          vorto: tiek
+      relativoj: 
+        ekspliko-1: "Klausiamieji koreliatyviniai žodžiai yra naudojami ir kaip santykiniai žodžiai. Jie pavaduoja daiktavardį ar įvardį pagrindiniame sakinyje ir prie pagrindinio sakinio prijungia šalutinį."
+        ekspliko-2: "Šiame sakinyje \"kiun\" susijęs su \"tiu frukto\"."
+        frazo-1: "Aš noriu to vaisiaus, kurį tu rodei."
+        frazo-2: "Aš nesuprantu to, ką tu sakai."
+        frazo-3: "Aš mačiau žmogų, kurio namas yra baltas."
+        frazo-4: "Aš ją radau ten, kur parduodami pyragaičiai."
+        frazo-5: "Vakar, kai aš buvau mieste, nupirkau gėlių."
+        frazo-6: "Ji yra tokia graži, kaip motina."
+        frazo-7: "Aš nupirkau tiek, kiek man reikėjo."
+        titolo: "Santykiniai įvardžiai"

@@ -1,0 +1,108 @@
+--- 
+hu: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Most tanuljunk meg bizonyos névmásokat. Jegyezzük meg, hogy a névmások rendszere zárt, ezért nem lehetséges származtatni más mutató névmásokat a most bemutatottakon kívûl."
+        titolo: Névmások
+      korelativoj_a: 
+        cxi: 
+          frazo: "Mindenféle segítség jól jön."
+          vorto: mindenféle
+        ekspliko: "Minõséget, nemet, fajtát mutat (kaphat \"j\" és \"n\" végzõdést)."
+        i: 
+          frazo: "Van valamilyen kételyed az eszperantó nyelvtanával kapcsolatban?"
+          vorto: valamilyen
+        ki: 
+          frazo: "Milyen napja(napod) volt?  —  Köszönöm, nagyon jó napom volt."
+          vorto: "milyen?, amilyen"
+        neni: 
+          frazo: "Nem, nincsen semmilyen kételyem vele kapcsolatban."
+          vorto: "semmilyen, semmiféle"
+        ti: 
+          frazo: "Nem fogok megenni olyan kenyeret."
+          vorto: olyan
+      korelativoj_al: 
+        cxi: 
+          frazo: "Azt kérdezed, hogy miért szeretlek. Azt felelem: mindenért!"
+          vorto: mindenért
+        ekspliko: Ok
+        i: 
+          frazo: "Téged valami okból még nem ismerlek."
+          vorto: "valamiért, valamilyen ok miatt"
+        ki: 
+          frazo: "Miért szalad a gyerek?  —  Mert nagyon boldog."
+          vorto: "miért?, amiért"
+        neni: 
+          frazo: "Õt (férfit) bármennyire ingerelhetnéd. Semmiért sem haragudna meg."
+          vorto: "semmiért sem, ok nélkül"
+        ti: 
+          frazo: "Õ (nõ) nagyon szép. Ezért szeretem õt."
+          vorto: "azért, ezért"
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Gyûjtést, csoportot mutat."
+          frazo: "Õk mindenképpen segítettek nekem."
+          vorto: mindenképpen
+        ekspliko: Mód
+        i: 
+          ekspliko: "Határozatlanságot mutat."
+          frazo: "Õ (nõ) valahogyan emlékeztet engem egy másik személyre."
+          vorto: valahogyan
+        ki: 
+          ekspliko: "Kérdést jelez; viszonyt mutat az elõbbi mondathoz."
+          frazo: "Hogy van(vagy)?  —  Köszönöm, nagyon jól!"
+          vorto: "hogy(an)?, ahogyan; mint, -ként, gyanánt"
+        neni: 
+          ekspliko: "Nemleges értelmet mutat."
+          frazo: "Sehogyan sem tudom megérteni, amit beszélsz."
+          vorto: "sehogy, sehogyan, sehogyan sem"
+        ti: 
+          ekspliko: "Mutatásra használatos."
+          frazo: "Õ (nõ) olyan jól ír, mint a tanár."
+          vorto: "úgy, így"
+      korelativoj_es: 
+        cxi: 
+          frazo: "Az eszperantó mindenki nyelve."
+          vorto: mindenkié
+        ekspliko: "Tulajdont mutat."
+        i: 
+          frazo: "Megtaláltam valaki könyvét."
+          vorto: valakié
+        ki: 
+          frazo: "Kié az a könyv?  —  Az a könyv Jánosé."
+          vorto: "kié?, mié?, akié"
+        neni: 
+          frazo: "Az eszperantó senkinek sem a tulajdona."
+          vorto: senkié
+        ti: 
+          frazo: "A macska futott a házon és megrongálta annak tetõzetét."
+          vorto: "azé, annak a.. -ja"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Mennyi benzint óhajt? - Mind (Az összest) kérem, amennyije van."
+          vorto: "minden, az összes"
+        ekspliko: "Mennyiséget mutat."
+        i: 
+          frazo: "Kell vegyek valamennyi (egy kevés) kávét."
+          vorto: "valamennyi (nem minden)"
+        ki: 
+          frazo: "Mennyi kettõ meg kettõ?  —  Négy!"
+          vorto: "hány?, mennyi?, ahány, amennyi"
+        neni: 
+          frazo: "Hány gyermek játszik a házban? — Semennyi."
+          vorto: semennyi
+        ti: 
+          frazo: "Annyit evett, amennyit akart."
+          vorto: "annyi, ennyi"
+      relativoj: 
+        ekspliko-1: "A \"KI\"-vel kezdõdõ névmások  bevezethetnek olyan mondatokat is, amelyeknek nincsen kérdõ értelmük. Ezeket a szavakat vonatkozó névmásoknak nevezzük, mert összefüggést fejeznek ki a fõmondat és a mellékmondat között."
+        ekspliko-2: "A fenti mondatban a \"kiun\" a \"tiu frukto\"-ra vonatkozik."
+        frazo-1: "Szeretném azt a gyümölcsöt, amelyiket mutatta(d)."
+        frazo-2: "Nem értem (azt), amit mond(asz)."
+        frazo-3: "Látom azt a személyt, akinek a háza fehér."
+        frazo-4: "Ott találtam õt(nõ), ahol süteményeket árulnak."
+        frazo-5: "Tegnap, amikor a városban voltam, vettem virágokat."
+        frazo-6: "Õ olyan szép, mint az anyja."
+        frazo-7: "Annyit vettem, amennyire szükségem volt."
+        titolo: "Vonatkozó névmások"

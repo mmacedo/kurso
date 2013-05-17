@@ -1,0 +1,108 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Şimdi geriye kalan diğer nispi zamirler ile tanışalım.Unutmayın ki nispi zamirlerin sistemi kapalıdır yani burada belirtilmiş kelimeler dışında başka kelimeler yaratılamaz."
+        titolo: "Nispi Zamirler"
+      korelativoj_a: 
+        cxi: 
+          frazo: "Her çeşit yardım kabul edilir."
+          vorto: "Her çeşit ( tür)."
+        ekspliko: "Kalite ve şekil (tür) göstermekte (sonlarında \"j\" ve \"n\" son ekini alabilir)."
+        i: 
+          frazo: "Esperanto'nun grameri hakkında herhangi bir şüpheniz var mı?"
+          vorto: "Herhangi bir çeşit, tür."
+        ki: 
+          frazo: "Gününüz nasıldı? - Günüm çok iyiydi, teşekkür ederim."
+          vorto: "Nasıl, Ne, Hangi, Ne biçim."
+        neni: 
+          frazo: "Hayır, Onun için hiçbir şüphem yok."
+          vorto: "Hiçbir çeşit."
+        ti: 
+          frazo: "Ben bu çeşit ekmeği yemeyeceğim."
+          vorto: "Böyle, bu şekilde."
+      korelativoj_al: 
+        cxi: 
+          frazo: "Bana soruyorsun, neden seni seviyorum. Cevabım: Her şeyden dolayı!"
+          vorto: "Herbir şekilde, tarzda"
+        ekspliko: "Sebep, neden."
+        i: 
+          frazo: "Bir sebepten dolayı, sizi hala tanımıyorum."
+          vorto: "Herhangi bir sebepten dolayı."
+        ki: 
+          frazo: "Çocuk neden koşuyor? - Çünkü çok sevinçli olduğundan."
+          vorto: "Neden, ne sebepten."
+        neni: 
+          frazo: "Onu (erkek) istediğiniz kadar sinirlendire bilirsiniz. Hiç bir şekilde sinirlenmez."
+          vorto: "Hiç bir şekilde."
+        ti: 
+          frazo: "O (dişi) çok güzel. Onu bunun için seviyorum."
+          vorto: "Bunun için, Bu sebepten."
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Genelleme, toplantıyı gösterir."
+          frazo: "Onlar bana her şekilde yardım ettiler."
+          vorto: "Her türlü, her şekilde."
+        ekspliko: "Tarz, Usul"
+        i: 
+          ekspliko: "Belirsizlik göstermektedir."
+          frazo: "Bana herhangi bir şekilde, başka bir şahsı hatırlatıyor."
+          vorto: "Herhangi bir şekilde."
+        ki: 
+          ekspliko: "Soruyu göstermekte; önceki cümle ile ilgisini gösterir."
+          frazo: "Nasılsınız ? - Çok iyiyim, teşekkür ederim."
+          vorto: "Nasıl, ne tarzda gibi , ne surette ?"
+        neni: 
+          ekspliko: "Olumsuzluk göstermekte."
+          frazo: "Hiçbir şekilde, ne konuştuğunuzu anlayamıyorum."
+          vorto: "Hiç bir surette, hiçbir şekilde."
+        ti: 
+          ekspliko: "Göstermek, işaret etmekte kullanılır."
+          frazo: "O ( dişil ) kadar iyi yazıyor, aynı öğretmen kadar."
+          vorto: "Böyle, bu şekilde."
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto herkesin dilidir."
+          vorto: Herkesin.
+        ekspliko: "Mülkiyeti göstermekte."
+        i: 
+          frazo: "Herhangi birisinin kitabını buldum."
+          vorto: "Herhangi bir kimsenin, birinin."
+        ki: 
+          frazo: "Kimin kitabı bu? - Bu kitap Johano'nun."
+          vorto: Kimin
+        neni: 
+          frazo: "Esperanto hiç kimsenin malı değildir."
+          vorto: "Hiç kimsenin."
+        ti: 
+          frazo: "Kedi evin üstünde koşuyordu ve çatıya zarar verdi."
+          vorto: "Onun (Onların)"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Ne kadar benzin istiyorsun? - Ne kadar varsa, hepsini istiyorum."
+          vorto: "Hepsi, bütün miktar"
+        ekspliko: "Miktar göstermekte"
+        i: 
+          frazo: "Biraz kahve satın almam lazım."
+          vorto: "Birkaç, Biraz"
+        ki: 
+          frazo: "İki iki daha kaç eder? - Dört!"
+          vorto: "Ne kadar, her ne kadar"
+        neni: 
+          frazo: "Evde, ne kadar çocuk oyun oynuyor? - Hiç bir"
+          vorto: "Hiçbir , hiçbir miktar"
+        ti: 
+          frazo: "O (erkek) istediği kadar yedi."
+          vorto: "O kadar"
+      relativoj: 
+        ekspliko-1: "\"Ki\" ile başlayan kelimeler, soru biçiminde görünseler dahi soru manası içermemektedirler.Bu durumda bunlar normal nispi kelimelerdir.Çünkü yan cümle ile baş cümle arasındaki bağlantıyı gösterir."
+        ekspliko-2: "Yukarıdaki cümlede \"kiun\" kelimesi \"o meyva hakkındadır\"."
+        frazo-1: "Bana gösterdiğiniz o meyvayı istiyorum."
+        frazo-2: "Ne söylediğini anlamıyorum."
+        frazo-3: "Evi beyaz olan adamı gördüm."
+        frazo-4: "O (dişil) kadını tatlıların satıldığı yerde karşıladım."
+        frazo-5: "Dün, şehre indiğimde, çiçekler aldım."
+        frazo-6: "O (dişil) annesi kadar güzel."
+        frazo-7: "İhtiyacım olduğu kadar satın aldım."
+        titolo: "Nispi kelimeler."

@@ -1,0 +1,108 @@
+--- 
+vi: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Chúng ta hãy bắt đầu các tương liên từ còn lại. Hãy nhớ rằng hệ thống tương liên từ là đóng, nghĩa là nó không thể bắt đầu hay kết thúc bằng một từ khác."
+        titolo: "Tương liên từ"
+      korelativoj_a: 
+        cxi: 
+          frazo: "Mọi sự giúp đỡ đều được hoan nghênh."
+          vorto: "tất cả các loại"
+        ekspliko: "biểu thị loại hay kiểu (nó có thể nhận đuôi \"j\" và \"n\")"
+        i: 
+          frazo: "Bạn có một số không rõ liên quan đến ngữ pháp trong Quốc tế ngữ phải không?"
+          vorto: "một số loại, một số kiểu"
+        ki: 
+          frazo: "Ngày hôm qua của bạn thế nào?  —  Nó đã rất tốt, cảm ơn bạn!"
+          vorto: "Loại gì?, Kiểu gì?, Như thế nào?"
+        neni: 
+          frazo: "Không, tôi không có sự  không rõ nào về nó cả."
+          vorto: "không loại nào trong"
+        ti: 
+          frazo: "Tôi sẽ không ăn loại bánh mì giống như thế."
+          vorto: "giống như loại, giống như kiểu, giống như"
+      korelativoj_al: 
+        cxi: 
+          frazo: "Bạn hỏi tại sao tôi yêu bạn . Tôi trả lời: vì tất cả mọi lý do đó!"
+          vorto: "vì tất cả lẽ ấy"
+        ekspliko: "nguyên nhân, lý do"
+        i: 
+          frazo: "Vì lẽ ấy, tôi vẫn không biết bạn."
+          vorto: "vì lẽ ấy"
+        ki: 
+          frazo: "Tại sao đứa trẻ lại chạy nhảy?  —  Bởi vì chúng rất hạnh phúc."
+          vorto: "Tại sao?, Lý do gì?"
+        neni: 
+          frazo: "Bạn có thể  trêu trọc anh ấy bao nhiêu tùy thích. Anh ấy  cũng chẳng vì lý do gì mà cáu giận."
+          vorto: "chẳng vì sao"
+        ti: 
+          frazo: "Cô ấy rất đẹp. Đấy là lý do vì sao tôi yêu cô ta."
+          vorto: "bởi vậy, cho nên, vì lý do đó"
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "biểu thị nhóm"
+          frazo: "Họ giúp đỡ tôi ở mọi mặt."
+          vorto: "về mọi mặt"
+        ekspliko: "cách, lối, kiểu"
+        i: 
+          ekspliko: "biểu thị cái gì đó bất định."
+          frazo: "Cô ấy bằng cách này hay cách khác nhắc tôi về một người khác."
+          vorto: "dẫu sao, bằng cách này cách khác"
+        ki: 
+          ekspliko: "biểu thị một câu hỏi hay bắt đầu một mệnh đề quan hệ."
+          frazo: "Bạn thế nào? (nghĩa đen: Công việc của bạn thế nào?)  —  Tôi rất tốt, cảm ơn!"
+          vorto: "Như thế nào?, Theo cách nào?; như, giống như"
+        neni: 
+          ekspliko: "biểu thị tính phủ định."
+          frazo: "Tôi chẳng thể nào để hiểu, bạn nói gì (nói theo nghĩa đen)."
+          vorto: "chẳng bằng cách nào"
+        ti: 
+          ekspliko: "dùng trong chỉ định thường dịch là cái đó, những cái đó."
+          frazo: "cô ấy viết tốt như là một giáo viên."
+          vorto: "như, như thế"
+      korelativoj_es: 
+        cxi: 
+          frazo: "Quốc tế ngữ là ngôn ngữ của mọi người"
+          vorto: "của mọi người, mọi thứ"
+        ekspliko: "Biểu thị quyền sở hữu."
+        i: 
+          frazo: "Tôi đã tìm thấy quyển sách của người nào đó."
+          vorto: "của người nào đó"
+        ki: 
+          frazo: "Đây là sách của ai?  —  Đó là quyển sách của John."
+          vorto: "Của ai?, Cái của ai?; của người mà"
+        neni: 
+          frazo: "Quốc tế ngữ không thuộc quyền sở hữu của ai cả."
+          vorto: "không của ai cả, không của cái gì cả"
+        ti: 
+          frazo: "Con mèo chạy phía trên ngôi nhà và  làm đổ nát mái (của chính ngôi nhà đó)."
+          vorto: "cái của chính nó"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Bạn muốn mua bao nhiêu xăng? - Tôi muốn tất cả mà anh có."
+          vorto: "tất cả chúng, toàn bộ (số lượng)"
+        ekspliko: "biểu thị số lượng."
+        i: 
+          frazo: "Tôi phải mua một ít cà phê."
+          vorto: "một số, một số lượng"
+        ki: 
+          frazo: "Hai cộng hai là bao nhiêu?  —  Là bốn!"
+          vorto: "Bao nhiêu?, Số lượng bao nhiêu?"
+        neni: 
+          frazo: "Có bao nhiêu đứa trẻ đang chơi trong nhà? — Không đứa nào cả."
+          vorto: "không có, không có cái nào"
+        ti: 
+          frazo: "Anh ấy ăn nhiều như anh ta muốn."
+          vorto: "số lượng như thế, nhiều như thế (tiom . . . kiom có nghĩa \"nhiều như\" liên quan đến số lượng)"
+      relativoj: 
+        ekspliko-1: "Đại từ quan hệ \"Ki-\" cũng có thể chỉ ra một câu không phải là câu hỏi. Trong vai trò này chúng được gọi là đại từ quan hệ bởi vì chúng thể hiện mối liên hệ giữa câu chính và câu thứ hai được gọi là mệnh đề phụ thuộc hay mệnh đề quan hệ."
+        ekspliko-2: "Trong câu phía trên \"kiun\" ám chỉ đến \"tiu frukto\"."
+        frazo-1: "Tôi muốn trái cây đó, cái mà bạn đưa cho tôi đấy."
+        frazo-2: "Tôi không hiểu cái mà bạn đang nói đến (cái mà bạn nói)."
+        frazo-3: "Tôi đã nhìn thấy người mà có ngôi nhà màu trắng."
+        frazo-4: "Tôi đã tìm thấy cô ấy tại nơi mà họ bán bánh."
+        frazo-5: "Hôm qua, khi tôi ở thành phố, tôi đã mua những bông hoa."
+        frazo-6: "Cô ấy đẹp như mẹ cô ta."
+        frazo-7: "Tôi mua nhiều như tôi cần."
+        titolo: "Đại từ quan hệ"

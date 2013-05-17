@@ -1,0 +1,110 @@
+--- 
+de: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Wir wollen nun die übrigen Korrelativa kennen lernen. Es geht um ein abgeschlossenes System, d. h. man kann außerdem keine weiteren Korrelativa ableiten."
+        titolo: "Beziehungswörter (Korrelativa)"
+      korelativoj_a: 
+        cxi: 
+          frazo: "Jede [jegliche] Hilfe ist willkommen."
+          vorto: "jeglich, jederlei, jedwede"
+        ekspliko: "Beschaffenheit; Plural-Endungen: -aj und -ajn (Akk.)"
+        i: 
+          frazo: "Haben Sie irgendeinen Zweifel an der Grammatik von Esperanto?"
+          vorto: "(irgend)ein, (irgend)welch"
+        ki: 
+          frazo: "Wie war dein Tag? — Mein Tag war sehr gut, danke."
+          vorto: "wie (beschaffen), was für ein"
+        neni: 
+          frazo: "Nein, ich habe keinen [keinerlei] Zweifel daran [an ihr]."
+          vorto: "keinerlei, kein"
+        ti: 
+          frazo: "Ich werde so ein Brot nicht essen."
+          vorto: "solcher, solche, solches"
+      korelativoj_al: 
+        cxi: 
+          frazo: "Du fragst, warum ich dich liebe. Ich antworte: Aus jedem Grunde!"
+          vorto: "aus jedem Grunde"
+        ekspliko: "Grund, Ursache"
+        i: 
+          frazo: "Aus irgendeinem Grund kenne ich Sie noch nicht."
+          vorto: "aus irgendeinem Grunde"
+        ki: 
+          frazo: "Warum läuft das Kind? - Weil es sehr froh ist."
+          vorto: "warum, weshalb, weswegen"
+        neni: 
+          frazo: "Du kannst ihn reizen, so viel [wie viel] auch immer. Er würde keinesfalls wütend."
+          vorto: "aus keinem Grunde"
+        ti: 
+          frazo: "Sie ist sehr schön. Darum liebe ich sie."
+          vorto: "darum, deshalb, deswegen"
+      korelativoj_el: 
+        cxi: 
+          ekspliko: Allumfassend/gesamt
+          frazo: "Sie halfen mir auf jede Weise."
+          vorto: "auf jede Weise"
+        ekspliko: "Art und Weise"
+        i: 
+          ekspliko: Unbestimmt
+          frazo: "Irgenwie erinnert sie mich an jemand [anderen] [= an eine andere Person]."
+          vorto: irgendwie
+        ki: 
+          ekspliko: Fragend
+          frazo: "Wie geht es dir? — Mir geht es sehr gut, danke!"
+          vorto: "wie, auf welche Weise"
+        neni: 
+          ekspliko: Verneinend
+          frazo: "Ich kann überhaupt nicht [keineswegs] verstehen, was du sagst."
+          vorto: keineswegs
+        ti: 
+          ekspliko: Hinweisend
+          frazo: "Sie schreibt so gut wie die Lehrerin."
+          vorto: so
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto ist eine Sprache für alle [w.:  .. jedermanns Sprache]."
+          vorto: jedermanns
+        ekspliko: Besitzer
+        i: 
+          frazo: "Ich fand (irgend)jemandes Buch."
+          vorto: irgendjemandes
+        ki: 
+          frazo: "Wessen Buch ist das? — Das ist das Buch von Johannes."
+          vorto: wessen
+        neni: 
+          frazo: "Esperanto gehört niemandem [w.: Esperanto ist niemandes Eigentum]."
+          vorto: niemandes
+        ti: 
+          frazo: "Die Katze lief auf dem Haus [herum] und beschädigte dessen Dach."
+          vorto: "dessen, deren"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Wie viel Benzin wollen Sie [haben]? —  Ich möchte alles, was [wie viel] Sie haben."
+          vorto: "alles, das Ganze"
+        ekspliko: Menge
+        i: 
+          frazo: "Ich muss etwas Kaffee kaufen."
+          vorto: "etwas, ein wenig"
+        ki: 
+          frazo: "Wie viel ist zwei und/plus zwei? — Vier."
+          vorto: "wie viel(e)"
+        neni: 
+          frazo: "Wie viel(e) Kinder spielen im Haus? — Gar keins."
+          vorto: "gar nichts"
+        ti: 
+          frazo: "Er aß so viel, wie[viel] er wollte."
+          vorto: "so viel(e)"
+      relativoj: 
+        ekspliko-1: |-
+            Als Relativpronomen können KI-Wörter einen Nebensatz einleiten (Relativsatz), der sich auf ein vorausgehendes Nomen ["frukto"] bezieht -  und dessen Bedeutung näher bestimmt.
+            Als Relativadverbien (kiam, kiel usw.) beziehen sie sich auf ein vorhergehendes Adverb.
+        ekspliko-2: "Oben bezieht sich der mit \"kiun\" eingeleitete Relativsatz auf \"tiun frukton/jene Frucht\"."
+        frazo-1: "Ich will jene Frucht, die (welche) du zeigtest."
+        frazo-2: "Ich begreife nicht (das), was du sagst."
+        frazo-3: "Ich sah den Menschen, dessen Haus weiß ist."
+        frazo-4: "Ich traf sie dort, wo man Kuchen (Pl.) verkauft."
+        frazo-5: "Gestern, als ich in der Stadt war, kaufte ich Blumen."
+        frazo-6: "Sie ist so schön wie die Mutter."
+        frazo-7: "Ich kaufte so viel, wie [wie viel] ich brauchte."
+        titolo: "Relativpronomen [u. -adverbien]"

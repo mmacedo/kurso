@@ -51,7 +51,7 @@ module I18nEltiro
         begin
           # Legas INI
           lingvo, enhavo = legi(dosiero)
-          normaligito    = normaligi(enhavo)
+          normaligito    = normaligi(lingvo, enhavo)
 
           # Mapas QT komponantnomoj al rails-i18n klavoj
           kuri_mapoj!(lingvo.intern, normaligito)

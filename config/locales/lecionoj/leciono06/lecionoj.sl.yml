@@ -1,0 +1,108 @@
+--- 
+sl: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Naučimo se sedaj še ostale korelative. Zapomnite si, da je sistem korelativov zaprt sistem. To pomeni, da razen teh, ki so tu predstavljeni, ni mogoče izpeljevati drugih korelativov. Korelativi so prava mojstrovina. Če bi se jih morali učiti na pamet, bi obupali, kakor glede njih obupujemo v drugih jezikih.  V esperantu pa so urejeni v čudovit sistem."
+        titolo: Korelativi
+      korelativoj_a: 
+        cxi: 
+          frazo: "Vsakršna pomoč je dobrodošla."
+          vorto: "vsakršen (a,o)"
+        ekspliko: "Kakovost, lastnost (pridevnik, lahko dobi končnici \"j\" in \"n\")."
+        i: 
+          frazo: "Ali omate kakšen dvom o esperantski slovnici?"
+          vorto: "kak(šen) (a,o), nekak(šen) (a,o)"
+        ki: 
+          frazo: "Kakšen je bil vaš dan (tvoj dan)? — Moj dan je bil zelo deber, hvala!"
+          vorto: "kakšen (a,o), kakoršen (a,o)"
+        neni: 
+          frazo: "Ne, jaz nimam nikakršnega dvoma o njej."
+          vorto: "nikakršen (a,o)"
+        ti: 
+          frazo: "Jaz ne bom jedel takšnega kruha."
+          vorto: "takšen (a,o)"
+      korelativoj_al: 
+        cxi: 
+          frazo: "Vi sprašujete (ti sprašuješ) zakaj imam jaz vas (tebe) rada. Jaz ti odgovorim: iz vsakega vzroka!"
+          vorto: "iz vsakega vzroka"
+        ekspliko: Vzrok.
+        i: 
+          frazo: "Zaradi česarkoli že, jaz vas ne poznam."
+          vorto: "zaradi česarkoli že"
+        ki: 
+          frazo: "Zakaj otrok teče? — Zato, ker je zelo vesel."
+          vorto: "zakaj, čemu"
+        neni: 
+          frazo: "Vi bi (ti bi) lahko njega provociral kolikor koli. On se iz nobenega razloga ne bi razjezil."
+          vorto: "iz nobenega vzroka"
+        ti: 
+          frazo: "Ona je zelo lepa. Zato jo imam jaz rad."
+          vorto: "zato, zatorej"
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Obče, v vseh primerih."
+          frazo: "Oni so mi vsekakor pomagali."
+          vorto: "vsekakor, na vsak način"
+        ekspliko: "Način (prislov)."
+        i: 
+          ekspliko: Nedoločno.
+          frazo: "Ona me nekako spominja na drugo osebo."
+          vorto: nekako
+        ki: 
+          ekspliko: "Vprašalno in oziralno."
+          frazo: "Kako vam gre? (Kako ti gre?) — Meni gre zelo dobro, hvala!"
+          vorto: "kako, kakor"
+        neni: 
+          ekspliko: Nikalno.
+          frazo: "Jaz nikakor ne morem razumeti, kaj vi govorite (ti govoriš)."
+          vorto: "nikakor, na noben način"
+        ti: 
+          ekspliko: Kazalno.
+          frazo: "Ona piše tako dobro, kakor učiteljica."
+          vorto: tako
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto je jezik od vsakogar."
+          vorto: "vsakogar (last)"
+        ekspliko: "posest (2. sklon)"
+        i: 
+          frazo: "Jaz sem našel knjigo, ki je lahko od kogarkoli last."
+          vorto: "kogarkoli (last)"
+        ki: 
+          frazo: "Čigava je tista knjiga?  — Tista je Janezova knjiga."
+          vorto: "čigav, čigar"
+        neni: 
+          frazo: "Esperanto ni od nikogar last."
+          vorto: "nikogar (last)"
+        ti: 
+          frazo: "Mačka je tekla na hiši in poškodovala od one (hiše) streho."
+          vorto: "onega, tistega"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Koliko bencina želite? — Jaz želim vse, kolikor imate (ti imaš)."
+          vorto: "vse, v vsaki količini"
+        ekspliko: Količina.
+        i: 
+          frazo: "Jaz moram kupiti nekoliko kave."
+          vorto: "nekaj, nekoliko"
+        ki: 
+          frazo: "Koliko je dva plus dva? — Štiri!"
+          vorto: "koliko, kolikor"
+        neni: 
+          frazo: "Koliko otrok se igra v hiši? — Nič."
+          vorto: nič
+        ti: 
+          frazo: "On je jedel toliko, kolikor je hotel."
+          vorto: "toliko, tolikor"
+      relativoj: 
+        ekspliko-1: "Besede, ki se začenjajo s \"KI\" nas lahko uvedejo tudi v nevprašalne stavke. Imenujemo jih relativi, ker prikazujejo odnos med glavnim in odvisnim stavkom."
+        ekspliko-2: "V zgornjem stavku se \"kiun\" nanaša na \"tiu frukto\"."
+        frazo-1: "Želim tisti sadež, ki si mi ga pokazal."
+        frazo-2: "Ne razumem onega, kar vi pravite."
+        frazo-3: "Videl sem človeka, čigar hiša je bela."
+        frazo-4: "Srečal sem jo tam, kjer se prodajajo kolači."
+        frazo-5: "Včeraj, kadar sem bil v mestu, sem kupil cvetlice."
+        frazo-6: "Ona je tako lepa, kakor mama."
+        frazo-7: "Kupil sem toliko, kolikor sem potreboval."
+        titolo: Relativi

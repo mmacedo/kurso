@@ -1,0 +1,108 @@
+--- 
+cs: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Nyní se naučme zbývající tabulková slova. Pamatujte, že tabulka je uzavřeným systémem, do kterého nelze další slova zavádět."
+        titolo: "Tabulková slova"
+      korelativoj_a: 
+        cxi: 
+          frazo: "Každá pomoc je vítána (= všeho druhu)."
+          vorto: Všelijaký
+        ekspliko: "Ukazuje kvalitu, druh (může mít koncovky \"j\" a \"n\")"
+        i: 
+          frazo: "Máte nějakou pochybnost o mluvnici esperanta?"
+          vorto: Nějaký
+        ki: 
+          frazo: "Jaký je váš den? - Můj den je velmi dobrý, díky!"
+          vorto: Jaký
+        neni: 
+          frazo: "Ne, nemám o ní žádnou pochybnost."
+          vorto: Nijaký
+        ti: 
+          frazo: "Nebudu jíst takový chléb."
+          vorto: Takový
+      korelativoj_al: 
+        cxi: 
+          frazo: "Ptáš se mě, proč tě miluji. Odpovídám: ze všech důvodů (které si umíš představit)!"
+          vorto: "Ze všech příčin"
+        ekspliko: "Příčina, důvod"
+        i: 
+          frazo: "Z nějakého důvodu vás ještě neznám."
+          vorto: "Z nějaké příčiny"
+        ki: 
+          frazo: "Proč to dítě běhá? - Protože je velmi radostné."
+          vorto: Proč
+        neni: 
+          frazo: "Mohl byste ho jakkoli dráždit. Nezlobil by se v žádném případě (z žádného důvodu)."
+          vorto: "Z žádných příčin"
+        ti: 
+          frazo: "Je velmi krásná. Proto ji miluji."
+          vorto: Proto
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Zahrnuje vše, zevšeobecňuje."
+          frazo: "Všemožně mi pomohli."
+          vorto: "Všelijak, všemi způsoby"
+        ekspliko: Způsob
+        i: 
+          ekspliko: "Vyjadřuje neurčitost."
+          frazo: "Nějak mi připomíná jinou osobu."
+          vorto: Nějak
+        ki: 
+          ekspliko: "Vyjadřuje otázku nebo  vztah k předchozí větě (slova tázací a vztažná)."
+          frazo: "Jak se máte? - Mám se velmi dobře, díky!"
+          vorto: Jak
+        neni: 
+          ekspliko: "Vyjadřuje zápor."
+          frazo: "Nijak nemohu pochopit, o čem mluvíte."
+          vorto: Nijak
+        ti: 
+          ekspliko: "Slouží k ukazování."
+          frazo: "Ona píše tak pěkně jako učitelka."
+          vorto: Tak
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto je jazyk patřící všem."
+          vorto: "Všech (všem patřící)"
+        ekspliko: "Vyjadřuje vlastnictví."
+        i: 
+          frazo: "Našel jsem něčí knihu."
+          vorto: Něčí
+        ki: 
+          frazo: "Čí je tato kniha? - Tato je kniha Janova."
+          vorto: Čí
+        neni: 
+          frazo: "Esperanto není ničí vlastnictví."
+          vorto: Ničí
+        ti: 
+          frazo: "Kočka běžela na domě a poškodila jeho střechu."
+          vorto: "Toho (tomu patřící)"
+      korelativoj_om: 
+        cxi: 
+          frazo: "Kolik benzínu chcete? - Chci úplně vše, co máte."
+          vorto: "Úplně vše"
+        ekspliko: "Vyjadřuje množství."
+        i: 
+          frazo: "Musím koupit trochu kávy."
+          vorto: Trochu
+        ki: 
+          frazo: "Kolik je dvě a dvě? - Čtyři!"
+          vorto: Kolik
+        neni: 
+          frazo: "Kolik dětí si hraje v domě? - Vůbec žádné."
+          vorto: "Vůbec nic"
+        ti: 
+          frazo: "Snědl tolik, kolik chtěl."
+          vorto: Tolik
+      relativoj: 
+        ekspliko-1: "Slova začínající na \"KI\" mohou uvádět slova i bez tázacího významu. Takovým slovům říkáme vztažná, protože ukazují vztah mezi hlavní a vedlejší větou."
+        ekspliko-2: "Ve výše uvedené větě se \"kiun\"  vztahuje k výrazu \"tiu frukto\"."
+        frazo-1: "Chci to ovoce, které jste ukázal."
+        frazo-2: "Nerozumím tomu, co říkáte."
+        frazo-3: "Viděl jsem člověka, jehož dům je bílý."
+        frazo-4: "Našel jsem ji tam, kde se prodávají koláče."
+        frazo-5: "Včera, když jsem byl ve městě, jsem koupil květiny."
+        frazo-6: "Je tak pěkná jako matka."
+        frazo-7: "Koupil jsem tolik, kolik jsem potřeboval."
+        titolo: "Vztažná slova"

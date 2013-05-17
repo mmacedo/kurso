@@ -1,0 +1,108 @@
+--- 
+pt: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Vamos aprender agora os demais correlativos. Lembre-se de que o sistema de correlativos é um sistema fechado, isto é, não é possível derivar outros além dos 45 que estão sendo mostrados."
+        titolo: Correlativos
+      korelativoj_a: 
+        cxi: 
+          frazo: "Todo tipo de ajuda é bem-vinda."
+          vorto: "De todo tipo, de toda espécie."
+        ekspliko: "Qualidade, espécie (pode receber as terminações \"j\" e \"n\")."
+        i: 
+          frazo: "Você tem algum tipo de dúvida sobre a gramática do Esperanto?"
+          vorto: "De algum tipo, de alguma espécie."
+        ki: 
+          frazo: "Como foi o teu dia? — O meu dia foi muito bom, obrigado!"
+          vorto: "De que espécie, de que tipo; como (no sentido de qualidade)."
+        neni: 
+          frazo: "Não, eu não tenho nenhum tipo de dúvida sobre ela (a gramática)."
+          vorto: "De nenhum tipo, de nenhuma espécie."
+        ti: 
+          frazo: "Eu não vou comer um pão desse tipo."
+          vorto: "Desse tipo, dessa espécie; tal."
+      korelativoj_al: 
+        cxi: 
+          frazo: "Você pergunta por que eu te amo. Eu respondo: por todos os motivos!"
+          vorto: "Por todos os motivos, por todas as razões."
+        ekspliko: "Causa, motivo."
+        i: 
+          frazo: "Por algum motivo ainda não te conheço."
+          vorto: "Por algum motivo, por alguma razão."
+        ki: 
+          frazo: "Por que a criança está correndo? — Porque ela está muito contente."
+          vorto: "Por que, por que razão."
+        neni: 
+          frazo: "Vocês poderiam incitá-lo o quanto quisessem. Ele por motivo nenhum se irritaria."
+          vorto: "Por nenhum motivo, por nenhuma razão."
+        ti: 
+          frazo: "Ela é muito bonita. Por isso a amo."
+          vorto: "Por isso, por esse motivo, por essa razão, por aquele motivo, por aquela razão."
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Indica coletivo, reunião, todos."
+          frazo: "Eles ajudaram-me de todas as maneiras."
+          vorto: "De todos os modos, de todas as maneiras."
+        ekspliko: "Modo, maneira."
+        i: 
+          ekspliko: "Mostra indefinição"
+          frazo: "Ela de alguma forma me faz relembrar uma outra pessoa."
+          vorto: "De algum modo, de alguma maneira."
+        ki: 
+          ekspliko: "Indica pergunta; mostra referência à oração anterior."
+          frazo: "Como você está? — Estou muito bem, obrigado!"
+          vorto: "Como, de que maneira."
+        neni: 
+          ekspliko: "Indica negação"
+          frazo: "De maneira alguma consigo compreender o que você está dizendo."
+          vorto: "De nenhum modo, de nenhuma maneira."
+        ti: 
+          ekspliko: "Usado para indicar, mostrar."
+          frazo: "Ela escreve tão bem quanto....."
+          vorto: "Assim, desse modo, daquele modo."
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto é língua de todos (O Esperanto pertence a todo mundo)."
+          vorto: "De todos, de todas as pessoas."
+        ekspliko: Posse.
+        i: 
+          frazo: "Encontrei o livro de alguém."
+          vorto: "De alguém."
+        ki: 
+          frazo: "De quem é esse livro? — Esse livro é de João."
+          vorto: "De quem; cujo, cuja."
+        neni: 
+          frazo: "Esperanto é propriedade de ninguém (Ninguém é dono do Esperanto)."
+          vorto: "De ninguém."
+        ti: 
+          frazo: "O gato correu sobre a casa e estragou o telhado dessa."
+          vorto: "Desse, daquele."
+      korelativoj_om: 
+        cxi: 
+          frazo: "De quanta gasolina você precisa? — Preciso de toda quantidade que você tiver."
+          vorto: "Toda quantidade."
+        ekspliko: Quantidade.
+        i: 
+          frazo: "Eu tenho que comprar alguma quantidade de café."
+          vorto: "Algum tanto, alguma quantidade."
+        ki: 
+          frazo: "Quanto são dois e dois? — Quatro!"
+          vorto: "Quanto, que quantidade."
+        neni: 
+          frazo: "Quantas crianças brincam  na casa? — Nenhuma."
+          vorto: "Nenhuma quantidade, nada."
+        ti: 
+          frazo: "Ele comeu o tanto que quis."
+          vorto: "Tanto, essa quantidade."
+      relativoj: 
+        ekspliko-1: "As palavras que começam com \"KI\" também podem introduzir frases sem significado interrogativo. Essas palavras são chamadas relativos, porque mostram a relação entre a oração secundária e a oração principal."
+        ekspliko-2: "Na frase acima \"kiun\" refere-se a \"tiu frukto\"."
+        frazo-1: "Eu quero aquela fruta que você mostrou."
+        frazo-2: "Eu não entendo o que você diz."
+        frazo-3: "Eu vi a pessoa, cuja casa é branca."
+        frazo-4: "Eu a encontrei ali onde se vendem bolos."
+        frazo-5: "Ontem, quando estava na cidade, comprei flores."
+        frazo-6: "Ela é tão bonita quanto a mãe."
+        frazo-7: "Comprei o tanto que precisava."
+        titolo: "Relativos (ou conjuntivos)"

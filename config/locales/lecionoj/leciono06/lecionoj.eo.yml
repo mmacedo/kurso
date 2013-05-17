@@ -1,0 +1,108 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono06: 
+      korelativoj2: 
+        ekspliko: "Ni nun eklernu la ceterajn korelativojn. Memoru ke la korelativa sistemo estas fermita, tio estas, ne eblas derivi aliajn krom la nun montrataj korelativoj."
+        titolo: Korelativoj
+      korelativoj_a: 
+        cxi: 
+          frazo: "Ĉia helpo estas bonvena."
+          vorto: Ĉia
+        ekspliko: "Montras kvaliton, specon (ĝi povas ricevi la finaĵojn \"j\" kaj \"n\")"
+        i: 
+          frazo: "Ĉu vi havas ian dubon pri la gramatiko de Esperanto?"
+          vorto: Ia
+        ki: 
+          frazo: "Kia estis via tago? -- Mia tago estis tre bona, dankon!"
+          vorto: Kia
+        neni: 
+          frazo: "Ne, mi havas nenian dubon pri ĝi."
+          vorto: Nenia
+        ti: 
+          frazo: "Mi ne manĝos tian panon."
+          vorto: Tia
+      korelativoj_al: 
+        cxi: 
+          frazo: "Vi demandas, kial mi amas vin. Mi respondas: ĉial!"
+          vorto: Ĉial
+        ekspliko: "Kaŭzo, kialo"
+        i: 
+          frazo: "Mi vin ial ankoraŭ ne konas."
+          vorto: Ial
+        ki: 
+          frazo: "Kial la infano kuras? - Ĉar ĝi estas tre ĝoja."
+          vorto: Kial
+        neni: 
+          frazo: "Vi povus inciti lin kiom ajn. Li nenial kolerus."
+          vorto: Nenial
+        ti: 
+          frazo: "Ŝi estas tre bela. Tial mi amas ŝin."
+          vorto: Tial
+      korelativoj_el: 
+        cxi: 
+          ekspliko: "Montras kolekton, aron."
+          frazo: "Ili ĉiel helpis al mi."
+          vorto: Ĉiel
+        ekspliko: Maniero
+        i: 
+          ekspliko: "Montras nedifinecon."
+          frazo: "Ŝi iel rememorigas min pri alia persono."
+          vorto: Iel
+        ki: 
+          ekspliko: "Indikas demandon; montras rilaton al la antaŭa propozicio."
+          frazo: "Kiel vi fartas? -- Mi fartas tre bone, dankon!"
+          vorto: Kiel
+        neni: 
+          ekspliko: "Prezentas nean sencon."
+          frazo: "Mi neniel povas kompreni, kion vi parolas."
+          vorto: Neniel
+        ti: 
+          ekspliko: "Uzata por indiki, montri."
+          frazo: "Ŝi skribas tiel bone, kiel la instruistino."
+          vorto: Tiel
+      korelativoj_es: 
+        cxi: 
+          frazo: "Esperanto estas ĉies lingvo."
+          vorto: Ĉies
+        ekspliko: "Montras posedon."
+        i: 
+          frazo: "Mi trovis ies libron."
+          vorto: Ies
+        ki: 
+          frazo: "Kies libro estas tiu? -- Tiu estas la libro de Johano."
+          vorto: Kies
+        neni: 
+          frazo: "Esperanto estas nenies propraĵo."
+          vorto: Nenies
+        ti: 
+          frazo: "La kato kuris sur la domo kaj difektis ties tegmenton."
+          vorto: Ties
+      korelativoj_om: 
+        cxi: 
+          frazo: "Kiom da benzino vi volas? - Mi volas ĉiom, kiom vi havas."
+          vorto: Ĉiom
+        ekspliko: "Montras kvanton."
+        i: 
+          frazo: "Mi devas aĉeti iom da kafo."
+          vorto: Iom
+        ki: 
+          frazo: "Kiom estas du kaj du? -- Kvar!"
+          vorto: Kiom
+        neni: 
+          frazo: "Kiom da infanoj ludas en la domo? -- Neniom."
+          vorto: Neniom
+        ti: 
+          frazo: "Li manĝis tiom, kiom li volis."
+          vorto: Tiom
+      relativoj: 
+        ekspliko-1: "La vortoj komenciĝantaj per \"KI\" ankaŭ povas enkonduki frazojn sen demanda senco. Ili estas tiam nomataj relativoj, ĉar ili montras la rilaton inter la malĉefa kaj la ĉefa propozicio."
+        ekspliko-2: "En la ĉi-supra frazo \"kiun\" rilatas al \"tiu frukto\"."
+        frazo-1: "Mi volas tiun frukton, kiun vi montris."
+        frazo-2: "Mi ne komprenas tion, kion vi diras."
+        frazo-3: "Mi vidis la homon, kies domo estas blanka."
+        frazo-4: "Mi renkontis ŝin tie, kie oni vendas kukojn."
+        frazo-5: "Hieraŭ, kiam mi estis en la urbo, mi aĉetis florojn."
+        frazo-6: "Ŝi estas tiel bela, kiel la patrino."
+        frazo-7: "Mi aĉetis tiom, kiom mi bezonis."
+        titolo: Relativoj

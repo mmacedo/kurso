@@ -1,7 +1,7 @@
 module I18nEltiro
   module Normaligo
     # Reverkas klavoj kaj apartigas en tri sekcioj
-    def normaligi(enhavo)
+    def normaligi(lingvo, enhavo)
       rezulto = { 'ekzercoj' => {}, 'lecionoj' => {}, 'aliaj' => {} }
 
       enhavo.each do |sekcio, parametroj|
@@ -22,17 +22,22 @@ module I18nEltiro
           [klavo.downcase, valoro]
         end]
 
-        # Procesi ekzercojn
+        # Antaŭ-procezi specialajn okazojn
+        if lingvo.intern == :sl and m = sekcio.match(/\ALec05A\z/im)
+          sekcio = "Lec06"
+        end
+
+        # Procezi ekzercojn
         if m = sekcio.match(/\AEkzerco-(.+)\z/im)
           klavo = m[1]
           # Konverti al listo
           opcioj = parametroj.length.times.map {|i| parametroj[i.to_s] }
           rezulto['ekzercoj']["ekzerco-#{klavo}".downcase] = opcioj
-        # Procesi eksplikojn de la lecionoj
+        # Procezi eksplikojn de la lecionoj
         elsif m = sekcio.match(/\ALec(\d{2})\z/im)
           klavo = m[1]
           rezulto['lecionoj']["leciono#{klavo}".downcase] = parametroj
-        # Procesi aliajn agordojn
+        # Procezi aliajn agordojn
         else
           rezulto['aliaj'][sekcio.downcase] = parametroj
         end
