@@ -1,0 +1,96 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Przyimki  są słówkami, które pokazują zależność między dwoma wyrazami."
+        titolo: "Przyimki I"
+        vortoj: 
+          al: do
+          da: "służy do pojęć ilościowych"
+          de: od
+          dum: podczas
+          en: w
+          kun: z
+          por: "dla, aby, w celu,"
+          pro: "z powodu"
+          sub: pod
+          sur: na
+          ĉe: przy
+          ĝis: "aż do"
+      prepozicioj02: 
+        titolo: "Przyimki II"
+        vortoj: 
+          anstataŭ: zamiast
+          antaŭ: przed
+          apud: obok
+          ekster: poza
+          el: z
+          inter: między
+          je: "Je (specjalny przyimek używany kiedy inne nie mogą wyrazić sensu zdania.)"
+          kontraŭ: "przeciw, naprzeciw"
+          malantaŭ: "z tyłu"
+          per: "za pomocą"
+          post: "za, po ( w czasie i przestrzeni )"
+          preter: mimo
+          pri: o
+          sen: bez
+          super: "ponad, nad, powyżej"
+          tra: przez
+          trans: "za, przez, poza, na drugą stronę"
+          ĉirkaŭ: wokół
+      prepozicioj03: 
+        ekspliko-1: "Widzieliśmy w drugiej lekcji,  że \"-n\" pokazuje  proste dopełnienie zdania. To jest biernik.Np:"
+        ekspliko-2: "Kiedy zdanie ma dwa dopełnienia, jedno z nich jest nieproste. Np:"
+        ekspliko-3: "Powyższe użycie przyimka jest konieczne, a nieproste dopełnienie nie otrzymuje końcówki -n"
+        ekspliko-4: "Po przyimku nie używaj  biernika. W kilku przypadkach   biernik może zastąpić przyimek."
+        ekspliko-5: "Biernikową końcówkę  -n  można użyć,  aby  zastąpić przyimek i kiedy sens zdania  jest  zrozumiały. Poniższe przykłady są  równoważne."
+        ekspliko-6: "Przyimek może towarzyszyć innemu przyimkowi.Np.:"
+        ekspliko-7: "Kiedy jeden z przyimków pokazuje ruch (np. \"do\" ) zastąpmy go biernikową końcówką (-n):"
+        ekspliko-8: "Porównaj ze zdaniem:"
+        ekspliko-9: "Zanotuj różnicę: W pierwszym przypadku ja byłem poza ogrodem i szedłem do środka ogrodu; w drugim już byłem w ogrodzie i tam spacerowałem."
+        frazo-1: "Ptak łapie owada."
+        frazo-2: "Dziękuję za twoją uprzejmość."
+        frazo-3: "Ja czytam książkę Piotra."
+        frazo-4: "Ja będę podróżował do Ameryki."
+        frazo-5: "On pił filiżankę kawy."
+        frazo-6: "Odejdź  od \"przede mnie\"       /=  \"zejdź mi z drogi\"/"
+        titolo: "Przyimki  III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "przybyć do"
+          aŭtobuseto: autobusik
+          danki: dziękować
+          geamikoj: "przyjaciele /obu płci/"
+          halti: zatrzymywać
+          iri: iść
+          junularo: młodzież
+          kongreso: kongres
+          membro: członek
+          okazi: "zdarzać się"
+          seĝo: krzesło
+          sidi: siedzieć
+          tagmanĝo: obiad
+          viziti: odwiedzać
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktyka
+          Kanado: Kanada
+          admiri: podziwiać
+          aŭtomobilo: automobil
+          besto: zwierzę
+          enirejo: wejście
+          interesa: interesujący
+          kaĝo: klatka
+          kompleta: kompletny
+          kontinento: kontynent
+          multa: liczny
+          ofte: często
+          plaĉi_al: "podobać się"
+          simili: "być podobnym"
+          simio: małpa
+          urbo: miasto
+          urso: niedźwiedź
+          veturi: jechać
+          zoo: Zoo
+          ĉar: ponieważ

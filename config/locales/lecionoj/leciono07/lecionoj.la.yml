@@ -1,0 +1,96 @@
+--- 
+la: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Prievārdi ir tādi vārdi, kuri parāda attiecību starp diviem vārdiem."
+        titolo: "Prievārdi I"
+        vortoj: 
+          al: "pie, uz (virziena apzīmēšana); datīva apzīmēšana"
+          da: "prievārds mēra, svara un daudzuma apzīmēšanai"
+          de: "no; ģenetīva apzīmešana"
+          dum: "kamēr; pa to laiku, kamēr; ... laikā"
+          en: "iekš; lokatīva apzīmēšana"
+          kun: ar
+          por: "lai; par; priekš; uz; tulkojams bieži ar datīvu"
+          pro: "aiz; dēļ"
+          sub: zem
+          sur: uz
+          ĉe: "pie, klāt"
+          ĝis: līdz
+      prepozicioj02: 
+        titolo: "Prievārdi II"
+        vortoj: 
+          anstataŭ: vietā
+          antaŭ: "priekšā; pirms"
+          apud: "pie; blakus"
+          ekster: ārpus
+          el: "no"
+          inter: starp
+          je: "Prievārds ar nenoteiktu nozīmi; lieto, kad citi prievārdi pēc savas nozīmes neder."
+          kontraŭ: "pret, pretim"
+          malantaŭ: "aizmugurē; aiz"
+          per: "ar (norāda uz darbības rīku)"
+          post: "aiz; pēc"
+          preter: "garām; gar"
+          pri: par
+          sen: bez
+          super: virs
+          tra: caur
+          trans: "pār; pāri; viņpus"
+          ĉirkaŭ: "apkārt; apmēram"
+      prepozicioj03: 
+        ekspliko-1: "Otrajā lekcijā mēs redzējām, ka galotne -n norāda uz tiešā papildinātāja klātbūtni. Tas ir akuzatīvs. Piem.:"
+        ekspliko-2: "Kad frāzei ir divi papildinātāji, vienam no tiem jābūt netiešajam papildinātājam. Piem. :"
+        ekspliko-3: "Prievārda lietošana augšējā piemērā ir nepieciešama un netiešais papildinātājs neiegūst akuzatīva galotni. Lūk citi piemēri:"
+        ekspliko-4: "Tātad, pēc prievārda nelieto akuzatīvu. Iegaumējiet, ka ir daži gadījumi, kad akuzatīvs var aizstāt prievārdu. To mēs ieraudzīsim sekošajā lapā."
+        ekspliko-5: "Akuzatīva galotni var lietot, lai aizstātu prievārdu, kad skaidrība to atļauj veikt. Sekojošie piemēri ir vienlīdzīgi:"
+        ekspliko-6: "Prievārdi var sekot viens aiz otra. Piem.:"
+        ekspliko-7: "Kad viens no tādiem prievārdiem izsaka kustību (piem., \"al\"), tad aizvietojiet to ar akuzatīva galotni (-n):"
+        ekspliko-8: "Salīdziniet ar sekojošo frāzi:"
+        ekspliko-9: "Pievērsiet uzmanību atšķirībām: pirmajā gadījumā es biju ārpus dārza un gāju pastaigājoties uz vietu dārza robežās; otrajā gadījumā, es biju jau dārzā un tur pastaigājos."
+        frazo-1: "Putns ķer kukaini."
+        frazo-2: "Es pateicos jums par jūsu laipnību."
+        frazo-3: "Es lasu Pētera grāmatu."
+        frazo-4: "Es ceļošu uz Ameriku."
+        frazo-5: "Viņš dzēra tasi kafijas."
+        frazo-6: "Aizejiet no manām acīm (no manis)!"
+        titolo: "Prievārdi III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "atnākt, ierasties, atbraukt"
+          aŭtobuseto: autobusiņš
+          danki: pateikties
+          geamikoj: "draugi (abi dzimumi kopā)"
+          halti: apstāties
+          iri: iet
+          junularo: jaunatne
+          kongreso: kongress
+          membro: "biedrs; loceklis"
+          okazi: notikt
+          seĝo: krēsls
+          sidi: sēdēt
+          tagmanĝo: pusdienas
+          viziti: apmeklēt
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktika
+          Kanado: Kanāda
+          admiri: apbrīnot
+          aŭtomobilo: automobīlis
+          besto: "zvērs; dzīvnieks"
+          enirejo: ieeja
+          interesa: interesants
+          kaĝo: būris
+          kompleta: pilnīgs
+          kontinento: kontinents
+          multa: "\"-aj\" daudzi"
+          ofte: bieži
+          plaĉi_al: patikt
+          simili: "līdzināties, būt līdzīgam"
+          simio: pērtiķis
+          urbo: pilsēta
+          urso: lācis
+          veturi: braukt
+          zoo: zooparks
+          ĉar: "jo; tādēļ ka; tā kā"

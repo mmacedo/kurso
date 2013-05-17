@@ -1,0 +1,96 @@
+--- 
+fr: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Les prépositions sont des petits mots qui indiquent la relation entre deux mots."
+        titolo: "Prépositions I"
+        vortoj: 
+          al: "vers, à (indique le mouvement vers un lieu ou vers le bénéficiaire)"
+          da: "de (pour indication de quantité)"
+          de: "de, à partir de, depuis (temps, lieu)"
+          dum: "pendant, durant, pendant que, tandis que"
+          en: "dans, en, à l'intérieur de"
+          kun: "avec (indique l'accompagnement)"
+          por: "pour, à l'intention de"
+          pro: "en raison de, à cause de"
+          sub: "sous, en-dessous de"
+          sur: "sur, au-dessus de (avec contact)"
+          ĉe: "à côté de, tout près de, contre, à l'endroit de, chez (quelqu'un)"
+          ĝis: "jusqu'à, jusqu'à ce que"
+      prepozicioj02: 
+        titolo: "Prépositions II"
+        vortoj: 
+          anstataŭ: "au lieu de, à la place de"
+          antaŭ: "avant, devant"
+          apud: "près de, à côté de"
+          ekster: "hors de, en dehors de"
+          el: "de (origine, provenance)"
+          inter: "parmi, entre"
+          je: "préposition indéfinie, utilisée quand les autres prépositions ne peuvent être utilisées"
+          kontraŭ: contre
+          malantaŭ: derrière
+          per: "au moyen de, par, avec"
+          post: après
+          preter: "au-delà de, à côté de, le long de"
+          pri: "au sujet de, à propos de, sur"
+          sen: sans
+          super: "au-dessus de"
+          tra: "à travers, au travers de"
+          trans: "au-delà de (en franchissant)"
+          ĉirkaŭ: "autour de"
+      prepozicioj03: 
+        ekspliko-1: "Nous avons vu, dans la deuxième leçon, que le \"-n\" indique le complément d'objet direct. C'est l'accusatif. Ex. :"
+        ekspliko-2: "Quand une phrase contient deux compléments d'objet, l'un des deux doit être un complément indirect. Ex. :"
+        ekspliko-3: "L'utilisation ci-dessus de la préposition est nécessaire et le complément d'objet indirect ne prend pas la terminaison de l'accusatif. Voici d'autres exemples :"
+        ekspliko-4: "C'est ainsi : après une préposition, on n'utilise pas l'accusatif. Il y a quelques cas où l'accusatif peut remplacer une préposition. Nous verrons cela à la page suivante."
+        ekspliko-5: "On peut utiliser la terminaison de l'accusatif pour remplacer une préposition quand la clarté le permet. Les exemples ci-dessous sont équivalents :"
+        ekspliko-6: "Une préposition peut accompagner une autre préposition. Ex. :"
+        ekspliko-7: "Quand l'une de ces prépositions indique un mouvement (ex : \"al\"), on doit remplacer cette préposition par la terminaison de l'accusatif (-n) :"
+        ekspliko-8: "Comparez avec la phrase suivante :"
+        ekspliko-9: "Notez la différence. Dans le premier cas, je suis hors du jardin et je vais, en me promenant, vers une position à l'intérieur du jardin ; dans le deuxième cas, je suis déjà dans le jardin et je m'y promène."
+        frazo-1: "Un oiseau attrape un insecte."
+        frazo-2: "Je vous remercie pour votre amabilité."
+        frazo-3: "Je lis le livre de Pierre."
+        frazo-4: "Je voyagerai en Amérique."
+        frazo-5: "Il a bu une tasse de café."
+        frazo-6: "Va-t'en de devant moi !"
+        titolo: "Prépositions III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "arriver à (ou dans)"
+          aŭtobuseto: minibus
+          danki: remercier
+          geamikoj: "des amis (des deux sexes)"
+          halti: s'arrêter
+          iri: aller
+          junularo: "un groupe de jeunes gens"
+          kongreso: congrès
+          membro: membre
+          okazi: "avoir lieu"
+          seĝo: siège
+          sidi: "être assis"
+          tagmanĝo: "repas du midi"
+          viziti: "visiter, rendre visite"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: l'Arctique
+          Kanado: Canada
+          admiri: admirer
+          aŭtomobilo: "automobile, voiture"
+          besto: "bête, animal"
+          enirejo: "entrée (d'un lieu)"
+          interesa: intéressant
+          kaĝo: cage
+          kompleta: complet
+          kontinento: continent
+          multa: nombreux
+          ofte: souvent
+          plaĉi_al: "plaire à"
+          simili: "ressembler, être semblable"
+          simio: singe
+          urbo: ville
+          urso: ours
+          veturi: voyager
+          zoo: zoo
+          ĉar: "car, parce que"

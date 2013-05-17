@@ -1,0 +1,96 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Prepozicioj estas vortetoj kiuj montras la rilaton inter du vortoj."
+        titolo: "Prepozicioj I"
+        vortoj: 
+          al: al
+          da: da
+          de: de
+          dum: dum
+          en: en
+          kun: kun
+          por: por
+          pro: pro
+          sub: sub
+          sur: sur
+          ĉe: ĉe
+          ĝis: ĝis
+      prepozicioj02: 
+        titolo: "Prepozicioj II"
+        vortoj: 
+          anstataŭ: anstataŭ
+          antaŭ: antaŭ
+          apud: apud
+          ekster: ekster
+          el: el
+          inter: inter
+          je: "Je (speciala prepozicio, uzata kiam la sencon ne povas esprimi la aliaj prepozicioj)"
+          kontraŭ: kontraŭ
+          malantaŭ: malantaŭ
+          per: per
+          post: post
+          preter: preter
+          pri: pri
+          sen: sen
+          super: super
+          tra: tra
+          trans: trans
+          ĉirkaŭ: ĉirkaŭ
+      prepozicioj03: 
+        ekspliko-1: "Ni vidis en la dua leciono, que la \"-n\" montras la komplementon de rekta objekto. Tio estas la akuzativo. Ekz.:"
+        ekspliko-2: "Kiam frazo havas du komplementojn, unu el ili devas esti la nerekta komplemento. Ekz.:"
+        ekspliko-3: "La ĉi-supra uzo de prepozicio estas necesa, kaj la nerekta objekto ne ricevas la akuzativan finaĵon.  Jen aliaj ekzemploj:"
+        ekspliko-4: "Kaj tiel estas: post prepozicio oni ne uzu la akuzativon. Estas kelkaj kazoj, kie la akuzativo povas anstataŭi prepozicion. Tion ni vidos en la sekvanta paĝo."
+        ekspliko-5: "La akuzativan finaĵon oni povas uzi por anstataŭi prepozicion, kiam la klareco tion permesos. La subaj ekzemploj estas ekvivalentaj:"
+        ekspliko-6: "Prepozicio povas akompani alian prepozicion. Ekz.:"
+        ekspliko-7: "Kiam unu el tiuj prepozicioj montras movon (ekz. \"al\"), ni anstataŭu tiun prepozicion per la akuzativa finaĵo (-n):"
+        ekspliko-8: "Komparu kun la jena frazo:"
+        ekspliko-9: "Notu la diferencon: En la unua kazo, mi estis ekster la ĝardeno kaj iris, promenante, al pozicio ene de la ĝardeno; en la dua kazo, mi estis jam en la ĝardeno, kaj tie promenis."
+        frazo-1: "Birdo kaptas insekton."
+        frazo-2: "Mi vin dankas pro via afableco."
+        frazo-3: "Mi legas la libron de Petro."
+        frazo-4: "Mi vojaĝos al Ameriko."
+        frazo-5: "Li trinkis tason da kafo."
+        frazo-6: "Foriru de antaŭ mi!"
+        titolo: "Prepozicioj III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: alveni
+          aŭtobuseto: aŭtobuseto
+          danki: danki
+          geamikoj: geamikoj
+          halti: halti
+          iri: iri
+          junularo: junularo
+          kongreso: kongreso
+          membro: membro
+          okazi: okazi
+          seĝo: seĝo
+          sidi: sidi
+          tagmanĝo: tagmanĝo
+          viziti: viziti
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arkto
+          Kanado: Kanado
+          admiri: admiri
+          aŭtomobilo: aŭtomobilo
+          besto: besto
+          enirejo: enirejo
+          interesa: interesa
+          kaĝo: kaĝo
+          kompleta: kompleta
+          kontinento: kontinento
+          multa: multa
+          ofte: ofte
+          plaĉi_al: "plaĉi al"
+          simili: simili
+          simio: simio
+          urbo: urbo
+          urso: urso
+          veturi: veturi
+          zoo: zoo
+          ĉar: ĉar

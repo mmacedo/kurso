@@ -1,0 +1,96 @@
+--- 
+es: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Las preposiciones son palabras cortas que muestran la relación entre dos palabras."
+        titolo: "Preposiciones I"
+        vortoj: 
+          al: "a, hacia"
+          da: "indica cantidad"
+          de: de
+          dum: durante
+          en: "dentro de"
+          kun: con
+          por: para
+          pro: "por (causa de)"
+          sub: debajo
+          sur: "sobre (haciendo contacto)"
+          ĉe: en
+          ĝis: hasta
+      prepozicioj02: 
+        titolo: "Preposiciones II"
+        vortoj: 
+          anstataŭ: "en lugar de"
+          antaŭ: "antes, delante"
+          apud: "cerca de"
+          ekster: "fuera de"
+          el: "de (procedencia, material)"
+          inter: entre
+          je: "En (es una preposición especial, usada cuando las demás preposiciones no pueden expresar el sentido)"
+          kontraŭ: contra
+          malantaŭ: "detrás de"
+          per: mediante
+          post: después
+          preter: "más allá de"
+          pri: "acerca de"
+          sen: sin
+          super: "encima (sin tocar)"
+          tra: "a través"
+          trans: "más allá de"
+          ĉirkaŭ: alrededor
+      prepozicioj03: 
+        ekspliko-1: "Vimos en la segunda lección que le \"-n\" indica el complemente de objeto directo. Eso es el acusativo. Ej:"
+        ekspliko-2: "Cuando una frase tiene dos complementos, uno de ellos debe ser un complemento indirecto. Ej:"
+        ekspliko-3: "El uso anterior de la preposición es necesario, y el objeto indirecto no recibe la terminación acusativa. Aquí otros ejemplos:"
+        ekspliko-4: "Y así es: después de una preposición no se usa el acusativo. Hay algunos casos en los cuales el acusativo puede sustituir a una preposición. Veremos eso en la próxima página."
+        ekspliko-5: "La terminación acusativa puede usarse para sustituir una preposición, cuando la claridad así lo permita. Los siguientes ejemplos son equivalentes:"
+        ekspliko-6: "Una preposición puede acompañar a otra. Ej:"
+        ekspliko-7: "Cuando una de esas preposiciones indica movimiento (ej, \"al\"), sustituímos esa preposición con la terminación acusativa (-n):"
+        ekspliko-8: "Compare con la siguiente frase:"
+        ekspliko-9: "Note la diferencia: En el primer caso, yo estoy fuera del jardín y fui, paseando, a una posición dentro del jardín; en el segundo caso, ya estaba en el jardín, y paseé allí."
+        frazo-1: "Un pájaro captura un insecto."
+        frazo-2: "Te doy las gracias por tu amabilidad."
+        frazo-3: "Leo el libro de Pedro."
+        frazo-4: "Viajaré a América."
+        frazo-5: "Él tomó una taza de café."
+        frazo-6: "¡Sal de delante de mí!"
+        titolo: "Preposiciones III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: llegar
+          aŭtobuseto: microbús
+          danki: agradecer
+          geamikoj: amigos
+          halti: detener
+          iri: ir
+          junularo: juventud
+          kongreso: congreso
+          membro: miembro
+          okazi: "suceder, acontecer"
+          seĝo: silla
+          sidi: "estar sentado"
+          tagmanĝo: almuerzo
+          viziti: visitar
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Ártico
+          Kanado: Canadá
+          admiri: admirar
+          aŭtomobilo: automóvil
+          besto: animal
+          enirejo: entrada
+          interesa: interesante
+          kaĝo: jaula
+          kompleta: completa
+          kontinento: continente
+          multa: mucho
+          ofte: frecuentemente
+          plaĉi_al: "complacer a"
+          simili: semejar
+          simio: simio
+          urbo: ciudad
+          urso: oso
+          veturi: viajar
+          zoo: zoológico
+          ĉar: porque

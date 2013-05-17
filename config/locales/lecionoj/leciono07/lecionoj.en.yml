@@ -1,0 +1,96 @@
+--- 
+en: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Prepositions are words that show the relationship between a following noun (the object of the preposition) and the rest of the sentence."
+        titolo: "Prepositions I"
+        vortoj: 
+          al: "to, towards"
+          da: "of (for quantities)"
+          de: "of, from"
+          dum: during
+          en: "in, into"
+          kun: with
+          por: "for (purpose), in order to"
+          pro: "because of, on account of"
+          sub: "under, beneath"
+          sur: "on, upon"
+          ĉe: "at, with, next to, at the house of"
+          ĝis: until
+      prepozicioj02: 
+        titolo: "Prepositions II"
+        vortoj: 
+          anstataŭ: "instead of"
+          antaŭ: "before, in front of"
+          apud: "beside, by"
+          ekster: "outside of"
+          el: "out of, from"
+          inter: "between, among"
+          je: "indefinite preposition, used when no other preposition is appropriate."
+          kontraŭ: "against, across from"
+          malantaŭ: behind
+          per: "by, by means of"
+          post: "after, behind"
+          preter: "beyond, past"
+          pri: "about, concerning"
+          sen: without
+          super: "over, above"
+          tra: through
+          trans: "across, on the other side of"
+          ĉirkaŭ: around
+      prepozicioj03: 
+        ekspliko-1: "We saw in the second lesson that the \"-n\" marks the direct object.  This is the accusative.  Example:"
+        ekspliko-2: "A sentence cannot have 2 direct objects  Remember that the object of a preposition is not in the accusative case. For example,"
+        ekspliko-3: "Three more examples follow:"
+        ekspliko-4: "Do not use the accusative after a preposition.  There are some cases where the accusative may replace a preposition.  We will see that on the following page."
+        ekspliko-5: "The accusative ending can be used to replace a preposition, when clarity allows it.  The following examples are equivalent."
+        ekspliko-6: "A preposition may accompany another preposition.  For example,"
+        ekspliko-7: "When one of those prepositions shows movement (\"al\" for example), we can substitute the accusative ending \"-n\" for the preposition.  The second of the next two sentences is the more common."
+        ekspliko-8: "Compare with the following sentence:"
+        ekspliko-9: "In the first sentence, I was outside the garden and walked to a position inside the garden.  I entered the garden.  I walked _into_ the garden.  In the second sentence, I was walking around inside the garden."
+        frazo-1: "A bird catches an insect."
+        frazo-2: "I thank you for your kindness."
+        frazo-3: "I am reading Peter's book."
+        frazo-4: "I will travel to America."
+        frazo-5: "He drank a cup of coffee."
+        frazo-6: "Go away from before me! (Get away! Leave!)"
+        titolo: "Prepositions III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "to arrive"
+          aŭtobuseto: "small bus"
+          danki: "to thank"
+          geamikoj: friends
+          halti: "to halt, to stop"
+          iri: "to go"
+          junularo: "youth, the young people"
+          kongreso: "congress, convention"
+          membro: member
+          okazi: "to happen, to occur"
+          seĝo: chair
+          sidi: "to sit, to be sitting"
+          tagmanĝo: lunch
+          viziti: "to visit, to attend"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arctic
+          Kanado: Canada
+          admiri: "to admire"
+          aŭtomobilo: "car, automobile"
+          besto: "beast, animal"
+          enirejo: entrance
+          interesa: interesting
+          kaĝo: cage
+          kompleta: "complete, full"
+          kontinento: continent
+          multa: "much, many"
+          ofte: frequently
+          plaĉi_al: "to please, be pleasing to"
+          simili: "to be similar to, to look like"
+          simio: "monkey, ape"
+          urbo: "city, town"
+          urso: bear
+          veturi: "to travel, to go by vehicle"
+          zoo: "zoological garden, zoo"
+          ĉar: because

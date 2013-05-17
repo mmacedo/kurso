@@ -1,0 +1,96 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Les preposicions són mots que mostren la relació entre dues paraules."
+        titolo: "Preposicions I"
+        vortoj: 
+          al: "a; cap a"
+          da: "de (partitiu: segueix expressions de quantitat)"
+          de: de
+          dum: durant
+          en: "a, en, dins de"
+          kun: "amb (conjuntament amb)"
+          por: "per a"
+          pro: "a causa de"
+          sub: sota
+          sur: "sobre, a sobre de, damunt, al damunt de"
+          ĉe: "a prop de, al costat de, a, a casa de"
+          ĝis: "fins, fins a"
+      prepozicioj02: 
+        titolo: "Preposicions II"
+        vortoj: 
+          anstataŭ: "en comptes de, en lloc de"
+          antaŭ: "davant de, abans de"
+          apud: "a prop de, a la vora de"
+          ekster: "fora de"
+          el: "de (provinença)"
+          inter: entre
+          je: "(preposició especial, utilitzada quan les altres preposicions no són prou escaients. S'utilitza sobretot per indicar l'hora)"
+          kontraŭ: contra
+          malantaŭ: "al darrere de"
+          per: "per, mitjançant"
+          post: "després, darrere"
+          preter: "a la vora de (passant de llarg)"
+          pri: "de, sobre, referent a"
+          sen: sense
+          super: "damunt, sobre (sense contacte)"
+          tra: "a través de"
+          trans: "a l'altra banda de, de l'altre costat de"
+          ĉirkaŭ: "al voltant de"
+      prepozicioj03: 
+        ekspliko-1: "A la segona lliçó vam veure que \"-n\" indica quin és el complement directe. Això és l'acusatiu. Exemple:"
+        ekspliko-2: "Quan la frase té dos complements, per força un d'ells no pot ser el directe. Exemple:"
+        ekspliko-3: "L'ús anterior de la preposició és necessari, i el complement indirecte no rep la terminació acusativa. Vet aquí altres exemples:"
+        ekspliko-4: "I així és: després d'una preposició no fem servir l'acusatiu. Hi ha alguns casos en els que l'acusatiu pot substituir la preposició. Ho veurem en la següent pàgina."
+        ekspliko-5: "La terminació acusativa es pot fer servir per substituir una preposició, mentre la frase es mantigui clara. Els exemples que segueixen són equivalents:"
+        ekspliko-6: "Una preposició en pot acompanyar d'altres. Exemple:"
+        ekspliko-7: "Quan una d'aquestes preposicions indica moviment (com \"al\"), la substituirem per la terminació acusativa (-n):"
+        ekspliko-8: "Compareu-ho amb la frase següent:"
+        ekspliko-9: "Fixeu-vos amb la diferència: en el primer cas, era fora del jardí i he anat, passejant, a un lloc dins del jardí; en el segon cas, jo ja era des de l'inici dins del jardí i m'hi passejava."
+        frazo-1: "Un ocell captura un insecte."
+        frazo-2: "Et dono les gràcies per la teva amabilitat."
+        frazo-3: "Llegeixo el llibre d'en Pere."
+        frazo-4: "Viatjaré a Amèrica"
+        frazo-5: "Va beure una tassa de cafè"
+        frazo-6: "Surt de davant meu!"
+        titolo: "Preposicions III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: arribar
+          aŭtobuseto: microbús
+          danki: "agrair, donar les gràcies"
+          geamikoj: amics
+          halti: "parar-se, aturar-se"
+          iri: anar
+          junularo: "joventut (conjunt de joves)"
+          kongreso: congrés
+          membro: membre
+          okazi: "passar, ocórrer"
+          seĝo: cadira
+          sidi: "seure, estar assegut"
+          tagmanĝo: dinar
+          viziti: visitar
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Àrtic
+          Kanado: Canadà
+          admiri: admirar
+          aŭtomobilo: automòbil
+          besto: animal
+          enirejo: entrada
+          interesa: interessant
+          kaĝo: gàbia
+          kompleta: complet/a
+          kontinento: continent
+          multa: molt/a
+          ofte: sovint
+          plaĉi_al: "agradar a"
+          simili: "semblar, parèixer"
+          simio: simi
+          urbo: ciutat
+          urso: ós
+          veturi: "viatjar (en vehicle)"
+          zoo: zoo
+          ĉar: "perquè, car"

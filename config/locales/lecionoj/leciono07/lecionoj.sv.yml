@@ -1,0 +1,98 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Prepositioner är småord som anger relationen mellan två ord."
+        titolo: "Prepositioner I"
+        vortoj: 
+          al: till/åt
+          da: "av (samband mått och det mätta)"
+          de: "av / från"
+          dum: "under (tiden)"
+          en: i
+          kun: "med /tillsammans med"
+          por: "för /till gagn för"
+          pro: "för / på grund av"
+          sub: under
+          sur: på
+          ĉe: invid/vid
+          ĝis: "tills / fram till"
+      prepozicioj02: 
+        titolo: "Prepositioner II"
+        vortoj: 
+          anstataŭ: "i stället för"
+          antaŭ: "framför /för .... sedan"
+          apud: "intill / bredvid"
+          ekster: utanför
+          el: "från / ur"
+          inter: mellan
+          je: "je (allmän preposition som används när man inte kan använda annan preposition)"
+          kontraŭ: "mot /i motsats till / mitt emot"
+          malantaŭ: bakom
+          per: "med / förmedelst"
+          post: efter
+          preter: förbi
+          pri: "om /angående"
+          sen: utan
+          super: över
+          tra: igenom
+          trans: "på andra sidan"
+          ĉirkaŭ: "omkring / runt om"
+      prepozicioj03: 
+        ekspliko-1: |-
+            Vi såg i andra lektionen, att suffixet '-n' indikerar det komplement som är det direkta objektet. 
+            Det vill säga ackusativen. Ex.:
+        ekspliko-2: "När en mening har två komplement måste ett av dem vara ett icke direkt komplement. Ex.:"
+        ekspliko-3: "I ovanstående mening är det nödvändigt att använda en preposition. Observera: Det icke direkta objektet inte skall ha ackusativändelsen '-n'. Här följer andra exempel."
+        ekspliko-4: "Alltså: Efter en preposition skall man inte använda ackusativ. Det finns några fall då ackusativändelsen kan ersätta en preposition. Detta kommer vi att få se på nästa sida"
+        ekspliko-5: "Man kan använda ackusativändelsen för att ersätta en preposition, då tydligheten inte påverkas. Nedanstående exempel är ekvivalenta (likvärdiga) vad avser betydelsen:"
+        ekspliko-6: "En preposition kan åtföljas av en annan preposition. Ex.:"
+        ekspliko-7: "När en av dessa prepositioner indikerar rörelse (ex. 'al' = till ), må man ersätta denna preposition med ackusativändelsen (-n):"
+        ekspliko-8: "Jämför med följande mening:"
+        ekspliko-9: "Notera skillnaden: I första fallet befann jag mig utanför trädgården och gick, promenerade, till en plats inne i trädgården; i det andra fallet, fanns jag redan inne i trädgården där jag promenerade."
+        frazo-1: "En fågel fångar en insekt."
+        frazo-2: "Jag tackar dig för din vänlighet."
+        frazo-3: "Jag läser Peters bok."
+        frazo-4: "Jag kommer att resa till Amerika."
+        frazo-5: "Han drack en kopp kaffe."
+        frazo-6: "Gå bort ifrån mig!"
+        titolo: "Prepositioner III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: komma
+          aŭtobuseto: minibuss
+          danki: "tacka (för något)"
+          geamikoj: "vänner (båda könen)"
+          halti: stanna
+          iri: gå
+          junularo: ungdomar
+          kongreso: kongress
+          membro: medlem
+          okazi: "hända / ske"
+          seĝo: stol
+          sidi: sitta
+          tagmanĝo: middagsmål
+          viziti: besöka
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktis
+          Kanado: Kanada
+          admiri: beundra
+          aŭtomobilo: bil
+          besto: djur
+          enirejo: ingång
+          interesa: intressant
+          kaĝo: bur
+          kompleta: komplett
+          kontinento: kontinent
+          multa: "mycken (mängd)"
+          ofte: ofta
+          plaĉi_al: behaga
+          simili: likna
+          simio: apa
+          urbo: stad
+          urso: björn
+          veturi: "resa / färdas"
+          zoo: zoo
+          ĉar: "därför / emedan"

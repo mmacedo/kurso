@@ -1,0 +1,98 @@
+--- 
+de: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Präpositionen stehen meist vor Nomen/Substantiven - und stellen zu diesen einen inhaltlichen Bezug her (Ort, Zeit, Art, Grund). Deshalb spricht man auch von \"Verhältniswörtern\"."
+        titolo: "Präpositionen I - Verhältniswörter"
+        vortoj: 
+          al: zu
+          da: "an [quantitativ]"
+          de: von
+          dum: während
+          en: in
+          kun: mit
+          por: für
+          pro: wegen
+          sub: unter
+          sur: auf
+          ĉe: "bei [räumlich]"
+          ĝis: bis
+      prepozicioj02: 
+        titolo: "Präpositionen II"
+        vortoj: 
+          anstataŭ: statt
+          antaŭ: vor
+          apud: bei
+          ekster: außerhalb
+          el: aus
+          inter: zwischen
+          je: "bei [unspezifischer Bezug]"
+          kontraŭ: "gegenüber, gegen"
+          malantaŭ: hinter
+          per: "durch, mit"
+          post: "nach, hinter"
+          preter: "an ... vorbei/vorüber"
+          pri: "über, betreffs"
+          sen: ohne
+          super: über
+          tra: "durch (hindurch)"
+          trans: jenseits
+          ĉirkaŭ: "um (herum)"
+      prepozicioj03: 
+        ekspliko-1: |-
+            In der 2. Lektion haben wir die Endung "-n" beim Akkusativ(objekt) kennen gelernt.
+            Im folgenden Beispiel steht ein Akkusativ:
+        ekspliko-2: "Wenn eine Satzbauform zwei [oder mehrere] Satzglieder als Ergänzungen zum Verb erfordert, braucht man außer dem Subjekt noch andere Ergänzungen (Objekt/Adverbiale). Beispiel:"
+        ekspliko-3: "Hierbei gilt im Dt. die Präposition \"für\" als fest mit dem Verb verbunden (sog. präpositionales Objekt). Im Esperanto steht nach Präposition regulär der Nominativ [darum kein Akkusativ-n]."
+        ekspliko-4: "Bei Mengenangaben braucht man im Dt. oft keine Präposition [an/von], daher nur: Tasse Kaffee. Im nächsten Abschnitt sehen wir weitere Beispiele für Richtungs- Akkusative."
+        ekspliko-5: "Statt einer Präposition kann bei Richtungsangangaben der reine Akkusativ (-n) stehen, z. B.:"
+        ekspliko-6: "Eher selten  (und kompliziert!)  ist es,  Präpositionen auf andere Präpositionen zu beziehen:"
+        ekspliko-7: "Zur Angabe der Richtung darf man sogar nach Präpositionen den Akkusativ(-n) setzen."
+        ekspliko-8: "Vergleichen Sie mit folgendem Satz:"
+        ekspliko-9: "Ähnlich wie im Dt. steht bei Richtungsangabe Akkusativ: Vgl.  im Garten (Dat.) [herum]gehen; aber: in den Garten (Akk.) [hinein]gehen. In Esperanto wechselt man dabei vom Nominativ in den Akkusativ, daher: mi iras en la ĝardenoN."
+        frazo-1: "Ein Vogel fängt ein Insekt."
+        frazo-2: "Ich danke dir für deine Freundlichkeit."
+        frazo-3: "Ich lese Peters Buch."
+        frazo-4: "Ich werde nach Amerika reisen."
+        frazo-5: "Er trank eine Tasse Kaffee."
+        frazo-6: "Hinweg von mir! [wörtl.: Geh weg von vor mir!]"
+        titolo: "Präpositionen III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "ankommen, gelangen"
+          aŭtobuseto: Kleinbus
+          danki: danken
+          geamikoj: "Freunde [männl. + weibl.]"
+          halti: halten
+          iri: gehen
+          junularo: Jugend
+          kongreso: Kongress
+          membro: "Mitglied, Glied"
+          okazi: "geschehen, sich ereignen"
+          seĝo: Sitz
+          sidi: sitzen
+          tagmanĝo: Mittagessen
+          viziti: besuchen
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: "Arktis [Gebiet um Nordpol]"
+          Kanado: Kanada
+          admiri: bewundern
+          aŭtomobilo: "Auto, Wagen"
+          besto: Tier
+          enirejo: Eingang
+          interesa: interessant
+          kaĝo: Käfig
+          kompleta: vollständig
+          kontinento: "Erdteil, Kontinent"
+          multa: viel
+          ofte: oft
+          plaĉi_al: "gefallen (jemandem)"
+          simili: "gleichen, ähneln"
+          simio: Affe
+          urbo: Stadt
+          urso: Bär
+          veturi: fahren
+          zoo: "Zoo, Tiergarten"
+          ĉar: "denn, weil"

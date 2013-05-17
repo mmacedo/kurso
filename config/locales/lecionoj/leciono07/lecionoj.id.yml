@@ -1,0 +1,96 @@
+--- 
+id: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Kata depan adalah kata kecil yang menunjukkan hubungan diantara dua kata."
+        titolo: "Kata-Depan 1"
+        vortoj: 
+          al: "ke, kepada, kearah, untuk"
+          da: "kata-depan kwantitas"
+          de: "dari, punya, oleh"
+          dum: selama
+          en: "di, di dalam"
+          kun: dengan
+          por: untuk
+          pro: "karena, oleh karena/sebab itu"
+          sub: "bawah, di bawah"
+          sur: "di atas"
+          ĉe: di
+          ĝis: "sehingga,  sampai"
+      prepozicioj02: 
+        titolo: "Kata-Depan 2"
+        vortoj: 
+          anstataŭ: daripada
+          antaŭ: "sebelum, di depan, dulu"
+          apud: "di samping"
+          ekster: "di luar"
+          el: "dari  (  =  \"dari dalam\")"
+          inter: diantara
+          je: "Je (kata depan yg tidak tentu, dipakai bilamana tidak ada kata depan lain, yg dapat memberi arti dengan teliti)"
+          kontraŭ: "pada, bertentangan, di seberang"
+          malantaŭ: "di belakang"
+          per: tentang
+          post: "sesudah, setelah, kemudian"
+          preter: melewati
+          pri: tentang
+          sen: tanpa
+          super: "di atas"
+          tra: "terus, lewat"
+          trans: "diseberang, ke seberang"
+          ĉirkaŭ: "sekeliling,  kira-kira"
+      prepozicioj03: 
+        ekspliko-1: "Dalam pelajaran kedua, kita telah mempelajari akhiran \"n\" menunjukkan kalimat obyek langsung.  Itu akusatip.  Contoh:"
+        ekspliko-2: "Bilamana kalimat punya dua obyek, satu obyek itu obyek tak langsung.  Contoh:"
+        ekspliko-3: "Mempergunakan kata depan, seperti diatas, perlu, dan obyek tak langsung tidak menerima akhiran akusatip.  Contoh lagi:"
+        ekspliko-4: "Demikian:  jangan menunjukkan akusatip sesudah kata-depan.  Ada sementara hal yang mana akusatip dapat diganti dengan kata-depan.  Kita akan melihat itu pada halaman yang berikutnya."
+        ekspliko-5: "Akhiran akusatip dapat dipakai untuk mengganti dengan kata depan, bilamana artinya jelas.  Contoh yang dibawah sama artinya:"
+        ekspliko-6: "Kata-depan dapat menemani kata-depan yang lain.  Contoh:"
+        ekspliko-7: "Bilamana satu kata-depan itu menunjukkan gerakkan (misalnya \"al\"), kita bisa menggantinya dengan akhiran akusatip \"n\"."
+        ekspliko-8: "Memperbandingkan kalimat ini:"
+        ekspliko-9: "Perhatikanlah perbedaanya:  Dalam hal pertama, saya di luar kebun dan berjalan ke tempat di dalam kebun itu; dalam hal kedua, saya sudah di dalam kebun itu, dan di sana saya berjalan-jalan."
+        frazo-1: "Burung menangkap serangga."
+        frazo-2: "Saya berterimakasih atas kebaikan hatimu."
+        frazo-3: "Saya membaca buku Petro."
+        frazo-4: "Saya akan berpergian ke Amerika."
+        frazo-5: "Dia minum (yg lalu) secangkir kopi."
+        frazo-6: "Jauhlah dari (depan) saya!"
+        titolo: "Kata-Depan 3"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: datang
+          aŭtobuseto: "bis kecil"
+          danki: berterimakasih
+          geamikoj: "teman-teman (laki-laki dan peremp.)"
+          halti: berhenti
+          iri: "pergi, perjanjian"
+          junularo: "pemuda/pemudi, anak-anak muda"
+          kongreso: perkumpulan
+          membro: angotta
+          okazi: terjadi
+          seĝo: kursi
+          sidi: duduk
+          tagmanĝo: "makan siang"
+          viziti: "mengunjunggi, memeriksa"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: arktik
+          Kanado: Kanada
+          admiri: "memuji amat"
+          aŭtomobilo: mobil
+          besto: binatang
+          enirejo: "tempat masuk"
+          interesa: "penting,  minat"
+          kaĝo: "sangkar,  kandang"
+          kompleta: "lengkap,  penuh"
+          kontinento: benua
+          multa: "banyak,  sekali"
+          ofte: sering
+          plaĉi_al: "yg menyenangkan,  suka"
+          simili: "menyamai,  mirip"
+          simio: "monyet,  kera"
+          urbo: kota
+          urso: beruang
+          veturi: "pergi dgn mobil, bis, kereta api, dsb"
+          zoo: "kebun binatang"
+          ĉar: "karena, oleh sebab itu"

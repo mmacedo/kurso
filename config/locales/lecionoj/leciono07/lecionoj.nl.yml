@@ -1,0 +1,96 @@
+--- 
+nl: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Voorzetsels zijn woordjes die een relatie aangeven tussen twee woorden."
+        titolo: "Voorzetsels I"
+        vortoj: 
+          al: "naar, aan (tegen)"
+          da: "voorzetsel van hoeveelheid"
+          de: van
+          dum: "tijdens, gedurende"
+          en: in
+          kun: met
+          por: "voor  (ten behoeve van), om te"
+          pro: "wegens, vanwege"
+          sub: onder
+          sur: op
+          ĉe: bij
+          ĝis: tot
+      prepozicioj02: 
+        titolo: "Voorzetsels II"
+        vortoj: 
+          anstataŭ: "in plaats van"
+          antaŭ: "voor (plaats of tijd)"
+          apud: naast
+          ekster: buiten
+          el: uit
+          inter: tussen
+          je: "\"je\", een bijzonder voorzetsel, dat gebruikt wordt als er geen ander geschikt voorzetsel is."
+          kontraŭ: tegen
+          malantaŭ: "achter, na"
+          per: "met behulp van, per, met"
+          post: "na, achter"
+          preter: voorbij
+          pri: "over (= betreffende)"
+          sen: zonder
+          super: "boven, over"
+          tra: door(heen)
+          trans: "aan de overkant van, over"
+          ĉirkaŭ: rondom
+      prepozicioj03: 
+        ekspliko-1: "We zagen in de tweede les, dat de -n het lijdend voorwerp aangeeft. Die -n vormt de zogenaamde \"accusatief\" of \"vierde naamval\". Bijvoorbeeld:"
+        ekspliko-2: "Naast het lijdend voorwerp kan een zin ook andere bepalingen hebben, vaak met een voorzetsel. Bijvoorbeeld:"
+        ekspliko-3: "Het gebruik van een voorzetsel is hier nodig en de bepaling met een voorzetsel krijgt geen naamvals -n.  Hier andere voorbeelden:"
+        ekspliko-4: "Na een voorzetsel gebruik je geen naamvals-n. Er zijn enkele gevallen, waar de naamvals-n  een voorzetsel kan VERVANGEN. Dat zien we op de volgende bladzijde."
+        ekspliko-5: "De naamvalsuitgang -n kan met gebruiken om een voorzetsel te vervangen, als dat niet schaadt aan de duidelijkheid. De voorbeelden hieronder zijn gelijk in betekenis."
+        ekspliko-6: "Een voorzetsel kan een ander voorzetsel vergezellen. Bijvoorbeeld:"
+        ekspliko-7: "Als een van die voorzetsels een beweging of richting uitdrukt (bijv. \"al\")  vervangen we dat voorzetsel door de naamvals \"-n\"."
+        ekspliko-8: "Vergelijk met de volgende zin:"
+        ekspliko-9: "Let op het verschil. In het eerste geval was ik buiten de tuin en wandelde de tuin in. In het tweede geval was ik al in de tuin en wandelde daar rond."
+        frazo-1: "Een vogel vangt een insect."
+        frazo-2: "Ik dank u voor uw vriendelijkheid."
+        frazo-3: "Ik lees het boek (lijdend vw.) van Peter (voorzetsel bepaling)"
+        frazo-4: "Ik zal naar Amerika reizen."
+        frazo-5: "Hij dronk een kopje (l.v.) koffie (bep. met voorzetsel \"da\")"
+        frazo-6: "Ga weg van voor mij!"
+        titolo: "Voorzetsels III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: aankomen
+          aŭtobuseto: autobusje
+          danki: danken
+          geamikoj: "vrienden en vriendinnen"
+          halti: stoppen
+          iri: gaan
+          junularo: "jeugd, (= verzameling jongeren)"
+          kongreso: congres
+          membro: lid
+          okazi: "gebeuren, plaatsvinden"
+          seĝo: stoel
+          sidi: zitten
+          tagmanĝo: middagmaal
+          viziti: bezoeken
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Noordpool
+          Kanado: Canada
+          admiri: bewonderen
+          aŭtomobilo: auto
+          besto: dier
+          enirejo: ingang
+          interesa: interessant
+          kaĝo: kooi
+          kompleta: volledig
+          kontinento: "continent, vasteland"
+          multa: veel
+          ofte: vaak
+          plaĉi_al: "bevallen, behagen"
+          simili: "lijken op"
+          simio: aap
+          urbo: stad
+          urso: beer
+          veturi: rijden
+          zoo: dierentuin
+          ĉar: want

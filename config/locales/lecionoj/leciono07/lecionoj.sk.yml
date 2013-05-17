@@ -1,0 +1,96 @@
+--- 
+sk: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Predložky sú slovíčka, ktorá ukazujú vzťah medzi dvoma slovami."
+        titolo: Predložky
+        vortoj: 
+          al: k
+          da: "\"z čoho\" \"množstvo niečoho\""
+          de: od
+          dum: počas
+          en: v
+          kun: s
+          por: pre
+          pro: "kvôli, pre"
+          sub: pod
+          sur: na
+          ĉe: pri
+          ĝis: "až kým, po"
+      prepozicioj02: 
+        titolo: Predložky
+        vortoj: 
+          anstataŭ: namiesto
+          antaŭ: pred
+          apud: vedľa
+          ekster: mimo
+          el: z
+          inter: medzi
+          je: "Je - špeciálna predložka používaná v prípadoch, keď sa zmysel nedá vyjadriť inou predložkou."
+          kontraŭ: "proti, naproti"
+          malantaŭ: za
+          per: "\"pomocou niečoho\""
+          post: za
+          preter: "popri, okolo"
+          pri: o
+          sen: bez
+          super: nad
+          tra: "cez, skrz"
+          trans: cez
+          ĉirkaŭ: okolo
+      prepozicioj03: 
+        ekspliko-1: "V druhej lekcii sme videli, že koncovka \"-n\" ukazuje priamy predmet to jest akuzatív. Napr:"
+        ekspliko-2: "V prípade, že má veta dva predmety, jeden z nich musí byť nepriamy. Napr.:"
+        ekspliko-3: "Toto použitie predlotky je nevyhnutné a nepriamy predmet nedostáva koncovku akuzatívu. Ďalšie príklady:"
+        ekspliko-4: "Po predložkách sa akuzatív nepoužíva! Existuje niekoľko prípadov, kedy akuzatív môže nahradiť predložku. To si ukážeme na nasledujúcej strane."
+        ekspliko-5: "Akuzatívnou koncovkou môžeme nahradiť predložku vtedy, keď to zrozumiteľnosť umožňuje. Nasledujúce príklady sú zhodné."
+        ekspliko-6: "Predložka môže predchádzať inej predložke. Napr.:"
+        ekspliko-7: "V prípade, že niektorá z týchto predložiek ukazuje pohyb (napr. \"al\"), nahradíme túto predložku koncovkou akuzatívu (-n)."
+        ekspliko-8: "Porovnajte s nasledujúcou vetou:"
+        ekspliko-9: "Všimnite si rozdiel: V prvom prípade som bol mimo záhrady a išiel, prechádzajúc sa, na pozíciu vo vnútri záhrady. V druhom prípade som bol už v záhrade a prechádzal sa."
+        frazo-1: "Vták chytá hmyz."
+        frazo-2: "Ďakujem vám za vašu láskavosť."
+        frazo-3: "Čítam Petrovu knihu."
+        frazo-4: "Budem cestovať do Ameriky."
+        frazo-5: "Vypil šálku kávy."
+        frazo-6: "Choď odo mňa!"
+        titolo: Predložky
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: prísť
+          aŭtobuseto: "malý autobus"
+          danki: ďakovať
+          geamikoj: "priatelia (muži i ženy)"
+          halti: zastaviť
+          iri: ísť
+          junularo: mládež
+          kongreso: kongres
+          membro: člen
+          okazi: "stať sa, diať sa"
+          seĝo: stolička
+          sidi: sedieť
+          tagmanĝo: obed
+          viziti: navštíviť
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktída
+          Kanado: Kanada
+          admiri: obdivovať
+          aŭtomobilo: auto
+          besto: zviera
+          enirejo: vchod
+          interesa: zaujímavý
+          kaĝo: klietka
+          kompleta: "kompletný, úplný"
+          kontinento: svetadiel
+          multa: mnohý
+          ofte: často
+          plaĉi_al: "páčiť sa"
+          simili: "podobať sa"
+          simio: opica
+          urbo: mesto
+          urso: medveď
+          veturi: cestovať
+          zoo: zoo
+          ĉar: "pretože, lebo"

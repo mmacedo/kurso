@@ -1,0 +1,96 @@
+--- 
+it: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Le preposizioni sono particelle che denotano la relazione che sussiste tra due parole."
+        titolo: "Preposizioni 1°"
+        vortoj: 
+          al: "a, verso"
+          da: "di (quantità, misura)"
+          de: "da, di (allontanamento, provenienza, specificazione, causa efficiente, agente)"
+          dum: "durante, per (durata)"
+          en: "a, in (stato in luogo, moto a luogo, tempo determinato, maniera)"
+          kun: "con (compagnia, maniera, qualità, relazione, circostanza; mai il mezzo!)"
+          por: "per (al fine di)"
+          pro: "per, di, a causa di"
+          sub: "sotto (stato o moto in luogo, anche figurato)"
+          sur: "su (stato in luogo o moto a luogo; denota contatto con l'oggetto sottostante)"
+          ĉe: "a, da, presso di (presenza)"
+          ĝis: "fino a (limite di spazio, di tempo, di misura)"
+      prepozicioj02: 
+        titolo: "Preposizioni 2°"
+        vortoj: 
+          anstataŭ: "invece di (sostituzione)"
+          antaŭ: "davanti a, prima di (luogo / tempo)"
+          apud: "vicino a (luogo)"
+          ekster: "fuori di"
+          el: "da, di (uscita, origine, materia, ...)"
+          inter: "tra, fra, in mezzo a (luogo / tempo)"
+          je: "Preposizione speciale, usata quando la relazione non è esprimibile chiaramente con altre preposizioni."
+          kontraŭ: "contro, di fronte a, verso"
+          malantaŭ: "dietro (nello spazio)"
+          per: "con (mezzo, strumento)"
+          post: "dopo, dietro (tempo, posizione)"
+          preter: "oltre (passando al fianco di; superando)"
+          pri: "di, su (denota argomento)"
+          sen: "senza (esclusione)"
+          super: "sopra, su (staccato da ciò che sta sotto)"
+          tra: "tra, attraverso, per"
+          trans: "al di là di, oltre (scavalcando)"
+          ĉirkaŭ: "intorno a, circa (luogo / tempo)"
+      prepozicioj03: 
+        ekspliko-1: "Nella seconda lezione abbiamo visto che la terminazione -n denota il complemento oggetto, ovvero l'accusativo. Per esempio:"
+        ekspliko-2: "Quando in una proposizione ci sono due complementi, uno di essi è necessariamente un complemento indiretto. Per esempio:"
+        ekspliko-3: "Tale complemento indiretto è necessariamente retto da una preposizione (e non riceve la finale dell'accusativo). Ecco altri esempi:"
+        ekspliko-4: "Come si vede, dopo una preposizione l'accusativo non ci vuole. Peraltro, ci sono casi in cui una preposizione può essere sostituita dall'accusativo. Li vediamo alla pagina seguente."
+        ekspliko-5: "Si può usare la terminazione dell'accusativo per sostituire una preposizione (quando non ne scapiti la chiarezza). In ciascuna delle coppie seguenti, le due formulazioni sono equivalenti:"
+        ekspliko-6: "Una preposizione può accompagnarne un'altra. Ad esempio:"
+        ekspliko-7: "Quando una di tali preposizioni indica movimento (per esempio: \"al\"), è sostituibile con la terminazione dell'accusativo (-n):"
+        ekspliko-8: "Confronta con la frase seguente:"
+        ekspliko-9: "Nota la differenza: - Nel primo caso, mi trovavo fuori del giardino e mi sono trasferito, passeggiando, dentro al giardino. - Nel secondo caso, già mi trovavo nel giardino e vi passeggiavo."
+        frazo-1: "Un uccello cattura un insetto. Un uccello cattura un insetto."
+        frazo-2: "[Io] ti ringrazio per la tua affabilità."
+        frazo-3: "[Io] leggo il libro di Pietro."
+        frazo-4: "[Io] andrò in (letteralmente: viaggerò verso l') America."
+        frazo-5: "[Lui] ha bevuto una tazza di caffè."
+        frazo-6: "Vattene da davanti a me!"
+        titolo: "Preposizioni 3°"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "arrivare a"
+          aŭtobuseto: "[un] pulmino"
+          danki: ringraziare
+          geamikoj: "[degli] amici (maschi e femmine)"
+          halti: fermarsi
+          iri: andare
+          junularo: "[la] gioventù (l'insieme dei giovani)"
+          kongreso: "[un] congresso"
+          membro: "[un] membro"
+          okazi: accadere
+          seĝo: "[una] sedia"
+          sidi: "sedere (essere seduto)"
+          tagmanĝo: "[un / il] pranzo"
+          viziti: visitare
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Artico
+          Kanado: Canada
+          admiri: ammirare
+          aŭtomobilo: "[un'] automobile"
+          besto: "[una] bestia, [un] animale"
+          enirejo: "[un'] entrata"
+          interesa: interessante
+          kaĝo: "[una] gabbia"
+          kompleta: "completo / a"
+          kontinento: "[un] continente"
+          multa: "molto / a"
+          ofte: spesso
+          plaĉi_al: "piacere a"
+          simili: "essere simile, assomigliare"
+          simio: "[una] scimmia"
+          urbo: "[una] città"
+          urso: "[un] orso"
+          veturi: "viaggiare (con un veicolo)"
+          zoo: "[uno] zoo"
+          ĉar: "poiché, perché"

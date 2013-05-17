@@ -1,0 +1,96 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Edatlar iki kelime arasında bağlantıyı gösteren kelimeciklerdir. Kendi başına tam anlamı olmayıp iki kelime veya fikir arasındaki türlü ilgi ve özellikleri belirten ve cümlenin anlamına duygu katarlar."
+        titolo: "Edatlar I"
+        vortoj: 
+          al: "e,a, y, ya (-e hali), doğru."
+          da: "Sayı ve ölçü kelimelerinden sonra kullanılır. Miktar ifade eden edattır. Türkçe karşılığı yoktur."
+          de: "de, nin, in, den (-in hali)."
+          dum: "iken, vaktinde, anında"
+          en: "de, da (-d hali), içinde"
+          kun: "ile (birlikte)"
+          por: "için, ötürü."
+          pro: "dolayı, yüzünden."
+          sub: "altında (edat)"
+          sur: "üstünde ( temas halinde )"
+          ĉe: "de, nezninde (-de hali), evinde."
+          ĝis: "kadar, dek ,değin"
+      prepozicioj02: 
+        titolo: "Edatlar II"
+        vortoj: 
+          anstataŭ: yerine
+          antaŭ: "önce, evvel"
+          apud: yanında
+          ekster: "dışında, haricinde"
+          el: "dan, den"
+          inter: arasında
+          je: "Özel edat ( özellikle saat, zaman,mesafe deyimleri öncesi kullanılır ve uygun edat bulunamadığı zamanlarda kullanılır."
+          kontraŭ: "karşısında, hakkında"
+          malantaŭ: "sonra, ardında"
+          per: "vasıtası ile"
+          post: "sonra, arkasında"
+          preter: "dolayında, öte yanında"
+          pri: hakkında
+          sen: "siz ( örn: sensiz, ekmeksiz )"
+          super: "üstünde ( temas halinde )"
+          tra: "arasından geçmek"
+          trans: ötesinde
+          ĉirkaŭ: "civarında, dolayında"
+      prepozicioj03: 
+        ekspliko-1: "İkinci derste gördük ki, sondaki \"n\" harfi -i hali göstermektedir. Örneğin:"
+        ekspliko-2: "Eğer cümlede iki tamamlayıcı zarf varsa, bunlardan birisi tamamlayıcıdır. Örn :"
+        ekspliko-3: "Yukarıdaki edatın kullanılması mecburidir.Ve direkt olmayan nesne, -i halin son ekini almaz.İşte diğer örnekler :"
+        ekspliko-4: "Edat'tan sonra -i hali kullanılmaz.Bazı durumlarda -i hali edat'ın yerini alabilir.Bunu gelecek sayfada göreceğiz."
+        ekspliko-5: "Açıklamaya engel teşkil etmezse, -i halin sonu, edatın yerini alabilir. Diğer örnekleri eşdeğerdir:"
+        ekspliko-6: "Bir edat, diğer bir edatla kullanılabilir. Örn. :"
+        ekspliko-7: "Edatlardan biri hareket ifade ettiğinde ( Örn: \"al\"), bu edatı -i halin -n hali ile değiştirebiliriz."
+        ekspliko-8: "Şu cümle ile karşılaştırın :"
+        ekspliko-9: "Farka dikkat edin: İlk olayda ben bahçenin dışındaydım ve gezinerek gittim; ikinci olayda ben artık bahçedeydim ve orada geziniyordum."
+        frazo-1: "Kuş böceği yakalıyor."
+        frazo-2: "Nezaketiniz için teşekkür ederim."
+        frazo-3: "Ben Peter'in kitabını okuyorum."
+        frazo-4: "Ben Amerika'ya gideceğim."
+        frazo-5: "O (erkek) bir bardak çay içti."
+        frazo-6: "Önümden çekil!"
+        titolo: "Edatlar III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: gelmek
+          aŭtobuseto: minibüs
+          danki: "teşekkür etmek"
+          geamikoj: "dostlar (her iki cinsten)"
+          halti: durdurmak
+          iri: gitmek
+          junularo: gençlik
+          kongreso: kongre
+          membro: üye
+          okazi: "olay , vaka"
+          seĝo: sandalye
+          sidi: oturmak
+          tagmanĝo: "öğle yemeği"
+          viziti: "ziyaret etmek"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: "Arktika ( kıta )"
+          Kanado: Kanada
+          admiri: "hayran kalmak"
+          aŭtomobilo: otomobil
+          besto: Hayvan
+          enirejo: giriş
+          interesa: enterasan
+          kaĝo: kafes
+          kompleta: tamam
+          kontinento: kıta
+          multa: "Çok ( miktarsal )"
+          ofte: "sık sık"
+          plaĉi_al: "birisine beğenilmek"
+          simili: benzemek
+          simio: maymun
+          urbo: Şehir
+          urso: ayı
+          veturi: "Yolculuk etmek."
+          zoo: "hayvanat bahçesi"
+          ĉar: çünkü

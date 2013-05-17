@@ -27,6 +27,9 @@ I18nEltiro::Mapado.agordi do
     forigi 'l018' # vortaro
     forigi 'l022', escepte: %i(sl) # rimarkigo
   end
+  el 'lecionoj.leciono07' do
+    forigi 'l002' # tekstokompreno
+  end
 
   # lingvo
   mapi 'aliaj.traduko.lingvo' do |obj|

@@ -1,0 +1,98 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Etusanoja eli prepositioita käytetään Suomen sijamuotojen asemesta."
+        titolo: "Prepositiot I"
+        vortoj: 
+          al: "-lle, luokse"
+          da: "ilmaisee tiettyä määrää jtak."
+          de: "ilmaisee omistamista; osaa jstk.; lähtökohtaa; tekijää"
+          dum: "aikana, kestäessä"
+          en: "-ssa, jnk. sisällä"
+          kun: kanssa
+          por: varten
+          pro: "takia, vuoksi"
+          sub: "alapuolella, alla"
+          sur: "päällä, pinnalla"
+          ĉe: "lähellä, luona"
+          ĝis: "asti, saakka"
+      prepozicioj02: 
+        titolo: "Prepositiot II"
+        vortoj: 
+          anstataŭ: "asemesta, sijasta"
+          antaŭ: "ennen, edessä"
+          apud: vieressä
+          ekster: ulkopuolella
+          el: "ulos, -sta"
+          inter: "välissä, kesken, keskuudessa"
+          je: "käytetään tilanteissa, joissa muut prepositiot tuntuvat sopimattomilta (esm. aika)"
+          kontraŭ: "vasten, vastapäätä"
+          malantaŭ: takana
+          per: "avulla, -lla"
+          post: "kuluttua, jälkeen"
+          preter: ohitse
+          pri: "-sta"
+          sen: ilman
+          super: Yläpuolella
+          tra: lävitse
+          trans: "toisella puolen, yli"
+          ĉirkaŭ: "ympäri, ympärillä, noin"
+      prepozicioj03: 
+        ekspliko-1: "Toisessa oppikappaleessa tutustuimme akkusatiivin (kohteen) päätteeseen \"-n\". Esim.:"
+        ekspliko-2: "Kun lauseella on kaksi kohdette, toisen pitää olla epäsuora. Esim.:"
+        ekspliko-3: "Ylläolevassa tapaukseessa preposition käyttö on välttämätöntä, ja epäsuora objekti pitää olla ilman akkusatiivin päätettä. Lisää esimerkkejä:"
+        ekspliko-4: "Preposition jälkeen ei käytetä akkusatiivia (paitsi suuntaa ilmaistessa). Joissakin tapauksissa akkusatiivilla voidaan korvata prepositio, kuten näemme seuraavalla sivulla."
+        ekspliko-5: "Akkusatiivia voi käyttää preposition asemesta, jos lauseen ymmärrettävyys sen sallii. Allaolevissa esimerkeissä kumpikin lause tarkoittaa samaa."
+        ekspliko-6: "Prepositioita voidaan käyttää myös peräkkäin. Esim.:"
+        ekspliko-7: "Jos toinen näistä prepositioista ilmaisee liikettä (esim. \"al\"), korvaamme sen akkusatiivin päätteellä (-n):"
+        ekspliko-8: "Vertaa seuraavaan lauseeseen:"
+        ekspliko-9: |-
+            Huomaa ero: Ensimmäisessä tapauksessa, olin vielä ulkopuolella, mutta menossa puutarhaan;
+            seuraavassa tapaukseessa olin jo puutarhassa, ja kävelin siellä.
+        frazo-1: "Lintu pyydystää hyönteisen."
+        frazo-2: "Kiitä sinua ystävällisyydestäsi."
+        frazo-3: "Luen Petron kirjaa."
+        frazo-4: "Matkustan (tulen matkustamaan) Amerkkaan."
+        frazo-5: "Hän joi kupin kahvia."
+        frazo-6: "Mene pois edestäni!"
+        titolo: "Prepositiot III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: saapua
+          aŭtobuseto: pikkubussi
+          danki: kiitää
+          geamikoj: "ystävät (molempaa sukupuolta)"
+          halti: pysähtyä
+          iri: mennä
+          junularo: nuorisojoukko
+          kongreso: kongressi
+          membro: jäsen
+          okazi: tapahtua
+          seĝo: tuoli
+          sidi: istua
+          tagmanĝo: päivällinen
+          viziti: "käydä jssak., vierailla"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Pohjoisnapa-alue
+          Kanado: Kanada
+          admiri: ihailla
+          aŭtomobilo: auto
+          besto: eläin
+          enirejo: sisäänkäynti
+          interesa: mielenkiintoinen
+          kaĝo: häkki
+          kompleta: täydellinen
+          kontinento: maanosa
+          multa: "moni, usea"
+          ofte: usein
+          plaĉi_al: "miellyttää jkta."
+          simili: "muistuttaa (jtak.)"
+          simio: apina
+          urbo: kaupunki
+          urso: karhu
+          veturi: "kulkea, ajaa"
+          zoo: eläintarha
+          ĉar: koska

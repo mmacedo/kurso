@@ -1,0 +1,96 @@
+--- 
+da: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Forholdsord er småord der sætter andre ord \"i forhold til hinanden\"."
+        titolo: "Forholdsord (præpositioner) I"
+        vortoj: 
+          al: "til, hen til, imod"
+          da: "af (mængde)"
+          de: "af, fra, siden, ejefalds-s"
+          dum: "i, under, i løbet af"
+          en: "i, ind i, om"
+          kun: "med, sammen med"
+          por: "for, til, til fordel for, for at"
+          pro: "for, på grund af, i anledning af"
+          sub: under
+          sur: på
+          ĉe: "ved, hos"
+          ĝis: "til, indtil, hen til"
+      prepozicioj02: 
+        titolo: "Forholdsord II"
+        vortoj: 
+          anstataŭ: "i stedet for"
+          antaŭ: "før, forud for, foran, for... siden"
+          apud: "hos, ved, ved siden af"
+          ekster: udenfor
+          el: "ud af, ud fra, af, fra"
+          inter: "mellem, imellem, blandt"
+          je: "Forholdsord med ubestemt betydning (anvendes hvor intet af de øvrige kan anvendes)"
+          kontraŭ: "mod, imod, lige over for"
+          malantaŭ: bag
+          per: "med, ved, ved hjælp af"
+          post: "efter, bagefter, bagved"
+          preter: forbi
+          pri: "om, angående, vedrørende"
+          sen: uden
+          super: "over, oven over"
+          tra: "gennem, igennem"
+          trans: "hinsides, på den anden side"
+          ĉirkaŭ: "om, omkring, rundt om"
+      prepozicioj03: 
+        ekspliko-1: "Vi så i lektion 2, at  \"n-form\"  (akkusativ) kan vise genstandsled. Fx :"
+        ekspliko-2: "Genstandsledet står i akkusativ:"
+        ekspliko-3: "I den ovenstående sætning er det kun genstandsledet, der har n-form (står i akkusativ), og  det indirekte genstandsled har ikke n-form . Her er andre eksempler:"
+        ekspliko-4: "Efter et forholdsord benyttes ikke akkusativ.  Der er tilfælde, hvor akkusativ kan erstatte forholdsord. Dette skal vi se på følgende side."
+        ekspliko-5: "N-form kan man bruge som erstatning for et forholdsord.  De følgende sætninger har parvis samme mening:"
+        ekspliko-6: "Et forholdsord kan forekomme sammen med et andet forholdsord. Fx:"
+        ekspliko-7: "Når et forholdsord viser bevægelse (fx \"al\"), kan vi erstatte forholdsordet med n-formen (akkusativ)."
+        ekspliko-8: "Sammenlign med følgende sætning:"
+        ekspliko-9: "Bemærk forskellen: I første tilfælde promenerede jeg fra et sted uden for haven til et sted i haven. I det andet tilfælde var jeg inde i haven og promenerede i den."
+        frazo-1: "En fugl fanger et insekt."
+        frazo-2: "Jeg takker dig for din venlighed."
+        frazo-3: "Jeg læser Peters bog."
+        frazo-4: "Jeg vil rejse til Amerika."
+        frazo-5: "Han drak en kop kaffe."
+        frazo-6: "Stå ikke foran mig!  (gå væk fra foran mig!)"
+        titolo: "Forholdsord III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "at ankomme"
+          aŭtobuseto: "en minibus"
+          danki: "at takke, at sige tak"
+          geamikoj: "venner (af begge køn)"
+          halti: "at standse, at gøre holdt"
+          iri: "at gå"
+          junularo: "ungdom, de unge"
+          kongreso: "en kongres"
+          membro: "et medlem"
+          okazi: "at ske, at hænde, at indtræffe"
+          seĝo: "en stol"
+          sidi: "at sidde"
+          tagmanĝo: "en middagsmad"
+          viziti: "at besøge"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: "Det nordlige ishav"
+          Kanado: Canada
+          admiri: "at beundre"
+          aŭtomobilo: "en bil"
+          besto: "et dyr"
+          enirejo: "en indgang"
+          interesa: interessant
+          kaĝo: "et bur"
+          kompleta: "hel, fuldstændig, komplet"
+          kontinento: "et kontinent"
+          multa: "meget, megen"
+          ofte: "ofte, tit"
+          plaĉi_al: "at behage, at tiltale (nogen)"
+          simili: "at ligne"
+          simio: "en abe"
+          urbo: "en by"
+          urso: "en bjørn"
+          veturi: "at køre"
+          zoo: "en zoo(logisk have)"
+          ĉar: "fordi, da, thi, eftersom"

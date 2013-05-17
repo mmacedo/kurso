@@ -1,0 +1,96 @@
+--- 
+cs: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Předložky jsou slůvka, která ukazují vztah mezi dvěma slovy."
+        titolo: "Předložky I"
+        vortoj: 
+          al: k
+          da: "\"množství něčeho\""
+          de: od
+          dum: během
+          en: "v, do"
+          kun: s
+          por: pro
+          pro: "pro, kvůli"
+          sub: pod
+          sur: na
+          ĉe: u
+          ĝis: "až do"
+      prepozicioj02: 
+        titolo: "Předložky II"
+        vortoj: 
+          anstataŭ: namísto
+          antaŭ: před
+          apud: vedle
+          ekster: mimo
+          el: z
+          inter: mezi
+          je: "Je (předložka, používaná tehdy, když se ostatní nehodí, většinou abstraktní vztahy)"
+          kontraŭ: proti
+          malantaŭ: za
+          per: "\"pomocí něčeho\""
+          post: po
+          preter: "kolem, mimo"
+          pri: o
+          sen: bez
+          super: nad
+          tra: skrz
+          trans: přes
+          ĉirkaŭ: "kolem, okolo"
+      prepozicioj03: 
+        ekspliko-1: "V druhé lekci jsme viděli, že \"-n\" ukazuje přímý předmět. Tomu se říká akuzativ. Např.:"
+        ekspliko-2: "Když má věta dva předměty, jeden z nich musí být  nepřímý. Např.:"
+        ekspliko-3: "Výše uvedený způsob použití předložky je nutný, nepřímý předmět nezískává akuzativní koncovku. Zde jsou další příklady:"
+        ekspliko-4: "Platí zásada: po předložce nepoužívejte akuzativ. Existuje přesto několik případů, kdy se koncovka -n může objevit po předložce. To uvidíte na další stránce."
+        ekspliko-5: "Akuzativ (4. pád) lze použít náhradou za předložku, pokud to srozumitelnost dovolí. Níže uvedené příklady jsou vzájemně ekvivalentní:"
+        ekspliko-6: "Předpona může doprovázet jinou předponu. Např.:"
+        ekspliko-7: "Když jedna z předložek ukazuje pohyb určitým směrem (např. \"al\"), můžeme ji nahradit akuzativem (-n):"
+        ekspliko-8: "Srovnejte s následující větou:"
+        ekspliko-9: "Všimněte si rozdílu: V prvním případě jsem byl mimo zahradu a při procházce jsem do ní vešel. V druhém případě jsem už v zahradě byl a procházel se v ní."
+        frazo-1: "Pták chytá hmyz."
+        frazo-2: "Děkuji vám za vaši laskavost."
+        frazo-3: "Čtu Petrovu knihu."
+        frazo-4: "Budu cestovat do Ameriky."
+        frazo-5: "Vypil šálek kávy."
+        frazo-6: "Odejdi z prostoru přede mnou! (= Jdi mi z očí!)"
+        titolo: "Předložky III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: přijít
+          aŭtobuseto: "malý autobus"
+          danki: děkovat
+          geamikoj: "přátelé (muži i ženy)"
+          halti: "zastavit se, stanout"
+          iri: jít
+          junularo: mládež
+          kongreso: kongres
+          membro: člen
+          okazi: "přihodit se, stát se"
+          seĝo: židle
+          sidi: sedět
+          tagmanĝo: oběd
+          viziti: navštívit
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktida
+          Kanado: Kanada
+          admiri: obdivovat
+          aŭtomobilo: automobil
+          besto: zvíře
+          enirejo: vchod
+          interesa: zajímavý
+          kaĝo: klec
+          kompleta: úplný
+          kontinento: světadíl
+          multa: mnohý
+          ofte: často
+          plaĉi_al: "líbit se někomu"
+          simili: "podobat se"
+          simio: opice
+          urbo: město
+          urso: medvěd
+          veturi: "jet, jezdit"
+          zoo: zoo
+          ĉar: protože

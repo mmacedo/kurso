@@ -1,0 +1,96 @@
+--- 
+pt: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Preposições são pequenas palavras que mostram a relação entre duas palavras."
+        titolo: "Preposições I"
+        vortoj: 
+          al: "para, a, em direção a"
+          da: "de (exprime quantidade)"
+          de: "de, desde (no sentido de posse, ponto de partida, característica)"
+          dum: durante
+          en: "em, dentro de"
+          kun: "com, em companhia de"
+          por: "para, por, a fim de, em proveito de (indica objetivo, destino)"
+          pro: "por causa de"
+          sub: "sob, debaixo de"
+          sur: "sobre, em cima de"
+          ĉe: "junto de, junto a"
+          ĝis: "até (no sentido de espaço, tempo ou medida)"
+      prepozicioj02: 
+        titolo: "Preposições II"
+        vortoj: 
+          anstataŭ: "em vez de, ao invés de"
+          antaŭ: "diante, antes (no tempo)"
+          apud: "ao lado de"
+          ekster: "fora de, do lado de fora de"
+          el: "de, dentre (origem)"
+          inter: entre
+          je: "Preposição especial, usada quando o sentido não pode ser expresso pelas outras preposições."
+          kontraŭ: "contra, em frente de"
+          malantaŭ: "atrás de"
+          per: "por (meio de), com (instrumento)"
+          post: "após, depois de"
+          preter: "por diante de, por junto de"
+          pri: "sobre, a respeito de"
+          sen: sem
+          super: "acima de, por sobre"
+          tra: "através de, por  (atravessando)"
+          trans: "além de, do outro lado de"
+          ĉirkaŭ: "em torno de, em redor de"
+      prepozicioj03: 
+        ekspliko-1: "Vimos, na segunda lição, que o \"-n\" indica o complemento de objeto direto. Isto é o acusativo. Ex.:"
+        ekspliko-2: "Quando uma frase tem dois complementos, um deles deve ser o complemento indireto. Ex.:"
+        ekspliko-3: "O uso da preposição acima faz-se necessário, e o objeto indireto não recebe a terminação do acusativo. Outros exemplos:"
+        ekspliko-4: "E é assim: após uma preposição não se usa o acusativo. Há alguns casos onde o acusativo pode substituir uma preposição. Isso veremos na página seguinte."
+        ekspliko-5: "A terminação do acusativo pode ser usada para substituir uma preposição, quando a clareza o permitir. Os exemplos abaixo são equivalentes:"
+        ekspliko-6: "Uma preposição pode ser acompanhada de uma outra preposição. Ex.:"
+        ekspliko-7: "Quando uma dessas preposições indicar movimento (ex. \"al\"), devemos substituir essa preposição pela terminação do acusativo (-n):"
+        ekspliko-8: "Compare com a seguinte frase:"
+        ekspliko-9: "Note a diferença: No primeiro caso, eu estava fora do jardim e fui, passeando,  para uma posição dentro do jardim; no segundo caso, eu já estava no jardim, e ali passeei."
+        frazo-1: "Um pássaro captura um inseto."
+        frazo-2: "Eu te agradeço pela tua afabilidade."
+        frazo-3: "Eu leio o livro de Pedro."
+        frazo-4: "Eu viajarei para a América."
+        frazo-5: "Ele bebeu uma xícara de café."
+        frazo-6: "Saia da minha frente!"
+        titolo: "Preposições III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "chegar a"
+          aŭtobuseto: microônibus
+          danki: agradecer
+          geamikoj: "amigos (de ambos os sexos)"
+          halti: parar
+          iri: ir
+          junularo: juventude
+          kongreso: congresso
+          membro: membro
+          okazi: acontecer
+          seĝo: cadeira
+          sidi: "sentar, estar sentado"
+          tagmanĝo: almoço
+          viziti: visitar
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Ártico
+          Kanado: Canadá
+          admiri: admirar
+          aŭtomobilo: automóvel
+          besto: animal
+          enirejo: entrada
+          interesa: interessante
+          kaĝo: "gaiola, jaula"
+          kompleta: completo(a)
+          kontinento: continente
+          multa: "muito (a)"
+          ofte: frequentemente
+          plaĉi_al: "agradar a"
+          simili: "parecer, ser semelhante"
+          simio: macaco
+          urbo: cidade
+          urso: urso
+          veturi: "andar, viajar (em veículo)"
+          zoo: zoológico
+          ĉar: "porque (resposta)"

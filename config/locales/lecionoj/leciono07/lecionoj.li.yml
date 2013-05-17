@@ -1,0 +1,96 @@
+--- 
+li: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Prielinksniai yra nekaitoma kalbos dalis, einanti su linksniu ir rodanti jo ryšį su pagrindiniu junginio žodžiu, kuris dažniausiai esti veiksmažodis."
+        titolo: "Prielinksniai I"
+        vortoj: 
+          al: "link, į, pas; žymi naudininko linksnį"
+          da: "rodo kiekio kilmininką po žodžių, kurie reiškia matą"
+          de: "nuo (vieta, laikas, priežastis); žymi kilmininko linksnį"
+          dum: "per; tuo metu; kai"
+          en: "į; su vardininku žymi vietą, laiką, būdą, aplinkybę"
+          kun: su
+          por: "dėl (tikslui žymėti)"
+          pro: "dėl (priežasčiai žymėti)"
+          sub: po
+          sur: ant
+          ĉe: "prie, pas"
+          ĝis: "iki, ligi"
+      prepozicioj02: 
+        titolo: "Prielinksniai II"
+        vortoj: 
+          anstataŭ: "vietoje, užuot"
+          antaŭ: "prieš, priešais"
+          apud: "prie, šalia, greta"
+          ekster: "už, lauke, išorėje"
+          el: iš
+          inter: tarp
+          je: "Prielinksnis \"je\" neturi tikslios reikšmės. Vartojamas, kai pagal sakinio prasmę netinka joks kitas prielinksnis."
+          kontraŭ: prieš(ais)
+          malantaŭ: "už (vieta)"
+          per: "per, su, su pagalba"
+          post: "po (laikas); už (vieta)"
+          preter: "pro, pro šalį"
+          pri: apie
+          sen: be
+          super: virš
+          tra: "per, pro"
+          trans: "anapus, už, per"
+          ĉirkaŭ: "aplink, apie"
+      prepozicioj03: 
+        ekspliko-1: "Antroje pamokoje matėme, kad galūnė \"-n\" parodo tiesioginį  papildinį, kuris reiškiamas galininku. Pvz.:"
+        ekspliko-2: "Kai sakinyje yra dvi antrininkės sakinio dalys, viena iš jų turi būti netiesioginis papildinys. Pvz.:"
+        ekspliko-3: "Viršuje pateiktuose sakiniuose prielinksnis yra būtinas. Netiesioginis papildinys neturi galininko galūnės. Štai kiti pavyzdžiai:"
+        ekspliko-4: "Po prielinksnio galininko linksnis nevartojamas, išskyrus tuos atvejus, kuriuos mes aptarsime kitame lape."
+        ekspliko-5: "Galininko linksnio galūnę galima vartoti vietoje prielinksnių, jei sakinio prasmė lieka aiški. Žemiau pateikti pavyzdžiai yra analogiški:"
+        ekspliko-6: "Vienas prielinksnis gali būti šalia kito. Pvz.:"
+        ekspliko-7: "Kai vienas iš tų prielinksnių rodo judėjimą, pavyzdžiui \"al\", vietoje jo rašome galininko galūnę \"-n\":"
+        ekspliko-8: "Palyginkite su šiuo sakiniu:"
+        ekspliko-9: "Atkreipkite dėmesį: pirmuoju atveju aš buvau už sodo ribų ir bevaikštinėdamas atsidūriau sode; antruoju atveju aš jau buvau sode ir ten vaikštinėjau."
+        frazo-1: "Paukštis pagauna vabzdį."
+        frazo-2: "Aš dėkoju tau už meilumą."
+        frazo-3: "Aš skaitau Petro knygą."
+        frazo-4: "Aš keliausiu į Ameriką."
+        frazo-5: "Jis gėrė puodelį kavos."
+        frazo-6: "Dink iš akių!"
+        titolo: "Prielinksniai III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "atvykti, ateiti"
+          aŭtobuseto: autobusiukas
+          danki: dėkoti
+          geamikoj: draugai
+          halti: sustoti
+          iri: "eiti, vykti"
+          junularo: jaunimas
+          kongreso: kongresas
+          membro: narys
+          okazi: "įvykti, atsitikti"
+          seĝo: kėdė
+          sidi: sėdėti
+          tagmanĝo: pietūs
+          viziti: lankyti
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktis
+          Kanado: Kanada
+          admiri: "grožėtis, gėrėtis, žavėtis"
+          aŭtomobilo: automobilis
+          besto: "gyvulys, žvėris"
+          enirejo: įėjimas
+          interesa: įdomus
+          kaĝo: narvas
+          kompleta: "pabaigtas, pilnas"
+          kontinento: žemynas
+          multa: daugelis
+          ofte: dažnai
+          plaĉi_al: "patikti (kam)"
+          simili: "būti panašiam"
+          simio: beždžionė
+          urbo: miestas
+          urso: "meška, lokys"
+          veturi: važiuoti
+          zoo: "zoologijos sodas"
+          ĉar: nes

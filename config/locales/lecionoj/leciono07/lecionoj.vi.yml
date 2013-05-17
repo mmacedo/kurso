@@ -1,0 +1,96 @@
+--- 
+vi: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Giới từ là những từ thể hiện mối quan hệ giữa một danh từ theo sau (đối tượng của giới từ) và phần còn lại của câu."
+        titolo: "Giới từ I"
+        vortoj: 
+          al: "tới, hướng về"
+          da: "của, thuộc về( cho số lượng)"
+          de: "thuộc, của, từ"
+          dum: "suốt, trong khi"
+          en: "ở trong, vào trong"
+          kun: với
+          por: "của, thuộc (mục đích), để mà, cốt mà"
+          pro: "vì , do bởi"
+          sub: "phía dưới, ở dưới"
+          sur: "trên, ở trên"
+          ĉe: "ở, với, bên cạnh"
+          ĝis: "cho đến, đến khi"
+      prepozicioj02: 
+        titolo: "Giới từ II"
+        vortoj: 
+          anstataŭ: "thay vì"
+          antaŭ: "đằng trước, ở phía trước"
+          apud: "bên cạnh"
+          ekster: "bên ngoài, ngoài ra"
+          el: "ra ngoài, vì , bằng"
+          inter: "ở giữa"
+          je: "trong, ở ,trên (giới từ bất định, sử dụng khi không có giới từ thích hợp)"
+          kontraŭ: "đối diện"
+          malantaŭ: "đằng sau"
+          per: "bằng, bằng phương tiện"
+          post: "sau, đằng sau"
+          preter: "ở bên kia, đã qua"
+          pri: "về, về việc"
+          sen: "bên ngoài, không có"
+          super: "quá, vượt, cao hơn"
+          tra: "qua, xuyên qua, suốt"
+          trans: "ngang qua, ở phía bên..."
+          ĉirkaŭ: "xung quanh, khoảng chừng"
+      prepozicioj03: 
+        ekspliko-1: "Chúng ta đã thấy ở bài học thứ hai là \"-n\" là dấu hiệu hướng của đối tượng (bổ ngữ). Đây là sự đổi cách. Ví dụ:"
+        ekspliko-2: "Một câu không thể có hai hướng đối tượng (bổ ngữ). Hãy nhớ rằng giới từ của đối tượng đó trong trường hợp này không đổi cách. Ví dụ:"
+        ekspliko-3: "Xem thêm ba ví dụ sau đây:"
+        ekspliko-4: "Không sử dụng sự đổi cách sau giới từ. Có một số trường hợp từ đổi cách có thể được thay bằng giới từ. Chúng ta sẽ xem điều đó ở trang ngay sau đây."
+        ekspliko-5: "Phần đuôi đổi cách có thể được sử dụng để thay thế cho giới từ, khi được phép. Các ví dụ sau đây là tương đương."
+        ekspliko-6: "Một giới từ có thể đi kèm theo một giới từ khác. Ví dụ:"
+        ekspliko-7: "Khi một trong các giới từ biểu thị sự di chuyển (ví dụ \"al\" ), chúng ta có thể thay thế phần đuôi đổi cách (-n) cho giới từ đó."
+        ekspliko-8: "So sánh những câu sau đây:"
+        ekspliko-9: "Trong câu thứ nhất, tôi ở phía ngoài khu vườn và đi vào vị trí bên trong khu vườn. Tôi đã vào trong vườn. Tôi đã đi vào trong vườn. Trong câu thứ hai, tôi đã đang đi bên trong khu vườn."
+        frazo-1: "Một con chim bắt một con côn trùng."
+        frazo-2: "Tôi cảm ơn sự tốt bụng của bạn."
+        frazo-3: "Tôi đang đọc quyển sách của Peter."
+        frazo-4: "Tôi sẽ đi du lịch châu Mỹ (nước Mỹ)."
+        frazo-5: "Anh ấy đã uống một cốc cà phê."
+        frazo-6: "Đi khỏi trước mặt tôi!"
+        titolo: "Giới từ III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "đi đến"
+          aŭtobuseto: "xe buýt nhỏ"
+          danki: "cảm ơn"
+          geamikoj: "những người bạn"
+          halti: "dừng lại"
+          iri: đi
+          junularo: "thanh niên, những người trẻ tuổi"
+          kongreso: "đại hội, hội nghị"
+          membro: "thành viên"
+          okazi: "xảy ra, xảy đến"
+          seĝo: "chiếc ghế"
+          sidi: ngồi
+          tagmanĝo: "bữa trưa"
+          viziti: "đi thăm, đi dự"
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: "Bắc cực"
+          Kanado: Canada
+          admiri: "ngắm nhìn một cách vui thích, khâm phục"
+          aŭtomobilo: "ôtô, xe hơi"
+          besto: "động vật, thú vật"
+          enirejo: "lối vào, sự gia nhập"
+          interesa: "làm quan tâm, là chú ý"
+          kaĝo: "lồng, chuồng, cũi"
+          kompleta: "hoàn thiện, đầy đủ"
+          kontinento: "lục địa, đại lục"
+          multa: nhiều
+          ofte: "thường xuyên"
+          plaĉi_al: "xin hãy vui lòng (nhờ ai làm gì đó)"
+          simili: "trông giống như, tương tự như"
+          simio: "con khỉ"
+          urbo: "thành phố, thị trấn"
+          urso: "con gấu"
+          veturi: "đi du lịch, đi bằng xe"
+          zoo: "vườn bách thú"
+          ĉar: "bởi vì"

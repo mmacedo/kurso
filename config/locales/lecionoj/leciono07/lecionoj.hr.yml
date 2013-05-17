@@ -1,0 +1,96 @@
+--- 
+hr: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Prijedlozi su riječce koje pokazuju odnos između dviju riječi."
+        titolo: "Prijedlozi I"
+        vortoj: 
+          al: "k, ka"
+          da: "partitivni genitiv (označuje dio neke cjeline)"
+          de: od
+          dum: "za vrijeme"
+          en: u
+          kun: "s, sa"
+          por: za
+          pro: "radi, zbog"
+          sub: "pod, ispod"
+          sur: na
+          ĉe: kod
+          ĝis: do
+      prepozicioj02: 
+        titolo: "Prijedlozi II"
+        vortoj: 
+          anstataŭ: umjesto
+          antaŭ: "pred, ispred"
+          apud: pored
+          ekster: izvan
+          el: iz
+          inter: među
+          je: "kod, u, (specijalni prijedlog, kada  nije moguće izraziti drugim prijedlozima)"
+          kontraŭ: "protiv, nasuprot"
+          malantaŭ: iza
+          per: "s (pomoću)"
+          post: iza
+          preter: mimo
+          pri: o
+          sen: bez
+          super: nad
+          tra: kroz
+          trans: preko
+          ĉirkaŭ: okolo
+      prepozicioj03: 
+        ekspliko-1: "Vidjeli smo u drugoj lekciji, da \"-n\" izražava komplement izravnog objekta. To je akuzativ. Na pr.:"
+        ekspliko-2: "Ako rečenica sadrži dva komlementa ili dopune, jedan od njih mora biti u neupravnom komplementu. Na pr.:"
+        ekspliko-3: "Takova upotreba prijedloga je neophodna, pa neupravni objekt ne dobiva nastavak za akuzativ. Evo još primjera:"
+        ekspliko-4: "Pravilo glasi: poslije prijedloga ne dolazi akuzativ. U nekim slučajevima akuzativ može zamijeniti prijedlog. O tome ćemo na slijedećoj stranici."
+        ekspliko-5: "Akuzativni nastavak može zamijeniti prijedlog, ako se smisao rečenice ne krnji. Doljni primjeri prikazuju oba slučaja:"
+        ekspliko-6: "Jedan prijedlog može slijediti drugog. Na pr.:"
+        ekspliko-7: "Ako neki od tih prijedloga označuje smjer kretanja (na pr. \"al\"), onda zamjenjujemo taj prijedlog akuzativnim završetkom (-n):"
+        ekspliko-8: "Uspoređujte tom rečenicom:"
+        ekspliko-9: "Pazite na razliku: U prvom slučaju sam bio izvan vrta, pa sam šetajući došao u vrt; u drugom slučaju sam bio u vrtu i tamo šetao."
+        frazo-1: "Ptica lovi kukca."
+        frazo-2: "Zahvaljujem vam (vas) radi vaše ljubaznosti."
+        frazo-3: "Čitam knjigu od Petra."
+        frazo-4: "Putovat ću u Ameriku."
+        frazo-5: "Pio je šalicu kave."
+        frazo-6: "Makni mi se predamnom!"
+        titolo: "Prijedlozi III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: doći
+          aŭtobuseto: kombibus
+          danki: zahvaliti
+          geamikoj: prijatelji
+          halti: stati
+          iri: ići
+          junularo: omladina
+          kongreso: kongres
+          membro: član
+          okazi: "dogoditi se"
+          seĝo: stolac
+          sidi: sjediti
+          tagmanĝo: ručak
+          viziti: posjetiti
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktik
+          Kanado: Kanada
+          admiri: "diviti se"
+          aŭtomobilo: automobil
+          besto: životinja
+          enirejo: ulaz
+          interesa: zanimljiv
+          kaĝo: kavez
+          kompleta: potpun
+          kontinento: kontinent
+          multa: mnogi
+          ofte: često
+          plaĉi_al: "sviđati se"
+          simili: sličiti
+          simio: majmun
+          urbo: grad
+          urso: medvjed
+          veturi: voziti
+          zoo: "zoološki vrt"
+          ĉar: jer

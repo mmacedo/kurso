@@ -1,0 +1,96 @@
+--- 
+is: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "Forsetningar eru smáorð sem sýna tengsl tveggja orða."
+        titolo: "Forsetningar I"
+        vortoj: 
+          al: til
+          da: "af (um magn)"
+          de: "frá (einnig notað til að mynda eignarfall)"
+          dum: "um, á meðan"
+          en: "í, á"
+          kun: "ásamt, með"
+          por: "fyrir, handa, til þess að"
+          pro: vegna
+          sub: undir
+          sur: á
+          ĉe: hjá
+          ĝis: "þangað til"
+      prepozicioj02: 
+        titolo: "Forsetningar II"
+        vortoj: 
+          anstataŭ: "í staðinn fyrir"
+          antaŭ: "fyrir, fyrir framan, á undan"
+          apud: hjá
+          ekster: "fyrir utan"
+          el: úr
+          inter: "á milli"
+          je: "je (forsetning sem notuð er þegar aðrar forsetningar eiga ekki við)"
+          kontraŭ: "á móti"
+          malantaŭ: "fyrir aftan"
+          per: með
+          post: "á eftir"
+          preter: "fram hjá"
+          pri: um
+          sen: án
+          super: yfir
+          tra: "í gegnum"
+          trans: "hinum megin"
+          ĉirkaŭ: "í kringum"
+      prepozicioj03: 
+        ekspliko-1: "Við sáum í annarri lexíu að \"-n\" táknar andlagsfall (þolfall).  Til dæmis:"
+        ekspliko-2: "Þegar í setningu eru tveir þolendur hlýtur annar að vera óbeinn þolandi. Til dæmis:"
+        ekspliko-3: "Þessi notkun á forsetningu er nauðsynleg og óbeini þolandinn fær ekki þolfallsendingu.  Hér eru fleiri dæmi."
+        ekspliko-4: "Þannig er það:  Á eftir forsetningu á ekki að nota andlagsfall.  Stundum getur andlagsfall komið í stað forsetningar.  Dæmi þess sjáum við á næstu síðu."
+        ekspliko-5: "Andlagsendinguna má nota í stað forsetningar ef merking raskast ekki.  Þetta sést í dæmunum sem hér fara á eftir."
+        ekspliko-6: "Forsetning getur fylgt annarri forsetningu.  Til dæmis:"
+        ekspliko-7: "Þegar einhver þessara forsetninga sýnir hreyfingu (t.d. \"al\"), getum við notað endingu andlagsfalls (\"-n\") í stað forsetningar."
+        ekspliko-8: "Berðu saman:"
+        ekspliko-9: "Taktu eftir muninum:  Í fyrra tilvikinu var ég fyrir utan garðinn og fór inn í hann; í því síðara var ég kominn inn í garðinn og gekk þar um (á staðnum).  M.ö.o. Í fyrri setningunni er talað um hreyfingu inn á staðinn og þeirri seinni inni á staðnum."
+        frazo-1: "Fugl veiðir skordýr."
+        frazo-2: "Ég þakka þér fyrir þægilegheitin."
+        frazo-3: "Ég les bókina sem Pétur á."
+        frazo-4: "Ég fer til Ameríku."
+        frazo-5: "Hann drakk bolla af kaffi."
+        frazo-6: "Farðu burt frá augliti mínu! (frá því að vera fyrir framan mig)."
+        titolo: "Forsetningar III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: "koma til"
+          aŭtobuseto: smárúta
+          danki: þakka
+          geamikoj: vinafólk
+          halti: stoppa
+          iri: fara
+          junularo: æskulýður
+          kongreso: þing
+          membro: félagi
+          okazi: "gerast, vera"
+          seĝo: stóll
+          sidi: sitja
+          tagmanĝo: hádegisverður
+          viziti: heimsækja
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: norðurheimskautssvæði
+          Kanado: Kanada
+          admiri: "dást að"
+          aŭtomobilo: bíll
+          besto: dýr
+          enirejo: inngangur
+          interesa: áhugaverður
+          kaĝo: búr
+          kompleta: "heill, allur"
+          kontinento: meginland
+          multa: mikill
+          ofte: oft
+          plaĉi_al: "falla í geð"
+          simili: líkjast
+          simio: api
+          urbo: borg
+          urso: björn
+          veturi: ferðast
+          zoo: dýragarður
+          ĉar: "af því að"

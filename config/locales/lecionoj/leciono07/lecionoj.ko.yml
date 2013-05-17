@@ -1,0 +1,102 @@
+--- 
+ko: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "전치사는 두 낱말 사이의 관계를 보여준다."
+        titolo: "전치사 1"
+        vortoj: 
+          al: "(...)에게,으로, 앞으로"
+          da: "수량을 나타내는 전치사"
+          de: "(...)의,으로부터"
+          dum: "(...)하는 동안"
+          en: "(...)안에, 에"
+          kun: "(...)와 함께"
+          por: "(...)을 위하여"
+          pro: (...)때문에
+          sub: (...)아래
+          sur: (...)위에
+          ĉe: "ĉe(...)  곁에, 에"
+          ĝis: ĝis(...)까지
+      prepozicioj02: 
+        titolo: 전치사2
+        vortoj: 
+          anstataŭ: anstataŭ(...)대신에
+          antaŭ: "antaŭ(...)전에, 앞에,이전에"
+          apud: (...)옆에
+          ekster: (...)바깥에
+          el: (...)으로부터
+          inter: 사이
+          je: "Je (무차별전치사라고도 함, 다른 전치사가 표현할 수 없는 경우에 쓰임)쓰임)"
+          kontraŭ: "kontraŭ정반대로, 맞은편에"
+          malantaŭ: malantaŭ(...)뒤에
+          per: "(...)로써(도구를 나타냄)"
+          post: "(...)뒤에, 이후에"
+          preter: (...)옆에서
+          pri: "(...)에 관하여"
+          sen: (...)없이
+          super: "(...)위에(닿지 않고, 떨어진 상태)"
+          tra: "(...)을 통하여"
+          trans: "(...)을 지나"
+          ĉirkaŭ: ĉirkaŭ(...)주위에
+      prepozicioj03: 
+        ekspliko-1: "제2과에서 어미<-N>이 직접목적의 목적어임을 알게 되었다. 이를<목적격어미>라고 합니다. 예:"
+        ekspliko-2: "문장에 두 개의 목적어를 가질 때, 둘 중에 하나는 간접목적어가 되어야 되어야 합니다. 예:"
+        ekspliko-3: "이 위의 전치사 사용은 필요하고, 간접목적어는 목적격어미를 가지지 않습니다. 여기에 다른 예문을보세요:"
+        ekspliko-4: |-
+            그렇게 된다: 즉 전치사 뒤에는 목적격을 두지 않고 주격을 씁니다.
+            단, 목적격어미가 전치사를 대신해 쓰일 수 있습니다. 
+            전치사를 대신하여 목적격어미<N>을 쓰는 경우도 있다. 그 점을 다음 페이지에서보게 된다.
+        ekspliko-5: "목적격어미를 전치사를 대신하여 사용할 수 있다, 단 그 때에는그 명확성이 분명히 드러나야 합니다. 아래의 에문들은 똑같은 의미를 가집니다"
+        ekspliko-6: "전치사가 다른 전치사를 동반하는 수도 있습니다. 예문:"
+        ekspliko-7: "전치사가 방향(AL)을 나타낼 때는  그 전치사를 목적격어미(N)로 대신할 수 있습니다:"
+        ekspliko-8: "다음 문장을 비교하시오:"
+        ekspliko-9: |-
+            차이점을 비교해 보세요:
+                       첫 예문:<내가 정원 밖에 있다가 산책하면서  정원 안으로 들어갔다.>
+                     둘째예문에선 <내가 이미 정원에 있었고, 그곳에서 나는 산책하고 있었다>
+        frazo-1: "새가 곤충을 잡는다."
+        frazo-2: "나는 당신의 친절에(대하여) 감사를 표합니다."
+        frazo-3: "나는 페트로의 책을 읽는다."
+        frazo-4: "나는 미국으로 여행할 것이다.vojaĝos"
+        frazo-5: "그는 한 잔의 커피를( 커피 한 잔을) 마셨다."
+        frazo-6: "내 앞에서 antaŭ사라져(꺼져!)!"
+        titolo: 전치사3
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: 도착하다
+          aŭtobuseto: aŭtobuso소형버스
+          danki: "감사하다, 고마움을 표시하다"
+          geamikoj: 남여친구들
+          halti: "멈추다, 서다"
+          iri: "걸어가다, 가다"
+          junularo: 청년(집단)
+          kongreso: 대회
+          membro: "회원,구성원"
+          okazi: "발생하다. 일어나다"
+          seĝo: seĝo의자
+          sidi: 앉다
+          tagmanĝo: tagmanĝo점심
+          viziti: 방문하다
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: 극지방
+          Kanado: 캐나다
+          admiri: 존경하다
+          aŭtomobilo: aŭtomobilo자동차
+          besto: 동물
+          enirejo: 입구
+          interesa: "흥미로운, 흥미롭다"
+          kaĝo: kaĝo새장
+          kompleta: "완벽(완전)한, 완벽(완전)하다"
+          kontinento: 대륙
+          multa: "많은, 많다"
+          ofte: "자주,빈번하게"
+          plaĉi_al: "plaĉi al (...)에 마음에 들다"
+          simili: 비슷하다
+          simio: 원숭이
+          urbo: "도시, 시"
+          urso: 곰
+          veturi: "(...)을 타고 가다"
+          zoo: 동물원
+          ĉar: ĉar왜냐하면

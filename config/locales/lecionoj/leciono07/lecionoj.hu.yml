@@ -1,0 +1,96 @@
+--- 
+hu: 
+  lecionoj: 
+    leciono07: 
+      prepozicioj01: 
+        ekspliko: "A viszonyszók a szavak közötti összefüggéseket mutatják."
+        titolo: "Viszonyszók I"
+        vortoj: 
+          al: "felé, valamilyen irányba"
+          da: "-nyi valamibõl (mennyiségi viszony)"
+          de: "-tól, -tõl, -ról, -rõl, óta, miatt, által, -nak, -nek"
+          dum: "alatt, azalatt, mialatt"
+          en: "-ban, -ben"
+          kun: "-val, -vel"
+          por: "-ért, végett, .. célból"
+          pro: "-ért, miatt, .. okból"
+          sub: alatt
+          sur: "-on, -en, -ön"
+          ĉe: "-nál, -nél"
+          ĝis: "-ig, míg, amíg"
+      prepozicioj02: 
+        titolo: "Viszonyszók II"
+        vortoj: 
+          anstataŭ: helyett
+          antaŭ: elõtt
+          apud: mellett
+          ekster: "kívül(re) (hol?, hová? kérdésekre)"
+          el: "-ból; -bõl"
+          inter: közte
+          je: "Határozatlan viszonyszó, amelyet akkor használunk, amikor nem találunk más arra alkalmasat."
+          kontraŭ: "szemben, ellentétben, ellenében, ellen"
+          malantaŭ: mögött
+          per: "-val, -vel, által"
+          post: "után, mögötte, múlva, múltán, 'sorrendben utána'"
+          preter: "mellett (elmenve), mentén, mentében"
+          pri: "azzal kapcsolatban, arról.."
+          sen: nélkül
+          super: "fölött, fölé"
+          tra: keresztül
+          trans: "-n túl,-n túlról, át, túlra"
+          ĉirkaŭ: körül
+      prepozicioj03: 
+        ekspliko-1: "A második leckében láttuk, hogy az \"-n\" mutatja a közvetlen tárgyat. Ez a tárgyeset. Példák:"
+        ekspliko-2: "Amikor egy mondatnak két tárgya van, akkor az egyik a közvetett tárgy kell, hogy legyen. Példa:"
+        ekspliko-3: "A viszonyszónak a fenti használata szükséges, a közvetett tárgy nem kap tárgyas végzõdést. További példák következnek:"
+        ekspliko-4: "Ne használd a tárgyesetet viszonyszó után! Van néhány eset, amikor a tárgyeset helyettesíthet egy viszonyszót. Ezt látni fogjuk a következõ oldalon."
+        ekspliko-5: "A tárgyas végzõdést lehet használni egy viszonyszó helyettesítésére, amikor az érthetõség azt megengedi. A következõ példák egyenértékûek:"
+        ekspliko-6: "Egy viszonyszó kísérhet egy másik viszonyszót. Példa:"
+        ekspliko-7: "Amikor az egyik viszonyszó  mozgást jelez (pl.:\"al\"), akkor helyettesíthetjük a tárgyas \"-n\"-t:"
+        ekspliko-8: "Hasonlítsd össze a következõ mondattal:"
+        ekspliko-9: "Jegyezd meg a különbséget:  A fenti, két egyenértékû mondatban a kerten kívül voltam, és a kert belseje felé sétáltam.  Az alsó mondatban már a kerten belül voltam, és ott sétáltam."
+        frazo-1: "Egy madár elkapja a rovart."
+        frazo-2: "Köszönöm a kedvességedet."
+        frazo-3: "Olvasom Péter könyvét."
+        frazo-4: "Amerikába fogok utazni."
+        frazo-5: "Õ(férfi) ivott egy csésze kávét."
+        frazo-6: "Takarodj elõlem!"
+        titolo: "Viszonyszók III"
+      tekstokompreno02: 
+        vortaro: 
+          alveni_al: érkezni
+          aŭtobuseto: kisbusz
+          danki: megköszönni
+          geamikoj: "barátok (mindkét nem)"
+          halti: megállni
+          iri: menni
+          junularo: fiatalság
+          kongreso: kongresszus
+          membro: tag
+          okazi: "történni, megtörténni"
+          seĝo: szék
+          sidi: "ülni, ülve lenni"
+          tagmanĝo: ebéd
+          viziti: látogatni
+      tekstokompreno03: 
+        vortaro: 
+          Arkto: Arktisz
+          Kanado: Kanada
+          admiri: csodálni
+          aŭtomobilo: gépkocsi
+          besto: állat
+          enirejo: bejárat
+          interesa: érdekes
+          kaĝo: ketrec
+          kompleta: teljes
+          kontinento: földrész
+          multa: sok
+          ofte: gyakran
+          plaĉi_al: "tetszeni  ..-nak(-nek)"
+          simili: hasonlítani
+          simio: majom
+          urbo: város
+          urso: medve
+          veturi: utazni
+          zoo: állatkert
+          ĉar: mert
