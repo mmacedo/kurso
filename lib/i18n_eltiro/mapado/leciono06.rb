@@ -1,6 +1,6 @@
 I18nEltiro::Mapado.agordi do
   atingo 'lecionoj.leciono06' do
-    al 'korelativoj2' do
+    al 'korelativoj02' do
       mapi 'l006', 'titolo'
       mapi 'l001', 'ekspliko'
     end
