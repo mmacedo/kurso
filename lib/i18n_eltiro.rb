@@ -5,7 +5,7 @@ require 'i18n_eltiro/mapado'
 require 'i18n_eltiro/skribanto'
 
 module I18nEltiro
-  LINGVOJ = { ar: "araba", ch: "china", en: "angla", eo: "esperanto", it: "itala", pt: "portugala", hi: "hinda", sr: "serba" }
+  LINGVOJ = { ar: "araba", ch: "china", en: "angla", eo: "esperanto", it: "itala", pt: "portugala", hi: "hinda", sl: "slovena", sr: "serba" }
 
   def self.lingvoj
     LINGVOJ
@@ -35,9 +35,7 @@ module I18nEltiro
         @trd_dosieroj = Dir[eniga.join("{#{ŝablono}}.trd")].sort
       end
 
-      # Malaktivigas paralelan ekzekuton se elpurigante
-      @procezoj = if sinsekva then 0 else 4 end
-
+      @sinsekva = sinsekva
       @skribantoj = I18nEltiro.konstrui_skribantoj(Rails.root, eliga)
     end
 
@@ -46,6 +44,9 @@ module I18nEltiro
     end
 
     def konverti
+      # Malaktivigas paralelan ekzekuton se elpurigante
+      @procezoj = if @sinsekva then 0 else 4 end
+
       Parallel.each(@trd_dosieroj, in_processes: @procezoj) do |dosiero|
         begin
           # Legas INI
@@ -58,8 +59,8 @@ module I18nEltiro
           # Skribas YML
           @skribantoj.each { |skribanto| skribanto.savi(lingvo, normaligito) }
         rescue
-          p "Error processing '#{dosiero}'!"
-          raise
+          print "\033[1;31mEraro prilaborante '#{File.basename(dosiero)}'!\033[0m\n"
+          raise if @sinsekva
         end
       end
     end

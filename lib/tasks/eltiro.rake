@@ -23,7 +23,7 @@ namespace :eltiro do
   I18nEltiro.lingvoj.except(:eo).keys.each do |lokaĵo|
     desc_eltiro_i18n ":eo, :#{lokaĵo}"
     task "i18n:#{lokaĵo}" => :environment do
-      I18nEltiro::Konvertilo.new(nur: [:eo, lokaĵo], eliga: %i[yml ai]).konverti
+      I18nEltiro::Konvertilo.new(nur: [:eo, lokaĵo], eliga: %i[yml ai], sinsekva: true).konverti
     end
   end
 end

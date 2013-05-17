@@ -8,11 +8,11 @@ module I18nEltiro
         # Reverki parametrojn nomojn, fari ĝin pli legebla
         parametroj = Hash[parametroj.map do |klavo, valoro|
           # turni Label12 en l012
-          /Label(\d+)/.match klavo do |m|klavo =
+          /Label(\d+)/i.match klavo do |m|klavo =
             klavo = klavo.gsub(m[0], "l" + m[1].rjust(3, '0'))
           end
           # turni Frame5 en f05
-          /Frame(\d+)/.match klavo do |m|
+          /Frame(\d+)/i.match klavo do |m|
             klavo = klavo.gsub(m[0], "f" + m[1].rjust(2, '0'))
           end
 
@@ -23,17 +23,15 @@ module I18nEltiro
         end]
 
         # Procesi ekzercojn
-        if sekcio.start_with? 'Ekzerco-'
-          klavo = sekcio.match(/^Ekzerco-(.+)$/)[1]
+        if m = sekcio.match(/\AEkzerco-(.+)\z/im)
+          klavo = m[1]
           # Konverti al listo
           opcioj = parametroj.length.times.map {|i| parametroj[i.to_s] }
           rezulto['ekzercoj']["ekzerco-#{klavo}".downcase] = opcioj
-
         # Procesi eksplikojn de la lecionoj
-        elsif sekcio =~ /^Lec\d{2}$/
-          klavo = sekcio.match(/^Lec(\d{2})$/)[1]
+        elsif m = sekcio.match(/\ALec(\d{2})\z/im)
+          klavo = m[1]
           rezulto['lecionoj']["leciono#{klavo}".downcase] = parametroj
-
         # Procesi aliajn agordojn
         else
           rezulto['aliaj'][sekcio.downcase] = parametroj
