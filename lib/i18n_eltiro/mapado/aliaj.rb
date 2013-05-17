@@ -25,7 +25,7 @@ I18nEltiro::Mapado.agordi do
   el 'lecionoj.leciono05' do
     forigi 'l008' # traduku
     forigi 'l018' # vortaro
-    forigi 'l022', escepte: %i(sl) # rimarkigo
+    forigi 'l022' # rimarkigo
   end
   el 'lecionoj.leciono07' do
     forigi 'l002' # tekstokompreno

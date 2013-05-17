@@ -4,20 +4,6 @@ module I18nEltiro
     def normaligi(lingvo, enhavo)
       rezulto = { 'ekzercoj' => {}, 'lecionoj' => {}, 'aliaj' => {} }
 
-      # Antaŭ-procezi specialajn okazojn
-      if lingvo.intern == :sl
-        if enhavo.has_key? 'lec05A' and not enhavo.has_key? 'Lec06'
-          enhavo['Lec06'] = enhavo.delete('lec05A')
-        else
-          raise "Speciala okazo por slovena malsukcesis: renomi [lec05A] al [Lec06]"
-        end
-        if enhavo.has_key? 'lec07' and enhavo.has_key? 'Lec07'
-          enhavo['Lec07'].merge! enhavo.delete('lec07')
-        else
-          raise "Speciala okazo por slovena malsukcesis: kombini [lec07] en [Lec07]"
-        end
-      end
-
       enhavo.each do |sekcio, parametroj|
         # Reverki parametrojn nomojn, fari ĝin pli legebla
         parametroj = Hash[parametroj.map do |klavo, valoro|

@@ -26,7 +26,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l501', 'okazi'
         mapi 'l502', 'aŭtobuseto'
         mapi 'l503', 'alveni_al'
-        mapi 'l504', 'tagmanĝo', escepte: %i(sl)
+        mapi 'l504', 'tagmanĝo'
         mapi 'l505', 'geamikoj'
         mapi 'l506', 'iri'
         mapi 'l507', 'kongreso'
