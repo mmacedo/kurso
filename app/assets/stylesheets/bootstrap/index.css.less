@@ -4,8 +4,24 @@
 @import "bootstrap/komponantoj";
 @import "bootstrap/ekstraj";
 
-// Necesa por respondema fiksita supra navbar
-body { padding-top: 85px; }
+// Necesas por respondema fiksita supra navbar
+body {
+  padding-top: @navbarHeight + @supraNavbarRando;
+}
+
+// Riparas HTML nomatajn ankrojn
+section {
+  padding-top: @navbarHeight + @supraNavbarRando;
+  margin-top: -(@navbarHeight + @supraNavbarRando);
+}
+
+// Malfaras riparon por respondema
+@media (max-width: @navbarCollapseWidth) {
+  section {
+    padding-top: @supraNavbarRando;
+    margin-top: -@supraNavbarRando;
+  }
+}
 
 @import "bootstrap/respondema";
 
