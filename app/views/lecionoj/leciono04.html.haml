@@ -1,21 +1,35 @@
 %h1 Leciono 4
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#salutoj'}= t('.salutoj.titolo')
+        %a{href: '#salutoj'}
+          %i.icon-chevron-right
+          = t('.salutoj.titolo')
       %li
-        %a{href: '#tagoj'}= t('.tagoj.titolo')
+        %a{href: '#tagoj'}
+          %i.icon-chevron-right
+          = t('.tagoj.titolo')
       %li
-        %a{href: '#monatoj'}= t('.monatoj.titolo')
+        %a{href: '#monatoj'}
+          %i.icon-chevron-right
+          = t('.monatoj.titolo')
       %li
-        %a{href: '#datoj'}= t('.datoj.titolo')
+        %a{href: '#datoj'}
+          %i.icon-chevron-right
+          = t('.datoj.titolo')
       %li
-        %a{href: '#demandoj'}= t('.demandoj.titolo')
+        %a{href: '#demandoj'}
+          %i.icon-chevron-right
+          = t('.demandoj.titolo')
       %li
-        %a{href: '#vortaro04'}= t('lecionoj.aliaj.dividitoj.vortaro')
+        %a{href: '#vortaro04'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.vortaro')
       %li
-        %a{href: '#tekstokompreno01'}= t('lecionoj.aliaj.dividitoj.tekstokompreno')
+        %a{href: '#tekstokompreno01'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.tekstokompreno')
   .span9
     %section#salutoj
       = render "lecionoj/leciono04/salutoj"

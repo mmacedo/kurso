@@ -2,7 +2,7 @@
 @import "bootstrap/miksajxoj";
 @import "bootstrap/bazo";
 @import "bootstrap/komponantoj";
-@import "bootstrap/ekstraj";
+@import "bootstrap/ekstraj/index";
 
 // Necesas por respondema fiksita supra navbar
 body {
@@ -46,4 +46,12 @@ section {
   .nav-collapse .dropdown-menu a:focus {
     background-color: @navbarLinkBackgroundHover;
   }
+}
+
+section > .page-header,
+section > .lead {
+  color: #5a5a5a;
+}
+section > ul li {
+  margin-bottom: 5px;
 }

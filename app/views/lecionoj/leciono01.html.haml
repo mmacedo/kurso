@@ -1,25 +1,43 @@
 %h1 Leciono 1
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#alfabeto'}= t('.alfabeto.titolo')
+        %a{href: '#alfabeto'}
+          %i.icon-chevron-right
+          = t('.alfabeto.titolo')
       %li
-        %a{href: '#personaj_pronomoj'}= t('.personaj_pronomoj.titolo')
+        %a{href: '#personaj_pronomoj'}
+          %i.icon-chevron-right
+          = t('.personaj_pronomoj.titolo')
       %li
-        %a{href: '#verboj'}= t('.verboj.titolo')
+        %a{href: '#verboj'}
+          %i.icon-chevron-right
+          = t('.verboj.titolo')
       %li
-        %a{href: '#nomoj'}= t('.nomoj.titolo')
+        %a{href: '#nomoj'}
+          %i.icon-chevron-right
+          = t('.nomoj.titolo')
       %li
-        %a{href: '#adjektivoj'}= t('.adjektivoj.titolo')
+        %a{href: '#adjektivoj'}
+          %i.icon-chevron-right
+          = t('.adjektivoj.titolo')
       %li
-        %a{href: '#vortaro01'}= t('lecionoj.aliaj.dividitoj.vortaro')
+        %a{href: '#vortaro01'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.vortaro')
       %li
-        %a{href: '#pluralo'}= t('.pluralo.titolo')
+        %a{href: '#pluralo'}
+          %i.icon-chevron-right
+          = t('.pluralo.titolo')
       %li
-        %a{href: '#posedaj_pronomoj'}= t('.posedaj_pronomoj.titolo')
+        %a{href: '#posedaj_pronomoj'}
+          %i.icon-chevron-right
+          = t('.posedaj_pronomoj.titolo')
       %li
-        %a{href: '#artikolo'}= t('.artikolo.titolo')
+        %a{href: '#artikolo'}
+          %i.icon-chevron-right
+          = t('.artikolo.titolo')
   .span9
     %section#alfabeto
       = render "lecionoj/leciono01/alfabeto"

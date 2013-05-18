@@ -1,17 +1,27 @@
 %h1 Leciono 3
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#adverboj'}= t('.adverboj.titolo')
+        %a{href: '#adverboj'}
+          %i.icon-chevron-right
+          = t('.adverboj.titolo')
       %li
-        %a{href: '#numeraloj'}= t('.numeraloj.titolo')
+        %a{href: '#numeraloj'}
+          %i.icon-chevron-right
+          = t('.numeraloj.titolo')
       %li
-        %a{href: '#adjektivoj_el_numeraloj'}= t('.adjektivoj_el_numeraloj.titolo')
+        %a{href: '#adjektivoj_el_numeraloj'}
+          %i.icon-chevron-right
+          = t('.adjektivoj_el_numeraloj.titolo')
       %li
-        %a{href: '#adverboj_el_numeraloj'}= t('.adverboj_el_numeraloj.titolo')
+        %a{href: '#adverboj_el_numeraloj'}
+          %i.icon-chevron-right
+          = t('.adverboj_el_numeraloj.titolo')
       %li
-        %a{href: '#vortaro03'}= t('lecionoj.aliaj.dividitoj.vortaro')
+        %a{href: '#vortaro03'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
     %section#adverboj
       = render "lecionoj/leciono03/adverboj"

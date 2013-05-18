@@ -1,5 +1,7 @@
+#= require twitter/bootstrap/affix.js
 #= require twitter/bootstrap/collapse.js
 #= require twitter/bootstrap/dropdown.js
+#= require twitter/bootstrap/scrollspy.js
 #= require twitter/bootstrap/transition.js
 
 # require twitter/bootstrap/affix.js
@@ -15,3 +17,15 @@
 # require twitter/bootstrap/tab.js
 # require twitter/bootstrap/transition.js
 # require twitter/bootstrap/typeahead.js
+
+$ ->
+  $('.bs-docs-apudnav').each ->
+    $spy = $(@)
+    $spy.affix
+      offset:
+        top: $spy.position().top - $('.navbar-fixed-top').height()
+
+  $('.apudstango').length and
+    $(document.body).scrollspy
+      offset: 85
+      target: '.apudstango'

@@ -1,21 +1,35 @@
 %h1 Leciono 5
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#korelativoj01'}= t('.korelativoj01.titolo')
+        %a{href: '#korelativoj01'}
+          %i.icon-chevron-right
+          = t('.korelativoj01.titolo')
       %li
-        %a{href: '#korelativoj_u'} -u
+        %a{href: '#korelativoj_u'}
+          %i.icon-chevron-right
+          \-u
       %li
-        %a{href: '#korelativoj_e'} -e
+        %a{href: '#korelativoj_e'}
+          %i.icon-chevron-right
+          \-e
       %li
-        %a{href: '#korelativoj_am'} -am
+        %a{href: '#korelativoj_am'}
+          %i.icon-chevron-right
+          \-am
       %li
-        %a{href: '#korelativoj_o'} -o
+        %a{href: '#korelativoj_o'}
+          %i.icon-chevron-right
+          \-o
       %li
-        %a{href: '#korelativoj_cxi'} Ĉi
+        %a{href: '#korelativoj_cxi'}
+          %i.icon-chevron-right
+          Ĉi
       %li
-        %a{href: '#vortaro05'}= t('lecionoj.aliaj.dividitoj.vortaro')
+        %a{href: '#vortaro05'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
     %section#korelativoj01
       = render "lecionoj/leciono05/korelativoj01"

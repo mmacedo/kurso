@@ -1,17 +1,27 @@
 %h1 Leciono 2
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#sufikso_ino'}= t('.sufikso_ino.titolo')
+        %a{href: '#sufikso_ino'}
+          %i.icon-chevron-right
+          = t('.sufikso_ino.titolo')
       %li
-        %a{href: '#akuzativo'}= t('.akuzativo.titolo')
+        %a{href: '#akuzativo'}
+          %i.icon-chevron-right
+          = t('.akuzativo.titolo')
       %li
-        %a{href: '#prefikso_mal'}= t('.prefikso_mal.titolo')
+        %a{href: '#prefikso_mal'}
+          %i.icon-chevron-right
+          = t('.prefikso_mal.titolo')
       %li
-        %a{href: '#neado'}= t('.neado.titolo')
+        %a{href: '#neado'}
+          %i.icon-chevron-right
+          = t('.neado.titolo')
       %li
-        %a{href: '#vortaro02'}= t('lecionoj.aliaj.dividitoj.vortaro')
+        %a{href: '#vortaro02'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
     %section#sufikso_ino
       = render "lecionoj/leciono02/sufikso_ino"

@@ -6,7 +6,7 @@ module ApplicationHelper
   alias :l2 :formati_nombro
 
   def rimarkigo
-    content_tag :div, class:                   'bsdocs-skatolo',
+    content_tag :div, class:                   'bs-docs-skatolo',
                       'data-skatolo-titolo' => t('lecionoj.aliaj.dividitoj.rimarkigo') do
       yield
     end

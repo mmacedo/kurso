@@ -1,21 +1,35 @@
 %h1 Leciono 6
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#korelativoj02'}= t('.korelativoj02.titolo')
+        %a{href: '#korelativoj02'}
+          %i.icon-chevron-right
+          = t('.korelativoj02.titolo')
       %li
-        %a{href: '#korelativoj_el'} -el
+        %a{href: '#korelativoj_el'}
+          %i.icon-chevron-right
+          \-el
       %li
-        %a{href: '#korelativoj_om'} -om
+        %a{href: '#korelativoj_om'}
+          %i.icon-chevron-right
+          \-om
       %li
-        %a{href: '#korelativoj_al'} -al
+        %a{href: '#korelativoj_al'}
+          %i.icon-chevron-right
+          \-al
       %li
-        %a{href: '#korelativoj_es'} -es
+        %a{href: '#korelativoj_es'}
+          %i.icon-chevron-right
+          \-es
       %li
-        %a{href: '#korelativoj_a'} -a
+        %a{href: '#korelativoj_a'}
+          %i.icon-chevron-right
+          \-a
       %li
-        %a{href: '#relativoj'}= t('.relativoj.titolo')
+        %a{href: '#relativoj'}
+          %i.icon-chevron-right
+          = t('.relativoj.titolo')
   .span9
     %section#korelativoj02
       = render "lecionoj/leciono06/korelativoj02"

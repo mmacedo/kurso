@@ -1,17 +1,27 @@
 %h1 Leciono 7
 .row
-  .span3
-    %ul.nav.nav-list
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
       %li
-        %a{href: '#prepozicioj01'}= t('.prepozicioj01.titolo')
+        %a{href: '#prepozicioj01'}
+          %i.icon-chevron-right
+          = t('.prepozicioj01.titolo')
       %li
-        %a{href: '#tekstokompreno02'}= t('lecionoj.aliaj.dividitoj.tekstokompreno')
+        %a{href: '#tekstokompreno02'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.tekstokompreno')
       %li
-        %a{href: '#prepozicioj02'}= t('.prepozicioj02.titolo')
+        %a{href: '#prepozicioj02'}
+          %i.icon-chevron-right
+          = t('.prepozicioj02.titolo')
       %li
-        %a{href: '#tekstokompreno03'}= t('lecionoj.aliaj.dividitoj.tekstokompreno')
+        %a{href: '#tekstokompreno03'}
+          %i.icon-chevron-right
+          = t('lecionoj.aliaj.dividitoj.tekstokompreno')
       %li
-        %a{href: '#prepozicioj03'}= t('.prepozicioj03.titolo')
+        %a{href: '#prepozicioj03'}
+          %i.icon-chevron-right
+          = t('.prepozicioj03.titolo')
   .span9
     %section#prepozicioj01
       = render "lecionoj/leciono07/prepozicioj01"
