@@ -13,8 +13,13 @@
       %li
         %a{href: '#vortaro02'}= t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
-    = render "lecionoj/leciono02/sufikso_ino"
-    = render "lecionoj/leciono02/akuzativo"
-    = render "lecionoj/leciono02/prefikso_mal"
-    = render "lecionoj/leciono02/neado"
-    = render "lecionoj/leciono02/vortaro02"
+    %section#sufikso_ino
+      = render "lecionoj/leciono02/sufikso_ino"
+    %section#akuzativo
+      = render "lecionoj/leciono02/akuzativo"
+    %section#prefikso_mal
+      = render "lecionoj/leciono02/prefikso_mal"
+    %section#neado
+      = render "lecionoj/leciono02/neado"
+    %section#vortaro02
+      = render "lecionoj/leciono02/vortaro02"

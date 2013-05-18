@@ -13,14 +13,21 @@
       %li
         %a{href: '#korelativoj_o'} -o
       %li
-        %a{href: '#korelativoj_cxi'} ĉi-
+        %a{href: '#korelativoj_cxi'} Ĉi
       %li
         %a{href: '#vortaro05'}= t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
-    = render "lecionoj/leciono05/korelativoj01"
-    = render "lecionoj/leciono05/korelativoj_u"
-    = render "lecionoj/leciono05/korelativoj_e"
-    = render "lecionoj/leciono05/korelativoj_am"
-    = render "lecionoj/leciono05/korelativoj_o"
-    = render "lecionoj/leciono05/korelativoj_cxi"
-    = render "lecionoj/leciono05/vortaro05"
+    %section#korelativoj01
+      = render "lecionoj/leciono05/korelativoj01"
+    %section#korelativoj_u
+      = render "lecionoj/leciono05/korelativoj_u"
+    %section#korelativoj_e
+      = render "lecionoj/leciono05/korelativoj_e"
+    %section#korelativoj_am
+      = render "lecionoj/leciono05/korelativoj_am"
+    %section#korelativoj_o
+      = render "lecionoj/leciono05/korelativoj_o"
+    %section#korelativoj_cxi
+      = render "lecionoj/leciono05/korelativoj_cxi"
+    %section#vortaro05
+      = render "lecionoj/leciono05/vortaro05"

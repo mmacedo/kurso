@@ -13,8 +13,13 @@
       %li
         %a{href: '#vortaro03'}= t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
-    = render "lecionoj/leciono03/adverboj"
-    = render "lecionoj/leciono03/numeraloj"
-    = render "lecionoj/leciono03/adjektivoj_el_numeraloj"
-    = render "lecionoj/leciono03/adverboj_el_numeraloj"
-    = render "lecionoj/leciono03/vortaro03"
+    %section#adverboj
+      = render "lecionoj/leciono03/adverboj"
+    %section#numeraloj
+      = render "lecionoj/leciono03/numeraloj"
+    %section#adjektivoj_el_numeraloj
+      = render "lecionoj/leciono03/adjektivoj_el_numeraloj"
+    %section#adverboj_el_numeraloj
+      = render "lecionoj/leciono03/adverboj_el_numeraloj"
+    %section#vortaro03
+      = render "lecionoj/leciono03/vortaro03"

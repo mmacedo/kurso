@@ -21,12 +21,21 @@
       %li
         %a{href: '#artikolo'}= t('.artikolo.titolo')
   .span9
-    = render "lecionoj/leciono01/alfabeto"
-    = render "lecionoj/leciono01/personaj_pronomoj"
-    = render "lecionoj/leciono01/verboj"
-    = render "lecionoj/leciono01/nomoj"
-    = render "lecionoj/leciono01/adjektivoj"
-    = render "lecionoj/leciono01/vortaro01"
-    = render "lecionoj/leciono01/pluralo"
-    = render "lecionoj/leciono01/posedaj_pronomoj"
-    = render "lecionoj/leciono01/artikolo"
+    %section#alfabeto
+      = render "lecionoj/leciono01/alfabeto"
+    %section#personaj_pronomoj
+      = render "lecionoj/leciono01/personaj_pronomoj"
+    %section#verboj
+      = render "lecionoj/leciono01/verboj"
+    %section#nomoj
+      = render "lecionoj/leciono01/nomoj"
+    %section#adjektivoj
+      = render "lecionoj/leciono01/adjektivoj"
+    %section#vortaro01
+      = render "lecionoj/leciono01/vortaro01"
+    %section#pluralo
+      = render "lecionoj/leciono01/pluralo"
+    %section#posedaj_pronomoj
+      = render "lecionoj/leciono01/posedaj_pronomoj"
+    %section#artikolo
+      = render "lecionoj/leciono01/artikolo"
