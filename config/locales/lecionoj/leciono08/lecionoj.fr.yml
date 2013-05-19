@@ -1,0 +1,184 @@
+--- 
+fr: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "D'égalité :"
+          frazo-1: "L'espéranto est aussi beau qu'utile."
+          frazo-2: "Rien n'a une aussi grande valeur que la santé."
+          frazo-3: "Elle est aussi belle que la mère."
+        malsupereco: 
+          ekspliko: "D'infériorité :"
+          frazo-1: "Mon frère est moins âgé que moi."
+          frazo-2: "Il écrit moins \"joliment\" que la fille."
+          frazo-3: "Le mari parle moins fort que la femme."
+        supereco: 
+          ekspliko: "De supériorité :"
+          frazo-1: "Le lait est plus nourrissant que le vin."
+          frazo-2: "Jean est plus grand que Pierre."
+          frazo-3: "Le soleil est plus grand que la lune."
+        titolo: Comparatif
+      prefiksoj01: 
+        bo: 
+          bofilo: "gendre, beau-fils"
+          bofratino: belle-soeur
+          bopatrino: belle-mère
+          bopatro: beau-père
+          ekspliko: "exprime la parenté acquise par mariage"
+        dis: 
+          disdoni: distribuer
+          disfali: "tomber en morceaux"
+          disflugi: "se disperser (en volant)"
+          dissemi: disséminer
+          ekspliko: "exprime l'idée de séparation en plusieurs morceaux, de dispersion"
+        duon: 
+          duondio: demi-dieu
+          duonfilino: "belle-fille (mariage précédent)"
+          duonhoro: "une demi-heure"
+          duonlumo: pénombre
+          ekspliko: "à moitié"
+          filino: fille
+          horo: "une heure"
+        ek: 
+          ekbrilo: "éclair (lueur vive)"
+          ekdormi: s'endormir
+          ekiri: "se mettre en marche"
+          ekpluvi: "se mettre à pleuvoir"
+          ekspliko: "indique une action qui commence ou une action subite et momentanée"
+        eks: 
+          eksedziĝi: divorcer
+          eksfianĉo: ex-fiancé
+          eksiĝi: démissionner
+          ekspliko: "indique une action ou un état qui n'existe plus"
+          eksprezidanto: ex-président
+        fi: 
+          ekspliko: "idée de mépris ; mauvais d'un point de vue moral"
+          fidomo: "maison louche"
+          fikomercisto: "(marchand) escroc"
+          fivirino: "une femme de mauvaise vie"
+          komercisto: commerçant
+        ge: 
+          ekspliko: "indique qu'il s'agit des deux sexes (pour deux personnes ou plus)"
+          geamikoj: "amis (des deux sexes)"
+          gefiloj: "des enfants (des deux sexes)"
+          gefratoj: "frère(s) et soeur(s)"
+          gepatroj: "des parents (père et mère)"
+        mal: 
+          dekstro: droite
+          ekspliko: "indique l'opposé, le contraire, l'inverse"
+          fermi: fermer
+          maldekstro: gauche
+          malfermi: ouvrir
+        mis: 
+          ekspliko: "indique que l'action a été faite de travers, mal à propos ou par erreur"
+          kompreni: comprendre
+          miskompreni: "comprendre de travers"
+          mispaŝo: "faux pas"
+          misuzo: "mauvaise utilisation"
+          paŝo: "un pas"
+          uzo: "utilisation, emploi"
+        pra: 
+          ekspliko: "éloignement dans le temps ou dans le degré de parenté"
+          historio: histoire
+          nepo: petit-fils
+          praavo: arrière-grand-père
+          prahistorio: préhistoire
+          prahomo: "l'homme primitif"
+          pranepo: arrière-petit-fils
+        re: 
+          ekspliko: "répétition, retour"
+          reaperi: réapparaître
+          refari: refaire
+          reteni: retenir
+          reveni: revenir
+        titolo: Préfixes
+      sufiksoj01: 
+        ad: 
+          ekspliko: "indique une action prolongée, répétée ou habituelle"
+          parolado: discours
+          paroli: parler
+          rigardadi: "regarder longuement"
+          rigardi: regarder
+        an: 
+          Kristo: Christ
+          brazilano: Brésilien
+          ekspliko: "membre d'un groupe, d'un parti, d'une religion ; habitant d'un pays ou d'une région"
+          eŭropano: Européen
+          kanadano: Canadien
+          kristano: chrétien
+          usonano: "habitant des Etats-Unis"
+        ar: 
+          ekspliko: "groupe, collection d'objets ou d'êtres de même espèce et formant un ensemble"
+          vortaro: "vocabulaire, dictionnaire"
+          vorto: mot
+          ŝafaro: "troupeau (de moutons)"
+          ŝafo: mouton
+        aĉ: 
+          domaĉo: "taudis, masure"
+          domo: maison
+          ekspliko: "donne à la racine une nuance péjorative"
+          skribaĉi: griffonner
+          skribi: écrire
+        aĵ: 
+          dolĉa: "doux, douce"
+          dolĉaĵo: "douceur, friandise"
+          ekspliko: "chose, objet qui concrétise l'idée indiquée par la racine"
+          pentraĝo: peinture
+          pentri: peindre
+        ebl: 
+          ekspliko: "exprime la possibilité passive : qui peut être... qu'on peut..."
+          kredebla: crédible
+          kredi: croire
+          legebla: lisible
+          legi: lire
+          videbla: visible
+          vidi: voir
+        ec: 
+          amikeco: amitié
+          amiko: ami
+          ekspliko: "indique l'état ou la qualité abstraite correspondant à l'idée de la racine"
+          mola: mou
+          moleco: mollesse
+        eg: 
+          ekspliko: "grand, qui augmente, qui amplifie"
+          ridegi: "rire aux éclats"
+          ridi: rire
+          ventego: tempête
+          vento: vent
+        ej: 
+          ekspliko: "lieu en rapport avec l'action ou les êtres que la racine indique"
+          oficejo: bureau
+          ofico: "emploi, fonction"
+          preĝejo: église
+          preĝi: prier
+          ĉevalejo: écurie
+          ĉevalo: cheval
+        em: 
+          babilema: bavard
+          babili: bavarder
+          ekspliko: "indique le penchant, volontaire ou non, la tendance à quelque chose"
+          ŝparema: économe
+          ŝpari: "épargner, économiser"
+        end: 
+          ekspliko: "indique l'obligation passive : qui doit être... qu'il faut..."
+          farenda: "à faire"
+          fari: faire
+          legenda: "à lire, qu'il faut lire"
+          legi: lire
+        titolo: Suffixes
+        ĉj: 
+          ekspliko: "diminutif masculin (avec le début de la racine et en conservant l'euphonie)"
+          jozefo: Joseph
+          joĉjo: Jo
+          patro: père
+          paĉjo: papa
+      superlativo: 
+        ekspliko-1: "Superlatif : quand l'un des éléments possède une caractéristique d'intensité plus forte ou moins forte que tous les autres."
+        ekspliko-2: "Quand il y a seulement deux éléments (personnes, choses etc.), on doit utiliser PLI ou MALPLI. On procède de la même manière lorsqu'il s'agit de deux groupes :"
+        frazo-1: "De tous mes enfants, Ernest est le plus jeune."
+        frazo-2: "De tous mes collègues, Marc est le plus fort."
+        frazo-3: "Ils ont choisi la plus belle fille comme reine."
+        frazo-4: "La plus forte des mains."
+        frazo-5: "Les élèves les plus âgés ont enseigné aux moins âgés."
+        titolo: Superlatif

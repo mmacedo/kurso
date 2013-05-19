@@ -1,0 +1,184 @@
+--- 
+cs: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "rovnosti:"
+          frazo-1: "Esperanto je tak pěkné jako užitečné."
+          frazo-2: "Nic není tak cenné jako zdraví."
+          frazo-3: "Je tak krásná jako matka. (= Je stejně krásná jako její matka)"
+        malsupereco: 
+          ekspliko: "podřazenosti:"
+          frazo-1: "Můj bratr je mladší než já (doslova: méně starý)."
+          frazo-2: "On píše méně krásně než ta dívka."
+          frazo-3: "Manžel mluví méně hlasitě než manželka."
+        supereco: 
+          ekspliko: "nadřazenosti:"
+          frazo-1: "Mléko je výživnější než víno."
+          frazo-2: "Jan je vyšší než Petr."
+          frazo-3: "Slunce je větší než měsíc."
+        titolo: Srovnávání
+      prefiksoj01: 
+        bo: 
+          bofilo: zeť
+          bofratino: švagr
+          bopatrino: tchyně
+          bopatro: tchán
+          ekspliko: "(bo-) spřízněnost sňatkem"
+        dis: 
+          disdoni: rozdat
+          disfali: "rozpadnout se"
+          disflugi: "rozlétnout se"
+          dissemi: rozsít
+          ekspliko: "(dis-) rozptýlení, rozchod (roz-)"
+        duon: 
+          duondio: polobůh
+          duonfilino: "nevlastní dcera"
+          duonhoro: půlhodina
+          duonlumo: "šero, částečné světlo"
+          ekspliko: "(duon-) polovičně nebo částečně"
+          filino: dcera
+          horo: hodina
+        ek: 
+          ekbrilo: záblesk
+          ekdormi: usnout
+          ekiri: "vyjít, vykročit"
+          ekpluvi: "začít pršet"
+          ekspliko: "(ek-) začínající nebo chvilkový děj"
+        eks: 
+          eksedziĝi: "rozvést se"
+          eksfianĉo: "bývalý snoubenec"
+          eksiĝi: "vystoupit z členství, funkce"
+          ekspliko: "(eks-) značí něco bývalého"
+          eksprezidanto: "exprezident, bývalý prezident"
+        fi: 
+          ekspliko: "(fi-) špatný z morálního hlediska"
+          fidomo: "vykřičený dům"
+          fikomercisto: kšeftař
+          fivirino: "zkažená žena"
+          komercisto: obchodník
+        ge: 
+          ekspliko: "(ge-) osoby obojího pohlaví (pár nebo skupina)"
+          geamikoj: "přátelé (muži i ženy)"
+          gefiloj: "děti (syn a dcera, synové a dcery)"
+          gefratoj: sourozenci
+          gepatroj: rodiče
+        mal: 
+          dekstro: "pravá strana"
+          ekspliko: "(mal-) pravý opak"
+          fermi: zavřít
+          maldekstro: "levá strana"
+          malfermi: otevřít
+        mis: 
+          ekspliko: "(mis-) chybně, nesprávně, nevhodně"
+          kompreni: "rozumět, pochopit"
+          miskompreni: "špatně pochopit"
+          mispaŝo: "přehnat, chybný krok"
+          misuzo: zneužití
+          paŝo: krok
+          uzo: užití
+        pra: 
+          ekspliko: "(pra-) časová odlehlost"
+          historio: dějiny
+          nepo: vnuk
+          praavo: pradědeček
+          prahistorio: "dějiny pravěku"
+          prahomo: pračlověk
+          pranepo: pravnuk
+        re: 
+          ekspliko: "(re-) opakování nebo pohyb zpět"
+          reaperi: "znovu se objevit"
+          refari: "znovu udělat"
+          reteni: "zadržet, držet zpátky"
+          reveni: "vrátit se, přijít zpět"
+        titolo: Předpony
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(-ad) trvalý děj"
+          parolado: "řeč, projev, přednáška"
+          paroli: mluvit
+          rigardadi: "dívávat se"
+          rigardi: "dívat se"
+        an: 
+          Kristo: Kristus
+          brazilano: Brazilec
+          ekspliko: "(-an) člen skupiny, strany, náboženství; obyvatel země nebo kraje"
+          eŭropano: Evropan
+          kanadano: Kanaďan
+          kristano: křesťan
+          usonano: "Američan (obyvatel USA)"
+        ar: 
+          ekspliko: "(-ar) souhrn"
+          vortaro: slovník
+          vorto: slovo
+          ŝafaro: "stádo ovcí"
+          ŝafo: ovce
+        aĉ: 
+          domaĉo: barabizna
+          domo: dům
+          ekspliko: "(-aĉ) špatný z materiálního nebo estetického hlediska"
+          skribaĉi: "škrábat, hrozně psát"
+          skribi: psát
+        aĵ: 
+          dolĉa: sladký
+          dolĉaĵo: sladkost
+          ekspliko: "(-aĵ) konkrétní věc vyjádřená kořenem"
+          pentraĝo: malba
+          pentri: malovat
+        ebl: 
+          ekspliko: "(-ebl) pasivní možnost"
+          kredebla: uvěřitelný
+          kredi: věřit
+          legebla: čitelný
+          legi: číst
+          videbla: viditelný
+          vidi: vidět
+        ec: 
+          amikeco: přátelství
+          amiko: přítel
+          ekspliko: "(-ec) abstraktní vlastnost"
+          mola: měkký
+          moleco: měkkost
+        eg: 
+          ekspliko: velký
+          ridegi: "chechtat se"
+          ridi: "smát se"
+          ventego: vichr
+          vento: vítr
+        ej: 
+          ekspliko: "(-ej) působiště, místo"
+          oficejo: úřadovna
+          ofico: úřad
+          preĝejo: "modlitebna, kostel"
+          preĝi: "modlit se"
+          ĉevalejo: konírna
+          ĉevalo: kůň
+        em: 
+          babilema: "povídavý, upovídaný"
+          babili: "povídat si, klábosit"
+          ekspliko: "(-em) sklon k něčemu"
+          ŝparema: "šetrný, spořivý"
+          ŝpari: "šetřit, spořit"
+        end: 
+          ekspliko: "(-end) pasivní nutnost"
+          farenda: "co musí být uděláno"
+          fari: "dělat, udělat"
+          legenda: "co musí být čteno"
+          legi: číst
+        titolo: Přípony
+        ĉj: 
+          ekspliko: "(-ĉj) mazlivá přípona pro mužská jména (čast kořene se pro librozvučnost může zkrátit)"
+          jozefo: Jozef
+          joĉjo: "Jozífek, Pepík, Pepíček"
+          patro: otec
+          paĉjo: tatínek
+      superlativo: 
+        ekspliko-1: "O superlativu (3. stupni) mluvíme tehdy, když jedinec představuje kvalitu na vyšším stupni, než jakou nacházíme u ostatních jedinců."
+        ekspliko-2: "Jedná-li se o dva jedince (lidi, věci apod.), používejte PLI nebo MALPLI. Totéž platí, pokud se jedná o dvě skupiny:"
+        frazo-1: "Ze všech mých dětí je Ernest nejmladší."
+        frazo-2: "Ze všech mých kolegů je Marek nejsilnější."
+        frazo-3: "Nejkrásnější dívku zvolili za královnu (jako královnu)."
+        frazo-4: "Ta silnější z (obou) rukou."
+        frazo-5: "Žáci starší učili žáky mladší (méně staré)."
+        titolo: "Superlativ (3. stupeň)"

@@ -1,0 +1,184 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Stopień równy:"
+          frazo-1: "Esperanto jest tak ładne jak pożyteczne. *"
+          frazo-2: "Nic nie jest tak wartościowe jak zdrowie. *"
+          frazo-3: "Ona jest tak ładna jak matka. *"
+        malsupereco: 
+          ekspliko: "Stopień niższy:"
+          frazo-1: "Mój brat jest młodszy niż ja."
+          frazo-2: "On pisze mniej ładnie niż dziewczynka."
+          frazo-3: "Mąż  mówi  ciszej niż  żona."
+        supereco: 
+          ekspliko: "Stopień wyższy:"
+          frazo-1: "Mleko jest bardziej pożywne niż wino."
+          frazo-2: "Jan jest wyższy niż Piotr."
+          frazo-3: "Słońce jest większe niż księżyc."
+        titolo: Porównanie
+      prefiksoj01: 
+        bo: 
+          bofilo: zięć
+          bofratino: szwagierka
+          bopatrino: teściowa
+          bopatro: teść
+          ekspliko: "pokrewieństwo przez  małżeństwo."
+        dis: 
+          disdoni: rozdać
+          disfali: "rozpaść się"
+          disflugi: rozfrunąć
+          dissemi: rozsiać
+          ekspliko: "rozdanie,  rozejście"
+        duon: 
+          duondio: półbóg
+          duonfilino: pasierbica
+          duonhoro: "pół godziny *"
+          duonlumo: "połowicze światło"
+          ekspliko: połowicznie
+          filino: córka
+          horo: godzina
+        ek: 
+          ekbrilo: błysk
+          ekdormi: zasnąć
+          ekiri: "zacząć iść"
+          ekpluvi: "zacząć padać"
+          ekspliko: "początkowe, nagłe, lub chwilowe działanie"
+        eks: 
+          eksedziĝi: "rozwieść się"
+          eksfianĉo: "były narzeczony"
+          eksiĝi: "stać się byłym"
+          ekspliko: "były, już nie istniejący."
+          eksprezidanto: "były przewodniczący"
+        fi: 
+          ekspliko: "moralnie zły"
+          fidomo: "podły dom ( w przenośni *)"
+          fikomercisto: "podły handlowiec"
+          fivirino: "podła kobieta"
+          komercisto: handlowiec
+        ge: 
+          ekspliko: "połączenie  obu płci  (para, lub grupa)"
+          geamikoj: "przyjaciele obu płci"
+          gefiloj: dzieci
+          gefratoj: rodzeństwo
+          gepatroj: rodzice
+        mal: 
+          dekstro: prawo
+          ekspliko: "przeciwieństwo, odwrotność"
+          fermi: zamykać
+          maldekstro: lewo
+          malfermi: otwierać
+        mis: 
+          ekspliko: "błędnie, niewłaściwie, źle, nietrafnie, nieprzydatnie, nieodpowiednio"
+          kompreni: rozumieć
+          miskompreni: "błędnie rozumieć"
+          mispaŝo: "błędny  krok"
+          misuzo: "błędne użycie"
+          paŝo: krok
+          uzo: użycie
+        pra: 
+          ekspliko: "bardzo dawno w czasie"
+          historio: historia
+          nepo: wnuk
+          praavo: pradziad
+          prahistorio: prahistoria
+          prahomo: praczłowiek
+          pranepo: prawnuk
+        re: 
+          ekspliko: "powtórzenie, powtórna okazja"
+          reaperi: "pojawić się  znowu"
+          refari: "powtórnie zrobić"
+          reteni: "trzymać na nowo"
+          reveni: wracać
+        titolo: Przedrostki
+      sufiksoj01: 
+        ad: 
+          ekspliko: "ciągła czynność"
+          parolado: przemówienie
+          paroli: rozmawiać
+          rigardadi: oglądać
+          rigardi: patrzeć
+        an: 
+          Kristo: Chrystus
+          brazilano: Brazylijczyk
+          ekspliko: "członek grupy, partii, religii; mieszkaniec kraju, lub  regionu"
+          eŭropano: Europejczyk
+          kanadano: Kanadyjczyk
+          kristano: chrześcijanin
+          usonano: Amerykanin
+        ar: 
+          ekspliko: "zbiór, zbiorowość"
+          vortaro: słownik
+          vorto: słowo
+          ŝafaro: "stado owiec"
+          ŝafo: owca
+        aĉ: 
+          domaĉo: chałupa
+          domo: dom
+          ekspliko: "zły z fizycznego, lub estetycznego  punktu widzenia"
+          skribaĉi: bazgrać
+          skribi: pisać
+        aĵ: 
+          dolĉa: słodki
+          dolĉaĵo: "słodka rzecz"
+          ekspliko: "konkretna rzecz wyrażonej idei  w  rdzeniu słowa."
+          pentraĝo: obraz
+          pentri: malować
+        ebl: 
+          ekspliko: "bierna możliwość"
+          kredebla: wiarygodny
+          kredi: wierzyć
+          legebla: "możliwy do czytania"
+          legi: czytać
+          videbla: widoczny
+          vidi: widzieć
+        ec: 
+          amikeco: przyjaźń
+          amiko: przyjaciel
+          ekspliko: "stan, lub abstrakcyjna cecha odnosząca się do idei rdzenia."
+          mola: miękki
+          moleco: miękkość
+        eg: 
+          ekspliko: duży
+          ridegi: "głośno śmiać się"
+          ridi: "śmiać się"
+          ventego: wicher
+          vento: wiatr
+        ej: 
+          ekspliko: "miejsce akcji, lub miejsce przebywania  dla   osób określonych w rdzeniu."
+          oficejo: "urząd - budynek, miejsce"
+          ofico: urząd
+          preĝejo: kościół
+          preĝi: "modlić się"
+          ĉevalejo: stajnia
+          ĉevalo: koń
+        em: 
+          babilema: gadatliwy
+          babili: gawędzić
+          ekspliko: "tendencja, skłonność"
+          ŝparema: oszczędny
+          ŝpari: oszczędzać
+        end: 
+          ekspliko: "bierny  obowiązek"
+          farenda: "konieczny do zrobienia"
+          fari: robić
+          legenda: "konieczny do przeczytania"
+          legi: czytać
+        titolo: Przyrostki
+        ĉj: 
+          ekspliko: "przyrostek spieszczający męskie imię"
+          jozefo: Józef
+          joĉjo: Józio
+          patro: ojciec
+          paĉjo: tatuś
+      superlativo: 
+        ekspliko-1: "Stopień najwyższy jest wtedy, kiedy  jeden osobnik wykazuje cechy w stopniu najwyższym w porównaniu z  wszystkimi innymi."
+        ekspliko-2: "Kiedy są dwie osoby, lub rzeczy, użyj  wyrażenia  WIĘCEJ  lub MNIEJ. Tak samo porównuje się dwie grupy np: chłopcy są silniejsi od dziewczynek."
+        frazo-1: "Z wszystkich moich dzieci Ernest jest najmłodszy."
+        frazo-2: "Z wszystkich moich kolegów Marek jest najsilniejszy,"
+        frazo-3: "Najładniejszą dziewczynkę oni wybrali jako królową."
+        frazo-4: "Silniejsza z rąk."
+        frazo-5: "Uczniowie starsi uczyli tych młodszych."
+        titolo: "Stopień najwyższy"

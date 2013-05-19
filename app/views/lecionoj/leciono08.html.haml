@@ -1,0 +1,29 @@
+%h1 Leciono 8
+.row
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
+      %li
+        %a{href: '#komparado'}
+          %i.icon-chevron-right
+          = t('.komparado.titolo')
+      %li
+        %a{href: '#superlativo'}
+          %i.icon-chevron-right
+          = t('.superlativo.titolo')
+      %li
+        %a{href: '#prefiksoj01'}
+          %i.icon-chevron-right
+          = t('.prefiksoj01.titolo')
+      %li
+        %a{href: '#sufiksoj01'}
+          %i.icon-chevron-right
+          = t('.sufiksoj01.titolo')
+  .span9
+    %section#komparado
+      = render "lecionoj/leciono08/komparado"
+    %section#superlativo
+      = render "lecionoj/leciono08/superlativo"
+    %section#prefiksoj01
+      = render "lecionoj/leciono08/prefiksoj01"
+    %section#sufiksoj01
+      = render "lecionoj/leciono08/sufiksoj01"

@@ -1,0 +1,184 @@
+--- 
+nl: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Stellende trap: gelijkheid:"
+          frazo-1: "Esperanto is even mooi als nuttig."
+          frazo-2: "Niets is zo waardevol als de gezondheid."
+          frazo-3: "Ze is even mooi als haar moeder."
+        malsupereco: 
+          ekspliko: "Minder:"
+          frazo-1: "Mijn broer is minder oud dan ik."
+          frazo-2: "Hij schrijft minder mooi dan het meisje."
+          frazo-3: "De echtgenoot spreekt minder luid dan de echtgenote."
+        supereco: 
+          ekspliko: "Vergrotende trap. Meer:"
+          frazo-1: "Melk is voedzamer dan wijn."
+          frazo-2: "Johan is groter (\"hoger\") dan Piet."
+          frazo-3: "De zon is groter dan de maan."
+        titolo: Vergelijking.
+      prefiksoj01: 
+        bo: 
+          bofilo: schoonzoon
+          bofratino: schoonzus
+          bopatrino: schoonmoeder
+          bopatro: schoonvader
+          ekspliko: "voor aangetrouwde familie"
+        dis: 
+          disdoni: uitdelen
+          disfali: uiteenvallen
+          disflugi: "uiteen vliegen"
+          dissemi: uitzaaien
+          ekspliko: "verspreiding, uiteengaan"
+        duon: 
+          duondio: halfgod
+          duonfilino: stiefdochter
+          duonhoro: "een half uur"
+          duonlumo: schemering
+          ekspliko: half
+          filino: dochter
+          horo: uur
+        ek: 
+          ekbrilo: "plotse glans, glinstering"
+          ekdormi: inslapen
+          ekiri: "op weg gaan"
+          ekpluvi: "beginnen te regenen"
+          ekspliko: "begin van een handeling of een plotselinge handeling"
+        eks: 
+          eksedziĝi: scheiden
+          eksfianĉo: "gewezen (vroegere) verloofde"
+          eksiĝi: "een betrekking verlaten"
+          ekspliko: "een handeling of toestand die niet meer bestaat"
+          eksprezidanto: oudpresident
+        fi: 
+          ekspliko: "slecht van aard, karakter"
+          fidomo: "een huis van slechte zeden"
+          fikomercisto: sjacheraar
+          fivirino: "een slechte vrouw"
+          komercisto: handelaar
+        ge: 
+          ekspliko: "omvat beide seksen (paar of groep)"
+          geamikoj: "vrienden en vriendinnen"
+          gefiloj: "zoons en dochters"
+          gefratoj: "broers en zusters"
+          gepatroj: ouders
+        mal: 
+          dekstro: "het rechtse"
+          ekspliko: "het tegengestelde"
+          fermi: sluiten
+          maldekstro: "het linkse"
+          malfermi: openen
+        mis: 
+          ekspliko: "verkeerd, fout, slecht, mis-"
+          kompreni: begrijpen
+          miskompreni: "verkeerd begrijpen, misverstaan"
+          mispaŝo: misstap
+          misuzo: misbruik
+          paŝo: "stap, pas"
+          uzo: gebruik
+        pra: 
+          ekspliko: "ver terug in de tijd"
+          historio: geschiedenis
+          nepo: kleinzoon
+          praavo: voorvader
+          prahistorio: voorhistorie
+          prahomo: oermens
+          pranepo: achterkleinzoon
+        re: 
+          ekspliko: "herhaling: terug- , her- , opnieuw, weer-"
+          reaperi: "weer verschijnen"
+          refari: "opnieuw doen, herdoen"
+          reteni: weerhouden
+          reveni: terugkeren
+        titolo: Voorvoegsels
+      sufiksoj01: 
+        ad: 
+          ekspliko: "duur, herhaling, gewoonte"
+          parolado: rede(voering)
+          paroli: spreken
+          rigardadi: "lang (be)kijken, turen"
+          rigardi: "bekijken, kijken naar"
+        an: 
+          Kristo: Christus
+          brazilano: "een Braziliaan"
+          ekspliko: "lid van een groep, godsdienst, inwoner van"
+          eŭropano: "een Europeaan"
+          kanadano: "een Canadees"
+          kristano: "een christen"
+          usonano: "een inwoner van de USA"
+        ar: 
+          ekspliko: "verzameling, groep"
+          vortaro: woordenboek
+          vorto: woord
+          ŝafaro: schaapskudde
+          ŝafo: schaap
+        aĉ: 
+          domaĉo: krot
+          domo: huis
+          ekspliko: "lelijk, wat uiterlijk betreft"
+          skribaĉi: krabbelen
+          skribi: schrijven
+        aĵ: 
+          dolĉa: zoet
+          dolĉaĵo: "zoetigheid, snoep"
+          ekspliko: "iets concreets, dat het idee van de stam vertegenwoordigt"
+          pentraĝo: schilderij
+          pentri: "(kunst) schilderen"
+        ebl: 
+          ekspliko: mogelijkheid
+          kredebla: geloofwaardig
+          kredi: geloven
+          legebla: leesbaar
+          legi: lezen
+          videbla: zichtbaar
+          vidi: zien
+        ec: 
+          amikeco: vriendschap
+          amiko: vriend
+          ekspliko: "toestand of abstracte eigenschap, die overeenkomt met het ideen van de stam."
+          mola: zacht
+          moleco: zachtheid
+        eg: 
+          ekspliko: groot
+          ridegi: "schaterlachen, bulderen"
+          ridi: lachen
+          ventego: storm
+          vento: wind
+        ej: 
+          ekspliko: "ruimte, plaats voor een bepaalde activiteit"
+          oficejo: "bureau, kantoor (overheid)"
+          ofico: "ambt, betrekking"
+          preĝejo: "gebedsruimte (bijv.kerk)"
+          preĝi: bidden
+          ĉevalejo: "manege, paardenstal"
+          ĉevalo: paard
+        em: 
+          babilema: praatgraag
+          babili: babbelen
+          ekspliko: "neiging, gewoonte"
+          ŝparema: spaarzaam
+          ŝpari: sparen
+        end: 
+          ekspliko: "wat gedaan moet worden"
+          farenda: "wat gedaan moet worden"
+          fari: "doen, maken"
+          legenda: "moet worden gelezen, te lezen"
+          legi: lezen
+        titolo: Achtervoegsels
+        ĉj: 
+          ekspliko: "vormt troetelnaam voor een man met een deel van de stam, zodat het goed klinkt."
+          jozefo: Jozef
+          joĉjo: "Jos, Jef"
+          patro: vader
+          paĉjo: "paps, papa, papaatje"
+      superlativo: 
+        ekspliko-1: "Een overtreffende trap betekent dat een individu of zaak een kwaliteit heeft die groter of minder groot is dan van alle andere."
+        ekspliko-2: "Als er maar twee individuen (mensen, zaken, ...) worden vergeleken gebruik je PLI of MALPLI. Hetzelfde doe je als het twee groepen betreft:"
+        frazo-1: "Van al mijn kinderen is Ernest de jongste."
+        frazo-2: "Van al mijn collega's is Mark de sterkste."
+        frazo-3: "Het mooiste meisje kozen ze als koningin."
+        frazo-4: "De sterkste van de handen.  (Twee handen, dus \"pli\")"
+        frazo-5: "De oudste leerlingen onderwezen de jongsten. (Er zijn twee groepen leerlingen)"
+        titolo: "Overtreffende Trap"

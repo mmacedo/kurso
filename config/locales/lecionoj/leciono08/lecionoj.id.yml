@@ -1,0 +1,184 @@
+--- 
+id: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Persamaan:"
+          frazo-1: "Bahasa Esperanto adalah bahasa yg indah yg sangat berguna."
+          frazo-2: "Tidak ada yg berharga selain kesehatanmu."
+          frazo-3: "Dia secantik ibunya."
+        malsupereco: 
+          ekspliko: "Atasan lebih kurang,  sifat rendah:"
+          frazo-1: "Adik saya lebih muda daripada saya."
+          frazo-2: "Dia menulis lebih rendah dari pada perempuan itu."
+          frazo-3: "Suami itu berbicara lebih rendah dari pada isternya."
+        supereco: 
+          ekspliko: "Lebih atasan:"
+          frazo-1: "Susu lebih bergizi dari pada anggur."
+          frazo-2: "John lebih tinggi dari pada Peter."
+          frazo-3: "Matahari lebih besar daripada bulan."
+        titolo: "Bentuk Komparatif  (Perbandingan)"
+      prefiksoj01: 
+        bo: 
+          bofilo: "menantu lelaki"
+          bofratino: "ipar perempuan"
+          bopatrino: "ibu mertua"
+          bopatro: "bapak mertua"
+          ekspliko: "(bo-) hubungan perkawinan"
+        dis: 
+          disdoni: membagikan
+          disfali: meremah-remah
+          disflugi: "terbang ke segala arah"
+          dissemi: "menaburkan, menyebarkan"
+          ekspliko: "(dis-) distribusi, kehancuran"
+        duon: 
+          duondio: "setengah dewa"
+          duonfilino: "anak tiri perempuan"
+          duonhoro: "setengah jam"
+          duonlumo: "aram-temaram, senja"
+          ekspliko: "(duon-) setengah"
+          filino: "anak perempuan"
+          horo: jam
+        ek: 
+          ekbrilo: cahaya
+          ekdormi: "mulai tidur, tidur sebentar"
+          ekiri: "mulai berjalan/pergi"
+          ekpluvi: "mulai hujan"
+          ekspliko: "(ek-) permulaan aksi tindakan, aksi yg tiba-tiba, atau aksi sebentar"
+        eks: 
+          eksedziĝi: "bercerai (mantan suami)"
+          eksfianĉo: "mantan tunangan"
+          eksiĝi: "berhenti dari jabatan"
+          ekspliko: "(eks-) menunjukkan aksi atau keadaan yg sekarang tidak ada."
+          eksprezidanto: "mantan presiden"
+        fi: 
+          ekspliko: "(fi-) tak senonoh, buruk secara moril"
+          fidomo: "rumah yg reputasinya buruk"
+          fikomercisto: "seorang pedagang yg tidak jujur"
+          fivirino: "perempuan yg namanya buruk"
+          komercisto: "seorang pedagang"
+        ge: 
+          ekspliko: "(ge-) dari dua jenis kelamin (orang atau kelompok)"
+          geamikoj: "teman laki-laki dan perempuan"
+          gefiloj: "anak laki-laki dan anak peremp."
+          gefratoj: "kakak beradik laki-2 dan peremp."
+          gepatroj: "bapak dan ibu"
+        mal: 
+          dekstro: kanan
+          ekspliko: "(mal-) bertentangan"
+          fermi: menutup
+          maldekstro: kiri
+          malfermi: membuka
+        mis: 
+          ekspliko: "(mis-) salah mengerti, kesalahan, tidak pantas, tidak baik"
+          kompreni: mengerti
+          miskompreni: "salah mengerti"
+          mispaŝo: "salah langkah"
+          misuzo: "salah pemakaian"
+          paŝo: "langkah perbuatan"
+          uzo: pemakaian
+        pra: 
+          ekspliko: "(pra-) sangat dulu dalam sejarah"
+          historio: sejarah
+          nepo: "cucu laki-laki"
+          praavo: "moyang laki-laki"
+          prahistorio: "sejarah nenek moyang"
+          prahomo: "seorang nenek moyang"
+          pranepo: "cicit laki-laki"
+        re: 
+          ekspliko: "(re-) ulangan, lagi, kembali"
+          reaperi: "timbul lagi"
+          refari: "membuat lagi"
+          reteni: "menerima, menahan"
+          reveni: kembali
+        titolo: Awalan
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(-ad) aksi selalu atau panjang"
+          parolado: pidato
+          paroli: berbicara
+          rigardadi: "melamun, memandang panjang"
+          rigardi: memandang
+        an: 
+          Kristo: Kristus
+          brazilano: "orang Brasil"
+          ekspliko: "(-an) angotta klub, partai politik, agama, negeri atau daerah"
+          eŭropano: "orang Eropa"
+          kanadano: "orang Kanada"
+          kristano: "seorang Kristen"
+          usonano: "orang Amerika"
+        ar: 
+          ekspliko: "(-ar) pengumpulan, golongan, kelompok, sekawanan"
+          vortaro: "kosa kata,  kamus"
+          vorto: kata
+          ŝafaro: "sekawanan domba"
+          ŝafo: domba
+        aĉ: 
+          domaĉo: "rumah jelek"
+          domo: rumah
+          ekspliko: "(-aĉ) jelek menurut pendirian material atau estetis."
+          skribaĉi: "menulis dengan acak"
+          skribi: menulis
+        aĵ: 
+          dolĉa: manis
+          dolĉaĵo: "gula-gula, makanan pencuci mulut"
+          ekspliko: "(-aĵ) benda konkret yang berhubungan dengan maksud dalam kata dasar."
+          pentraĝo: lukisan
+          pentri: melukis
+        ebl: 
+          ekspliko: "(-ebl) kemungkinan"
+          kredebla: "dapat dipercaya"
+          kredi: percaya
+          legebla: "dapat dibaca"
+          legi: membaca
+          videbla: "kelihatan, nyata, dapat dilihat"
+          vidi: melihat
+        ec: 
+          amikeco: persahabatan
+          amiko: "teman (laki-laki)"
+          ekspliko: "(-ec) keadaan atau kualitas yg abstrak, yg berhubungan dengan maksud dalam kata dasar."
+          mola: "lunak, lembak, empuk, lembut, halus"
+          moleco: kehalusan
+        eg: 
+          ekspliko: besar
+          ridegi: "tertawa dgn suara keras, dan lama"
+          ridi: tertawa
+          ventego: "angin taufan"
+          vento: angin
+        ej: 
+          ekspliko: "(-ej) tempat aksi atau tempat berhub. dg. orang atau makhluk  yang dilukiskan dalam kata dasar."
+          oficejo: "kamar, gedung, kantor"
+          ofico: "kedudukan, pekerjaan, jabatan"
+          preĝejo: "gereja, pura, mesjid - tempat mohon"
+          preĝi: memohon
+          ĉevalejo: kandang
+          ĉevalo: kuda
+        em: 
+          babilema: "yg banyak bicara, suka bercakap"
+          babili: bercakap-cakap
+          ekspliko: "(-em) inklinasi, kecenderungan"
+          ŝparema: "yang hemat"
+          ŝpari: menghemat
+        end: 
+          ekspliko: "(-end) sesuatu yang harus dikerjakan"
+          farenda: "yg harus dibuat"
+          fari: "membuat, berbuat"
+          legenda: "yg harus dibaca"
+          legi: membaca
+        titolo: Akhiran
+        ĉj: 
+          ekspliko: "(-ĉĵ)  akhiran timangan untuk orang laki-laki (dengan sebagian kata dasar dan suara yg baik)"
+          jozefo: Josef
+          joĉjo: Joe
+          patro: bapak
+          paĉjo: "papa, pak"
+      superlativo: 
+        ekspliko-1: "Bentuk Superlatif  bilamana satu orang (atau benda) menunjukkan sifat tingkatnya yang lebih atau kurang tinggi daripada tingkat semuanya lain."
+        ekspliko-2: "Bilamana kalau hanya dua orang (benda dsb) memakai PLI atau MALPLI.  Yang sama terjadi bilamana dua kelompok."
+        frazo-1: "Diantara semua anak saya, Ernest yang termuda."
+        frazo-2: "Diantara semua teman sekerja saya, Mark yang terkuat."
+        frazo-3: "Perempuan yang tercantik, yang terpilih sebagai ratu."
+        frazo-4: "Tangan yang lebih kuat."
+        frazo-5: "Pelajar-pelajar yg lebih tua mengajarkan (yg lalu) pelajar yg lebih muda."
+        titolo: "Bentuk Superlatif"

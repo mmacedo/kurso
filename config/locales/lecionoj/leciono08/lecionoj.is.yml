@@ -1,0 +1,184 @@
+--- 
+is: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Samanburður:"
+          frazo-1: "Esperanto er jafnfallegt og það er gagnlegt."
+          frazo-2: "Ekkert er eins verðmætt og heilsan."
+          frazo-3: "Hún er svo falleg eins og móðirin."
+        malsupereco: 
+          ekspliko: "Minna en:"
+          frazo-1: "Bróðir minn er yngri en ég."
+          frazo-2: "Hann skrifar verr en stúlkan."
+          frazo-3: "Eiginmaðurinn talar lægra en eiginkonan."
+        supereco: 
+          ekspliko: "Meira en:"
+          frazo-1: "Mjólk er næringarríkari en vín."
+          frazo-2: "Jóhann er hærri en Pétur."
+          frazo-3: "Sólin er stærri en tunglið."
+        titolo: Samanburður
+      prefiksoj01: 
+        bo: 
+          bofilo: tengdasonur
+          bofratino: mágkona
+          bopatrino: tengdamóðir
+          bopatro: tengdafaðir
+          ekspliko: "(bo-) tengdir vegna giftingar"
+        dis: 
+          disdoni: "að útbýta"
+          disfali: "detta í sundur"
+          disflugi: "að fljúga í allar áttir"
+          dissemi: "sá, útbreiða"
+          ekspliko: "(dis-) dreifing, skilnaður"
+        duon: 
+          duondio: hálfguð
+          duonfilino: stjúpdóttir
+          duonhoro: hálftími
+          duonlumo: hálflýsi
+          ekspliko: "(duon-) hálf-"
+          filino: dóttir
+          horo: klukkustund
+        ek: 
+          ekbrilo: uppskin
+          ekdormi: sofna
+          ekiri: "fara af stað"
+          ekpluvi: "byrja að rigna"
+          ekspliko: "(ek-) byrjun, skyndileg gjörð"
+        eks: 
+          eksedziĝi: "skilja (um eiginmann)"
+          eksfianĉo: "fyrrverandi unnusti"
+          eksiĝi: "segja af sér, hætta störfum"
+          ekspliko: "(eks-) sýnir gjörð eða ástand sem ekki varir lengur."
+          eksprezidanto: "fyrrverandi formaður"
+        fi: 
+          ekspliko: "(fi-) það sem er slæmt frá siðferðilegu sjónarmiði"
+          fidomo: glæpahús
+          fikomercisto: "óheiðarlegur kaupmaður"
+          fivirino: glæpakvendi
+          komercisto: kaupmaður
+        ge: 
+          ekspliko: "(ge-) sameinar bæði kyn (getur átt við par eða hóp)"
+          geamikoj: "vinir (af báðum kynjum)"
+          gefiloj: "synir og dætur"
+          gefratoj: systkini
+          gepatroj: foreldrar
+        mal: 
+          dekstro: hægri
+          ekspliko: "(mal-) andstæða"
+          fermi: loka
+          maldekstro: vinstri
+          malfermi: opna
+        mis: 
+          ekspliko: "(mis-) ranglega, illa, ekki á réttan hátt, óviðurkvæmilegt"
+          kompreni: skilja
+          miskompreni: misskilja
+          mispaŝo: misstig
+          misuzo: misnotkun
+          paŝo: skref
+          uzo: notkun
+        pra: 
+          ekspliko: "(pra-) fjarlægt í tíma, mjög fornt,"
+          historio: saga
+          nepo: "sonar- eða dóttursonur"
+          praavo: "langafi, forfaðir"
+          prahistorio: fornaldarsaga
+          prahomo: frummaður
+          pranepo: "barnabarnabarn, afkomandi"
+        re: 
+          ekspliko: "(re-) endurtekning, það sem gerist aftur"
+          reaperi: "birtast aftur"
+          refari: "gera aftur"
+          reteni: "halda aftur af"
+          reveni: "koma aftur"
+        titolo: Forskeyti
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(-ad) áframhaldandi verknaður"
+          parolado: ræða
+          paroli: tala
+          rigardadi: stara
+          rigardi: horfa
+        an: 
+          Kristo: Kristur
+          brazilano: Brasilíumaður
+          ekspliko: "(-an) félagsmaður, áhangandi, íbúi"
+          eŭropano: Evrópubúi
+          kanadano: Kanadamaður
+          kristano: "kristinn maður"
+          usonano: Bandaríkjamaður
+        ar: 
+          ekspliko: "(-ar) samsafn"
+          vortaro: "orðasafn, orðabók"
+          vorto: orð
+          ŝafaro: sauðahjörð
+          ŝafo: sauðkind
+        aĉ: 
+          domaĉo: hreysi
+          domo: hús
+          ekspliko: "(aĉ) slæmt  (að efnislegu eða fagurfræðilegu mati)"
+          skribaĉi: pára
+          skribi: skrifa
+        aĵ: 
+          dolĉa: sætur
+          dolĉaĵo: sætindi
+          ekspliko: "(-aĵ) hlutgerir hugmynd sem í orðstofninum felst."
+          pentraĝo: málverk
+          pentri: mála
+        ebl: 
+          ekspliko: "(-ebl) möguleiki"
+          kredebla: trúanlegur
+          kredi: trúa
+          legebla: læsilegur
+          legi: lesa
+          videbla: sjáanlegur
+          vidi: sjá
+        ec: 
+          amikeco: vinátta
+          amiko: vinur
+          ekspliko: "(ec-) ástand eða eiginleiki þess sem í orðstofni felst."
+          mola: mjúkur
+          moleco: mýkt
+        eg: 
+          ekspliko: "(-eg) táknar mikla stækkun eða aukningu"
+          ridegi: skellihlæja
+          ridi: hlæja
+          ventego: rok
+          vento: vindur
+        ej: 
+          ekspliko: "(-ej) staður þar sem tiltekin starfsemi fer fram eða er kenndur við annað sem felst í orðstofni."
+          oficejo: skrifstofa
+          ofico: starf
+          preĝejo: "kirkja, bænhús"
+          preĝi: "biðjast fyrir"
+          ĉevalejo: hesthús
+          ĉevalo: hestur
+        em: 
+          babilema: málugur
+          babili: "rabba, spjalla"
+          ekspliko: "(-em) tilhneiging"
+          ŝparema: sparsamur
+          ŝpari: spara
+        end: 
+          ekspliko: "(-end) sem verður að gerast"
+          farenda: "verður að gera"
+          fari: gera
+          legenda: "það sem má til (verður) að lesa"
+          legi: lesa
+        titolo: Viðskeyti
+        ĉj: 
+          ekspliko: "(-cĵ) viðskeyti til að mynda gælunöfn með því að tengjast hluta orðsins"
+          jozefo: Jósef
+          joĉjo: Jósi
+          patro: faðir
+          paĉjo: pabbi
+      superlativo: 
+        ekspliko-1: "Hástig lýsir þeim eða því sem hefur mest eða minnst til að bera af öllum sem fjallað er um."
+        ekspliko-2: "Þegar aðeins er um að ræða tvo einstaklinga eða hluti, skal nota PLI eða MALPLI.  Það sama á við þegar rætt er um tvo hópa."
+        frazo-1: "Af öllum börnum mínum er Ernest yngstur."
+        frazo-2: "Af öllum vinnufélögum mínum er Markús sterkastur."
+        frazo-3: "Fegurstu stúlkuna kusu þau sem drottningu."
+        frazo-4: "Sterkari höndin."
+        frazo-5: "Eldri nemendurnir kenndu þeim yngri."
+        titolo: Hástig

@@ -1,0 +1,184 @@
+--- 
+la: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Vienlīdzība:"
+          frazo-1: "Esperanto ir tik pat skaists cik arī noderīgs."
+          frazo-2: "Nekas nav tik vērtīgs kā veselība."
+          frazo-3: "Viņa ir tik skaista kā māte."
+        malsupereco: 
+          ekspliko: "Pamazināmā pakāpe:"
+          frazo-1: "Mans brālis ir jaunāks nekā es."
+          frazo-2: "Viņš raksta neglītāk nekā meitene."
+          frazo-3: "Vīrs runā klusāk nekā sieva."
+        supereco: 
+          ekspliko: "Pārākā pakāpe:"
+          frazo-1: "Piens ir barojošāks nekā vīns."
+          frazo-2: "Jānis ir garāks nekā Pēteris."
+          frazo-3: "Saule ir lielāka nekā mēness."
+        titolo: "Salīdzināmās pakāpes"
+      prefiksoj01: 
+        bo: 
+          bofilo: znots
+          bofratino: "vīra māsa, sievas māsa"
+          bopatrino: "vīra māte, sievas māte"
+          bopatro: "vīra tēvs, sievas tēvs"
+          ekspliko: "laulības radniecība"
+        dis: 
+          disdoni: izģērbt
+          disfali: izjukt
+          disflugi: "izlidot (uz visām pusēm)"
+          dissemi: izsēt
+          ekspliko: "izsaka sadalīšanu, sairšanu, darbības virzienu uz visām pusēm"
+        duon: 
+          duondio: pusdievs
+          duonfilino: pusmeita
+          duonhoro: pusstunda
+          duonlumo: pusgaisma
+          ekspliko: "uz pusēm"
+          filino: meita
+          horo: stunda
+        ek: 
+          ekbrilo: uzspīdums
+          ekdormi: aizmigt
+          ekiri: aiziet
+          ekpluvi: "sākt līt (par lietu)"
+          ekspliko: "apzīmē tūlītēju darbību vai darbības sākumu"
+        eks: 
+          eksedziĝi: izšķirties
+          eksfianĉo: "bijušais līgavainis"
+          eksiĝi: apsēsties
+          ekspliko: "priedēklis ar nozīmi \"bijušais\""
+          eksprezidanto: eksprezidents
+        fi: 
+          ekspliko: "norāda nicinājumu, morāli mazvērtīgu"
+          fidomo: bordelis
+          fikomercisto: blēdis
+          fivirino: izvirtule
+          komercisto: "tirgotājs, komersants"
+        ge: 
+          ekspliko: "abu dzimumu kopums (var būt pāris vai grupa)"
+          geamikoj: "draugi un draudzenes"
+          gefiloj: "dēli un meitas"
+          gefratoj: "brāļi un māsas"
+          gepatroj: vecāki
+        mal: 
+          dekstro: "labā puse"
+          ekspliko: "izsaka pretstatu"
+          fermi: aizvērt
+          maldekstro: "kriesā puse"
+          malfermi: atvērt
+        mis: 
+          ekspliko: "kļūdīgi, nepareizi"
+          kompreni: saprast
+          miskompreni: "nepareizi saprast, pārprast"
+          mispaŝo: "nepareizs solis, rīcība"
+          misuzo: "nepareiza lietošana"
+          paŝo: solis
+          uzo: lietošana
+        pra: 
+          ekspliko: "ļoti sens, pirmatnējs"
+          historio: vēsture
+          nepo: mazbērns
+          praavo: vecvectēvs
+          prahistorio: aizvēsture
+          prahomo: pirmcilvēks
+          pranepo: mazmazbērns
+        re: 
+          ekspliko: "atkārtošana, atkal notiek"
+          reaperi: "atkal parādīties"
+          refari: pārtaisīt
+          reteni: pārvilkt
+          reveni: atgriezties
+        titolo: Priedēkļi
+      sufiksoj01: 
+        ad: 
+          ekspliko: "darbības ilgums"
+          parolado: "runa, uzruna"
+          paroli: runāt
+          rigardadi: aplūkot
+          rigardi: skatīties
+        an: 
+          Kristo: Kristus
+          brazilano: brazīlietis
+          ekspliko: "grupas, partijas, reliģijas biedrs; valsts vai reģiona iedzīvotājs"
+          eŭropano: eiropietis
+          kanadano: kanādietis
+          kristano: kristietis
+          usonano: amerikānis
+        ar: 
+          ekspliko: kopums
+          vortaro: vārdnīca
+          vorto: vārds
+          ŝafaro: "aitu bars"
+          ŝafo: aita
+        aĉ: 
+          domaĉo: mājele
+          domo: māja
+          ekspliko: "slikts no materiālā vai estētiskā viedokļa"
+          skribaĉi: "rakstīt kā ar vistas kāju"
+          skribi: rakstīt
+        aĵ: 
+          dolĉa: salds
+          dolĉaĵo: saldums
+          ekspliko: "Vārda saknes pazīmes konkrēta parādīšana"
+          pentraĝo: zīmējums
+          pentri: zīmēt
+        ebl: 
+          ekspliko: "kaut kas ir iespējams"
+          kredebla: ticams
+          kredi: ticēt
+          legebla: "lasāms, salasāms"
+          legi: lasīt
+          videbla: redzams
+          vidi: redzēt
+        ec: 
+          amikeco: draudzība
+          amiko: draugs
+          ekspliko: "īpašība vai kvalitāte, kura izteikta vārda saknē"
+          mola: mīksts
+          moleco: mīkstība
+        eg: 
+          ekspliko: "izsaka vislielāko intensivitātes pakāpi"
+          ridegi: "skaļi smieties"
+          ridi: smieties
+          ventego: vētra
+          vento: vējš
+        ej: 
+          ekspliko: "apzīmē vietu"
+          oficejo: ofiss
+          ofico: "amats, kalpojums"
+          preĝejo: baznīca
+          preĝi: lūgties
+          ĉevalejo: "zirgu stallis"
+          ĉevalo: zirgs
+        em: 
+          babilema: pļāpīgs
+          babili: pļāpāt
+          ekspliko: "tendence, nosliece uz kaut ko"
+          ŝparema: taupīgs
+          ŝpari: krāt
+        end: 
+          ekspliko: "kaut kas jādara"
+          farenda: "tas, ko jāizdara"
+          fari: "darīt, taisīt"
+          legenda: "tas, ko jāizlasa"
+          legi: lasīt
+        titolo: Piedēkļi
+        ĉj: 
+          ekspliko: "mīlināmais piedēklis vīriešiem (labskanībai var pazust daļa vārda saknes)"
+          jozefo: Jāzeps
+          joĉjo: Jāzepiņš
+          patro: tēvs
+          paĉjo: tētis
+      superlativo: 
+        ekspliko-1: "Pārāko pakāpi tieto, kad no indivīdiem vienam kvalitāte tiek izteikta vairāk vai mazāk nekā par citiem."
+        ekspliko-2: "Kad ir tikai divi indivīdi (cilvēki, lietas utt.), izmanto PLI vai MALPLI, bet ne \"plej\" vai \"malplej\". Tas pats attiecas, kad ir runa par divām grupām:"
+        frazo-1: "No visiem maniem bērniem Ernests ir visjaunākais."
+        frazo-2: "No visiem maniem kolēģiem Marks ir visstiprākais."
+        frazo-3: "Visskaistāko meiteni viņi ievēlēja kā karalieni."
+        frazo-4: "Stiprākā no rokām."
+        frazo-5: "Vecākie skolnieki mācīja tos, kuri bija jaunāki."
+        titolo: "Pārākā pakāpe"

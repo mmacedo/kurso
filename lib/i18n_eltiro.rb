@@ -5,7 +5,7 @@ require 'i18n_eltiro/mapado'
 require 'i18n_eltiro/skribanto'
 
 module I18nEltiro
-  LINGVOJ = { ar: "araba", ch: "china", en: "angla", eo: "esperanto", it: "itala", pt: "portugala", hi: "hinda", sr: "serba" }
+  LINGVOJ = { ar: "araba", ch: "china", en: "angla", eo: "esperanto", it: "itala", pt: "portugala", hi: "hinda", sr: "serba", sv: "sveda" }
 
   def self.lingvoj
     LINGVOJ

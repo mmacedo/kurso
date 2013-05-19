@@ -1,0 +1,184 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "De egaleco:"
+          frazo-1: "Esperanto estas tiel bela kiel utila."
+          frazo-2: "Nenio estas tiel valora kiel la sano."
+          frazo-3: "Ŝi estas tiel bela kiel la patrino."
+        malsupereco: 
+          ekspliko: "De malsupereco:"
+          frazo-1: "Mia frato estas malpli aĝa ol mi."
+          frazo-2: "Li skribas malpli bele ol la knabino."
+          frazo-3: "La edzo parolas malpli laŭte ol la edzino."
+        supereco: 
+          ekspliko: "De supereco:"
+          frazo-1: "Lakto estas pli nutra ol vino."
+          frazo-2: "Johano estas pli alta ol Petro."
+          frazo-3: "La suno estas pli granda ol la luno."
+        titolo: Komparado
+      prefiksoj01: 
+        bo: 
+          bofilo: bofilo
+          bofratino: bofratino
+          bopatrino: bopatrino
+          bopatro: bopatro
+          ekspliko: "(bo-) pareco pro geedziĝo"
+        dis: 
+          disdoni: disdoni
+          disfali: disfali
+          disflugi: disflugi
+          dissemi: dissemi
+          ekspliko: "(dis-) disdono, disiro"
+        duon: 
+          duondio: duondio
+          duonfilino: duonfilino
+          duonhoro: duonhoro
+          duonlumo: duonlumo
+          ekspliko: "(duon-) duone"
+          filino: filino
+          horo: horo
+        ek: 
+          ekbrilo: ekbrilo
+          ekdormi: ekdormi
+          ekiri: ekiri
+          ekpluvi: ekpluvi
+          ekspliko: "(ek-) komenca, subita aŭ momenta ago"
+        eks: 
+          eksedziĝi: eksedziĝi
+          eksfianĉo: eksfianĉo
+          eksiĝi: eksiĝi
+          ekspliko: "(eks-) montras agon aŭ staton kiu ne plu ekzistas."
+          eksprezidanto: eksprezidanto
+        fi: 
+          ekspliko: "(fi-) malbona laŭ morala vidpunkto"
+          fidomo: fidomo
+          fikomercisto: fikomercisto
+          fivirino: fivirino
+          komercisto: komercisto
+        ge: 
+          ekspliko: "(ge-) kuneco de ambaŭ seksoj (povas esti paro aŭ grupo)"
+          geamikoj: geamikoj
+          gefiloj: gefiloj
+          gefratoj: gefratoj
+          gepatroj: gepatroj
+        mal: 
+          dekstro: dekstro
+          ekspliko: "(mal-) la malo, la kontraŭo"
+          fermi: fermi
+          maldekstro: maldekstro
+          malfermi: malfermi
+        mis: 
+          ekspliko: "(mis-) erare, malĝuste, malbone, maltrafe, maltaŭge, ne konvene"
+          kompreni: kompreni
+          miskompreni: miskompreni
+          mispaŝo: mispaŝo
+          misuzo: misuzo
+          paŝo: paŝo
+          uzo: uzo
+        pra: 
+          ekspliko: "(pra-) tre malproksima en la tempo"
+          historio: historio
+          nepo: nepo
+          praavo: praavo
+          prahistorio: prahistorio
+          prahomo: prahomo
+          pranepo: pranepo
+        re: 
+          ekspliko: "(re-) ripetado, reokazo"
+          reaperi: reaperi
+          refari: refari
+          reteni: reteni
+          reveni: reveni
+        titolo: Prefiksoj
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(-ad) daŭra ago"
+          parolado: parolado
+          paroli: paroli
+          rigardadi: rigardadi
+          rigardi: rigardi
+        an: 
+          Kristo: Kristo
+          brazilano: brazilano
+          ekspliko: "(-an) membro de grupo, partio, religio; loĝanto de lando aŭ regiono"
+          eŭropano: eŭropano
+          kanadano: kanadano
+          kristano: kristano
+          usonano: usonano
+        ar: 
+          ekspliko: "(-ar) kolekto, kolektiveco"
+          vortaro: vortaro
+          vorto: vorto
+          ŝafaro: ŝafaro
+          ŝafo: ŝafo
+        aĉ: 
+          domaĉo: domaĉo
+          domo: domo
+          ekspliko: "(-aĉ) malbona laŭ la materia aŭ estetika vidpunkto"
+          skribaĉi: skribaĉi
+          skribi: skribi
+        aĵ: 
+          dolĉa: dolĉa
+          dolĉaĵo: dolĉaĵo
+          ekspliko: "(-aĵ) Konkreta manifestiĝo de la ideo en la radiko."
+          pentraĝo: pentraĵo
+          pentri: pentri
+        ebl: 
+          ekspliko: "(-ebl) pasiva ebleco"
+          kredebla: kredebla
+          kredi: kredi
+          legebla: legebla
+          legi: legi
+          videbla: videbla
+          vidi: vidi
+        ec: 
+          amikeco: amikeco
+          amiko: amiko
+          ekspliko: "(-ec) stato aŭ abstrakta kvalito korespondanta al la ideo de la radiko."
+          mola: mola
+          moleco: moleco
+        eg: 
+          ekspliko: granda
+          ridegi: ridegi
+          ridi: ridi
+          ventego: ventego
+          vento: vento
+        ej: 
+          ekspliko: "(-ej) loko de la ago aŭ destinita al la estuloj karakterizitaj de la radiko."
+          oficejo: oficejo
+          ofico: ofico
+          preĝejo: preĝejo
+          preĝi: preĝi
+          ĉevalejo: ĉevalejo
+          ĉevalo: ĉevalo
+        em: 
+          babilema: babilema
+          babili: babili
+          ekspliko: "(-em) tendenco, inklino al"
+          ŝparema: ŝparema
+          ŝpari: ŝpari
+        end: 
+          ekspliko: "(-end) pasiva devo"
+          farenda: farenda
+          fari: fari
+          legenda: legenda
+          legi: legi
+        titolo: Sufiksoj
+        ĉj: 
+          ekspliko: "(-ĉj) karesa sufikso por viroj (kun parto de la radiko kaj konservante la belsonecon)"
+          jozefo: Jozefo
+          joĉjo: Joĉjo
+          patro: patro
+          paĉjo: paĉjo
+      superlativo: 
+        ekspliko-1: "Superlativo estas kiam unu el la individuoj prezentas kvaliton en grado pli aŭ malpli alta ol la ceteraj."
+        ekspliko-2: "Kiam estas nur du individuoj (homoj, aĵoj ktp.), oni uzu PLI aŭ MALPLI. La samo okazas kiam temas pri du grupoj:"
+        frazo-1: "El ĉiuj miaj infanoj Ernesto estas la plej juna."
+        frazo-2: "El ĉiuj miaj kolegoj Marko estas la plej forta."
+        frazo-3: "La plej belan knabinon ili elektis kiel reĝinon."
+        frazo-4: "La pli forta el la manoj."
+        frazo-5: "La lernantoj pli aĝaj instruis tiujn malpli aĝajn."
+        titolo: Superlativo

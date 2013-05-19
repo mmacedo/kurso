@@ -1,0 +1,184 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Samanlainen kun:"
+          frazo-1: "Esperanto on yhtä kaunis kun hyödyllinen."
+          frazo-2: "Ei mikään ole niin arvokas kun terveys."
+          frazo-3: "Hän on niin kaunis kun äitinsä."
+        malsupereco: 
+          ekspliko: "Pienempi, huonompi kun:"
+          frazo-1: "Veljeni on minua nuorempi."
+          frazo-2: "Hän kirjoittaa vähemmänkauniisti kun tyttö."
+          frazo-3: "(Avio-)Mies puhuu hiljaisemmin kun vaimo."
+        supereco: 
+          ekspliko: "Suurepi, parempi kun:"
+          frazo-1: "Maito on ravitsevampaa kun viini."
+          frazo-2: "Johano on pidempi kun Petro."
+          frazo-3: "Aurinko on suurempi kuin kuu."
+        titolo: Komparatiivi
+      prefiksoj01: 
+        bo: 
+          bofilo: vävy
+          bofratino: käly
+          bopatrino: anoppi
+          bopatro: appi
+          ekspliko: "avioliiton kautta muodostunut sukulaisuus."
+        dis: 
+          disdoni: "jakaa (esim. makeisia)"
+          disfali: "pudota hajalleen"
+          disflugi: "lentää hajalleen"
+          dissemi: "kylvää (ympäriinsä)"
+          ekspliko: "erilleen, hajalleen, eroon"
+        duon: 
+          duondio: puolijumala
+          duonfilino: tytärpuoli
+          duonhoro: puolituntinen
+          duonlumo: "puolivalo, hämärä"
+          ekspliko: "puoli-, puoliksi"
+          filino: tytär
+          horo: tunti
+        ek: 
+          ekbrilo: välähdys
+          ekdormi: nukahtaa
+          ekiri: lähteä
+          ekpluvi: "alkaa sataa"
+          ekspliko: "alkava, äkillinen"
+        eks: 
+          eksedziĝi: "erota avioliitosta"
+          eksfianĉo: "entinen morsiain"
+          eksiĝi: erota
+          ekspliko: "entinen, aikaisempi"
+          eksprezidanto: "entinen puheenjohtaja/ presidentti"
+        fi: 
+          ekspliko: "moraalisesti huono"
+          fidomo: porttola
+          fikomercisto: petturikauppias
+          fivirino: "portto, hävytön, kevytkenkäinen (nainen)"
+          komercisto: kauppias
+        ge: 
+          ekspliko: "molempia sukupuolia yhdessä."
+          geamikoj: "ystävät (molempaa sukupuolta)"
+          gefiloj: "(omat) lapset"
+          gefratoj: sisarukset
+          gepatroj: vanhemmat
+        mal: 
+          dekstro: "oikea (puoli)"
+          ekspliko: vastakohta
+          fermi: sulkea
+          maldekstro: "vasen (puoli)"
+          malfermi: avata
+        mis: 
+          ekspliko: "väärin, virheellisesti"
+          kompreni: ymmärtää
+          miskompreni: "ymmärtää väärin"
+          mispaŝo: harha-askel
+          misuzo: väärinkäyttö
+          paŝo: askel
+          uzo: käyttö
+        pra: 
+          ekspliko: muinainen
+          historio: historia
+          nepo: "pojan-, tyttären poika"
+          praavo: esi-isä
+          prahistorio: esihistoria
+          prahomo: alkuihminen
+          pranepo: "pojanpojan poika, tyttären pojan poika"
+        re: 
+          ekspliko: "toisto, paluu"
+          reaperi: "ilmestyä uudelleen"
+          refari: "tehdä uudelleen"
+          reteni: "ottaa uudelleen haltuunsa"
+          reveni: palata
+        titolo: Etuliitteet
+      sufiksoj01: 
+        ad: 
+          ekspliko: "jatkuva toiminta"
+          parolado: "puhe, puhuminen"
+          paroli: puhua
+          rigardadi: katsella
+          rigardi: katsoa
+        an: 
+          Kristo: Kristus
+          brazilano: brasilialainen
+          ekspliko: "ryhmän jäsen; asukas"
+          eŭropano: eurooppalainen
+          kanadano: kanadalainen
+          kristano: "kristillinen henkilö"
+          usonano: USA-lainen
+        ar: 
+          ekspliko: ryhmä
+          vortaro: "sanasto, sanakirja"
+          vorto: sana
+          ŝafaro: lammaslauma
+          ŝafo: lammas
+        aĉ: 
+          domaĉo: hökkeli
+          domo: talo
+          ekspliko: huono
+          skribaĉi: töhertää
+          skribi: kirjoittaa
+        aĵ: 
+          dolĉa: makea
+          dolĉaĵo: "makea syötävä"
+          ekspliko: "esine, asia, tuote"
+          pentraĝo: maalaus
+          pentri: maalata
+        ebl: 
+          ekspliko: "passiivinen mahdollisuus"
+          kredebla: uskottava
+          kredi: uskoa
+          legebla: "luettava, mahdollinen lukea"
+          legi: lukea
+          videbla: näkyvä
+          vidi: nähdä
+        ec: 
+          amikeco: ystävyys
+          amiko: ystävä
+          ekspliko: ominaisuus
+          mola: pehmeä
+          moleco: pehmeys
+        eg: 
+          ekspliko: "suurennus, laajennus"
+          ridegi: "nauraa kovasti"
+          ridi: nauraa
+          ventego: "erittäin kova tuuli, pieni myrsky"
+          vento: tuuli
+        ej: 
+          ekspliko: "paikka, tila"
+          oficejo: "virasto, toimisto"
+          ofico: virka
+          preĝejo: "rukouspaikka, kirkko"
+          preĝi: rukoilla
+          ĉevalejo: talli
+          ĉevalo: hevonen
+        em: 
+          babilema: "lörpöttelevä, puhelias"
+          babili: "lörpötellä, jutella"
+          ekspliko: "halukkuus, taipumus"
+          ŝparema: säästäväinen
+          ŝpari: säästää
+        end: 
+          ekspliko: "passiivinen pakko"
+          farenda: "välttämättä tehtävä"
+          fari: tehdä
+          legenda: "välttämätön lukea"
+          legi: lukea
+        titolo: Jälkiliitteet
+        ĉj: 
+          ekspliko: "maskuliininen hyväilymuoto (vartaloa lyhennetään mahdollisimman paljon)"
+          jozefo: Jussi
+          joĉjo: Jussikulta
+          patro: isä
+          paĉjo: isi
+      superlativo: 
+        ekspliko-1: "Superlatiivilla ilmaistaan asiaa tai esinettä, joka on suurempi, parempi tai vähäisempi kun toinen."
+        ekspliko-2: "Kun kyseessä on vain kaksi henkilöä, asiaa, esinettä jne., käytetään sanaa PLI tai MALPLI. Samoin menetellään jos kyseessä on kaksi ryhmää."
+        frazo-1: "Kaikista lapsistani Ernesto on nuorin."
+        frazo-2: "Kaikista kolleegoistani Marko on vahvin."
+        frazo-3: "Kauneimman tytön he valitsivat kuningattareksi."
+        frazo-4: "Käsistä vahvin."
+        frazo-5: "Vanhemmat oppilaat opettivat nuorempia."
+        titolo: Superlatiivi

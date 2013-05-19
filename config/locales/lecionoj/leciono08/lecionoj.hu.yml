@@ -1,0 +1,184 @@
+--- 
+hu: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Egyenlõség:"
+          frazo-1: "Az eszperantó olyan szép, mint amilyen hasznos."
+          frazo-2: "Semmi sem olyan értékes, mint az egészség."
+          frazo-3: "Olyan szép, mint az anya."
+        malsupereco: 
+          ekspliko: "Középfok - kisebb:"
+          frazo-1: "A testvérem fiatalabb, mint én."
+          frazo-2: "Kevésbé ír szépen, mint a lány."
+          frazo-3: "A férj halkabban beszél, mint a feleség."
+        supereco: 
+          ekspliko: "Középfok - nagyobb:"
+          frazo-1: "A tej táplálóbb, mint a bor."
+          frazo-2: "János magasabb, mint Péter."
+          frazo-3: "A nap nagyobb, mint a hold."
+        titolo: Összehasonlítás
+      prefiksoj01: 
+        bo: 
+          bofilo: võ
+          bofratino: sógorasszony
+          bopatrino: anyós
+          bopatro: após
+          ekspliko: "házasság általi kapcsolat"
+        dis: 
+          disdoni: szétosztani
+          disfali: "szétesni, darabokra esni"
+          disflugi: szétrepülni
+          dissemi: "magot vetni, szétszórni"
+          ekspliko: "szét, széjjel"
+        duon: 
+          duondio: félisten
+          duonfilino: "mostohalány (féltestvér)"
+          duonhoro: "fél óra"
+          duonlumo: "alkonyat, félhomály"
+          ekspliko: "fél   (1/2)"
+          filino: lánygyermek
+          horo: óra
+        ek: 
+          ekbrilo: "felvillanni, megvillanni"
+          ekdormi: elaludni
+          ekiri: "elindulni, megindulni"
+          ekpluvi: "elkezdeni esni"
+          ekspliko: "elkezdõdõ, hirtelen vagy pillanatnyi cselekedet"
+        eks: 
+          eksedziĝi: "elválni (házastárs)"
+          eksfianĉo: "volt võlegény"
+          eksiĝi: "lemondani, kiválni"
+          ekspliko: "olyan cselekvést vagy állapotot jelez, amely már nincsen"
+          eksprezidanto: "volt elnök"
+        fi: 
+          ekspliko: "rossz (erkölcsi szempontból)"
+          fidomo: "rosszhírû ház"
+          fikomercisto: "tisztességtelen üzletember"
+          fivirino: szajha
+          komercisto: üzletember
+        ge: 
+          ekspliko: "mindkét nem (kettõ vagy több egyén)"
+          geamikoj: "barátok (mindkét nem)"
+          gefiloj: "gyermekek (mindkét nem)"
+          gefratoj: "testvérek (mindkét nem)"
+          gepatroj: "szülõk (apa és anya)"
+        mal: 
+          dekstro: "jobb (kéz)"
+          ekspliko: "teljes ellentét"
+          fermi: "bezárni, becsukni"
+          maldekstro: "bal (kéz)"
+          malfermi: kinyitni
+        mis: 
+          ekspliko: "helytelen, téves, rossz"
+          kompreni: megérteni
+          miskompreni: félreérteni
+          mispaŝo: "rossz lépés"
+          misuzo: "helytelen használat"
+          paŝo: lépés
+          uzo: használat
+        pra: 
+          ekspliko: õs
+          historio: történelem
+          nepo: unoka
+          praavo: dédapa
+          prahistorio: õstörténelem
+          prahomo: õsember
+          pranepo: dédunoka
+        re: 
+          ekspliko: "ismétlés, újra elõfordulás"
+          reaperi: "újra megjelenni"
+          refari: újracsinálni
+          reteni: visszatartani
+          reveni: visszatérni
+        titolo: Elõképzõk
+      sufiksoj01: 
+        ad: 
+          ekspliko: "kitartó vagy ismétlõdõ cselekmény."
+          parolado: beszélgetni
+          paroli: beszélni
+          rigardadi: nézegetni
+          rigardi: nézni
+        an: 
+          Kristo: Krisztus
+          brazilano: brazil
+          ekspliko: "tagság (csoport, párt, vallás, nemzet)"
+          eŭropano: európai
+          kanadano: kanadai
+          kristano: keresztény
+          usonano: "amerikai(USA) (polgár, honos)"
+        ar: 
+          ekspliko: "gyûjtõneveket képzõ (csoport, fürt, csorda)"
+          vortaro: szótár
+          vorto: szó
+          ŝafaro: birkanyáj
+          ŝafo: birka
+        aĉ: 
+          domaĉo: "viskó, kunyhó"
+          domo: ház
+          ekspliko: "rossz (kinézet és/vagy teljesítmény szerint)"
+          skribaĉi: firkálni
+          skribi: írni
+        aĵ: 
+          dolĉa: édes
+          dolĉaĵo: édesség
+          ekspliko: "konkrét dolog"
+          pentraĝo: festmény
+          pentri: festeni
+        ebl: 
+          ekspliko: "passzív lehetõség"
+          kredebla: hihetõ
+          kredi: hinni
+          legebla: olvasható
+          legi: olvasni
+          videbla: látható
+          vidi: látni
+        ec: 
+          amikeco: barátság
+          amiko: barát
+          ekspliko: "minõség, tulajdonság (magyar: -ság, -ség)"
+          mola: puha
+          moleco: puhaság
+        eg: 
+          ekspliko: "nagy, nagyfokú, erõsebb"
+          ridegi: röhögni
+          ridi: nevetni
+          ventego: "vihar, hurrikán"
+          vento: szél
+        ej: 
+          ekspliko: helyiség
+          oficejo: "hivatal (szoba, helyiség)"
+          ofico: "hivatal (szervezet, munkakör)"
+          preĝejo: templom
+          preĝi: imádkozni
+          ĉevalejo: istálló
+          ĉevalo: ló
+        em: 
+          babilema: csevegõ
+          babili: csevegni
+          ekspliko: "hajlamosság, hajlandóság"
+          ŝparema: spórolós
+          ŝpari: spórolni
+        end: 
+          ekspliko: "-andó, -endõ"
+          farenda: "elkészítendõ, elvégzendõ"
+          fari: "csinálni, tenni"
+          legenda: olvasandó
+          legi: olvasni
+        titolo: Utóképzõk
+        ĉj: 
+          ekspliko: "férfi becenév  (a szó gyöke nem mindig marad változatlan)"
+          jozefo: József
+          joĉjo: Józsi
+          patro: apa
+          paĉjo: papa
+      superlativo: 
+        ekspliko-1: "Felsõfok esetében az egyik egyed magasabb (vagy alacsonyabb)  minõségi fokot mutat, mint az összes többi."
+        ekspliko-2: "Ha csak két egyed van (személyek, tárgyak stb.), használd a \"PLI\" vagy \"MALPLI\"-t. Ugyanaz történik, amikor két csoportról van szó:"
+        frazo-1: "Az összes gyermekeim közül Ernõ a legfiatalabb."
+        frazo-2: "Az összes kollégáim közül Márk a legerõsebb."
+        frazo-3: "A legszebb lányt választották királynõnek."
+        frazo-4: "Az erõsebb a kezek közül."
+        frazo-5: "Az idõsebb tanulók tanították a fiatalabbakat."
+        titolo: Felsõfok

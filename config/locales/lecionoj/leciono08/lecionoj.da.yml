@@ -1,0 +1,184 @@
+--- 
+da: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Om lighed:"
+          frazo-1: "Esperanto er lige så smukt som nyttigt"
+          frazo-2: "Intet er lige så værdifuldt som sundheden."
+          frazo-3: "Hun er lige så smuk som moderen."
+        malsupereco: 
+          ekspliko: "Om mindre grad"
+          frazo-1: "Min bror er yngre end jeg."
+          frazo-2: "Han skriver mindre smukt en pigen."
+          frazo-3: "Ægtemanden taler lavere end hustruen."
+        supereco: 
+          ekspliko: "Om højere grad"
+          frazo-1: "Mælk er mere nærende end vin."
+          frazo-2: "Johannes er højere end Peter."
+          frazo-3: "Solen er større end månen."
+        titolo: Sammenligning
+      prefiksoj01: 
+        bo: 
+          bofilo: "en svigersøn"
+          bofratino: "en svigerinde"
+          bopatrino: "en svigermor"
+          bopatro: "en svigerfar"
+          ekspliko: "(bo-) slægtskab ved ægteskab"
+        dis: 
+          disdoni: "at uddele, at distribuere"
+          disfali: "at falde fra hinanden"
+          disflugi: "at flyve fra hinanden, fyge"
+          dissemi: "at udså, at udstrø"
+          ekspliko: "(dis-) spredning, adskillelse"
+        duon: 
+          duondio: "en halvgud"
+          duonfilino: "en halvdatter"
+          duonhoro: "en halv time"
+          duonlumo: "en skumring"
+          ekspliko: "(duon-)  halv-"
+          filino: "en datter"
+          horo: "en time"
+        ek: 
+          ekbrilo: "et blink, lysglimt"
+          ekdormi: "at falde i søvn"
+          ekiri: "at starte, at komme igang"
+          ekpluvi: "begynde at regne"
+          ekspliko: "(ek-) påbegyndelse,  kortvarig eller øjeblikkelig handlig"
+        eks: 
+          eksedziĝi: "at fraskildes"
+          eksfianĉo: "en forhenværende forlovet"
+          eksiĝi: "at gå af"
+          ekspliko: "(eks-) forhenværende"
+          eksprezidanto: "en ekspræsident"
+        fi: 
+          ekspliko: "(fi-)  moralsk nedsættende"
+          fidomo: "et syndens hus"
+          fikomercisto: "en lyssky forrretningsdrivende"
+          fivirino: "en synderinde"
+          komercisto: "en forretningsmand, købmand"
+        ge: 
+          ekspliko: "(ge-) begge køn sammen"
+          geamikoj: "venner (af begge køn)"
+          gefiloj: børn
+          gefratoj: søskende
+          gepatroj: forældre
+        mal: 
+          dekstro: højre
+          ekspliko: "(mal-) det modsatte"
+          fermi: "at lukke"
+          maldekstro: venstre
+          malfermi: "at åbne"
+        mis: 
+          ekspliko: "(-mis) det fejlagtige"
+          kompreni: "at forstå"
+          miskompreni: "at misforstå"
+          mispaŝo: "et fejltrin"
+          misuzo: "et misbrug"
+          paŝo: "et skridt"
+          uzo: "en brug, anvendelse"
+        pra: 
+          ekspliko: "(pra-)  det fortidige, primitive"
+          historio: "en historie"
+          nepo: "et barnebarn"
+          praavo: "en oldefar"
+          prahistorio: "en oldtidshistorie"
+          prahomo: "et urmenneske"
+          pranepo: "et oldebarn"
+        re: 
+          ekspliko: "(re-) gentagelse, tilbage"
+          reaperi: "at komme til syne igen"
+          refari: "at gøre om"
+          reteni: "at holde (sig) tilbage fra"
+          reveni: "at komme tilbage, komme igen"
+        titolo: "Forstavelser (præfikser)"
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(-ad) det vedvarende"
+          parolado: "en tale"
+          paroli: "at tale"
+          rigardadi: "at stirre på"
+          rigardi: "at betragte, at se på"
+        an: 
+          Kristo: Kristus
+          brazilano: "en brasilianer"
+          ekspliko: "(-an) medlem, tilhænger, beboer"
+          eŭropano: "en europæer"
+          kanadano: "en canadier"
+          kristano: "en kristen"
+          usonano: "en USA-amerikaner"
+        ar: 
+          ekspliko: "(-ar) samling"
+          vortaro: "en ordbog"
+          vorto: "et ord"
+          ŝafaro: "en fåreflok"
+          ŝafo: "et får"
+        aĉ: 
+          domaĉo: "en rønne"
+          domo: "et hus"
+          ekspliko: "(-aĉ) ringe kvalitet"
+          skribaĉi: "at kradse (ned på papir)"
+          skribi: "at skrive"
+        aĵ: 
+          dolĉa: sød
+          dolĉaĵo: "søde sager"
+          ekspliko: "(-aĵ) det konkrete"
+          pentraĝo: "et maleri"
+          pentri: "at male"
+        ebl: 
+          ekspliko: "(-ebl) mulighed"
+          kredebla: trolig
+          kredi: "at tro"
+          legebla: læselig
+          legi: "at læse"
+          videbla: synlig
+          vidi: "at se"
+        ec: 
+          amikeco: "et vendskab"
+          amiko: "en ven"
+          ekspliko: "(-ec) egenskab, tilstand"
+          mola: blød
+          moleco: "en blødhed"
+        eg: 
+          ekspliko: "(-eg) forstørrelse"
+          ridegi: "at grine, skoggerle"
+          ridi: "at le"
+          ventego: "en storm"
+          vento: "en vind"
+        ej: 
+          ekspliko: "(-ej) sted"
+          oficejo: "et kontor"
+          ofico: "et embede, en plads"
+          preĝejo: "en kirke"
+          preĝi: "at bede"
+          ĉevalejo: "en stald"
+          ĉevalo: "en hest"
+        em: 
+          babilema: snaksom
+          babili: "at snakke, sludre"
+          ekspliko: "(-em) tilbøjelighed, vane"
+          ŝparema: "sparsommelig, økonomisk"
+          ŝpari: "at spare"
+        end: 
+          ekspliko: "(-end) det ubetinget nødvendige"
+          farenda: "som skal gøres"
+          fari: "at gøre"
+          legenda: "som skal læses"
+          legi: "at læse"
+        titolo: "Efterstavelser (suffikser)"
+        ĉj: 
+          ekspliko: "(-ĉj) mandlige kælenavne"
+          jozefo: Josef
+          joĉjo: Josse/Jossefar
+          patro: "en far"
+          paĉjo: "en kær far"
+      superlativo: 
+        ekspliko-1: "Superlativ (højeste grad for tillægsord og biord der er afledt af tillægsord) dannes ved hjælp af plej (mest)."
+        ekspliko-2: "Komparativ (højere grad for tillægsord og biord der er afledt af tillægsord) dannes ved hjælp af ordet pli (mere)."
+        frazo-1: "Af alle mine børn er Ernesto den yngste."
+        frazo-2: "Af alle mine kolleger er Marko den stærkeste."
+        frazo-3: "De valgte den smukkeste pige som dronning."
+        frazo-4: "Den stærkeste af hænderne."
+        frazo-5: "De ældre elever underviste de yngre."
+        titolo: "Superlativ (højeste grad for tillægsord og biord afledt af tillægsord)"

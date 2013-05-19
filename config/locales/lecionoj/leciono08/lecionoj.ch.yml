@@ -1,0 +1,184 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: 同级：
+          frazo-1: 世界语不但优美，而且有用。
+          frazo-2: 没有什么象健康那样有价值。
+          frazo-3: 她象妈妈那样美丽。
+        malsupereco: 
+          ekspliko: 低级：
+          frazo-1: 我弟弟比我小。
+          frazo-2: 他比女孩子写的字还丑。
+          frazo-3: 丈夫说话比妻子声音小。
+        supereco: 
+          ekspliko: 高级：
+          frazo-1: 奶比酒更有营养。
+          frazo-2: 约翰比彼得更高。
+          frazo-3: 太阳比月亮更大。
+        titolo: 比较级
+      prefiksoj01: 
+        bo: 
+          bofilo: 女婿
+          bofratino: 嫂子、弟媳、大（小）姨子
+          bopatrino: 岳母、婆婆
+          bopatro: 岳父、公公
+          ekspliko: 表示姻亲关系
+        dis: 
+          disdoni: 分发
+          disfali: 分化、瓦解；崩溃
+          disflugi: 飞散
+          dissemi: 撒；散布，传播
+          ekspliko: 分发、分散
+        duon: 
+          duondio: 半仙
+          duonfilino: 干女，继女，养女
+          duonhoro: 半小时
+          duonlumo: 半明半暗，不明不暗
+          ekspliko: "二分之一[译者注：duon-实际上是由数词du加表示分数的后缀-on-组成]"
+          filino: 女儿
+          horo: 小时
+        ek: 
+          ekbrilo: 闪光，刹那间
+          ekdormi: 入睡
+          ekiri: 出发
+          ekpluvi: 开始下雨
+          ekspliko: 表示开始或突发动作
+        eks: 
+          eksedziĝi: 离婚
+          eksfianĉo: 前未婚夫
+          eksiĝi: 退出
+          ekspliko: 表示以往的、退了职的
+          eksprezidanto: 前主席、前总统
+        fi: 
+          ekspliko: 表示主观上的嫌恶、不满或轻蔑
+          fidomo: 臭屋子
+          fikomercisto: 奸商
+          fivirino: 婊子，娼妇
+          komercisto: 商人
+        ge: 
+          ekspliko: 表示男女两性集合的称呼
+          geamikoj: (男女)朋友们
+          gefiloj: 儿女们
+          gefratoj: 兄弟姐妹
+          gepatroj: 父母
+        mal: 
+          dekstro: 右
+          ekspliko: 表示相反，相对
+          fermi: 关，关闭
+          maldekstro: 左
+          malfermi: 开，打开
+        mis: 
+          ekspliko: 表示错误、不准确、不适当
+          kompreni: 理解
+          miskompreni: 误解
+          mispaŝo: 失足，失策
+          misuzo: 误用
+          paŝo: 脚步，步伐
+          uzo: 使用，运用
+        pra: 
+          ekspliko: 表示远古，远辈
+          historio: 历史
+          nepo: 孙子
+          praavo: 曾祖父
+          prahistorio: 远古史，史前史
+          prahomo: 原始人
+          pranepo: 曾孙
+        re: 
+          ekspliko: "表示“ 回、还、重新”"
+          reaperi: 重现
+          refari: 重做
+          reteni: 阻止，留住，私留
+          reveni: 回来
+        titolo: 前缀
+      sufiksoj01: 
+        ad: 
+          ekspliko: 表示动作的持续、反复
+          parolado: 演讲
+          paroli: 说话，讲话
+          rigardadi: （长时间地）看，注视
+          rigardi: 看，望
+        an: 
+          Kristo: 基督
+          brazilano: 巴西人
+          ekspliko: 表示成员、会员、人、信徒，和名词构成新词。
+          eŭropano: 欧洲人
+          kanadano: 加拿大人
+          kristano: 基督徒
+          usonano: 美国人
+        ar: 
+          ekspliko: 表示集合体，常加在名词词根后。
+          vortaro: 词典，词汇
+          vorto: 词，言语，说话
+          ŝafaro: 羊群
+          ŝafo: 绵羊
+        aĉ: 
+          domaĉo: 简陋房
+          domo: 房子
+          ekspliko: 表示恶劣
+          skribaĉi: 涂鸦，乱画
+          skribi: 书写，填写，写信，写作
+        aĵ: 
+          dolĉa: 甜的、甜蜜的
+          dolĉaĵo: 甜食
+          ekspliko: 表示具有词根意义的事物。
+          pentraĝo: 画，图画
+          pentri: 画，绘
+        ebl: 
+          ekspliko: 表示可能，一般只加在及物动词词根后。
+          kredebla: 可信的
+          kredi: 相信
+          legebla: 可阅读的
+          legi: 读，阅读
+          videbla: 可以看得见的
+          vidi: 看见
+        ec: 
+          amikeco: 友谊，友情
+          amiko: 朋友
+          ekspliko: 表示词根所具有的性质
+          mola: 软的，柔软的，轻柔的
+          moleco: 柔软，温柔，软弱
+        eg: 
+          ekspliko: 大的，伟大的
+          ridegi: 大笑
+          ridi: 笑
+          ventego: 大风
+          vento: 风
+        ej: 
+          ekspliko: 表示地点，场所
+          oficejo: 办公室，事务所
+          ofico: 职位、职能、作用
+          preĝejo: 教堂
+          preĝi: 祈祷
+          ĉevalejo: 马厩
+          ĉevalo: 马
+        em: 
+          babilema: 爱絮叨的
+          babili: 聊天
+          ekspliko: 表示一种倾向，爱好或习惯。
+          ŝparema: 节俭的
+          ŝpari: 节省
+        end: 
+          ekspliko: 表示应该，可以
+          farenda: 应该做的
+          fari: 做，制造，进行，使……成为
+          legenda: 应该读的，可以读的
+          legi: 读，阅读
+        titolo: 后缀
+        ĉj: 
+          ekspliko: 表示对男性的爱称（为了发音的优美其构词词根一般只保留一部分）
+          jozefo: 约瑟夫
+          joĉjo: 约瑟夫（昵称）
+          patro: 父亲，爸爸
+          paĉjo: 爸爸
+      superlativo: 
+        ekspliko-1: 当若干个人或物中的一个在优劣程度上与比其他人或物相比较，其级别更高或更低时，要用最高级。
+        ekspliko-2: 当只有两个人或物时进行比较时，我们通常用PLI或MALPLI。两组比较也是如此。
+        frazo-1: 欧内斯特是我所有孩子中最年轻的。
+        frazo-2: 在我所有的同事中马克最强壮。
+        frazo-3: 他们选了最美丽的姑娘当王后。
+        frazo-4: 更有力的一只手。
+        frazo-5: 年龄较大的学生教过那些年龄较小的。
+        titolo: 最高级

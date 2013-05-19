@@ -1,0 +1,184 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Eşitlik, Aynı seviyede :"
+          frazo-1: "Esperanto faydalı olduğu kadar, o kadar da güzeldir."
+          frazo-2: "Hiç bir şey sağlık kadar kıymetli değildir."
+          frazo-3: "O (dişil) o kadar güzel ki; annesi kadar."
+        malsupereco: 
+          ekspliko: "Daha alt seviyede (daha az) :"
+          frazo-1: "Kardeşim benden daha gençtir."
+          frazo-2: "O (erkek) kızdan daha kötü yazıyor."
+          frazo-3: "Koca karısından daha sakin konuşuyor."
+        supereco: 
+          ekspliko: "Daha üst seviyede, (daha fazla) :"
+          frazo-1: "Süt şaraptan daha besleyicidir."
+          frazo-2: "Johano Peter'dan daha uzun boyludur."
+          frazo-3: "Güneş aydan daha büyüktür."
+        titolo: Karşılaştırma
+      prefiksoj01: 
+        bo: 
+          bofilo: Damat
+          bofratino: Görümce
+          bopatrino: "Kayınvalide, kaynana"
+          bopatro: Kayınpeder
+          ekspliko: "(bo-) evlilik yoluyla akrabalık"
+        dis: 
+          disdoni: "Dağıtmak, Paylaştırmak"
+          disfali: Dökülmek
+          disflugi: "kanat çırparak uçma"
+          dissemi: "Tohum ekmek"
+          ekspliko: "(dis-) ayırmak, uzaklaşmak, paylaştırma"
+        duon: 
+          duondio: "yarı tanrı"
+          duonfilino: "üvey kız"
+          duonhoro: "yarım saat"
+          duonlumo: "yarı aydınlık, alacakaranlık"
+          ekspliko: "(duon-) yarım , üvey kardeş"
+          filino: "Kız evlat"
+          horo: saat
+        ek: 
+          ekbrilo: Parlama
+          ekdormi: "uykuya dalmak"
+          ekiri: "hareket etmek"
+          ekpluvi: "Yağmaya başlamak"
+          ekspliko: "(ek-) başlangıç, birdenbire veya ani hareket"
+        eks: 
+          eksedziĝi: "Eski kocam"
+          eksfianĉo: "Eski nişanlı"
+          eksiĝi: "Terhis olmak; azledilmek"
+          ekspliko: "(eks-) sabık, eski, artık varolmayan bir hadiseyi gösterir."
+          eksprezidanto: "Eski başbakan"
+        fi: 
+          ekspliko: "(fi-) moral bakımından, kötü olmak"
+          fidomo: "kötü ev"
+          fikomercisto: "Kötü tüccar"
+          fivirino: "kötü kadın"
+          komercisto: Tüccar
+        ge: 
+          ekspliko: "(ge-) her iki cinsiyetin beraberliği ( iki veya grup)"
+          geamikoj: "Dostlar ( her iki cinsten )"
+          gefiloj: "oğul ve kız, oğullar ve kızlar"
+          gefratoj: "Erkek kardeş ve Kız kardeşler"
+          gepatroj: "ebeveynler, baba ve anne"
+        mal: 
+          dekstro: "Sağ ( cihet,yön)"
+          ekspliko: "(mal-) tersi aksi, başına geldiği kelimeye zıt anlam verir."
+          fermi: Kapatmak
+          maldekstro: "Sol (cihet,yön)"
+          malfermi: Açmak
+        mis: 
+          ekspliko: "(mis-) başına geldiği kelimenin anlamını kötü, aykırı, hatalı, eksik şekle sokar."
+          kompreni: anlamak
+          miskompreni: "yanlış anlamak"
+          mispaŝo: "hatalı adım, yanlış adım"
+          misuzo: "Kötüye kullanmak"
+          paŝo: Adım
+          uzo: Kullanmak
+        pra: 
+          ekspliko: "(pra-) çok eskiden, uzaklık ifade eder"
+          historio: Tarih
+          nepo: "Torun (erkek)"
+          praavo: "Dedenin dedesi"
+          prahistorio: "Tarih öncesi"
+          prahomo: "İnsan öncesi"
+          pranepo: "Torun oğlu"
+        re: 
+          ekspliko: "(re-) olayın tekrarı, yenilenme"
+          reaperi: "yeniden varolmak"
+          refari: "tekrar yapmak"
+          reteni: Alıkoymak
+          reveni: Dönmek
+        titolo: "Ön Takılar"
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(-ad) uzun zaman, devam eden hadise, olayı belirler"
+          parolado: "konuşma, söylev, nutuk"
+          paroli: konuşmak
+          rigardadi: "devamlı bakmak"
+          rigardi: bakmak
+        an: 
+          Kristo: İsa
+          brazilano: Brezilyalı
+          ekspliko: "(-an) Aynı partiden, aynı dinden,aynı memleketin halkından"
+          eŭropano: Avrupalı
+          kanadano: Kanadalı
+          kristano: Hıristiyan
+          usonano: "A.B.D vatandaşı"
+        ar: 
+          ekspliko: "(-ar) aynı cinsten konu topluluğu (kollektivite)"
+          vortaro: sözlük
+          vorto: söz
+          ŝafaro: "koyun sürüsü"
+          ŝafo: koyun
+        aĉ: 
+          domaĉo: "yıkıntı, enkaz ev"
+          domo: Ev
+          ekspliko: "(-aĉ) maddesel ve estetik açıdan kötü. Genel son ektir kötülük anlatır."
+          skribaĉi: "kötü yazmak, karalamak"
+          skribi: Yazmak
+        aĵ: 
+          dolĉa: Tatlı
+          dolĉaĵo: Pasta
+          ekspliko: "(-aĵ) isim son ekidir. Kökün fikrini kısa şekilde ifade etme."
+          pentraĝo: "Tablo , Resim"
+          pentri: "resim yapmak"
+        ebl: 
+          ekspliko: "(-ebl) Sıfat son ekidir. Çeşitli fiil kökü sonuna geldiğinde imkan, kabiliyet ifade eder."
+          kredebla: inanılabilir.
+          kredi: inanmak
+          legebla: okunabilir
+          legi: okumak
+          videbla: görülebilir
+          vidi: görmek
+        ec: 
+          amikeco: dostluk
+          amiko: dost
+          ekspliko: "(-ec) kökün fikrini kasteden durum veya soyut nitelik. İsim son eki."
+          mola: yumuşak
+          moleco: yumuşaklık
+        eg: 
+          ekspliko: "büyük , ulu"
+          ridegi: "kuvvetli gülmek"
+          ridi: gülmek
+          ventego: fırtına
+          vento: rüzgar
+        ej: 
+          ekspliko: "(-ej) hareket yerini veya kökte karakterize edilmiş olan varlıklara ayrılan manayı ifade eder."
+          oficejo: "ofis, yazıhane"
+          ofico: "vazife, görev"
+          preĝejo: "kilise , dua evi"
+          preĝi: "Tanrı'ya dua etmek"
+          ĉevalejo: ahır
+          ĉevalo: at
+        em: 
+          babilema: geveze
+          babili: "gevezelik etmek"
+          ekspliko: "(-em) eğilim, temayül"
+          ŝparema: tutumlu
+          ŝpari: biriktirmek
+        end: 
+          ekspliko: "(-end) pasif gereklilik, zorunluluk."
+          farenda: "yapılmalı, yapılması gerekli"
+          fari: yapmak
+          legenda: "okumalısın,okuman gerek"
+          legi: okumak
+        titolo: "Son Takılar"
+        ĉj: 
+          ekspliko: "(-ĉj) nazikane çağrılan isimlerin son takısı, cümlede ahengin korunması."
+          jozefo: "Jozefo ( Yusuf - özel isim)"
+          joĉjo: "Joĉjo (Yusufcuk - özel isim)"
+          patro: Baba
+          paĉjo: Babacık
+      superlativo: 
+        ekspliko-1: "Eğer, bireylerden, eşyalardan birisi diğerinden daha yüksek veya daha alçak seviyede ise, burada üstünlük takısı kullanılır."
+        ekspliko-2: "İki şahıs veya iki eşya veya iki grup birbirleriyle kıyaslanırsa, PLI ( daha fazla) veya MALPLI (daha az) kelimeleri kullanılır :"
+        frazo-1: "Bütün çocuklarımdan en genci Ernesto'dur."
+        frazo-2: "Bütün meslektaşlarımdan Marko en kuvvetlisidir."
+        frazo-3: "En güzel kızı kraliçe olarak seçtiler."
+        frazo-4: "Ellerden daha kuvvetlisi."
+        frazo-5: "Daha büyük öğrenciler, daha küçükleri ders çalıştırıyorlardı."
+        titolo: "Üstünlük Derecesi"

@@ -1,0 +1,186 @@
+--- 
+de: 
+  lecionoj: 
+    leciono08: 
+      komparado: 
+        egaleco: 
+          ekspliko: "Gleich oder verschieden?  (a) Gleich [=]:"
+          frazo-1: "Esperanto ist (eben)so schön wie nützlich."
+          frazo-2: "Nichts ist so wertvoll wie die Gesundheit."
+          frazo-3: "Sie ist so schön wie die Mutter."
+        malsupereco: 
+          ekspliko: "(bb) Weniger [<]:"
+          frazo-1: "Mein Bruder ist JÜNGER (weniger alt) als ich."
+          frazo-2: "Er schreibt SCHLECHTER (w. sch.) als das Mädchen."
+          frazo-3: "Der Mann spricht LEISER (weniger laut) als die Frau."
+        supereco: 
+          ekspliko: "(b) Verschieden: (ba) Mehr [>]:"
+          frazo-1: "Milch ist nahrhafter als Wein."
+          frazo-2: "Johannes ist größer als Peter."
+          frazo-3: "Die Sonne ist größer als der Mond."
+        titolo: "Komparation - Vergleichsstufen"
+      prefiksoj01: 
+        bo: 
+          bofilo: Schwiegersohn
+          bofratino: Schwägerin
+          bopatrino: Schwiegermutter
+          bopatro: Schwiegervater
+          ekspliko: "bezeichnet Verschwägerung (angeheiratete Verwandte), vgl. dt. Schwieger-"
+        dis: 
+          disdoni: verteilen
+          disfali: zerfallen
+          disflugi: auseinanderfliegen
+          dissemi: verstreuen
+          ekspliko: "(zer-, auseinander-) Verteilung, Auseinandergehen"
+        duon: 
+          duondio: Halbgott
+          duonfilino: "Stieftochter [Halbtochter]"
+          duonhoro: "halbe Stunde [Halbstunde]"
+          duonlumo: "trübes Licht, Dämmerlicht"
+          ekspliko: |-
+              
+              halb-
+          filino: Tochter
+          horo: Stunde
+        ek: 
+          ekbrilo: "Aufzucken [des Blitzes]"
+          ekdormi: einschlafen
+          ekiri: aufbrechen
+          ekpluvi: "zu regnen beginnen"
+          ekspliko: "drückt eine beginnende, plötzliche oder momentane Handlung aus."
+        eks: 
+          eksedziĝi: "sich scheiden lassen"
+          eksfianĉo: Exbräutigam
+          eksiĝi: zurücktreten
+          ekspliko: "verweist auf einen früheren Zustand"
+          eksprezidanto: Expräsident
+        fi: 
+          ekspliko: "(schlecht) moralisch verwerflich"
+          fidomo: "Spelunke, Puff (übles Haus)"
+          fikomercisto: "Wucherer, Betrüger"
+          fivirino: "Weibstück (böse)"
+          komercisto: Kaufmann
+        ge: 
+          ekspliko: "(meint beide Geschlechter)"
+          geamikoj: "Freunde (beide Geschlechter)"
+          gefiloj: Kinder
+          gefratoj: Geschwister
+          gepatroj: Eltern
+        mal: 
+          dekstro: "Rechte (Sg.)"
+          ekspliko: Gegenteil
+          fermi: schließen
+          maldekstro: "Linke [die/das]"
+          malfermi: öffnen
+        mis: 
+          ekspliko: "(falsch/irrig) unzutreffend, untauglich, schlimm, schlecht usw.; vgl. dt. miss-"
+          kompreni: "begreifen, verstehen"
+          miskompreni: missverstehen
+          mispaŝo: Fehltritt
+          misuzo: Missbrauch
+          paŝo: Schritt
+          uzo: Gebrauch
+        pra: 
+          ekspliko: "(Ur-) aus alter Zeit"
+          historio: Geschichte
+          nepo: Enkel
+          praavo: Urgroßvater
+          prahistorio: "Vorgeschichte, Urzeiten"
+          prahomo: Urmensch
+          pranepo: Urenkel
+        re: 
+          ekspliko: "wieder-, zurück-"
+          reaperi: "wieder auftauchen"
+          refari: "wieder tun, machen"
+          reteni: zurückhalten
+          reveni: zurückkommen
+        titolo: "Präfixe - Vorsilben"
+      sufiksoj01: 
+        ad: 
+          ekspliko: "(Dauer) nachhaltig"
+          parolado: Rede
+          paroli: sprechen
+          rigardadi: "beobachten, betrachten"
+          rigardi: anschauen
+        an: 
+          Kristo: Christus
+          brazilano: Brasilianer
+          ekspliko: "Anhänger, Einwohner"
+          eŭropano: Europäer
+          kanadano: Kanadier
+          kristano: Christ
+          usonano: US-Amerikaner
+        ar: 
+          ekspliko: "Ansammlung, Kollektiv"
+          vortaro: Wörterverzeichnis
+          vorto: Wort
+          ŝafaro: Schafherde
+          ŝafo: Schaf
+        aĉ: 
+          domaĉo: "Kasten, Bruchbude"
+          domo: Haus
+          ekspliko: "äußere/geschmackliche Verschlechterung"
+          skribaĉi: "krickeln, sudeln [usw.]"
+          skribi: schreiben
+        aĵ: 
+          dolĉa: süß
+          dolĉaĵo: "Süßigkeit(en) [Bonbons, Eis]"
+          ekspliko: "Etwas, Sache, Konkretes"
+          pentraĝo: "Gemälde, Bild"
+          pentri: malen
+        ebl: 
+          ekspliko: möglich
+          kredebla: "glaubhaft, glaubwürdig"
+          kredi: glauben
+          legebla: lesbar
+          legi: lesen
+          videbla: sichtbar
+          vidi: sehen
+        ec: 
+          amikeco: Freundschaft
+          amiko: Freund
+          ekspliko: "Eigenschaft, Zustand oder abstrakte Qualität, vgl. dt. -heit"
+          mola: weich
+          moleco: Weichheit
+        eg: 
+          ekspliko: "Vergrößerung, Verstärkung"
+          ridegi: "kräftig lachen"
+          ridi: lachen
+          ventego: Sturm
+          vento: Wind
+        ej: 
+          ekspliko: "Ort, Raum, Platz"
+          oficejo: Büro
+          ofico: "Amt (als Aufgabe)"
+          preĝejo: "Kirche, Bethaus"
+          preĝi: beten
+          ĉevalejo: "Pferdestall, Pferdeplatz"
+          ĉevalo: Pferd
+        em: 
+          babilema: geschwätzig
+          babili: "schwatzen, erzählen,  babbeln"
+          ekspliko: "Neigung, Hang"
+          ŝparema: sparsam
+          ŝpari: sparen
+        end: 
+          ekspliko: "Notwendigkeit, Aufgabe"
+          farenda: "ein zu machendes"
+          fari: "tun, machen"
+          legenda: "'ein zu lesendes'(muss man les.)"
+          legi: lesen
+        titolo: "Suffixe - Endungen"
+        ĉj: 
+          ekspliko: "Koseform - männlich"
+          jozefo: Josef
+          joĉjo: "Jüppchen, Seppl, Joschka usw."
+          patro: Vater
+          paĉjo: Papa
+      superlativo: 
+        ekspliko-1: "Der Superlativ ist die oberste/unterste Steigerungsstufe einer Eigenschaft/Qualität."
+        ekspliko-2: "Bei nur zwei Personen verwende man PLI oder MALPLI - ebenso bei (nur) zwei Gruppen."
+        frazo-1: "Von all meinen Kindern ist Ernst das jüngste."
+        frazo-2: "Von all meinen Kollegen ist Mark der stärkste."
+        frazo-3: "Das schönste Mädchen wählten sie als/zur Königin."
+        frazo-4: "Die stärkste Hand (wörtlich: Die stärkere von den Händen)."
+        frazo-5: "Die älteren Schüler unterrichteten die jüngeren."
+        titolo: "Superlativ - Höchststufe"
