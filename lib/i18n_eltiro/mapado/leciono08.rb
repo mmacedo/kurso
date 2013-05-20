@@ -33,7 +33,7 @@ I18nEltiro::Mapado.agordi do
       mapi 'l147', 'frazo-5'
     end
 
-    al 'prefiksoj01' do
+    al 'prefiksoj' do
       mapi 'l008', 'titolo'
       al 'bo' do
         mapi 'l581', 'ekspliko'
