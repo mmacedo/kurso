@@ -1,0 +1,157 @@
+--- 
+hu: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "részecske (egy része az egésznek)"
+          monero: aprópénz
+          mono: pénz
+          salero: sószem
+          salo: só
+        estr: 
+          ekspliko: "fõnök, vezetõ, igazgató"
+          urbestro: polgármester
+          urbo: város
+          ŝipestro: hajóskapitány
+          ŝipo: hajó
+        et: 
+          ekspliko: "kicsi, pici"
+          pupeto: kisbaba
+          pupo: baba
+          rideti: mosolyog
+          ridi: nevet
+        id: 
+          ekspliko: utód
+          katido: kiscica
+          kato: macska
+          reĝido: herceg
+          reĝo: király
+        ig: 
+          ekspliko: "valamivé tesz"
+          morti: "meghalni, elmúlni, kimúlni"
+          mortigi: megölni
+          pura: tiszta
+          purigi: tisztít
+        il: 
+          ekspliko: "eszköz, szerszám"
+          muzikilo: hangszer
+          muziko: zene
+          ŝlosi: bezárni
+          ŝlosilo: kulcs
+        in: 
+          ekspliko: nõnem
+          kokino: tyúk
+          koko: kakas
+          onklino: nagynéni
+          onklo: nagybácsi
+        ind: 
+          admiri: csodálni
+          admirinda: "csodálatra méltó"
+          ekspliko: "méltó valamire"
+          laŭdi: dicsérni
+          laŭdinda: "dicséretre méltó"
+        ist: 
+          ekspliko: "szakma, hivatás"
+          esperantisto: eszperantista
+          esperanto: eszperantó
+          pianisto: zongorista
+          piano: zongora
+          raporti: tudósítani
+          raportisto: tudósító
+          tajpi: gépelni
+          tajpisto: gépíró
+        iĝ: 
+          ekspliko: "valamivé válik"
+          fari: "tenni, csinálni"
+          fariĝi: "valamivé válni vagy alakulni"
+          mateniĝi: hajnal
+          mateno: reggel
+          ruĝa: vörös
+          ruĝiĝi: "elpirulni, vörössé válni"
+        nj: 
+          Maria: Mária
+          ekspliko: "nõi becenév  (a szógyök megváltozhat!)"
+          manjo: Marcsi
+          panjo: mama
+          patrino: anya
+        obl: 
+          du: kettõ
+          duobla: kétszeres
+          ekspliko: többszöröz
+          tri: három
+          trioblo: "triobla = háromszoros"
+        ? "on"
+        : 
+          dek: tíz
+          dekono: "egy tized"
+          ekspliko: "törtet képez"
+          kvar: négy
+          kvarono: negyed
+        op: 
+          du: kettõ
+          duopo: "egy pár"
+          ekspliko: csoportosít
+          ses: hat
+          sesopo: "fél tucat"
+        rimarkigo: 
+          ekspliko: "Amikor értelmi zavar van az utóképzõk között, használhatunk szinonimákat:"
+          germanio: Németország
+          pomarbo: almafa
+          pomkesto: almáskosár
+          ruslando: Oroszország
+        titolo: Utóképzõk
+        uj: 
+          ekspliko: "tartály, gyümölccsel teli fa, ország néppel együtt"
+          franco: "francia (nemzet)"
+          francujo: Franciaország
+          mono: pénz
+          monujo: pénztárca
+          pomo: alma
+          pomujo: "almáskosár, almafa"
+        ul: 
+          ekspliko: személyesít
+          kontraŭ: "ellen, szemben"
+          kontraŭulo: "ellenálló (személy)"
+          riĉa: gazdag
+          riĉulo: "egy gazdag személy"
+          sankta: "szent (melléknév)"
+          sanktulo: "szent (személy)"
+          stulta: "hülye, buta"
+          stultulo: "egy hülye személy"
+        um: 
+          ekspliko: "(határozatlan): v-mivel v-mit tenni, v-minek a v-mije, v-mi határozatlant tenni."
+          kolo: nyak
+          kolumo: gallér
+          plena: "teli, teljes"
+          plenumi: "megtölteni, teljessé tenni"
+      vortordo: 
+        dialogo: "— Megláttalak téged, ó kincs, és tüstént beléd szerettem!    — Hiszek neked, de az aranynak a pénztárcában a helye     — Imádlak téged, de kedvesem, én nem ilyennek hittelek    — Ha szeretnél engem, te fösvény, királynõvé tennél"
+        ekspliko-1: "A harmadik leckében láthattuk az alany - állítmány - tárgy szórendet, amely a leggyakrabban használt szórend az eszperantóban. Más szórendet is használhatunk, azzal a feltétellel, hogy a mondat megõrizze értelmét. A szórendváltoztatást egy szó hangsúlyozása érdekében tesszük. A következõ mondatban szórendet változtatunk, hogy kihangsúlyozzunk egy szót."
+        ekspliko-2: "Egy szó hangsúlyozására a \"ja\" szót használjuk (ilyenkor az értelme: igenis, valóban, tényleg, biztos, bizonyára stb.)."
+        ekspliko-3: "A \"ki\"-vel kezdõdõ szavak a mondat vagy a mellékmondat elejére kell, hogy kerüljenek."
+        ekspliko-4: "A költészetben gyakran használt eszköz az eltérõ szórend. Figyeld meg a következõ négy humoros verssort, ahol az alany, az állítmány és a tárgy hat lehetséges helyen jelenik meg:"
+        ekspliko-5: "Ez a szórendszabadság nagy rugalmasságot biztosít a költészetben, azonban a prózában és a mindennapi használatban ez a szabadság nem feltétlenül használatos, mert a kialakult szokás már elfogadott néhány szórendet. Például:"
+        ekspliko-6: "Az alábbi helyett:"
+        ekspliko-7: "Inkább:"
+        frazo-1: "A pamlagon õk ülnek (nem mások)."
+        frazo-10: "Valóban én voltam, aki hívta õket."
+        frazo-11: "Bizonyára meg kell halnod egyszer."
+        frazo-12: "Vajon õk biztosan jönnek?"
+        frazo-13: "Válóban õ volt, aki énekelt?"
+        frazo-14: "Mit akarsz?"
+        frazo-15: "Ki Anna?"
+        frazo-16: "Azt akarom, amit te."
+        frazo-17: "Mikor tér vissza a fiad?"
+        frazo-18: "Még nem tudom, hogy mikor fog visszatérni."
+        frazo-19: "Nem tudom, hogy mely gyümölcsöket válasszam."
+        frazo-2: "Õk a pamlagon ülnek (és nem máshol)."
+        frazo-3: "A kutya üldözi a macskát (és nem más állat vagy személy)."
+        frazo-4: "Üldözi a kutya a macskát (és nem mást csinál a macskának)."
+        frazo-5: "A kutya a macskát üldözi (és nem más egyéb állatot)."
+        frazo-6: "Én õt hívtam (és nem mást)."
+        frazo-7: "Pétert Mária szereti, és nem Pál."
+        frazo-8: "A zöld színt részesítem elõnyben (és nem más színt)."
+        frazo-9: "Nem én tettem azt (talán valaki más)."
+        libera_traduko: "Szabad fordítás:"
+        titolo: Szórend

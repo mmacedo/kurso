@@ -1,0 +1,157 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "Bir bütünün öğesini ifade eden son takı."
+          monero: kuruş
+          mono: para
+          salero: "kristal tuz"
+          salo: tuz
+        estr: 
+          ekspliko: "Şef, başkan rütbesi yüksek olan ve emir verebilen."
+          urbestro: "Belediye başkanı"
+          urbo: Şehir
+          ŝipestro: "gemi kaptanı"
+          ŝipo: "vapur, gemi"
+        et: 
+          ekspliko: "Küçük,küçük derecede"
+          pupeto: "Oyuncak bebekcik"
+          pupo: "Oyuncak bebek"
+          rideti: "tebessüm etmek"
+          ridi: gülmek
+        id: 
+          ekspliko: "Küçük çocuk, erkek evlat, oğul"
+          katido: "kedi yavrusu"
+          kato: kedi
+          reĝido: prens
+          reĝo: kral
+        ig: 
+          ekspliko: "Yaptırıyorum,kökte belirtildiği gibi olmasını yaptırmak. Sıfat ve geçişsiz fiilleri geçişli fiil yapar."
+          morti: ölmek
+          mortigi: öldürmek
+          pura: Temiz
+          purigi: Temizlettiriyorum
+        il: 
+          ekspliko: "Olayın meydana gelmesini sağlayan alet veya avadanlık."
+          muzikilo: "müzik aleti"
+          muziko: müzik
+          ŝlosi: kilitliyorum
+          ŝlosilo: anahtar
+        in: 
+          ekspliko: "Dişil cinsiyeti belirleyen son takıdır."
+          kokino: tavuk
+          koko: horoz
+          onklino: "Hala / Teyze"
+          onklo: Amca
+        ind: 
+          admiri: "Hayran kalmak"
+          admirinda: "İnsanı hayran bırakan"
+          ekspliko: "Kökün ifade ettiği gibi layık olmak"
+          laŭdi: övmek
+          laŭdinda: "övülmeye değer"
+        ist: 
+          ekspliko: "Meslek veya geleneksel sanat için son takı."
+          esperantisto: Esperantist
+          esperanto: Esperanto
+          pianisto: piyanist
+          piano: piyano
+          raporti: "rapor etmek"
+          raportisto: raportör
+          tajpi: "Daktilo ile yazmak"
+          tajpisto: Daktilograf
+        iĝ: 
+          ekspliko: "Kökte belirtildiği gibi oluyorum.Edilgen fiil son ekidir. (Dış etken olmaksızın)"
+          fari: yapmak
+          fariĝi: "oluyorum / herhangi bir çeşit"
+          mateniĝi: "şafak sökmek"
+          mateno: Sabah
+          ruĝa: kırmızı
+          ruĝiĝi: kızarıyorum
+        nj: 
+          Maria: "Maria (özel isim)"
+          ekspliko: "Bayan isimleri için kullanılan nazik son takı ( kök ve ses ahengini koruyarak )"
+          manjo: "Mariya'cık (özel isim)"
+          panjo: annecik
+          patrino: anne
+        obl: 
+          du: İki
+          duobla: "İki misli"
+          ekspliko: "Bölünebilir sayı için son takı"
+          tri: üç
+          trioblo: "üç misli"
+        ? "on"
+        : 
+          dek: "on"
+          dekono: "onda biri"
+          ekspliko: "Bir kökün parçası"
+          kvar: dört
+          kvarono: "dörtte bir (çeyrek)"
+        op: 
+          du: iki
+          duopo: "ikişer, çift olarak"
+          ekspliko: "grup halinde birer ikişer"
+          ses: altı
+          sesopo: "altışar grup halinde"
+        rimarkigo: 
+          ekspliko: "Bu iki son takının manaları arasında karışıklık olduğunda, yerine eş anlamlısı kullanılmalı."
+          germanio: Almanya
+          pomarbo: "elma ağacı"
+          pomkesto: "Elma sandığı"
+          ruslando: Rusya
+        titolo: "Son Takı"
+        uj: 
+          ekspliko: "İç içe ifade taşıyan nesneler; meyvalarına göre ağaç; halkına göre memleket."
+          franco: fransız
+          francujo: Fransa
+          mono: para
+          monujo: "para kesesi"
+          pomo: elma
+          pomujo: "Adem elması"
+        ul: 
+          ekspliko: "Kökte ifade edilen birey, şahıs için son takı"
+          kontraŭ: "karşı, aksi"
+          kontraŭulo: muhalif
+          riĉa: zengin
+          riĉulo: varlıklı
+          sankta: aziz
+          sanktulo: "aziz din adamı"
+          stulta: aptal
+          stultulo: "ahmak kişi"
+        um: 
+          ekspliko: "Manası belirsiz son takı"
+          kolo: boyun
+          kolumo: yaka
+          plena: dolu
+          plenumi: "icra etmek"
+      vortordo: 
+        dialogo: "- Seni gördüm, ey hazine ve derhal sana vuruldum! - Sana inanıyorum, ama altın cüzdanında hazır bulunsun, - Seni seviyorum, ama en kıymetlim, böyle olduğunu düşünmezdim! - Beni sevseydin, cimri herif, beni kraliçe yapardın."
+        ekspliko-1: "Şimdiye kadar Esperanto'da en çok karşılaşılan kelime dizimi özne, yüklem, tümleci gösterdik. Fakat açıklığı korumak şartıyla, serbest cümlelerde kurulabilir. Esas kural açıklıktır, bu nedenle: sıfat isimden, zarf da fiilden; genel bir ifade ile sıfat ve zarflar ait oldukları kelimelerden evvel bulunurlar.."
+        ekspliko-2: "Cümlede herhangi bir kısmın önemini belirtmek, dikkatini çekmek için \"ja\" kelimeciğini kullanabiliriz."
+        ekspliko-3: "Cümlelerin \" Ki\" ile başlayan kısımları basit veya yan cümlenin başında olmalıdır."
+        ekspliko-4: "Cümlelerde değişik dizimler, bilhassa şiirde sıkça kullanılan bir metodtur. Aşağıdaki dörtlükte öznenin, fiilin ve nesnenin altı değişik şekilde kullanımına dikkat edin:"
+        ekspliko-5: "Bu usul şiire çok esneklik sağlamakta, lakin düz yazı ve günlük kullanımda bu serbestlik tam değildir. Çünkü bazı şekiller geleneğe oturtulmuştur.Örneğin:"
+        ekspliko-6: "Yerine :"
+        ekspliko-7: "Tercih Edin :"
+        frazo-1: "Divanın üstünde onlar oturuyorlar, başkaları değil."
+        frazo-10: "Onları elbette çağırmıştım."
+        frazo-11: "Bir zaman elbette öleceksin ya."
+        frazo-12: "Gelecekler mi yani?"
+        frazo-13: "O (dişil) muydu şarkı söyleyen?"
+        frazo-14: "Ne istiyorsunuz?"
+        frazo-15: "Anna hanginiz?"
+        frazo-16: "Senin istediğini, bende istiyorum."
+        frazo-17: "Oğlun ne zaman dönecek?"
+        frazo-18: "Ne zaman döneceğini henüz bilmiyorum."
+        frazo-19: "Hangi meyvaları seçeceğimi bilmiyorum."
+        frazo-2: "Onlar tam koltukta oturuyorlar, başka yerde değil."
+        frazo-3: "Kediyi başkası değil, köpek kovalıyor."
+        frazo-4: "Köpek kediyi kovalıyor, ama onu seyretmiyor, örn."
+        frazo-5: "Köpek tam kediyi kovalıyor, fareyi değil. Örneğin."
+        frazo-6: "Ben tam onu çağırmıştım, bir başkasını değil."
+        frazo-7: "Maria'nın sevgilisi Petro, Paŭlo değil."
+        frazo-8: "Ben yeşil rengi tercih ediyorum, başkasını değil."
+        frazo-9: "Bunu ben yapmadım ( başkası yaptı )."
+        libera_traduko: "Serbest Çeviri :"
+        titolo: "Söz Dizimi"

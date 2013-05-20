@@ -1,0 +1,164 @@
+--- 
+jp: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: 全体の構成部分
+          monero: 硬貨(コイン)
+          mono: お金
+          salero: 塩の粒
+          salo: 塩(しお)
+        estr: 
+          ekspliko: 長、指導者
+          urbestro: 市長
+          urbo: 市、町
+          ŝipestro: 船長
+          ŝipo: 船
+        et: 
+          ekspliko: 小さい、弱い
+          pupeto: 小さな人形
+          pupo: 人形
+          rideti: ほほえむ
+          ridi: 笑う
+        id: 
+          ekspliko: 子
+          katido: 子猫
+          kato: 猫(ネコ)
+          reĝido: 王子
+          reĝo: 王
+        ig: 
+          ekspliko: ～にする
+          morti: 死ぬ
+          mortigi: 殺す
+          pura: きれいな
+          purigi: 掃除する
+        il: 
+          ekspliko: 道具
+          muzikilo: 楽器
+          muziko: 音楽
+          ŝlosi: 鍵をかける
+          ŝlosilo: 鍵(かぎ)
+        in: 
+          ekspliko: 女性
+          kokino: めんどり
+          koko: にわとり
+          onklino: おば
+          onklo: おじ
+        ind: 
+          admiri: 賞賛する
+          admirinda: 賞賛に値する
+          ekspliko: される価値のある
+          laŭdi: ほめる
+          laŭdinda: ほめられるに値する
+        ist: 
+          ekspliko: それに従事する人
+          esperantisto: エスペランチスト
+          esperanto: エスペラント
+          pianisto: ピアニスト
+          piano: ピアノ
+          raporti: 報告する
+          raportisto: 報道者、レポーター
+          tajpi: タイプライターで打つ
+          tajpisto: タイピスト
+        iĝ: 
+          ekspliko: ～になる
+          fari: する、作る
+          fariĝi: なる
+          mateniĝi: 夜明け
+          mateno: 朝
+          ruĝa: 赤い
+          ruĝiĝi: 赤くなる
+        nj: 
+          Maria: マリア
+          ekspliko: 女性の愛称(語根も短くすることがあります)
+          manjo: マリアちゃん、まあちゃん
+          panjo: お母さん、ママ
+          patrino: 母
+        obl: 
+          du: "2"
+          duobla: 2倍の
+          ekspliko: 倍
+          tri: "3"
+          trioblo: 3倍
+        ? "on"
+        : 
+          dek: "10"
+          dekono: 10分の1(1/10)
+          ekspliko: 分数、「～分の1」を示します
+          kvar: "4"
+          kvarono: 4分の1(1/4)
+        op: 
+          du: "2"
+          duopo: 二人組
+          ekspliko: 組、グループ
+          ses: "6"
+          sesopo: 六人組
+        rimarkigo: 
+          ekspliko: "この接尾辞-uj-を使って誤解が生じる場合には、別の言葉を使いましょう:"
+          germanio: ドイツ(国名)
+          pomarbo: リンゴの木
+          pomkesto: リンゴの箱
+          ruslando: ロシア(国名)
+        titolo: 接尾辞(せつびじ)
+        uj: 
+          ekspliko: 容器、果物の木、国
+          franco: フランス人
+          francujo: フランス(国名)
+          mono: お金
+          monujo: 財布(さいふ)
+          pomo: リンゴ
+          pomujo: リンゴの箱、リンゴの木
+        ul: 
+          ekspliko: その性質を持つ人
+          kontraŭ: 反対に
+          kontraŭulo: 反対者
+          riĉa: 豊かな
+          riĉulo: 金持ち
+          sankta: 聖なる
+          sanktulo: 聖人
+          stulta: おろかな
+          stultulo: おろか者
+        um: 
+          ekspliko: (他の接尾辞で表せない意味を表す接尾辞)
+          kolo: 首
+          kolumo: えり
+          plena: 満ちた、完全な
+          plenumi: 実行する
+      vortordo: 
+        dialogo: |-
+            —- 私はあなたを見た、ああ(宝物のように)なんていとしい人,
+            　　そして私はあなたに一目ぼれしたのです!
+            —- 私はあなたを信じています、でも金は財布の中に準備するべきです 
+            —- 私はあなたを愛していますが、ああいとしい人,
+            　　そんな私はあなたを信じていませんでした!
+            —- もしけちなあなたが本当に私を愛していたなら,
+            　　あなたは私を女王にしないといけなかったのです。
+        ekspliko-1: "第3課では「主語-動詞-目的語」の語順がエスペラントでは最もふつうに使われることを勉強しました。 しかし明確さが保たれる限りにおいては、他の語順も使われます。 文のある部分を強調したい場合がその一例です。 以下の例では、文の一部分を強調するために語順を変えています:"
+        ekspliko-2: "文のある部分を強調するには、その前に\"ja\"という語を置くこともできます:"
+        ekspliko-3: "\"ki\"で始まる単語は、文または節の先頭に置きます。"
+        ekspliko-4: "詩においては、語順の変更が広く使われています。 次のユーモラスな例では、主語、動詞、目的語が可能な6通りの組合せで出てきます。"
+        ekspliko-5: この語順の自由性は、詩に対しては大きな柔軟性をもたらしますが、散文や日常使う表現では、既に慣習上の語順が落ち着いているので、いつでも語順を自由にかえてよいわけではありません。
+        ekspliko-6: "あまり好ましくない表現:"
+        ekspliko-7: "こちらの方が好ましい表現:"
+        frazo-1: ソファーに座っているのは彼らであって、他の人たちではありません。
+        frazo-10: 彼らを呼んだのは、この私です。
+        frazo-11: あなたはいつかきっと死なねばなりません。
+        frazo-12: 彼らは本当に来るでしょうか?
+        frazo-13: 歌ったのは本当に彼女でしたか?
+        frazo-14: あなたは何がほしいですか?
+        frazo-15: 誰がアンナですか?
+        frazo-16: 私はあなたがほしがるものがほしいです。
+        frazo-17: あなたの息子はいつ帰りますか?
+        frazo-18: 私は彼がいつ帰るのかまだ知りません。
+        frazo-19: 私はどの果物を選ぶかわかりません。
+        frazo-2: 彼らは、他の場所ではなく、まさにそのソファーに座っています。
+        frazo-3: その猫を追いかけているのは、その犬であって、他のものではありません。
+        frazo-4: その犬は猫を追いかけているのであって、例えば見ているだけではありません。
+        frazo-5: その犬は猫を追いかけているのであって、例えばネズミなどではありません。
+        frazo-6: 私は彼を呼んだのであって、他の人を呼んだのではではありません。
+        frazo-7: マリアが恋しているのはペトロであって、パウロではありません。
+        frazo-8: 私は緑色が好みであって、他の色ではありません。
+        frazo-9: それをやったのはこの私ではありません(誰か他の人がやりました)。
+        libera_traduko: "自由翻訳:"
+        titolo: 語順

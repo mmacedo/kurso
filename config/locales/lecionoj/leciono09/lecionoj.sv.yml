@@ -1,0 +1,168 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "ett av de element som utgör helheten"
+          monero: mynt
+          mono: pengar/valuta
+          salero: saltkorn
+          salo: salt
+        estr: 
+          ekspliko: "Någon som innehar högre befattning och har rätt att ge order"
+          urbestro: borgmästare
+          urbo: stad
+          ŝipestro: fartygschef
+          ŝipo: skepp
+        et: 
+          ekspliko: "liten, med svag intensitet"
+          pupeto: "liten docka"
+          pupo: docka
+          rideti: le
+          ridi: skratta
+        id: 
+          ekspliko: "avkomma, barn"
+          katido: kattunge
+          kato: katt
+          reĝido: "prins (kungason)"
+          reĝo: kung
+        ig: 
+          ekspliko: "låta göra (något), få någon att göra något"
+          morti: dö
+          mortigi: "döda (göra död)"
+          pura: ren
+          purigi: "göra rent"
+        il: 
+          ekspliko: "verktyg eller apparat som används för att utföra verksamheten."
+          muzikilo: musikinstrument
+          muziko: musik
+          ŝlosi: låsa
+          ŝlosilo: nyckel
+        in: 
+          ekspliko: "anger kvinnligt kön (femininum)"
+          kokino: höna
+          koko: tupp
+          onklino: "faster / moster"
+          onklo: morbro/farbror
+        ind: 
+          admiri: beundra
+          admirinda: beundransvärd
+          ekspliko: "det som är värt att, det som förtjänar att"
+          laŭdi: berömma
+          laŭdinda: berömvärd
+        ist: 
+          ekspliko: "profession, yrkesman, person som utför viss verksamhet ofta"
+          esperantisto: esperantist
+          esperanto: esperanto
+          pianisto: pianist
+          piano: piano
+          raporti: rapportera
+          raportisto: reporter
+          tajpi: "skriva på maskin"
+          tajpisto: maskinskrivare
+        iĝ: 
+          ekspliko: "bli (utan påverkan av yttre omständighet)"
+          fari: göra
+          fariĝi: bli
+          mateniĝi: gryning
+          mateno: morgon
+          ruĝa: röd
+          ruĝiĝi: rodna
+        nj: 
+          Maria: Maria
+          ekspliko: "smeknamnsbildande suffix för kvinnor (vanligen 3 - 5 bokstäver + suffixet)"
+          manjo: "Maja (ev. Mia)"
+          panjo: mamsen
+          patrino: "moder, mor"
+        obl: 
+          du: två
+          duobla: "tvåfaldig, dubbel"
+          ekspliko: "-faldig, -dubbel"
+          tri: tre
+          trioblo: tredubbel
+        ? "on"
+        : 
+          dek: tio
+          dekono: tiondel
+          ekspliko: "-del (bråkdel av det roten uttrycker)"
+          kvar: fyra
+          kvarono: fjärdedel
+        op: 
+          du: två
+          duopo: par
+          ekspliko: "I grupper om"
+          ses: sex
+          sesopo: "grupp om sex"
+        rimarkigo: 
+          ekspliko: "Om det uppstår tveksamhet om innebörden av 1 och 2 bör man istället använda synonymer:"
+          germanio: Tyskland
+          pomarbo: äppelträd
+          pomkesto: äppellåda
+          ruslando: Ryssland
+        titolo: Suffix
+        uj: 
+          ekspliko: "föremål som innesluter andra föremål/behållare, träd med frukt, landet där angivet folk bor"
+          franco: fransman
+          francujo: Frankrike
+          mono: pengar
+          monujo: portmonnä
+          pomo: äpple
+          pomujo: äppelträd
+        ul: 
+          ekspliko: "varelse med egenskap enligt roten"
+          kontraŭ: emot
+          kontraŭulo: motståndare
+          riĉa: rik
+          riĉulo: "rik person"
+          sankta: helig
+          sanktulo: helgon
+          stulta: dum
+          stultulo: "dummer, dum person"
+        um: 
+          ekspliko: "suffix utan fastbetydelse (de skapade ordens innebörd måste läras separat)"
+          kolo: hals
+          kolumo: krage
+          plena: full
+          plenumi: uppfylla
+      vortordo: 
+        dialogo: |-
+            — Jag såg dig, å min skatt, 
+               och ville genast få dig fatt!
+            — Jag tror dig o min kung
+               men jag behöver guld uti min pung!
+            — Jag älskar dig, min dyra,
+               men jag har knappt till hyra!
+            — Om du skulle älska mig, din snåljåp,
+               skulle du inte  bete dig som en klåp.
+        ekspliko-1: "Vi demonstrerade ordföljden subjekt - verb - komplement i tredje lektionen. Denna ordföljd är den vanligaste för esperanto. Men, andra ordföljder är möjliga, under förutsättning att tydligheten kommer att bevaras. Ett av dessa tillfällen är, när man vill ge eftertryck åt visst ord i meningen. I följande meningar har ordföljden ändrats för att ge eftertryck åt ett av orden:"
+        ekspliko-2: "För att understryka ord i mening kan man även använda det lilla ordet 'ja' = ju, som framhäver betydelsen:"
+        ekspliko-3: "Ord som börjar på 'KI' måste stå i början av en mening eller bisats:"
+        ekspliko-4: |-
+            Inom poesi är det vanligt att placera orden på olika ställen i meningen. Studera  följande 
+            humoristiska fyr-rads verser, där subjekt, verb och komplement uppträder på de sex platser 
+            som är möjliga. Obs.  Den svenska 'översättningen'  är på intet sätt  ordagrann.
+        ekspliko-5: "Denna frihet ger poesin en enorm flexibilitet, men. i proza och dagligt bruk är denna frihet inte absolut, ty praxis har redan sanktionerat vissa former, t.ex.:"
+        ekspliko-6: "Istället för:"
+        ekspliko-7: "Att föredraga:"
+        frazo-1: "I soffan sitter dom. (inga andra)"
+        frazo-10: "Jag ropade ju på dom (dem)."
+        frazo-11: "Du måste ju dö någon gång."
+        frazo-12: "Kommer dom (verkligen) att komma?"
+        frazo-13: "Var det verkligen hon, som sjöng?"
+        frazo-14: "Vad vill du?"
+        frazo-15: "Vem är Anna ?"
+        frazo-16: "Jag vill det, som du vill."
+        frazo-17: "När kommer din son tillbaka?"
+        frazo-18: "Jag vet ännu inte, när han återkommer."
+        frazo-19: "Jag vet inte, vilka frukter jag skall välja."
+        frazo-2: "De sitter precis på (den) soffan. ( ingen annan stans)"
+        frazo-3: "Det är hunden (ingen annan) som jagar katten."
+        frazo-4: "Det är hunden som jagar katten. (den bevakar den inte, t.ex.)"
+        frazo-5: "Hunden jagar katten. (inte  t.ex. en mus)"
+        frazo-6: "Jag ropade speciellt på honom. (inte på någon annan människa)"
+        frazo-7: "Maria äskar Peter, (hon älskar) inte Paul."
+        frazo-8: "Jag föredrar den gröna färgen. (inte någon annan)"
+        frazo-9: "Det var inte jag som gjorde det. ( någon annan har gjort det)"
+        libera_traduko: "Fri översättning:"
+        titolo: Ordföljd

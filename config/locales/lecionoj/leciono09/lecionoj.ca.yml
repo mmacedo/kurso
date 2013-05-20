@@ -1,0 +1,166 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "una de les parts del conjunt"
+          monero: moneda
+          mono: "diners, doblers"
+          salero: "gra de sal"
+          salo: sal
+        estr: 
+          ekspliko: "aquell qui està en el rang més alt i té el poder d'ordenar"
+          urbestro: "alcalde, batlle"
+          urbo: ciutat
+          ŝipestro: "capità (de vaixell)"
+          ŝipo: vaixell
+        et: 
+          ekspliko: "petit, poc intens"
+          pupeto: nineta
+          pupo: "nina (joguina)"
+          rideti: somriure
+          ridi: riure
+        id: 
+          ekspliko: "fill, descendent"
+          katido: "cadell de gat"
+          kato: gat
+          reĝido: "príncep, infant"
+          reĝo: rei
+        ig: 
+          ekspliko: "fer fer"
+          morti: morir
+          mortigi: "matar, fer morir"
+          pura: net
+          purigi: "netejar, rentar"
+        il: 
+          ekspliko: "instrument o aparell que serveix per a efectuar l'acció"
+          muzikilo: "instrument (musical)"
+          muziko: música
+          ŝlosi: "tancar amb clau"
+          ŝlosilo: clau
+        in: 
+          ekspliko: "expressa el sexe femení"
+          kokino: gallina
+          koko: gall
+          onklino: tia
+          onklo: oncle
+        ind: 
+          admiri: admirar
+          admirinda: admirable
+          ekspliko: "digne de"
+          laŭdi: lloar
+          laŭdinda: lloable
+        ist: 
+          ekspliko: "professió, ocupació quotidiana"
+          esperantisto: esperantista
+          esperanto: esperanto
+          pianisto: pianista
+          piano: piano
+          raporti: "reportar, informar"
+          raportisto: reporter
+          tajpi: teclejar
+          tajpisto: mecanògraf
+        iĝ: 
+          ekspliko: "fer-se (sense agent extern)"
+          fari: fer
+          fariĝi: fer-se
+          mateniĝi: aurora
+          mateno: matí
+          ruĝa: "vermell, roig"
+          ruĝiĝi: "tornar-se vermell, enrogir-se"
+        nj: 
+          Maria: Maria
+          ekspliko: "sufix afectiu per a dones (amb només part de l'arrel i mantenint l'eufonia)"
+          manjo: Marieta
+          panjo: mama
+          patrino: mare
+        obl: 
+          du: dos
+          duobla: doble
+          ekspliko: múltiple
+          tri: tres
+          trioblo: triple
+        ? "on"
+        : 
+          dek: deu
+          dekono: "desè, desena part"
+          ekspliko: "fracció de l'arrel"
+          kvar: quatre
+          kvarono: "un quart"
+        op: 
+          du: dos
+          duopo: "parella, duo"
+          ekspliko: "per grups de"
+          ses: sis
+          sesopo: sextet
+        rimarkigo: 
+          ekspliko: "Quan hi hagi confusió entre els sentits 1 i 2 d'aquest sufix, utilitzem un sinònim:"
+          germanio: Alemanya
+          pomarbo: pomer
+          pomkesto: "caixa de pomes"
+          ruslando: Rússia
+        titolo: Sufixos
+        uj: 
+          ekspliko: "objecte que en conté d'altres; l'arbre que fa el fruit; el país"
+          franco: francès
+          francujo: França
+          mono: diner
+          monujo: moneder
+          pomo: poma
+          pomujo: pomer
+        ul: 
+          ekspliko: "persona caracteritzada per l'arrel"
+          kontraŭ: contra
+          kontraŭulo: opositor
+          riĉa: "ric/a (adjectiu)"
+          riĉulo: "ric, persona rica"
+          sankta: "sant/a (adjectiu)"
+          sanktulo: "sant (persona)"
+          stulta: "estúpid/a (adjectiu)"
+          stultulo: "estúpid (persona)"
+        um: 
+          ekspliko: "sufix sense sentit definit, amb diversos significats"
+          kolo: coll
+          kolumo: "coll (d'un vestit)"
+          plena: ple/na
+          plenumi: "acomplir, portar a cap"
+      vortordo: 
+        dialogo: |-
+            — Et vaig veure, oh tresor, 
+            i de cop et vaig començar a estimar! 
+            — Et crec a tu, però tingues 
+            l'or preparat al moneder! 
+             
+            — A tu t'estimo, però, amor meu, 
+            no et feia pas així! 
+            - Si de veres a mi m'estimessis, avar, 
+            de debò em converteries en reina!
+        ekspliko-1: "Fins ara hem usat l'ordre subjecte-verb-complement, el més comú en esperanto. Tot i això n'hi ha d'altres que també són possibles, sempre que es mantingui la claretat. Un d'aquests casos és quan es vol emfatitzar un element de la frase. A les següents oracions s'ha canviat l'ordre dels elements per emfatitzar-ne un:"
+        ekspliko-2: "Per emfatitzar una frase es pot utilitzar també la paraula \"ja\", que realça el sentit:"
+        ekspliko-3: "Els elements de la frase que comencen per \"KI\" cal que es col·loquin al principi de l'oració o proposició."
+        ekspliko-4: "La variació de l'ordre dels elements d'una frase és un mitjà àmpliament utilitzat en poesia. Fixeu-vos en els següents quartets humorístics on el subjecte, verb i complement apareixen en les sis posicions possibles:"
+        ekspliko-5: "Aquesta llibertat dóna una enorme flexibilitat a la poesia. Tanmateix, en prosa o en l'ús corrent de l'idioma aquesta llibertat no és absoluta perquè el costum ja ha fixat algunes formes. Per exemple:"
+        ekspliko-6: "En comptes de:"
+        ekspliko-7: "És preferible:"
+        frazo-1: "Al sofà hi seuen ells, no altres."
+        frazo-10: "És clar que jo els vaig cridar."
+        frazo-11: "Has de morir per força en algun moment."
+        frazo-12: "Segur que vindran?"
+        frazo-13: "Així que era ella la que cantava?"
+        frazo-14: "Què vols?"
+        frazo-15: "Qui és l'Anna?"
+        frazo-16: "Vull el que tu vols."
+        frazo-17: "Quan tornarà el teu fill?"
+        frazo-18: "Encara no sé quan vindrà."
+        frazo-19: "No sé quina fruita escollir."
+        frazo-2: "Ells seuen només sobre el sofà, no a cap altre lloc."
+        frazo-3: "És el gos, no cap altre, qui persegueix el gat."
+        frazo-4: "El gos persegueix el gat; no l'observa, per exemple."
+        frazo-5: "El gos persegueix el gat, no el ratolí, per exemple."
+        frazo-6: "Vaig cridar-lo a ell, no a ningú altre."
+        frazo-7: "L'estimat de la Maria és en Pere, no en Pau."
+        frazo-8: "Prefereixo el color verd (no cap altre)."
+        frazo-9: "No vaig ser jo qui ho va fer (va ser algú altre)."
+        libera_traduko: "Traducció lliure:"
+        titolo: "Ordre de les paraules"

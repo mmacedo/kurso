@@ -1,0 +1,157 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: 表示构成某物的分子
+          monero: 钱币
+          mono: 钱，金钱，货币
+          salero: 盐粒
+          salo: 盐，食盐
+        estr: 
+          ekspliko: 表示首长，头领
+          urbestro: 市长
+          urbo: 城市
+          ŝipestro: 船长，舰长
+          ŝipo: 船，艇，舰
+        et: 
+          ekspliko: 表示小
+          pupeto: 小玩偶
+          pupo: 洋娃娃，玩偶
+          rideti: 微笑
+          ridi: 笑
+        id: 
+          ekspliko: 表示人的子孙、后代或动植物的幼仔、幼苗
+          katido: 猫仔
+          kato: 猫
+          reĝido: 王子
+          reĝo: 王，国王
+        ig: 
+          ekspliko: 构成及物动词，表示使，致等意
+          morti: 死，死亡
+          mortigi: 杀死
+          pura: 纯的，干净的
+          purigi: 使清洁，打扫；提纯
+        il: 
+          ekspliko: 表示工具、器械；有关的手段或材料
+          muzikilo: 乐器
+          muziko: 音乐
+          ŝlosi: 锁，锁上
+          ŝlosilo: 钥匙
+        in: 
+          ekspliko: 表示女性；雌性
+          kokino: 母鸡，雌禽
+          koko: 家鸡，雄禽
+          onklino: 伯母，婶母；舅母，姨母；姑母
+          onklo: 伯父，叔父；舅父；姨父；姑父
+        ind: 
+          admiri: 赞赏，倾倒
+          admirinda: 令人赞美的
+          ekspliko: 表示“值得”
+          laŭdi: 称赞，表扬，夸奖
+          laŭdinda: 值得赞扬的，可嘉的
+        ist: 
+          ekspliko: 表示从事某种职业或具有某种爱好的人
+          esperantisto: 世界语者
+          esperanto: 世界语
+          pianisto: 钢琴家
+          piano: 钢琴
+          raporti: 转告、转述；报告，报道
+          raportisto: 新闻记者，采访记者
+          tajpi: 打字
+          tajpisto: 打字员
+        iĝ: 
+          ekspliko: 构成自动词，表示变成词根所示的状态
+          fari: 做，造；进行；使……成为
+          fariĝi: 成为，变成
+          mateniĝi: 黎明，破晓
+          mateno: 晨，早晨
+          ruĝa: 红色的
+          ruĝiĝi: 发红
+        nj: 
+          Maria: 玛丽
+          ekspliko: 表示女性的爱称（根据发音优美的需要加在1-5个字母之后）
+          manjo: 玛丽（爱称）
+          panjo: 妈妈（爱称）
+          patrino: 妈妈
+        obl: 
+          du: 二
+          duobla: 二倍的
+          ekspliko: 表示倍数
+          tri: 三
+          trioblo: 三倍
+        ? "on"
+        : 
+          dek: 十
+          dekono: 十分之一
+          ekspliko: 表示分数
+          kvar: 四
+          kvarono: 四分之一
+        op: 
+          du: 二
+          duopo: 两个一起，成双
+          ekspliko: 表示集合体
+          ses: 六
+          sesopo: 六个一起
+        rimarkigo: 
+          ekspliko: 当这个后缀在意义上会发生混淆时，可以用同义词代替，如：
+          germanio: 德国
+          pomarbo: 苹果树
+          pomkesto: 苹果箱
+          ruslando: 俄罗斯
+        titolo: 后缀
+        uj: 
+          ekspliko: 表示容器；果树；国家
+          franco: 法国人
+          francujo: 法国
+          mono: 钱
+          monujo: 钱包
+          pomo: 苹果
+          pomujo: 苹果树
+        ul: 
+          ekspliko: 表示具有一定特点的人或动物的属类
+          kontraŭ: 对，向，反对
+          kontraŭulo: 反对者，反抗者
+          riĉa: 富的，有钱的
+          riĉulo: 有钱人，富人
+          sankta: 圣的，神圣的
+          sanktulo: 圣人
+          stulta: 愚蠢的，呆笨的
+          stultulo: 愚人，呆子，笨蛋
+        um: 
+          ekspliko: 表示用其它后缀不能表示的意义
+          kolo: 脖子
+          kolumo: 领子
+          plena: 装满的，完全的，充分的
+          plenumi: 完成，执行，满足
+      vortordo: 
+        dialogo: "——啊，宝贝，一看见你，         |  我立刻就爱上了你！ ——我相信，可是           |  你把钱包里的金子备好！ ——我爱你，但是，亲爱的，        |  我不相信你是那种人！ ——如果你爱我，贪心的         |  就得让我当上王后！"
+        ekspliko-1: 至今我们已经学习了主语-动词-补语这种词序。这是世界语里最常用的词序。然而其它词序也是可以使用的，但必须保证语意清楚。这种情况下的用法之一就是强调特定的句子成分。下面的句子中就是为了强调某个部分而改变了词序：
+        ekspliko-2: 为了强调句子成分我们可以使用“ja”来突出意思：
+        ekspliko-3: 以“KI”开头的词必须位于主句或从句的句首：
+        ekspliko-4: 在诗歌中词序的使用十分自由。请注意，在下面的四行幽默诗句中主语、动词和补语出现在六个不同的位置上。
+        ekspliko-5: 这种自由的词序赋予诗歌极大的灵活性，然而在散文或日常使用中，这种自由性又不是绝对的，因应习惯已经认可了一些表达形式，如：
+        ekspliko-6: 我们不说：
+        ekspliko-7: 而是更喜欢说：
+        frazo-1: 在沙发上坐着的是他们，而不是其他人。
+        frazo-10: 我却实叫过他们了。
+        frazo-11: 你的确该死。
+        frazo-12: 他们却实会来吗？
+        frazo-13: 的确是她唱的吗？
+        frazo-14: 你想要什么？
+        frazo-15: 安娜是谁？
+        frazo-16: 我想要你要的东西。
+        frazo-17: 你儿子什么时候回来？
+        frazo-18: 我还不知道他什么时候会回来。
+        frazo-19: 我不知道选择哪些水果。
+        frazo-2: 他们正是坐在沙发上，而不是其他地方。
+        frazo-3: 是狗，而不是其它动物在猎捕猫。
+        frazo-4: 狗正是在猎捕猫，而不是在观察它。
+        frazo-5: 狗猎捕的正是猫，而不是老鼠。
+        frazo-6: 我叫的正是他，不是别人。
+        frazo-7: 玛丽的情人是彼得，不是保罗。
+        frazo-8: 我更喜欢绿色（不是其它颜色）。
+        frazo-9: 做那事的不是我（另外一个人做的）。
+        libera_traduko: 参考译文：
+        titolo: 词序

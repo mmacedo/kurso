@@ -1,0 +1,162 @@
+--- 
+cs: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "(-er) částečka celku"
+          monero: "peníz, mince"
+          mono: peníze
+          salero: "zrnko soli"
+          salo: sůl
+        estr: 
+          ekspliko: "(-estr) vedoucí, šéf, představený"
+          urbestro: starosta
+          urbo: město
+          ŝipestro: "kapitán lodi"
+          ŝipo: loď
+        et: 
+          ekspliko: "(-et) malý, drobný"
+          pupeto: panenka
+          pupo: "pana, loutka"
+          rideti: "usmívat se"
+          ridi: "smát se"
+        id: 
+          ekspliko: "(-id) mládě, potomek"
+          katido: kotě
+          kato: kočka
+          reĝido: "kralevic, princ"
+          reĝo: král
+        ig: 
+          ekspliko: "(-ig) udělat nebo dát udělat"
+          morti: zemřít
+          mortigi: zabít
+          pura: čistý
+          purigi: vyčistit
+        il: 
+          ekspliko: "(-il) nástroj nebo přístroj"
+          muzikilo: "hudební nástroj"
+          muziko: hudba
+          ŝlosi: zamykat
+          ŝlosilo: klíč
+        in: 
+          ekspliko: "(-in) ženské pohlaví"
+          kokino: slepice
+          koko: kohout
+          onklino: teta
+          onklo: strýc
+        ind: 
+          admiri: obdivovat
+          admirinda: obdivuhodný
+          ekspliko: "(-ind) hoden něčeho"
+          laŭdi: chválit
+          laŭdinda: chvályhodný
+        ist: 
+          ekspliko: "(-isto) profesionál, sportovec, člen hnutí"
+          esperantisto: esperantista
+          esperanto: esperanto
+          pianisto: pianista
+          piano: piano
+          raporti: "podat hlášení, hlásit"
+          raportisto: reportér
+          tajpi: "psát na stroji"
+          tajpisto: písař
+        iĝ: 
+          ekspliko: "(-iĝ) stat se nějakým"
+          fari: udělat
+          fariĝi: "stát se"
+          mateniĝi: "raní svítání"
+          mateno: ráno
+          ruĝa: červený
+          ruĝiĝi: zčervenat
+        nj: 
+          Maria: Marie
+          ekspliko: "(-nj) mazlivá koncovka pro ženská jména (kořen může být zkrácen kvůli libozvučnosti)"
+          manjo: Máňa
+          panjo: maminka
+          patrino: matka
+        obl: 
+          du: dva
+          duobla: dvojnásobný
+          ekspliko: "(-obl) násobek"
+          tri: tři
+          trioblo: trojnásobek
+        ? "on"
+        : 
+          dek: deset
+          dekono: desetina
+          ekspliko: "(-on) zlomek"
+          kvar: čtyři
+          kvarono: čtvrtina
+        op: 
+          du: dva
+          duopo: dvojice
+          ekspliko: "Podle skupin"
+          ses: šest
+          sesopo: šestice
+        rimarkigo: 
+          ekspliko: "Pokud by došlo k nejasnostem mezi významy této přípony, použijte synonyma:"
+          germanio: Německo
+          pomarbo: jabloň
+          pomkesto: "bedna na jablka"
+          ruslando: Rusko
+        titolo: Přípony
+        uj: 
+          ekspliko: "(-uj) nádoba, strom, země"
+          franco: Francouz
+          francujo: Francie
+          mono: peníze
+          monujo: peněženka
+          pomo: jablko
+          pomujo: jabloň
+        ul: 
+          ekspliko: "(-ul) bytost určité vlastnosti"
+          kontraŭ: proti
+          kontraŭulo: protivník
+          riĉa: bohatý
+          riĉulo: boháč
+          sankta: svatý
+          sanktulo: světec
+          stulta: hloupý
+          stultulo: hlupák
+        um: 
+          ekspliko: "(-um) přípona bez přesného významu (kde se nehodí jiná přípona)"
+          kolo: krk
+          kolumo: límec
+          plena: "plný, úplný"
+          plenumi: splnit
+      vortordo: 
+        dialogo: |-
+            - Viděl jsem tě, ach poklade, a hned jsem si tě zamiloval!
+            -Věřím ti, avšak zlato měj připraveno v peněžence!
+            
+            -Miluje tě, ale, (má) nejdražší, nevěřil jsem, že jsi taková!
+            -Kdybys mě miloval, (ty) lakomý, udělal bys mě královnou!
+        ekspliko-1: "V třetí lekci jsme si ukázali, že bežný slovosled v esperantu je podmět-sloveso-předmět. Nicméně je možný i jiný pořádek slov, pokud se zachová jasnost a srozumitelnost. Důvodem změny slovosledu je zdůraznění některého větného členu, což si ukážeme na příkladech:"
+        ekspliko-2: "Pro zdůraznění některého větného členu lze použít slovíčko \"ja\" (= vždyť, sice, přece):"
+        ekspliko-3: "Tabulková slova na \"KI-\" stojí na začátku věty:"
+        ekspliko-4: "Rozdílné uspořádání větných členů je prostředek hojně používaný v poezii. Prostudujte si následující humorná čtyřverší, kde se podmět, sloveso a předmět objevují v šesti možných pozicích."
+        ekspliko-5: "Tato volnost dává poezii neobyčejnou pružnost, nicméně v próze a každodenním životě není tato volnost absolutní, protože zvyk některé formy posvětil, například:"
+        ekspliko-6: "Místo:"
+        ekspliko-7: "Upřednostňujte:"
+        frazo-1: "Na pohovce sedí oni, ne někdo jiný."
+        frazo-10: "Vždyť jsem je volal."
+        frazo-11: "Jednou přece umřít musíš."
+        frazo-12: "Zdalipak přijdou?"
+        frazo-13: "Byla to snad ona, kdo zpíval?"
+        frazo-14: "Co chceš? Co chcete?"
+        frazo-15: "Kdo je Anna?"
+        frazo-16: "Chci to, co chceš ty."
+        frazo-17: "Kdy se vrátí váš syn?"
+        frazo-18: "Ještě nevím, kdy se vrátí."
+        frazo-19: "Nevím, které ovoce si vybrat."
+        frazo-2: "Oni sedí právě na pohovce, ne jinde."
+        frazo-3: "Je to pes, ne jiný tvor, kdo honí kočku."
+        frazo-4: "Pes právě honí kočku, ne že by ji např. pozoroval."
+        frazo-5: "Pes honí právě kočku, ne například myš."
+        frazo-6: "Volal jsem právě jeho, ne jiného člověka."
+        frazo-7: "Milencem Marie je Petr, nikoliv Pavel."
+        frazo-8: "Dávám přednost barvě zelené (ne jiné)."
+        frazo-9: "Nebyl jsem to já, kdo to udělal (někdo jiný to udělal)."
+        libera_traduko: "Volný překlad:"
+        titolo: Slovosled

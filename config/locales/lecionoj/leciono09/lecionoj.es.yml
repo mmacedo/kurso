@@ -1,0 +1,161 @@
+--- 
+es: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "Uno de los elementos componentes de la totalidad"
+          monero: moneda
+          mono: dinero
+          salero: "grano de sal"
+          salo: sal
+        estr: 
+          ekspliko: "Alguien que está en el rango primero y superior, y posee poder de ordenar."
+          urbestro: alcalde
+          urbo: ciudad
+          ŝipestro: capitán
+          ŝipo: barco
+        et: 
+          ekspliko: "Pequeño, poco intenso"
+          pupeto: muñequito
+          pupo: muñeco
+          rideti: sonreír
+          ridi: reír
+        id: 
+          ekspliko: "Niño, hijo, descendiente"
+          katido: minino
+          kato: gato
+          reĝido: príncipe
+          reĝo: rey
+        ig: 
+          ekspliko: "Mandar, obligar a hacer, hacer"
+          morti: morir
+          mortigi: "matar, hacer morir"
+          pura: limpio
+          purigi: "mandar a limpiar"
+        il: 
+          ekspliko: "Instrumento o aparato que sirve para realizar la acción."
+          muzikilo: "instrumento musical"
+          muziko: música
+          ŝlosi: cerrar
+          ŝlosilo: llave
+        in: 
+          ekspliko: "Indica el sexo femenino"
+          kokino: gallina
+          koko: gallo
+          onklino: tía
+          onklo: tío
+        ind: 
+          admiri: admirar
+          admirinda: "digno de admirar"
+          ekspliko: "Indica carácter meritorio, que es digno de"
+          laŭdi: aplaudir
+          laŭdinda: "digno de aplaudir"
+        ist: 
+          ekspliko: "Profesión, ocupación cotidiana"
+          esperantisto: esperantista
+          esperanto: Esperanto
+          pianisto: pianista
+          piano: piano
+          raporti: reportar
+          raportisto: reportero
+          tajpi: teclear
+          tajpisto: mecanógrafo
+        iĝ: 
+          ekspliko: "Hacerse (sin agente externo)"
+          fari: hacer
+          fariĝi: hacerse
+          mateniĝi: amanecer
+          mateno: mañana
+          ruĝa: rojo
+          ruĝiĝi: enrojecerse
+        nj: 
+          Maria: María
+          ekspliko: "Sufijo cariñoso para mujeres (usando parte de la raíz y conservando sonido armónico)"
+          manjo: Marucha
+          panjo: mamá
+          patrino: madre
+        obl: 
+          du: dos
+          duobla: doble
+          ekspliko: Múltiple
+          tri: tres
+          trioblo: triple
+        ? "on"
+        : 
+          dek: diez
+          dekono: décimo
+          ekspliko: "Fracción de la raíz"
+          kvar: cuatro
+          kvarono: cuarto
+        op: 
+          du: dos
+          duopo: par
+          ekspliko: "Según grupos de, a razón de"
+          ses: seis
+          sesopo: "en grupo de seis"
+        rimarkigo: 
+          ekspliko: "Cuando vaya a ocurrir confusión entre los significados de este sufijo, use en su lugar un sinónimo:"
+          germanio: Alemania
+          pomarbo: "árbol de manzanas"
+          pomkesto: "cesto de manzanas"
+          ruslando: Rusia
+        titolo: Sufijos
+        uj: 
+          ekspliko: "Objeto que contiene a otro, el árbol que da el fruto, el país que contiene los habitantes"
+          franco: francés
+          francujo: Francia
+          mono: dinero
+          monujo: monedero
+          pomo: manzana
+          pomujo: manzano
+        ul: 
+          ekspliko: "El ser caracterizado por la raíz"
+          kontraŭ: contra
+          kontraŭulo: opositor
+          riĉa: rico
+          riĉulo: "persona adinerada"
+          sankta: santo
+          sanktulo: "santo (persona)"
+          stulta: estúpido
+          stultulo: "estúpido (persona)"
+        um: 
+          ekspliko: "Sufijo sin sentido definivo, con significado variable"
+          kolo: cuello
+          kolumo: collar
+          plena: lleno
+          plenumi: ejecutar
+      vortordo: 
+        dialogo: |-
+            — Te vi, ¡oh tesoro, e inmediatamente te comencé a amar!
+            — Te creo, pero que esté listo el oro en la cartera.
+            — Te amo pero, querida, ¡no creí que fueras así!'
+            — Si me amaras, avaro, harías de mí una reina.
+        ekspliko-1: "En la tercera lección mostramos el orden de palabras sujeto-verbo-complemente, que es el más frecuentemente usado en Esperanto. Sin embargo, hay otros posibles, con la condición que se conserve el sentido. Uno de estos casos es cuando se quiere enfatizar un elemento definido de la frase. En las siguientes frases se cambia el orden de los elementos, para enfatizar uno de ellos:"
+        ekspliko-2: "Para enfatizar un elemento de la frase se puede usar también la palabra \"ja\", que realza el sentido:"
+        ekspliko-3: "Los elementos de frase que comienzan en \"KI\" deben aparecer al comienzo de la oración o sub-oración:"
+        ekspliko-4: "Los diferentes arreglos de elementos de frase son un medio ampliamente usado en la poesía. Note los siguientes cuartetos humorísticos, donde sujeto, verbo y complemento aparecen en las seis posiciones posibles:"
+        ekspliko-5: "Esa libertad le da a la poesía una enorme flexibilidad. Sin embargo, en la prosa o en el uso cotidiano esa libertad no es absoluta, dado que la costumbre ya sancionó algunas formas. Por ejemplo:"
+        ekspliko-6: "En lugar de:"
+        ekspliko-7: "Prefiérase:"
+        frazo-1: "En el sofá se sientan ellos, no otros."
+        frazo-10: "(Sí, sin duda) Yo los llamé."
+        frazo-11: "Debes morir (seguro, sin duda, si) en algún momento."
+        frazo-12: "¿Vendrán ellos?"
+        frazo-13: "¿Acaso era ella quien cantaba?"
+        frazo-14: "¿Qué quieres?"
+        frazo-15: "¿Quién es Ana?"
+        frazo-16: "Yo quiero eso que tú quieres."
+        frazo-17: "¿Cuándo regresará tu hijo?"
+        frazo-18: "Aún no sé cuándo regresará."
+        frazo-19: "No sé cuál fruto escoger."
+        frazo-2: "Ellos se sientan sobre el sofá, no en otro lugar."
+        frazo-3: "Es el perro, no otro, quien persigue al gato."
+        frazo-4: "El perro precisamente persigue al gato, no lo observa, por ejemplo."
+        frazo-5: "El perro persigue precisamente al gato, no a un ratón, por ejemplo."
+        frazo-6: "Yo llamé precisamente a él, no a otro."
+        frazo-7: "El amado de María es Pedro, no Pablo."
+        frazo-8: "Yo prefiero el color verde (no otro)."
+        frazo-9: "Yo no hice eso (alguien más lo hizo)."
+        libera_traduko: "Traducción libre:"
+        titolo: "Orden de Palabras"

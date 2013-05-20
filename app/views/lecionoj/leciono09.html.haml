@@ -1,0 +1,17 @@
+%h1 Leciono 9
+.row
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
+      %li
+        %a{href: '#sufiksoj02'}
+          %i.icon-chevron-right
+          = t('.sufiksoj02.titolo')
+      %li
+        %a{href: '#vortordo'}
+          %i.icon-chevron-right
+          = t('.vortordo.titolo')
+  .span9
+    %section#sufiksoj02
+      = render "lecionoj/leciono09/sufiksoj02"
+    %section#vortordo
+      = render "lecionoj/leciono09/vortordo"

@@ -13,16 +13,18 @@ module I18nEltiro
         @al_kunteksto = al_kunteksto || el_kunteksto
       end
 
-      def el(pado, &block)
-        Dsl.new(@lingvo, akiri(@el_kunteksto, pado), @al_kunteksto).instance_eval(&block)
+      def el(pado, escepte: [], &block)
+        kontroli_mankaj_tradukoj(pado, escepte) do |patro, klavo|
+          Dsl.new(@lingvo, akiri(patro, klavo), @al_kunteksto).instance_eval(&block)
+        end
       end
 
       def al(pado, &block)
         Dsl.new(@lingvo, @el_kunteksto, akiri(@al_kunteksto, pado, false)).instance_eval(&block)
       end
 
-      def atingo(pado, &block)
-        el(pado) do
+      def atingo(pado, escepte: [], &block)
+        el(pado, escepte: escepte) do
           al(pado) do
             instance_eval(&block)
           end
@@ -45,12 +47,7 @@ module I18nEltiro
       end
 
       def forigi(el, escepte: [], &block)
-        pado, ponto, klavo = el.rpartition(/[.]/)
-        patro = akiri(@el_kunteksto, pado)
-
-        if escepte.include? @lingvo
-          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
-        else
+        kontroli_mankaj_tradukoj(el, escepte) do |patro, klavo|
           raise "Pado '#{kunigi_pado @el_kunteksto, el}' ne trovita!" unless patro.has_key? klavo
           objekto = patro.delete(klavo)
 
@@ -94,6 +91,17 @@ module I18nEltiro
           "#{kunteksto[:__pado]}.#{pado}"
         else
           pado
+        end
+      end
+
+      def kontroli_mankaj_tradukoj(el, esceptoj)
+        pado, ponto, klavo = el.rpartition(/[.]/)
+
+        if esceptoj.include? @lingvo
+          patro = akiri(@el_kunteksto, pado, false)
+          raise "Lingvo #{@lingvo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
+        else
+          yield(akiri(@el_kunteksto, pado), klavo)
         end
       end
     end

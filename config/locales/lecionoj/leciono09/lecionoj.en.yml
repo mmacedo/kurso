@@ -1,0 +1,161 @@
+--- 
+en: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "element or component of a whole."
+          monero: coin
+          mono: money
+          salero: "grain of salt"
+          salo: salt
+        estr: 
+          ekspliko: "manager, leader, director"
+          urbestro: mayor
+          urbo: "city, town"
+          ŝipestro: "ship's captain"
+          ŝipo: ship
+        et: 
+          ekspliko: "little, small, tiny, less intense"
+          pupeto: "small doll"
+          pupo: "doll, hand puppet"
+          rideti: smile
+          ridi: laugh
+        id: 
+          ekspliko: "offspring, descendant"
+          katido: kitten
+          kato: cat
+          reĝido: prince
+          reĝo: king
+        ig: 
+          ekspliko: "to make, to cause to be"
+          morti: "to die"
+          mortigi: "to kill, to put to death"
+          pura: "clean, pure"
+          purigi: "to clean, to make pure"
+        il: 
+          ekspliko: "instrument, tool"
+          muzikilo: "musical instrument"
+          muziko: music
+          ŝlosi: "to lock"
+          ŝlosilo: key
+        in: 
+          ekspliko: female
+          kokino: hen
+          koko: "chicken (of either sex)"
+          onklino: aunt
+          onklo: uncle
+        ind: 
+          admiri: "to admire"
+          admirinda: admirable
+          ekspliko: worthy
+          laŭdi: "to praise,laud"
+          laŭdinda: laudable
+        ist: 
+          ekspliko: "person who does something as a profession; adherent of a cause"
+          esperantisto: Esperantist
+          esperanto: Esperanto
+          pianisto: pianist
+          piano: piano
+          raporti: "to report"
+          raportisto: reporter
+          tajpi: "to type"
+          tajpisto: typist
+        iĝ: 
+          ekspliko: "to become"
+          fari: "to make, to do"
+          fariĝi: "to become"
+          mateniĝi: "dawn, daybreak"
+          mateno: morning
+          ruĝa: red
+          ruĝiĝi: "to blush, to become red"
+        nj: 
+          Maria: Mary
+          ekspliko: "forms female nicknames  (root may be shortened or altered)"
+          manjo: "nickname for Mary"
+          panjo: "mom, mommy, ma, mama"
+          patrino: mother
+        obl: 
+          du: two
+          duobla: double
+          ekspliko: multiple
+          tri: three
+          trioblo: "triplet, threesome"
+        ? "on"
+        : 
+          dek: ten
+          dekono: one-tenth
+          ekspliko: "forms fractions"
+          kvar: four
+          kvarono: "quarter, fourth, 1/4"
+        op: 
+          du: two
+          duopo: "a pair"
+          ekspliko: "forms groups"
+          ses: six
+          sesopo: "sextet, a group of six"
+        rimarkigo: 
+          ekspliko: "To avoid confusion due to the multiple meanings of this suffix meanings, we can use other words:"
+          germanio: Germany
+          pomarbo: "apple tree"
+          pomkesto: "basket for apples"
+          ruslando: Russia
+        titolo: Suffixes
+        uj: 
+          ekspliko: "container, tree by its fruit, country by its people"
+          franco: Frenchman
+          francujo: France
+          mono: money
+          monujo: "purse, wallet"
+          pomo: apple
+          pomujo: "apple basket, apple tree"
+        ul: 
+          ekspliko: "person, individual"
+          kontraŭ: against
+          kontraŭulo: "opponent, rival"
+          riĉa: rich
+          riĉulo: "a rich person"
+          sankta: "saintly, holy"
+          sanktulo: "a saint (holy, saintly person)"
+          stulta: "stupid, foolish"
+          stultulo: fool
+        um: 
+          ekspliko: "suffix with no specific meaning"
+          kolo: neck
+          kolumo: collar
+          plena: "full, complete"
+          plenumi: "to fulfill, to accomplish"
+      vortordo: 
+        dialogo: |-
+            — I saw you, oh treasure, and I immediately fell in love with you!
+            — I believe you, however gold should be ready in a purse
+            — I love you, but, dearest, I didn't believe you're like that!
+            — If you loved me, greedy, you would make me a queen
+        ekspliko-1: "All languages have a dominant word order relative to subject, verb, and object.  Esperanto, like English, is an SVO language (most, though not all, sentences show the order subject-verb-object).  Many languages, e.g., Japanese, are SOV; while others, e.g., Arabic, are VSO.  Sometimes we change normal word order for some special effect or to emphasize some element."
+        ekspliko-2: "The word  \"ja\"  can also be used to emphasize a word."
+        ekspliko-3: "The words beginning in  \"Ki\"  should come at the beginning of the sentence or clause."
+        ekspliko-4: "Different word order is widely used in poetry.  Observe the following humorous quartets, where the subject, verb and object appear in the six possible positions:"
+        ekspliko-5: "That freedom gives poetry a big flexibility, however, in prose or in everyday usage, this freedom is not absolute, because custom already adopted some forms, for example:"
+        ekspliko-6: "Instead of"
+        ekspliko-7: "the following form is preferable:"
+        frazo-1: "They are sitting on the sofa, not others."
+        frazo-10: "I did indeed call them."
+        frazo-11: "You certainly must die sometime."
+        frazo-12: "Are they really coming?"
+        frazo-13: "Was it really she who was singing?"
+        frazo-14: "What do you want?"
+        frazo-15: "Who is Anna?"
+        frazo-16: "I want what you want."
+        frazo-17: "When will your son return?"
+        frazo-18: "I still don't know when he will return."
+        frazo-19: "I don't know which fruits to choose."
+        frazo-2: "They sit only on the sofa, not in another place."
+        frazo-3: "It is the dog, not some other (animal or person), which chases the cat."
+        frazo-4: "The dog chases the cat, it is not doing something else to the cat."
+        frazo-5: "The dog chases the cat, it is not chasing some other animal."
+        frazo-6: "I called him, nobody else."
+        frazo-7: "Maria's love is Peter, not Paul."
+        frazo-8: "I prefer the color green (not another color)."
+        frazo-9: "I didn't do that, somebody else did it."
+        libera_traduko: "Free translation:"
+        titolo: Word-order

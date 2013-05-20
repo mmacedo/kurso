@@ -1,0 +1,161 @@
+--- 
+sk: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "prvok z celku"
+          monero: "minca, \"peniaz\""
+          mono: peniaze
+          salero: "zrnko soli"
+          salo: soľ
+        estr: 
+          ekspliko: "vedúci, šéf"
+          urbestro: primátor
+          urbo: mesto
+          ŝipestro: "lodný kapitán"
+          ŝipo: loď
+        et: 
+          ekspliko: malý
+          pupeto: "bábika (zlý príklad :-)"
+          pupo: bábika
+          rideti: "usmievať sa"
+          ridi: "smiať sa"
+        id: 
+          ekspliko: "mláďa, dieťa, potomok"
+          katido: mača
+          kato: mačka
+          reĝido: princ
+          reĝo: kráľ
+        ig: 
+          ekspliko: "donútiť urobiť, dať urobiť"
+          morti: zomrieť
+          mortigi: "usmrtiť, zabiť"
+          pura: čistý
+          purigi: očistiť
+        il: 
+          ekspliko: "pomôcka, nástroj"
+          muzikilo: "hudobný nástroj"
+          muziko: hudba
+          ŝlosi: zamknúť
+          ŝlosilo: kľúč
+        in: 
+          ekspliko: "naznačuje ženské pohlavie"
+          kokino: sliepka
+          koko: kohút
+          onklino: teta
+          onklo: strýko
+        ind: 
+          admiri: obdivovať
+          admirinda: obdivuhodný
+          ekspliko: "hoden niečoho"
+          laŭdi: chváliť
+          laŭdinda: chválihodný
+        ist: 
+          ekspliko: "profesia, povolanie, stúpenec niečoho"
+          esperantisto: esperantista
+          esperanto: esperanto
+          pianisto: klavírista
+          piano: klavír
+          raporti: "podávať správu"
+          raportisto: reportér
+          tajpi: písať
+          tajpisto: pisár
+        iĝ: 
+          ekspliko: "stať sa nejakým, \"urobiť sa\" nejakým"
+          fari: robiť
+          fariĝi: "stať sa"
+          mateniĝi: svitanie
+          mateno: ráno
+          ruĝa: červený
+          ruĝiĝi: "očerveňať (stať sa červeným)"
+        nj: 
+          Maria: Mária
+          ekspliko: "mazlivá, zjemňujúca prípona pre ženy"
+          manjo: "? :-)"
+          panjo: mamička
+          patrino: matka
+        obl: 
+          du: dva
+          duobla: dvojnásobný
+          ekspliko: násobok
+          tri: tri
+          trioblo: trojnásobok
+        ? "on"
+        : 
+          dek: desať
+          dekono: desatina
+          ekspliko: zlomok
+          kvar: štyri
+          kvarono: štvrtina
+        op: 
+          du: dva
+          duopo: dvojica
+          ekspliko: "podľa skupín (po)"
+          ses: šesť
+          sesopo: šestica
+        rimarkigo: 
+          ekspliko: "Pokiaľ by došlo k nejasnosti pri používaní tejto prípony, použite synonymá. Napr:"
+          germanio: Nemecko
+          pomarbo: jabloň
+          pomkesto: "debna na jablká"
+          ruslando: Rusko
+        titolo: Prípony
+        uj: 
+          ekspliko: "nádoba, strom, krajina (objekt obsahujúci iné objekty)"
+          franco: Francúz
+          francujo: Francúzsko
+          mono: peniaze
+          monujo: peňaženka
+          pomo: jablko
+          pomujo: jabloň
+        ul: 
+          ekspliko: "bytosť s určitou vlastnosťou"
+          kontraŭ: proti
+          kontraŭulo: protivník
+          riĉa: bohatý
+          riĉulo: boháč
+          sankta: svätý
+          sanktulo: svätec
+          stulta: hlúpy
+          stultulo: hlupák
+        um: 
+          ekspliko: "prípona bez presného významu"
+          kolo: krk
+          kolumo: límec
+          plena: plný
+          plenumi: vyplniť
+      vortordo: 
+        dialogo: |-
+            - Videl som ťa, ach poklad môj, do teba som sa hneď zamiloval.
+            - Verím ti, no zlato v peňaženke pripravené maj.
+            - Milujem ťa, ale, najdrahšia, neveril som, že si taká!
+            - Ak by si ma miloval, lakomec, kráľovnou spravil by si ma!
+        ekspliko-1: "Doteraz sme používali slovosled podmet - slvoeso (prísudok) - predmet, ktorý je najčastejšie používaný. Avšak aj iné sú možné za podmienky, že si veta zachová zmysel. Jeden z dôvodov, prečo meniť slovosled, môže byť zdôraznenie niektorej časti vety. V nasledujúcich vetách si všimnite dôraz na jednotlivých častiach."
+        ekspliko-2: "Pre zvýraznenie časti vety sa môže použiť aj slovíčko \"ja\", ktoré utvrdzuje zmysel. (= veď, predsa)"
+        ekspliko-3: "Tabuľkové slová začínajúce na \"ki\" musia prísť na začiatok vety."
+        ekspliko-4: "Rôzny slovosled je často používaným prvkom v poézii. Prezrite si nasledujúce humorné štvorveršia, kde sapodmet, sloveso a predmet objavujú v šiestich možných pozíciách."
+        ekspliko-5: "Táto sloboda dáva poézii veľkú flexibilitu, napriek tomu, v próze alebo v každodennom použití nie je táto voľnosť absolútna, pretože zvyk už potvrdil niektoré formy, napríklad:"
+        ekspliko-6: Namiesto
+        ekspliko-7: "Sa uprednostňuje"
+        frazo-1: "Na pohovke sedia oni, nie iní."
+        frazo-10: "Veď ja som ho zavolal."
+        frazo-11: "Veď musíš raz zomrieť."
+        frazo-12: "Prídu teda?"
+        frazo-13: "Či to bola ona, kto spieval?"
+        frazo-14: "Čo chceš?"
+        frazo-15: "Kto je Ana?"
+        frazo-16: "Chcem to, čo chceš ty."
+        frazo-17: "Kedy sa vráti tvoj syn?"
+        frazo-18: "Ešte neviem, kedy sa vráti."
+        frazo-19: "Neviem, ktoré ovocie vybrať."
+        frazo-2: "Sedia presne na pohovke, nie inde."
+        frazo-3: "Pes naháňa mačku, nie niekto iný."
+        frazo-4: "Pes naháňa mačku, nepozoruje ju."
+        frazo-5: "Pes naháňa mačku, nie napr. myš."
+        frazo-6: "Volal som práve jeho, nie iného."
+        frazo-7: "Máriin milovaný je Peter, nie Paul."
+        frazo-8: "Preferujem zelenú farbu (nie inú)"
+        frazo-9: "Nie ja som to urobil (ale niekto iný)"
+        libera_traduko: "Voľný preklad:"
+        titolo: Slovosled

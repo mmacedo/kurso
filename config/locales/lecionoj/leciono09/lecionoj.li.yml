@@ -1,0 +1,161 @@
+--- 
+li: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "žymi visumos dalį"
+          monero: moneta
+          mono: pinigai
+          salero: "druskos krislas"
+          salo: druska
+        estr: 
+          ekspliko: "žymi vadovaujantį asmenį"
+          urbestro: "miesto meras"
+          urbo: miestas
+          ŝipestro: kapitonas
+          ŝipo: laivas
+        et: 
+          ekspliko: "žymi sumažinimą, susilpninimą"
+          pupeto: lėlytė
+          pupo: lėlė
+          rideti: šypsotis
+          ridi: juoktis
+        id: 
+          ekspliko: "žymi vaiką, įpėdinį, jauniklį"
+          katido: kačiukas
+          kato: katė
+          reĝido: karalaitis
+          reĝo: karalius
+        ig: 
+          ekspliko: "versti kitą, ką nors daryti"
+          morti: mirti
+          mortigi: žudyti
+          pura: švarus
+          purigi: valyti
+        il: 
+          ekspliko: "žymi įrankį, priemonę"
+          muzikilo: "muzikos instrumentas"
+          muziko: muzika
+          ŝlosi: (už)rakinti
+          ŝlosilo: raktas
+        in: 
+          ekspliko: "žymi moteriškąją lytį"
+          kokino: višta
+          koko: gaidys
+          onklino: teta
+          onklo: dėdė
+        ind: 
+          admiri: "gėrėtis, žavėtis, grožėtis"
+          admirinda: žavingas
+          ekspliko: "žymi asmens ar daikto vertumą"
+          laŭdi: girti
+          laŭdinda: girtinas
+        ist: 
+          ekspliko: "žymi amatą, profesiją, ko nors šalininką"
+          esperantisto: esperantininkas
+          esperanto: "esperanto kalba"
+          pianisto: pianistas
+          piano: pianinas
+          raporti: pranešti
+          raportisto: pranešėjas
+          tajpi: "rašyti mašinėle"
+          tajpisto: mašininkas
+        iĝ: 
+          ekspliko: "darymasis, tapimas"
+          fari: daryti
+          fariĝi: "darytis, tapti"
+          mateniĝi: "aušra, apyaušris"
+          mateno: rytas
+          ruĝa: raudonas
+          ruĝiĝi: raudonuoti
+        nj: 
+          Maria: Marija
+          ekspliko: "žymi mažybinį, maloninį moterų vardą"
+          manjo: Marijutė
+          panjo: mamytė
+          patrino: motina
+        obl: 
+          du: du
+          duobla: dvigubas
+          ekspliko: "žymi daugialypumą"
+          tri: trys
+          trioblo: "kažkas triguba"
+        ? "on"
+        : 
+          dek: dešimt
+          dekono: dešimtadalis
+          ekspliko: "žymi trupmeną"
+          kvar: keturi
+          kvarono: ketvirtadalis
+        op: 
+          du: du
+          duopo: dvejetas
+          ekspliko: "kuopiniai skaitvardžiai"
+          ses: šeši
+          sesopo: šešetas
+        rimarkigo: 
+          ekspliko: "Norint išvengti nesusipratimų tarp dviejų reikšmių, patariame vartoti sinonimus:"
+          germanio: Vokietija
+          pomarbo: obelis
+          pomkesto: "obuolių dėžė"
+          ruslando: Rusija
+        titolo: Priesagos
+        uj: 
+          ekspliko: "žymi indą ar kitokią talpą, medį, šalį"
+          franco: prancūzas
+          francujo: Prancūzija
+          mono: pinigai
+          monujo: piniginė
+          pomo: obuolys
+          pomujo: "obelis, obuolių dėžė"
+        ul: 
+          ekspliko: "žymi individą su tam tikrais palinkimais, ypatybėmis"
+          kontraŭ: prieš(ais)
+          kontraŭulo: priešininkas
+          riĉa: turtingas
+          riĉulo: turtuolis
+          sankta: šventas
+          sanktulo: šventuolis
+          stulta: kvailas
+          stultulo: kvailys
+        um: 
+          ekspliko: "tikslios reikšmės neturi ir yra vartojama, kai kitos priesagos netinka"
+          kolo: kaklas
+          kolumo: apykaklė
+          plena: pilnas
+          plenumi: pildyti
+      vortordo: 
+        dialogo: |-
+            — Aš pamačiau tave, o lobi, ir aš tuoj pamilau tave!
+            — Aš tikiu tavim, bet auksas tegul būna paruoštas piniginėj!
+            — Aš myliu tave, bet, brangiausioji, aš netikėjau, kad tu tokia!
+            — Jei tu mane mylėtum, šykštuoli, tu jau padarytum mane karaliene!
+        ekspliko-1: "Trečioje pamokoje parodėme žodžių tvarką: veiksnys-tarinys-papildinys, kuri yra dažniausiai vartojama. Bet galima vartoti ir kitokią (kai norima pabrėžti kokią nors sakinio dalį), tačiau su sąlyga, kad sakinio prasmė nepasikeis. Žemiau pateikiame keletą sakinių su kitokia žodžių tvarka (pabrėžiant skirtingas sakinio dalis):"
+        ekspliko-2: "Norint pabrėžti sakinio dalį, galima vartoti žodelį \"ja\", kuris paryškina prasmę:"
+        ekspliko-3: "Klausiamieji ir santykiniai žodžiai turi eiti vientisinio sakinio ar sudėtinio sakinio šalutinio dėmens pradžioje:"
+        ekspliko-4: "Įvairi sakinio dalių tvarka yra plačiai vartojama poezijoje. Atkreipkite dėmesį į šiuos ketureilius, kur veiksnys, tarinys ir papildinys yra šešiose galimose pozicijose:"
+        ekspliko-5: "Tokia laisvė poezijai suteikia lankstumą, tačiau prozoje ir buitinėje kalboje ji nėra absoliuti, nes jau yra įprasta vartoti  sakinius  tam tikra žodžių tvarka, pvz.:"
+        ekspliko-6: "Vietoje:"
+        ekspliko-7: "Patartina vartoti:"
+        frazo-1: "Ant sofos sėdi jie (ne kiti)."
+        frazo-10: "Juk aš šaukiau juos."
+        frazo-11: "Juk kada nors turi mirti."
+        frazo-12: "Ar ateis gi jie?"
+        frazo-13: "Argi tai ji, kuri dainavo?"
+        frazo-14: "Ko tu nori?"
+        frazo-15: "Kuri yra Ana?"
+        frazo-16: "Aš noriu to, ko tu nori."
+        frazo-17: "Kada grįš tavo sūnus?"
+        frazo-18: "Aš dar nežinau, kada jis grįš."
+        frazo-19: "Aš nežinau, kuriuos vaisius pasirinkti."
+        frazo-2: "Jie sėdi ant sofos (ne kur kitur)."
+        frazo-3: "Medžioja šuo katiną (ne kas kitas)."
+        frazo-4: "Šuo medžioja katiną (ne stebi jį ar panašiai)."
+        frazo-5: "Šuo medžioja katiną (ne pelę)."
+        frazo-6: "Aš pašaukiau jį (o ne kitą žmogų)."
+        frazo-7: "Marija myli Petrą,  ne Paulių."
+        frazo-8: "Aš teikiu pirmenybę žaliai spalvai (ne kitai)."
+        frazo-9: "Ne aš tai padariau (kažkas kitas padarė)."
+        libera_traduko: "Laisvas vertimas:"
+        titolo: "Žodžių tvarka"

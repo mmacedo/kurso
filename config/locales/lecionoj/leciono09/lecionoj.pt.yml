@@ -1,0 +1,157 @@
+--- 
+pt: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "unidade do todo"
+          monero: moeda
+          mono: dinheiro
+          salero: "grão de sal"
+          salo: sal
+        estr: 
+          ekspliko: "chefe, diretor da idéia expressa pelo radical"
+          urbestro: prefeito
+          urbo: cidade
+          ŝipestro: "comandante de navio"
+          ŝipo: navio
+        et: 
+          ekspliko: "diminutivo, pequeno"
+          pupeto: bonequinho
+          pupo: boneco
+          rideti: sorrir
+          ridi: rir
+        id: 
+          ekspliko: "filho, descendente"
+          katido: "filhote de gato"
+          kato: gato
+          reĝido: "descendente de rei"
+          reĝo: rei
+        ig: 
+          ekspliko: "fazer, obrigar a fazer"
+          morti: morrer
+          mortigi: matar
+          pura: "limpo(a), puro(a)"
+          purigi: "limpar, purificar"
+        il: 
+          ekspliko: instrumento
+          muzikilo: "instrumento musical"
+          muziko: música
+          ŝlosi: trancar
+          ŝlosilo: chave
+        in: 
+          ekspliko: "sexo feminino"
+          kokino: galinha
+          koko: galo
+          onklino: tia
+          onklo: tio
+        ind: 
+          admiri: admirar
+          admirinda: admirável
+          ekspliko: "que merece, que é digno de"
+          laŭdi: "elogiar, louvar"
+          laŭdinda: "louvável, digno(a) de elogio"
+        ist: 
+          ekspliko: "profissão, atividade costumeira"
+          esperantisto: esperantista
+          esperanto: esperanto
+          pianisto: pianista
+          piano: piano
+          raporti: "reportar, relatar"
+          raportisto: "repórter, relator"
+          tajpi: "digitar, datilografar"
+          tajpisto: "digitador, datilógrafo"
+        iĝ: 
+          ekspliko: "tornar-se (sem agente externo)"
+          fari: fazer
+          fariĝi: "tornar-se, vir a ser"
+          mateniĝi: amanhecer
+          mateno: manhã
+          ruĝa: vermelho(a)
+          ruĝiĝi: "ficar vermelho(a)"
+        nj: 
+          Maria: Maria
+          ekspliko: "sufixo carinhoso feminino (com parte do radical e conservando a eufonia)"
+          manjo: Mariazinha
+          panjo: "mamãe, mãezinha"
+          patrino: mãe
+        obl: 
+          du: dois
+          duobla: "duplo(a) (adj.)"
+          ekspliko: "múltiplo, multiplicação"
+          tri: três
+          trioblo: triplo
+        ? "on"
+        : 
+          dek: dez
+          dekono: "um décimo"
+          ekspliko: fração
+          kvar: quatro
+          kvarono: "um quarto"
+        op: 
+          du: dois
+          duopo: dupla
+          ekspliko: grupo
+          ses: seis
+          sesopo: sexteto
+        rimarkigo: 
+          ekspliko: "Quando acontecer confusão entre os sentidos 1 e 2 deste sufixo, pode-se usar sinônimos no lugar:"
+          germanio: Alemanha
+          pomarbo: "macieira, árvore da maçã"
+          pomkesto: "cesto de maçãs"
+          ruslando: Rússia
+        titolo: Sufixos
+        uj: 
+          ekspliko: "objeto que contém outro(s) objeto(s); a árvore segundo o fruto; o país segundo o povo"
+          franco: francês
+          francujo: França
+          mono: dinheiro
+          monujo: "carteira de dinheiro"
+          pomo: maçã
+          pomujo: "cesto de maçãs; macieira"
+        ul: 
+          ekspliko: "o ser caracterizado pelo radical"
+          kontraŭ: contra
+          kontraŭulo: adversário
+          riĉa: "rico(a) (adj.)"
+          riĉulo: "rico, uma pessoa rica"
+          sankta: "santo(a) (adjetivo)"
+          sanktulo: "santo, uma pessoa santa"
+          stulta: "idiota, estúpido(a) (adj.)"
+          stultulo: "idiota, uma pessoa estúpida"
+        um: 
+          ekspliko: "sufixo indeterminado, com sentido variado"
+          kolo: pescoço
+          kolumo: colarinho
+          plena: cheio
+          plenumi: "cumprir, executar"
+      vortordo: 
+        dialogo: "— Eu te vi, ó tesouro, e logo me enamorei de ti!— Acredito em ti, contudo ouro se coloca logo na carteira.— Eu te amo, mas, querida, não acreditava que eras assim!— Se me amasses, avarento, farias de mim uma rainha!"
+        ekspliko-1: "Na lição 03  mostramos a ordem  sujeito-verbo-complemento, que é a mais usada no Esperanto. No entanto, outras são possíveis,  desde que se mantenha a clareza de sentido.  Um desses casos é quando queremos dar ênfase a um determinado elemento da frase. Nas frases a seguir, a ordem dos elementos foi trocada para se dar ênfase a um deles:"
+        ekspliko-2: "Para enfatizar um elemento da frase, pode-se usar também a palavrinha \"ja\", que realça o sentido:"
+        ekspliko-3: "Os elementos da frase que começam com \"KI\" devem vir no início da oração, ou da sub-oração:"
+        ekspliko-4: "Diferentes disposições dos elementos da frase é um recurso amplamente usado na poesia. Repare nas seguintes quadras humorísticas, onde sujeito, verbo e complemento aparecem nas seis posições possíveis:"
+        ekspliko-5: "Essa liberdade dá uma enorme flexibilidade à poesia, porém, na prosa ou no uso cotidiano, essa liberdade não é absoluta, uma vez que o costume já consagrou algumas formas, por exemplo:"
+        ekspliko-6: "Em vez de:"
+        ekspliko-7: "Prefira:"
+        frazo-1: "No sofá estão sentados justamente eles, não outros."
+        frazo-10: "De fato foi eu quem os chamou."
+        frazo-11: "Morrer um dia você deverá de fato."
+        frazo-12: "Eles de fato virão? (ou: Eles virão mesmo?)"
+        frazo-13: "De fato era ela quem cantava?"
+        frazo-14: "O que você quer?"
+        frazo-15: "Quem é Ana?"
+        frazo-16: "Eu quero aquilo que você quer."
+        frazo-17: "Quando regressará o teu filho?"
+        frazo-18: "Eu ainda não sei quando ele regressará."
+        frazo-19: "Não sei quais frutos escolher."
+        frazo-2: "Eles estão sentados justamente no sofá, não em outro lugar."
+        frazo-3: "É o cão, e não outro, que caça o gato."
+        frazo-4: "O cão CAÇA gato, e não o observa, por exemplo."
+        frazo-5: "O cão caça justamente gato, e não rato, por exemplo."
+        frazo-6: "Eu chamei justamente a ele, e não a outra pessoa."
+        frazo-7: "É a Pedro que Maria ama, não a Paulo."
+        frazo-8: "Prefiro a cor verde (e não outra cor)."
+        frazo-9: "Não fui eu que fiz aquilo."
+        libera_traduko: "Tradução Livre:"
+        titolo: "Ordem das palavras"

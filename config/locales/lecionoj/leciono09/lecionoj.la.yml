@@ -1,0 +1,162 @@
+--- 
+la: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "Viena daļiņa no kopuma"
+          monero: monēta
+          mono: nauda
+          salero: "sāls graudiņš"
+          salo: sāls
+        estr: 
+          ekspliko: "Vadītājs, kuram ir pavēļu došanas vara."
+          urbestro: "pilsētas galva, mērs"
+          urbo: pilsēta
+          ŝipestro: "kuģa kapteinis"
+          ŝipo: kuģis
+        et: 
+          ekspliko: "Mazs, atslābjošs"
+          pupeto: "maza lelle, lellīte"
+          pupo: lelle
+          rideti: smaidīt
+          ridi: smieties
+        id: 
+          ekspliko: "Pēcnācējs, bērns, dēls"
+          katido: kaķēns
+          kato: kaķis
+          reĝido: karaļdēls
+          reĝo: karalis
+        ig: 
+          ekspliko: "Padarīt par kaut ko, par kādu vai likt darīt"
+          morti: mirt
+          mortigi: nonāvēt
+          pura: tīrs
+          purigi: iztīrīt
+        il: 
+          ekspliko: "Instruments vai ierīce, kas kalpo, lai veiktu darbu."
+          muzikilo: "mūzikas instruments"
+          muziko: mūzika
+          ŝlosi: (aiz)slēgt
+          ŝlosilo: atslēga
+        in: 
+          ekspliko: "Norāda uz sieviešu dzimumu"
+          kokino: vista
+          koko: gailis
+          onklino: tante
+          onklo: onkulis
+        ind: 
+          admiri: apbrīnot
+          admirinda: apbrīnojams
+          ekspliko: "Kurš ir kaut kā cienīgs"
+          laŭdi: "lielīt, slavēt"
+          laŭdinda: "slavējams, slavas cienīgs"
+        ist: 
+          ekspliko: "Profesija, parastā nodarbošanās"
+          esperantisto: esperantists
+          esperanto: esperanto
+          pianisto: pianists
+          piano: klavieres
+          raporti: ziņot
+          raportisto: reportieris
+          tajpi: "rakstīt (ar rakstāmmašīnu)"
+          tajpisto: "mašīnrakstītāja, drukātāja"
+        iĝ: 
+          ekspliko: "Kļūt, tapt"
+          fari: "darīt, taisīt"
+          fariĝi: "kļūt, tapt"
+          mateniĝi: ausma
+          mateno: rīts
+          ruĝa: sarkans
+          ruĝiĝi: sarkt
+        nj: 
+          Maria: Marija
+          ekspliko: "Mīlināmais piedēklis sievietēm (labskanībai var tikt aizvietota daļa vārda saknes)"
+          manjo: Māra
+          panjo: "māmiņa, māmuļa"
+          patrino: māte
+        obl: 
+          du: divi
+          duobla: divkāršs
+          ekspliko: Daudzkāršojums
+          tri: trīs
+          trioblo: trīskāršs
+        ? "on"
+        : 
+          dek: desmit
+          dekono: desmitdaļa
+          ekspliko: "Daļskaitļu piedēklis"
+          kvar: četri
+          kvarono: ceturtdaļa
+        op: 
+          du: divi
+          duopo: pāris
+          ekspliko: "Kopums, grupa"
+          ses: seši
+          sesopo: "sešotne (grupā no sešiem)"
+        rimarkigo: 
+          ekspliko: "Kad ir konflikts starp šī piedēkļa nozīmēm, tad tiek lietoti sinonīmi:"
+          germanio: Vācija
+          pomarbo: ābele
+          pomkesto: "kaste āboliem"
+          ruslando: Krievija
+        titolo: Piedēkļi
+        uj: 
+          ekspliko: "Priekšmets, uz kura glabājas cits priekšmets; koks, uz kura aug augļi; valsts, kurā ir tauta"
+          franco: francūzis
+          francujo: Francija
+          mono: nauda
+          monujo: "naudas maks"
+          pomo: ābols
+          pomujo: ābele
+        ul: 
+          ekspliko: "Cilvēku raksturojoša īpašība"
+          kontraŭ: "pret, pretim"
+          kontraŭulo: pretinieks
+          riĉa: bagāts
+          riĉulo: bagātnieks
+          sankta: svēts
+          sanktulo: svētais
+          stulta: "dumjš, muļķīgs, stulbs"
+          stultulo: muļķis
+        um: 
+          ekspliko: "Piedēklis bez noteiktas nozīmes, ar dažādu nozīmi"
+          kolo: kakls
+          kolumo: apkakle
+          plena: pilns
+          plenumi: izpildīt
+      vortordo: 
+        dialogo: |-
+            — Es ieraudzīju tevi, ak dārgums, un tūlīt pat es iemīlējos tevī!
+            — Es ticu tev, un tomēr zelts, lai tūlīt ir man naudas makā.
+            
+            — Es mīlu jūs, bet, visdārgā, Es neticēju, ka jūs tāda!
+            — Ja jūs, skopais, mīlētu mani, Jūs ieceltu mani par karalieni.
+        ekspliko-1: "Līdz šim mēs lietojām vārdu kārtību: teikuma priekšmets-darbības vārds-papildinātājs, kura ir visbiežāk lietota esperanto valodā. Tomēr ir iespējami citi varianti, tomēr svarīgi, lai saglabātos skaidrība. Viens no gadījumiem ir, kad vēlas izcelt noteiktu frāzes elementu. Sekojošajās frāzēs vārdu kārtība ir mainīta, lai uzsvērtu vienu no tiem:"
+        ekspliko-2: "Lai uzsvērtu teikuma daļu, var lietot arī vārdu \"ja\", kurš pastiprina nozīmi:"
+        ekspliko-3: "Teikuma daļas, kuras sākas ar \"Ki-\", jāstāv visa teikuma vai palīgteikuma sākumā:"
+        ekspliko-4: "Dažāda vārdu kārtība teikumā tiek plaši pielietota poēzijā. Pievērsiet uzmanību sekojošajām humoristiskajām četrrindēm, kur teikuma priekšmets, darbības vārds un papildinātājs parādās sešās iespējamās pozīcijās:"
+        ekspliko-5: "Šī brīvība dod poēzijai neparastu elastīgumu, tomēr prozā vai ikdienas lietošanā šī brīvība nav absolūta, jo parasti izmanto dažas formas, piemēram:"
+        ekspliko-6: "Vietā:"
+        ekspliko-7: "Labāk:"
+        frazo-1: "Uz dīvāna sēž (tieši) viņi un ne citi."
+        frazo-10: "Es taču pasaucu viņus."
+        frazo-11: "Nomirt kaut kad jums taču vajag."
+        frazo-12: "Viņi taču atnāks?"
+        frazo-13: "Vai tā bija viņa, kura dziedāja?"
+        frazo-14: "Ko jūs gribat?"
+        frazo-15: "Kas ir Anna?"
+        frazo-16: "Es gribu to, ko jūs gribat?"
+        frazo-17: "Kad atgriezīsies jūsu dēls?"
+        frazo-18: "Es vēl nezinu, kad viņš atgriezīsies."
+        frazo-19: "Es nezinu, kurus augļus izvēlēties."
+        frazo-2: "Viņi sēž tieši uz dīvāna un ne citur."
+        frazo-3: "Suns un ne kaut kas cits, kas medī kaķi."
+        frazo-4: "Suns tiešām medī kaķi, nevis to novēro."
+        frazo-5: "Suns medī tieši kaķi, un nevis, piemēram, peli."
+        frazo-6: "Es pasaucu tieši viņu, nevis citu cilvēku."
+        frazo-7: "Marijas mīļākais ir Pēteris, bet ne Pāvils."
+        frazo-8: "Es dodu priekšroku zaļajai krāsai (ne citai)."
+        frazo-9: "Es to neizdarīju (kaut kas cits izdarīja)."
+        libera_traduko: "Brīvs tulkojums:"
+        titolo: "Vārdu kārtība"

@@ -1,0 +1,172 @@
+--- 
+ko: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "전체를 구성하는 요소 중의 하나, 일부분"
+          monero: 동전
+          mono: "돈, 화폐"
+          salero: "소금(낱 개)"
+          salo: 소금
+        estr: 
+          ekspliko: "대표, ..장(실제 조직을 움직일 수 있음)"
+          urbestro: "도시의 장, 즉 시장"
+          urbo: 도시
+          ŝipestro: ŝipestro선장
+          ŝipo: ŝipo배
+        et: 
+          ekspliko: "(-et)작거나, 약함"
+          pupeto: "소인형, 작은 인형"
+          pupo: 인형
+          rideti: "살짝 웃다"
+          ridi: 웃다
+        id: 
+          ekspliko: "(-id) 자식, 새끼, 아이, 아들"
+          katido: 새끼고양이
+          kato: 고양이
+          reĝido: 왕자(reĝido)
+          reĝo: 왕(reĝo)
+        ig: 
+          ekspliko: "(-ig) 하게 하다, 시키다(사역)"
+          morti: 죽다
+          mortigi: "죽게 하다. 죽이다"
+          pura: "깨끗하다, 깨끗한"
+          purigi: "깨끗하게 하다. 깨끗하게 시키다rigi"
+        il: 
+          ekspliko: "어떤 행위를 효과적으로 하기 위한 도구 나 기구."
+          muzikilo: 악기
+          muziko: 음악
+          ŝlosi: "ŝlosi 자물쇠를 잠그다"
+          ŝlosilo: "ŝlosilo 열쇠"
+        in: 
+          ekspliko: "여성을 나타냄"
+          kokino: 암탉
+          koko: 닭(수탉)
+          onklino: "숙모, 아주머니"
+          onklo: "삼촌, 아저씨"
+        ind: 
+          admiri: 존경하다
+          admirinda: "존경할만한, 존경할만한 가치가 있는"
+          ekspliko: "...할만한 가치가 있는"
+          laŭdi: laŭdi칭찬하다
+          laŭdinda: "laŭdinda칭찬할 만한"
+        ist: 
+          ekspliko: "직업인, 어떤 습관적인 일에 몰두하는사람"
+          esperantisto: 에스페란티스토
+          esperanto: 에스페란토
+          pianisto: 피아니스트
+          piano: 피아노
+          raporti: "보도, 보고하다"
+          raportisto: "보고자, 기자"
+          tajpi: 타자치다
+          tajpisto: 타자수
+        iĝ: 
+          ekspliko: "(-iĝ fariĝi (외부의 활동자없이)자동사화 접미사....이 되다.되어지다."
+          fari: "만들다, 하다"
+          fariĝi: fariĝi되다
+          mateniĝi: "mateniĝi아침이 되다"
+          mateno: 아침
+          ruĝa: "ruĝa붉다, 붉은"
+          ruĝiĝi: "ruĝiĝi붉게 되다.붉어지다."
+        nj: 
+          Maria: 마리아(인명)
+          ekspliko: "여자에 대한 애칭 (어근의 일부로서 또 아름다운 소리를 가지면서)"
+          manjo: "마뇨(마리아의 애칭)"
+          panjo: 엄마
+          patrino: 어머니
+        obl: 
+          du: "둘, 2"
+          duobla: "두 배다, 두 배의"
+          ekspliko: "(-obl)배수를 나타냄"
+          tri: "삼,3"
+          trioblo: "세배,3배"
+        ? "on"
+        : 
+          dek: 십
+          dekono: "10분의 1"
+          ekspliko: "(-on)분수를 나타냄"
+          kvar: "사, 넷, 4"
+          kvarono: "4분의 1"
+        op: 
+          du: "이,2"
+          duopo: "둘이 무리가 되어,둘이서"
+          ekspliko: "...이 무리가 되어 Laŭ grupoj de"
+          ses: "육,6"
+          sesopo: "여섯이 무리가 되어"
+        rimarkigo: 
+          ekspliko: "이 접미사의 의미 1, 의미2 사이에 혼돈이 올 때는, 동의어를 대신 사용하세요. 예:"
+          germanio: 독일
+          pomarbo: 사과나무
+          pomkesto: 사과상자
+          ruslando: 러시아
+        titolo: 접두사
+        uj: 
+          ekspliko: "다른 물건을 담는 그릇; 열매를 가지는 나무; 국민을 가진 나라"
+          franco: 프랑스인
+          francujo: 프랑스(국명)
+          mono: 돈
+          monujo: "지갑,돈주머니"
+          pomo: 사과
+          pomujo: 사과나무
+        ul: 
+          ekspliko: "어근을 특징짓는 사람"
+          kontraŭ: kontraŭ정반대의
+          kontraŭulo: "kontraŭulo반대자, 적수"
+          riĉa: riĉa부유한
+          riĉulo: riĉulo부자
+          sankta: "신성한, 성스러운, 신성하다"
+          sanktulo: "성인, 신성한 인물"
+          stulta: "바보스런, 멍청한"
+          stultulo: "바보,멍청이"
+        um: 
+          ekspliko: "한정된 의미가 없는 접미사, 다양한 의미를 가진 접미사."
+          kolo: 목
+          kolumo: "칼라(목 둘레를 나타냄)"
+          plena: "충분한, 완전한"
+          plenumi: "(...)을 완수,완성하다"
+      vortordo: 
+        dialogo: |-
+            -당신을 보고 있어요, 오, 보물 같은 존재, 난 당신을 사랑하게 되었어요!
+            -난 당신을 믿어요, 하지만 황금은 지갑 속에 넣어 둬요!
+            
+            -당신을 사랑해요, 하지만, 그대여, 난 그런 당신을 믿지 못했어요.
+            -당신이 나를 사랑하려면, 그대는나를 여왕처럼 만들어야 해요.
+        ekspliko-1: |-
+            제3과에서  우리는 에스페란토에서 가장 자주 쓰이는 문장의 어순은 <주어-동사-보어>임을 보았습니다. 하지만 명확성이 보존되는 범주에서는 다른 어순도 가능합니다. 그런 경우 중 한가지는 특정 문장요소를 강조하기 위해서 쓰입니다. 다음의 문장들은 그런 문장 요소들의 배열이 변경되었는데, 그 문장들은 그 문장요소중 하나를 강조하기 위함입니다:어순(주어-동사-목적어)를 보았다.하지만 다른 경우도 그 명확성만 보장된다면 가능합니다.
+            특정한 문장요소를 강조할 때가 그 한 예입니다. 다음 문장에서는 문장배열이 문장요소중 하나를 강조하기 위해 바꾸어 놓은 경우입니다.
+        ekspliko-2: "문장요소를 강조하기 위해 의미를 강조하는 <ja>를 쓸 수도 있다."
+        ekspliko-3: "<KI>로 시작되는 낱말은 문장의 처음이나,  종속문의  처음에 꼭 온다:"
+        ekspliko-4: |-
+            문장요소의 다른 배열은 시문에서도 널리 쓰인다.
+            다음의  네 줄의 유머스런 대화를 주목하세요.
+            여기서 주어,동사, 보어가 여섯개의 다양한 장소에 위치함을 주목해 보세요.
+             주어,동사 목적어의 각위치가 여섯 군데 변할 수 있다.
+        ekspliko-5: |-
+            이 자유스러움이 시문에는 유연해지지만,
+             산문이나 일상생활에서는 그런 자유성이 꼭 절대적이진 않습니다.
+             왜냐하면 언어적 습관이 몇 가지 형태를 더욱 더 많이 쓰이도록 되어 있어요. 예를 보세요:
+            자유성은 절대적이지 못합니다. 왜냐하면 관례가 몇 가지 형태를 만들어 놓았기때문입니다.
+        ekspliko-6: "아래의 표현보다는"
+        ekspliko-7: "이 표현을 더 많이 씁니다,"
+        frazo-1: "그 소파에는 다른 사람이 아니라 ,<그들이> 앉아 있다."
+        frazo-10: "정말 내가 그들을  불렀다."
+        frazo-11: "죽음이란 언젠가 당신이 정말 닥쳐야 하는것이다."
+        frazo-12: "Ĉu그들은 정말 올 것인가?"
+        frazo-13: "Ĉu 노래를 부른 사람이 정말 그녀ŝi였니?"
+        frazo-14: "당신은 무엇을 원합니까?"
+        frazo-15: "누가 안나인가요?"
+        frazo-16: "나는 당신이 원하는 그것을 원한다."
+        frazo-17: "언제 당신의 아들은 돌아 옵니까?"
+        frazo-18: "나는 그가 언제 돌아 올지 아직ankoraŭ 모릅니다."
+        frazo-19: "나는 어느 과일을 골라야 할지 모른다."
+        frazo-2: "그들은 다른 곳이 아니라, 바로 ĝuste그 소파에 앉아 있다."
+        frazo-3: "그 고양이를 사냥한ĉasas 이는 다른 이가 아니라 그 개이다."
+        frazo-4: "그 개가 그것을(ĝin) 보지도 않은채, 바로ĝuste  고양이만 사냥한다ĉasas."
+        frazo-5: "그 개는 쥐가 아니라 바로ĝuste 그 고양이를 사냥한다ĉasas."
+        frazo-6: "나는 다른 사람이 아닌, 바로ĝuste 그를 불렀다."
+        frazo-7: "마리앙의 연인은 파울로가Paŭlo 아니라, 페트로다."
+        frazo-8: "나는 초록색을(다른 색깔은 아닌) 선호한다."
+        frazo-9: "그것을 한 사람은 내가 아니다(다른 사람이 그렇게 했다.)"
+        libera_traduko: "자유번역:"
+        titolo: 어순

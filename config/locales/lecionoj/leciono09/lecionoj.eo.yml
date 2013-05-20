@@ -1,0 +1,161 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "Unu el la konsistigaj elementoj de tutaĵo"
+          monero: monero
+          mono: mono
+          salero: salero
+          salo: salo
+        estr: 
+          ekspliko: "Iu, kiu estas ĉe supera kaj unua rango, kaj posedas efektivan ordonpovon."
+          urbestro: urbestro
+          urbo: urbo
+          ŝipestro: ŝipestro
+          ŝipo: ŝipo
+        et: 
+          ekspliko: "Malgranda, malintensa"
+          pupeto: pupeto
+          pupo: pupo
+          rideti: rideti
+          ridi: ridi
+        id: 
+          ekspliko: "Naskito, infano, filo, ido"
+          katido: katido
+          kato: kato
+          reĝido: reĝido
+          reĝo: reĝo
+        ig: 
+          ekspliko: "Farigi, devigi fari"
+          morti: morti
+          mortigi: mortigi
+          pura: pura
+          purigi: purigi
+        il: 
+          ekspliko: "Instrumento aŭ aparato kiu servas por efektivigi la agon."
+          muzikilo: muzikilo
+          muziko: muziko
+          ŝlosi: ŝlosi
+          ŝlosilo: ŝlosilo
+        in: 
+          ekspliko: "Montras la inan sekson"
+          kokino: kokino
+          koko: koko
+          onklino: onklino
+          onklo: onklo
+        ind: 
+          admiri: admiri
+          admirinda: admirinda
+          ekspliko: "Kiu estas inda je, kiu meritas"
+          laŭdi: laŭdi
+          laŭdinda: laŭdinda
+        ist: 
+          ekspliko: "Profesio, kutima okupiĝo"
+          esperantisto: esperantisto
+          esperanto: Esperanto
+          pianisto: pianisto
+          piano: piano
+          raporti: raporti
+          raportisto: raportisto
+          tajpi: tajpi
+          tajpisto: tajpisto
+        iĝ: 
+          ekspliko: "Fariĝi (sen ekstera aganto)"
+          fari: fari
+          fariĝi: fariĝi
+          mateniĝi: mateniĝo
+          mateno: mateno
+          ruĝa: ruĝa
+          ruĝiĝi: ruĝiĝi
+        nj: 
+          Maria: Maria
+          ekspliko: "Karesa sufikso por virinoj (per parto de la radiko kaj konservante la belsonecon)"
+          manjo: Manjo
+          panjo: panjo
+          patrino: patrino
+        obl: 
+          du: du
+          duobla: duobla
+          ekspliko: Oblo
+          tri: tri
+          trioblo: trioblo
+        ? "on"
+        : 
+          dek: dek
+          dekono: dekono
+          ekspliko: "Frakcio de la radiko"
+          kvar: kvar
+          kvarono: kvarono
+        op: 
+          du: du
+          duopo: duopo
+          ekspliko: "Laŭ grupoj de"
+          ses: ses
+          sesopo: sesopo
+        rimarkigo: 
+          ekspliko: "Kiam okazos konfuzo inter la sencoj de tiu ĉi sufikso, oni uzu anstataŭe sinonimojn, ekzemple:"
+          germanio: Germanio
+          pomarbo: pomarbo
+          pomkesto: pomkesto
+          ruslando: Ruslando
+        titolo: Sufiksoj
+        uj: 
+          ekspliko: "Objekto entenanta aliajn objektojn; la arbo laŭ la frukto; la lando laŭ la popolo"
+          franco: franco
+          francujo: Francujo
+          mono: mono
+          monujo: monujo
+          pomo: pomo
+          pomujo: pomujo
+        ul: 
+          ekspliko: "La estulo karakterizita de la radiko"
+          kontraŭ: kontraŭ
+          kontraŭulo: kontraŭulo
+          riĉa: riĉa
+          riĉulo: riĉulo
+          sankta: sankta
+          sanktulo: sanktulo
+          stulta: stulta
+          stultulo: stultulo
+        um: 
+          ekspliko: "Sufikso sen difinita senco, kun varia senco"
+          kolo: kolo
+          kolumo: kolumo
+          plena: plena
+          plenumi: plenumi
+      vortordo: 
+        dialogo: |-
+            — Mi vidis vin, ho trezoro, kaj mi tuj ekamis vin!
+            — Mi kredas vin, tamen oro estu preta en monuj'
+            — Mi amas vin, sed, plej kara, mi ne kredis vin tia!
+            — Se vi amus min, avara, vi ja farus min  reĝin'
+        ekspliko-1: "Ĝis nun ni uzadis la vortordon subjekto-verbo-komplemento, kiu estas la plej ofte uzata en Esperanto. Tamen aliaj estas eblaj, kondiĉe ke la klareco konserviĝos. Unu el tiuj kazoj estas kiam oni volas emfazi difinitan frazelementon. En la sekvaj frazoj la ordo de la elementoj estas ŝanĝita, por emfazi unu el ili:"
+        ekspliko-2: "Por emfazi frazeron oni povas uzi ankaŭ la vorteton \"ja\", kiu reliefigas la sencon:"
+        ekspliko-3: "La frazeroj komenciĝantaj per \"KI\" devas veni en la komenco de la propozicio aŭ subpropozicio:"
+        ekspliko-4: "Malsamaj aranĝoj de frazeroj estas rimedo vaste uzata en poezio. Atentu la jenajn humurajn kvarversojn, kie subjekto, verbo kaj komplemento aperas en la ses eblaj pozicioj:"
+        ekspliko-5: "Tiu libereco donas al poezio enorman flekseblecon, tamen, en prozo aŭ en ĉiutaga uzo, tiu libereco ne estas absoluta, ĉar la kutimo jam sankciis kelkajn formojn, ekzemple:"
+        ekspliko-6: "Anstataŭ:"
+        ekspliko-7: "Preferu:"
+        frazo-1: "Sur la sofo sidas ili, ne aliaj."
+        frazo-10: "Ja mi vokis ilin."
+        frazo-11: "Morti iam vi ja devas."
+        frazo-12: "Ĉu ili ja venos?"
+        frazo-13: "Ĉu estis ja ŝi, kiu kantis?"
+        frazo-14: "Kion vi volas?"
+        frazo-15: "Kiu estas Ana?"
+        frazo-16: "Mi volas tion, kion vi volas."
+        frazo-17: "Kiam revenos via filo?"
+        frazo-18: "Mi ankoraŭ ne scias, kiam li revenos."
+        frazo-19: "Mi ne scias, kiun fruktojn elekti."
+        frazo-2: "Ili sidas ĝuste sur la sofo, ne aliloke."
+        frazo-3: "Estas la hundo, ne alia, kiu ĉasas la katon."
+        frazo-4: "La hundo ĝuste ĉasas katon, ne ĝin observas, ekz."
+        frazo-5: "La hundo ĉasas ĝuste katon, ne muson, ekzemple."
+        frazo-6: "Mi vokis ĝuste lin, ne alian homon."
+        frazo-7: "La amato de Maria estas Petro, ne Paŭlo."
+        frazo-8: "Mi preferas la koloron verdan (ne alian)."
+        frazo-9: "Ne mi faris tion (iu alia faris)."
+        libera_traduko: "Libera traduko:"
+        titolo: Vortordo

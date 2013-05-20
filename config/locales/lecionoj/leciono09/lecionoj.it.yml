@@ -1,0 +1,157 @@
+--- 
+it: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "denota uno degli elementi che costituiscono il tutto"
+          monero: "[una] moneta"
+          mono: "[del] denaro"
+          salero: "[un] granello di sale"
+          salo: "[del] sale"
+        estr: 
+          ekspliko: "denota un individuo di rango superiore e primario, con effettiva facoltà di comando"
+          urbestro: "[un] sindaco"
+          urbo: "[una] città"
+          ŝipestro: "[un] capitano (di nave)"
+          ŝipo: "[una] nave"
+        et: 
+          ekspliko: "denota piccolezza, tenuità, bassa intensità"
+          pupeto: "[una] bambolina, bamboletta"
+          pupo: "[una] bambola"
+          rideti: sorridere
+          ridi: ridere
+        id: 
+          ekspliko: "denota figliolanza: nato, piccolo, figlio, cucciolo"
+          katido: "[un] gattino"
+          kato: "[un] gatto"
+          reĝido: "[un] principe"
+          reĝo: "[un] re"
+        ig: 
+          ekspliko: "denota il causativo: rendere, porre in un certo stato, far fare"
+          morti: morire
+          mortigi: "uccidere (lett: render morto)"
+          pura: "pulito / a"
+          purigi: "pulire (lett.: rendere pulito)"
+        il: 
+          ekspliko: "denota uno strumento o attrezzo per eseguire l'azione espressa dalla radice"
+          muzikilo: "[uno] strumento musicale"
+          muziko: "[una / della] musica"
+          ŝlosi: "chiudere a chiave"
+          ŝlosilo: "[una] chiave"
+        in: 
+          ekspliko: "denota il genere femminile"
+          kokino: "[una] gallina"
+          koko: "[un] gallo"
+          onklino: "[una] zia"
+          onklo: "[uno] zio"
+        ind: 
+          admiri: ammirare
+          admirinda: ammirevole
+          ekspliko: "denota che quanto è espresso dalla radice è meritato, appropriato, confacente"
+          laŭdi: lodare
+          laŭdinda: lodevole
+        ist: 
+          ekspliko: "denota professione, occupazione abituale"
+          esperantisto: "[un] esperantista"
+          esperanto: "[l'] esperanto"
+          pianisto: "[un] pianista"
+          piano: "[un] pianoforte"
+          raporti: "riferire, riportare"
+          raportisto: "[un] corrispondente (giornalista)"
+          tajpi: "battere a macchina"
+          tajpisto: "[un] dattilografo"
+        iĝ: 
+          ekspliko: "denota cambio di stato (riflessivo / passivo con agente ignoto): divenire, diventare"
+          fari: fare
+          fariĝi: "farsi, divenire"
+          mateniĝi: "[un'] alba"
+          mateno: "[un] mattino"
+          ruĝa: "rosso / a"
+          ruĝiĝi: arrossire
+        nj: 
+          Maria: Maria
+          ekspliko: "denota vezzeggiativo femminile (accodato alla radice; o ad una parte, per eufonia)"
+          manjo: "Marietta, Mariuccia"
+          panjo: "[una] mamma"
+          patrino: "[una] madre"
+        obl: 
+          du: due
+          duobla: "doppio / a"
+          ekspliko: "denota multiplazione"
+          tri: tre
+          trioblo: "[il] triplo"
+        ? "on"
+        : 
+          dek: dieci
+          dekono: "un decimo"
+          ekspliko: "denota una frazione di quanto indicato dalla radice"
+          kvar: quattro
+          kvarono: "un quarto"
+        op: 
+          du: due
+          duopo: "[un] duo, [una] coppia"
+          ekspliko: "denota distribuzione: a gruppi di, in tot alla volta"
+          ses: sei
+          sesopo: "[un] sestetto"
+        rimarkigo: 
+          ekspliko: "Qualora si ingeneri confusione tra i vari significati di questo suffisso, si può ricorrere a sinonimi; ad esempio:"
+          germanio: "[la] Germania"
+          pomarbo: "[un] melo"
+          pomkesto: "[un] cesto di mele"
+          ruslando: "[la] Russia"
+        titolo: Suffissi
+        uj: 
+          ekspliko: "denota: oggetto che ne contiene altri; pianta di un dato frutto; paese di un dato popolo"
+          franco: "[un] francese"
+          francujo: "[la] Francia"
+          mono: "[del] denaro"
+          monujo: "[un] portafoglio"
+          pomo: "[una] mela"
+          pomujo: "[un] melo / recipiente per mele"
+        ul: 
+          ekspliko: "denota un individuo caratterizzato dalla radice"
+          kontraŭ: "contro, di fronte a"
+          kontraŭulo: "[un] oppositore"
+          riĉa: "ricco / a"
+          riĉulo: "[un] ricco"
+          sankta: "santo / a"
+          sanktulo: "[un] santo"
+          stulta: "stupido / a"
+          stultulo: "[uno] stupido"
+        um: 
+          ekspliko: "suffisso omnibus, usato per significati vari, non esprimibili con gli altri suffissi"
+          kolo: "[un] collo"
+          kolumo: "[un] colletto"
+          plena: "pieno / a, completo / a"
+          plenumi: adempiere
+      vortordo: 
+        dialogo: "— T'ho vista, tesoro, e subito mi sono innamorato di te! — Ti credo; tuttavia, non ti manchi l'oro nel borsellino! — Ti amo, ma, carissima, non ti credevo un tipo simile! — Avaro! Se mi amassi, faresti di me una regina."
+        ekspliko-1: "Finora, nelle proposizioni s'è rispettato l'ordine: soggetto - verbo - complemento, che è il più frequente in esperanto. Ne sono però possibili altri, a condizione che sia salvaguardata la chiarezza. E' questo il caso quando si voglia enfatizzare un certo elemento della frase. Nelle proposizioni seguenti l'ordine è stato variato, proprio per enfatizzare uno degli elementi:"
+        ekspliko-2: "Per enfatizzare un elemento della frase, gli si può affiancare la particella \"ja\", che ne mette in risalto il significato."
+        ekspliko-3: "Gli elementi di frase che iniziano con \"ki-\" devono trovarsi all'inizio di proposizione o di sottoproposizione:"
+        ekspliko-4: "La poesia ricorre largamente all'espediente di variare l'ordine degli elementi nella frase. Considera le due divertenti quartine che seguono, in cui soggetto, verbo e complemento compaiono in ciascuna delle sei disposizioni possibili:"
+        ekspliko-5: "Questa libertà conferisce alla poesia una flessibilità enorme. Peraltro, in prosa e nell'uso quotidiano, tale libertà non è assoluta, essendo alcune forme già sancite dall'uso. Ad esempio:"
+        ekspliko-6: "Anziché:"
+        ekspliko-7: "Si preferisce:"
+        frazo-1: "Sul divano siedono loro (non altri)."
+        frazo-10: "In effetti li ho chiamati io (sono stato proprio io a chiamarli)."
+        frazo-11: "Morire, un certo giorno, devi (inevitabilmente)."
+        frazo-12: "[Loro] verranno davvero?"
+        frazo-13: "Era proprio lei, che cantava?"
+        frazo-14: "Che cosa vuoi?"
+        frazo-15: "Chi è Anna?"
+        frazo-16: "[Io] voglio ciò che vuoi tu."
+        frazo-17: "Quando tornerà tuo figlio?"
+        frazo-18: "Ancora non so quando [egli] tornerà."
+        frazo-19: "Non so quali frutti scegliere."
+        frazo-2: "[Essi] siedono proprio sul divano (non altrove)."
+        frazo-3: "È il cane (non qualcun altro) che dà la caccia al gatto."
+        frazo-4: "E' proprio una caccia quella del cane al gatto (non un'occhiata)."
+        frazo-5: "Il cane dà la caccia proprio ad un gatto (e non, ad esempio, a un topo)."
+        frazo-6: "[Io] chiamai proprio lui (non un'altra persona)."
+        frazo-7: "L'amato di Maria è Pietro, non Paolo."
+        frazo-8: "Io preferisco il colore verde (non un altro)."
+        frazo-9: "Non sono stato io a fare ciò (lo ha fatto qualcun altro)."
+        libera_traduko: "Traduzione (libera):"
+        titolo: "Disposizione delle parole"

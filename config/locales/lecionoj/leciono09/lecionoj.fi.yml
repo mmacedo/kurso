@@ -1,0 +1,157 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "Yksi osa kokonaisuudesta."
+          monero: kolikko
+          mono: raha
+          salero: suolarae
+          salo: suola
+        estr: 
+          ekspliko: "Johtaja, päällikkö, pomo"
+          urbestro: kaupunginjohtaja
+          urbo: kaupunki
+          ŝipestro: "laivan kapteeni"
+          ŝipo: laiva
+        et: 
+          ekspliko: Pienennys
+          pupeto: pikkunukke
+          pupo: nukke
+          rideti: hymyillä
+          ridi: nauraa
+        id: 
+          ekspliko: "Jälkeläinen, poikanen"
+          katido: kissanpentu
+          kato: kissa
+          reĝido: "kuninkaan jälkeläinen (lapsi)"
+          reĝo: kuningas
+        ig: 
+          ekspliko: "Teettää, pakottaa, tehdä"
+          morti: kuolla
+          mortigi: tappaa
+          pura: puhdas
+          purigi: puhdistaa
+        il: 
+          ekspliko: "Väline, laite"
+          muzikilo: musiikki-instrumentti
+          muziko: musiikki
+          ŝlosi: lukita
+          ŝlosilo: avain
+        in: 
+          ekspliko: "Nainen, naaras"
+          kokino: kana
+          koko: kukko
+          onklino: täti
+          onklo: setä
+        ind: 
+          admiri: ihailla
+          admirinda: ihailtava
+          ekspliko: "Jnk. arvoinen"
+          laŭdi: "kehua, kiittää"
+          laŭdinda: kiitettävä
+        ist: 
+          ekspliko: "Ammatti, oppisuunta"
+          esperantisto: esperantisti
+          esperanto: Esperanto
+          pianisto: pianisti
+          piano: piano
+          raporti: selostaa
+          raportisto: selostaja
+          tajpi: "kirjottaa koneella"
+          tajpisto: konekirjoittaja
+        iĝ: 
+          ekspliko: "Tulla joksikin"
+          fari: tehdä
+          fariĝi: "tulla jks, tapahtua"
+          mateniĝi: aamunkoitto
+          mateno: aamu
+          ruĝa: punainen
+          ruĝiĝi: "punastua, punertua"
+        nj: 
+          Maria: Maria
+          ekspliko: "Helliminen, lempinimi naissukupuolesta"
+          manjo: Mariakulta
+          panjo: äitikulta
+          patrino: äiti
+        obl: 
+          du: kaksi
+          duobla: kaksinkertainen
+          ekspliko: Kertaistus
+          tri: kolme
+          trioblo: "kolminkertainen asia, -esine"
+        ? "on"
+        : 
+          dek: kymmenen
+          dekono: kymmenesosa
+          ekspliko: "Osa, murtoluku"
+          kvar: neljä
+          kvarono: neljännes
+        op: 
+          du: kaksi
+          duopo: kaksikko
+          ekspliko: Ryhmä
+          ses: kuusi
+          sesopo: "kuuden ryhmä"
+        rimarkigo: 
+          ekspliko: "Mikäli voi syntyä epäselvyyttä tämän suffiksin merkityksen suhteen, on suositeltavaa käyttää synonyymejä, esimerkiksi:"
+          germanio: Saksa
+          pomarbo: omenapuu
+          pomkesto: omenakori
+          ruslando: Venäjä
+        titolo: Jälkiliitteet
+        uj: 
+          ekspliko: "Purkki, rasia, säiliö; valtio; hedelmäpuu (vanhentunut merkitys)"
+          franco: ranskalainen
+          francujo: Ranska
+          mono: raha
+          monujo: kukkaro
+          pomo: omena
+          pomujo: omenapuu
+        ul: 
+          ekspliko: "Henkilö, olento"
+          kontraŭ: "vastaan, kohti"
+          kontraŭulo: vastustaja
+          riĉa: rikas
+          riĉulo: "rikas henkilö"
+          sankta: pyhä
+          sanktulo: pyhimys
+          stulta: typerä
+          stultulo: typerys
+        um: 
+          ekspliko: "Epämääräinen-, vaihteleva merkitys"
+          kolo: kaula
+          kolumo: kaulus
+          plena: täysi
+          plenumi: täyttää
+      vortordo: 
+        dialogo: "— Minä näin sinut, oi aarre, ja minä heti rakastuin sinuun!"
+        ekspliko-1: "Kolmannessa kappaleessa opimme sanajärjestyksen subjekti-verbi-jatke, joka on tavallisin. Kuitenkin, sanajärjestystä voi muuttaa, kunhan lause säilyy ymmärrettävänä. Näin menetellään esimerkiksi silloin, kun halutaan painottaa jotakin lauseen osaa. Seuraavissa lauseissa on painotettu jotakin asiaa, muuttamalla sanajärjestystä:"
+        ekspliko-2: "Lauseen osan painottamiseen voi käyttää myös sanaa \"ja\", joka vastaa suomen päätettä \"-han, -hän:"
+        ekspliko-3: "\"Ki\" alkuinen kysymyssana tulee aina lauseen tai virkkeen alkuun:"
+        ekspliko-4: "Runoissa käytetään usein epätavallisia lauserakenteita. Seuraavissa humoristisissa nelisäkeissä on nähtävissä kuusi erilaista lauserakennetta:"
+        ekspliko-5: "Vapaa sanajärjestys antaa runoilijalle paljon mahdollisuuksia, kuitenkin, proosassa ja jokapäiväisessä käytössä, täysin vapaa sanajärjestys ei ole suositeltavaa, koska käytäntö on vakiinnuttanut joitakin lauserakenteita, esimerkiksi:"
+        ekspliko-6: "Ei suositeltava:"
+        ekspliko-7: "Suositeltava:"
+        frazo-1: "Sohvalla istuvat he, eivät muut."
+        frazo-10: "Minähän kutsuin heidät."
+        frazo-11: "Sinunhan pitää kuolla joskus."
+        frazo-12: "Tulevatkohan he?"
+        frazo-13: "Olikohan hän, joka lauloi?"
+        frazo-14: "Mitä sinä haluat?"
+        frazo-15: "Kuka on Anna?"
+        frazo-16: "Haluan tuota, mitä sinäkin (haluat)."
+        frazo-17: "Milloin palaa (takaisin) sinun poikasi?"
+        frazo-18: "En vielä tiedä, milloin hän palaa takaisin."
+        frazo-19: "En tiedä, mitä hedelmiä valita."
+        frazo-2: "He istuvat juuri sohvalla, eivät muualla."
+        frazo-3: "Se on koira, ei muu, joka metsästää kissaa."
+        frazo-4: "Koira juuri metsästää kissaa, ei esim. tarkkaile sitä."
+        frazo-5: "Koira metsästää juuri kissaa, ei esimerkiksi hiirtä."
+        frazo-6: "Kutsuin juuri hänet, en toista ihmistä."
+        frazo-7: "Marian rakastettu on Petro, ei Paŭlo."
+        frazo-8: "Pidän parempana väriä vihreää (en jotakin muuta)."
+        frazo-9: "En minä tehnyt tuota (joku toinen sen teki)."
+        libera_traduko: "Vapaa käännös:"
+        titolo: Sanajärjestys

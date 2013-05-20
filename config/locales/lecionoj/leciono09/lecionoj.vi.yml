@@ -1,0 +1,161 @@
+--- 
+vi: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "Phần tử hay thành phần của toàn bộ"
+          monero: "đồng xu"
+          mono: tiền
+          salero: "hạt muối"
+          salo: muối
+        estr: 
+          ekspliko: "người quản lý,  giám đốc"
+          urbestro: "thị trưởng"
+          urbo: "thành phố, thị trấn"
+          ŝipestro: "thuyền trưởng"
+          ŝipo: "con tàu"
+        et: 
+          ekspliko: "nhỏ bé"
+          pupeto: "con búp bê nhỏ"
+          pupo: "búp bê, con rối"
+          rideti: "mỉm cười"
+          ridi: cười
+        id: 
+          ekspliko: "con cái, con cháu"
+          katido: "con mèo con"
+          kato: "con mèo"
+          reĝido: "hoàng tử"
+          reĝo: "ông vua"
+        ig: 
+          ekspliko: "xảy ra, làm, thực thi"
+          morti: "chết, hết hạn"
+          mortigi: "giết chết"
+          pura: "sạch sẽ"
+          purigi: "làm cho sạch, rửa"
+        il: 
+          ekspliko: "công cụ, dụng cụ"
+          muzikilo: "dụng cụ âm nhạc"
+          muziko: "âm nhạc"
+          ŝlosi: khóa
+          ŝlosilo: "chìa khóa"
+        in: 
+          ekspliko: "nữ giới, giống cái"
+          kokino: "con gà mái"
+          koko: "gà con (cả đực và cái)"
+          onklino: "cô, dì, thím"
+          onklo: "chú, cậu"
+        ind: 
+          admiri: "ngắm nhìn một cách khâm phục"
+          admirinda: "đáng phục, đáng khâm phục"
+          ekspliko: "những người xứng đáng, có phẩm giá"
+          laŭdi: "khen ngợi, tán dương"
+          laŭdinda: "đáng tán dương, đáng khen"
+        ist: 
+          ekspliko: "giáo sư, người làm việc gì đó một cách chuyên nghiệp"
+          esperantisto: "Nhà Quốc tế ngữ học"
+          esperanto: "Quốc tế ngữ"
+          pianisto: "người chơi piano"
+          piano: "đàn piano"
+          raporti: "báo cáo"
+          raportisto: "báo cáo viên, người báo cáo"
+          tajpi: "đánh máy, xắp chữ"
+          tajpisto: "người đánh máy, người xắp chữ"
+        iĝ: 
+          ekspliko: "trở nên"
+          fari: "làm, thi hành"
+          fariĝi: "trở thành"
+          mateniĝi: "bình minh, lúc rạng đông"
+          mateno: "buổi sáng"
+          ruĝa: "màu đỏ"
+          ruĝiĝi: "đỏ mặt, trở nên đỏ"
+        nj: 
+          Maria: Mary
+          ekspliko: "Dạng tên hiệu cho nữ ( từ gốc có thể lược bớt hay đã hiệu chỉnh lại)"
+          manjo: "tên hiệu của Mary"
+          panjo: "má, u...(thông tục)"
+          patrino: mẹ
+        obl: 
+          du: hai
+          duobla: "gấp đôi, kép"
+          ekspliko: "bội số"
+          tri: ba
+          trioblo: "bộ ba, sinh ba"
+        ? "on"
+        : 
+          dek: mười
+          dekono: "thứ mười, một phần mười"
+          ekspliko: "Dạng phân số"
+          kvar: bốn
+          kvarono: "một phần tư"
+        op: 
+          du: hai
+          duopo: "một đôi"
+          ekspliko: "dạng nhóm, tập hợp"
+          ses: sáu
+          sesopo: "bộ sáu, nhóm sáu"
+        rimarkigo: 
+          ekspliko: "Để tránh sự nhầm lẫn do bởi sự đa nghĩa của hậu tố, chúng ta có thể sử dụng các từ khác ví dụ như:"
+          germanio: "nước Đức"
+          pomarbo: "cây táo"
+          pomkesto: "rổ, sọt táo"
+          ruslando: "nước Nga"
+        titolo: "Các hậu tố"
+        uj: 
+          ekspliko: "cái chứa đựng, cái cây  tạo ra quả đó, nơi có con người đó"
+          franco: "người đàn ông Pháp"
+          francujo: "nước Pháp"
+          mono: tiền
+          monujo: "ví tiền"
+          pomo: "quả táo"
+          pomujo: "sọt đựng táo, cây táo"
+        ul: 
+          ekspliko: "Người, cá nhân riêng lẻ"
+          kontraŭ: "đổi diện, tương phản, ngược"
+          kontraŭulo: "đối thủ, địch thủ"
+          riĉa: "giàu có"
+          riĉulo: "anh nhà giàu"
+          sankta: "thánh thiện, linh thiêng"
+          sanktulo: "vị thánh"
+          stulta: "ngu ngốc, dại dột"
+          stultulo: "người dại dột, người ngu ngốc"
+        um: 
+          ekspliko: "hậu tố với nghĩa không rõ ràng"
+          kolo: "cái cổ"
+          kolumo: "cổ áo"
+          plena: "đầy đủ, hoàn thiện"
+          plenumi: "hoàn thành, làm xong"
+      vortordo: 
+        dialogo: |-
+            — Tôi đã gặp bạn rồi, thật quí hóa, và tôi ngay lập tức yêu bạn!
+            — Tôi tin bạn, tuy nhiên vàng (tiền) phải đầy hầu bao
+            — Tôi yêu bạn, nhưng, trời ơi, tôi không tin bạn được như thế!
+            — Nếu bạn yêu tôi, một cách thiết tha, bạn có thể biến tôi thành một nữ hoàng
+        ekspliko-1: "Tất cả các ngôn ngữ  đều chịu ảnh hưởng bởi thứ tự từ có liên quan đến chủ ngữ (chủ thể), động từ, và bổ ngữ. Quốc tế ngữ , cũng giống như tiếng Anh, là một ngôn ngữ dạng S+V+O (phần lớn thôi không phải tất cả đều có câu dạng chủ ngữ+ động từ + bổ ngữ). Rất nhiều ngôn ngữ, ví dụ như tiếng Nhật, là S+O+V; trong khi tiếng Ả rập lại là V+S+O. Thỉnh thoảng chúng ta thay đổi vị trí của từ thông thường  cho một số hiệu ứng đặc biệt hay cần nhất mạnh một phần tử câu nào đó."
+        ekspliko-2: "Từ  \"ja\"  có thể sử dụng để nhấn mạnh một từ."
+        ekspliko-3: "Từ bắt đầu với \"Ki\" có thể đặt ở đầu câu hay một mệnh đề."
+        ekspliko-4: "Thay đổi trật tự từ thì được sử dụng rộng rãi trong thơ. Chú ý  theo dõi bốn người hóm hỉnh sau đây, nơi mà chủ ngữ, động từ, và bổ ngữ xuất hiện ở sáu vị trí có thể:"
+        ekspliko-5: "Sự tự do mang lại cho thơ sự mềm dẻo, tuy nhiên, trong mục đích thông thường hay hàng ngày, sự tự do không có tính tuyệt đối, bởi vì thói quen sử dụng đã đi theo một số khuôn dạng nhất định, ví dụ:"
+        ekspliko-6: "Thay vì:"
+        ekspliko-7: "Dạng sau đây được ưa dùng:"
+        frazo-1: "Họ ngồi trên chiếc ghế so pha, không phải ai khác."
+        frazo-10: "Tôi không cần phải gọi họ."
+        frazo-11: "Bạn nhất định sẽ phải chết vào một lúc nào đấy."
+        frazo-12: "Bạn đã sẵn sàng tới chưa?"
+        frazo-13: "Có đúng là cô ấy không, người đang hát?"
+        frazo-14: "Bạn muốn gì?"
+        frazo-15: "Anna là ai?"
+        frazo-16: "Tôi muốn cái mà anh cũng muốn."
+        frazo-17: "Khi nào con trai anh sẽ trở về?"
+        frazo-18: "Tôi vẫn chưa biết khi nào anh ấy sẽ trở về."
+        frazo-19: "Tôi chưa biết chọn loại hoa quả nào."
+        frazo-2: "Họ chỉ ngồi trên ghế sô pha, không ở chỗ khác."
+        frazo-3: "Đấy  là con chó, không phải con nào khác, con mà đang quan sát con mèo."
+        frazo-4: "Con chó quan sát con mèo, nó không làm gì khác với con mèo cả."
+        frazo-5: "Con chó quan sát con mèo, nó không quan sát còn nào khác nữa."
+        frazo-6: "Tôi gọi anh ta, không phải ai khác."
+        frazo-7: "Maria yêu Peter, không phải là Paul."
+        frazo-8: "Tôi thích màu xanh lục hơn (không phải màu khác)."
+        frazo-9: "Tôi không làm điều đó (người khác đã làm)."
+        libera_traduko: "Dịch tự do:"
+        titolo: "Thứ tự từ"

@@ -1,0 +1,162 @@
+--- 
+hr: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "element neke cjeline"
+          monero: novčić
+          mono: novac
+          salero: "zrnce soli"
+          salo: sol
+        estr: 
+          ekspliko: "Netko tko je po hijerarhijskoj ljestvici viši i/ili nadređeni."
+          urbestro: gradonačelnik
+          urbo: grad
+          ŝipestro: "kapetan broda"
+          ŝipo: brod
+        et: 
+          ekspliko: "malen, slab"
+          pupeto: lutkica
+          pupo: lutka
+          rideti: "smiješiti se"
+          ridi: "smijati se"
+        id: 
+          ekspliko: "potomak, mladunče"
+          katido: mačić
+          kato: mačka
+          reĝido: kraljević
+          reĝo: kralj
+        ig: 
+          ekspliko: "učiniti nešto takovim što korijen označuje"
+          morti: umrijeti
+          mortigi: ubiti
+          pura: čist
+          purigi: očistiti
+        il: 
+          ekspliko: "alat kojim se može ostvariti radnja"
+          muzikilo: "muzički instrument"
+          muziko: glazba
+          ŝlosi: zaključati
+          ŝlosilo: ključ
+        in: 
+          ekspliko: "pokazuje ženki spol"
+          kokino: kokoš
+          koko: pijetao
+          onklino: "strina, tetka, ujna"
+          onklo: "stric, tetak, ujak"
+        ind: 
+          admiri: "diviti se"
+          admirinda: "divljenja vrijedan"
+          ekspliko: "vrijedan, zaslužan"
+          laŭdi: hvaliti
+          laŭdinda: hvalevrijedan
+        ist: 
+          ekspliko: "zvanje, zanimanje"
+          esperantisto: esperantist
+          esperanto: Esperanto
+          pianisto: pianist
+          piano: klavir
+          raporti: izvjestiti
+          raportisto: izvjestitelj
+          tajpi: tipkati
+          tajpisto: tipkač
+        iĝ: 
+          ekspliko: "postati nešto takvo što korijen označuje (izvan stranog utjecaja)"
+          fari: činiti
+          fariĝi: postati
+          mateniĝi: svitanje
+          mateno: jutro
+          ruĝa: crven
+          ruĝiĝi: "zacrvenjeti se"
+        nj: 
+          Maria: Marija
+          ekspliko: "ime od milja za ženski spol (sa većim ili manjm dijelom korijena rijeći, da se postigne milozvučnost)"
+          manjo: "Marica, Maja"
+          panjo: mama
+          patrino: majka
+        obl: 
+          du: dva
+          duobla: dvostruk
+          ekspliko: "dvostruk, višestruk"
+          tri: tri
+          trioblo: "trostruka količina"
+        ? "on"
+        : 
+          dek: deset
+          dekono: desetina
+          ekspliko: razlomak
+          kvar: četiri
+          kvarono: četvrtina
+        op: 
+          du: dva
+          duopo: "dvoje, dvojica"
+          ekspliko: "Po skupinama"
+          ses: šest
+          sesopo: "šestorka, šestorica"
+        rimarkigo: 
+          ekspliko: "Ako se pojavi nejasnoća između prvog i drugog pojma tog sufiksa, može se upotrijebiti sinonim (istoznačnica):"
+          germanio: Njemačka
+          pomarbo: "jabuka (voćka)"
+          pomkesto: "sanduk za jabuke"
+          ruslando: Rusija
+        titolo: Sufiksi
+        uj: 
+          ekspliko: "predmet koji sadrži druge predmete; voćka; zemlja (država)"
+          franco: francuz
+          francujo: Francuska
+          mono: novac
+          monujo: novčanik
+          pomo: jabuka
+          pomujo: "jabuka (voćka)"
+        ul: 
+          ekspliko: "biće ili osoba opisana korijenom"
+          kontraŭ: protiv
+          kontraŭulo: protivnik
+          riĉa: bogat
+          riĉulo: bogataš
+          sankta: svet
+          sanktulo: svetac
+          stulta: glup
+          stultulo: glupan
+        um: 
+          ekspliko: "sufiks bez određenog značenja, raznog značenja"
+          kolo: vrat
+          kolumo: ovratnik
+          plena: pun
+          plenumi: "ispuniti (obećanje)"
+      vortordo: 
+        dialogo: |-
+            -Vidio sam te, zlato, i odmah sam se zaljubio u te!
+            -Vjerujem ti, ipak neka zlato bude spremno u me!
+            
+            -Ja te volim, ali, najdraža, ne mogu te zamisliti takvom!
+            -Ako bi me volio, škrće, učinio bi me kraljicom!
+        ekspliko-1: "U trećoj lekciji smo pokazali redoslijed riječi subjekt-predikat-objekt, koji se najčešće primjenjuje u Esperantu. No, mogući su i drugačiji, ako se ne mijenja smisao i jasnoća. S namjerom da se naglasi određeni element rečenice, redoslijed se mijenja. To ćete vidjeti u slijedećim primjerima:"
+        ekspliko-2: "Da bi se naglasio dio rečenice može se koristiti i riječca \"ja\", koja upotpunuje smisao:"
+        ekspliko-3: "Dijelovi rečenica koje započinju sa \"KI\" moraju doći na početak zavisne rečenice:"
+        ekspliko-4: "Razne kombinacije rečeničnih dijelova često se koriste u pjesništvu. Zabavite se ovim stihovima, u kojima subjekt , predikat i objekt se pojavljuju u šest mogućim varijacijama."
+        ekspliko-5: "Ta sloboda daje pjesništvu neograničenu fleksibilnost, ipak, u prozi ili u svakodnevnoj upotrebi takva sloboda je dijelom ograničena, je su već formirane uobičajene fraze tijekom razvoja jezika, na primjer:"
+        ekspliko-6: "Umjesto:"
+        ekspliko-7: "Radije upotrijebi:"
+        frazo-1: "Na počivaljci sjede oni, ne drugi."
+        frazo-10: "Ta zvao sam ih."
+        frazo-11: "Ta umrijeti morate nekad."
+        frazo-12: "Dali će oni ipak doći?"
+        frazo-13: "Dali je bila to ona, koja je pjevala?"
+        frazo-14: "Što hočete?"
+        frazo-15: "Koja je Ana?"
+        frazo-16: "Hoću to, što i vi."
+        frazo-17: "Kada će se vratiti vaš sin?"
+        frazo-18: "Još neznam, kad će se vratiti."
+        frazo-19: "Neznam, koje voće odabrati."
+        frazo-2: "Oni sjede upravo na počivaljci, ne drugdje."
+        frazo-3: "Pas je taj, ne netko drugi, koji lovi mačku."
+        frazo-4: "Pas upravo lovi mačku, ne promatra ju, na pr."
+        frazo-5: "Pas lovi upravo mačku, ne miša, na primjer."
+        frazo-6: "Zvao sam upravo njega, ne drugog čovjeka."
+        frazo-7: "Marijina simpatija je Petar, ne Pavao."
+        frazo-8: "Volim zelenu boju (ne neku drugu)."
+        frazo-9: "Nisam učinio ono ja (netko drugi je učinio)"
+        libera_traduko: "Slobodan prijevod:"
+        titolo: "Redoslijed riječi"

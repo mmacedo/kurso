@@ -1,0 +1,162 @@
+--- 
+is: 
+  lecionoj: 
+    leciono09: 
+      sufiksoj02: 
+        er: 
+          ekspliko: "(-er) hluti af heild"
+          monero: "eyrir, einstakur peningur"
+          mono: peningar
+          salero: saltkorn
+          salo: salt
+        estr: 
+          ekspliko: "(-estr) sá sem stjórnar, -stjóri."
+          urbestro: borgarstjóri
+          urbo: borg
+          ŝipestro: skipstjóri
+          ŝipo: skip
+        et: 
+          ekspliko: "(-et) smækkun"
+          pupeto: smábrúða
+          pupo: brúða
+          rideti: brosa
+          ridi: hlæja
+        id: 
+          ekspliko: "(-id) afkvæmi"
+          katido: kettlingur
+          kato: köttur
+          reĝido: konungsbarn
+          reĝo: konungur
+        ig: 
+          ekspliko: "(-ig) láta eitthvað gerast"
+          morti: deyja
+          mortigi: drepa
+          pura: hreinn
+          purigi: hreinsa
+        il: 
+          ekspliko: "(-il) áhald, tæki"
+          muzikilo: hljóðfæri
+          muziko: tónlist
+          ŝlosi: læsa
+          ŝlosilo: lykill
+        in: 
+          ekspliko: "(-in) táknar náttúrlegt kvenkyn"
+          kokino: hæna
+          koko: hani
+          onklino: frænka
+          onklo: "frændi, föður-eða móðurbróðir"
+        ind: 
+          admiri: "dást að"
+          admirinda: aðdáunarverður
+          ekspliko: "(-ind) að vera verður einhvers"
+          laŭdi: hrósa
+          laŭdinda: "lofsverður, hrósverður"
+        ist: 
+          ekspliko: "(-isto) sem hefur aðalstarf af því sem í orðstofni segir eða aðhyllist stefnu"
+          esperantisto: esperantisti
+          esperanto: esperanto
+          pianisto: píanóleikari
+          piano: píanó
+          raporti: "segja frá, gefa skýrslu"
+          raportisto: "fréttaritari, þulur"
+          tajpi: vélrita
+          tajpisto: vélritari
+        iĝ: 
+          ekspliko: "(-iĝ) verða, breytast úr einu ástandi í annað"
+          fari: gera
+          fariĝi: "verða, gerast"
+          mateniĝi: dögun
+          mateno: morgunn
+          ruĝa: rauður
+          ruĝiĝi: "roðna, verða rauður"
+        nj: 
+          Maria: María
+          ekspliko: "(-nj) til að mynda gælunafn konu, ásamt hluta af orðstofni sem  best hljómar með viðsk."
+          manjo: Maja
+          panjo: mamma
+          patrino: móðir
+        obl: 
+          du: tveir
+          duobla: tvöfaldur
+          ekspliko: "(obl-) margfeldi"
+          tri: þrír
+          trioblo: þrífeldi
+        ? "on"
+        : 
+          dek: tíu
+          dekono: "tíundi hluti"
+          ekspliko: "(-on) brot af því sem í orðstofni felst"
+          kvar: fjórir
+          kvarono: fjórðungur
+        op: 
+          du: tveir
+          duopo: "tvennd, tveir saman"
+          ekspliko: "Saman í hóp"
+          ses: sex
+          sesopo: "sex í hóp"
+        rimarkigo: 
+          ekspliko: "Ef hætt er við merkingarruglingi milli ólíkra þýðinga \"-uj\",  skal nota samheiti þeirra:"
+          germanio: Þýskaland
+          pomarbo: eplatré
+          pomkesto: eplakassi
+          ruslando: Rússland
+        titolo: Viðskeyti
+        uj: 
+          ekspliko: "(-uj) hlutur sem inniheldur annan hlut, tré kennt við ávöxt, land kennt við þjóð"
+          franco: Frakki
+          francujo: Frakkland
+          mono: peningar
+          monujo: peningabudda
+          pomo: epli
+          pomujo: eplatré
+        ul: 
+          ekspliko: "(-ul) einstaklingur með einkenni þess sem í orðstofni segir"
+          kontraŭ: "á móti"
+          kontraŭulo: andstæðingur
+          riĉa: ríkur
+          riĉulo: auðmaður
+          sankta: heilagur
+          sanktulo: "helgur maður, dýrlingur"
+          stulta: heimskur
+          stultulo: heimskingi
+        um: 
+          ekspliko: "(-um) viðskeyti óljósrar merkingar, með mismunandi merkingum"
+          kolo: háls
+          kolumo: kragi
+          plena: "fullur, fullkominn"
+          plenumi: uppfylla
+      vortordo: 
+        dialogo: |-
+            Ég sá þig, ó fjársjóðurinn minn, og ég festi strax ást á þér!
+             Ég trúi þér, samt skal gull vera tilbúið í pyngju!
+            
+            Ég elska þig, minn kæri, ég hélt þú værir ekki þannig!
+            Ef þú elskaðir mig, níski, gerðirðu mig vissulega að                                                                  drottningu!
+        ekspliko-1: "Í þriðju lexíu sýndum við orðaröðina frumlag-sögn-sagnfylling en það er algengasta orðaröðin í esperanto.  Þó eru fleiri möguleikar fyrir hendi, að því tilskyldu að merkingin raskist ekki.  Það gerir okkur kleift að leggja áherslu á þann hluta setningarinnar sem við kjósum.  Þeir möguleikar eru nýttir í eftirfarandi setningum."
+        ekspliko-2: "Til að leggja áherlsu á eitthvað í setningu er hægt að setja smáorðið \"ja\" fyrir framan setningarhlutann:"
+        ekspliko-3: "Setningahlutar, sem byrja á \"KI\" eiga að koma í byrjun aðal- eða aukasetningar:"
+        ekspliko-4: "Mismunandi orðaröð er algeng  í ljóðagerð.  Í ferhendunum hér á eftir er frumlagi, sögn og sagnfyllingu raðað á sex mismunandi vegu:"
+        ekspliko-5: "Í ljóðagerð gefur þessi fjölbreytni ótrúlega möguleika, en í óbundnu máli og daglegu tali er hefð komin á viss setningarform og orðaröð."
+        ekspliko-6: "Í staðinn fyrir"
+        ekspliko-7: "Veldu heldur:"
+        frazo-1: "Í sófanum sitja þeir, ekki aðrir."
+        frazo-10: "Það var vissulega ég sem kallaði á hann."
+        frazo-11: "Einhvern tíma verður þú vissulega að deyja."
+        frazo-12: "Koma þau áreiðanlega?"
+        frazo-13: "Var það einmitt hún sem söng?"
+        frazo-14: "Hvað viltu?"
+        frazo-15: "Hver er Anna?"
+        frazo-16: "Ég vil það sem þú vilt."
+        frazo-17: "Hvenær kemur sonur þinn aftur?"
+        frazo-18: "Ég veit ekki enn, hvenær hann kemur."
+        frazo-19: "Ég veit ekki enn þá hvaða ávexti skal velja."
+        frazo-2: "Þeir sitja einmitt í sófanum, ekki annars staðar."
+        frazo-3: "Það er hundurinn, ekki annar, sem eltir köttinn."
+        frazo-4: "Hundurinn er einmitt að elta köttinn, ekki að horfa á hann, t.d."
+        frazo-5: "Það er einmitt kötturinn, sem hundurinn er að elta, ekki mús, t.d."
+        frazo-6: "Ég kallaði á hann, ekki einhvern annan."
+        frazo-7: "Það er Pétur, sem er ástmögur Maríu, ekki Páll."
+        frazo-8: "Ég vil græna litinn (ekki annan)."
+        frazo-9: "Ég gerði þetta ekki (einhver annar gerði það)."
+        libera_traduko: "Lausleg þýðing:"
+        titolo: Orðaröð
