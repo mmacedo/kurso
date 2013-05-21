@@ -1,5 +1,5 @@
 Kurso::Application.routes.draw do
-  lokaĵarojn_ŝablono = I18n.available_locales.map do |locale|
+  lokaĵarojn_ŝablono = I18n.available_locales.sort.map do |locale|
     Regexp.quote(locale)
   end.join("|")
 

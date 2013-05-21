@@ -5,15 +5,15 @@
         %span.icon-bar
         %span.icon-bar
         %span.icon-bar
-      = link_to "kurso", root_path(locale: I18n.locale), class: 'brand'
+      = link_to "kurso", root_path, class: 'brand'
       .nav-collapse.collapse
         %ul.nav.pull-right
           %li
-            %a{href: lernado_path(locale: I18n.locale)}
+            %a{href: lernado_path}
               %i.icon-book
               Lernado
           %li
-            %a{href: helpo_path(locale: I18n.locale)}
+            %a{href: helpo_path}
               %i.icon-question-sign
               Helpo
           %li.dropdown
