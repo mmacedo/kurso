@@ -1,29 +1,23 @@
 require 'i18n_eltiro'
 
 def desc_eltiro_i18n(kio)
-  desc "Generas lokaĵoj el tradukoj de kurso-desktop (#{kio})"
+  desc "Generas lokaĵaroj el tradukoj el kurso-desktop (#{kio})"
 end
 
 namespace :eltiro do
-  desc "Printi difektoj en la tradukoj de kurso-desktop"
+  desc "Printi difektoj en la tradukoj el kurso-desktop"
   task 'i18n:difektoj' => :environment do
     I18nEltiro::Konvertilo.new.printi_difektoj
   end
 
-  desc_eltiro_i18n "ĉiuj lokaĵoj"
+  desc_eltiro_i18n "ĉiuj lokaĵaroj"
   task 'i18n' => :environment do
     I18nEltiro::Konvertilo.new.konverti
   end
 
-  desc_eltiro_i18n "elpurigo"
-  task 'i18n:elpurigo' => :environment do
-    I18nEltiro::Konvertilo.new(nur: %i[eo], eliga: %i[yml ai], sinsekva: true).konverti
-  end
-
-  I18nEltiro.lingvoj.except(:eo).keys.each do |lokaĵo|
-    desc_eltiro_i18n ":eo, :#{lokaĵo}"
-    task "i18n:#{lokaĵo}" => :environment do
-      I18nEltiro::Konvertilo.new(nur: [:eo, lokaĵo], eliga: %i[yml ai], sinsekva: true).konverti
-    end
+  desc_eltiro_i18n ":eo kaj parametroj"
+  task "i18n:nur", (?a..?e).to_a => :environment do |t, args|
+    lokaĵaroj = [:eo] + args.to_hash.values.map { |s| s.to_sym }
+    I18nEltiro::Konvertilo.new(nur: lokaĵaroj, eliga: %i[yml ai], sinsekva: true).konverti
   end
 end
