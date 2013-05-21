@@ -22,48 +22,51 @@ module I18nEltiro
     private
     def ripari_sintaksaj_eraroj!(dosiero, linioj)
       linioj.map! do |linio|
-        # Kongruas malbona escapita, e.g. '\\ "' -> '\\"'
-        linio.match(/\\ "/) do |m|
-          nova_linio = linio.gsub(/\\ "/, '\"')
-          printi_difekto "Malbona escapita kun spacio", dosiero, linio, nova_linio
-          linio = nova_linio
+        # Procezi nur linioj kun duopoj
+        next(linio) unless linio.match /\=/
+
+        # Forigas spacoj
+        linio = linio.gsub(/\A [[:space:]]*([\w\-\\.%—]+)[[:space:]]* = [[:space:]]*(.*?)[[:space:]]* \z/mx, '\1=\2')
+
+        # Aldonas citilo
+        linio = linio.gsub(/\A ([\w\-\\.%—]+) = ([^"].*?) \z/mx, '\1="\2"')
+
+        # Eltiras nur valor por procezi
+        klavo, valoro = linio.match(/\A([\w\-\\.%—]+)="(.*?)"\z/mx)[1..2]
+
+        # Forigas malbonajn signojn el klavo
+        klavo = klavo.gsub(/[^\w.](\w\d+)?/, '_')
+
+        # \$ -> \"
+        nova_valoro = valoro.gsub(/\\\z/m, '\"')
+        if valoro != nova_valoro
+          printi_difekto "Malbona escapita (EOL post '\\')", dosiero, valoro, nova_valoro
+          valoro = nova_valoro
         end
-        # Kongruas malbona escapita, e.g. '"\\' -> '\\"'
-        linio.match(/("\\)([^"\\]|$)/) do |m|
-          nova_linio = linio.clone
-          nova_linio[Range.new(*m.offset(1))] = '\\"'
-          printi_difekto "Malbona escapita kun escapo inversigita", dosiero, linio, nova_linio
-          linio = nova_linio
+
+        # \ " -> \"
+        nova_valoro = valoro.gsub(/\\[[:space:]]"/, '\"')
+        if valoro != nova_valoro
+          printi_difekto "Malbona escapita (spaco inter la '\\' kaj '\"')", dosiero, valoro, nova_valoro
+          valoro = nova_valoro
         end
-        # Kongruas citilo sen paro
-        linio.match(/\A\s* \w+ \s*   =   \s* ("([^"]|\\")*?) \s*\z/mx) do |m|
-          nova_linio = linio.gsub(m[1], m[1] + '"')
-          printi_difekto "Citilo sen paro", dosiero, linio, nova_linio
-          linio = nova_linio
+
+        # "\ -> \"
+        nova_valoro = valoro.gsub(/ "\\ ([^"\\=]|\z) /mx, '\"\1')
+        if valoro != nova_valoro
+          printi_difekto "Malbona escapita ('\\' post '\"')", dosiero, valoro, nova_valoro
+          valoro = nova_valoro
         end
-        # Kongruas dua signo '=' ne-escapita
-        linio.match(/\A\s* \w+ \s*   =   \s* ([^"].*?=.*?) \s*\z/mx) do |m|
-          nova_linio = linio.gsub(m[1], %{"#{m[1]}"})
-          printi_difekto "Dua = ne-escapita", dosiero, linio, nova_linio
-          linio = nova_linio
+
+        # []=" -> \[\]\=\"
+        escapi = '\1' + '\\\\' + '\2'
+        nova_valoro = valoro.gsub(/ ([^\\]|\A) ([\[\]="]) /mx, escapi).gsub(/([\[\]="]) ([\[\]="])/mx, escapi)
+        if valoro != nova_valoro
+          printi_difekto "Egalsigno, citilo aŭ rekta krampo ne-escapita", dosiero, valoro, nova_valoro
+          valoro = nova_valoro
         end
-        # Kongruas signo '"' ne-escapita
-        linio.match(/\A\s* \w+ \s*   =   \s* ("?) (.*?[^\\]".*?) \1 \s*\z/mx) do |m|
-          break if m[2].start_with? '"'
-          nova_linio = linio.gsub(m[2], m[2].gsub('"', '\"'))
-          printi_difekto "Citilo ne-escapita", dosiero, linio, nova_linio
-          linio = nova_linio
-        end
-        loop do
-          # kongruas signoj '[' kaj ']' ne-escapita
-          break unless linio.match(/\A\s* \w+ \s*   =   \s* ( [\[\]] | .*? [^\\] [\[\]] ) /mx) do |m|
-            nova_linio = linio.clone
-            nova_linio[m.end(1).pred] = "\\#{nova_linio[m.end(1).pred]}"
-            printi_difekto "Rektaj krampoj ne-escapita", dosiero, linio, nova_linio
-            linio = nova_linio
-          end
-        end
-        linio
+
+        %(#{klavo}="#{valoro}"\n)
       end
     end
 
@@ -84,8 +87,8 @@ module I18nEltiro
 
     def printi_difekto(mesaĝo, dosiero, de, al)
       print "\033[33m#{mesaĝo} (#{File.basename(dosiero)})\033[0m\n"
-      print "\033[33mde: \033[31m#{de}\033[0m"
-      print "\033[33mal: \033[32m#{al}\033[0m"
+      print "\033[33mde: \033[31m#{de}\033[0m\n"
+      print "\033[33mal: \033[32m#{al}\033[0m\n"
     end
   end
 end
