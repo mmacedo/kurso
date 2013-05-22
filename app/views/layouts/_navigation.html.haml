@@ -8,10 +8,22 @@
       = link_to "kurso", root_path, class: 'brand'
       .nav-collapse.collapse
         %ul.nav.pull-right
-          %li
-            %a{href: lernado_path}
+          %li.dropdown
+            %a.dropdown-toggle{href: '#', 'data-toggle' => "dropdown"}
               %i.icon-book
               Lernado
+              %b.caret
+            %ul.dropdown-menu
+              %li= link_to 'Leciono 1',  leciono01_path
+              %li= link_to 'Leciono 2',  leciono02_path
+              %li= link_to 'Leciono 3',  leciono03_path
+              %li= link_to 'Leciono 4',  leciono04_path
+              %li= link_to 'Leciono 5',  leciono05_path
+              %li= link_to 'Leciono 6',  leciono06_path
+              %li= link_to 'Leciono 7',  leciono07_path
+              %li= link_to 'Leciono 8',  leciono08_path
+              %li= link_to 'Leciono 9',  leciono09_path
+              %li= link_to 'Leciono 10', leciono10_path
           %li
             %a{href: helpo_path}
               %i.icon-question-sign
