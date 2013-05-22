@@ -1,0 +1,96 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: 我们已经知道动词现在时以“as”结尾，过去时以“is”结尾，将来时以“os”结尾。此外，还有一些其它时态。
+        imperativo: 
+          ekspliko-1: 命令式通常是与第二个人相关，因而不必使用代词。但是如果与第一人或者第三人相关时，就应使用相应的代词。
+          ekspliko-2: "以-U结尾的动词通常表示命令、请求、忠告、祝愿、必须、允许、禁止等。在表示“希望”、“担心”、“不相信”、 “猜测”等意思时，用将来时词尾（-os）。"
+          frazo-1: 把门关上，坐吧！
+          frazo-2: 我想要你来。
+          frazo-3: 世界语万岁！
+          frazo-4: 她请求我留下来。
+          frazo-5: "我们睡吧 / 让他们睡吧。"
+          frazo-6: 我希望他会来。
+          frazo-7: 我建议他来。
+          frazo-8: 可能他会来。
+          titolo: 命令式-U
+        kondicionalo: 
+          frazo-1: 如果我富有的话，我会多旅游。
+          frazo-2: 如果面包好的话，我们就吃面包。
+          titolo: 条件式-US
+        nerekta: 
+          ekspliko: 在间接引语中通常使用与直接引语相同的时态或动词式，如：
+          frazo-1: 他说：“我来自纽约。”
+          frazo-2: 他说，他来自纽约。
+          frazo-3: 她说：“我将去巴黎。”
+          frazo-4: 她说，她将去巴黎。
+        titolo: 其他动词时态
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: 我应该理解。
+          devas-veni: 我必须来。
+          devi: 应该，必须
+          povas-kompreni: 我能理解。
+          povas-veni: 我可以来。
+          povi: 能，能够，可以
+          volas-kompreni: 我想理解。
+          volas-veni: 我想来。
+          voli: 想要，愿，欲
+        scio: 
+          frazo-koni-1: 我认识……
+          frazo-koni-2: 你认识约翰吗？
+          frazo-scii-1: 我知道……
+          frazo-scii-2: 你知道世界语吗？
+        titolo: 几个常用动词
+        ŝato: 
+          frazo-ami: 我爱某人。
+          frazo-plaĉi-1: 某物或某人让我喜欢。
+          frazo-plaĉi-2: 书籍让我喜欢。
+          frazo-ŝati: 我喜欢某物（或某事）。
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: 我现在准备读。
+          frazo-presenco: 我现在正在读。
+          frazo-preterito: 我现在读完了。
+          futuro: 将来时：-ont
+          presenco: 现在时：-ant
+          preterito: 过去时：-int
+          titolo: 主动态分词
+        ekspliko-1: 世界语的动词有六种形式，其中三种为主动态分词，三种为被动态分词。分词可作为名词、动词或形容词来使用：
+        ekspliko-2: 分词可以有形容词（词尾“a”）、副词（词尾“e”）和名词（词尾“o”）的形式，它们的使用可以使句子更加准确和简明。在下节的课文中我们将介绍更多的例子。
+        ekspliko-3: 分词可以和其他动词的式结合。设想一下我们在诊所观察看病的过程，有人等着医生看病，有人已经看过病了，还有人正在看病，这时，对于每个人我们可以说：
+        ekspliko-4: 如果今天我讲述昨天在诊所看到了什么，我们说：
+        ekspliko-5: 根据病人经常出现在这家诊所的情况，我们可以预见明天发生的事情：
+        frazo-1: 朗读者嗓音好，但前面那个朗读者嗓音更好。
+        frazo-10: 本月
+        frazo-11: 付费会员
+        frazo-2: 然而我认为，下一位朗读者会是所有人中嗓音最好的。
+        frazo-3: 准备吃苹果时他突然看到了一条虫子。
+        frazo-4: 我们边读边学习。
+        frazo-5: 所建的房子
+        frazo-6: 将要被写的信
+        frazo-7: 被关闭的门
+        frazo-8: 正在升起的太阳
+        frazo-9: 幸存者
+        pasiva_voĉo: 
+          frazo-ekstra: "我在读书 = 书正在被我读"
+          frazo-futuro: 那本书将被读。
+          frazo-presenco: 那本书正被读着。
+          frazo-preterito: 那本书被读过了。
+          futuro: 将来时：-ot
+          presenco: 现在时：-at
+          preterito: 过去时：-it
+          titolo: 被动态分词
+        titolo: 动词分词
+      pronomo_si: 
+        ekspliko-1: “Si”是第三人称反身代词，用在动词后与句子主语关联，反指主语。
+        ekspliko-2: “Sia”不能是主语自身的一部分，这类情况下应用“lia”、“ŝia”、“ĝia”或“ilia”。下面的例子中“filo”和“li”关联：
+        frazo-1: 约翰给自己洗了。
+        frazo-2: 约翰给他洗了（另外一个人）。
+        frazo-3: 索菲亚对自己说。
+        frazo-4: 索菲亚对她说（对另外一个女人）。
+        frazo-5: 他和自己的儿子一起幸福地生活着。
+        frazo-6: "他和他儿子 (别人的儿子)幸福地生活着。"
+        titolo: 反身代词“Si”

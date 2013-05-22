@@ -1,0 +1,96 @@
+--- 
+es: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Algo más acerca de los verbos: ya vimos que los verbos terminan en \"as\" en el presente, en \"is\" en el pasado, en \"os\" en el futuro y en \"i\" el infinitivo. Hay además otros tiempos:"
+        imperativo: 
+          ekspliko-1: "El modo imperativo (-u) normalmente se relaciona con la segunda persona, y no necesita usar el pronombre. Sin embargo, cuando se trata de la primera o tercera persona, se usa el pronombre:"
+          ekspliko-2: "El carácter de la terminación \"u\" es el objetivo (orden, petición, admonición, deseo, necesidad, deber, permiso, prohibición, etc.) En los casos cuando se trata de \"yo espero\", \"yo temo\", \"yo no creo\", \"yo supongo\", etc. Se usa la terminación del futuro (-os)."
+          frazo-1: "Cierra la puerta y siéntante."
+          frazo-2: "Quiero que vengas."
+          frazo-3: "¡Viva Esperanto!"
+          frazo-4: "Ella pidió que me quede."
+          frazo-5: "Durmamos / Duerman"
+          frazo-6: "Espero que él venga."
+          frazo-7: "Sugiero que él venga."
+          frazo-8: "Es posible que él venga."
+          titolo: "Imperativo (-U)"
+        kondicionalo: 
+          frazo-1: "Si yo fuese rico, viajaría mucho."
+          frazo-2: "Comeríamos el pan, si fuera bueno."
+          titolo: "Condicional (-US)"
+        nerekta: 
+          ekspliko: "En el habla indirecta se usa el mismo tiempo y modo verbal que en la directa. Por ejemplo:"
+          frazo-1: "Él dijo, \"Vengo de Nueva York\"."
+          frazo-2: "Él dijo que viene de Nueva York."
+          frazo-3: "Ella dijo, \"Viajaré a París\"."
+          frazo-4: "Ella dijo que viajará a París."
+        titolo: "Otros tiempos verbales"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Debo comprender"
+          devas-veni: "Debo venir"
+          devi: deber
+          povas-kompreni: "Puedo comprender"
+          povas-veni: "Puedo venir"
+          povi: poder
+          volas-kompreni: "Quiero comprender"
+          volas-veni: "Quiero venir"
+          voli: querer
+        scio: 
+          frazo-koni-1: "Yo conozco..."
+          frazo-koni-2: "¿Conoces a Juan?"
+          frazo-scii-1: "Yo sé..."
+          frazo-scii-2: "¿Sabes Esperanto?"
+        titolo: "Algunos verbos muy importantes"
+        ŝato: 
+          frazo-ami: "Amo a alguien."
+          frazo-plaĉi-1: "Algo o alguien me place."
+          frazo-plaĉi-2: "Los libros me agradan."
+          frazo-ŝati: "Me gusta algo."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Estoy por leer."
+          frazo-presenco: "Estoy leyendo"
+          frazo-preterito: "He leído"
+          futuro: "Futuro: -ont"
+          presenco: "Presente: -ant"
+          preterito: "Pasado: -int"
+          titolo: "Voz Activa"
+        ekspliko-1: "Los participios son palabras usadas como adjetivos, adverbios o sustantivos:"
+        ekspliko-2: "Los participios pueden tener la forma adjetiva (terminación \"a\"), adverbial (terminación \"e\") y sustantiva (terminación \"o\"). Su uso permite una mayor precisión y condensación. En las páginas siguientes presentaremos más ejemplos."
+        ekspliko-3: "Los participios pueden combinarse con otros modos verbales. Imaginemos que observamos la circulación en un consultorio; hay personas que esperan para consultar el médico, otro ya lo consultó y hay otro que lo consulta. Acerca de toda persona podemos decir que, en este momento:"
+        ekspliko-4: "Si hoy contamos lo que vimos AYER en este consultorio, decimos que:"
+        ekspliko-5: "Según la frecuencia de pacientes en ese consultorio, podemos prever que MAÑANA:"
+        frazo-1: "El lector tiene buena voz, pero el lector anterior la tenía mejor."
+        frazo-10: "El mes que está corriendo"
+        frazo-11: "Los miembros pagadores"
+        frazo-2: "Opino, sin embargo, que el que leerá tendrá la mayor voz de todas."
+        frazo-3: "A punto de comer la manzana, él vio el gusano."
+        frazo-4: "Mientras leemos aprendemos."
+        frazo-5: "La casa en construcción."
+        frazo-6: "La carta que será escrita"
+        frazo-7: "La puerta cerrada."
+        frazo-8: "El sol que se levanta"
+        frazo-9: "Los sobrevivientes"
+        pasiva_voĉo: 
+          frazo-ekstra: "Leo el libro = El libro está siendo leído por mí."
+          frazo-futuro: "El libro está por ser leído."
+          frazo-presenco: "El libro está siendo leído."
+          frazo-preterito: "El libro fue leído."
+          futuro: "Futuro: -ot"
+          presenco: "Presente: -at"
+          preterito: "Pasado: -it"
+          titolo: "Voz Pasiva"
+        titolo: Participios
+      pronomo_si: 
+        ekspliko-1: "\"Si\" es el pronombre reflexivo de la tercera persona, que se usa cuando se refiere al sujeto de la oración."
+        ekspliko-2: "\"Sia\" no puede ser parte del sujeto mismo. En esos casos se usa \"lia\", \"ŝia\", \"ĝia\" o \"ilia\". En los casos siguientes \"filo\" se relaciona con \"li\":"
+        frazo-1: "Juan se lavó (a sí mismo)."
+        frazo-2: "Juan lo lavó (a otro hombre)."
+        frazo-3: "Sofía se dijo (a sí misma)."
+        frazo-4: "Sofía le dijo (a otra mujer)."
+        frazo-5: "Él vive felizmente con su hija."
+        frazo-6: "Él y su hija viven felizmente."
+        titolo: "Pronombre \"Si\""

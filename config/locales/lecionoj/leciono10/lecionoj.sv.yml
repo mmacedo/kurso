@@ -1,0 +1,111 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: |-
+            Lite mer om verben: vi har redan sett att  verb slutar på 'as' i nutid (presens), med 'is' i förfluten 
+            tid (preteritum) och med 'os' i framtid (futurum). Det finns fler tidsformer (tempus):
+        imperativo: 
+          ekspliko-1: |-
+              Verbet i imperativ (-U) avser vanligen andra person och då är det inte nödvändigt att använda 
+              pronomen. För första eller tredje person skall man använda motsvarande pronomen:
+          ekspliko-2: |-
+              U-ändelsens karaktär beror av målet ( order, bön, uppmaning, önskan, behov, plikt, tillstånd, 
+              förbud osv.). I de fall  det handlar om att 'jag hoppas', 'jag är rädd att', 'jag tror inte', jag antar' 
+              osv. skall man använda framtidsändelsen (ändelsen för futurum) (-os).
+          frazo-1: "Stäng dörren och sitt ner."
+          frazo-2: "Jag vill, att du skall komma."
+          frazo-3: "Leve esperanto!"
+          frazo-4: "Hon bad, att jag skulle stanna."
+          frazo-5: "Vi må (skall)  sova. /  De bör (skall) sova."
+          frazo-6: "Jag hoppas, att han skall komma."
+          frazo-7: |-
+              Jag föreslår, att han skall komma. 
+                 och ville genast få dig fatt!
+              — Jag tror dig o min kung
+                 men jag behöver guld uti min pung!
+              — Jag älskar dig, min dyra,
+                 men jag har knappt till hyra!
+              — Om du skulle älska mig, din snåljåp
+                 skulle du inte  bete dig som ett våp.
+          frazo-8: "Det är möjligt, att han kommer att komma."
+          titolo: "Befallningsform (imperativ)  (-U)"
+        kondicionalo: 
+          frazo-1: "Om jag vore rik, skulle jag resa mycket."
+          frazo-2: "Vi skulle äta brödet om det vore gott."
+          titolo: "Villkorsform (konditionalis) (-US)"
+        nerekta: 
+          ekspliko: "Vid indirekt anföring: Använd samma tempus och modus på verbet som vid direkt anföring. Ex.:"
+          frazo-1: "Han sade, 'Jag kommer från New York."
+          frazo-2: "Han sade, att han kommer från New York"
+          frazo-3: "Hon sade, 'Jag kommer att resa till Paris'"
+          frazo-4: "Hon sade, att hon kommer att resa till Paris."
+        titolo: "Andra verbformer"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Jag måste förstå"
+          devas-veni: "Jag måste komma"
+          devi: "att böra ('måsta')"
+          povas-kompreni: "Ja kan förstå"
+          povas-veni: "Jag kan komma"
+          povi: "att kunna"
+          volas-kompreni: "Jag vill förstå"
+          volas-veni: "Jag vill komma"
+          voli: "att vilja"
+        scio: 
+          frazo-koni-1: "Jag känner ..."
+          frazo-koni-2: "Känner du Johan?"
+          frazo-scii-1: "Jag vet ..."
+          frazo-scii-2: "Kan du esperanto?"
+        titolo: "Några mycket viktiga verb"
+        ŝato: 
+          frazo-ami: "Jag älskar någon."
+          frazo-plaĉi-1: "Något eller någon behagar mig."
+          frazo-plaĉi-2: "Böcker faller mig i smaken. ( Jag tycker om böcker.)"
+          frazo-ŝati: "Jag tycker om något."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Jag kommer att vara läsande"
+          frazo-presenco: "Jag är läsande (just nu)"
+          frazo-preterito: "Jag har varit läsande"
+          futuro: "Framtid (futurum) -ont"
+          presenco: "Nutid (presens) -ant"
+          preterito: "Förfluten tid (preteritum) -int"
+          titolo: "Aktiv form"
+        ekspliko-1: "Particip är ord som används som adjektiv, adverb eller substantiv:"
+        ekspliko-2: "Participen kan ha adjektivform (ändelse 'a') adverbform (ändelse 'e') och substantivform (ändelse 'o'.  Participen ger möjlighet att vara  mycket precis och koncis. På  följande sidor kommer vi att presentera ytterligare exempel."
+        ekspliko-3: "Man kan kombinera participen med andra verbtidformer. Vi skall nu föreställa oss att vi iakttar vad som händer på en läkarmottagning; det finns en person som väntar på läkaren. en som redan konsulterat läkaren och en som just nu konsulterar läkaren. Om dessa personer kan vi säga att i detta ögonblick:"
+        ekspliko-4: "Om vi berättar IDAG, vad vi såg IGÅR på denna mottagning säger vi att:"
+        ekspliko-5: "Med hänsyn till klientmängden på denna  läkarmottagning, kan vi förutse att I MORGON:"
+        frazo-1: "Den som läser just (den läsande) nu har bra röst, men föregående läsare hade bättre röst."
+        frazo-10: "Löpande månad"
+        frazo-11: "Medlemmar som håller på att betala. (just nu)"
+        frazo-2: "Jag anser dock, att den som kommer att läsa kommer att ha den bästa rösten av alla."
+        frazo-3: "När han skulle äta äpplet fick han se masken."
+        frazo-4: "Vi lär genom att läsa."
+        frazo-5: "Huset som är under uppförande."
+        frazo-6: "Brevet som skall komma att skrivas."
+        frazo-7: "Den stängda dörren.\n"
+        frazo-8: "En uppgående sol"
+        frazo-9: "De efterlevande"
+        pasiva_voĉo: 
+          frazo-ekstra: "Jag läser en bok = Boken läses av mig. (just nu)"
+          frazo-futuro: "Boken kommer att bli läst."
+          frazo-presenco: "Boken läses (just nu)."
+          frazo-preterito: "Boken är läst."
+          futuro: "Framtid (futurum): -ot"
+          presenco: "Nutid (presens) -at"
+          preterito: "Förfluten tid (preteritum): -it"
+          titolo: "Passiv form"
+        titolo: Particip
+      pronomo_si: 
+        ekspliko-1: "'si' är ett reflekterande (återsändande) pronomen för tredje person som används för att relatera till satsens subjekt (den som utför handlingen)."
+        ekspliko-2: "'Sia' (sin) kan inte var del av subjektet självt. I sådana fall skall man använda 'lia', 'ŝia', 'ĝia' eller 'ilia'. I nedanstående exempel relaterar ordet 'filo' till 'li' :"
+        frazo-1: "Johan tvättade sig (d.v.s sin egen kropp)"
+        frazo-2: "Johan tvättade honom (en annan man)."
+        frazo-3: "Sofia sade till sig (själv)."
+        frazo-4: "Sofia sade till henne (en annan kvinna)"
+        frazo-5: "Han lever lyckligt tillsammans med sin son"
+        frazo-6: "Han och hans son lever lycklig"
+        titolo: "Pronomenet 'Si'"

@@ -1,0 +1,96 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Widzieliśmy, że czasowniki w czasie teraźniejszym kończą się na -as,  w przeszłym na  -is w przyszłym na -os, w bezokoliczniku  na  -i. Są  jeszcze inne czasy:"
+        imperativo: 
+          ekspliko-1: "Tryb rozkazujący dotyczy przeważnie drugiej osoby, nie konieczne jest wtedy używanie zaimka \"ty\", \"wy\". Kiedy odnosi się do trzeciej osoby należy zastosować zaimek:"
+          ekspliko-2: "Końcówka  -u  trybu rozkazującego  odnosi sie do :  rozkazu, prośby, upomnienia, życzenia, konieczności,  nakazu, pozwolenia, zakazu."
+          frazo-1: "Zamknij drzwi i usiądź!"
+          frazo-2: "Chcę, abyś przybył!"
+          frazo-3: "Niech żyje Esperanto!"
+          frazo-4: "Ona prosiła, abym został!"
+          frazo-5: "Śpijmy!  Niech oni śpią!"
+          frazo-6: "Mam nadzieję, że on przybędzie."
+          frazo-7: "Sugeruję, aby on przybył."
+          frazo-8: "Jest możliwe, że on przybędzie."
+          titolo: "Tryb rozkazujący ( -U   )"
+        kondicionalo: 
+          frazo-1: "Jeśli byłbym bogaty, wiele bym podróżował."
+          frazo-2: "Jedlibyśmy chleb, jeśli on byłby dobry."
+          titolo: "Tryb warunkowy  ( - US   )"
+        nerekta: 
+          ekspliko: "W mowie nie wprost, używa się trybu oznajmiającego np:"
+          frazo-1: "On powiedział: \" Przybywam z Nowego Jorku\"."
+          frazo-2: "On powiedział, że przybywa z Nowego Jorku."
+          frazo-3: "On powiedziała: \" Pojadę  do Paryża\"."
+          frazo-4: "Ona powiedziała, że pojedzie do Paryża."
+        titolo: "Inne czasy"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Muszę rozumieć"
+          devas-veni: "Ja muszę przybyć"
+          devi: musieć
+          povas-kompreni: "Mogę rozumieć"
+          povas-veni: "Ja mogę przybyć"
+          povi: móc
+          volas-kompreni: "Chcę rozumieć"
+          volas-veni: "Ja chcę przybyć"
+          voli: chcieć
+        scio: 
+          frazo-koni-1: znam...
+          frazo-koni-2: "Czy znasz Jana?"
+          frazo-scii-1: wiem
+          frazo-scii-2: "Czy znasz Esperanto?"
+        titolo: "Kilka bardzo ważnych czasowników"
+        ŝato: 
+          frazo-ami: "Kocham kogoś."
+          frazo-plaĉi-1: "Coś, albo ktoś podoba mi się."
+          frazo-plaĉi-2: "Książki podobają mi się."
+          frazo-ŝati: "Lubię coś."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Jestem tym, który będzie czytał."
+          frazo-presenco: "Jestem tym, który czyta."
+          frazo-preterito: "Jestem tym, który czytał."
+          futuro: "Czas przyszły: -ont"
+          presenco: "Czas terażniejszy: -ant"
+          preterito: "Czas przeszły: -int"
+          titolo: "Strona czynna"
+        ekspliko-1: "Imiesłowy są używane jako przymiotniki, przysłówki, lub rzeczowniki:"
+        ekspliko-2: "Imiesłowy mogą mieć postać przymiotnika  (-a),  przysłówka (-e)  i  rzeczownika (-o). Ich stosowanie  pozwala na większą precyzję i zwięzłość wyrażania myśli. Przykłady:"
+        ekspliko-3: "Imiesłowy można łączyć z innymi  czasami. Wyobraźmy sobie, że obserwujemy ruch w ambulatorium. Jest człowiek czekający na badanie lekarskie, inny, który już był badany  i  inny, który  jest właśnie badany. O każdym z nich można powiedzieć, że w tym momencie:"
+        ekspliko-4: "Jeżeli dzisiaj opowiadamy to co widzieliśmy w ambulatorium  WCZORAJ, powiemy że:"
+        ekspliko-5: "Możemy przewidzieć, że  JUTRO  w ambulatorium :"
+        frazo-1: "Czytający teraz ma dobry głos, lecz poprzedni, który czytał miał lepszy."
+        frazo-10: "Bieżący miesiąc."
+        frazo-11: "Płacący członkowie."
+        frazo-2: "Uważam jednak, że ten, który będzie czytał, będzie miał najlepszy głos ze wszystkich."
+        frazo-3: "Mając zamiar jeść jabłko, zobaczył robaka."
+        frazo-4: "Czytając uczymy się."
+        frazo-5: "Budowany dom."
+        frazo-6: "List, który będzie pisany."
+        frazo-7: "Zamknięte drzwi."
+        frazo-8: "Wstające słońce."
+        frazo-9: "Ci, którzy przeżyli."
+        pasiva_voĉo: 
+          frazo-ekstra: "Czytam książkę = Książka jest czytana przeze mnie."
+          frazo-futuro: "Książka będzie czytana."
+          frazo-presenco: "Książka jest czytana."
+          frazo-preterito: "Książka była czytana."
+          futuro: "Czas przyszły: -ot"
+          presenco: "Czas teraźniejszy: at"
+          preterito: "Czas przeszły: -it"
+          titolo: "Strona bierna"
+        titolo: Imiesłowy
+      pronomo_si: 
+        ekspliko-1: "\"Si\"  odnosi się do trzeciej osoby, podmiotu zdania."
+        ekspliko-2: "\"Swój\" nie może być  podmiotem   zdania."
+        frazo-1: "Jan mył się  (sam)."
+        frazo-2: "Jan mył jego  (innego mężczyznę)"
+        frazo-3: "Zofia  powiedziała do siebie (samej)."
+        frazo-4: "Zofia powiedziała do niej (do innej kobiety)."
+        frazo-5: "On żyje szczęśliwie ze swoim synem."
+        frazo-6: "On i jego syn żyją szczęśliwie."
+        titolo: "Zaimek  \" Si \""

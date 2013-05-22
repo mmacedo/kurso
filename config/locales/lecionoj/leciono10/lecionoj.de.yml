@@ -1,0 +1,102 @@
+--- 
+de: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "(a) Indikativ - 'Anzeigeform': In der 1. - 3. Person endet das Verb durchweg  im Präsens auf -as, im Präteritum auf -is, im Futur auf -os (Infinitiv stets auf -i).  Außerdem gelten als  Modi:"
+        imperativo: 
+          ekspliko-1: "Der Imperativ bezieht sich normalerweise auf die 2. Person (du/ihr) - und zwar ohne Personalpronomen. Dieses steht jedoch bei der 1. oder 3. Person [oft Formen des Wünschens]."
+          ekspliko-2: |-
+              Die Endung -u verwendet man bei Aufforderungen (Befehl, Wunsch u. ä.).
+              Nach Verben des Hoffens, Fürchtens, Glaubens usw. gebrauche man das Futur (-os).
+          frazo-1: "Schließ die Tür und setz dich hin."
+          frazo-2: "Ich will, dass du kommst."
+          frazo-3: "Esperanto soll leben!"
+          frazo-4: "Sie bat mich zu bleiben (wörtl.: dass ich bliebe)."
+          frazo-5: "Lasst uns schlafen!/Sie sollen schlafen!"
+          frazo-6: "Ich hoffe, dass er kommen wird."
+          frazo-7: "Ich rate (ihm) zu kommen [dass er kommen soll]."
+          frazo-8: "Es ist möglich, dass er kommt (wörtl.: kommen wird)."
+          titolo: "(c) Imperativ - 'Befehlsform' (-u)"
+        kondicionalo: 
+          frazo-1: "Wenn ich reich wäre, würde ich viel reisen."
+          frazo-2: "Wir würden das Brot essen, wenn es gut wäre."
+          titolo: "(b) Konditional -  'Bedingungsform' (-us) ['Konjunktiv']"
+        nerekta: 
+          ekspliko: "In der abhängigen Rede benutzt man die gleichen Verbformen wie in der direkten Rede, z. B.:"
+          frazo-1: "Er sagte: \"Ich komme von New York.\""
+          frazo-2: "Er sagte, dass er von New York komme."
+          frazo-3: "Sie sagte: \"Ich werde nach Paris reisen.\""
+          frazo-4: "Sie sagte, dass sie nach Paris reisen werde."
+        titolo: "Verbformen als Modi: (a) Indikativ, (b) Konditional, (c) Imperativ"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Ich muss verstehen."
+          devas-veni: "Ich muss kommen."
+          devi: müssen
+          povas-kompreni: "Ich kann verstehen."
+          povas-veni: "Ich kann kommen."
+          povi: können
+          volas-kompreni: "Ich will verstehen."
+          volas-veni: "Ich will kommen."
+          voli: wollen
+        scio: 
+          frazo-koni-1: "Ich kenne..."
+          frazo-koni-2: "Kennst du Johannes?"
+          frazo-scii-1: "Ich weiß..."
+          frazo-scii-2: "Kennst du Esperanto?"
+        titolo: "Sehr wichtig: Modalverben"
+        ŝato: 
+          frazo-ami: "Ich liebe (irgend)jemand [irgendeinen]."
+          frazo-plaĉi-1: "Etwas oder jemand gefällt mir."
+          frazo-plaĉi-2: "Bücher gefallen mir."
+          frazo-ŝati: "Ich schätze (irgend)etwas."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Ich werde lesen."
+          frazo-presenco: "Ich lese (bin lesend)."
+          frazo-preterito: "Ich habe gelesen."
+          futuro: "Futur: -ont"
+          presenco: "Präsens: -ant"
+          preterito: "Präteritum: -int"
+          titolo: Aktiv
+        ekspliko-1: "Partizipien können die Rolle des Verbs, Substantivs, Adjektivs oder Adverbs übernehmen:"
+        ekspliko-2: |-
+            Partizipien können die Endungen des Adjektivs (-a), des Adverbs (-e) und des Substantivs (-o) annehmen. Ihr Gebrauch wirkt präziser und gedrängter.
+            Siehe Beispiele auf den folgenden Seiten.
+        ekspliko-3: "Das Partizip kann man mit anderen Verbformen verbinden.  Beobachten wir das Treiben in einem Wartezimmer; jemand wartet auf den Arzt, um Rat zu suchen, ein anderer tat es schon, und ein anderer ist gerade bei ihm.  Von wem kann man sagen, dass er jetzt:"
+        ekspliko-4: "Wenn wir heute erzählen, was wir GESTERN in jenem Sprechzimmer sahen, sagen wir:"
+        ekspliko-5: "Mit hoher Wahrscheinlichkeit können wir vorhersehen, dass MORGEN:"
+        frazo-1: "Der Leser hat eine gute Stimme, aber sein Vorgänger hatte eine bessere."
+        frazo-10: "Laufender Monat."
+        frazo-11: "Zahlende Mitglieder."
+        frazo-2: "Trotzdem meine ich, dass der kommende Leser die beste Stimme von allen hat (haben wird)."
+        frazo-3: "Im Begriff, den Apfel zu essen, erblickte er den W."
+        frazo-4: "Durch Lesen lernen wir (wörtl.: Lesend lernen wir)."
+        frazo-5: "Das Haus, das gebaut wird."
+        frazo-6: "Der Brief, der geschrieben (werden) wird."
+        frazo-7: "Die geschlossene Tür."
+        frazo-8: "[Eine] aufgehende Sonne."
+        frazo-9: "Die (damaligen) Nachkommen/Überlebenden."
+        pasiva_voĉo: 
+          frazo-ekstra: "Ich lese das Buch = Das Buch wird von mir gelesen."
+          frazo-futuro: "Das Buch wird gelesen werd."
+          frazo-presenco: "Das Buch wird gelesen."
+          frazo-preterito: "Das Buch ist gelesen worden"
+          futuro: "Futur: -ot"
+          presenco: "Präsens: -at"
+          preterito: "Präteritum: -it"
+          titolo: Passiv
+        titolo: Partizipien
+      pronomo_si: 
+        ekspliko-1: "\"Si\" bezieht sich als \"rückbezügliches Pronomen\" der 3. Person auf das Subjekt des Satzes zurück."
+        ekspliko-2: |-
+            "Sia" kann nicht Begleiter des Subjekts selbst sein. Dann gebraucht man "lia, ŝia, ĝia oder ilia". 
+            In den unteren Beispielen bezieht sich "filo" auf "li".
+        frazo-1: "Hans wusch sich (selbst)."
+        frazo-2: "Hans wusch ihn (einen anderen)."
+        frazo-3: "Sofia sprach zu sich (selbst)."
+        frazo-4: "Sofia sprach zu ihr (einer anderen)."
+        frazo-5: "Er lebt glücklich mit seinem [eigenen] Sohn."
+        frazo-6: "Er und sein [dessen] Sohn leben glücklich."
+        titolo: "Das Reflexivpronomen \"si\""

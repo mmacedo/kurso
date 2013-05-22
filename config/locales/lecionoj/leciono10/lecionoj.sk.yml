@@ -1,0 +1,96 @@
+--- 
+sk: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Niečo viac o slovesách: už vieme, že slovesá v prítomnom čase končia na \"as\", v minulom na \"is\" a \"os\" v budúcom čase, no a \"i\" v neurčitku. Existujú aj iné vyjadrenia:"
+        imperativo: 
+          ekspliko-1: "Rozkazovací spôsob (-u) sa väčšinou vzťahuje na druhú osobu a nie je nutné uvádzať zámeno. Ale pokiaľ sa jedná o prvú alebo tretiu osobu je nutné použiť adekvátne zámeno ( a prekladáme pomocou \"nech\")."
+          ekspliko-2: "Koncovka -u vyjadruje účel (rozkaz, prosbu, napomenutie, prianie, nutnosť, povolenie, zákaz atď.). V prípadoch ako \"dúfam\", \"bojím sa\", \"neverím\", \"navrhujem\" atď sa používa koncovka \"-os\"."
+          frazo-1: "Zatvor dvere a posaď sa."
+          frazo-2: "Chcem, aby si prišiel."
+          frazo-3: "Nech žije esperanto!"
+          frazo-4: "Prosila, aby som zostal."
+          frazo-5: "Spime / Nech spia"
+          frazo-6: "Dúfam, že príde."
+          frazo-7: "Navrhujem, aby prišiel."
+          frazo-8: "Je možné, že príde."
+          titolo: "Rozkazovací spôsob (-u)"
+        kondicionalo: 
+          frazo-1: "Keby som bol bohatý, veľa by som cestoval."
+          frazo-2: "Jedli by sme chlieb, keby bol dobrý."
+          titolo: "Podmieňovací spôsob (-us)"
+        nerekta: 
+          ekspliko: "V nepriamej reči sa používa rovnaký čas a slovesný tvar ako v priamej reči. Napr:"
+          frazo-1: "Povedal:\"Prichádzam z New-Yorku.\""
+          frazo-2: "Povedal, že prichádza z New-Yorku."
+          frazo-3: "Povedala:\"Pocestujem do Paríža.\""
+          frazo-4: "Povedala, že pocestuje do Paríža."
+        titolo: "Iné slovesné tvary"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Musím rozumieť."
+          devas-veni: "Musím prísť."
+          devi: musieť
+          povas-kompreni: "Môžem rozumieť."
+          povas-veni: "Môžem prísť."
+          povi: môcť
+          volas-kompreni: "Chcem rozumieť."
+          volas-veni: "Chcem prísť."
+          voli: chcieť
+        scio: 
+          frazo-koni-1: Poznám...
+          frazo-koni-2: "Poznáš Johana?"
+          frazo-scii-1: Viem...
+          frazo-scii-2: "Vieš esperanto?"
+        titolo: "Zopár veľmi dôležitých slovies"
+        ŝato: 
+          frazo-ami: "Niekoho milujem."
+          frazo-plaĉi-1: "Niečo alebo niekto sa mi páči."
+          frazo-plaĉi-2: "Knihy sa mi páčia."
+          frazo-ŝati: "Niečo mám rád."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Chystám sa čítať. (budem čítať)"
+          frazo-presenco: "Som čítajúci. (čítam)"
+          frazo-preterito: "Som čítavší. (už som čítal)"
+          futuro: "Budúci čas: -ont"
+          presenco: "Prítomný čas: -ant"
+          preterito: "Minulý čas: -int"
+          titolo: "Činný rod"
+        ekspliko-1: "Príčastia sú slová používané ako prídavné mená, príslovky alebo podstatné mená."
+        ekspliko-2: "Príčastia môžu mať formu prídavných mien (\"-a\"), prísloviek (\"-e\") alebo podstatných mien (\"-o\"). Ich použitie dovoľuje väčšiu presnosť a stručnosť. Na nasledujúcich stranách uvedieme ďalšie príklady."
+        ekspliko-3: "Príčastia je možné kombinovať s inými slovesnými časmi. Predstavme si, že sledujeme kolobeh u lekára. Je človek, ktorý čaká na návštevu, iný, ktorý už u lekára bol a ďalší, ktorý je práve u lekára. O každom človeku môžeme povedať, že práve:"
+        ekspliko-4: "Ak dnes rozprávame, čo sme videli včera v čakárne, povieme, že:"
+        ekspliko-5: "Podľa návštevnosti v čakárni môžeme predpokladať, že zajtra:"
+        frazo-1: "Ten čítajúci má dobrý hlas, ale ten predchádzajúci čítavší mal lepší."
+        frazo-10: "Tento mesiac (prebiehajúci)"
+        frazo-11: "Platiaci členovia."
+        frazo-2: "Aj tak si myslím, že ten, ktorý bude čítať, bude mať najlepší hlas zo všetkých."
+        frazo-3: "Chystajúc sa jesť chlieb zbadal červíka."
+        frazo-4: "Čítajúc sa učíme."
+        frazo-5: "Dom, ktorý sa stavia. (stavaný dom)"
+        frazo-6: "List, ktorý bude napísaný."
+        frazo-7: "Zatvorené dvere."
+        frazo-8: "Stúpajúce slnko."
+        frazo-9: Pozostalí.
+        pasiva_voĉo: 
+          frazo-ekstra: "Čítam knihu. = Kniha je čítaná mnou."
+          frazo-futuro: "Kniha bude čítaná."
+          frazo-presenco: "Kniha je čítaná."
+          frazo-preterito: "Kniha je prečítaná."
+          futuro: "Budúci čas: -ot"
+          presenco: "Prítomný čas: -at"
+          preterito: "Minulý čas: -it"
+          titolo: "Trpný rod"
+        titolo: Príčastia
+      pronomo_si: 
+        ekspliko-1: "\"si\" je zámeno korešpondujúce s treťou osobou."
+        ekspliko-2: "\"Sia\" nemôže byť súčasťou podmetu samotného. V takých prípadoch použite \"lia\", \"ŝia\", \"ĝia\" alebo \"ilia\". V nasledujúcich príkladoch sa \"filo\" viaže na \"li\"."
+        frazo-1: "Johan sa umyl. (seba samého)"
+        frazo-2: "Johan ho umyl. (niekoho iného)"
+        frazo-3: "Sofia si povedala (sebe samej)"
+        frazo-4: "Sofia jej povedala. (inej dievčine)"
+        frazo-5: "Žije šťastne so svojím synom."
+        frazo-6: "On a jeho syn žijú šťastne."
+        titolo: "Zámeno \"si\""

@@ -1,0 +1,96 @@
+--- 
+nl: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Over werkwoorden:  de tegenwoordige tijd eindigt op \"as\", de verleden tijd op \"is\" en de toekomende op \"os\". Het onvervoegde werkwoord (= de \"noemvorm\") eindigt op -i. Er zijn ook nog andere vormen:"
+        imperativo: 
+          ekspliko-1: "De gebiedende wijs heeft bij de tweede persoon geen voornaamwoord nodig (Eet!), maar voor de eerste of derde persoon moet het persoonlijk voornaamwoord er wel uitdrukkelijk bij."
+          ekspliko-2: "Het karakter van de uitgang -u  kan zijn een: bevel, verzoek, wens, noodzaak, toestemming, verbod enz. In gevallen als \"ik hoop dat\", \"ik vrees dat\", \" ik geloof niet dat\", \"ik veronderstel dat\" e.d. gebruik je de uitgang van de toekomende tijd (-os)."
+          frazo-1: "Sluit de deur en ga zitten."
+          frazo-2: "Ik wil dat je komt."
+          frazo-3: "Leve Esperanto"
+          frazo-4: "Ze verzocht me te blijven."
+          frazo-5: "Laten wij (gaan) slapen / Laten zij (gaan) slapen"
+          frazo-6: "Ik hoop, dat hij komt (Esp.: ZAL komen)"
+          frazo-7: "Ik opper, dat hij moet komen (kome)."
+          frazo-8: "Het is mogelijk, dat hij komt (Esp.: ZAL komen)."
+          titolo: "De werkwoordsuitgang -u (gebiedende wijs, wensende wijs, aanvoegende wijs)"
+        kondicionalo: 
+          frazo-1: "Als ik rijk was (zou zijn), zou ik veel reizen."
+          frazo-2: "Wij zouden het brood eten, als dat goed was (zou zijn)."
+          titolo: "De werkwoordsuitgang -us (\"Voorwaardelijke wijs\": Als het zo was, dan.....)"
+        nerekta: 
+          ekspliko: "In de indirekte rede gebruik je dezelfde tijd als in de direkte rede, bijvoorbeeld:"
+          frazo-1: "Hij zei, \"Ik kom uit New York\"."
+          frazo-2: "Hij zei, dat hij uit New York KOMT (in het ned. kwam!)"
+          frazo-3: "Ze zei: \"Ik zal naar Parijs reizen\"."
+          frazo-4: "Ze zei, dat ze naar Parijs ZAL (ned. zou) reizen."
+        titolo: "Andere werkwoordsvormen"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Ik moet begrijpen"
+          devas-veni: "Ik moet komen"
+          devi: moeten
+          povas-kompreni: "Ik kan begrijpen"
+          povas-veni: "Ik kan komen"
+          povi: kunnen
+          volas-kompreni: "Ik wil begrijpen"
+          volas-veni: "Ik wil komen"
+          voli: willen
+        scio: 
+          frazo-koni-1: "Ik ken...."
+          frazo-koni-2: "Ken je Johan? (Is het een bekende van je?)"
+          frazo-scii-1: "Ik weet... (ik kan, heb geleerd)"
+          frazo-scii-2: "Ken je Esperanto (heb je het geleerd?)"
+        titolo: "Enkele heel belangrijke werkwoorden"
+        ŝato: 
+          frazo-ami: "Ik houd van iemand (heb iemand lief, bemin iemand)."
+          frazo-plaĉi-1: "Iets of iemand bevalt me."
+          frazo-plaĉi-2: "Ik houd van boeken."
+          frazo-ŝati: "Ik houd van iets."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "ik ga lezen (\"ben zullende lezen\")"
+          frazo-presenco: "Ik ben lezende (aan het lezen)"
+          frazo-preterito: "ik heb gelezen."
+          futuro: "Toekomende tijd: -ont"
+          presenco: "Tegenwoordige tijd: -ant"
+          preterito: "Verleden tijd: -int"
+          titolo: "Bedrijvende vorm"
+        ekspliko-1: "Deelwoorden zijn werkwoordsvormen gebruikt als bijvoeglijke naamwoord, bijwoord of als zelfstandig naamwoord."
+        ekspliko-2: "De deelwoorden kunnen de uitgang \"a\" (bijv.nw), \"e\" (bijw.) en \"o\" (zelfst. nw) hebben. Dat gebruik maakt een heel nauwkeurige weergave van de  betekenis mogelijk. Op de volgende bladzijden komen hiervan meer voorbeelden."
+        ekspliko-3: "De deelwoorden zijn te combineren met andere werkwoordsvormen. Stel je  het gebeuren in een wachtkamer voor. Er is iemand die de arts nog moet raadplegen,  een ander die hem al heeft geraadpleegd en een derde die nu bij de arts zit en hem raadpleegt. Over de bezoekers kunnen we zeggen, dat op dit m"
+        ekspliko-4: "Als we vandaag vertellen, wat je GISTEREN in de wachtkamer zag, zeggen we dat:"
+        ekspliko-5: "Over MORGEN kunnen we zeggen:"
+        frazo-1: "De (-ant = huidige) lezer heeft een goede stem, maar de vorige (-int = verleden) lezer had een betere."
+        frazo-10: "De lopende (of: deze) maand"
+        frazo-11: "Betalende leden"
+        frazo-2: "Ik vind echter, dat de (-ont = toekomstige) lezer de beste stem van allemaal heeft."
+        frazo-3: "Net toen hij de appel wilde  eten, zag hij de worm."
+        frazo-4: "Lezende (= al lezen) leren we."
+        frazo-5: "Het huis dat gebouwd wordt."
+        frazo-6: "De brief die geschreven zal worden."
+        frazo-7: "De gesloten deur"
+        frazo-8: "Een opkomende zon"
+        frazo-9: "De overlevenden"
+        pasiva_voĉo: 
+          frazo-ekstra: "Ik lees het boek = Het boek wordt door mij gelezen."
+          frazo-futuro: "Het boek zal worden gelezen"
+          frazo-presenco: "Het boek wordt gelezen."
+          frazo-preterito: "Het boek is gelezen."
+          futuro: "Toekomende tijd: -ot"
+          presenco: "Tegenwoordige tijd: -at"
+          preterito: "Verleden tijd: -it"
+          titolo: "Lijdende vorm"
+        titolo: Deelwoorden
+      pronomo_si: 
+        ekspliko-1: "\"Si\" is het wederkerend voornaamwoord voor de derde persoon (enkel- en meervoud!), dat betrekking heeft op het onderwerp van de zin."
+        ekspliko-2: "\"Sia\" kan zelf geen deel uitmaken van het onderwerp. In dat geval gebruik je \"lia\", \"ŝia\", \"ĝia\" of \"ilia\".  In de volgende voorbeelden heeft \"filo\" betrekking op \"li\":"
+        frazo-1: "Johan waste zich (zelf)."
+        frazo-2: "Johan waste hem (een andere man)."
+        frazo-3: "Sofie zei tegen zichzelf."
+        frazo-4: "Sofie zei tegen haar (een andere vrouw)."
+        frazo-5: "Hij leeft gelukkig met zijn (eigen) zoon."
+        frazo-6: "Hij en zijn zoon (samen onderwerp) leven gelukkig."
+        titolo: "Het voornaamwoord \"Si\""

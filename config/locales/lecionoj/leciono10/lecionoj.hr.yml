@@ -1,0 +1,96 @@
+--- 
+hr: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Nešto više o glagolima: već smo vidjeli da glagoli završavaju na \"as\" u sadašnjem vremenu, na \"is\" u prošlom, na \"os\" u budućem vremenu i na \"i\" u infinitivu. Postoje i druga vremena:"
+        imperativo: 
+          ekspliko-1: "Zapovjedni način (-u) obično se odnosi na drugo lice, pa nije potrebno stavljati ličnu zamjenicu. Ali, ako se radi o prvom ili trećem licu, onda se stavi pripadajuća lična zamjenica:"
+          ekspliko-2: "Značajka u-završetka je cilj (naredba, molba, nagovaranje, želja, potreba, prinuda, dozvola, zabrana i tako dalje). U slučajevima kada se radi o \"nadam se\", \"bojim se\", \"ne vjerujem\", \"pretpostavljam\" itd. upotrijebite nastavak za buduće vrijeme (-os)."
+          frazo-1: "Zatvori vrata i sjedni."
+          frazo-2: "Hoću, da dođeš."
+          frazo-3: "Živio Esperanto!"
+          frazo-4: "Zamolila me, da ostanem."
+          frazo-5: "Mi spavajmo / Oni neka spavaju"
+          frazo-6: "Nadam se, da će on doći."
+          frazo-7: "Sugeriram mu, da dođe."
+          frazo-8: "Moguće je, da će doći."
+          titolo: "Zapovjedni način (-u)"
+        kondicionalo: 
+          frazo-1: "Ako bi bio bogat, mnogo bi putovao."
+          frazo-2: "Mi bi jeli kruh, ako bi bio dobar."
+          titolo: "Kondicional (pogodbeni način) (-us)"
+        nerekta: 
+          ekspliko: "U neupravnom govoru upotrijebite isto vrijeme i glagolski oblik kao u upravmom govoru. Na pr.:"
+          frazo-1: "Rekao je, \"Dolazim iz New Yorka\"."
+          frazo-2: "Rekao je, da dolazi iz New Yorka."
+          frazo-3: "Rekla je, \"Putovat ću u Pariz\"."
+          frazo-4: "Rekla je, da će putovati u Pariz."
+        titolo: "Ostala glagolska vremena"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Moram razumjeti"
+          devas-veni: "Moram doći"
+          devi: morati
+          povas-kompreni: "Mogu razumjeti"
+          povas-veni: "Mogu doći"
+          povi: moći
+          volas-kompreni: "Hoću razumjeti"
+          volas-veni: "Hoću doći"
+          voli: htjeti
+        scio: 
+          frazo-koni-1: "Ja poznam..."
+          frazo-koni-2: "Poznajete li Ivana?"
+          frazo-scii-1: "Ja znam..."
+          frazo-scii-2: "Dali znate Esperanto?"
+        titolo: "Nekoliko vrlo važnih glagola"
+        ŝato: 
+          frazo-ami: "Nekoga volim."
+          frazo-plaĉi-1: "Nešto ili netko mi se sviđa."
+          frazo-plaĉi-2: "Knjige mi se sviđaju."
+          frazo-ŝati: "Nešto volim."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Ja sam onaj koji će čitati."
+          frazo-presenco: "Ja sam onaj koji čita."
+          frazo-preterito: "Ja sam onaj koji je čitao."
+          futuro: "Futur: -ont"
+          presenco: "Prezent: -ant"
+          preterito: "Preterit: -int"
+          titolo: "Aktivno stanje"
+        ekspliko-1: "Participi su riječi koje se koriste kao pridjevi, prilozi ili imenice:"
+        ekspliko-2: "Participi mogu imati oblik pridjeva (završetak \"a\"), priloga (završetak \"e\") i imenice (zvršetak \"o\"). Njihova primjena doprinosi većoj preciznosti i jasnoći. Kroz slijedeće stranice ćemo vam predstaviti više primjera."
+        ekspliko-3: "Participi se mogu kombinirati sa ostalim glagolskim oblicima. Predstavimo si čekaonu i ordinaciju kod  liječnika; jedan čovjek čeka da bi bio pozvan kod liječnika, drugi je već bio pregledan, a treći je pregledavan. Za svakog možemo reći, da upravo sada:"
+        ekspliko-4: "Ako danas pričamo, što smo vidjeli JUČER kod liječnika, onda mi kažemo:"
+        ekspliko-5: "Prema učestalosti pacijenata kod doktora, mogli bi predvidjeti, da će SUTRA:"
+        frazo-1: "Čitatelj ima dobar glas, ali predhodni čitatelj je imao bolji."
+        frazo-10: "Tekući mjesec"
+        frazo-11: "Plaćajući članovi"
+        frazo-2: "Mislim ipak, da će budući čitatelj imati najbolji glas od sviju."
+        frazo-3: "Namjeravajući jesti jabuku, spazio je crva."
+        frazo-4: "Čitajući mi učimo."
+        frazo-5: "Građena kuća."
+        frazo-6: "Pismo koje će biti napisano"
+        frazo-7: "Zatvorena vrata"
+        frazo-8: "Dizajuće sunce"
+        frazo-9: "Koji su preživjeli"
+        pasiva_voĉo: 
+          frazo-ekstra: "Čitam knjigu = Knjiga je čitana od mene."
+          frazo-futuro: "Knjiga je, koja će biti čitana."
+          frazo-presenco: "Kniga je čitana."
+          frazo-preterito: "Knjiga je pročitana."
+          futuro: "Futur: -ot"
+          presenco: "Prezent: -at"
+          preterito: "Preterit: -it"
+          titolo: "Pasivno stanje"
+        titolo: Participi
+      pronomo_si: 
+        ekspliko-1: "\"Si\" je povratna zamjenica za treće lice, a odnosi se na sam subjekt u ulozi objekta."
+        ekspliko-2: "\"Sia\" ne može biti dio samog subjekta. U tim slučajevima upotrijebite \"lia\", \"ŝia\", \"ĝia\" ili \"ilia\". U doljnjim primjerima \"filo\" se odnosi na \"li\":"
+        frazo-1: "Ivan je prao sebe (samog sebe)."
+        frazo-2: "Ivan je prao njega (nekog drugog)"
+        frazo-3: "Sofija si je rekla (sama sebi)"
+        frazo-4: "Sofija joj je rekla (nekoj drugoj)"
+        frazo-5: "On živi sretno sa svojim sinom."
+        frazo-6: "On i njegov sin žive sretno."
+        titolo: "Zamjenica \"Si\""

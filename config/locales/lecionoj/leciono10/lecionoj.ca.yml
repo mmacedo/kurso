@@ -1,0 +1,96 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Una mica més sobre verbs: ja vam veure que els verbs acaben en \"as\" en present, per \"is\" en passat, per \"os\"  el futur i per \"i\" en infinitiu. També hi ha altres temps verbals:"
+        imperativo: 
+          ekspliko-1: "El mode imperatiu (-u) normalment es relaciona amb la segona persona i no necessita el pronom personal. Però quan es tracti de la primera o la tercera persona sí l'utilitzem:"
+          ekspliko-2: "El caràcter de la terminació imperativa \"-u\" és l'objectiu (ordre, petició, advertiment, desig, necessitat, deure, permís, prohibició, etc.). En el cas que es tracti de \"espero\", \"temo\", \"no crec\", \"suposo\", etc. cal utilitzar la terminació futura (-os)."
+          frazo-1: "Tanca la porta i seu."
+          frazo-2: "Vull que vinguis."
+          frazo-3: "Visca l'esperanto!"
+          frazo-4: "Ella em va demanar que em quedés."
+          frazo-5: "Dormim / Que dormin"
+          frazo-6: "Espero que vingui."
+          frazo-7: "Suggereixo que vingui."
+          frazo-8: "És possible que vingui."
+          titolo: "Imperatiu (-U)"
+        kondicionalo: 
+          frazo-1: "Si fos ric, viatjaria molt."
+          frazo-2: "Manjaríem el pa si fos bo."
+          titolo: "Condicional (-US)"
+        nerekta: 
+          ekspliko: "En el discurs indirecte cal utilitzar el mateix temps i mode que en el directe. Exemple:"
+          frazo-1: "Ell va dir: \"Vinc de Nova York\"."
+          frazo-2: "Ell va dir que venia de Nova York."
+          frazo-3: "Ella va dir: \"Viatjaré a París\"."
+          frazo-4: "Ella va dir que viatjaria a París."
+        titolo: "Altres temps verbals"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Haig d'entendre"
+          devas-veni: "He de venir"
+          devi: "haver de"
+          povas-kompreni: "Puc entendre"
+          povas-veni: "Puc venir"
+          povi: poder
+          volas-kompreni: "Vull entendre"
+          volas-veni: "Vull venir"
+          voli: voler
+        scio: 
+          frazo-koni-1: Coneixo...
+          frazo-koni-2: "Coneixes en Joan?"
+          frazo-scii-1: Sé...
+          frazo-scii-2: "Saps esperanto?"
+        titolo: "Altres verbs importants"
+        ŝato: 
+          frazo-ami: "Estimo algú."
+          frazo-plaĉi-1: "Quelcom o algú m'agrada."
+          frazo-plaĉi-2: "M'agraden els llibres"
+          frazo-ŝati: "M'agrada alguna cosa."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Estic pendent de llegir."
+          frazo-presenco: "Estic llegint."
+          frazo-preterito: "He llegit."
+          futuro: "Futur: - ont"
+          presenco: "Present: -ant"
+          preterito: "Passat: - int"
+          titolo: "Veu activa"
+        ekspliko-1: "Els participis són paraules utilitzades com a adjectius, adverbis o substantius:"
+        ekspliko-2: "Els participis poden adoptar la forma adjectiva (terminació \"a\"), adverbial (terminació \"e\") i substantiva (terminació \"o\"). El seu ús permet una major precisió. En les següents pàgines presentarem més exemples."
+        ekspliko-3: "Podem combinar els participis amb altres modes verbals. Imaginem que observem la circulació de pacients d'un consultori mèdic; hi ha un home que s'està esperant per ser atès pel metge, un altre que ja ha estat atès i un altre que el metge està atenent. Fixant-nos en la situació de cada persona, en aquest moment:"
+        ekspliko-4: "Si avui descrivim el que vam veure AHIR en aquest consultori, direm que:"
+        ekspliko-5: "Segons la freqüència de clients en aquesta consulta, podem preveure que DEMÀ:"
+        frazo-1: "El lector té bona veu, però el lector anterior la tenia millor."
+        frazo-10: "El mes corrent"
+        frazo-11: "Els membres pagadors"
+        frazo-2: "Opino, tanmateix, que el que llegirà tindrà la millor veu de tots."
+        frazo-3: "Anant a menjar la poma, va adonar-se del cuc."
+        frazo-4: "Llegint aprenem"
+        frazo-5: "La casa en construcció (que està sent construïda)"
+        frazo-6: "La carta que serà escrita"
+        frazo-7: "La porta tancada"
+        frazo-8: "El sol que surt"
+        frazo-9: "Els supervivents (que han sobreviscut)"
+        pasiva_voĉo: 
+          frazo-ekstra: "Llegeixo el llibre = El llibre és llegit per mi"
+          frazo-futuro: "El llibre serà llegit."
+          frazo-presenco: "El llibre està sent llegit."
+          frazo-preterito: "El llibre ha estat llegit."
+          futuro: "Futur: -ot"
+          presenco: "Present: -at"
+          preterito: "Passat: -it"
+          titolo: "Veu passiva"
+        titolo: Participis
+      pronomo_si: 
+        ekspliko-1: "\"Si\" és el pronom reflexiu per a la tercera persona, en referència al subjecte de l'oració."
+        ekspliko-2: "\"Sia\" no pot formar part del subjecte. En aquest cas cal utilitzar \"lia\", \"ŝia\", \"ĝia\" o \"ilia\". En els exemples inferiors, \"filo\" es relaciona amb \"li\":"
+        frazo-1: "En Joan es va rentar (a si mateix)."
+        frazo-2: "En Joan el va rentar (a un altre home)."
+        frazo-3: "La Sofia va dir-se (a si mateixa)."
+        frazo-4: "La Sofia va dir-li (a una altra dona)."
+        frazo-5: "Ell viu feliçment amb el seu fill."
+        frazo-6: "Ell i el seu fill viuen feliçment."
+        titolo: "Pronom \"si\""

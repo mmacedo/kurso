@@ -1,0 +1,96 @@
+--- 
+is: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Svolítið meira um sagnir:  Við höfum þegar séð, að sagnir enda á \"as\" í nútíð, á \"is\" í þátíð, á \"os\" í framtíð og á \"i\" í nafnhætti.  Það eru til fleiri birtingarmyndir sagna:"
+        imperativo: 
+          ekspliko-1: "Boðháttur (-u) á oftast við 2. persónu og þá er ekki þörf á að nota fornafn.  Eigi boðháttur við 1. eða 3. persónu, skal nota viðeigandi fornafn."
+          ekspliko-2: "U-endingin felur í sér tilgang (skipun, beiðni, ósk, áminningu, nauðsyn, skyldu, leyfi, bann o.s.frv.) Þegar sagt er \"mi esperas\" (ég vona), \"mi timas\" (ég er hræddur um), \"mi ne kredas\" (ég held ekki), \"mi supozas\" (ég hygg svo vera) o.s.frv. er notuð framtíðarendingin (-os)."
+          frazo-1: "Lokaðu dyrunum og sestu."
+          frazo-2: "Ég vil, að þú komir."
+          frazo-3: "Lifi esperanto!"
+          frazo-4: "Hún bað mig að vera áfram."
+          frazo-5: "Við skulum sofa / Sofi þau"
+          frazo-6: "Ég vona að hann komi."
+          frazo-7: "Ég legg til að hann komi."
+          frazo-8: "Mögulegt er að hann komi."
+          titolo: "Boðháttur, óskháttur (-u)"
+        kondicionalo: 
+          frazo-1: "Ef ég væri ríkur, ferðaðist ég mikið."
+          frazo-2: "Ég borðaði brauðið, ef það væri gott."
+          titolo: "Viðtengingarháttur (-us)"
+        nerekta: 
+          ekspliko: "Í óbeinni ræðu skal nota sömu tíð og hátt eins og í beinni ræðu. T.d.:"
+          frazo-1: "Hann sagði: \"Ég kem frá New York\"."
+          frazo-2: "Hann sagði, að hann kæmi frá New York."
+          frazo-3: "Hún sagði: \"Ég fer til Parísar\"."
+          frazo-4: "Hún sagði, að hún færi (muni fara) til Parísar."
+        titolo: "Aðrar tíðir sagna"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Ég verð að skilja"
+          devas-veni: "Ég verð að koma"
+          devi: "verða, mega til"
+          povas-kompreni: "Ég get skilið"
+          povas-veni: "Ég get komið"
+          povi: geta
+          volas-kompreni: "Ég vil skilja"
+          volas-veni: "Ég vil koma"
+          voli: vilja
+        scio: 
+          frazo-koni-1: "Ég þekki .... (veit skil á ...)"
+          frazo-koni-2: "Þekkirðu Jóhann?"
+          frazo-scii-1: "Ég veit, kann"
+          frazo-scii-2: "Kanntu esperanto?"
+        titolo: "Nokkrar mjög mikilvægar sagnir"
+        ŝato: 
+          frazo-ami: "Ég elska einhvern."
+          frazo-plaĉi-1: "Eitthvað eða einhver fellur mér í geð."
+          frazo-plaĉi-2: "Bækur falla mér vel í geð."
+          frazo-ŝati: "Mér líkar eitthvað vel."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Ég er að fara að lesa."
+          frazo-presenco: "Ég er að lesa (lesandi)."
+          frazo-preterito: "Ég er búinn að lesa."
+          futuro: "Framtíð: -ont"
+          presenco: "Nútíð: -ant"
+          preterito: "Þátíð: -int"
+          titolo: Germynd
+        ekspliko-1: "Lýsingarhættir eru notaðir sem lýsingarorð, atviksorð og nafnorð:"
+        ekspliko-2: "Lýsingarhættir geta haft lýsingarorðsendinguna \"a\", atviksorðsendinguna \"e\" eða nafnorðsendinguna \"o\".  Þeir gefa tilefni til mikillar nákvæmni í framsetningu.  Á næstu síðum verða sýnd viðbótardæmi um notkun þeirra."
+        ekspliko-3: "Lýsingarhætti er hægt að nota með öðrum sagnháttum.  Ímyndum okkur að við sjáum hvað gengur fyrir sig á læknastofu; maður bíður eftir því að ráðgast við lækni, annar hefur þegar ráðgast við hann og enn einn er inni hjá honum.  Um hvern og einn getum við sagt, að á þessu augnabliki:"
+        ekspliko-4: "Ef við í dag segjum frá því sem við sáum í GÆR á þessari stofu, segjum við:"
+        ekspliko-5: "Af heimsóknum á þessa stofu að dæma, getum við séð fyrir, að á MORGUN:"
+        frazo-1: "Upplesarinn hefur góða rödd, en upplesarinn á undan hafði betri (rödd)."
+        frazo-10: "Líðandi mánuður"
+        frazo-11: "Greiðandi félagar"
+        frazo-2: "Ég álít samt, að (næsti, verðandi) lesandi hafi bestu röddina af öllum."
+        frazo-3: "Þegar hann ætlaði að borða eplið, sá hann orminn."
+        frazo-4: "Lesandi (á meðan við lesum) lærum við."
+        frazo-5: "Húsið sem verið er að byggja."
+        frazo-6: "Bréfið sem verður skrifað"
+        frazo-7: "Lokuðu dyrnar"
+        frazo-8: "Rísandi sól"
+        frazo-9: Eftirlifendurnir
+        pasiva_voĉo: 
+          frazo-ekstra: "Ég les bókina = Bókin er lesin af mér."
+          frazo-futuro: "Bókin verður lesin."
+          frazo-presenco: "Það er verið að lesa bókina."
+          frazo-preterito: "Það er búið að lesa bókina."
+          futuro: "Framtíð: -ot"
+          presenco: "Nútíð: -at"
+          preterito: "Þátíð: -it"
+          titolo: Þolmynd
+        titolo: Lýsingarhættir
+      pronomo_si: 
+        ekspliko-1: "\"Si\" er afturvirkt fornafn sem vísar til þriðju persónu."
+        ekspliko-2: "\"Sia\" getur ekki verið hluti frumlagsins sjálfs.  Í slíkum tilvikum skal nota \"lia\" (hans), \"ŝia\" (hennar), \"ĝia\" (þess) eða \"ilia\" (þeirra).  Í dæmunum hér á eftir er \"filo\" í tengslum við \"li\":"
+        frazo-1: "Jóhann þvoði sér."
+        frazo-2: "Jóhann þvoði honum (öðrum karlmanni)."
+        frazo-3: "Soffía sagði við sjálfa sig."
+        frazo-4: "Soffía sagði við hana (aðra konu)."
+        frazo-5: "Hann býr hamingjusamlega með syni sínum."
+        frazo-6: "Hann og sonur hans búa (lifa) í hamingju."
+        titolo: "Fornafnið \"si\""

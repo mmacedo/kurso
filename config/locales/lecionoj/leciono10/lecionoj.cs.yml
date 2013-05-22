@@ -1,0 +1,96 @@
+--- 
+cs: 
+  lecionoj: 
+    leciono10: 
+      aliaj_verbaj_tempoj: 
+        ekspliko: "Nyní si povíme o slovesech něco více: víme už, že slovesa končí v přítomném čase na \"as\", v minulém na \"is\", v budoucím na \"os\" a v infinitivu na \"i\". Existují ovšem další slovesné tvary:"
+        imperativo: 
+          ekspliko-1: "Rozkazovací způsob (-u) se obvykle vztahuje ke druhé osobě, proto v tomto případě se nepoužívá zájméno. Pokud se však jedná o jinou osobu, zájméno používáme (a do češtiny překládáme slůvkem AŤ):"
+          ekspliko-2: "Koncovka -u svým charakterem vyjadřuje účel (rozkaz, prosbu, napomenutí, přání, potřebu, povinnost, povolení, zákaz atd.). V případech jako \"doufám, bojím se, nevěřím, předpokládám\" apod. používejte koncovku budoucího času (-os)."
+          frazo-1: "Zavři dveře a posaď se."
+          frazo-2: "Chci, abys přišel."
+          frazo-3: "Ať žije esperanto!"
+          frazo-4: "Prosila, abych zůstal."
+          frazo-5: "Spěme / Ať oni spějí"
+          frazo-6: "Doufám, že přijde."
+          frazo-7: "Navrhuji, aby přišel."
+          frazo-8: "Je možné, že přijde."
+          titolo: "Rozkazovací způsob (-U)"
+        kondicionalo: 
+          frazo-1: "Kdybych byl bohatý, hodně bych cestoval."
+          frazo-2: "Jedli bychom ten chléb, kdyby byl dobrý."
+          titolo: "Podmiňovací způsob (-US)"
+        nerekta: 
+          ekspliko: "V nepřímé řeči používáme stejný čas a slovesný způsob jako v přímé řeči. Např.:"
+          frazo-1: "Řekl: \"Přicházím z New-Yorku\"."
+          frazo-2: "Řekl, že přichází z New Yorku."
+          frazo-3: "Řekla: \"Pojedu do Paříže.\""
+          frazo-4: "Řekla, že pojede do Paříže."
+        titolo: "Další slovesné tvary"
+      kelkaj_gravaj_verboj: 
+        modalaj_verboj: 
+          devas-kompreni: "Musím porozumět"
+          devas-veni: "Musím přijít"
+          devi: muset
+          povas-kompreni: "Mohu porozumět"
+          povas-veni: "Mohu přijít"
+          povi: moci
+          volas-kompreni: "Chci porozumět"
+          volas-veni: "Chci přijít"
+          voli: chtít
+        scio: 
+          frazo-koni-1: "Znám ..."
+          frazo-koni-2: "Znáte Jana?"
+          frazo-scii-1: "Vím ..."
+          frazo-scii-2: "Umíte esperanto?"
+        titolo: "Několik velmi důležitých sloves"
+        ŝato: 
+          frazo-ami: "Miluji někoho."
+          frazo-plaĉi-1: "Něco nebo někdo se mi líbí"
+          frazo-plaĉi-2: "Knihy se mi líbí."
+          frazo-ŝati: "Mám něco rád."
+      participoj: 
+        aktiva_voĉo: 
+          frazo-futuro: "Jsem hodlající číst."
+          frazo-presenco: "Jsem čtoucí (= Právě čtu.)"
+          frazo-preterito: "Jsem čtevší (= Četl jsem)"
+          futuro: "Budoucí čas: -ont"
+          presenco: "Přítomný čas: -ant"
+          preterito: "Minulý čas: -int"
+          titolo: "Činný rod"
+        ekspliko-1: "Příčestí jsou slova označující děj a používaná jako přídavná jména, příslovce nebo podstatná jména:"
+        ekspliko-2: "Příčestí mohou mít podobu přídavného jména (koncovka \"a\"), příslovce (koncovka \"e\") a podstatného jména (koncovka \"o\"). Při jejich použití je vyjadřování stručnější a přitom přesnější. Na následujících stranách uvedeme příklady."
+        ekspliko-3: "Příčestí můžeme kombinovat s jinými slovesnými způsoby. Představme si lidi v čekárně u lékaře: jedni teprve čekají na vyšetření, druzí už odcházejí po vyšetření a třetí jsou právě vyšetřováni."
+        ekspliko-4: "Jestliže dnes vyprávíme, co jsme VČERA viděli v čekárně, říkáme že:"
+        ekspliko-5: "Podle návštěvnosti v čekárně můžeme předpokládat, že ZÍTRA:"
+        frazo-1: "Tento předčitatel má dobrý hlas, ale předešlý měl lepší."
+        frazo-10: "Běžící měsíc"
+        frazo-11: "Platící členové"
+        frazo-2: "Přesto se domnívám, že následující předčitatel bude mít nejlepší hlas ze všech."
+        frazo-3: "Chystaje se jíst jablko, uviděl červa."
+        frazo-4: "Čtouce se učíme. (Čtením se učíme)"
+        frazo-5: "Stavěný dům."
+        frazo-6: "Dopis, který bude napsán."
+        frazo-7: "Zavřené dveře."
+        frazo-8: "Zvedající se slunce (stoupající slunce)"
+        frazo-9: Pozůstalí
+        pasiva_voĉo: 
+          frazo-ekstra: "Čtu knihu = Kniha je mnou čtena."
+          frazo-futuro: "Kniha je připravena ke čtení."
+          frazo-presenco: "Kniha je čtena."
+          frazo-preterito: "Kniha je přečtena."
+          futuro: "Budoucí čas: -ot"
+          presenco: "Přítomný čas: -at"
+          preterito: "Minulý čas: -it"
+          titolo: "Trpný rod"
+        titolo: Příčestí
+      pronomo_si: 
+        ekspliko-1: "\"Si\" je zvratné zájméno pro třetí osobu, vztahující se k podmětu."
+        ekspliko-2: "\"Sia\" nemůže být součástí podmětu samotného. V takových případech používejte \"lia, ŝia, ĝia, ilia\". V níže uvedených příkladech se \"filo\" vztahuje k \"li\"."
+        frazo-1: "Jan se umyl (sebe samého)."
+        frazo-2: "Jan ho umyl (jiného chlapce)."
+        frazo-3: "Sofie si řekla (sama k sobě)."
+        frazo-4: "Sofie jí řekla (jiné ženě)."
+        frazo-5: "Žije šťastně se svým synem."
+        frazo-6: "On a jeho syn žijí šťastně."
+        titolo: "Zájméno \"Si\""
