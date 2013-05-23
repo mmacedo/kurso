@@ -1,0 +1,108 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "A més de la forma apresa a la lliçó 2, hi ha altres maneres de fer preguntes en esperanto:"
+        frazo-1: "La caixa és blava?"
+        frazo-2: "Anireu al cinema?"
+        frazo-3: "La caixa és blava, oi?"
+        frazo-4: "Anireu al cinema, oi?"
+        frazo-5: "La caixa no és blava, oi?"
+        frazo-6: "No anireu al cinema, o sí?"
+        titolo: "Altres formes interrogatives"
+      duopaj_esprimoj: 
+        ekspliko: "Hi ha expressions en esperanto que utilitzen locucions que convé saber:"
+        jen: "Indica alternància"
+        jen-frazo-1: "El noi tan aviat plora com riu."
+        jen-frazo-2: "La seva cara tan aviat enrogia com empal·lidia."
+        ju: "Mostra, en col·laboració, que una expressió depèn de l'altra"
+        ju-frazo-1: "Com més calé, més raó."
+        ju-frazo-2: "Com més soroll, menys diversió."
+        kaj: "Mostra èmfasi o insistència"
+        kaj-frazo-1: "En Pere i en Carles treballen."
+        kaj-frazo-2: "No solament plou sinó que fa vent."
+        nek: "Significa \"i tampoc\" / Emfatitza la negació"
+        nek-frazo-1: "No va comprar el vestit ni el va llogar."
+        nek-frazo-2: "No va comprar ni un llibre ni un vestit."
+        titolo: Locucions
+        ĉu: "Mostra possibilitats entre les quals l'elecció és indiferent, igual, lliure o incerta."
+        ĉu-frazo-1: "Bé per por, bé per orgull, no va contestar res."
+        ĉu-frazo-2: "Tant si plou com si fa sol, me n'aniré."
+      horoj: 
+        je-kioma: "A quina hora telefonaràs?"
+        kioma-estas: "Quina hora és?"
+        titolo: Hores
+      interjekcioj: 
+        bis: "bis!, una altra vegada!"
+        fi: uix!
+        ha-1: ah!
+        ha-2: "sí?, oi?"
+        ho-ve: "ai las!"
+        hura: hurra!
+        nu: "bé, ...!"
+        nu-nu: "bé, bé!"
+        titolo: Interjeccions
+        ve: ai!
+        ve-al-mi: "pobre de mi!"
+      mallongiloj: 
+        bv: "si us plau"
+        e-isto: esperantista
+        e-o: esperanto
+        f-ino: senyoreta
+        ktp: "etc., etcètera"
+        s-ano: "company esperantista"
+        s-ino: senyora
+        s-ro: senyor
+        str: carrer
+        te: "això és, és a dir"
+        titolo: Abreviacions
+      primitivaj_pronomoj: 
+        ajn: "partícula que emfàticament mostra indefinició o indiferència"
+        almenaŭ: almenys
+        ambaŭ: "Tots dos"
+        ankaŭ: també
+        ankoraŭ: Encara
+        apenaŭ: "A penes, amb prou feines"
+        baldaŭ: aviat
+        ekspliko: "A la tercera lliçó vam veure que els adverbis derivats d'altres paraules acaben en \"e\". Però hi ha altres adverbis que no deriven de cap mot, sinó que són primitius. Aquí n'hi ha uns quants:"
+        eĉ: "fins i tot"
+        for: lluny
+        frazo-ajn: "el que sigui / qui sigui / on sigui"
+        frazo-almenaŭ: "Dona'm almenys dos minuts."
+        frazo-ambaŭ: "Tots dos són en el jardí."
+        frazo-ankaŭ-1: "També en Joan es renta."
+        frazo-ankaŭ-2: "En Joan també es renta."
+        frazo-ankaŭ-3: "En Joan es renta també a si mateix."
+        frazo-ankoraŭ: "Encara és aquí?"
+        frazo-apenaŭ: "Amb prou feines havia arribat que va haver d'anar-se'n."
+        frazo-baldaŭ: "Vine aviat, si et plau."
+        frazo-eĉ: "Fins i tot sobre el sol s'hi troben taques."
+        frazo-for: "D'allò que els ull no veuen el cor no se'n dol."
+        frazo-hieraŭ: "El vaig trobar ahir."
+        frazo-ja: "De debò vindrà?"
+        frazo-jen: "Aquí teniu el document que vau demanar."
+        frazo-kvazaŭ: "El llac era com un mirall."
+        frazo-morgaŭ: "Demà els visitaré."
+        frazo-plu: "No vull anar més en bicicleta."
+        frazo-preskaŭ: "Gairebé va caure."
+        frazo-tamen: "Ell viu pobrament, però feliçment."
+        frazo-tre: "Això m'agrada molt."
+        frazo-tro: "Parla massa fort."
+        frazo-tuj: "No vaig entendre de seguida el que ella va dir."
+        frazo-ĉi: "això / aquí / aquesta vegada"
+        frazo-ĵus: "Acaba de sortir."
+        hieraŭ: ahir
+        ja: "certament, de debò"
+        jen: "vet aquí, heus ací"
+        kvazaŭ: "com si (conj); com (adv) [comparació fictícia]"
+        morgaŭ: demà
+        plu: "més (temps); encara"
+        preskaŭ: gairebé
+        tamen: "tanmateix, però (mostra contrast amb el tema ja expressat)"
+        titolo: "Adverbis primitius"
+        tre: molt
+        tro: massa
+        tuj: "de seguida, immediatament"
+        ĉi: "Partícula que indica proximitat  (tiu = allò, tiu ĉi = això)"
+        ĵus: "ara mateix, tot just"

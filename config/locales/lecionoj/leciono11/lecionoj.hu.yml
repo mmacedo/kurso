@@ -1,0 +1,108 @@
+--- 
+hu: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "A második leckében tanultakon kívül lehet egyéb módon is kérdezni:"
+        frazo-1: "A skatulya kék?"
+        frazo-2: "El fogsz menni a moziba?"
+        frazo-3: "A skatulya kék, ugye?"
+        frazo-4: "El fogsz menni a moziba, ugye?"
+        frazo-5: "A skatulya nem kék, ugye?"
+        frazo-6: "Nem fogsz elmenni a moziba, ugye?"
+        titolo: "Egyéb kérdõ formák"
+      duopaj_esprimoj: 
+        ekspliko: "Némely kifejezés páros szavakat használ:"
+        jen: Összehasonlítás
+        jen-frazo-1: "A fiú hol sírt, hol nevetett."
+        jen-frazo-2: "Az arca hol elpirult, hol elhalványodott."
+        ju: "Azt mutatják együtt, hogy az egyik kifejezés függ a másiktól."
+        ju-frazo-1: "Minél több birtoklás, annál több jogosultság."
+        ju-frazo-2: "Minél nagyobb a zaj, annál kisebb az élvezet."
+        kaj: "Hangsúlyt vagy ragaszkodást mutat."
+        kaj-frazo-1: "Mind Péter, mind Károly dolgozik."
+        kaj-frazo-2: "Mind esik, mind fúj."
+        nek: "Jelentése \"sem...sem\" / Hangsúlyozza a negációt."
+        nek-frazo-1: "Sem nem vette, sem nem kölcsönözte a ruhát."
+        nek-frazo-2: "Se könyvet, se ruhanemût nem vásárolt."
+        titolo: "Gyakorlatok páros szavakkal"
+        ĉu: "Közömbös, egyenlõ, szabad, vagy bizonytalan választási lehetõségeket mutat."
+        ĉu-frazo-1: "Akár félelembõl, akár büszkeségbõl, semmit sem válaszolt."
+        ĉu-frazo-2: "Akár esik, akár süt, én biztosan menni fogok."
+      horoj: 
+        je-kioma: "Hány órakor fogsz telefonálni nekem?"
+        kioma-estas: "Mennyi az idõ?"
+        titolo: Idõ
+      interjekcioj: 
+        bis: újra!
+        fi: szégyen!
+        ha-1: "ah!, ó!"
+        ha-2: "és most?"
+        ho-ve: "ó jaj! (panasz)"
+        hura: hurrá!
+        nu: "no, na, nos ...!"
+        nu-nu: "nos, hát!"
+        titolo: Indulatszók
+        ve: jaj!
+        ve-al-mi: "jaj nekem!"
+      mallongiloj: 
+        bv: "legyen szíves"
+        e-isto: eszperantista
+        e-o: eszperantó
+        f-ino: "kisasszony  (hajadon)"
+        ktp: "stb., és a többi"
+        s-ano: eszmetárs
+        s-ino: "-né(férjezett,ill. férjnél volt)"
+        s-ro: Úr
+        str: utca
+        te: "pl., például"
+        titolo: Rövidítések
+      primitivaj_pronomoj: 
+        ajn: "bár, akár  (hangsúlyozza a határozatlant vagy a közömböst)"
+        almenaŭ: legalább
+        ambaŭ: mindkettõ
+        ankaŭ: is
+        ankoraŭ: még
+        apenaŭ: alig
+        baldaŭ: hamar
+        ekspliko: "A harmadik leckében láttuk, hogy a más szavakból származó határozók \"-e\" -vel végzõdnek. Vannak eredeti határozók is, amelyek nem más szavakból származnak. Íme néhány közülük:"
+        eĉ: sõt(még)
+        for: "el, tova, távol"
+        frazo-ajn: "bármi / bárki / bárhol"
+        frazo-almenaŭ: "Adj nekem legalább két percet!"
+        frazo-ambaŭ: "Mindketten a kertben vannak."
+        frazo-ankaŭ-1: "János is mossa magát. (Nem csak Mária)"
+        frazo-ankaŭ-2: "János mossa is magát. (Nem csak fésülködik)"
+        frazo-ankaŭ-3: "János magát is mossa. (Nem csak másokat mos)"
+        frazo-ankoraŭ: "Vajon õ még itt van?"
+        frazo-apenaŭ: "Alig érkezett, és el kellett menjen."
+        frazo-baldaŭ: "Jöjjön(Gyere) hamar, kérem(kérlek)!"
+        frazo-eĉ: "Még a napon is találhatók foltok."
+        frazo-for: "Távol a szemtõl, távol a szívtõl."
+        frazo-hieraŭ: "Megtaláltam õt tegnap."
+        frazo-ja: "Valóban jön?"
+        frazo-jen: "Íme, a dokumentum, amit kértél."
+        frazo-kvazaŭ: "A tó olyan volt, mint a tükör."
+        frazo-morgaŭ: "Holnap meglátogatom õket."
+        frazo-plu: "Nem akarok tovább biciklizni."
+        frazo-preskaŭ: "Majdnem leesett."
+        frazo-tamen: "Szegényesen élt, mégis boldogan."
+        frazo-tre: "Ez nagyon tetszik nekem."
+        frazo-tro: "Nagyon hangosan beszél."
+        frazo-tuj: "Nem értettem meg azonnal, amit mondott."
+        frazo-ĉi: "ez  /  itt  /  ez alkalommal"
+        frazo-ĵus: "Épp elment."
+        hieraŭ: tegnap
+        ja: "valóban, pedig, hiszen, hát (hangsúlyozásra)"
+        jen: "íme, tessék"
+        kvazaŭ: "szinte, mintha"
+        morgaŭ: holnap
+        plu: "tovább(ra is)"
+        preskaŭ: majdnem
+        tamen: "pedig, de, mégis  (kontrasztot ad annak, amirõl már szó volt)"
+        titolo: "Eredeti határozószók"
+        tre: nagyon
+        tro: túl(nagy)
+        tuj: "azonnal, tüstént"
+        ĉi: "közelséget jelez"
+        ĵus: "imént, éppen"

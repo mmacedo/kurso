@@ -1,0 +1,108 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Aldone al la formo lernita en la leciono 2, estas aliaj manieroj fari la demandojn en Esperanto:"
+        frazo-1: "Ĉu la skatolo estas blua?"
+        frazo-2: "Ĉu vi iros al la kinejo?"
+        frazo-3: "La skatolo estas blua, ĉu ne?"
+        frazo-4: "Vi iros al la kinejo, ĉu ne?"
+        frazo-5: "La skatolo ne estas blua, ĉu?"
+        frazo-6: "Vi ne iros al la kinejo, ĉu?"
+        titolo: "Aliaj demandaj formoj"
+      duopaj_esprimoj: 
+        ekspliko: "Estas esprimoj en Esperanto kiuj uzas paron da vortoj, kaj kies signifojn estas interese ekkoni:"
+        jen: "Montras alternadon"
+        jen-frazo-1: "La knabo jen ploris, jen ridis."
+        jen-frazo-2: "Lia vizaĝo jen ruĝiĝis, jen paliĝis."
+        ju: "Montras, kunlabore, ke unu esprimo dependas de la alia"
+        ju-frazo-1: "Ju pli da havo, des pli da pravo."
+        ju-frazo-2: "Ju pli da bruo, des malpli da ĝuo."
+        kaj: "Montras emfazon aŭ insiston"
+        kaj-frazo-1: "Kaj Petro kaj Karlo laboras."
+        kaj-frazo-2: "Kaj pluvas kaj ventas."
+        nek: "Signifas \"kaj ankaŭ ne\" / Emfazas la neadon"
+        nek-frazo-1: "Ŝi ne aĉetis la veston, nek luis iun."
+        nek-frazo-2: "Ŝi aĉetis nek libron, nek veston."
+        titolo: "Duopaj esprimoj"
+        ĉu: "Montras eblecojn, inter kiuj la elekto estas indiferenta, egala, libera aŭ necerta."
+        ĉu-frazo-1: "Ĉu pro timo, ĉu pro fiero, li nenion respondis."
+        ĉu-frazo-2: "Ĉu pluvos, ĉu sunos, mi ja iros."
+      horoj: 
+        je-kioma: "Je kioma horo vi telefonos?"
+        kioma-estas: "Kioma horo estas?"
+        titolo: Horoj
+      interjekcioj: 
+        bis: bis!
+        fi: fi!
+        ha-1: ha!
+        ha-2: ha?
+        ho-ve: "ho ve!"
+        hura: hura!
+        nu: "nu, ...!"
+        nu-nu: "nu, nu!"
+        titolo: Interjekcioj
+        ve: ve!
+        ve-al-mi: "ve al mi!"
+      mallongiloj: 
+        bv: bonvolu
+        e-isto: esperantisto
+        e-o: Esperanto
+        f-ino: fraŭlino
+        ktp: "ktp., kaj tiel plu"
+        s-ano: samideano
+        s-ino: sinjorino
+        s-ro: sinjoro
+        str: strato
+        te: "tio estas, t.e."
+        titolo: Mallongigoj
+      primitivaj_pronomoj: 
+        ajn: "ajn (emfaze montras nedifinecon aŭ indiferentecon)"
+        almenaŭ: almenaŭ
+        ambaŭ: ambaŭ
+        ankaŭ: ankaŭ
+        ankoraŭ: ankoraŭ
+        apenaŭ: apenaŭ
+        baldaŭ: baldaŭ
+        ekspliko: "En la tria leciono ni klarigis ke la adverboj derivitaj de aliaj vortoj finiĝas per \"e\". Estas aliaj adverboj, kiuj ne estas derivitaj, tial ili estas nomataj primitivaj. Jen kelkaj el ili:"
+        eĉ: eĉ
+        for: for
+        frazo-ajn: "io ajn / iu ajn / ie ajn"
+        frazo-almenaŭ: "Donu al mi almenaŭ du minutojn."
+        frazo-ambaŭ: "Ili ambaŭ estas en la ĝardeno."
+        frazo-ankaŭ-1: "Ankaŭ Johano lavas sin."
+        frazo-ankaŭ-2: "Johano ankaŭ lavas sin."
+        frazo-ankaŭ-3: "Johano lavas ankaŭ sin."
+        frazo-ankoraŭ: "Ĉu li ankoraŭ estas tie?"
+        frazo-apenaŭ: "Li apenaŭ alvenis kaj devis foriri."
+        frazo-baldaŭ: "Venu baldaŭ, mi petas."
+        frazo-eĉ: "Eĉ sur la suno troviĝas makuloj."
+        frazo-for: "For de l' okuloj, for de la koro."
+        frazo-hieraŭ: "Mi lin trovis hieraŭ."
+        frazo-ja: "Ĉu li ja venos?"
+        frazo-jen: "Jen la dokumento, kiun vi petis."
+        frazo-kvazaŭ: "La lago estis kvazaŭ spegulo."
+        frazo-morgaŭ: "Morgaŭ mi vizitos ilin."
+        frazo-plu: "Mi ne plu volas bicikli."
+        frazo-preskaŭ: "Li preskaŭ falis."
+        frazo-tamen: "Li vivas malriĉe, tamen feliĉe."
+        frazo-tre: "Ĉi tio tre plaĉas al mi."
+        frazo-tro: "Ŝi parolas tro laŭte."
+        frazo-tuj: "Mi ne tuj komprenis, kion ŝi diris."
+        frazo-ĉi: "ĉi tio / ĉi tie / ĉi-foje"
+        frazo-ĵus: "Li ĵus eliris."
+        hieraŭ: hieraŭ
+        ja: ja
+        jen: jen
+        kvazaŭ: kvazaŭ
+        morgaŭ: morgaŭ
+        plu: plu
+        preskaŭ: preskaŭ
+        tamen: "tamen (montras kontraston al temo jam esprimita)"
+        titolo: "Primitivaj Adverboj"
+        tre: tre
+        tro: tro
+        tuj: tuj
+        ĉi: "ĉi (montras proksimecon)"
+        ĵus: ĵus

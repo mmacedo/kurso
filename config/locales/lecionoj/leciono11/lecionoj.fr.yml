@@ -1,0 +1,108 @@
+--- 
+fr: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "En complément de la forme apprise dans la leçon 2, il existe d'autres manières de former les questions en espéranto :"
+        frazo-1: "Est-ce que la boîte est bleue ? La boîte est-elle bleue ?"
+        frazo-2: "Irez-vous au cinéma ?"
+        frazo-3: "La boîte est bleue, n'est-ce pas ?"
+        frazo-4: "Vous irez au cinéma, n'est-ce pas ?"
+        frazo-5: "La boîte n'est pas bleue, n'est-ce pas ?"
+        frazo-6: "Vous n'irez pas au cinéma, n'est-ce pas ?"
+        titolo: "Autres formes interrogatives"
+      duopaj_esprimoj: 
+        ekspliko: "En espéranto, il existe des expressions qui utilisent deux mots et dont il est intéressant de connaître les significations :"
+        jen: "Montre une alternance"
+        jen-frazo-1: "Le garçon tantôt pleurait, tantôt riait."
+        jen-frazo-2: "Son visage tantôt rougissait, tantôt pâlissait."
+        ju: "Montrent, ensemble, qu'une expression dépend de l'autre"
+        ju-frazo-1: "Plus on possède, plus on a raison."
+        ju-frazo-2: "Plus il y a de bruit, moins il y a de plaisir."
+        kaj: "Montre que l'on accentue ou insiste"
+        kaj-frazo-1: "Et Pierre et Charles travaillent."
+        kaj-frazo-2: "Et il pleut et il vente."
+        nek: "Signifie \"et non plus\" / accentue la négation"
+        nek-frazo-1: "Elle n'a pas acheté le vêtement ni n'en a loué un."
+        nek-frazo-2: "Elle a acheté ni (un) livre ni (un) vêtement."
+        titolo: "Expressions à deux mots"
+        ĉu: "Montre des possibilités parmi lesquelles le choix est indifférent, égal, libre ou incertain."
+        ĉu-frazo-1: "Soit par peur, soit par fierté, il n'a rien répondu."
+        ĉu-frazo-2: "Qu'il pleuve ou qu'il y ait du soleil, je viendrai assurément."
+      horoj: 
+        je-kioma: "A quelle heure téléphonerez-vous ?"
+        kioma-estas: "Quelle heure est-il ?"
+        titolo: Heures
+      interjekcioj: 
+        bis: bis !
+        fi: "fi ! pouah !"
+        ha-1: ah !
+        ha-2: ah ?
+        ho-ve: "oh hélas !"
+        hura: hourra !
+        nu: "eh bien,... ! allons,... !"
+        nu-nu: "bon, bon ! hum, hum !"
+        titolo: Interjections
+        ve: hélas !
+        ve-al-mi: "malheur à moi !"
+      mallongiloj: 
+        bv: "veuillez, s'il vous plaît"
+        e-isto: espérantophone
+        e-o: espéranto
+        f-ino: "jeune fille, demoiselle"
+        ktp: "etc., et cetera"
+        s-ano: espérantiste
+        s-ino: madame
+        s-ro: monsieur
+        str: rue
+        te: "c'est-à-dire, c.-à-d."
+        titolo: Abréviations
+      primitivaj_pronomoj: 
+        ajn: "exprime le caractère indéterminé, indéfini, quelconque"
+        almenaŭ: "au moins"
+        ambaŭ: "tous deux, tous les deux"
+        ankaŭ: aussi
+        ankoraŭ: encore
+        apenaŭ: "à peine"
+        baldaŭ: bientôt
+        ekspliko: "Dans la troisième leçon, nous avons expliqué que les adverbes dérivés d'autres mots se terminent par \"e\". Il existe d'autres adverbes qui ne sont pas dérivés, en voici quelques-uns :"
+        eĉ: même
+        for: "loin, au loin"
+        frazo-ajn: "n'importe quoi / n'importe qui / n'importe où"
+        frazo-almenaŭ: "Donnez-moi au moins deux minutes."
+        frazo-ambaŭ: "Tous deux sont dans le jardin."
+        frazo-ankaŭ-1: "Jean aussi se lave."
+        frazo-ankaŭ-2: "Jean se lave aussi."
+        frazo-ankaŭ-3: "Jean se lave, lui aussi."
+        frazo-ankoraŭ: "Est-ce qu'il est encore là ? Est-il encore là ?"
+        frazo-apenaŭ: "Il était à peine arrivé et devait partir."
+        frazo-baldaŭ: "Viens bientôt, s'il te plaît."
+        frazo-eĉ: "Même sur le soleil se trouvent des taches."
+        frazo-for: "Loin des yeux, loin du coeur."
+        frazo-hieraŭ: "Je l'ai rencontré hier."
+        frazo-ja: "Est-ce qu'il viendra bien ? Est-ce certain qu'il viendra ?"
+        frazo-jen: "Voici le document que vous avez demandé."
+        frazo-kvazaŭ: "Le lac était comme un miroir."
+        frazo-morgaŭ: "Demain je leur rendrai visite."
+        frazo-plu: "Je ne veux plus faire de vélo."
+        frazo-preskaŭ: "Il est presque tombé."
+        frazo-tamen: "Il vit pauvre, néanmoins heureux."
+        frazo-tre: "Ceci me plaît beaucoup."
+        frazo-tro: "Elle parle trop fort."
+        frazo-tuj: "Je n'ai pas tout de suite compris ce qu'elle disait."
+        frazo-ĉi: "ceci / ici / cette fois-ci"
+        frazo-ĵus: "Il vient de sortir."
+        hieraŭ: hier
+        ja: certes
+        jen: "voici, voilà"
+        kvazaŭ: "comme, comme si"
+        morgaŭ: demain
+        plu: "plus, plus longtemps, plus loin (continuation dans le temps ou l'espace)"
+        preskaŭ: presque
+        tamen: "cependant, néanmoins, pourtant, toutefois"
+        titolo: "Adverbes simples (non dérivés)"
+        tre: très
+        tro: trop
+        tuj: "tout de suite, immédiatement"
+        ĉi: "ici, ci (marque la proximité)"
+        ĵus: "à l'instant"

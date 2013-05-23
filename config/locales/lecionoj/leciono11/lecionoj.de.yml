@@ -1,0 +1,108 @@
+--- 
+de: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Für die Entscheidungsfrage (Ja/Nein) gibt es neben der üblichen Einleitung mit \"ĉu\" (s. Lekt. 2) noch andere Ausdrucksmöglichkeiten:"
+        frazo-1: "Ist die Schachtel blau?"
+        frazo-2: "Wirst du ins Kino gehen?"
+        frazo-3: "Die Schachtel ist blau, nicht wahr?"
+        frazo-4: "Du wirst ins Kino gehen, nicht wahr?"
+        frazo-5: "Die Schachtel ist nicht blau, oder?"
+        frazo-6: "Du wirst nicht ins Kino gehen - oder?"
+        titolo: "Andere Frageformen"
+      duopaj_esprimoj: 
+        ekspliko: "Interessante Wortpaare im Esperanto:"
+        jen: "mal [so] .. mal [so]"
+        jen-frazo-1: "Mal weinte der Junge, mal lachte er."
+        jen-frazo-2: "Sein Gesicht wurde mal rot, mal blass."
+        ju: "je .. desto/umso"
+        ju-frazo-1: "Je mehr er hat/besitzt, umso mehr Recht hat er."
+        ju-frazo-2: "Je mehr Lärm, umso weniger Genuss."
+        kaj: "sowohl .. als auch"
+        kaj-frazo-1: "Sowohl Peter als auch Karl arbeiten."
+        kaj-frazo-2: "Es regnet und stürmt. (W.: Sowohl regnet es als es a...)"
+        nek: "weder .. noch   (Verstärkte Verneinung)"
+        nek-frazo-1: "Sie kaufte das Kleid nicht, auch lieh sie keins."
+        nek-frazo-2: "Sie kaufte weder (ein) Buch noch (ein) Kleid."
+        titolo: "Zweiteilige Ausdrücke"
+        ĉu: "ob .. oder/ob"
+        ĉu-frazo-1: "Ob aus Angst, ob aus Stolz, er schwieg.  [Wörtlich: antwortete nicht(s)]."
+        ĉu-frazo-2: "Ob's regnet od. die Sonne scheint, ich werde doch gehen."
+      horoj: 
+        je-kioma: "Um wie viel Uhr wirst du anrufen? (w.: zur wie vielten Std.)"
+        kioma-estas: "Wie viel Uhr ist es?  (Wörtl.: [Die] wie vielte Stunde ist es?)"
+        titolo: Stunden
+      interjekcioj: 
+        bis: "noch einmal; da capo!"
+        fi: pfui!
+        ha-1: "ha! ach!"
+        ha-2: ach?
+        ho-ve: "o weh!"
+        hura: hurra!
+        nu: "nun (los)! [anregend]"
+        nu-nu: "weiter so!"
+        titolo: "Interjektionen - Ausrufewörter"
+        ve: weh(e)!
+        ve-al-mi: "wehe mir!"
+      mallongiloj: 
+        bv: bitte
+        e-isto: Esperanto-Anhänger
+        e-o: Esperanto
+        f-ino: Fräulein
+        ktp: "usw., und so weiter"
+        s-ano: Gleichgesinnter
+        s-ino: Frau
+        s-ro: Herr
+        str: Straße
+        te: "d. h., das heißt [das ist]"
+        titolo: Abkürzungen
+      primitivaj_pronomoj: 
+        ajn: "'immer' [unbestimmt - wird nachgestellt]"
+        almenaŭ: wenigstens
+        ambaŭ: beide
+        ankaŭ: auch
+        ankoraŭ: noch
+        apenaŭ: kaum
+        baldaŭ: bald
+        ekspliko: "Abgeleitete Adverbien  enden auf -e (s. Lektion 3); es gibt aber auch ursprüngliche, z. B.:"
+        eĉ: sogar
+        for: weg
+        frazo-ajn: "was (auch) immer/ wer (auch) immer/ wo (auch) immer"
+        frazo-almenaŭ: "Gib mir wenigstens zwei Minuten."
+        frazo-ambaŭ: "Sie sind beide im Garten."
+        frazo-ankaŭ-1: "Auch Johannes wäscht sich."
+        frazo-ankaŭ-2: "Johannes wäscht sich auch."
+        frazo-ankaŭ-3: "Johannes wäscht auch sich."
+        frazo-ankoraŭ: "Ist er noch dort?"
+        frazo-apenaŭ: "Kaum war er da, (da) musste er weggehen."
+        frazo-baldaŭ: "Ich  bitte (dich), komm bald!"
+        frazo-eĉ: "Sogar auf der Sonne finden sich Flecken."
+        frazo-for: "Aus den Augen, aus dem Sinn [dt. Sprichwort]."
+        frazo-hieraŭ: "Ich traf ihn gestern."
+        frazo-ja: "Wird er wohl kommen?"
+        frazo-jen: "Hier (ist) das Dokument, worum du gebeten hast."
+        frazo-kvazaŭ: "Der See war wie ein Spiegel."
+        frazo-morgaŭ: "Morgen werde ich sie besuchen."
+        frazo-plu: "Ich will nicht mehr Rad fahren."
+        frazo-preskaŭ: "Er wäre beinahe gefallen [w.: Beinahe fiel er]."
+        frazo-tamen: "Er lebt arm, (aber) dennoch glücklich."
+        frazo-tre: "Dies gefällt mir sehr."
+        frazo-tro: "Sie spricht zu laut."
+        frazo-tuj: "Ich verstand nicht sofort, was sie sagte."
+        frazo-ĉi: "dies / hier / diesmal"
+        frazo-ĵus: "Er ist eben hinausgegangen [wörtlich: ging hinaus]."
+        hieraŭ: gestern
+        ja: "ja [als Abtönungspartikel]"
+        jen: "sieh da!"
+        kvazaŭ: "gleichsam (wie); als ob, wie wenn"
+        morgaŭ: morgen
+        plu: mehr
+        preskaŭ: "fast, beinahe"
+        tamen: "dennoch [Gegensatz zum Vorherigen]"
+        titolo: "Ursprüngliche Adverbien"
+        tre: sehr
+        tro: "allzu, zu"
+        tuj: "sofort, sogleich"
+        ĉi: "[drückt Nähe aus bei] hier, dies u.ä."
+        ĵus: "gerade, eben"

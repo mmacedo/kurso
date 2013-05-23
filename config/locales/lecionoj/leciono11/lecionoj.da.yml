@@ -1,0 +1,108 @@
+--- 
+da: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Ud over den form vi lært i lektion to, er der andre måder hvorpå man kan danne spørgsmål på esperanto:"
+        frazo-1: "Er æsken blå?"
+        frazo-2: "Vil du gå til biografen?"
+        frazo-3: "Æsken er blå, ikke sandt?"
+        frazo-4: "Du vil gå til biografen, ikke sandt?"
+        frazo-5: "Æsken er ikke blå, vel?"
+        frazo-6: "Du vil ikke gå til biografen, vel?"
+        titolo: "Andre spørgeformer"
+      duopaj_esprimoj: 
+        ekspliko: "På esperanto findes udtryk med ordpar hvis betydning, man har gavn af at kende:"
+        jen: Snart...snart
+        jen-frazo-1: "Snart græd drengen, snart lo han."
+        jen-frazo-2: "Snart rødmede hans ansigt, snart blegnede det."
+        ju: jo...des/desto
+        ju-frazo-1: "Jo større ejendom, desto større rettighed."
+        ju-frazo-2: "Jo mere støj, desto mindre nydelse."
+        kaj: både.....og
+        kaj-frazo-1: "Både Peter og Karlo arbejder."
+        kaj-frazo-2: "Det både regner og blæser."
+        nek: "Betyder hverken ... eller"
+        nek-frazo-1: "Hun hverken købte dragten eller lejede en."
+        nek-frazo-2: "Hun købte hverken en bog eller en dragt."
+        titolo: "Udtryk med ordpar"
+        ĉu: "Viser ligeværdige muligheder."
+        ĉu-frazo-1: "Om det skyldtes frygt, om det skyldtes stolthed,  (så) svarede han intet."
+        ĉu-frazo-2: "Om det regner, om solen skinner,  (så) vil jeg jo gå."
+      horoj: 
+        je-kioma: "På hvilket tidspunkt vil du ringe?"
+        kioma-estas: "Hvad er klokken? (Hvor mange er klokken?)"
+        titolo: Tidsangivelser
+      interjekcioj: 
+        bis: "da capo! / endnu engang"
+        fi: fy!
+        ha-1: "ah! ha! ak!"
+        ha-2: "ah!, ha!, ak!"
+        ho-ve: "ak ve!"
+        hura: hurra!
+        nu: "nå, nu vel, godt!"
+        nu-nu: "nå, nå!"
+        titolo: "Udråbsord (interjektioner)"
+        ve: "ak!, ve!"
+        ve-al-mi: "ve over mig!"
+      mallongiloj: 
+        bv: værsågod
+        e-isto: esperantist
+        e-o: esperanto
+        f-ino: frøken
+        ktp: "osv., og så videre"
+        s-ano: meningsfælle
+        s-ino: fru
+        s-ro: hr.
+        str: gade
+        te: "dvs., det vil sige"
+        titolo: Forkortelser
+      primitivaj_pronomoj: 
+        ajn: "som helst"
+        almenaŭ: "i det mindste"
+        ambaŭ: begge
+        ankaŭ: også
+        ankoraŭ: endnu
+        apenaŭ: næppe
+        baldaŭ: snart
+        ekspliko: "I lektion tre blev har vi fortalt at  biord kan afledes af  tillægsord ved at ændre tillægsordsendelsen \"a\" til et  \"e\". På esperanto findes der tillige de oprindelige biord. Her følger nogle eksempler på disse:"
+        eĉ: endog
+        for: væk
+        frazo-ajn: "hvad som helst / hvem som helst / hvor som helst"
+        frazo-almenaŭ: "Giv mig i det mindste to minutter."
+        frazo-ambaŭ: "De er begge i haven."
+        frazo-ankaŭ-1: "Også Johannes vasker sig."
+        frazo-ankaŭ-2: "Johannes vasker sig også."
+        frazo-ankaŭ-3: "Johannes vasker også sig."
+        frazo-ankoraŭ: "Er han endnu der?"
+        frazo-apenaŭ: "Han var næppe kommet og måtte afsted."
+        frazo-baldaŭ: "Kom snart, anmoder jeg."
+        frazo-eĉ: "Endog på solen findes der pletter."
+        frazo-for: "Ude af syne, ude af sind.     (frit oversat)"
+        frazo-hieraŭ: "Jeg traf ham i går."
+        frazo-ja: "Han vil jo komme?"
+        frazo-jen: "Se her er dokumentet som du bad om."
+        frazo-kvazaŭ: "Søen var som (om det var) et spejl."
+        frazo-morgaŭ: "I morgen skal jeg besøge dem."
+        frazo-plu: "Jeg vil ikke cykle længere."
+        frazo-preskaŭ: "Han næsten faldt."
+        frazo-tamen: "Han lever fattigt, men lykkeligt."
+        frazo-tre: "Dette behager mig meget."
+        frazo-tro: "Hun taler for højt."
+        frazo-tuj: "Jeg forstod ikke straks hvad hun sagde."
+        frazo-ĉi: "dette / her / denne gang"
+        frazo-ĵus: "Han kom netop."
+        hieraŭ: "i går"
+        ja: jo
+        jen: "se der, se her er"
+        kvazaŭ: "som om, lige som om, som om det var, så at sige"
+        morgaŭ: "i morgen"
+        plu: "længere, endvidere, ydermere, yderligere"
+        preskaŭ: næsten
+        tamen: "dog, alligevel, ikke desto mindre"
+        titolo: "Oprindelige biord"
+        tre: meget
+        tro: "for, altfor"
+        tuj: straks
+        ĉi: "ĉi betegner det nærmere eller nærhed"
+        ĵus: "lige, netop"

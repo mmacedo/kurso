@@ -1,0 +1,108 @@
+--- 
+fi: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Kappaleessa 2 opitun lisäksi, on myös muita kysymysmuotoja:"
+        frazo-1: "Onko rasia (laatikko) sininen?"
+        frazo-2: "Menetkö elokuvateatteriin?"
+        frazo-3: "Rasia on sininen, eikö?"
+        frazo-4: "Sinä menet elokuvateatteriin, eikö?"
+        frazo-5: "Rasia ei ole sininen, eihän?"
+        frazo-6: "Sinä et mene elokuvateatteriin, ethän?"
+        titolo: "Muita kysymysmuotoja"
+      duopaj_esprimoj: 
+        ekspliko: "Myös Esperantossa käytetään sanapareja. Tässä esimerkkejä:"
+        jen: "Osoittaa vuorottelua"
+        jen-frazo-1: "Poika milloin itki, milloin nauroi."
+        jen-frazo-2: "Hänen kasvonsa milloin punastui, milloin kalpeni."
+        ju: "Mitä ... sitä ..."
+        ju-frazo-1: "Mitä enemmän omistusta, sitä enemmän oikeutusta."
+        ju-frazo-2: "Mitä enemmän melua, sitä vähemmän nautintoa."
+        kaj: "Sekä ... että ..."
+        kaj-frazo-1: "Sekä Petro että Karlo työskentelevät."
+        kaj-frazo-2: "Sekä sataa että tuulee."
+        nek: "Ei ... eikä ..."
+        nek-frazo-1: "Hän ei ostanut pukua, eikä vuokrannut sitä."
+        nek-frazo-2: "Hän ei ostanut kirjaa, eikä pukua."
+        titolo: Kaksoisilmaisut
+        ĉu: "Mitä ... sitä ..."
+        ĉu-frazo-1: "Joko pelosta, tahi ylpeydestä, hän ei vastannut mitään."
+        ĉu-frazo-2: "Joko sataa, tai paistaa, minäpä menen."
+      horoj: 
+        je-kioma: "Mihin aikaan soitat (tulet soittamaan)?"
+        kioma-estas: "Paljonko kello on (monesko tunti on)?"
+        titolo: Tunnit
+      interjekcioj: 
+        bis: uudestaan!
+        fi: hyi!
+        ha-1: "oh! haa!"
+        ha-2: "aa? hei?"
+        ho-ve: "oi voi!"
+        hura: "eläköön! hurraa!"
+        nu: "no! mutta nyt!"
+        nu-nu: "no mutta!"
+        titolo: Huudahdussanat
+        ve: "voi! oi!"
+        ve-al-mi: "voi minua!"
+      mallongiloj: 
+        bv: "ole hyvä"
+        e-isto: esperantisti
+        e-o: Esperanto
+        f-ino: neiti
+        ktp: "jne., ja niin edelleen"
+        s-ano: aatekumppani
+        s-ino: rouva
+        s-ro: herra
+        str: katu
+        te: "se on"
+        titolo: Lyhennykset
+      primitivaj_pronomoj: 
+        ajn: "tahansa, hyvänsä"
+        almenaŭ: ainakin
+        ambaŭ: molemmat
+        ankaŭ: myös
+        ankoraŭ: "vielä, lisäksi"
+        apenaŭ: tuskin
+        baldaŭ: pian
+        ekspliko: "Kolmannessa lukukappaleessa opimme että muista sanoista johdetuilla adverbeillä on pääte \"e\". On myös alkuperäisiä adverbejä joita ei ole johdettu muista sanoista. Tässä seuraa muutamia esimerkkejä niistä:"
+        eĉ: "jopa,edes"
+        for: "pois, kauas ,kaukana"
+        frazo-ajn: "mikä tahansa / kuka tahansa / missä tahansa"
+        frazo-almenaŭ: "Anna minulle ainakin kaksi minuuttia."
+        frazo-ambaŭ: "He molemmat ovat puutarhassa."
+        frazo-ankaŭ-1: "Myös Jussi pesee itsensä (peseytyy)."
+        frazo-ankaŭ-2: "Jussi myös (muiden toimien lisäksi) pesee itsensä."
+        frazo-ankaŭ-3: "Jussi pesee myös itsensä (sen lisäksi että hän pesee muuta- muitakin)."
+        frazo-ankoraŭ: "Onko hän edelleen tuolla (siellä)?"
+        frazo-apenaŭ: "Hän tuskin saapui ja täytyi mennä pois."
+        frazo-baldaŭ: "Tule pian, minä pyydän."
+        frazo-eĉ: "Jopa aurigossa löytyy pilkkuja (täpliä, tahroja)."
+        frazo-for: "Poissa silmistä, poissa sydämmestä"
+        frazo-hieraŭ: "Hänet löysin eilen."
+        frazo-ja: "Tuleekohan hän?"
+        frazo-jen: "Kas tässä asiakirja, jonka pyysit."
+        frazo-kvazaŭ: "Järvi oli ikäänkuin peili."
+        frazo-morgaŭ: "Huomenna käyn hänen luonaan."
+        frazo-plu: "En halua enään pyöräillä."
+        frazo-preskaŭ: "Hän melkein kaatui."
+        frazo-tamen: "Hän elää köyhänä, kuitenkin onnellisena."
+        frazo-tre: "Tämä miellyttää kovasti minua."
+        frazo-tro: "Hän puhuu liian äänekkäästi."
+        frazo-tuj: "Minä en heti ymmärtänyt, mitä hän sanoi."
+        frazo-ĉi: "tämä / täällä / tälläkertaa"
+        frazo-ĵus: "Hän lähti juuri."
+        hieraŭ: eilen
+        ja: "-han, -pa, toki"
+        jen: (kas)tässä
+        kvazaŭ: ikäänkuin
+        morgaŭ: huomenna
+        plu: "edelleen, yhä"
+        preskaŭ: "melkein, lähes"
+        tamen: kuitenkin
+        titolo: "Alkuperäiset Adverbit"
+        tre: "hyvin, sangen"
+        tro: liian
+        tuj: heti
+        ĉi: "ilmaisee läheisyyttä"
+        ĵus: "juuri, äsken"

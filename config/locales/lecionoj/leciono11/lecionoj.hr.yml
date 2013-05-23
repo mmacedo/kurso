@@ -1,0 +1,108 @@
+--- 
+hr: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Postoje i drugačiji oblici upitnih rečenica uz one koje smo naučili u drugoj lekciji."
+        frazo-1: "Jeli kutija plava?"
+        frazo-2: "Dali ćete ići u kino?"
+        frazo-3: "Kutija je plava, zar ne?"
+        frazo-4: "Ići ćete u kino. jeli?"
+        frazo-5: "Kutija nije plava, jeli?"
+        frazo-6: "Nećete ići u kino, jeli?"
+        titolo: "Ostali upitni oblici"
+      duopaj_esprimoj: 
+        ekspliko: "Postoje u Esperantu izrazi koji se pojavljuju u paru, pa bi bilo dobro upoznati se sa njihovim značenjem:"
+        jen: "Izmjenični izrazi"
+        jen-frazo-1: "Dječak je sad plakao, sad se smijao."
+        jen-frazo-2: "Njegovo se lice sad zacrvenjelo, sad problijedilo."
+        ju: "Pokazuje, zajednički, da jedan izraz ovisi o drugom"
+        ju-frazo-1: "Što je više imetka, tim je veća pravica."
+        ju-frazo-2: "Što je veća galama, tim je manji užitak."
+        kaj: "Pokazuje naglašavanje ili inzistiranje"
+        kaj-frazo-1: "I Petar i Karlo rade."
+        kaj-frazo-2: "I kiša pada i vjetar puše."
+        nek: "Označuje afirmaciju ili negaciju"
+        nek-frazo-1: "Ona niti je kupila vestu, niti ju je posudila."
+        nek-frazo-2: "Nije kupila niti knjigu, niti vestu."
+        titolo: "Dvojni izrazi"
+        ĉu: "Postoje mogućnosti, među kojima je izbor određen, jednak, slobodan ili neodređen."
+        ĉu-frazo-1: "Dali zbog straha, dali zbog ponosa, ništa nije odgovorio."
+        ĉu-frazo-2: "Bilo da će kišiti, bilo da će sunce sjati, ja ću svakako ići."
+      horoj: 
+        je-kioma: "U koliko sati ćete telefonirati?"
+        kioma-estas: "Koliko je sati?"
+        titolo: Satovi
+      interjekcioj: 
+        bis: još!
+        fi: fuj!
+        ha-1: ah!
+        ha-2: a?
+        ho-ve: joj!
+        hura: hura!
+        nu: no!
+        nu-nu: "daj, daj!"
+        titolo: Usklici
+        ve: jao!
+        ve-al-mi: "jao meni!"
+      mallongiloj: 
+        bv: izvoli
+        e-isto: esperantist
+        e-o: Esperanto
+        f-ino: gospođica
+        ktp: "itd., i tako dalje"
+        s-ano: istomišljenik
+        s-ino: gospođa
+        s-ro: gospodin
+        str: ulica
+        te: "t. j., to jest"
+        titolo: Kratice
+      primitivaj_pronomoj: 
+        ajn: "god (riječ koja naglašava neodređenost ili nezainteresiranost)"
+        almenaŭ: barem
+        ambaŭ: oba
+        ankaŭ: također
+        ankoraŭ: još
+        apenaŭ: jedva
+        baldaŭ: uskoro
+        ekspliko: "U trećoj lekciji smo objasnili da prilozi, koji potjeću od drugih vrsta riječi, završavaju na \"e\". Postoje  i prilozi, koji nisu derivati drugih riječi, pa ih zovemo jednostavni prilozi. Evo nekoliko od njih:"
+        eĉ: čak
+        for: "daleko, od"
+        frazo-ajn: "bilo što / bilo tko / bilo gdje"
+        frazo-almenaŭ: "Daj mi barem dvije minute."
+        frazo-ambaŭ: "Oni oba su u vrtu."
+        frazo-ankaŭ-1: "I Ivan se pere."
+        frazo-ankaŭ-2: "Ivan se također pere."
+        frazo-ankaŭ-3: "Ivan pere i sebe."
+        frazo-ankoraŭ: "Jeli on još tamo?"
+        frazo-apenaŭ: "Jedva je došao i morao je otići."
+        frazo-baldaŭ: "Dođi uskoro, molim"
+        frazo-eĉ: "Čak na suncu se nalaze mrlje."
+        frazo-for: "Daleko od očiju, daleko od srca."
+        frazo-hieraŭ: "Našao sam ga jučer."
+        frazo-ja: "Ta, dali će doći?"
+        frazo-jen: "Evo dokumenta, kojeg ste molili (tražili)."
+        frazo-kvazaŭ: "Jezero je bilo poput zrcala."
+        frazo-morgaŭ: "Sutra ću ga posjetiti."
+        frazo-plu: "Ne želim više voziti bicikl."
+        frazo-preskaŭ: "Skoro je pao."
+        frazo-tamen: "On živi siromašno, ali ipak sretno."
+        frazo-tre: "Ovo mi se vrlo sviđa."
+        frazo-tro: "Ona govori preglasno"
+        frazo-tuj: "Nisam odmah razumio, što je rekla."
+        frazo-ĉi: "ovo / ovdje / ovaj put (sada)"
+        frazo-ĵus: "Upravo je izašao."
+        hieraŭ: jučer
+        ja: "ta (naglašeni oblik rečenice)"
+        jen: "gle, evo"
+        kvazaŭ: "poput, kao"
+        morgaŭ: sutra
+        plu: "dalje, više"
+        preskaŭ: skoro
+        tamen: "ipak (označuje suprotnost na već izraženu temu)"
+        titolo: "Jednostavni prilozi"
+        tre: vrlo
+        tro: previše
+        tuj: odmah
+        ĉi: "riječca koja označuje bliskost"
+        ĵus: "upravo sada"

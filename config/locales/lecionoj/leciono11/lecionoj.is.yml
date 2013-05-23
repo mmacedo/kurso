@@ -1,0 +1,108 @@
+--- 
+is: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Til viðbótar við það, sem sagt er í 2. lexíu um spurnarsetningar skulum við líta á fleiri möguleika."
+        frazo-1: "Er askjan blá?"
+        frazo-2: "Ferðu í kvikmyndahúsið?"
+        frazo-3: "Askjan er blá, er það ekki?"
+        frazo-4: "Þú ferð í kvikmyndahúsið, er það ekki?"
+        frazo-5: "Askjan er ekki blá, er það?"
+        frazo-6: "Þú ferð ekki í kvikmyndahúsið, er það?"
+        titolo: "Önnur spurnarform"
+      duopaj_esprimoj: 
+        ekspliko: "Vert er að kynna sér dæmi um orðapör:"
+        jen: "Sýnir fleygun setninga"
+        jen-frazo-1: "Drengurinn ýmist grét eða hló."
+        jen-frazo-2: "Andlit hans ýmist roðnaði eða fölnaði."
+        ju: "Sýnir að ein tjáningin er háð annarri"
+        ju-frazo-1: "Því meiri eignir, þeim mun réttara hefur maður fyrir sér."
+        ju-frazo-2: "Því meiri hávaði þeim mun minni unaður."
+        kaj: "Sýnir áherslu, þráast við"
+        kaj-frazo-1: "Bæði Pétur og Karl vinna."
+        kaj-frazo-2: "Það rignir bæði og blæs."
+        nek: "Þýðir \"og líka ekki\"/  Leggur áherslu á neitun"
+        nek-frazo-1: "Hún keypti ekki klæðnaðinn né leigði hann."
+        nek-frazo-2: "Hún keypti hvorki bók né klæðnað."
+        titolo: "Fleygaðar setningar"
+        ĉu: "Táknar möguleika, þar sem valið skiptir ekki máli, er jafngott, frjálst eða óvisst."
+        ĉu-frazo-1: "Hvort sem það var vegna hræðslu eða stolts, svaraði hann engu."
+        ĉu-frazo-2: "Hvort sem rignir eða sólin skín, fer ég áreiðanlega."
+      horoj: 
+        je-kioma: "Klukkan hvað hringirðu?"
+        kioma-estas: "Hvað er klukkan?"
+        titolo: Klukkan
+      interjekcioj: 
+        bis: "aftur! (t.d. endurtaka lag)"
+        fi: svei!
+        ha-1: "(upphrópun til að láta í ljós undrun)"
+        ha-2: ha?
+        ho-ve: "ó, því miður"
+        hura: húrra!
+        nu: "nú, nú jæja!"
+        nu-nu: "nú, nú"
+        titolo: Upphrópanir
+        ve: "vei, því miður"
+        ve-al-mi: "vei mér"
+      mallongiloj: 
+        bv: "gjörðu svo vel"
+        e-isto: esperantisti
+        e-o: esperanto
+        f-ino: ungfrú
+        ktp: "o.s.frv. og svo framvegis"
+        s-ano: skoðanabróðir
+        s-ino: frú
+        s-ro: herra
+        str: stræti
+        te: "það er, þ.e."
+        titolo: Skammstafanir
+      primitivaj_pronomoj: 
+        ajn: "\"sem er\" (kiam ajn = hvenær sem er, kiel ajn = hvernig sem er)"
+        almenaŭ: "að minnsta kosti"
+        ambaŭ: "báðir, báðar, bæði"
+        ankaŭ: "einnig, líka"
+        ankoraŭ: ennþá
+        apenaŭ: varla
+        baldaŭ: "bráðum, bráðlega"
+        ekspliko: "Í þriðju lexíu er þess getið að atviksorð, sem dregin eru af öðrum orðum endi á \"e\".  Til eru önnur atviksorð, sem ekki eru afleidd, og mætti því e.t.v. nefna frumatviksorð.  Hér koma nokkur þeirra:"
+        eĉ: jafnvel
+        for: "í burtu"
+        frazo-ajn: "hvað sem er/hver sem er/hvar sem er"
+        frazo-almenaŭ: "Gefðu mér að minnsta kosti tvær mínútur."
+        frazo-ambaŭ: "Þeir eru báðir í garðinum."
+        frazo-ankaŭ-1: "Jóhann þvær sér líka."
+        frazo-ankaŭ-2: "Jóhann þvær sér líka."
+        frazo-ankaŭ-3: "Jóhann þvær líka sér."
+        frazo-ankoraŭ: "Er hann ennþá þar?"
+        frazo-apenaŭ: "Hann var varla kominn og varð að fara."
+        frazo-baldaŭ: "Komdu bráðum, viltu gera svo vel (ég bið)."
+        frazo-eĉ: "Jafnvel á sólinni finnast blettir."
+        frazo-for: "Fjarri sjónum, fjarri hjarta."
+        frazo-hieraŭ: "Ég fann hann í gær."
+        frazo-ja: "Kemur hann áreiðanlega?"
+        frazo-jen: "Hérna er skjalið sem þú baðst um."
+        frazo-kvazaŭ: "Stöðuvatnið var eins og spegill."
+        frazo-morgaŭ: "Á morgun heimsæki ég þau."
+        frazo-plu: "Ég vil ekki hjóla lengur."
+        frazo-preskaŭ: "Hann datt næstum."
+        frazo-tamen: "Hann lifir í fátækt, samt hamingjusamlega"
+        frazo-tre: "Þetta hérna fellur mér mjög vel."
+        frazo-tro: "Hún talar of hátt."
+        frazo-tuj: "Ég skildi ekki strax það sem hún sagði."
+        frazo-ĉi: "þetta hérna/hérna/í þetta skipti"
+        frazo-ĵus: "Hann er nýfarinn út."
+        hieraŭ: "í gær"
+        ja: "vissulega, áreiðanlega"
+        jen: hérna
+        kvazaŭ: "eins og (sem þó ekki er)"
+        morgaŭ: "á morgun"
+        plu: "framvegis, lengur"
+        preskaŭ: næstum
+        tamen: samt
+        titolo: Frumatviksorð
+        tre: mjög
+        tro: of
+        tuj: strax
+        ĉi: "ĉi (táknar nálægð)"
+        ĵus: "nýlega, rétt áðan"

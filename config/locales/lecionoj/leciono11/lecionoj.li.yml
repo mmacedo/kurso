@@ -1,0 +1,108 @@
+--- 
+li: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Yra ir kitų būdų, kaip galima sudaryti klausimus:"
+        frazo-1: "Ar dėžutė yra mėlyna?"
+        frazo-2: "Ar eisi į kiną?"
+        frazo-3: "Dėžutė yra mėlyna, ar ne?"
+        frazo-4: "Eisi į kiną, ar ne?"
+        frazo-5: "Ar dėžutė nėra mėlyna?"
+        frazo-6: "Ar neisi į kiną?"
+        titolo: "Kitos klausiamosios formos"
+      duopaj_esprimoj: 
+        ekspliko: "Esperanto kalboje yra posakių, kuriuose vartojami dvigubi jungtukai:"
+        jen: "tai... tai..."
+        jen-frazo-1: "Berniukas tai verkė, tai juokėsi."
+        jen-frazo-2: "Veidas tai raudo, tai balo."
+        ju: "kuo... tuo..."
+        ju-frazo-1: "Kuo daugiau turto, tuo daugiau teisumo."
+        ju-frazo-2: "Kuo daugiau triukšmo, tuo mažiau malonumo."
+        kaj: "ir... ir..."
+        kaj-frazo-1: "Ir Petras, ir Karlas dirba."
+        kaj-frazo-2: "Ir lyja, ir pučia vėjas."
+        nek: "nei... nei..."
+        nek-frazo-1: "Ji nei nusipirko drabužį, nei išsinuomavo kokį nors."
+        nek-frazo-2: "Ji nenusipirko nei knygos, nei drabužio."
+        titolo: "Dviprasmiai posakiai"
+        ĉu: "ar... ar..."
+        ĉu-frazo-1: "Ar iš baimės, ar iš išdidumo jis nieko neatsakė."
+        ĉu-frazo-2: "Ar lis, ar saulė švies, aš gi eisiu."
+      horoj: 
+        je-kioma: "Kelintą valandą paskambinsi?"
+        kioma-estas: "Kelinta valanda?"
+        titolo: Valandos
+      interjekcioj: 
+        bis: bis!
+        fi: "fui! fe!"
+        ha-1: "ak! oi!"
+        ha-2: a?
+        ho-ve: "o, varge!"
+        hura: valio!
+        nu: "na, ...! nagi, ...!"
+        nu-nu: "na, na!"
+        titolo: Jaustukai
+        ve: "oi! vai!"
+        ve-al-mi: "vargas man!"
+      mallongiloj: 
+        bv: prašom
+        e-isto: esperantininkas
+        e-o: "esperanto kalba"
+        f-ino: panelė
+        ktp: "ir t.t.; ir taip toliau"
+        s-ano: bendramintis
+        s-ino: ponia
+        s-ro: ponas
+        str: gatvė
+        te: "t.y.; tai yra"
+        titolo: Sutrumpinimai
+      primitivaj_pronomoj: 
+        ajn: "paryškina neapibrėžtumą ar abejingumą"
+        almenaŭ: "bent, bent jau"
+        ambaŭ: "abu, abudu"
+        ankaŭ: "taip pat"
+        ankoraŭ: dar
+        apenaŭ: "vos, vos tik"
+        baldaŭ: greitai
+        ekspliko: "Trečioje pamokoje mes aiškinome, kad prieveiksmiai, sudaryti iš kitų žodžių, baigiasi galūne \"-e\". Yra ir kitų - neišvestinių - prieveiksmių, kurie vadinami pirminiais. Štai keletas jų:"
+        eĉ: "net(gi), dargi"
+        for: "šalin, lauk"
+        frazo-ajn: "bet kas / bet kuris / bet kur"
+        frazo-almenaŭ: "Duok man bent dvi minutes."
+        frazo-ambaŭ: "Jie abu yra sode."
+        frazo-ankaŭ-1: "Taip pat ir Jonas prausiasi."
+        frazo-ankaŭ-2: "Jonas irgi prausiasi."
+        frazo-ankaŭ-3: "Jonas prausia taip pat ir save."
+        frazo-ankoraŭ: "Ar jis dar ten yra?"
+        frazo-apenaŭ: "Jis vos tik atvyko ir turėjo išeiti."
+        frazo-baldaŭ: "Greitai atvyk, aš prašau."
+        frazo-eĉ: "Net ant saulės yra dėmių."
+        frazo-for: "Šalin iš akių, šalin iš širdies."
+        frazo-hieraŭ: "Aš jį vakar radau."
+        frazo-ja: "Argi jis ateis?"
+        frazo-jen: "Štai dokumentas, kurio prašei."
+        frazo-kvazaŭ: "Ežeras buvo tarsi veidrodis."
+        frazo-morgaŭ: "Rytoj aš juos aplankysiu."
+        frazo-plu: "Aš daugiau nenoriu važiuoti dviračiu."
+        frazo-preskaŭ: "Jis beveik nukrito."
+        frazo-tamen: "Jis gyvena neturtingai, tačiau laimingai."
+        frazo-tre: "Šitas man labai patinka."
+        frazo-tro: "Ji kalba per garsiai."
+        frazo-tuj: "Aš ne tuoj supratau, ką ji pasakė."
+        frazo-ĉi: "šitas / šičia / šį kartą"
+        frazo-ĵus: "Jis ką tik  išėjo."
+        hieraŭ: vakar
+        ja: "juk, gi"
+        jen: štai
+        kvazaŭ: "tarsi, tarytum"
+        morgaŭ: rytoj
+        plu: "toliau, daugiau"
+        preskaŭ: beveik
+        tamen: tačiau
+        titolo: "Pirminiai prieveiksmiai"
+        tre: labai
+        tro: "per, per daug"
+        tuj: tuojau
+        ĉi: "žymi artumą (artimesnį asmenį ar daiktą)."
+        ĵus: "ką tik"

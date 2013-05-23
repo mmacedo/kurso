@@ -1,0 +1,108 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: 除了第二课已学的疑问句外，世界语的疑问句还有其它表达方式：
+        frazo-1: 那盒子是蓝色的吗？
+        frazo-2: 你要去电影院吗？
+        frazo-3: 那盒子是蓝色的，不是吗？
+        frazo-4: 你要去电影院，不是吗？
+        frazo-5: 那盒子不是蓝色的，对吗？
+        frazo-6: 你不去电影院，是吗？
+        titolo: 其它疑问句式
+      duopaj_esprimoj: 
+        ekspliko: 在世界语里有些语意的表达要用固定词组，下面我们就来了解一下：
+        jen: 一会儿……一会儿，时而……时而（表示更迭）
+        jen-frazo-1: 男孩一哭一会笑。
+        jen-frazo-2: 他的脸一辈红一辈白。
+        ju: 越……越（表示一事物随另一事物的变化而变化。）
+        ju-frazo-1: 越有钱，越有理。
+        ju-frazo-2: 噪音越大，快乐越少。
+        kaj: 有……还有；既……又（表示强调或坚持）
+        kaj-frazo-1: 工作的有彼得，还有卡尔。
+        kaj-frazo-2: 既在下雨，又在刮风。
+        nek: 既不……也不（强调否定）
+        nek-frazo-1: 她没买衣服也没租衣服。
+        nek-frazo-2: 她既没买书也没买衣服。
+        titolo: 固定词组的表达方法
+        ĉu: 表示可能，其选择可以是无差别的，相等的，自由的或不肯定的。
+        ĉu-frazo-1: 无论是由于害怕还是因为自豪，他什么也没回答。
+        ĉu-frazo-2: 不管是下雨，还是出太阳，我都会走的。
+      horoj: 
+        je-kioma: 你打算几点打电话？
+        kioma-estas: 几点钟了？
+        titolo: 时间
+      interjekcioj: 
+        bis: 再来一次！
+        fi: 呸！
+        ha-1: 哈！
+        ha-2: 啊？（表示意外、吃惊）
+        ho-ve: 唉呀！
+        hura: 乌啦！（欢乐或赞许的喊声）
+        nu: （用以引起注意等）好，唔……！
+        nu-nu: 唔，唔！
+        titolo: 感叹词
+        ve: （表示悲痛、惋惜、遗憾等）唉！
+        ve-al-mi: 我真倒霉！
+      mallongiloj: 
+        bv: 请
+        e-isto: 世界语者
+        e-o: 世界语
+        f-ino: 姑娘
+        ktp: 等等
+        s-ano: 同志
+        s-ino: 女士，太太，夫人
+        s-ro: 先生
+        str: 街，街道
+        te: 那就是
+        titolo: 省略语
+      primitivaj_pronomoj: 
+        ajn: 任何（一个）；无论，不管
+        almenaŭ: 至少
+        ambaŭ: 两者，两人，双方
+        ankaŭ: 也
+        ankoraŭ: 还，仍然
+        apenaŭ: 刚刚；几乎不；至多
+        baldaŭ: 不久，一会儿
+        ekspliko: 在第三课我们已经讲到，由其它词派生的副词是以“e”结尾的。但是也有一些副词不是派生的，它们称为原始副词。下面就是原始副词：
+        eĉ: 甚至
+        for: 往远处；在远处；不在，不见
+        frazo-ajn: "任何事物 / 任何人 / 任何地方"
+        frazo-almenaŭ: 请至少给我两分钟时间。
+        frazo-ambaŭ: 他们俩都在动物园。
+        frazo-ankaŭ-1: 在洗的也有约翰。
+        frazo-ankaŭ-2: 约翰也在洗。
+        frazo-ankaŭ-3: 约翰也在给自己洗。
+        frazo-ankoraŭ: 他还在那吗？
+        frazo-apenaŭ: 他刚回来就必须离开。
+        frazo-baldaŭ: 请你一会过来。
+        frazo-eĉ: 太阳上甚至都有黑子。
+        frazo-for: 眼不见，心不烦。
+        frazo-hieraŭ: 我昨天找到了他。
+        frazo-ja: 他确实会来吗？
+        frazo-jen: 看，这就是你要的文件。
+        frazo-kvazaŭ: 这湖就好象一面镜子。
+        frazo-morgaŭ: 我明天去看望他们。
+        frazo-plu: 我不再想骑自行车了。
+        frazo-preskaŭ: 他几乎摔倒了。
+        frazo-tamen: 他生活得很贫困，但却很幸福。
+        frazo-tre: 这太让我喜欢了。
+        frazo-tro: 她说话声音太大了。
+        frazo-tuj: 我马上明白了他说的什么。
+        frazo-ĉi: "这 / 这里 / 这次"
+        frazo-ĵus: 他刚出去。
+        hieraŭ: 昨天
+        ja: 的确，诚然，可是
+        jen: 用以引起注意，意同“瞧”、“看”等。
+        kvazaŭ: 好象，仿佛
+        morgaŭ: 明天
+        plu: 再，继续
+        preskaŭ: 几乎，差不多
+        tamen: 然而，可是，但是，还是
+        titolo: 原始副词
+        tre: 很，甚，非常
+        tro: 太，过分，过多地
+        tuj: 立刻，马上
+        ĉi: 这，这里
+        ĵus: 刚才

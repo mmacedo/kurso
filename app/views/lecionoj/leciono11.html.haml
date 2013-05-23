@@ -1,0 +1,41 @@
+%h1 Leciono 11
+.row
+  .span3.apudstango
+    %ul.nav.nav-list.bs-docs-apudnav
+      %li
+        %a{href: '#primitivaj_pronomoj'}
+          %i.icon-chevron-right
+          = t('.primitivaj_pronomoj.titolo')
+      %li
+        %a{href: '#horoj'}
+          %i.icon-chevron-right
+          = t('.horoj.titolo')
+      %li
+        %a{href: '#duopaj_esprimoj'}
+          %i.icon-chevron-right
+          = t('.duopaj_esprimoj.titolo')
+      %li
+        %a{href: '#aliaj_demandaj_formoj'}
+          %i.icon-chevron-right
+          = t('.aliaj_demandaj_formoj.titolo')
+      %li
+        %a{href: '#interjekcioj'}
+          %i.icon-chevron-right
+          = t('.interjekcioj.titolo')
+      %li
+        %a{href: '#mallongiloj'}
+          %i.icon-chevron-right
+          = t('.mallongiloj.titolo')
+  .span9
+    %section#primitivaj_pronomoj
+      = render "lecionoj/leciono11/primitivaj_pronomoj"
+    %section#horoj
+      = render "lecionoj/leciono11/horoj"
+    %section#duopaj_esprimoj
+      = render "lecionoj/leciono11/duopaj_esprimoj"
+    %section#aliaj_demandaj_formoj
+      = render "lecionoj/leciono11/aliaj_demandaj_formoj"
+    %section#interjekcioj
+      = render "lecionoj/leciono11/interjekcioj"
+    %section#mallongiloj
+      = render "lecionoj/leciono11/mallongiloj"

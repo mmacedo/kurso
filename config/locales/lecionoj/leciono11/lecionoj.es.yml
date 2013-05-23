@@ -1,0 +1,108 @@
+--- 
+es: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Además de la forma aprendida en la lección 2, hay otras formas de hacer las preguntas en Esperanto:"
+        frazo-1: "¿La caja es azul?"
+        frazo-2: "¿Vas a ir al cine?"
+        frazo-3: "La caja es azul, ¿verdad?"
+        frazo-4: "Vas a ir al cine, ¿verdad?"
+        frazo-5: "La caja no es azul, ¿o sí?"
+        frazo-6: "No vas a ir al cine, ¿o sí?"
+        titolo: "Otras formas interrogativas"
+      duopaj_esprimoj: 
+        ekspliko: "Hay expresiones en Esperanto que usan pares de palabras, y cuyo significado es interesante conocer:"
+        jen: "Muestra alternativa"
+        jen-frazo-1: "El muchacho bien lloraba, bien reía."
+        jen-frazo-2: "La cara de él ya enrojecía, ya palidecía."
+        ju: "Muestra, en forma cooperativa, que una expresión depende de la otra"
+        ju-frazo-1: "Mientras más se tiene, más se acierta."
+        ju-frazo-2: "Mientras más ruido, menos disfrute."
+        kaj: "Muestra énfasis o insistencia"
+        kaj-frazo-1: "Pedro y Carlos trabajan."
+        kaj-frazo-2: "Llueve y sopla el viento."
+        nek: "Significa \"y tampoco\" / Enfatiza la negación"
+        nek-frazo-1: "Ella no compró el vestido, ni lo alquiló."
+        nek-frazo-2: "Ella ni compró un libro ni un vestido."
+        titolo: "Expresiones Pareadas"
+        ĉu: "Indica posibilidades entre las cuales la elección es indiferente, igual, libre o incierta."
+        ĉu-frazo-1: "Bien por temor o por orgullo, él nada respondió."
+        ĉu-frazo-2: "Acaso llueva o brille el sol, me iré."
+      horoj: 
+        je-kioma: "¿A qué hora vas a llamar?"
+        kioma-estas: "¿Qué hora es?"
+        titolo: Horas
+      interjekcioj: 
+        bis: "¡otra vez!"
+        fi: ¡zas!
+        ha-1: ¡ah!
+        ha-2: ¿sí?
+        ho-ve: "¡oh, ay!"
+        hura: "¡bravo!, ¡hurra!"
+        nu: "¡ahora bien,...!"
+        nu-nu: "¡bueno, bueno!"
+        titolo: Interjecciones
+        ve: ¡ay!
+        ve-al-mi: "¡ay de mi!"
+      mallongiloj: 
+        bv: "por favor"
+        e-isto: esperantista
+        e-o: Esperanto
+        f-ino: Señorita
+        ktp: "etc., etcétera"
+        s-ano: "compañero de ideología"
+        s-ino: Señora
+        s-ro: Señor
+        str: calle
+        te: "eso es, t.e."
+        titolo: Abreviaturas
+      primitivaj_pronomoj: 
+        ajn: "partícula que enfáticamente muestra indefinición o indiferencia"
+        almenaŭ: "al menos"
+        ambaŭ: ambos
+        ankaŭ: también
+        ankoraŭ: todavía
+        apenaŭ: apenas
+        baldaŭ: pronto
+        ekspliko: "En la tercera lección explicamos que los adverbios derivados de otras palabras terminan en \"e\". Existen otros adverbios que no son derivados, razón por lo cual se les llama primitivos. He aquí algunos de ellos:"
+        eĉ: incluso
+        for: fuera
+        frazo-ajn: "lo que sea / quien sea / donde sea"
+        frazo-almenaŭ: "Dame al menos dos minutos."
+        frazo-ambaŭ: "Ellos ambos están en el jardín."
+        frazo-ankaŭ-1: "También Juan se lava."
+        frazo-ankaŭ-2: "Juan también se lava."
+        frazo-ankaŭ-3: "Juan lava también a sí."
+        frazo-ankoraŭ: "¿Todavía está él aquí?"
+        frazo-apenaŭ: "Él apenas llegó debió salir."
+        frazo-baldaŭ: "Ven pronto, te lo pido."
+        frazo-eĉ: "Incluso sobre el sol se encuentran manchas."
+        frazo-for: "Fuera de los ojos, fuera del corazón."
+        frazo-hieraŭ: "Lo encontré ayer."
+        frazo-ja: "¿Vendrá el ya?"
+        frazo-jen: "He aquí el documento que pediste."
+        frazo-kvazaŭ: "El lago era como un espejo."
+        frazo-morgaŭ: "Mañana lo visitaré."
+        frazo-plu: "No quiero correr más bicicleta."
+        frazo-preskaŭ: "Él casi se cayó."
+        frazo-tamen: "Él vive probremente, y sin embargo, felizmente"
+        frazo-tre: "Esto me agrada mucho."
+        frazo-tro: "Ella habla demasiado fuertemente."
+        frazo-tuj: "No comprendí inmediatamente lo que ella dijo."
+        frazo-ĉi: "esto / aquí / esta vez"
+        frazo-ĵus: "El recién salió."
+        hieraŭ: ayer
+        ja: ya*
+        jen: "He aquí"
+        kvazaŭ: "como un"
+        morgaŭ: mañana
+        plu: más
+        preskaŭ: casi
+        tamen: "sin embargo (indica un contraste con el tema ya expresado)"
+        titolo: "Adverbios Primitivos"
+        tre: "muy, mucho"
+        tro: demasiado
+        tuj: inmediatamente
+        ĉi: "partícula que indica proximidad (tiu=eso; tiu ĉi=esto)"
+        ĵus: recién

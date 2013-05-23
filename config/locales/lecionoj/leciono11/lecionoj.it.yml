@@ -1,0 +1,108 @@
+--- 
+it: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Oltre a quello visto nella lezione 2 (Ĉu...), esistono altri modi di formulare le domande in esperanto:"
+        frazo-1: "La scatola è blu?"
+        frazo-2: "Andrai al cinema?"
+        frazo-3: "La scatola è blu, [nev]vero?"
+        frazo-4: "Andrai al cinema, [nev]vero?"
+        frazo-5: "La scatola non è blu, vero?"
+        frazo-6: "Non andrai al cinema, vero?"
+        titolo: "Altre forme interrogative"
+      duopaj_esprimoj: 
+        ekspliko: "In esperanto ricorrono locuzioni formate da due parole, e delle quali è opportuno conoscere il significato:"
+        jen: "Ora..., ora... (indica un'alternativa)"
+        jen-frazo-1: "Il ragazzo ora piangeva, ora rideva."
+        jen-frazo-2: "Il suo viso ora arrossiva, ora impallidiva."
+        ju: "Indica che un'espressione è quantitativamente correlata ad un'altra."
+        ju-frazo-1: "Quanto più si possiede, tanto più si ha ragione."
+        ju-frazo-2: "Quanto piú rumore, tanto meno godimento."
+        kaj: "E..., e... / sia..., che... / sia..., sia... (indica enfasi o insistenza)"
+        kaj-frazo-1: "Sia Pietro sia Carlo lavorano."
+        kaj-frazo-2: "Ci sono sia pioggia che vento."
+        nek: "non... né / né... né"
+        nek-frazo-1: "Non acquistò il vestito, e neppure ne prese uno in affitto."
+        nek-frazo-2: "Non acquistò né un libro né un vestito."
+        titolo: "Espressioni che usano una coppia di parole"
+        ĉu: "Denota delle possibilità tra le quali la scelta è indifferente, equivalente, libera o incerta."
+        ĉu-frazo-1: "Vuoi per timore, vuoi per fierezza, [lui] non rispose nulla."
+        ĉu-frazo-2: "Sia che piova, sia che ci sia il sole, [io] di sicuro ci andrò."
+      horoj: 
+        je-kioma: "A che ora telefonerai?"
+        kioma-estas: "Che ora é? Che ore sono?"
+        titolo: Ore
+      interjekcioj: 
+        bis: bis!
+        fi: vergogna!
+        ha-1: ah!
+        ha-2: cosí?
+        ho-ve: "oh!, povero me!"
+        hura: "urrah! evviva!"
+        nu: "be', allora, su, ebbene"
+        nu-nu: "su, su!"
+        titolo: Interiezioni
+        ve: "ahi!, ahimè!, guai!"
+        ve-al-mi: "guai a me!"
+      mallongiloj: 
+        bv: "per cortesia"
+        e-isto: esperantista
+        e-o: esperanto
+        f-ino: signorina
+        ktp: "eccetera, etc."
+        s-ano: "avente lo stesso ideale"
+        s-ino: signora
+        s-ro: signore
+        str: via
+        te: cioè
+        titolo: Abbreviazioni
+      primitivaj_pronomoj: 
+        ajn: "denota indeterminatezza o indifferenza (come le forme italiane -unque, -siasi)."
+        almenaŭ: almeno
+        ambaŭ: entrambi
+        ankaŭ: anche
+        ankoraŭ: ancora
+        apenaŭ: appena
+        baldaŭ: presto
+        ekspliko: "Nella lezione 3 abbiamo visto che gli avverbi derivati da una radice terminano in -e. Esistono anche avverbi, non derivati da altre radici (quindi denominati \"originari o primitivi\"), che si presentano come parole autonome (e possono fungere a propria volta da radici). Eccone alcuni:"
+        eĉ: "persino, addirittura"
+        for: "via, lontano da"
+        frazo-ajn: "una cosa qualsiasi / uno qualunque / in qualunque luogo"
+        frazo-almenaŭ: "Dammi almeno due minuti."
+        frazo-ambaŭ: "Entrambi [loro] sono nel giardino."
+        frazo-ankaŭ-1: "Anche Giovanni si lava."
+        frazo-ankaŭ-2: "Giovanni si lava, anche."
+        frazo-ankaŭ-3: "Giovanni lava anche se stesso."
+        frazo-ankoraŭ: "[Lui] è ancora qui?"
+        frazo-apenaŭ: "[Lui] era appena giunto e dovette andarsene."
+        frazo-baldaŭ: "Vieni presto, ti prego."
+        frazo-eĉ: "Persino sul sole si trovano [delle] macchie."
+        frazo-for: "Lontan dagli occhi, lontan dal cuore."
+        frazo-hieraŭ: "L'ho incontrato ieri."
+        frazo-ja: "Verrà davvero?"
+        frazo-jen: "Ecco il documento che hai richiesto."
+        frazo-kvazaŭ: "Il lago era come uno specchio."
+        frazo-morgaŭ: "Domani farò loro visita."
+        frazo-plu: "Non voglio più andare in bicicletta."
+        frazo-preskaŭ: "[Lui] quasi cadde."
+        frazo-tamen: "Vive poveramente, però felice[mente]."
+        frazo-tre: "Ciò mi piace molto."
+        frazo-tro: "[Lei] parla troppo ad alta voce."
+        frazo-tuj: "Non capii subito ciò che lei diceva."
+        frazo-ĉi: "questo / qui / questa volta"
+        frazo-ĵus: "È appena uscito."
+        hieraŭ: ieri
+        ja: "infatti, bene, pure (rafforzativo)"
+        jen: "ecco, ecco che"
+        kvazaŭ: "come se, quasi che"
+        morgaŭ: domani
+        plu: "piú (a lungo), ancora, oltre, ulteriormente"
+        preskaŭ: "quasi, pressoché"
+        tamen: "tuttavia, però (denota contrasto con quanto enunciato in precedenza)"
+        titolo: "Avverbi originari"
+        tre: molto
+        tro: troppo
+        tuj: "subito, immediatamente"
+        ĉi: "(denota vicinanza)"
+        ĵus: "or ora, poco fa, appena, da poco (tempo)"

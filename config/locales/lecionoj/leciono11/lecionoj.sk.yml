@@ -1,0 +1,108 @@
+--- 
+sk: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Okrem metódy, ktorú sme sa naučili v 2. lekcii, existujú aj iné možnosti tvorenia otázok v esperante."
+        frazo-1: "Je tá škatula modrá?"
+        frazo-2: "Pôjdeš do kina?"
+        frazo-3: "Tá škatula je modrá, však?"
+        frazo-4: "Pôjdeš do kina, nie?"
+        frazo-5: "Tá škatula nie je modrá, však?"
+        frazo-6: "Nepôjdeš do kina, čo?"
+        titolo: "Iné formy opytovacích viet"
+      duopaj_esprimoj: 
+        ekspliko: "V esperante existujú spojky, ktoré tvoria dve slová a ktorých význam je dobré poznať:"
+        jen: "Ukazuje striedanie"
+        jen-frazo-1: "Chlapec tu plakal, tu sa smial."
+        jen-frazo-2: "Jeho tvár tu zčerveňala, tu zbledla."
+        ju: "čím - tým, ukazuje závyslosť jedného od druhého"
+        ju-frazo-1: "Čím viac majetku, tým viac pravdy."
+        ju-frazo-2: "Čím viac hluku, tým menej potešenia."
+        kaj: "ukazuje zdôraznenie a naliehanie"
+        kaj-frazo-1: "Aj Peter aj Karol pracujú."
+        kaj-frazo-2: "Aj prší aj fúka vietor."
+        nek: "a ani, ani - ani, zdôrazňuje zápor"
+        nek-frazo-1: "Nekúpila oblečenie, ani žiadne nepožičala."
+        nek-frazo-2: "Nekúpila ani knihu, ani oblečenie."
+        titolo: "Dvojčlenné spojky"
+        ĉu: "Ukazuje možnosti zhodné, ľahostajné, neisté."
+        ĉu-frazo-1: "Či zo strachu alebo z pýchy, nič neodpovedal."
+        ĉu-frazo-2: "Či bude pršať, či bude svietiť slnko, predsa pôjdem."
+      horoj: 
+        je-kioma: "O koľkej zavoláš?"
+        kioma-estas: "Koľko je hodín?"
+        titolo: Hodiny
+      interjekcioj: 
+        bis: opakovať!
+        fi: fúúúúj!
+        ha-1: ha!
+        ha-2: "čože? ha?"
+        ho-ve: "ach beda!"
+        hura: hurá!
+        nu: "no, ...!"
+        nu-nu: "no, no!"
+        titolo: Citoslovcia
+        ve: beda!
+        ve-al-mi: "beda mi!"
+      mallongiloj: 
+        bv: "ráčte, prosím"
+        e-isto: esperantista
+        e-o: esperanto
+        f-ino: slečna
+        ktp: "atď, a tak ďalej"
+        s-ano: "oslovenie esperantistov"
+        s-ino: pani
+        s-ro: pán
+        str: ulica
+        te: "to jest, t. j."
+        titolo: Skratky
+      primitivaj_pronomoj: 
+        ajn: "\"hoci\" zdôrazňuje neurčitosť alebo ľahostajnosť"
+        almenaŭ: aspoň
+        ambaŭ: obidvaja
+        ankaŭ: "tiež, aj"
+        ankoraŭ: ešte
+        apenaŭ: sotva
+        baldaŭ: čoskoro
+        ekspliko: "V tretej lekcii sme si povedali, že príslovky odvodené z iných slov končia na koncovku \"-e\". Existujú príslovky, ktoré nie sú odvodené, nazývajú sa jednoduché (primitívne). Niekoľko z nich:"
+        eĉ: "ba i, ba aj, dokonca"
+        for: preč
+        frazo-ajn: "hocičo / hocikto / hocikde"
+        frazo-almenaŭ: "Daj mi aspoň dve minúty."
+        frazo-ambaŭ: "Obidvaja sú v záhrade."
+        frazo-ankaŭ-1: "Aj Johan sa umýva."
+        frazo-ankaŭ-2: "Johan sa tiež umýva."
+        frazo-ankaŭ-3: "Johan umýva aj seba."
+        frazo-ankoraŭ: "Je tam ešte?"
+        frazo-apenaŭ: "Sotva prišiel a musel odísť."
+        frazo-baldaŭ: "Príď skoro, prosím."
+        frazo-eĉ: "Aj na Slnku sa nachádzajú škvrny."
+        frazo-for: "Preč z očí, preč zo srdca. (Zíde z očí, zíde z mysle)"
+        frazo-hieraŭ: "Našiel som ho včera."
+        frazo-ja: "Príde teda?"
+        frazo-jen: "Tu je dokument, ktorý si žiadal."
+        frazo-kvazaŭ: "Jazero bolo ako zrkadlo."
+        frazo-morgaŭ: "Zajtra ich navštívim."
+        frazo-plu: "Už sa viac nechcem bicyklovať."
+        frazo-preskaŭ: "Takmer padol."
+        frazo-tamen: "Žije chudobne, ale šťastne."
+        frazo-tre: "Toto sa mi veľmi páči."
+        frazo-tro: "Hovorí príliš hlasno."
+        frazo-tuj: "Nie hneď som rozumel, čo povedala."
+        frazo-ĉi: "toto / tu / tentokrát"
+        frazo-ĵus: "Práve vošiel."
+        hieraŭ: včera
+        ja: "veď, predsa"
+        jen: "hľa (oznamuje upozornenie)"
+        kvazaŭ: "akoby, kvázy"
+        morgaŭ: zajtra
+        plu: "viac, ďalej"
+        preskaŭ: takmer
+        tamen: "napriek tomu, ale (ukazuje kontrast)"
+        titolo: "Jednoduché príslovky"
+        tre: veľmi
+        tro: príliš
+        tuj: hneď
+        ĉi: "naznačuje blízkosť"
+        ĵus: "práve, práve teraz"

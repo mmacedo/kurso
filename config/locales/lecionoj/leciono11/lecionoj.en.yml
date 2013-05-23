@@ -1,0 +1,108 @@
+--- 
+en: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Besides the way shown in lesson 2, there are other ways to make questions:"
+        frazo-1: "Is the box blue?"
+        frazo-2: "Are you going to the movies?"
+        frazo-3: "The box is blue, isn't it?"
+        frazo-4: "You are going to the movies, aren't you?"
+        frazo-5: "The box isn't blue, is it?"
+        frazo-6: "You aren't going to the movies, are you?"
+        titolo: "Other interrogative forms"
+      duopaj_esprimoj: 
+        ekspliko: "Some expressions use a pair of words:"
+        jen: Contrast
+        jen-frazo-1: "The boy at times cried, at times laughed."
+        jen-frazo-2: "His face at times blushed, at times turned pale."
+        ju: "the more . . . the more"
+        ju-frazo-1: "The more you have, the more right you are."
+        ju-frazo-2: "The more noise, the less enjoyment."
+        kaj: "both . . . and"
+        kaj-frazo-1: "Both Peter and Charles work."
+        kaj-frazo-2: "It's both rainy and windy."
+        nek: "neither . . . nor"
+        nek-frazo-1: "She neither bought the garment nor rented it."
+        nek-frazo-2: "She bought neither a book, nor a garment."
+        titolo: "Expressions by pairs"
+        ĉu: "whether . . . whether, whether . . . or"
+        ĉu-frazo-1: "Whether for fear or for pride, he didn't answer."
+        ĉu-frazo-2: "Rain or shine, I will certainly go. (Whether it rains or whether it shines, . . .)"
+      horoj: 
+        je-kioma: "At what time will you telephone me?"
+        kioma-estas: "What time is it?"
+        titolo: Time
+      interjekcioj: 
+        bis: "encore! one more time!"
+        fi: shame!
+        ha-1: ah!
+        ha-2: "and now?"
+        ho-ve: "oh dear!  alas!  (lament)"
+        hura: hurrah!
+        nu: "well, now..."
+        nu-nu: "either this,  or this..."
+        titolo: Interjections
+        ve: woe!
+        ve-al-mi: "poor me!"
+      mallongiloj: 
+        bv: please
+        e-isto: esperantist
+        e-o: Esperanto
+        f-ino: "Miss, unmarried woman"
+        ktp: "etc., and further in that way"
+        s-ano: "esperantist (same idea)"
+        s-ino: "Mrs., Madam, lady"
+        s-ro: "Mister, Mr., Sir, gentleman"
+        str: street
+        te: "this is, i.e."
+        titolo: abbreviations
+      primitivaj_pronomoj: 
+        ajn: "whatever, at all"
+        almenaŭ: "at least"
+        ambaŭ: both
+        ankaŭ: "also, too  (placed before the word to which it relates)"
+        ankoraŭ: "yet, still"
+        apenaŭ: "just barely, hardly"
+        baldaŭ: soon
+        ekspliko: "In the third lesson we showed that derived adverbs end in  \"-e\".  There are also primitive adverbs which aren't derived:"
+        eĉ: even
+        for: away
+        frazo-ajn: "anything whatever/ anybody whatever/ any place whatever"
+        frazo-almenaŭ: "Give me at least two minutes."
+        frazo-ambaŭ: "They both are in the garden."
+        frazo-ankaŭ-1: "Also John is washing himself.  (Not just Mary washing herself)"
+        frazo-ankaŭ-2: "John is also washing himself.  (Not just combing his hair)"
+        frazo-ankaŭ-3: "John washes also himself.  (He is not just washing others)"
+        frazo-ankoraŭ: "Is he still there?"
+        frazo-apenaŭ: "He just came, and had to go. (just arrived when he had to go)"
+        frazo-baldaŭ: "Come soon, please."
+        frazo-eĉ: "Even on the sun there are spots (blemishes)."
+        frazo-for: "Away from the eyes, away from the heart."
+        frazo-hieraŭ: "I encountered him yesterday."
+        frazo-ja: "Is he really coming?"
+        frazo-jen: "Here is the document you asked for."
+        frazo-kvazaŭ: "The lake was like a mirror."
+        frazo-morgaŭ: "Tomorrow I will visit them."
+        frazo-plu: "I don't want to ride my bike any more."
+        frazo-preskaŭ: "He almost fell."
+        frazo-tamen: "He lives thriftily, however happily."
+        frazo-tre: "This pleases me very much."
+        frazo-tro: "She speaks too loudly."
+        frazo-tuj: "I didn't immediately understand what she said."
+        frazo-ĉi: "this  /  here  /  this time"
+        frazo-ĵus: "He just left."
+        hieraŭ: yesterday
+        ja: "indeed  (used for emphasis)"
+        jen: "behold, here is..."
+        kvazaŭ: "as if, as though, like"
+        morgaŭ: tomorrow
+        plu: "further, more"
+        preskaŭ: "almost, nearly"
+        tamen: "nevertheless, however"
+        titolo: "Primitive Adverbs"
+        tre: "very, very much"
+        tro: "too, too much"
+        tuj: "immediately, instantly"
+        ĉi: "denotes nearness"
+        ĵus: "just, just now"

@@ -1,0 +1,108 @@
+--- 
+nl: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Behalve op de manier van les 2, kun je ook op andere manieren vragen stellen in Esperanto:"
+        frazo-1: "Is de doos blauw?"
+        frazo-2: "Ga je (zal je gaan) naar de bioscoop?"
+        frazo-3: "De doos is blauw, is 't niet ? (nietwaar?)"
+        frazo-4: "Je gaat (zal gaan)  naar de bioscoop, is 't niet? (nietwaar?)"
+        frazo-5: "De doos is niet blauw, wel? (of toch?)"
+        frazo-6: "Je gaat niet naar de bioscoop, is 't wel? (of toch?)"
+        titolo: "Andere manieren van vragen"
+      duopaj_esprimoj: 
+        ekspliko: "Er zijn woordparen -uitdrukkingen in twee woorden-, die interessant zijn om te leren kennen:"
+        jen: "Geeft afwisseling aan"
+        jen-frazo-1: "Nu eens huilde de jongen, dan weer lachte hij."
+        jen-frazo-2: "Nu eens werd zijn gezicht rood, dan weer bleek."
+        ju: "Geeft aan, dat de ene uitdrukking afhangt van de andere"
+        ju-frazo-1: "Hoe meer bezit, des te meer gelijk"
+        ju-frazo-2: "Hoe meer lawaai, des te minder genot."
+        kaj: "Geeft nadruk aan."
+        kaj-frazo-1: "Zowel Peter als Karel werkt."
+        kaj-frazo-2: "Het regent en het waait ook."
+        nek: "Betekent \"en ook geen (niet)\" / Benadrukt de ontkenning"
+        nek-frazo-1: "Ze kocht geen kleding, noch huurde die."
+        nek-frazo-2: "Ze kocht noch een boek, noch kleding"
+        titolo: "Uitdrukkingen met twee woorden"
+        ĉu: "Geeft mogelijkheden aan, waarvan de keuze onverschillig, gelijk, vrij, of onzeker is."
+        ĉu-frazo-1: "Of uit angst, of uit trots, antwoordde hij niets."
+        ĉu-frazo-2: "Of het regent, of zonnig is, ik ga wel (ik ga toch)."
+      horoj: 
+        je-kioma: "Om welk uur (hoeveelste uur) zal je telefoneren? = Hoe laat bel je?"
+        kioma-estas: "Hoe laat is het?"
+        titolo: "De klok"
+      interjekcioj: 
+        bis: bis!
+        fi: foei!
+        ha-1: ha!
+        ha-2: hè?
+        ho-ve: "o wee!"
+        hura: hoera!
+        nu: "wel,...  nou,...."
+        nu-nu: "wel, wel!"
+        titolo: Tussenwerpsels
+        ve: "o wee!"
+        ve-al-mi: "wee mij!"
+      mallongiloj: 
+        bv: "wees zo goed..., a.u.b."
+        e-isto: esperantist
+        e-o: Esperanto
+        f-ino: juffrouw
+        ktp: "enz., enzovoort"
+        s-ano: "geestverwant, -genoot"
+        s-ino: mevrouw
+        s-ro: meneer
+        str: straat
+        te: "dat is"
+        titolo: Afkortingen
+      primitivaj_pronomoj: 
+        ajn: "\"dan ook\", (benadrukt onbepaaldheid)"
+        almenaŭ: tenminste
+        ambaŭ: "beide, allebei"
+        ankaŭ: ook
+        ankoraŭ: nog
+        apenaŭ: nauwelijks
+        baldaŭ: "weldra, spoedig, gauw"
+        ekspliko: "In de derde les is uitgelegd, dat bijwoorden die afgeleid zijn van andere woorden eindigen op \"e\". Er zijn andere bijwoorden, die niet afgeleid zijn; daarom worden ze \"oorspronkelijke bijwoorden\" genoemd. Hier zijn enkele:"
+        eĉ: zelfs
+        for: weg
+        frazo-ajn: "iets, wat dan ook/ iemand, wie dan ook/ ergens, waar ook."
+        frazo-almenaŭ: "Geef me tenminste twee minuten."
+        frazo-ambaŭ: "Zij zijn allebei in de tuin."
+        frazo-ankaŭ-1: "Ook johan wast zich."
+        frazo-ankaŭ-2: "Johan wast zich ook."
+        frazo-ankaŭ-3: "Johan wast ook zichzelf."
+        frazo-ankoraŭ: "Is hij daar nog?"
+        frazo-apenaŭ: "Nauwelijks was hij aangekomen, of hij moest al weg."
+        frazo-baldaŭ: "Kom gauw, alsjeblieft."
+        frazo-eĉ: "Zelfs op de zon bevinden zich vlekken."
+        frazo-for: "Uit het oog, uit het hart."
+        frazo-hieraŭ: "Ik vond hem gisteren."
+        frazo-ja: "Komt hij wel?"
+        frazo-jen: "Ziehier het dokument, dat je vroeg."
+        frazo-kvazaŭ: "Het meer was als een spiegel."
+        frazo-morgaŭ: "Morgen bezoek ik hen."
+        frazo-plu: "Ik wil niet  verder  fietsen."
+        frazo-preskaŭ: "Hij viel bijna. (Hij was bijna gevallen)"
+        frazo-tamen: "Hij leeft arm, maar (nochtans) gelukkig."
+        frazo-tre: "Dit bevalt me zeer."
+        frazo-tro: "Ze spreekt te luid."
+        frazo-tuj: "Ik begreep niet meteen, wat ze zei."
+        frazo-ĉi: "dit / hier / deze keer"
+        frazo-ĵus: "Hij is pas weggegaan."
+        hieraŭ: gisteren
+        ja: "immers, wel"
+        jen: "ziehier,  (Fr. Voilà!), alsjeblieft!"
+        kvazaŭ: "als het ware, als"
+        morgaŭ: morgen
+        plu: "verder, voorts"
+        preskaŭ: bijna
+        tamen: "nochtans, toch, echter, maar... (geeft tegenstelling aan van iets dat al is uitgedrukt)"
+        titolo: "Oorspronkelijke bijwoorden"
+        tre: "zeer, erg, heel"
+        tro: "te, te zeer"
+        tuj: "meteen, onmiddellijk"
+        ĉi: "geeft nabijheid aan in plaats en tijd, - hier, -nu"
+        ĵus: "zojuist, zopas, kort geleden"

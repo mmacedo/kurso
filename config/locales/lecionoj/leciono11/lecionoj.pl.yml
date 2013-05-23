@@ -1,0 +1,108 @@
+--- 
+pl: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Oprócz formy uczonej w lekcji 2, są inne sposoby pytań w Esperanto."
+        frazo-1: "Czy to pudełko jest niebieskie?"
+        frazo-2: "Czy ty pójdziesz do kina?"
+        frazo-3: "To pudełko jest niebieskie, czy nie?"
+        frazo-4: "Ty pójdziesz do kina, czy nie?"
+        frazo-5: "To pudełko nie jest niebieskie, czy?"
+        frazo-6: "Ty nie pójdziesz do kina,czy?"
+        titolo: "Inne formy pytające"
+      duopaj_esprimoj: 
+        ekspliko: "Są wyrażenia w Esperanto, które używają pary wyrazów i których znaczenia warto poznać:"
+        jen: "Pokazuje naprzemienność.."
+        jen-frazo-1: "Chłopiec to płakał, to śmiał się."
+        jen-frazo-2: "Jego twarz to czerwieniła się, to bladła."
+        ju: "Pokazuje wspólne działanie, jedno wyrażenie zależy od innego."
+        ju-frazo-1: "Im więcej posiadania, tym więcej racji."
+        ju-frazo-2: "Im więcej hałasu, tym mniej rozkoszy."
+        kaj: "Pokazuje nacisk, lub naleganie"
+        kaj-frazo-1: "I Piotr i Karol pracują."
+        kaj-frazo-2: "I pada i wieje."
+        nek: "Znaczy:  \"a także nie\" / podkreśla przeczenie./"
+        nek-frazo-1: "Ona nie kupiła ubrania, ani nie pożyczyła jakiegoś."
+        nek-frazo-2: "Ona nie kupiła ani książki, ani ubrania."
+        titolo: "Podwójne wyrażenia"
+        ĉu: "Pokazuje możliwości, między którymi wybór jest obojętny, równy, wolny, niepewny."
+        ĉu-frazo-1: "Czy  z powodu strachu, czy dumy, on nic nie odpowiedział."
+        ĉu-frazo-2: "Czy będzie padać, czy świecić słońce, ja jednak pójdę."
+      horoj: 
+        je-kioma: "O której godzinie ty będziesz telefonował?"
+        kioma-estas: "Która jest godzina?"
+        titolo: Godziny
+      interjekcioj: 
+        bis: "jeszcze raz!"
+        fi: fe!
+        ha-1: och!
+        ha-2: ojej!
+        ho-ve: "och biada!"
+        hura: hura!
+        nu: no..
+        nu-nu: "no,no!"
+        titolo: Wykrzykniki
+        ve: biada!
+        ve-al-mi: "biada mi!"
+      mallongiloj: 
+        bv: "badź uprzejmy"
+        e-isto: esperantysta
+        e-o: Esperanto
+        f-ino: panna
+        ktp: "itd. i tak dalej"
+        s-ano: współideowiec
+        s-ino: pani
+        s-ro: pan
+        str: ulica
+        te: "to jest   t.j."
+        titolo: Skróty
+      primitivaj_pronomoj: 
+        ajn: "-kolwiek  ( z przesadą pokazuje nieokreśloność, lub obojętność)"
+        almenaŭ: przynajmniej
+        ambaŭ: obaj
+        ankaŭ: także
+        ankoraŭ: jeszcze
+        apenaŭ: zaledwie
+        baldaŭ: wkrótce
+        ekspliko: "W trzeciej  lekcji tłumaczyliśmy, że przysłówki wywodzące się z innych wyrazów kończą sie na literę  -e.  Są jeszcze przysłówki  prymitywne. Oto kilka z nich:"
+        eĉ: nawet
+        for: "precz  /w dal/"
+        frazo-ajn: "cokolwiek , / ktokolwiek / , gdziekolwiek"
+        frazo-almenaŭ: "Daj mi przynajmniej dwie minuty!"
+        frazo-ambaŭ: "Oni obaj są w ogrodzie."
+        frazo-ankaŭ-1: "Także Jan myje się."
+        frazo-ankaŭ-2: "Jan także myje się."
+        frazo-ankaŭ-3: "Jan myje także się."
+        frazo-ankoraŭ: "Czy on jeszcze jest tam?"
+        frazo-apenaŭ: "On zaledwie przybył i musiał odejść."
+        frazo-baldaŭ: "Przybądź wkrótce, proszę."
+        frazo-eĉ: "Nawet na słońcu znajdują się plamy."
+        frazo-for: "Precz z oczu, precz z serca."
+        frazo-hieraŭ: "Ja  spotkałem go wczoraj."
+        frazo-ja: "Czy on wszak przybędzie?"
+        frazo-jen: "Oto dokument, o który  prosiłeś."
+        frazo-kvazaŭ: "Jezioro było jakby lustro."
+        frazo-morgaŭ: "Jutro  odwiedzę ich."
+        frazo-plu: "Ja nie chcę nadal jeździć rowerem."
+        frazo-preskaŭ: "On prawie upadł."
+        frazo-tamen: "On żyje biednie, jednak szczęśliwie."
+        frazo-tre: "To bardzo podoba mi się."
+        frazo-tro: "Ona rozmawia zbyt głośno."
+        frazo-tuj: "Ja nie natychmiast rozumiałem, co ona powiedziała."
+        frazo-ĉi: "bliskie to , / blisko tu /,  tym razem"
+        frazo-ĵus: "On właśnie wyszedł."
+        hieraŭ: wczoraj
+        ja: "przecież, wszak"
+        jen: oto
+        kvazaŭ: jakby
+        morgaŭ: jutro
+        plu: "dalej, nadal"
+        preskaŭ: prawie
+        tamen: "jednak (pokazuje przeciwieństwo do wyrażonego tematu)"
+        titolo: "Prymitywne przysłówki"
+        tre: bardzo
+        tro: zbyt
+        tuj: natychmiast
+        ĉi: "partykuła  (wskazuje bliskość)"
+        ĵus: właśnie

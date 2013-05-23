@@ -1,0 +1,113 @@
+--- 
+ko: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: |-
+            제2과에서 배운 형식에 더하여, 에스페란토에는 의문문을 만드는 다른 형태도 있습니다:방식들이 있다.
+            
+            제2과에서 배운 형식에 덧붙여, 에스페란토에는의문문을 만드는 다른 방식들이 있다.
+        frazo-1: "ĉu그 상자는 파란색인가요?"
+        frazo-2: "ĉu당신은 영화관에 갑니까?"
+        frazo-3: "그 상자는 파란색이다. 그렇지 않은가요ĉu ne?"
+        frazo-4: "당신은 영화관에 간다, 그렇치 않은가요ĉu ne?"
+        frazo-5: "그 상자는 파란 색이지 않다, 그죠ĉu?"
+        frazo-6: "당신은 영화관에 가지 않겠다, 그 말이죠ĉu?"
+        titolo: "다른형태의 의문문"
+      duopaj_esprimoj: 
+        ekspliko: "에스페란토에는 한 문장에서 함게 쓰이는 낱말들이 있어요. 그 뜻을 알면 흥미로울 것입니다:"
+        jen: "번갈아 감을 나타냄"
+        jen-frazo-1: "그 소년은 울기도 하였고, 웃기도 하였다.(jen...jen...)"
+        jen-frazo-2: "그의 얼굴이vizaĝo 붉어졌다가ruĝiĝis 창백해지기도paliĝis했다."
+        ju: "한 개의 표현이 다른 것에 의존이 되어 있음을 협력적으로 나타낸다."
+        ju-frazo-1: "가진 것이 많으면 많을수록, 더욱 더 입증이 된다.ju pli...des pli"
+        ju-frazo-2: "소란스러우면 소란스러울수록, 더욱 덜  즐겁지요.ju pli...des malpli..."
+        kaj: "강조나 주장을 나타낸다"
+        kaj-frazo-1: "페트로도 카를로도 일한다. kaj ...kaj"
+        kaj-frazo-2: "비도 오고 바람도 분다.kaj ...kaj"
+        nek: "\"그리고, 또 아니다(kaj ankaŭ ne)\" 를 나타냄/부정을 강조함"
+        nek-frazo-1: "ŝi 그녀는 그 옷을 사지도aĉetis , 누구에게 빌리지도 않았다"
+        nek-frazo-2: "ŝi  aĉetis그녀는 책도,옷도 사지 않았다.(nek...nek)"
+        titolo: "둘 씩의 표현"
+        ĉu: "그 선택이 무차별적이고,평등하고, 자유롭고,불확실함일 수 있는 것을 나타냄가리킴."
+        ĉu-frazo-1: "ĉu 무서움 때문인지,ĉu 자신만만함 때문인지, 그는 아무 말도 답하지 않았다."
+        ĉu-frazo-2: "ĉu비가 오든지,ĉu 해가 떠든지, 나는 정말 갈 것이다."
+      horoj: 
+        je-kioma: "몇 시에 당신은 전화할 것입니까?"
+        kioma-estas: "몇 시입니까?"
+        titolo: 시간(들)
+      interjekcioj: 
+        bis: "다시! 간청함!"
+        fi: 빌어먹을!
+        ha-1: 아!
+        ha-2: 아?
+        ho-ve: "오, 안돼, 이럴 수가!"
+        hura: 만세!
+        nu: "그런데, 저런 ...!"
+        nu-nu: "저런, 저런, 저기 저기!"
+        titolo: 감탄사
+        ve: "안돼!, 이럴 수가!"
+        ve-al-mi: "내게 이런 일이, 이럴 수가, 안타깝게도!"
+      mallongiloj: 
+        bv: "기꺼이, 어서"
+        e-isto: 에스페란티스토
+        e-o: 에스페란토
+        f-ino: "fraŭlino아가씨(미혼 여성)"
+        ktp: "등등, 기타"
+        s-ano: "동지, 에스페란티스토"
+        s-ino: "여성 호칭(결혼한 부인)"
+        s-ro: "남성 호칭"
+        str: "거리, 가"
+        te: "그 말은, 즉"
+        titolo: 줄임
+      primitivaj_pronomoj: 
+        ajn: "든지(무차별이나 무정의의 상태를 나타냄)"
+        almenaŭ: "almenaŭ적어도, 거의"
+        ambaŭ: ambaŭ둘다
+        ankaŭ: "ankaŭ...도 ,역시( 이 낱말 다음에 오는 낱말을 수식함)"
+        ankoraŭ: "ankoraŭ아직도, 여전히"
+        apenaŭ: "apenaŭ...하자 마자"
+        baldaŭ: "baldaŭ곧, 이윽고"
+        ekspliko: |-
+            제3과에서 우리는 일반 낱말(어근+어미)에서 어미가 <e>로 되면  그 낱말은 파생부사가 됨을 보았습니다.
+            파생부사가 아닌 부사를 우리는 <원래부사>라고 합니다. 다음은 그들중의 일부입니다.
+        eĉ: eĉ...조차도
+        for: "멀리, 떨어져"
+        frazo-ajn: "무엇이든지/누구든지/어느 곳이든지"
+        frazo-almenaŭ: "적어도almenaŭ미ㅡ두며 이 분간(의 시간)을 주십시오."
+        frazo-ambaŭ: "그들 둘 다ambaŭ 그 정원에ĝardeno 있다."
+        frazo-ankaŭ-1: "요하노도ankaŭ 자신을 씻긴다=요하노도 스스로 씻는다."
+        frazo-ankaŭ-2: "요하노는 자신을 씻기도ankaŭ 한다."
+        frazo-ankaŭ-3: "요하노는 자신도ankaŭ 씻게 한다."
+        frazo-ankoraŭ: "ĉu그는 아직도ankoraŭ 그곳에 있는가?"
+        frazo-apenaŭ: "그가 도착하자 마자apenaŭ  떠나야만 했다."
+        frazo-baldaŭ: "곧baldaŭ 오세요, 제가 요청합니다.=곧 와 주셨으면 합니다."
+        frazo-eĉ: "eĉ태양에 조차도 점이 있다troviĝas."
+        frazo-for: "눈에서 멀어지면, 마음에서 멀어진다."
+        frazo-hieraŭ: "나는 어제hieraŭ 그를 발견했다."
+        frazo-ja: "ĉu 그가 정말 올 것인가?"
+        frazo-jen: "이것이 당신이 요청한 서류(문건)이다."
+        frazo-kvazaŭ: "그 호수는 마치kvazaŭ 거울인 것 같았다."
+        frazo-morgaŭ: "Morgaŭ내일 나는 그들을 방문할 것이다."
+        frazo-plu: "나는 이제 더 이상 자전거를 타고 싶지 않다."
+        frazo-preskaŭ: "그는 거의preskaŭ 넘어졌다.=넘어질 뻔했다"
+        frazo-tamen: "그는 가난하게malriĉa 살았지만, 행복하게는feliĉa 살았다."
+        frazo-tre: "ĉi tio이것이 내 마음에 아주 든다plaĉas."
+        frazo-tro: "Ŝi그녀는 아주 큰 소리로laŭte 말한다."
+        frazo-tuj: "그녀가ŝi 말한 것이 무엇인지 당장은 이해하지 못했다."
+        frazo-ĉi: "ĉi tio이것/ĉi tie 이곳/ ĉi-foje이 번에"
+        frazo-ĵus: "그는 방금ĵus 나갔다."
+        hieraŭ: hieraŭ어제
+        ja: "정말(강조, 감탄)"
+        jen: "여기에...이 있다"
+        kvazaŭ: "kvazaŭ마치...인 것처럼"
+        morgaŭ: morgaŭ내일
+        plu: "더, 더욱"
+        preskaŭ: "preskaŭ거의, 약"
+        tamen: "그럼에도, 그런데도(:이미 제시한 주제와 대비되는 것을 나타냄)"
+        titolo: 원래부사
+        tre: "아주 ,매우"
+        tro: 너무
+        tuj: "곧, 당장"
+        ĉi: "Ĉi (가까움을 나타냄) 이 (것)"
+        ĵus: ĵus방금

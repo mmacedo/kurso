@@ -1,0 +1,108 @@
+--- 
+id: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Selain cara melakukan pertanyaan yg telah kita mempelajari dalam pelajaran 2, ada cara yg lain melakukan pertanyaan dalam bahasa Esperanto:"
+        frazo-1: "Apakah kotak itu biru?"
+        frazo-2: "Apakah anda akan pergi ke bioskop?"
+        frazo-3: "Kotak itu biru, betul?"
+        frazo-4: "Anda akan pergi ke bioskop, betul?"
+        frazo-5: "Kotak itu tidak biru, betul?"
+        frazo-6: "Anda tidak akan pergi ke bioskop, betul?"
+        titolo: "Bentuk pertanyaan lain"
+      duopaj_esprimoj: 
+        ekspliko: "Adalah beberapa perkataan dalam bahasa Esperanto yang memakai sepasang kata.  Arti itu yg menarik:"
+        jen: "Menunjukkan pergantian"
+        jen-frazo-1: "Anak laki-laki itu kadang-kadang menangis, kadang2  tertawa."
+        jen-frazo-2: "Mukanya kadang2 kemerah-merahan, kadang2 pucat."
+        ju: "Menunjukkan, bekerjasama, bahwa satu ucapan tergantung kepada ucapan lain itu"
+        ju-frazo-1: "Makin banyak anda punya, apapun yg anda katakan selalu betul!"
+        ju-frazo-2: "Makin keras bunyi itu, kurang lebih kesenangannya."
+        kaj: "Menunjukkan tekanan atau desakan"
+        kaj-frazo-1: "Peter dan Charles bekerja."
+        kaj-frazo-2: "Hujan dan berangin."
+        nek: "Menunjukkan \"dan juga bukan/tidak\" /  menegaskan negatip."
+        nek-frazo-1: "Dia tidak membeli dan tidak menyewa baju itu."
+        nek-frazo-2: "Dia tidak membeli buku, maupun pakaian."
+        titolo: "Kata-Kata Berpasangan"
+        ĉu: "Menunjukkan  kemungkinan, diantaranya pemilihan tak penting, sama, bebas atau tak pasti."
+        ĉu-frazo-1: "Karena takut atau rasa harga diri, dia tidak menjawab."
+        ĉu-frazo-2: "Hujan atau tidak (apapun yg terjadi) saya sungguh akan pergi."
+      horoj: 
+        je-kioma: "Jam berapa anda akan menelpon?"
+        kioma-estas: "Jam berapa?"
+        titolo: Jam
+      interjekcioj: 
+        bis: "Sekali lagi!"
+        fi: "Tak tahu malu!"
+        ha-1: "Ah! O!"
+        ha-2: "Ah?  O?"
+        ho-ve: "Aduh, aduh!"
+        hura: Hore!
+        nu: "Kalau begitu, ....!"
+        nu-nu: "Nah,   alaah!"
+        titolo: "Kata Seru"
+        ve: Aduh!
+        ve-al-mi: "Kasihan diriku!"
+      mallongiloj: 
+        bv: silahkan
+        e-isto: "orang yg berbicara Esp."
+        e-o: "bahasa Esperanto"
+        f-ino: nona
+        ktp: "dsb,  dan sebagainya"
+        s-ano: "orang dengan idealisme yg sama dengan ........"
+        s-ino: "ibu,   nyonya"
+        s-ro: bapak
+        str: jalan
+        te: yaitu
+        titolo: Singkatan
+      primitivaj_pronomoj: 
+        ajn: "ajn (menunjukkan dgn tekanan keadaan tak tentu atau tak penting - pernah, sewaktu-waktu, sama sekali"
+        almenaŭ: sekurang-kurangnya
+        ambaŭ: berdua
+        ankaŭ: juga
+        ankoraŭ: masih
+        apenaŭ: "baru saja, hampir tidak"
+        baldaŭ: segera
+        ekspliko: "Dalam pelajaran ketiga, kita telah mempelajari bahwa kata-keterangan yg berasal dari kata lain, berakhir dengan \"e\".  Juga ada kata-keterangan \"primitip\" yg tidak berasal dari kata lain.  Ini beberapa kata-keterangan itu:"
+        eĉ: "sekalipun, sekarangpun, sungguhpun"
+        for: jauh
+        frazo-ajn: "sesuatu apapun  /   siapapun (siapa saja)  /  di manapun"
+        frazo-almenaŭ: "Tolong berikan saya sekurang-kurangnya dua menit."
+        frazo-ambaŭ: "Mereka berdua di kebun."
+        frazo-ankaŭ-1: "John juga memandikan dirinya.(bukan hanya Mary memand. dirinya)"
+        frazo-ankaŭ-2: "John juga memandikan dirinya.(tidak hanya menyisir rambutnya)"
+        frazo-ankaŭ-3: "John memandikan juga dirinya sendiri.(tidak hanya meman. orang lain)"
+        frazo-ankoraŭ: "Apakah dia masih di sana?"
+        frazo-apenaŭ: "Baru saja dia datang, lalu dia pergi lagi."
+        frazo-baldaŭ: "Silahkan datang segera."
+        frazo-eĉ: "Sekalipun dalam matahari ada kotoran."
+        frazo-for: "Jauh di mata, jauh di hati."
+        frazo-hieraŭ: "Saya bertemu dia kemarin."
+        frazo-ja: "Apakah dia sungguh akan datang?"
+        frazo-jen: "(Lihatlah!)  Ini dokumen yg anda minta."
+        frazo-kvazaŭ: "Danau itu seolah-olah cermin."
+        frazo-morgaŭ: "Besok saya akan mengunjungi mereka."
+        frazo-plu: "Saya tidak mau bersepeda lebih jauh."
+        frazo-preskaŭ: "Dia hampir jatuh."
+        frazo-tamen: "Dia tinggal dengan hemat; meskipun begitu, dengan gembira"
+        frazo-tre: "Ini sangat menyenangkan."
+        frazo-tro: "Dia berkata dengan suara terlalu keras."
+        frazo-tuj: "Saya tidak mengerti dgn segera yg dia katakan."
+        frazo-ĉi: "Ini  /  di sini  /  pada waktu ini"
+        frazo-ĵus: "Dia pergi baru saja."
+        hieraŭ: kemarin
+        ja: sungguh
+        jen: "Lihatlah!     Ini ...      Ada ..."
+        kvazaŭ: "seolah-olah,  seakan-akan, seperti"
+        morgaŭ: besok
+        plu: "lebih jauh,  lebih lanjut"
+        preskaŭ: hampir
+        tamen: "tamen (menunjukkan perbedaan  ke pada tema telah diatakan)"
+        titolo: "Kata-Keterangan Primitip"
+        tre: "sekali, sangat, amat"
+        tro: terlalu
+        tuj: "serta-merta,  dng segera"
+        ĉi: "ĉi  (menunjukkan sesuatu yg dekat)"
+        ĵus: "baru saja"

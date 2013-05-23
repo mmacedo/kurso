@@ -1,0 +1,108 @@
+--- 
+la: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "Pievienojot 4.lekcijā apgūtās jautājamās formas, esperanto ir citas jautājumu uzdošanas manieres:"
+        frazo-1: "Vai kastīte ir zila?"
+        frazo-2: "Vai jūs iesiet uz kinoteātri?"
+        frazo-3: "Kastīte ir zila, vai ne?"
+        frazo-4: "Vai jūs iesiet uz kinoteātri, vai ne?"
+        frazo-5: "Kastīte nav zila?"
+        frazo-6: "Jūs iesiet uz kinoteātri?"
+        titolo: "Citas jautājamās formas"
+      duopaj_esprimoj: 
+        ekspliko: "Esperanto valodā ir saikļi, kurus lieto pārī:"
+        jen: "Latviešu valodā atbilst atkārtojuma saiklim \"te... te...\""
+        jen-frazo-1: "Zēns te raudāja, te smējās."
+        jen-frazo-2: "Viņa seja te sarka, te bālēja."
+        ju: "Atbilst atkārtojuma saiklim \"jo... jo...\""
+        ju-frazo-1: "Jo varāk īpašuma, jo vairāk taisnības."
+        ju-frazo-2: "Jo vairāk trokšņa, jo mazāk baudas."
+        kaj: "Atbilst atkārtojuma saikļiem \"ir... ir...\" vai \"un... un...\""
+        kaj-frazo-1: "Ir Pēteris ir Kārlis strādā."
+        kaj-frazo-2: "Un līst lietus un pūš vējš."
+        nek: "Nozīmē \"ne... ne...\""
+        nek-frazo-1: "Viņa ne nopirka apģērbu, ne noīrēja kaut ko."
+        nek-frazo-2: "Viņa ne nopirka grāmatu, ne apģērbu."
+        titolo: "Divkāršie saikļi"
+        ĉu: "Atbilst atkārtojuma saikļiem \"vai... vai...\""
+        ĉu-frazo-1: "Vai no bailēm, vai no lepnuma, viņš neko neatbildēja."
+        ĉu-frazo-2: "Vai līs lietus, vai būs saule, es taču iešu."
+      horoj: 
+        je-kioma: "Cikos jūs piezvanīsiet?"
+        kioma-estas: "Cik ir pulkstenis? (Kura stunda ir?)"
+        titolo: Pulkstenis
+      interjekcioj: 
+        bis: atkārtot!
+        fi: "fui! (riebums)"
+        ha-1: "ā!  (izbrīns)"
+        ha-2: a?
+        ho-ve: "ak, jūs! (sāpes)"
+        hura: urrā!
+        nu: "nu, ....! (pamudinājums)"
+        nu-nu: "nu, nu!"
+        titolo: "Izsauksmes vārdi"
+        ve: "ak!; bēda! (sāpes)"
+        ve-al-mi: "bēda man! (sāpes)"
+      mallongiloj: 
+        bv: lūdzu
+        e-isto: esperantists
+        e-o: esperanto
+        f-ino: jaunkundze
+        ktp: "utt., un tā tālāk"
+        s-ano: domubiedrs
+        s-ino: dāma
+        s-ro: "k-gs, kungs"
+        str: iela
+        te: "t.i., tas ir"
+        titolo: Saīsinājumi
+      primitivaj_pronomoj: 
+        ajn: "partikula nenoteiktības apzīmēšanai (daliņa \"jeb-\")"
+        almenaŭ: vismaz
+        ambaŭ: abi
+        ankaŭ: arī
+        ankoraŭ: vēl
+        apenaŭ: "tik tikko"
+        baldaŭ: drīz
+        ekspliko: "Trešajā lekcijā mēs noskaidrojām, ka apstākļa vārdi, kuri tiek veidoti no citiem vārdiem beidzas ar \"e\". Ir citi apstākļa vārdi, kuri netiek atvasināti no citiem vārdiem. Lūk daži no tiem:"
+        eĉ: pat
+        for: "prom, projām; nost"
+        frazo-ajn: "jebkas / jebkāds / jebkur"
+        frazo-almenaŭ: "Dodiet man vismaz divas minūtes."
+        frazo-ambaŭ: "Viņi abi ir dārzā."
+        frazo-ankaŭ-1: "Arī Jānis mazgājas."
+        frazo-ankaŭ-2: "Jānis arī mazgājas."
+        frazo-ankaŭ-3: "Jānis mazgā arī sevi."
+        frazo-ankoraŭ: "Vai viņš vēl ir tur?"
+        frazo-apenaŭ: "Viņš tikko atnāca un vajadzēja aiziet."
+        frazo-baldaŭ: "Atnāc drīz, es lūdzu."
+        frazo-eĉ: "Pat uz saules atrodas traipi."
+        frazo-for: "Prom no acīm, prom no sirds."
+        frazo-hieraŭ: "Es viņu atradu vakar."
+        frazo-ja: "Viņš taču atnāks?"
+        frazo-jen: "Lūk dokuments, kuru jūs lūdzāt."
+        frazo-kvazaŭ: "Ezers ir it kā spogulis."
+        frazo-morgaŭ: "Rīt es apmeklēšu viņus."
+        frazo-plu: "Es vairāk negribu vizināties ar velosipēdu."
+        frazo-preskaŭ: "Viņš gandrīz jau nokrita."
+        frazo-tamen: "Viņš dzīvo nabadzīgi, tomēr laimīgi."
+        frazo-tre: "Šis man ļoti patīk."
+        frazo-tro: "Viņa runā pārāk skaļi."
+        frazo-tuj: "Es neuzreiz sapratu, ko viņa teica."
+        frazo-ĉi: "šis / šeit / šoreiz"
+        frazo-ĵus: "Viņš nupat izgāja."
+        hieraŭ: vakar
+        ja: taču
+        jen: lūk
+        kvazaŭ: "it kā"
+        morgaŭ: rīt
+        plu: "tālāk; turpmāk; vairāk; vairs"
+        preskaŭ: gandrīz
+        tamen: tomēr
+        titolo: "Pirmatnējie (neatvasinātie) apstākļa vārdi"
+        tre: ļoti
+        tro: pārāk
+        tuj: "tūlīt, uzreiz"
+        ĉi: "tuvuma apzīmēšana"
+        ĵus: nupat

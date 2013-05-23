@@ -1,0 +1,108 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono11: 
+      aliaj_demandaj_formoj: 
+        ekspliko: "İkinci derste okuduğumuz şekilden başka, Esperanto'da başka şekilde soru sorma imkanıda vardır."
+        frazo-1: "Acaba kutu mavi mi?"
+        frazo-2: "Sinemaya gidecek misin?"
+        frazo-3: "Kutu mavi, değil mi?"
+        frazo-4: "Sinemaya gideceksin değil mi?"
+        frazo-5: "Kutu mavi değil, değil mi?"
+        frazo-6: "Sinemaya gitmeyeceksin değil mi?"
+        titolo: "Diğer soru şekilleri"
+      duopaj_esprimoj: 
+        ekspliko: "Esperanto da bilinmesi gereken ilginç ikili ifadeli kelimeker vardır :"
+        jen: "Sıralamayı gösteriyor"
+        jen-frazo-1: "Erkek çoçuğu hem ağladı, hem güldü."
+        jen-frazo-2: "Onun (erkek) yüzü hem kızardı, hem sarardı."
+        ju: "Bir ifadenin diğerine bağlı olduğunu, birlikte çalışmayı gösteriyor."
+        ju-frazo-1: "Ne kadar çok mal, o kadar çok hak."
+        ju-frazo-2: "Ne kadar çok gürültü, o kadar daha az zevk."
+        kaj: "Üzerinde durmak veya ısrar etmeyi gösterir."
+        kaj-frazo-1: "Petro'da Karlo'da çalışıyorlar."
+        kaj-frazo-2: "Hem yağıyor hem esiyor."
+        nek: "\"hiçbir...ne de\" anlamıda / Olumsuzluğu ifade etmekte"
+        nek-frazo-1: "O (dişil) elbiseyi ne satın aldı, nede kiraladı."
+        nek-frazo-2: "O (dişil) ne kitabı satın aldı, nede elbiseyi."
+        titolo: "İkili ifadeler"
+        ĉu: "Aralarında seçimin ilgisiz, serbest veya emin olmayan imkanları göstermekte."
+        ĉu-frazo-1: "Korkudan mı, gururdan mı, o (erkek) hiçbir cevap vermedi."
+        ĉu-frazo-2: "Acaba yağacak mı yoksa güneş mi doğacak, ben gideceğim ya."
+      horoj: 
+        je-kioma: "Saat kaçta telefon edeceksin?"
+        kioma-estas: "Saat kaç?"
+        titolo: Saatler
+      interjekcioj: 
+        bis: Tekrar!
+        fi: "üff !"
+        ha-1: "tüh!, ha!"
+        ha-2: Aa?
+        ho-ve: "ne yazık !"
+        hura: "hurra! , çok yaşa!"
+        nu: "e, ... !"
+        nu-nu: "hadi hadi !"
+        titolo: "Ünlem, Nida edatı"
+        ve: "zavallı !"
+        ve-al-mi: "vay halime ! , zavallı ben !"
+      mallongiloj: 
+        bv: lütfedin
+        e-isto: esperantist
+        e-o: Esperanto
+        f-ino: "evlenmemiş bayan"
+        ktp: "vs. , vb. gibi"
+        s-ano: kafadar
+        s-ino: hanımefendi
+        s-ro: beyefendi
+        str: sokak
+        te: "t.e. yani"
+        titolo: Kısaltmalar
+      primitivaj_pronomoj: 
+        ajn: "belirsizlik, kayıtsızlık"
+        almenaŭ: "Hiç olmazsa"
+        ambaŭ: "her ikiside (erkek-dişil)"
+        ankaŭ: Aynı
+        ankoraŭ: "Daha, hala"
+        apenaŭ: "Ancak, henüz"
+        baldaŭ: acele
+        ekspliko: "Üçüncü derste gördük ki, zarflar başka kelimelerden türetilmiştir. Zarfların sonuna \"e\" harfi konur.Diğer başka türetilmemiş zarflar vardır ki, bunlara basit kökler denir. İşte onlardan bir kaçı :"
+        eĉ: "hatta, bile, dahi"
+        for: uzak
+        frazo-ajn: "birşey / herhangi birisi / herhangi biryer"
+        frazo-almenaŭ: "Bana hiç olmazsa iki dakika müsaade et."
+        frazo-ambaŭ: "Onlar her ikiside bahçedeler."
+        frazo-ankaŭ-1: "Johano'da aynen yıkanıyor."
+        frazo-ankaŭ-2: "Johano'da aynı öyle yıkanıyor."
+        frazo-ankaŭ-3: "Johano'da aynı kendini yıkıyor."
+        frazo-ankoraŭ: "O (erkek) hala burada mı?"
+        frazo-apenaŭ: "O (erkek) ancak gelmişti ki, hemen gitmesi gerekliydi."
+        frazo-baldaŭ: "Lütfen, acele gel."
+        frazo-eĉ: "Hatta güneşin üstünde bile lekeler var."
+        frazo-for: "Gözden ırak, gönülden uzak."
+        frazo-hieraŭ: "Onu (erkek) dün karşıladım."
+        frazo-ja: "O (erkek) acaba gelecek mi?"
+        frazo-jen: "İşte rica ettiğin evrak."
+        frazo-kvazaŭ: "Göl sanki ayna gibi idi."
+        frazo-morgaŭ: "Yarın onları (erkek) ziyaret edeceğim."
+        frazo-plu: "Daha fazla bisiklet sürmek istemiyorum."
+        frazo-preskaŭ: "O (erkek) nerdeyse düştü."
+        frazo-tamen: "O (erkek) fakir yaşıyor, ama mutlu olarak."
+        frazo-tre: "Bu benim çok hoşuma gidiyor."
+        frazo-tro: "O (dişil) gayet çok yüksek sesle konuşuyor."
+        frazo-tuj: "onun (dişil) ne dediğini, hemen anlamadım."
+        frazo-ĉi: "bu / burada / bu sefer"
+        frazo-ĵus: "O (erkek) henüz çıktı."
+        hieraŭ: dün
+        ja: "öyle, elbet, değil mi (genelde çevrilmez)"
+        jen: işte
+        kvazaŭ: sanki
+        morgaŭ: "yarın sabah"
+        plu: "daha fazla"
+        preskaŭ: "nerdeyse, hemen hemen"
+        tamen: "lakin, fakat, ama (söylenmiş birşeye zıtlık gösterir)."
+        titolo: "Basit Zarflar"
+        tre: "pek çok"
+        tro: "gayet çok"
+        tuj: "derhal, hemen"
+        ĉi: "yakınlık gösteren ektir."
+        ĵus: henüz
