@@ -22,6 +22,9 @@ module I18nEltiro
           [klavo.downcase, valoro]
         end]
 
+        # Klopodi forigi rubajn parametrojn, kiujn kutime estas tre longaj
+        parametroj.delete_if { |s| s.length > 20 }
+
         # Procezi ekzercojn
         if m = sekcio.match(/\AEkzerco-(.+)\z/im)
           klavo = m[1]
