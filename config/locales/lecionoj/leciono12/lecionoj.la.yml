@@ -1,0 +1,81 @@
+--- 
+la: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Noklausieties dziesmu esperanto valodā \"Bluaj Fragoj\" (\"Zilās Zemenes\") , kuru izpilda brazīliešu popgrupa Merlin, kura jau ierakstīja divus albūmus startautiskajā valodā un ir ieguvusi atzinību visā pasaulē. Grupas sastāvs: balss un ģitāra — Markone Froes, bungas — Guilherme Lima, elektriskā ģitāra — Aldrin Gandra, basģitāra — Sergio Ribeiro, taustiņi — Sergio Vieira."
+        titolo: "Mūzika esperanto valodā"
+        vortaro: 
+          aliri: Pienākt
+          alveni-al: "Pienākt pie"
+          animo: Dvēsele
+          arko: "Arka, loks"
+          ekspliko: "Apakšā ir jauno vārdu saraksts, kuri parādās dziesmā \"Bluaj Fragoj\". Pievērsiet uzmanību vārdu savienošanai, kura tiek izmantota, lai saglabātu dziesmas ritmu."
+          frago: Zemene
+          lumo: Gaisma
+          pruvi: Pierādīt
+          senfino: Bezgalība
+          valoro: Vērtība
+          vero: Patiesība
+          ĉielarko: Varavīksne
+          ĉielo: Debesis
+      verba_transitiveco: 
+        ekspliko: "Otrajā lekcijā mēs redzejām akuzatīva pielietošanu, lai parādītu darbības vārda tiešo papildinātāju. Tomēr ir darbības vārdi, kuriem nav vajadzīga tāda galotne. Piemēram:"
+        frazo-1: "Notika kaut kas svarīgs."
+        frazo-2: "Šodien es ļoti priecājos."
+        frazo-3: "Viņi jau guļ savās gultās."
+        frazo-4: "Jaunieši daudz dejoja."
+        ig: 
+          ekspliko: "Darbības vārdi ar piedēkli -ig- vienmēr ir pārejoši:"
+          frazo-1: "Ceļojums, protams, jūs nogurdināja."
+          frazo-2: "Dienvidu saule dedzina viņa kailo galvu."
+          frazo-3: "Tēvs grib tūlīt izprecināt vecāko meitu."
+        iĝ: 
+          du: 
+            ekspliko: "2. Darbības vārdi ar piedēkli -iĝ-, kuri tiek izveidoti no pārejošiem darbības vārdiem, neizsaka statusa izmaiņu, bet gan darbību, kura noteik pati par sevi."
+            frazo-1: "Pūlis skrēja lēnāk nekā automobīlis, kurš vēlās ļoti ātri."
+            frazo-2: "Viņš pēkšņi atradās uz ielas, pavisam viens."
+            frazo-3: "Cikos sāksies lekcija?"
+            frazo-4: "Gājēju pūļi kustējās pa trotuāriem."
+          ekspliko: "Visi darbības vārdi ar piedēkli -iĝ- ir nepārejoši, tas nozīmē, tiem nevajag papildinātāju. Tie var apzīmēt:"
+          unu: 
+            ekspliko: "1. Pāreja jaunā stāvoklī. Sakne rāda rezultātu, jaunu stāvokli. Darbības vārdos ar piedēkli -iĝ- darbības avots nav svarīgs:"
+            frazo-1: "Ziemā ūdens pārklājas ar ledu."
+            frazo-2: "Šodien laiks no jauna kļuva siltāks."
+            frazo-3: "Viņa apprecējās ar savu brālēnu."
+        rimarkigo-1: 
+          ekspliko-1: "Dažiem no tādiem darbības vārdiem var būt papildinātājs ar prievārdu:"
+          ekspliko-2: "Citi var iegūt, dažos gadījumos, tiešo papildinātāju (galotne -n):"
+          frazo-1: "Viņa tēvs nomira no vēža."
+          frazo-2: "Es ļoti priecājos par jūsu laimi!"
+          frazo-3: "Viņa guļ dziļā miegā."
+          frazo-4: "Viņa dejoja valsi ar viņu."
+        rimarkigo-2: 
+          ekspliko: "Iegaumējiet, ka vārdam \"esti\" nekad nevajag akuzatīvu, un ka arī pēc prievārda nelieto akuzatīvu."
+        sen-subjekto: 
+          ekspliko: "Ir vēl darbības vārdi, kuriem nav vajadzīgs teikuma priekšmets:"
+          frazo-1: "Vakar stipri lija lietus."
+          frazo-2: "Aust, un mums vajag doties mājup."
+          frazo-3: "Sniga ļoti stiprs sniegs, un viņš nevarēja iziet no būdas."
+        titolo: "Pārejošie darbības vārdi"
+      vortfarado: 
+        ekspliko-1: "Jūs, protams, jau pamanījāt fenomenālo esperanto izteiksmīgumu. Faktiski, izmantojot priedēkļus, piedēkļus un galotnes, var izveidot daudz vārdus, dažus pat bez atbilstoša ekvivalenta nacionālajās volodās. Bet esperanto bagātība arī nebeidzas te. Ar sakņu savienošanas sistēmu var pat vairāk palielināt vārdu krājumu, atrast sinonīmus, pasvītrot vai izteikt vārda nianses. Lūk daži vārdu veidošanas piemēri starptautiskajā valodā:"
+        ekspliko-2: "Ar galotnēm, priedēkļiem un piedēkļiem:"
+        ekspliko-3: "Ar sakņu savienošanu. Pirmās saknes galotni var palaist garām vai nē, vienmēr ievērojot jaunveidojamā vārda skaidrību un daiļskanīgumu:"
+        ekspliko-4: "Veidojot vārdus no vārdu grupām:"
+        rimarkigo: "Lai gan iespējams veidot vārdus ar vairāk kā diviem priedēkļiem un/vai piedēkļiem, skaidrības un vienkāršības labad, iesaka izvairīties no šādām konstrukcijām. Tā, piemēram, vietā \"belulineto\" labāk lietot \"eta belulino\", jo priedēkļu un piedēkļu kārtība tieši iespaido vārda nozīmi:"
+        titolo: "Vārdu darināšana esperanto valodā"
+        vortoj: 
+          antaŭbrako: priekšplecs
+          balenŝipo: "vaļu kuģis"
+          helruĝo: "gaiši sarkans, sārts"
+          jarcento: gadsimts
+          jarmilo: tūkštošgade
+          laŭtlegi: "lasīt skaļi"
+          matenruĝo: "rīta ausma"
+          piediro: "iešana ar kājām"
+          rondiro: diriģents
+          sangruĝo: "asins sarkans"
+          satmanĝi: "ēst līdz sātam"
+          spacoŝipo: "kosmosa kuģis"
+          vaporŝipo: tvaikonis

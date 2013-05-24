@@ -17,5 +17,6 @@ Kurso::Application.routes.draw do
     get 'leciono9',  to: 'lecionoj#leciono09', as: 'leciono09'
     get 'leciono10', to: 'lecionoj#leciono10', as: 'leciono10'
     get 'leciono11', to: 'lecionoj#leciono11', as: 'leciono11'
+    get 'leciono12', to: 'lecionoj#leciono12', as: 'leciono12'
   end
 end

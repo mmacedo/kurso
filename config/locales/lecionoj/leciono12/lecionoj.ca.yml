@@ -1,0 +1,81 @@
+--- 
+ca: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Escolteu ara una cançó en esperanto, \"Bluaj Fragoj\", cantada per Merlin, un grup brasiler de música pop que ja ha enregistrat dos àlbums en llengua internacional i es presenten a tot el món. El grup és format per Markone Froes (veu i guitarra), Guilherme Lima (bateria), Aldrin Gandra (guitarra elèctrica), Sérgio Ribeiro (baix) i Sérgio Vieira (teclat)."
+        titolo: "Música en esperanto"
+        vortaro: 
+          aliri: "Anar (a)"
+          alveni-al: "Arribar a"
+          animo: Ànima
+          arko: Arc
+          ekspliko: "Aquí baix hi ha una llista de les noves paraules que apareixen en la cançó \"Bluaj Fragoj\". Fixeu-vos en els mots compostos que s'hi utilitzen."
+          frago: Maduixa
+          lumo: Llum
+          pruvi: "Demostrar, provar"
+          senfino: Infinit
+          valoro: Valor
+          vero: Veritat
+          ĉielarko: "Arc de Sant Martí"
+          ĉielo: Cel
+      verba_transitiveco: 
+        ekspliko: "A la segona lliçó vam veure l'ús de l'acusatiu per indicar l'objecte directe del verb. Tot i això hi ha verbs que no necessiten complement. Exemple:"
+        frazo-1: "Va passar alguna cosa greu."
+        frazo-2: "Avui estic molt content."
+        frazo-3: "Ja dormen als seus llits"
+        frazo-4: "Els joves van ballar molt."
+        ig: 
+          ekspliko: "Els verbs amb el sufix IG són sempre transitius:"
+          frazo-1: "El viatge de ben segur et va cansar."
+          frazo-2: "El sol meridional crema el seu cap nu."
+          frazo-3: "El pare vol casar de seguida la filla més gran."
+        iĝ: 
+          du: 
+            ekspliko: "2. En els verbs amb IĜ creats a partir de verbs transitius no es tracta d'un canvi d'estat, sinó d'una acció que passa per ella mateixa."
+            frazo-1: "El gran grup va córrer menys de pressa que el cotxe, que va rodar molt ràpidament."
+            frazo-2: "Ell de sobte es trobà al carrer, tot sol."
+            frazo-3: "A quina hora començarà la lliçó?"
+            frazo-4: "Masses de vianants es van moure per les voreres."
+          ekspliko: "Els verbs amb sufix IĜ són tots intransitius, així que no necessiten complement, i poden voler dir:"
+          unu: 
+            ekspliko: "1. Transició a un nou estat. L'arrel (o les arrels) mostra el resultat, el nou estat. En els verbs acabats en IĜ, no és important el causant de l'acció:"
+            frazo-1: "A l'hivern les aigües es glacen."
+            frazo-2: "Avui el temps s'ha escalfat de nou."
+            frazo-3: "Es va casar amb el seu cosí."
+        rimarkigo-1: 
+          ekspliko-1: "Alguns d'aquests verbs poden dur un complement introduït per una proposició:"
+          ekspliko-2: "Altres poden tenir, en alguns casos, el complement directe:"
+          frazo-1: "El seu pare va morir de càncer."
+          frazo-2: "Me n'alegro molt de la teva felicitat!"
+          frazo-3: "Ella dorm profundament."
+          frazo-4: "Va ballar un vals amb ell."
+        rimarkigo-2: 
+          ekspliko: "Recordeu sempre que la paraula \"esti\" no duu acusatiu i que darrere d'una proposició no cal, en principi, utilitzar l'acusatiu."
+        sen-subjekto: 
+          ekspliko: "També hi ha verbs sense subjecte:"
+          frazo-1: "Ahir va ploure molt."
+          frazo-2: "Es fa de dia, i haig d'anar cap a casa."
+          frazo-3: "Nevava molt fort i no va poder sortir de la cabana."
+        titolo: "Transitivitat verbal"
+      vortfarado: 
+        ekspliko-1: "Segurament ja us n'haureu adonat de la capacitat expressiva de l'esperanto. De fet, utilitzant prefixos, sufixos i terminacions, es poden crear moltes paraules, algunes d'elles sense traducció directa als idiomes nacionals. Però la riquesa de l'esperanto no acaba aquí: mitjançant un sistema de combinació d'arrels, es pot fins i tot augmentar el vocabulari, trobar sinònims, emfatitzar o matisar paraules. Tot seguit trobareu alguns exemples de la creativitat lèxica en la llengua internacional:"
+        ekspliko-2: "Amb terminacions, prefixos i sufixos:"
+        ekspliko-3: "Combinant arrels. La terminació de la primera arrel es pot obviar o no, sempre que es conservi la claredat i l'eufonia de la paraula construïda:"
+        ekspliko-4: "Creant paraules a partir d'un grup de paraules:"
+        rimarkigo: "Tot i que és possible construir paraules amb més de dos prefixos i/o sufixos, és recomanable, per afavorir la claredat i l'elegància, evitar aquesta classe de construccions. D'aquesta manera, en comptes de \"belulineto\", és preferible \"eta belulino\", per exemple."
+        titolo: "Construcció de paraules en esperanto"
+        vortoj: 
+          antaŭbrako: avantbraç
+          balenŝipo: balener
+          helruĝo: "vermell clar"
+          jarcento: segle
+          jarmilo: mil·leni
+          laŭtlegi: "llegir en veu alta"
+          matenruĝo: aurora
+          piediro: caminada
+          rondiro: ronda
+          sangruĝo: "vermell sang"
+          satmanĝi: "menjar fins atipar-se"
+          spacoŝipo: "nau espacial"
+          vaporŝipo: "vaixell de vapor"

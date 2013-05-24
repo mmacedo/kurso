@@ -1,0 +1,81 @@
+--- 
+en: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Now you can listen to a song in Esperanto,  \"Bluaj Fragoj\"  (Blue Strawberries),  sung by Merlin, a Brazilian pop group, which has already recorded 2 albums in Esperanto and has played all around the world.  The group: Markone Froes (voice and guitar), Guilherme Lima (drums), Aldrin Gandra (electric guitar), Sergio Ribeiro (bass guitar) and Sergio Vieira (keyboard)."
+        titolo: "Esperanto music"
+        vortaro: 
+          aliri: "to approach"
+          alveni-al: "to arrive at"
+          animo: soul
+          arko: "arc, bow"
+          ekspliko: "New words from the song  \"Bluaj Fragoj\"  (Blue Strawberries).  Note the compound words used in the song."
+          frago: strawberry
+          lumo: light
+          pruvi: "to prove"
+          senfino: infinity
+          valoro: value
+          vero: truth
+          ĉielarko: rainbow
+          ĉielo: "sky, heaven"
+      verba_transitiveco: 
+        ekspliko: "Some verbs, called transitive verbs, take a direct object.  In lesson 2 we saw that a direct object is always in the accusative case.  Other verbs, called intransitive verbs, do not take a direct object.  For example,"
+        frazo-1: "Something important happened."
+        frazo-2: "I am very happy today."
+        frazo-3: "They are already sleeping in their beds."
+        frazo-4: "The young people danced very much."
+        ig: 
+          ekspliko: "Verbs with the suffix  -IG-  are always transitive.  The meaning is often expressable by 'to make'."
+          frazo-1: "The trip certainly made you tired."
+          frazo-2: "The Southern sun burns his uncovered head. (makes it burn)"
+          frazo-3: "The father wants to marry off his older daughter immediately. (make her a wife)"
+        iĝ: 
+          du: 
+            ekspliko: "'-iĝi' is often added to transitive verbs.  The result is an intransitive verb whose meaning can often by expressed by 'become' + a past participle.  So 'kuiri' = to cook, and 'kuiriĝi' = to become cooked."
+            frazo-1: "The crowd ran more slowly than the vehicle, which was rolling very fast."
+            frazo-2: "Suddenly he found himself on the street, all alone."
+            frazo-3: "At what time will the lesson start?"
+            frazo-4: "Masses of pedestrians moved on the sidewalks."
+          ekspliko: "All verbs with the suffix '-iĝi' are intransitive (no direct object).  They are often formed by adding '-iĝi' to a noun or to an adjective.  The meaning can generally be expressed by the English verb 'to become'."
+          unu: 
+            ekspliko: "Verbs ending in '-iĝi' typically indicate a transition to a new state whose characteristics are indicated by the root.  The doer or perpetrator of the action is not specified."
+            frazo-1: "In winter the waters freeze. (become ice)"
+            frazo-2: "Today the weather became warmer again."
+            frazo-3: "She married (became a wife) her cousin. (Note that 'kuzo' is always male.)"
+        rimarkigo-1: 
+          ekspliko-1: "These verbs may have a complement using a preposition:"
+          ekspliko-2: "Some verbs which are ordinarily intransitive can sometimes take a direct object:"
+          frazo-1: "His father died because of cancer."
+          frazo-2: "I am very glad about your happiness!"
+          frazo-3: "She is sleeping a deep sleep."
+          frazo-4: "She danced a waltz with him."
+        rimarkigo-2: 
+          ekspliko: "Always remember that the verb  \"esti\"  doesn't require the accusative.  Don't use the accusative after a preposition."
+        sen-subjekto: 
+          ekspliko: "Some verbs have no subject: (The grammatical subject 'it' in English has no real meaning.)"
+          frazo-1: "Yesterday it rained very much."
+          frazo-2: "It is dawning, and I have to go home."
+          frazo-3: "It was snowing very hard and he couldn't leave the cabin."
+        titolo: "Transitive and intransitive verbs"
+      vortfarado: 
+        ekspliko-1: "Certainly you already noted the extraordinary possibility of expression of Esperanto.  In fact, by adding various prefixes, suffixes and grammatical endings to a given root, you can create many words, some of them without a direct translation to English.  Some examples of word creation follow:"
+        ekspliko-2: "Using prefixes and suffixes:"
+        ekspliko-3: "Joining roots.  The grammatical ending of the first element, often '-o', is usually omitted, but it may be retained to facilitate pronounceability."
+        ekspliko-4: "Creating words from groups of words:"
+        rimarkigo: "Even if it is possible to build words with more than two prefixes and/or suffixes, in favor of clarity and elegance it is preferable to avoid such creations.  Thus, instead of \"belulineto\"  we prefer  \"eta belulino\".  The order in which affixes occur influences meaning:"
+        titolo: "Word making in Esperanto"
+        vortoj: 
+          antaŭbrako: forearm
+          balenŝipo: whaler
+          helruĝo: "light red"
+          jarcento: "century,  hundred years"
+          jarmilo: "millennium,  thousand years"
+          laŭtlegi: "to read aloud"
+          matenruĝo: "redness of the sky at dawn"
+          piediro: "going on foot"
+          rondiro: "going around"
+          sangruĝo: "blood red"
+          satmanĝi: "to eat until satiated"
+          spacoŝipo: spaceship
+          vaporŝipo: steamship

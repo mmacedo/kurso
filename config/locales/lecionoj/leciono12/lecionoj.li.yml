@@ -1,0 +1,81 @@
+--- 
+li: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Dabar paklausykite dainos \"Bluaj Fragoj\" (\"Mėlynos Braškės\") esperanto kalba. Ją atlieka brazilų popmuzikos ansamblis \"Merlin\". Grupę sudaro Markone Froes (vokalas, gitara), Guilherme Lima (mušamieji), Aldrin Gandra (elektrinė gitara), Sergio Ribeiro (bosinė gitara) ir Sergio Vieira (klavišiniai)."
+        titolo: "Esperantiška muzika"
+        vortaro: 
+          aliri: Prieiti
+          alveni-al: "Prieiti prie"
+          animo: "Siela, dvasia"
+          arko: "Arka, lankas"
+          ekspliko: "Apačioje pateikiami nauji žodžiai, kurie sutinkami dainoje \"Bluaj Fragoj\". Atkreipkite dėmesį į sudurtinius žodžius."
+          frago: Braškė
+          lumo: Šviesa
+          pruvi: Įrodyti
+          senfino: Begalybė
+          valoro: "Vertė, vertybė"
+          vero: Tiesa
+          ĉielarko: Vaivorykštė
+          ĉielo: Dangus
+      verba_transitiveco: 
+        ekspliko: "Antroje pamokoje aiškinome, kad galininko linksnis nurodo tiesioginį veiksmažodžio objektą. Tačiau yra veiksmažodžių, kuriems nereikia papildinio. Pavyzdžiui:"
+        frazo-1: "Atsitiko kažkas svarbaus."
+        frazo-2: "Aš šiandien labai džiaugiuosi."
+        frazo-3: "Jie jau miega savo lovose."
+        frazo-4: "Jaunuoliai daug šoko."
+        ig: 
+          ekspliko: "Veiksmažodžiai, turintys priesagą \"-ig-\", visada yra galininkiniai:"
+          frazo-1: "Kelionė tikrai tave išvargino."
+          frazo-2: "Pietų saulė degina jo pliką galvą."
+          frazo-3: "Tėvas nori tuoj ištekinti vyresniąją dukterį."
+        iĝ: 
+          du: 
+            ekspliko: "2. Veiksmą, kuris vyksta pats savaime, kai veiksmažodžiai su \"-iĝ-\" yra sudaryti iš galininkinių veiksmažodžių."
+            frazo-1: "Minia bėgo lėčiau negu transporto priemonė, kuri riedėjo labai greitai."
+            frazo-2: "Jis staiga atsidūrė gatvėje visiškai vienas."
+            frazo-3: "Kelintą valandą prasidės pamoka?"
+            frazo-4: "Minia praeivių judėjo šaligatviais."
+          ekspliko: "Veiksmažodžiai, turintys priesagą \"-iĝ-\", yra negalininkiniai, t.y. jiems nebūtini tiesioginiai papildiniai. Jie gali turėti vieną iš šių reikšmių:"
+          unu: 
+            ekspliko: "1. Perėjimą į naują padėtį (būvio pakeitimas). Žodžių šaknys rodo rezultatą, naują būvį. Veiksmažodžiuose su \"-iĝ-\" veiksmo iniciatorius (sukėlėjas) nesvarbus:"
+            frazo-1: "Žiemą vanduo užšąla."
+            frazo-2: "Šiandien oras vėl atšilo."
+            frazo-3: "Ji ištekėjo už savo pusbrolio."
+        rimarkigo-1: 
+          ekspliko-1: "Kai kurie iš šių veiksmažodžių nuo papildinio gali būti atskirti prielinksniu:"
+          ekspliko-2: "Būna atvejų, kada ir šie veiksmažodžiai gauna tiesioginį papildinį:"
+          frazo-1: "Jo tėvas mirė nuo vėžio."
+          frazo-2: "Aš labai džiaugiuosi tavo laime!"
+          frazo-3: "Ji giliai miega (miega gilų miegą)."
+          frazo-4: "Ji šoko valsą su juo."
+        rimarkigo-2: 
+          ekspliko: "Visada prisiminkite, kad žodis \"esti\" nereikalauja galininko linksnio."
+        sen-subjekto: 
+          ekspliko: "Dar yra veiksmažodžių be veiksnio:"
+          frazo-1: "Vakar daug lijo."
+          frazo-2: "Dienoja, ir aš turiu eiti namo."
+          frazo-3: "Labai smarkiai snigo, ir jis negalėjo išeiti iš pirkelės."
+        titolo: "Galininkiniai veiksmažodžiai"
+      vortfarado: 
+        ekspliko-1: "Tikriausiai jau pastebėjote nepaprastas esperanto kalbos išraiškos galimybes. Vartojant priešdėlius, priesagas ir galūnes, galima sudaryti daug žodžių, kurių netgi nėra kitose kalbose. Bet čia esperanto turtingumas nesibaigia. Sujungiant žodžių šaknis galima žymiai praplėsti žodyną, surasti sinonimų, pabrėžti norimus žodžius. Štai keletas pavyzdžių:"
+        ekspliko-2: "Su galūnėmis, priešdėliais ir priesagomis:"
+        ekspliko-3: "Sujungiant žodžių šaknis. Pirmosios šaknies galūnę galima praleisti arba ne, atsižvelgiant į sudurtinio žodžio aiškumą ir skambesį."
+        ekspliko-4: "Sudarant žodžius iš žodžių grupės:"
+        rimarkigo: "Sudaryti žodį galima vartojant ir daugiau priešdėlių ir/ar priesagų, tačiau dėl aiškumo rekomenduojama to nedaryti. Pavyzdžiui, vietoje \"belulineto\" rašykite \"eta belulino\". Priešdėlių ir priesagų vieta turi įtakos žodžio reikšmei."
+        titolo: "Žodžių sudarymas esperanto kalboje"
+        vortoj: 
+          antaŭbrako: dilbis
+          balenŝipo: "banginių medžioklės laivas"
+          helruĝo: "šviesus raudonis"
+          jarcento: šimtmetis
+          jarmilo: tūkstantmetis
+          laŭtlegi: "garsiai skaityti"
+          matenruĝo: aušra
+          piediro: "ėjimas pėsčiomis"
+          rondiro: "ėjimas ratu"
+          sangruĝo: "kraujo raudonis"
+          satmanĝi: "sočiai prisivalgyti"
+          spacoŝipo: erdvėlaivis
+          vaporŝipo: garlaivis

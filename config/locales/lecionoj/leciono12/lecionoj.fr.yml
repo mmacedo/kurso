@@ -1,0 +1,83 @@
+--- 
+fr: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Ecoutez maintenant la chanson \"Les Fraises bleues\", chantée par Merlin, un groupe de musique populaire brésilien, qui a déjà enregistré deux albums en espéranto et qui se produit dans le monde entier. Le groupe est composé de Markone Froes (voix et guitare), Guilherme Lima (batterie), Aldrin Gandra (guitare électrique), Sérgio Ribeiro (basse) et Sérgio Vieira (clavier)."
+        titolo: "Musique en espéranto"
+        vortaro: 
+          aliri: "S'approcher de, aborder"
+          alveni-al: "Arriver à"
+          animo: Âme
+          arko: Arc
+          ekspliko: "Ci-dessous se trouve une liste de mots nouveaux qui apparaissent dans la chanson \"Les Fraises Bleues\". Regardez bien les mots composés utilisés dans la chanson."
+          frago: Fraise
+          lumo: Lumière
+          pruvi: Prouver
+          senfino: "Infini (l')"
+          valoro: Valeur
+          vero: Vérité
+          ĉielarko: Arc-en-ciel
+          ĉielo: Ciel
+      verba_transitiveco: 
+        ekspliko: "Nous avons vu dans la deuxième leçon l'utilisation de l'accusatif pour indiquer le complément d'objet direct d'un verbe. Il y a cependant des verbes qui n'ont pas besoin de complément. Exemple :"
+        frazo-1: "Il est arrivé quelque chose d'important."
+        frazo-2: "Je suis très joyeux aujourd'hui."
+        frazo-3: "Ils dorment déjà dans leurs lits."
+        frazo-4: "Les jeunes ont beaucoup dansé."
+        ig: 
+          ekspliko: "Les verbes avec le suffixe -IG sont toujours transitifs :"
+          frazo-1: "Le voyage vous a certainement fatigué."
+          frazo-2: "Le soleil méridional brûle sa tête nue."
+          frazo-3: "Le père veut tout de suite marier la fille la plus âgée."
+        iĝ: 
+          du: 
+            ekspliko: "2. Pour les verbes avec -IĜ créés à partir de verbes transitifs, il ne s'agit pas d'un changement d'état mais d'une action qui a lieu par elle-même."
+            frazo-1: "La foule courait moins rapidement que le véhicule qui roulait très vite."
+            frazo-2: "Il s'est tout à coup trouvé sur la rue, tout seul."
+            frazo-3: "A quelle heure commencera la leçon ?"
+            frazo-4: "Une foule de passants circulait sur les trottoirs."
+          ekspliko: "Les verbes avec le suffixe -IĜ sont tous intransitifs, c'est-à-dire qu'ils n'ont pas besoin de complément et peuvent avoir comme signification :"
+          unu: 
+            ekspliko: "1. Passage à un nouvel état. La ou les racines montrent le résultat, le nouvel état. Dans les verbes finissant par -IĜ, l'agent de l'action n'est pas important :"
+            frazo-1: "En hiver les eaux se transforment en glace."
+            frazo-2: "Aujourd'hui le temps s'est de nouveau réchauffé."
+            frazo-3: "Elle s'est mariée avec son cousin."
+        rimarkigo-1: 
+          ekspliko-1: "Quelques-uns de ces verbes peuvent avoir un complément relié par une préposition :"
+          ekspliko-2: "D'autres verbes peuvent recevoir, dans quelques cas, le complément d'objet direct :"
+          frazo-1: "Son père est mort d'un cancer."
+          frazo-2: "Je me réjouis de votre bonheur !"
+          frazo-3: "Elle dort d'un sommeil profond."
+          frazo-4: "Elle a dansé une valse avec lui."
+        rimarkigo-2: 
+          ekspliko: "Rappelez-vous toujours que le mot \"esti\" ne demande pas l'accusatif et qu'après une préposition, on n'utilise pas l'accusatif."
+        sen-subjekto: 
+          ekspliko: "Il y a aussi les verbes sans sujet :"
+          frazo-1: "Hier il a beaucoup plu."
+          frazo-2: "Il commence à faire jour et je dois partir chez moi."
+          frazo-3: "Il a neigé très fort et il n'a pu sortir de la cabane."
+        titolo: "Transitivité des verbes"
+      vortfarado: 
+        ekspliko-1: "Vous avez certainement déjà remarqué l'extraordinaire pouvoir d'expression de l'espéranto. En fait, en utilisant des préfixes, des suffixes et des terminaisons, on peut créer de nombreux mots, quelques-uns même sans équivalents dans les langues nationales. Mais la richesse de l'espéranto ne s'arrête pas là. Par un système de réunion des racines, on peut même augmenter le vocabulaire, trouver des synonymes, accentuer ou nuancer les mots. Voici quelques exemples sur le potentiel créatif de la langue internationale :"
+        ekspliko-2: "Par des terminaisons, préfixes et suffixes :"
+        ekspliko-3: "Par la réunion de racines. On peut laisser de côté ou garder la terminaison de la première racine, toujours en observant la clarté et la bonne sonorité du mot composé :"
+        ekspliko-4: "En créant des mots à partir d'un groupe de mots"
+        rimarkigo: |-
+            Bien qu'il soit possible de construire des mots par plus de deux préfixes et/ou suffixes, il est conseillé, dans un but de clarté et d'élégance du style, d'éviter de telles constructions. Ainsi, au lieu de "belulineto", préférez "eta belulino", par exemple.
+            Notez que l'ordre des affixes peut changer la signification :
+        titolo: "Formation des mots en espéranto"
+        vortoj: 
+          antaŭbrako: avant-bras
+          balenŝipo: baleinier
+          helruĝo: "rouge clair"
+          jarcento: siècle
+          jarmilo: millénaire
+          laŭtlegi: "lire à voix haute"
+          matenruĝo: aurore
+          piediro: "marche à pied"
+          rondiro: "tour, circuit, ronde"
+          sangruĝo: "rouge sang"
+          satmanĝi: "manger à satiété"
+          spacoŝipo: "vaisseau spatial"
+          vaporŝipo: "bateau à vapeur"

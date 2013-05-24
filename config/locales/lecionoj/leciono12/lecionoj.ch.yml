@@ -1,0 +1,81 @@
+--- 
+ch: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "现在我们来听一首由Merlin乐队演唱的世界语歌曲《蓝草莓》。该乐队已录制了两张世界语歌曲专辑，并在世界各地演出。乐队由下列人员组成：Markone Froes（演唱兼吉他），Guilherme Lima（鼓手），Aldrin Gandra（电吉他）， Sergio Reberio（低音吉他）和Sergio Vieira（钢琴）。"
+        titolo: 世界语音乐
+        vortaro: 
+          aliri: 走向
+          alveni-al: 来到
+          animo: 心灵
+          arko: 弓
+          ekspliko: 下面是出现在《蓝草莓》中的生词，请注意歌词中使用的合成词。
+          frago: 草莓
+          lumo: 光明
+          pruvi: 证明
+          senfino: 无限，无尽
+          valoro: 价值
+          vero: 真实，真理，实情，实话
+          ĉielarko: 彩虹
+          ĉielo: 天，天空
+      verba_transitiveco: 
+        ekspliko: 在第二课我们已经学习了宾格表示动词直接宾语的用法，但也有一些动词不需要宾语，例如：
+        frazo-1: 发生了重要事情。
+        frazo-2: 今天我非常高兴。
+        frazo-3: 他们已经在自己的床上睡着。
+        frazo-4: 青年男女们跳了很久的舞。
+        ig: 
+          ekspliko: 以IG结尾的动词都是及物动词：
+          frazo-1: 旅行一定使你疲倦了。
+          frazo-2: 南方的阳光烤灸着他的光头。
+          frazo-3: 父亲想马上让大女儿结婚。
+        iĝ: 
+          du: 
+            ekspliko: 2.及物动词加IĜ构成的不及物动词不表示状态的变化，而是表示自身动作的变化。
+            frazo-1: 那群人比交通工具跑得慢，交通工具跑得非常快。
+            frazo-2: 他突然出现在街上，完全独自一人。
+            frazo-3: 几点开始上课？
+            frazo-4: 一群群行人走在人行道上(人行道上人潮涌动)。
+          ekspliko: 以IĜ结尾的动词都是不及物动词，也就是说它们不需要补语就足以表达清楚句子的意思了：
+          unu: 
+            ekspliko: 1.表示进入新的状态。词根表示结果，新的状态。在以IĜ结尾的动词中施动者并不重要。
+            frazo-1: 水在冬天结冰。
+            frazo-2: 今天天气又变热了。
+            frazo-3: 她和表兄结了婚。
+        rimarkigo-1: 
+          ekspliko-1: 有些动词可以通过使用介词拥有补语：
+          ekspliko-2: 在某些情况下有的动词也可以有直接宾语：
+          frazo-1: 他爸爸死于癌症。
+          frazo-2: 我为你的幸福感到非常高兴！
+          frazo-3: 她睡得很香。
+          frazo-4: 她和他跳过华尔兹舞。
+        rimarkigo-2: 
+          ekspliko: 请记住动词“esti”不需要宾格，而且这种句子中的介词后面也不用宾格。
+        sen-subjekto: 
+          ekspliko: 有些动词没有主语：
+          frazo-1: 昨天下了许多雨。
+          frazo-2: 天亮了，我得回家了。
+          frazo-3: 雪下的非常大，以至他没能走出小屋。
+        titolo: 动词的及物性
+      vortfarado: 
+        ekspliko-1: 你肯定注意到了世界语非凡的表达能力。事实上用前缀、后缀和词尾人们可以造出许多词来，有些词甚至在民族语里也找不出与之对应的意思。世界语的丰富多彩还远不止这些，使用词根合成的方法我们甚至可以扩大词汇量，找出同义词，强调或渲染词句。下面就是国际语单词可造性的几个例子：
+        ekspliko-2: 用词尾、前缀和后缀构词：
+        ekspliko-3: 用词根合成新词。为了保持合成词的语义清晰和语音优美，第一个词根的词尾可用可不用。
+        ekspliko-4: 也有一些用词根合成的词可以理解为是词组构成的词：
+        rimarkigo: "虽然也可以用两个以上的前缀或后缀派生出新的词语，但是为了语义清楚和词形优美，我们还是应该避免这种用法，所以我们宁可说“eta belulino”也不要说“belulineto”。"
+        titolo: 世界语构词法
+        vortoj: 
+          antaŭbrako: 前臂，下臂
+          balenŝipo: 捕鲸船
+          helruĝo: 淡红，浅红
+          jarcento: 一百年，世纪
+          jarmilo: 一千年
+          laŭtlegi: 大声读
+          matenruĝo: 朝霞，晨曦
+          piediro: 步行
+          rondiro: 环行
+          sangruĝo: 血红
+          satmanĝi: 吃饱
+          spacoŝipo: 宇宙飞船
+          vaporŝipo: 汽船，轮船

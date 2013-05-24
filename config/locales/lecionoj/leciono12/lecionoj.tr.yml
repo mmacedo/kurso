@@ -1,0 +1,81 @@
+--- 
+tr: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Şimdi bütün dünyada sunulan ve şu ana kadar Esperanto'ca iki albüm kaydetmiş bir Brezilya alt grubu ve Merlin tarafından icra edilen \" Bluaj Fragoj \" şarkısını dinleyin. Grup : Markone Froes (vokal ve gitar ), Guilherme Lima ( Bateri ), Aldrin Gandra ( elektro gitar ), Sérgio Ribeiro ( bas gitar ) ve Sérgio Vieira ( klavye ) topluluğundan oluşmaktadır."
+        titolo: "Esperanto 'ca müzik"
+        vortaro: 
+          aliri: "-ya gidiyorum."
+          alveni-al: "-ya doğru geliyorum"
+          animo: can
+          arko: "kemer , yay"
+          ekspliko: "Aşağıdaki \" Bluaj Fragoj \" ( Mavi Çilekler ) şarkısında yeni kelimeler vardır. Bileşik kelimelere dikkat edin."
+          frago: Çilek
+          lumo: aydınlık
+          pruvi: "ispat etmek"
+          senfino: Sonsuz
+          valoro: değer
+          vero: gerçek
+          ĉielarko: Gökkuşağı
+          ĉielo: gökyüzü
+      verba_transitiveco: 
+        ekspliko: "İkinci derste -i halin cümledeki fiilin hükmü tamamlamaya yarayan kullanışını gördünüz. Lakin bazı fiilllerin tamamlayıcıya ihtiyacı yoktur. Örneğin :"
+        frazo-1: "Önemli birşey oldu."
+        frazo-2: "Bu gün çok seviniyorum."
+        frazo-3: "Onlar, artık yataklarında uyuyorlar."
+        frazo-4: "Gençler çok dans ettiler."
+        ig: 
+          ekspliko: "IG son eki almış fiiller her zaman geçişlidir."
+          frazo-1: "Yolculuk sizi herhalde yordu."
+          frazo-2: "Güney güneşi, onun ( erkek ) çıplak başını yaktı."
+          frazo-3: "Baba daha yaşlı kızını derhal evlendirmek istiyor."
+        iĝ: 
+          du: 
+            ekspliko: "2. IĜ son ekini alarak meydana gelmiş geçişli fiillerde durum değişikliği olmaz, sadece kendiliğinden olan hareket için geçerlidir."
+            frazo-1: "Kalabalık, çok hızlı hareket eden taşıt aracından daha yavaş koşuyordu."
+            frazo-2: "O (erkek ) birdenbire, kendini sokakta yalnız buldu."
+            frazo-3: "Ders saat kaçta başlayacak?"
+            frazo-4: "Kaldırım üzerinde yaya kalabalığı yürüyordu."
+          ekspliko: "IĜ son eki olan bütün fiiller geçişlidir, yani tamamlayıcıya ihtiyacı yoktur ve şunu ifade edebilirler:"
+          unu: 
+            ekspliko: "1. Yeni duruma geçiş.Kökler neticeyi, yeni durumu gösteriyor.IĜ son ekli fiillerde harekete sebep olan olayın nedeni önemli değildir:"
+            frazo-1: "Kışın su buz tutuyor."
+            frazo-2: "Bu gün hava yeniden ısındı."
+            frazo-3: "O ( dişil ) kuzeninle evlendi."
+        rimarkigo-1: 
+          ekspliko-1: "Bu fiillerden bazılarının edata bağlı olarak tamamlayıcısı vardır."
+          ekspliko-2: "Bir diğerleri, bazı durumlarda direkt tamamlayıcı olabilirler."
+          frazo-1: "Onun ( erkek ) babası kanserden öldü."
+          frazo-2: "Senin mutluluğun için çok seviniyorum."
+          frazo-3: "O ( dişil ) derin uyku uyuyor."
+          frazo-4: "O ( dişil ) onunla ( erkek ) vals yaptı."
+        rimarkigo-2: 
+          ekspliko: "Hatırlayın ki, \"esti \" - olmak kelimesi -i hali almaz ve edattan sonra -i hali kullanmayın."
+        sen-subjekto: 
+          ekspliko: "Öznesi olmayan fiillerde mevcuttur:"
+          frazo-1: "Dün çok yağmur yağdı."
+          frazo-2: "Güneş doğuyor ve benim eve gitmem lazım."
+          frazo-3: "Çok kuvvetli kar yağdı ve o (erkek ) kulübeden çıkamadı."
+        titolo: "Fiillerin Geçişliliği"
+      vortfarado: 
+        ekspliko-1: "Herhalde Esperanto'nun sıradışı ifade imkanını fark ettiniz. Aslında, ön takı, son takı ve takı kullanarak, birçok kelime yapılabilir, ki bunlardan bazılarını ana dilinizde karşılığı dahi olmayabilir.Fakat Esperanto'nun zenginliği bununla bitmiyor. Kökleri birleştirme sistemi ile eş anlamlı kelimeler bularak veya kelimelerin nüanslarını belirterek, sözlük çoğaltılabilir:"
+        ekspliko-2: "Son ekler vasıtasıyle, ön ve son ekler :"
+        ekspliko-3: "Kökleri birleştirerek, bileşik cümlenin açıklığı ve inceliği açısından birinci kökün veya \"hayır \" eki atlatılabilir:"
+        ekspliko-4: "Bir grup kelimeden, kelime üretmek:"
+        rimarkigo: "Her ne kadar ikiden fazla ön ve son eklerle kelime türetilse de, açıklık ve incelik açısından bu tür yapımlardan kaçınılmalıdır. Örneğin: \" Güzelcik \" yerine \" Minik güzel \" ' i tercih edin."
+        titolo: "Esperanto'da kelime yapma"
+        vortoj: 
+          antaŭbrako: "elin ön kısmı"
+          balenŝipo: "balina avcı gemisi"
+          helruĝo: "açık kırmızı ( renk )"
+          jarcento: "yüz yıl"
+          jarmilo: "bin yıl"
+          laŭtlegi: "yüksek sesle okuyorum"
+          matenruĝo: "sabah kızıllığı"
+          piediro: "yaya yürümek"
+          rondiro: "dairesel dolaşımlar"
+          sangruĝo: "kan kırmızısı"
+          satmanĝi: "doyana kadar yiyiyorum."
+          spacoŝipo: "uzay gemisi"
+          vaporŝipo: "buharlı gemi"

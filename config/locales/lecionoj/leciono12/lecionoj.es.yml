@@ -1,0 +1,81 @@
+--- 
+es: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Escuhe ahora una canción en Esperanto, \"Bluaj Fragoj\", interpretada por Merlín, un grupo brasileño de música pop que ya grabó dos discos en el idioma Internacional y se presentan en todo el mundo. El grupo lo conforman Markone Froes (voz y guitarra), Guilherme Lima (batería), Aldrin Gandra (guitarra eléctrica), Sérgio Ribeiro (bajos) y Sérgio Vieira (teclados)."
+        titolo: "Música en Esperanto"
+        vortaro: 
+          aliri: "Ir hacia"
+          alveni-al: "Llegar a"
+          animo: Alma
+          arko: Arco
+          ekspliko: "Abajo hay una lista de palabras nuevas que aparecen en la canción \"Bluaj Fragoj\". Note las palabras construidas usadas a lo largo de la canción."
+          frago: Fresa
+          lumo: Luz
+          pruvi: "Probar, demostrar"
+          senfino: Infinito
+          valoro: Valor
+          vero: Verdad
+          ĉielarko: Arcoiris
+          ĉielo: Cielo
+      verba_transitiveco: 
+        ekspliko: "Vimos en la segunda lección el uso del acusativo para indicar el objeto directo del verbo. Sin embargo, hay verbos que no necesitan complemento. Por ejemplo:"
+        frazo-1: "Sucedió algo importante."
+        frazo-2: "Disfruto mucho hoy."
+        frazo-3: "Ellos ya duermen en sus camas."
+        frazo-4: "Los jóvenes bailaron mucho."
+        ig: 
+          ekspliko: "Los verbos con el sufijo IG son siempre transitivos:"
+          frazo-1: "El viaje ciertamente lo cansó."
+          frazo-2: "El sol meridional quema su cabeza desnuda."
+          frazo-3: "El padre quiere casar inmediatamente a la hija más vieja."
+        iĝ: 
+          du: 
+            ekspliko: "2. En los verbos con IĜ creados a partir de verbos transitivos no se trata de un cambio de estado, sino de una acción que sucede por si misma."
+            frazo-1: "El conjunto corrió menos rápidamente que el carro, el cual rodó muy rápidamente."
+            frazo-2: "Él se repentinamente encontró en la calle, completamente solo."
+            frazo-3: "¿A qué hora comenzará la lección?"
+            frazo-4: "Cantidades de caminantes se movieron sobre las aceras."
+          ekspliko: "Los verbos con el sufijo IĜ son todos intransitivos, es decir, no necesitan complemento, y pueden significar:"
+          unu: 
+            ekspliko: "1. Transición a un nuevo estado. La(s) raíz(es) muestran el resultado, el nuevo estado. En los verbos que terminan en IĜ no importa el causante de la acción:"
+            frazo-1: "En invierno las aguas se hielan."
+            frazo-2: "Hoy el tiempo nuevamente se calentó."
+            frazo-3: "Ella se casó con su primo."
+        rimarkigo-1: 
+          ekspliko-1: "Algunos de esos verbos pueden tener complemento mediante una preposición:"
+          ekspliko-2: "Otros pueden recibir, en algunos casos, el objeto directo:"
+          frazo-1: "Su padre murió por cáncer."
+          frazo-2: "¡Me alegro mucho por tu felicidad!"
+          frazo-3: "Ella duerme un profundo sueño."
+          frazo-4: "Ella bailó un vals con él."
+        rimarkigo-2: 
+          ekspliko: "Recuerde siempre que la palabra \"esti\" no postula el acusativo, y que éste no se usa después de una preposición."
+        sen-subjekto: 
+          ekspliko: "Hay todavía verbos sin sujeto:"
+          frazo-1: "Ayer llovió mucho."
+          frazo-2: "Se hace de día, y debo irme a casa."
+          frazo-3: "Nevó muy fuertemente, y ellos no pudieron salir de la cabaña."
+        titolo: "Transitividad verbal"
+      vortfarado: 
+        ekspliko-1: "Ciertamente ya habrá notado la extraordinaria capacidad expresiva del Esperanto. De hecho, usando prefijos, sufijos y terminaciones se pueden crear muchas palabras, algunas de ellas sin traducción directa a los idiomas nacionales. Pero la riqueza del Esperanto no termina allí. Mediante un sistema de combinación de raíces se puede incluso aumentar el vocabulario, encontrar sinónimos, enfatizar o anular palabras. He aquí algunos ejemplos de la posibilidad de crear palabras en el Idioma Internacional:"
+        ekspliko-2: "Mediante terminaciones, prefijos y sufijos:"
+        ekspliko-3: "Mediante la combinación de raíces. La terminación de una raíz puede obviarse o no, siempre conservando la claridad y sonoridad de la palabra construida:"
+        ekspliko-4: "Creando palabras a partir de un grupo de palabras:"
+        rimarkigo: "Aunque es posible construir palabras con más de dos prefijos y/o sufijos, se recomienda, para favorecer la claridad y elegancia, evitar ese tipo de construcciones. Así, en lugar de \"belulineto\" se prefiere \"eta belulino\", por ejemplo. El orden de los afijos tiene un efecto directo sobre el sentido:"
+        titolo: "Construcción de Palabras en Esperanto"
+        vortoj: 
+          antaŭbrako: antebrazo
+          balenŝipo: "Barco ballenero"
+          helruĝo: "rojo claro"
+          jarcento: siglo
+          jarmilo: milenio
+          laŭtlegi: "leer en voz alta"
+          matenruĝo: "rojo matutino"
+          piediro: "viaje a pie"
+          rondiro: ronda
+          sangruĝo: "rojo sangre"
+          satmanĝi: "comer hasta saciarse"
+          spacoŝipo: "Nave espacial"
+          vaporŝipo: "Barco a vapor"

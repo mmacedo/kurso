@@ -1,0 +1,97 @@
+--- 
+sv: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: |-
+            Lyssna nu på en sång på Esperanto, "Bluaj Fragoj" (Blå smultron) sjungen av Merlin, brasiliansk 
+            popmusikensemble, som redan spelat in två album på Esperanto och uppträder över hela 
+            världen. Gruppens medlemmar är Markone Fores (sång och gitarr), Guilherme Lima (trummor), 
+            Aldrin Gandra (elgitarr), Sérgio Ribeiro (basgitarr) och Sergio Vieira (keyboard).
+        titolo: Esperantomusik
+        vortaro: 
+          aliri: "gå fram till, närma sig"
+          alveni-al: "komma fram till"
+          animo: själ
+          arko: båge
+          ekspliko: "Nedan finns en lista med nya ord som förekommer i sången 'Bluaj Fragoj'. Var speciellt uppmärksam på de sammansatta ord som används i sången."
+          frago: smultron
+          lumo: ljus
+          pruvi: bevisa
+          senfino: oändlighet
+          valoro: värde
+          vero: sanning
+          ĉielarko: regnbåge
+          ĉielo: himmel
+      verba_transitiveco: 
+        ekspliko: |-
+            Vi såg i lektion två hur man använde ackusativ för att ange verbets direkta objekt. Det finns 
+            dock verb som inte behöver något komplement. Till exempel:
+        frazo-1: "Det hände något viktigt."
+        frazo-2: "Jag är mycket glad idag."
+        frazo-3: "De sover redan i sina sängar."
+        frazo-4: "Ungdomarna dansade mycket."
+        ig: 
+          ekspliko: "Verb som skapats med suffixet IG är alltid transitiva:"
+          frazo-1: "Resan tröttade helt säkert ut dig."
+          frazo-2: "Den sydliga solen bränner (sveder) hans kropp."
+          frazo-3: "Fadern vill omedelbart gifta bort (göra till hustru) den äldsta dottern."
+        iĝ: 
+          du: 
+            ekspliko: "2. Transitiva verb som gjorts icketransitiva med hjälp av suffixet IĜ beskriver inte tillståndsändring, utan en verksamhet som inträffar av sig självt."
+            frazo-1: "Massan sprang långsammare än fordonet, som rullade mycket snabbt av sig självt."
+            frazo-2: "Plötsligt befann han sig på gatan, helt ensam."
+            frazo-3: "När (vid vilken tid) kommer lektionen att börja."
+            frazo-4: "Massor av passerande rörde sig på trottoarerna."
+          ekspliko: "Alla verb som skapats med hjälp av suffixet IĜ är icketransitiva, det vill säga, de behöver inte ett komplement och kan betyda:"
+          unu: 
+            ekspliko: "1. Övergång till nytt tillstånd.  Roten /rötterna visar resultatet, det nya tillståndet. För verb skapade med -IØ har orsaken ingen betydelse."
+            frazo-1: "Under vintern fryser vattnen."
+            frazo-2: "I dag blev vädret åter varmt."
+            frazo-3: "Hon gifte sig med sin kusin."
+        rimarkigo-1: 
+          ekspliko-1: "Några av dessa verb kan ha ett komplement i form av en preposition:"
+          ekspliko-2: "Andra , i några fall, kommer att  få ändelsen för direkta objektet:"
+          frazo-1: "Hans far dog på grund av kancer."
+          frazo-2: "Jag gläds mycket över din lycka!"
+          frazo-3: "Hon sover en djup sömn."
+          frazo-4: "Hon dansade vals med honom."
+        rimarkigo-2: 
+          ekspliko: "Kom alltid ihåg att verbet 'esti' inte kräver ackusativ, och att man inte använder ackusativ efter preposition."
+        sen-subjekto: 
+          ekspliko: "Det finns menigar  utan subjekt (formelt subjekt):"
+          frazo-1: "I går regnade det mycket."
+          frazo-2: "Det gryr, och jag måste börja gå hem."
+          frazo-3: "Det snöade kraftigt, och han kunde inte gå ut ur hyddan."
+        titolo: "Transitiva verb (verksamheten överförs på objektet i satsen)"
+      vortfarado: 
+        ekspliko-1: |-
+            Du har säkert redan lagt märke till esperantos utomordentliga uttrycksförmåga. Faktum är, 
+            genom att använda prefix, suffix och ändelser kan man skapa många ord, några till och med 
+            utan direkt motsvarighet i de nationella språken.  Men esperantos rikedom slutar inte där. 
+            Genom ett system för sammankoppling av ordstammar (rötter) kan  man  till och med utöka 
+            ordlistan, finna synonymer, understryka eller nyansera orden. Här några exempel på det 
+            internationella språkets möjligheter att bilda nya ord.
+        ekspliko-2: "Med ändelser, prefix (förstavelser) och suffix (efterstavelser):"
+        ekspliko-3: "Genom sammansättning av ordstammar (rötter).  Man kan ta med eller utesluta  första ordets ändelse under förutsättning att man beaktar tydlighets- och uttalsaspekterna:"
+        ekspliko-4: "Det är tillåtet att skapa ett ord av en ordgrupp, här några exempel:"
+        rimarkigo: |-
+            Även om det är möjligt att konstruera ord med hjälp av prefix och flera suffix, bör man, till 
+            förmån för tydlighet och elegans, undvika sådana konstruktioner. Således, istället för ordet 
+            'bel-ul-in-et-o' är till exempel orden 'et-a  bel-ul-ino' att föredra.
+            Affixens turordning har direkt påverkan på ordets innebörd:
+        titolo: "Ordbildning på esperanto"
+        vortoj: 
+          antaŭbrako: "underarm (framförarm)"
+          balenŝipo: valfångare
+          helruĝo: ljusrött
+          jarcento: ärhundrade
+          jarmilo: årtusende
+          laŭtlegi: "läsa högt (volymmässigt)  Högläsning = voæ-leg-ad-o"
+          matenruĝo: "morgonrodnad (morgonrött)"
+          piediro: "fotmarsch (fotgång)"
+          rondiro: "rundgång (rundtur)"
+          sangruĝo: blodrött
+          satmanĝi: "äta sig mätt"
+          spacoŝipo: rymdskepp
+          vaporŝipo: ångbåt

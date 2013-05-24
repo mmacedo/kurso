@@ -1,0 +1,83 @@
+--- 
+is: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Hlustaðu nú á vísnasöng á esperanto, \"Blá jarðarber\", sungið af Merlin, brasilískri popphljómsveit, sem þegar hefur gefið út tvö albúm á alþjóðamálinu og kynnt þau víða um heim.  Hljómsveitina skipa Markone Froes (söngur, gítar), Guilherme Lima (slagverk), Aldrin Gandra (rafmagnsgítar), Sérgio Ribeiro (bassagítar) og Sérgio Vieira (hljómborð)."
+        titolo: Esperanto-tónlist
+        vortaro: 
+          aliri: "fara til"
+          alveni-al: "koma til"
+          animo: sál
+          arko: bogi
+          ekspliko: "Hér á eftir er listi yfir ný orð sem koma fyrir í söngnum \"Bluaj Fragoj\" (Blá jarðarber).  Taktu eftir samsettu orðunum."
+          frago: jarðarber
+          lumo: ljós
+          pruvi: sanna
+          senfino: óendanleiki
+          valoro: gildi
+          vero: sannleikur
+          ĉielarko: regnbogi
+          ĉielo: himinn
+      verba_transitiveco: 
+        ekspliko: "Við sáum, í annarri lexíu. hvernig andlagsfall (þolfall) er notað til að sýna beint andlag sagnar.  Hins vegar eru sagnir sem ekki þarfnast andlags. Til dæmis:"
+        frazo-1: "Eitthvað alvarlegt gerðist."
+        frazo-2: "Ég gleðst mjög í dag."
+        frazo-3: "Þau sofa þegar í rúmum sínum."
+        frazo-4: "Unglingarnir dönsuðu mikið."
+        ig: 
+          ekspliko: "Sagnir með viðskeytinu IG eru alltaf áhrifssagnir."
+          frazo-1: "Ferðin hefur áreiðanlega þreytt þig."
+          frazo-2: "Sólin úr suðri brenndi nakið höfuð hans."
+          frazo-3: "Faðirinn vill strax gifta eldri dótturina."
+        iĝ: 
+          du: 
+            ekspliko: "2. Ef viðskeytinu IĜ er bætt við áhrifssögn, táknar hún ekki breytingu ástands, heldur eitthvað sem gerist af sjálfu sér."
+            frazo-1: "Fjöldinn hljóp hægar en farartækið sem rúllaði mjög hratt."
+            frazo-2: "Hann var allt í einu staddur á götunni, aleinn."
+            frazo-3: "Klukkan hvað byrjar kennslustundin?"
+            frazo-4: "Fjöldi gangandi fólks hreyfðist á gangstéttunum."
+          ekspliko: "Allar sagnir, sem fengið hafa viðskeytið IĜ, eru áhrifslausar, þarfnast ekki andlags, og geta þýtt:"
+          unu: 
+            ekspliko: "1. Breyting á ástandi.  Stofn(ar) sýnir það sem gerist, nýtt ásigkomulag.  Þegar sagnir enda á IĜ skiptir gerandinn ekki máli."
+            frazo-1: "Á veturna frjósa vötnin."
+            frazo-2: "Í dag hlýnaði veðrið á nýjan leik."
+            frazo-3: "Hún giftist  frænda sínum."
+        rimarkigo-1: 
+          ekspliko-1: "Nokkrar þessara sagna geta tekið með sér forsetningarlið:"
+          ekspliko-2: "Aðrar geta stundum tekið með sér beint andlag:"
+          frazo-1: "Faðir hans dó úr krabbameini."
+          frazo-2: "Ég gleðst mjög vegna velgengni þinnar!"
+          frazo-3: "Hún sefur djúpum svefni."
+          frazo-4: "Hún dansaði vals við hann."
+        rimarkigo-2: 
+          ekspliko: "Gleymdu aldrei að sögnin \"esti\" tekur ekki með sér andlag og eftir forsetningu er ekki notað þolfall."
+        sen-subjekto: 
+          ekspliko: "Ennfremur eru sagnir án frumlags:"
+          frazo-1: "Í gær rigndi mikið."
+          frazo-2: "Það dagar, og ég verð að leggja af stað heim."
+          frazo-3: "(Það) snjóaði mjög mikið og hann gat ekki farið út úr kofanum."
+        titolo: "Áhrifssagnir og áhrifslausar sagnir"
+      vortfarado: 
+        ekspliko-1: "Þú hefur áreiðanlega tekið eftir miklum tjáningarmöguleikum á esperanto.  Hægt er með forskeytum, viðskeytum og endingum að mynda mörg orð.  Sum þeirra er erfitt að þýða beint á móðurmálið.  En þar með er ekki öll sagan sögð.  Með samsetningum er jafnvel hægt að auðga orðaforðann, finna samheiti, leggja áherslu á orðin eða ná fram sérstökum blæbrigðum.  Hér eru nokkur dæmi um sköpunarmátt alþjóðamálsins:"
+        ekspliko-2: "Með endingum, forskeytum og viðskeytum:"
+        ekspliko-3: "Með samsetningu orðstofna.  Endingu fyrra orðsins má sleppa ef vill, en gæta ávallt að skýrleika og hljómfegurð hins samsetta orðs:"
+        ekspliko-4: "Samsetning úr nokkrum orðum:"
+        rimarkigo: |-
+            Þó að mynda megi orð með meira en tveimur forskeytum og/eða viðskeytum, er ráðlegra að sniðganga það til að ná fram meiri skýrleika og betri stíl.  Í stað "belulineto" fer betur á að segja "eta belulino", svo dæmi sé tekið.
+            Röð aðskeyta í sama orði hefur bein áhrif á merkingu þeirra:
+        titolo: "Orðmyndun í esperanto"
+        vortoj: 
+          antaŭbrako: framhandleggur
+          balenŝipo: hval(veiði)skip
+          helruĝo: ljósroði
+          jarcento: öld
+          jarmilo: "þúsöld, árþúsund, teinöld"
+          laŭtlegi: "lesa upphátt"
+          matenruĝo: morgunroði
+          piediro: (fót)ganga
+          rondiro: hringganga
+          sangruĝo: blóðroði
+          satmanĝi: "borða sig saddan"
+          spacoŝipo: geimskip
+          vaporŝipo: gufuskip

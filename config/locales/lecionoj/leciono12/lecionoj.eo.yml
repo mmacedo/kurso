@@ -1,0 +1,84 @@
+--- 
+eo: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Aŭdu nun kanton en Esperanto, \"Bluaj Fragoj\", kantatan de  Merlin, brazila popmuzika ensemblo, kiu jam registris du albumojn en la internacia lingvo kaj prezentadas sin tra la tuta mondo. La grupon formas Markone Froes (voĉo kaj gitaro), Guilherme Lima (drumoj), Aldrin Gandra (elektra gitaro), Sérgio Ribeiro (basgitaro) kaj Sérgio Vieira (klavaro)."
+        titolo: "Esperanta muziko"
+        vortaro: 
+          aliri: Aliri
+          alveni-al: "Alveni al"
+          animo: Animo
+          arko: Arko
+          ekspliko: "Ĉi-sube estas listo de la novaj vortoj, kiuj aperas en la kanto \"Bluaj Fragoj\". Atentu pri la kunmetitaj vortoj, uzataj laŭlonge de la kanto."
+          frago: Frago
+          lumo: Lumo
+          pruvi: Pruvi
+          senfino: Senfino
+          valoro: Valoro
+          vero: Vero
+          ĉielarko: Ĉielarko
+          ĉielo: Ĉielo
+      verba_transitiveco: 
+        ekspliko: "Ni vidis en la dua leciono la uzadon de akuzativo por montri la rektan objekton de verbo. Estas tamen verboj, kiuj ne bezonas komplementon. Ekzemple:"
+        frazo-1: "Okazis io grava."
+        frazo-2: "Mi tre ĝojas hodiaŭ."
+        frazo-3: "Ili jam dormas en siaj litoj."
+        frazo-4: "La gejunuloj multe dancis."
+        ig: 
+          ekspliko: "La verboj kun la sufikso IG estas ĉiam transitivaj:"
+          frazo-1: "La vojaĝo certe vin lacigis."
+          frazo-2: "La suda suno bruligas lian nudan kapon."
+          frazo-3: "La patro volas tuj edzinigi la pli aĝan filinon."
+        iĝ: 
+          du: 
+            ekspliko: "2. En la verboj kun IĜ kreitaj el transitivaj verboj ne temas pri statoŝanĝiĝo, sed pri ago kiu okazas per si mem."
+            frazo-1: "La amaso kuris malpli rapide ol la veturilo, kiu ruliĝis tre rapide."
+            frazo-2: "Li subite troviĝis sur la strato, tute sola."
+            frazo-3: "Je kioma horo komenciĝos la leciono?"
+            frazo-4: "Amasoj da pasantoj moviĝis sur la trotuaroj."
+          ekspliko: "La verboj kun sufikso IĜ estas ĉiuj netransitivaj, tio estas, ne bezonas komplementon, kaj povas signifi:"
+          unu: 
+            ekspliko: "1. Transiron al nova stato. La radiko(j) montras la rezulton, la novan staton. En la verboj finiĝantaj per IĜ la agokaŭzanto ne gravas:"
+            frazo-1: "En vintro la akvoj glaciiĝas."
+            frazo-2: "Hodiaŭ la vetero denove varmiĝis."
+            frazo-3: "Ŝi edziniĝis kun sia kuzo."
+        rimarkigo-1: 
+          ekspliko-1: "Kelkaj el tiuj verboj povas havi komplementon per prepozicio:"
+          ekspliko-2: "Aliaj povos ricevi, en kelkaj kazoj, la rektan objekton:"
+          frazo-1: "Lia patro mortis pro kancero."
+          frazo-2: "Mi tre ĝojas pri via feliĉo!"
+          frazo-3: "Ŝi dormas profundan dormon."
+          frazo-4: "Ŝi dancis valson kun li."
+        rimarkigo-2: 
+          ekspliko: "Memoru ĉiam ke la vorto \"esti\" ne postulas akuzativon, kaj ke post prepozicio oni ne uzu la akuzativon."
+        sen-subjekto: 
+          ekspliko: "Estas ankoraŭ la verboj sen subjekto:"
+          frazo-1: "Hieraŭ multe pluvis."
+          frazo-2: "Tagiĝas, kaj mi devas ekiri hejmen."
+          frazo-3: "Neĝis tre forte, kaj li ne povis eliri el la kabano."
+        titolo: "Verba transitiveco"
+      vortfarado: 
+        ekspliko-1: "Vi certe jam rimarkis la eksterordinaran esprimkapablon per Esperanto. Fakte, uzante prefiksojn, sufiksojn kaj finaĵojn, oni povas krei multajn vortojn, kelkajn eĉ sen rekta korespondanto en la naciaj lingvoj. Sed la riĉeco de Esperanto ne finiĝas tie. Per sistemo de kunmetado de radikoj oni povas eĉ pligrandigi la vortaron, trovi sinonimojn, emfazi aŭ nuancigi la vortojn. Jen kelkaj ekzemploj pri la vorta kreebleco en la internacia lingvo:"
+        ekspliko-2: "Per finaĵoj, prefiksoj kaj sufiksoj:"
+        ekspliko-3: "Per kunmetado de radikoj. La finaĵon de la unua radiko oni povas preterlasi aŭ ne, ĉiam observante la klarecon kaj belsonecon de la kunmetita vorto:"
+        ekspliko-4: "Kreante vortojn el grupo da vortoj:"
+        rimarkigo: |-
+            Kvankam eblas konstrui vortojn per pli ol du prefiksoj kaj/aŭ sufiksoj, oni rekomendas, favore al  klareco kaj eleganteco, eviti tiajn konstruojn. Tiel, anstataŭ "belulineto" preferu "eta belulino", ekzemple. 
+            
+            La ordo de la afiksoj havas rektan influon en la senco:
+        titolo: "Vortfarado en Esperanto"
+        vortoj: 
+          antaŭbrako: antaŭbrako
+          balenŝipo: balenŝipo
+          helruĝo: helruĝo
+          jarcento: jarcento
+          jarmilo: jarmilo
+          laŭtlegi: laŭtlegi
+          matenruĝo: matenruĝo
+          piediro: piediro
+          rondiro: rondiro
+          sangruĝo: sangruĝo
+          satmanĝi: satmanĝi
+          spacoŝipo: spacoŝipo
+          vaporŝipo: vaporŝipo

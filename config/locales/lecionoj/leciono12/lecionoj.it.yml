@@ -1,0 +1,81 @@
+--- 
+it: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Ora ascolta in esperanto \"Bluaj Fragoj\", cantata da Merlin, un complesso brasiliano di musica pop, che ha già inciso due album nella lingua internazionale e che si esibisce in tutto il mondo. Il gruppo è formato da Markone Froes (voce e chitarra), Guilherme Lima (batteria), Aldrin Gandra (chitarra elettrica), Sérgio Ribeiro (basso) e Sérgio Vieira (tastiere)."
+        titolo: "Musica in esperanto"
+        vortaro: 
+          aliri: Accedere
+          alveni-al: "Arrivare a, giungere a"
+          animo: "[L'] animo"
+          arko: "[Un] arco"
+          ekspliko: "Qui sotto trovi un elenco di parole nuove che compaiono nella canzone \"Bluaj Fragoj\". Nota le parole composte usate nel testo della canzone."
+          frago: "[Una] fragola"
+          lumo: "[Una] luce"
+          pruvi: Provare
+          senfino: "[L'] infinito"
+          valoro: "[Un / II] valore"
+          vero: "[Una / La] verità"
+          ĉielarko: "[Un] arcobaleno"
+          ĉielo: "[Il] cielo"
+      verba_transitiveco: 
+        ekspliko: "Nella lezione 2 abbiamo visto l'uso dell'accusativo per denotare il complemento oggetto (o: \"oggetto diretto\") del verbo. Tuttavia, ci sono verbi che non richiedono un complemento. Ad es.:"
+        frazo-1: "Accadde qualcosa di importante."
+        frazo-2: "Oggi [io] sono molto contento."
+        frazo-3: "[Essi] già dormono nei loro letti."
+        frazo-4: "I giovani danzarono molto."
+        ig: 
+          ekspliko: "I verbi con il suffisso -ig sono sempre transitivi:"
+          frazo-1: "Il viaggio vi ha certamente stancati."
+          frazo-2: "Il sole del sud gli scotta il capo nudo."
+          frazo-3: "Il padre vuole far sposare subito la figlia più in età."
+        iĝ: 
+          du: 
+            ekspliko: "2. I verbi con il suffisso -iĝ derivati da verbi transitivi indicano una azione che accade di per sé (piuttosto che un cambiamento di stato)."
+            frazo-1: "La folla correva meno velocemente del veicolo, che procedeva (letteralmente: rotolava) molto rapidamente."
+            frazo-2: "[Egli] improvvisamente si trovò sulla via, completamente solo."
+            frazo-3: "A che ora inizierà la lezione?"
+            frazo-4: "Folle di passanti si muovevano sui marciapiedi."
+          ekspliko: "I verbi con il suffisso -iĝ sono tutti intransitivi; cioè, non richiedono un complemento oggetto e possono denotare vari aspetti:"
+          unu: 
+            ekspliko: "1. La transizione ad un nuovo stato. La radice denota il nuovo stato risultante, mentre non è rilevante chi - o che cosa - sia causa della transizione:"
+            frazo-1: "In inverno l'acqua [si] ghiaccia."
+            frazo-2: "Oggi il tempo si è nuovamente riscaldato."
+            frazo-3: "Lei si sposò con suo cugino."
+        rimarkigo-1: 
+          ekspliko-1: "Alcuni di questi verbi possono avere un complemento retto da una preposizione:"
+          ekspliko-2: "Altri possono - in casi particolari - reggere il complemento oggetto (\"oggetto interno\"):"
+          frazo-1: "Suo padre morì di cancro."
+          frazo-2: "Sono molto contento della tua felicità!"
+          frazo-3: "[Lei] dorme un sonno profondo."
+          frazo-4: "[Lei] danzò un valzer con lui."
+        rimarkigo-2: 
+          ekspliko: "Ricorda che il verbo \"essere\" non richiede mai l'accusativo e che dopo una preposizione non si usa l'accusativo."
+        sen-subjekto: 
+          ekspliko: "Esistono anche verbi senza soggetto:"
+          frazo-1: "Ieri piovve molto."
+          frazo-2: "Si fa giorno, e [io] devo avviarmi verso casa."
+          frazo-3: "Nevicava molto forte, e [lui] non poteva uscire dalla capanna."
+        titolo: "Transitività dei verbi"
+      vortfarado: 
+        ekspliko-1: "Ti sarai certo già reso conto della straordinaria capacità espressiva dell'esperanto. In effetti, usando prefissi, suffissi e terminazioni, si possono creare molte parole, talune persino senza diretto equivalente nelle lingue tradizionali. Ma la ricchezza dell'esperanto non finisce qui. Unendo più radici, si può ampliare ulteriormente il lessico, formare sinonimi, enfatizzare o sfumare i significati. Ecco alcuni esempi di questa possibilità di creare nuove parole nella lingua internazionale:"
+        ekspliko-2: "1. Per mezzo di terminazioni, prefissi e suffissi:"
+        ekspliko-3: "2. Unendo più radici. La terminazione della prima radice può rimanere, oppure scomparire: il criterio decisivo è la chiarezza e l'eufonia della parola risultante:"
+        ekspliko-4: "3. A partire da una locuzione (gruppo di più parole):"
+        rimarkigo: "Benché sia possibile costruire parole per mezzo di più di due suffissi (o prefissi), si preferisce evitare tali accostamenti, per esigenze di chiarezza e d'eleganza. Così, ad esempio, anziché \"belulineto\" si preferirà \"eta belulino\". L'ordine degli affissi influenza direttamente il significato della parola composta:"
+        titolo: "Creazione di parole in esperanto"
+        vortoj: 
+          antaŭbrako: "[un] avambraccio"
+          balenŝipo: "[una] nave baleniera"
+          helruĝo: "rosso chiaro"
+          jarcento: "[un] secolo"
+          jarmilo: "[un] millennio"
+          laŭtlegi: "leggere ad alta voce"
+          matenruĝo: "rosso del mattino"
+          piediro: "l'andare a piedi, [una] camminata"
+          rondiro: "il girare in tondo"
+          sangruĝo: "rosso sangue"
+          satmanĝi: "mangiare a sazietà"
+          spacoŝipo: "[una] nave spaziale"
+          vaporŝipo: "[una] nave a vapore"

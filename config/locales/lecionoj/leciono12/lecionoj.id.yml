@@ -1,0 +1,81 @@
+--- 
+id: 
+  lecionoj: 
+    leciono12: 
+      muziko: 
+        ekspliko: "Sekarang, mendengarkanlah nyanyian dalam bahasa Esperanto, \"Bluaj Fragoj\" (Buah Arbei Biru), menyanyikan oleh Merlin, para pemain pop musik dari Brasil, yg telah merekam dua album dalam bahasa dunia, Esperanto, dan yg bermain keliling dunia.Kelompok ini: Markone Froes (suara dan gitar), Guilherme Lima (drum), Aldrin Gandra (gitar elektronic), Sergio Ribeiro (gitar bas) dan Sergio Vieira (papan tuts)."
+        titolo: "Musik bahasa Esperanto"
+        vortaro: 
+          aliri: Mendekati
+          alveni-al: Datang
+          animo: Jiwa
+          arko: Busur
+          ekspliko: "Di bawah ada kata baru dari nyanyian \"Bluaj Fragoj\" (Buah Arbei Biru).  Perhatikanlah kata-kata gabungan yg dipakai dalam nyanyian itu:"
+          frago: "Buah arbei"
+          lumo: Penerangan
+          pruvi: Membuktikan
+          senfino: "Tak terbatas,  tanpa akhir"
+          valoro: Harga
+          vero: "Kenyataan,  kebenaran"
+          ĉielarko: Pelangi
+          ĉielo: "Langit,  surga"
+      verba_transitiveco: 
+        ekspliko: "Dalam pelajaran kedua, kita telah mempelajari mempergunakan akusatip untuk menunjukkan obyek kata kerja.  Tetapi, ada kata kerja yg tidak memerlukan pelengkap.  Contoh:"
+        frazo-1: "Sesuatu yg penting terjadi."
+        frazo-2: "Saya sangat bergembira hari ini."
+        frazo-3: "Mereka sudah tidur di tempat tidur mereka."
+        frazo-4: "Pemuda-pemudi itu banyak berdansa (lalu)."
+        ig: 
+          ekspliko: "Kata kerja dengan akhiran \"IG\" selalu berpelengkap:"
+          frazo-1: "Berpergian itu sungguh melelahkan anda."
+          frazo-2: "Matahari selatan membakar kepalanya yang tidak bertopi (dan tak berambut?!)"
+          frazo-3: "Bapak itu mau mengawinkan, dengan segera, anak perempuannya yg lebih tua"
+        iĝ: 
+          du: 
+            ekspliko: "2. Dalam katakerja dgn akhiran \"iĝ\" dibuat dari kata kerja berpelengkap, bukan ada perubahan keadaan, tetapi tindakan (aksi) yg terdapat dengan sendirinya."
+            frazo-1: "Orang berduyun itu berlari lambat dari kendaraan itu, yang bergerak cepat sekali."
+            frazo-2: "Dia tiba-tiba mendapati dirinya dalam jalan itu, sendirian."
+            frazo-3: "Jam berapa pelajaran itu akan dimulai?"
+            frazo-4: "Pelajan berduyun berjalan di trotuar itu."
+          ekspliko: "Semua kata kerja dgn akhiran \"iĝ\" berpelengkap;  kata kerja itu tidak menghendaki pelengkap, dan  dapat bermaksud:"
+          unu: 
+            ekspliko: "1. Peralihan ke keadaan baru.  Kata dasar menunjukkan hasil, keadaan barunya.  Dengan kaka kerja yang berakhir dengan \"IĜ\", pelaku tindakan (aksi) tidak penting."
+            frazo-1: "Pada musim dingin, air membeku (menjadi es)."
+            frazo-2: "Hari ini, cuaca mulai hangat lagi (menjadi hangat)."
+            frazo-3: "Dia kawin (beristeri) dengan sepupunya."
+        rimarkigo-1: 
+          ekspliko-1: "Beberapa kata kerja itu dapat ditambahkan dgn memakai kata depan."
+          ekspliko-2: "Kata kerja lain kadang-kadang menghendaki obyek langsung:"
+          frazo-1: "Ayahnya meninggal dunia karena kanker."
+          frazo-2: "Saya sangat bergembira tentang kesenangan anda."
+          frazo-3: "Dia (perempuan) tidur nyenyak."
+          frazo-4: "Dia (peremopuan) berdansa irama wals dengannya (laki-laki)."
+        rimarkigo-2: 
+          ekspliko: "Jangan lupa, bahwa kata kerja \"esti\" tidak menghendaki akusatip.  Jangan memakai akhiran akusatip sesudah kata depan."
+        sen-subjekto: 
+          ekspliko: "Masih ada kata kerja tanpa kata pokok:"
+          frazo-1: "Kemarin, hujan terus-menerus."
+          frazo-2: "Sedang dinihari, dan saya harus pulang."
+          frazo-3: "Salju turun dengan keras, dan dia tidak dapat meninggalkan pondoknya."
+        titolo: "Katakerja Pelengkap"
+      vortfarado: 
+        ekspliko-1: "Anda sungguh melihat kemungkinan yang luar biasa dalam bahasa Esperanto.  Sebetulnya, dengan memakai awalan dan akhiran, kita dapat melakukan banyak kata, beberapa tanpa terjemahan langsung dalam bahasa Indonesia atau bahasa yang lain.  Tetapi, kekayaan bahasa Esperanto lebih besar.  Dengan menghubungkan kata dasar, kita dapat memperbesarkan kosa kata, mendapatkan kata searti, dan mengutamakan atau sedikit mengubah arti kata.   Ini contoh kata hasil dalam bahasa dunia itu:"
+        ekspliko-2: "Dengan awalan dan akhiran:"
+        ekspliko-3: "Menghubungkan kata dasar.  Memakai akhiran dengan kata dasar yang pertama boleh dipilih, mempertimbangkan keterangan dan keindahan suara kalimat gabungan itu."
+        ekspliko-4: "Melakukan kata dari kelompok kata:"
+        rimarkigo: "Sekalipun memungkinan melakukan kata dengan lebih dari dua awalan dan/atau akhiran, untuk keterangan dan keindahan perkataan, lebih disukai menghindarkan kalimat gabungan yang demikian.  Jadi, misalnya, daripada \"belulineto\", lebih disukai \"eta belulino\"."
+        titolo: "Melakukan Kata dalam Bahasa Esperanto"
+        vortoj: 
+          antaŭbrako: "lengan bawah"
+          balenŝipo: "kapal ikan paus"
+          helruĝo: "merah muda"
+          jarcento: "abad (seratus tahun)"
+          jarmilo: "seribu tahun"
+          laŭtlegi: "membaca dengan suara keras"
+          matenruĝo: "merah pagi"
+          piediro: "berjalan kaki"
+          rondiro: berkeliling
+          sangruĝo: "merah darah"
+          satmanĝi: "memakan sampai kenyang"
+          spacoŝipo: "kapal ruang"
+          vaporŝipo: "kapal api"

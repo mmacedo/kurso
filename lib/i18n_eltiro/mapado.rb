@@ -10,7 +10,7 @@ require 'i18n_eltiro/mapado/leciono08'
 require 'i18n_eltiro/mapado/leciono09'
 require 'i18n_eltiro/mapado/leciono10'
 require 'i18n_eltiro/mapado/leciono11'
-# require 'i18n_eltiro/mapado/leciono12'
+require 'i18n_eltiro/mapado/leciono12'
 require 'i18n_eltiro/mapado/aliaj'
 
 module I18nEltiro
