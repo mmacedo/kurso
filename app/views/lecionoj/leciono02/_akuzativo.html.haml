@@ -1,20 +1,16 @@
 .page-header
   %h2= t '.titolo'
 %p= t '.ekspliko-1'
-%ul
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Mi lavas la novan tason."
-      %dd= t '.frazo-singulara'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Mi lavas la novajn tasojn."
-      %dd= t '.frazo-plurala'
+%dl
+  %dt= eo "Mi lavas la <em>novan tason</em>."
+  %dd= t '.frazo-singulara'
+  %dt= eo "Mi lavas la <em>novajn tasojn</em>."
+  %dd= t '.frazo-plurala'
 %p= t '.ekspliko-2'
-%ul
-  %li= eo "Mi lavas la novan tason."
-  %li= eo "La novan tason lavas mi."
-  %li= eo "La novan tason mi lavas."
+.row-fluid
+  .span4= eo "Mi lavas la novan tason."
+  .span4= eo "La novan tason lavas mi."
+  .span4= eo "La novan tason mi lavas."
 = rimarkigo do
   %p= t '.rimarkigo-1'
 = rimarkigo do
