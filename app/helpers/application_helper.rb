@@ -1,17 +1,4 @@
 module ApplicationHelper
-
-  def formati_nombro(n)
-    number_with_delimiter(n, delimiter: " ", separator: ",")
-  end
-  alias :l2 :formati_nombro
-
-  def rimarkigo
-    content_tag :div, class:                   'bs-docs-skatolo',
-                      'data-skatolo-titolo' => t('lecionoj.aliaj.dividitoj.rimarkigo') do
-      yield
-    end
-  end
-
   def lingvo_selektado_opcioj
     disponeblaj = I18n.available_locales.sort
     # Lokaĵaro el HTTP_ACCEPT_LANGUAGE, nur lingvo
