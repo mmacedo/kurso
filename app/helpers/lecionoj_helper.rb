@@ -1,8 +1,8 @@
 module LecionojHelper
   def eo(teksto)
     content_tag :a, 'href' => '#', 'class' => 'eo auxdi' do
-      ikono = content_tag(:i, "", 'class' => 'icon-volume-up pull-right')
-      ikono + " #{teksto}".html_safe
+      ikono = content_tag(:i, "", 'class' => 'icon-volume-up')
+       "#{teksto} ".html_safe + ikono
     end
   end
 
