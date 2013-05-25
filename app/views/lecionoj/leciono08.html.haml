@@ -1,4 +1,5 @@
-%h1 Leciono 8
+%header.subhead
+  %h1 Leciono 8
 .row
   .span3.apudstango
     %ul.nav.nav-list.bs-docs-apudnav
@@ -20,10 +21,14 @@
           = t('.sufiksoj01.titolo')
   .span9
     %section#komparado
-      = render "lecionoj/leciono08/komparado"
+      .section-inner
+        = render "lecionoj/leciono08/komparado"
     %section#superlativo
-      = render "lecionoj/leciono08/superlativo"
+      .section-inner
+        = render "lecionoj/leciono08/superlativo"
     %section#prefiksoj
-      = render "lecionoj/leciono08/prefiksoj"
+      .section-inner
+        = render "lecionoj/leciono08/prefiksoj"
     %section#sufiksoj01
-      = render "lecionoj/leciono08/sufiksoj01"
+      .section-inner
+        = render "lecionoj/leciono08/sufiksoj01"

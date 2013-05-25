@@ -1,4 +1,5 @@
-%h1 Leciono 3
+%header.subhead
+  %h1 Leciono 3
 .row
   .span3.apudstango
     %ul.nav.nav-list.bs-docs-apudnav
@@ -24,12 +25,17 @@
           = t('lecionoj.aliaj.dividitoj.vortaro')
   .span9
     %section#adverboj
-      = render "lecionoj/leciono03/adverboj"
+      .section-inner
+        = render "lecionoj/leciono03/adverboj"
     %section#numeraloj
-      = render "lecionoj/leciono03/numeraloj"
+      .section-inner
+        = render "lecionoj/leciono03/numeraloj"
     %section#adjektivoj_el_numeraloj
-      = render "lecionoj/leciono03/adjektivoj_el_numeraloj"
+      .section-inner
+        = render "lecionoj/leciono03/adjektivoj_el_numeraloj"
     %section#adverboj_el_numeraloj
-      = render "lecionoj/leciono03/adverboj_el_numeraloj"
+      .section-inner
+        = render "lecionoj/leciono03/adverboj_el_numeraloj"
     %section#vortaro03
-      = render "lecionoj/leciono03/vortaro03"
+      .section-inner
+        = render "lecionoj/leciono03/vortaro03"

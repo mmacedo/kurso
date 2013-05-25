@@ -1,4 +1,5 @@
-%h1 Leciono 10
+%header.subhead
+  %h1 Leciono 10
 .row
   .span3.apudstango
     %ul.nav.nav-list.bs-docs-apudnav
@@ -20,10 +21,14 @@
           = t('.pronomo_si.titolo')
   .span9
     %section#aliaj_verbaj_tempoj
-      = render "lecionoj/leciono10/aliaj_verbaj_tempoj"
+      .section-inner
+        = render "lecionoj/leciono10/aliaj_verbaj_tempoj"
     %section#kelkaj_gravaj_verboj
-      = render "lecionoj/leciono10/kelkaj_gravaj_verboj"
+      .section-inner
+        = render "lecionoj/leciono10/kelkaj_gravaj_verboj"
     %section#participoj
-      = render "lecionoj/leciono10/participoj"
+      .section-inner
+        = render "lecionoj/leciono10/participoj"
     %section#pronomo_si
-      = render "lecionoj/leciono10/pronomo_si"
+      .section-inner
+        = render "lecionoj/leciono10/pronomo_si"

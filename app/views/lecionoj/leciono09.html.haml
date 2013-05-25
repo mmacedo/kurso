@@ -1,4 +1,5 @@
-%h1 Leciono 9
+%header.subhead
+  %h1 Leciono 9
 .row
   .span3.apudstango
     %ul.nav.nav-list.bs-docs-apudnav
@@ -12,6 +13,8 @@
           = t('.vortordo.titolo')
   .span9
     %section#sufiksoj02
-      = render "lecionoj/leciono09/sufiksoj02"
+      .section-inner
+        = render "lecionoj/leciono09/sufiksoj02"
     %section#vortordo
-      = render "lecionoj/leciono09/vortordo"
+      .section-inner
+        = render "lecionoj/leciono09/vortordo"

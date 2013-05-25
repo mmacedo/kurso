@@ -1,4 +1,5 @@
-%h1 Leciono 1
+%header.subhead
+  %h1 Leciono 1
 .row
   .span3.apudstango
     %ul.nav.nav-list.bs-docs-apudnav
@@ -40,20 +41,29 @@
           = t('.artikolo.titolo')
   .span9
     %section#alfabeto
-      = render "lecionoj/leciono01/alfabeto"
+      .section-inner
+        = render "lecionoj/leciono01/alfabeto"
     %section#personaj_pronomoj
-      = render "lecionoj/leciono01/personaj_pronomoj"
+      .section-inner
+        = render "lecionoj/leciono01/personaj_pronomoj"
     %section#verboj
-      = render "lecionoj/leciono01/verboj"
+      .section-inner
+        = render "lecionoj/leciono01/verboj"
     %section#nomoj
-      = render "lecionoj/leciono01/nomoj"
+      .section-inner
+        = render "lecionoj/leciono01/nomoj"
     %section#adjektivoj
-      = render "lecionoj/leciono01/adjektivoj"
+      .section-inner
+        = render "lecionoj/leciono01/adjektivoj"
     %section#vortaro01
-      = render "lecionoj/leciono01/vortaro01"
+      .section-inner
+        = render "lecionoj/leciono01/vortaro01"
     %section#pluralo
-      = render "lecionoj/leciono01/pluralo"
+      .section-inner
+        = render "lecionoj/leciono01/pluralo"
     %section#posedaj_pronomoj
-      = render "lecionoj/leciono01/posedaj_pronomoj"
+      .section-inner
+        = render "lecionoj/leciono01/posedaj_pronomoj"
     %section#artikolo
-      = render "lecionoj/leciono01/artikolo"
+      .section-inner
+        = render "lecionoj/leciono01/artikolo"
