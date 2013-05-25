@@ -1,51 +1,43 @@
 .page-header
   %h2= t '.titolo'
-%ul
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Saluton!"
-      %dd= t '.saluto-1'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Bonan tagon!"
-      %dd= t '.saluto-2'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Bonan matenon!"
-      %dd= t '.saluto-3'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Bonan vesperon!"
-      %dd= t '.saluto-4'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Bonan nokton!"
-      %dd= t '.saluto-5'
-  %li
-    %dl.dl-horizontal
+%dl.dl-horizontal
+  %dt= eo "Saluton!"
+  %dd= t '.saluto-1'
+  %dt= eo "Bonan tagon!"
+  %dd= t '.saluto-2'
+  %dt= eo "Bonan matenon!"
+  %dd= t '.saluto-3'
+  %dt= eo "Bonan vesperon!"
+  %dd= t '.saluto-4'
+  %dt= eo "Bonan nokton!"
+  %dd= t '.saluto-5'
+.row-fluid
+  .span6
+    %dl
       %dt= eo "Kiel vi fartas?"
-      %dd= t '.saluto-6'
-      %dt= eo "Bone, dankon. Kaj vi?"
-      %dd= t '.saluto-7'
-      %dt= eo "Sufiĉe bone."
-      %dd= t '.saluto-8'
-      %dt= eo "Ne tre bone."
-      %dd= t '.saluto-9'
-  %li
-    %dl.dl-horizontal
+      %dd
+        = t '.saluto-6'
+        %dl
+          %dt= eo "Bone, dankon. Kaj vi?"
+          %dd
+            = t '.saluto-7'
+            %dl
+              %dt= eo "Sufiĉe bone."
+              %dd= t '.saluto-8'
+              %dt= eo "Ne tre bone."
+              %dd= t '.saluto-9'
+  .span6
+    %dl
       %dt= eo "Bonan apetiton!"
-      %dd= t '.saluto-10'
-      %dt= eo "Same al vi, dankon!"
-      %dd= t '.saluto-11'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Je via sano!"
-      %dd= t '.saluto-12'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Ĝis revido!"
-      %dd= t '.saluto-13'
-  %li
-    %dl.dl-horizontal
-      %dt= eo "Adiaŭ!"
-      %dd= t '.saluto-14'
+      %dd
+        = t '.saluto-10'
+        %dl
+          %dt= eo "Same al vi, dankon!"
+          %dd= t '.saluto-11'
+%dl.dl-horizontal
+  %dt= eo "Je via sano!"
+  %dd= t '.saluto-12'
+  %dt= eo "Ĝis revido!"
+  %dd= t '.saluto-13'
+  %dt= eo "Adiaŭ!"
+  %dd= t '.saluto-14'
