@@ -5,21 +5,13 @@
 
 // Necesas por respondema fiksita supra navbar
 body {
-  padding-top: @navbarHeight + @supraNavbarRando;
+  padding-top: @navbarHeight + @navbarMargin;
 }
 
 // Riparas HTML nomatajn ankrojn
 section {
-  padding-top: @navbarHeight + @supraNavbarRando;
-  margin-top: -(@navbarHeight + @supraNavbarRando);
-}
-
-// Malfaras riparon por respondema
-@media (max-width: @navbarCollapseWidth) {
-  section {
-    padding-top: @supraNavbarRando;
-    margin-top: -@supraNavbarRando;
-  }
+  padding-top: @navbarHeight;
+  margin-top: -@navbarHeight;
 }
 
 @import "bootstrap/respondema";
