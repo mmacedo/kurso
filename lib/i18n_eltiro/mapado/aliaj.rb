@@ -33,11 +33,15 @@ I18nEltiro::Mapado.agordi do
 
   # lingvo
   mapi 'aliaj.traduko.lingvo' do |obj|
-    # kiel 'Русский — rusa_1'
-    if m = obj.match(/\A (.*?) \s*—\s* ([\wĉĝĥĵŝŭ]+a)(_\d)? \z/xm)
+
+    # kiel 'العربية — araba' aŭ 'Русский — rusa_1'
+    if m = obj.match(/\A (.*?) \s*[\-—]\s* ([a-zĉĝĥĵŝŭ]+a)(_\d)? \z/xm)
       denaska, esperanta = m[1..2]
-    # kiel 'Русский — rusa'
-    elsif m = obj.match(/\A (.*?) \s* \( ([\wĉĝĥĵŝŭ]+a) \) \z/xm)
+    # kiel 'persa - پارسی'
+    elsif m = obj.match(/\A ([a-zĉĝĥĵŝŭ]+a) \s*[\-—]\s* (.*?) \z/xm)
+      esperanta, denaska = m[1..2]
+    # kiel '中文(ĉina)'
+    elsif m = obj.match(/\A (.*?) \s* \( ([a-zĉĝĥĵŝŭ]+a) \) \z/xm)
       denaska, esperanta = m[1..2]
     # kiel 'Esperanto'
     else
