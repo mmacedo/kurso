@@ -53,3 +53,32 @@ section > .section-inner > .lead {
 section > .section-inner > ul li {
   margin-bottom: 5px;
 }
+
+footer {
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100px;
+  padding: 40px 20px;
+  background: @navbarColor1;
+  color: @gray;
+}
+
+footer a {
+  color: lighten(@gray, 10%);
+}
+
+.footer-socia a {
+  color: @navbarColor2;
+  &:hover, &:active {
+    color: @linkColorHover;
+  }
+}
+
+footer .footer-socia {
+  text-align: center;
+  word-spacing: 5px;
+  margin-bottom: 20px;
+  border-top: 1px dotted @gray;
+  border-bottom: 1px dotted @gray;
+  padding: 20px 0;
+}

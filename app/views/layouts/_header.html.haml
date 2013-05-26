@@ -14,36 +14,14 @@
               Lernado
               %b.caret
             %ul.dropdown-menu
-              %li= link_to 'Leciono 1',  leciono01_path
-              %li= link_to 'Leciono 2',  leciono02_path
-              %li= link_to 'Leciono 3',  leciono03_path
-              %li= link_to 'Leciono 4',  leciono04_path
-              %li= link_to 'Leciono 5',  leciono05_path
-              %li= link_to 'Leciono 6',  leciono06_path
-              %li= link_to 'Leciono 7',  leciono07_path
-              %li= link_to 'Leciono 8',  leciono08_path
-              %li= link_to 'Leciono 9',  leciono09_path
-              %li= link_to 'Leciono 10', leciono10_path
-              %li= link_to 'Leciono 11', leciono11_path
-              %li= link_to 'Leciono 12', leciono12_path
+              = render 'layouts/lernado'
           %li.dropdown
             %a.dropdown-toggle{href: '#', 'data-toggle' => "dropdown"}
               %i.icon-question-sign
               Helpo
               %b.caret
             %ul.dropdown-menu
-              %li
-                %a{href: "http://esperanto.net/info/index_#{I18n.locale}.html", target: '_new'}
-                  esperanto.net
-                  %i.icon-external-link-sign
-              %li
-                %a{href: "http://kurso.com.br/index.php?#{I18n.locale}", target: '_new'}
-                  Kurso de Esperanto
-                  %i.icon-external-link-sign
-              %li
-                %a{href: "http://#{I18n.locale}.lernu.net", target: '_new'}
-                  Lernu!
-                  %i.icon-external-link-sign
+              = render 'layouts/helpo'
           %li.dropdown
             %a.dropdown-toggle{href: '#', 'data-toggle' => "dropdown"}
               %i.icon-globe

@@ -1,0 +1,49 @@
+%footer
+  .container
+    %dl.dl-horizontal.footer-nav
+      %dt
+        %i.icon-book
+        Lernado
+      %dd
+        %ul.inline
+          = render 'layouts/lernado'
+      %dt
+        %i.icon-question-sign
+        Helpo
+      %dd
+        %ul.inline
+          = render 'layouts/helpo'
+      %dt
+        %i.icon-globe
+        Lingvoj
+      %dd
+        %ul.inline
+          = lingvo_selektado_opcioj
+    .footer-socia
+      %a{href: 'https://github.com/mmacedo/kurso', target: '_new'}
+        %i.icon-github
+        GitHub
+      &middot;
+      %a{href: 'https://github.com/mmacedo/kurso', target: '_new'}
+        %i.icon-github
+        Aferoj
+      &middot;
+      %a{href: 'mailto:michelpm@gmail.com', target: '_new'}
+        %i.icon-envelope
+        Mi
+    .text-center
+      Kurso de Esperanto
+      &middot;
+      Kreita &amp; Subtenata per
+      %a{href:"http://about.me/michelpm"} Michel Pavan Macedo
+      &middot;
+      Adaptita el
+      %a{href: 'http://kurso.com.br'} Kurso de Esperanto
+      per Carlos Pereira
+    .text-center
+      Kodo publikigita laŭ
+      %a{href: 'http://opensource.org/licenses/mit-license.html'} MIT License
+      krom se alie specifita
+      &middot;
+      Tekstoj kaj audioj el kurso per Carlos Pereira publikigita laŭ
+      %a{href:'http://www.gnu.org/licenses/gpl.html'} GNU GPLv3
