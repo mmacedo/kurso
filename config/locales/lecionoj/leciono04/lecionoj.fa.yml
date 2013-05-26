@@ -1,0 +1,95 @@
+---
+fa:
+  lecionoj:
+    leciono04:
+      datoj:
+        ekspliko: "برای گفتن تاریخ، از مدل پیروی کنید (واژه های روز \"tago\" و در سال \"en la jaro\" معمولا در سمت چپ قرار میگیرند)."
+        titolo: تاریخها
+      demandoj:
+        aserto:
+          frazo-1: "نان خشک است."
+          titolo: تصریح
+        demando:
+          frazo-1: "آیا نان خشک است؟"
+          titolo: "سئوال:"
+        ekspliko: "سئوالات، با اضافه کردن واژه \"Ĉu\" به ابتدای جملات مثبت شکل می گیرند. به تمامی اینگونه سئوالات میتوان با \"بله\" یا \"خیر\" پاسخ داد."
+        respondo:
+          frazo-negativa: "خیر، نان خشک نیست."
+          frazo-pozitiva: "بله، نان خشک است."
+          titolo: "پاسخ:"
+        titolo: "عبارات استفهامی"
+      monatoj:
+        aprilo: آوریل
+        aŭgusto: "اوت، آگوست"
+        decembro: دسامبر
+        februaro: فوریه
+        januaro: ژانویه
+        julio: ژوئیه
+        junio: ژوئن
+        majo: می
+        marto: مارس
+        novembro: نوامبر
+        oktobro: اکتبر
+        septembro: سپتامبر
+        titolo: "ماههای سال"
+      salutoj:
+        saluto-1: سلام!
+        saluto-10: "اشتهاآور خوبی است!، از غذایتان لذت ببرید!"
+        saluto-11: "همینطور شما، متشکرم!"
+        saluto-12: "به سلامتی شما!"
+        saluto-13: "به زودی می بینمت!"
+        saluto-14: خداحافظ!
+        saluto-2: "روز بخیر!"
+        saluto-3: "صبح بخیر!"
+        saluto-4: "عصر بخیر!"
+        saluto-5: "شب بخیر!"
+        saluto-6: "حال شما چطور است؟"
+        saluto-7: "خوب، متشکرم، و شما؟"
+        saluto-8: "به اندازه کافی خوب."
+        saluto-9: "نه خیلی خوب."
+        titolo: "سلام و احوالپرسی"
+      tagoj:
+        relativoj:
+          hieraŭ: دیروز
+          hodiaŭ: امروز
+          morgaŭ: فردا
+        semajno:
+          dimanĉo: یکشنبه
+          lundo: دوشنبه
+          mardo: "سه شنبه"
+          merkredo: چهارشنبه
+          sabato: شنبه
+          vendredo: جمعه
+          ĵaŭdo: "پنج شنبه"
+        titolo: "روزهای هفته"
+      tekstokompreno01:
+        ekspliko: "لطفا متن زیر که توسط یک دانش آموز اسپرانتو نوشته شده است را خوانده و سعی کنید واژگانِ مورد استفاده را درک کنید."
+        vortaro:
+          alia: "دیگر، دیگری"
+          antaŭ: "قبل از"
+          facila: آسان
+          interŝanĝi: "مبادله کردن"
+          komenci: "شروع کردن"
+          lerni: "یاد گرفتن"
+          tre: خیلی
+      vortaro04:
+        infano: بچه
+        kaj: و
+        kolekti: "جمع کردن"
+        kongreso: کنگره
+        lando: "کشور، سرزمین"
+        leciono: درس
+        lernejo: مدرسه
+        libro: کتاب
+        manĝi: خوردن
+        mejlo: "مایل {واحد سنجش مسافت}"
+        monujo: "کیف پول"
+        neŭtrala: خنثی
+        ovo: "تخم مرغ"
+        poŝtmarko: "تمبر پستی"
+        sandviĉo: ساندویچ
+        sporto: ورزش
+        veni: آمدن
+        vojaĝi: "مسافرت کردن"
+        ĵurnalo: روزنامه
+        ŝuo: کفش

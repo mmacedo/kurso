@@ -51,7 +51,7 @@ it:
           frazo: "Lo stolto scrive il proprio nome dappertutto."
           vorto: "In ogni luogo; Dappertutto; In ogni dove."
       korelativoj_o:
-        ekspliko: "Denota un oggetto, una cosa, un affare."
+        ekspliko: "Indica \"classificazione, cosa, un affare\". Non prende mai il plurale."
         i:
           frazo: "E' accaduto qualcosa!"
           vorto: Qualcosa
@@ -68,7 +68,7 @@ it:
           frazo: "Ho dimenticato ogni cosa."
           vorto: "Ogni cosa; Tutto."
       korelativoj_u:
-        ekspliko: "Denota un individuo. Se gli individui sono più d'uno, prende la terminazione -j del plurale."
+        ekspliko: "denota un individuo o elemento di un insieme. Può avere la terminazione -j del plurale."
         i:
           ekspliko: "Denota indefinitezza."
           frazo: "Vennero [talune] persone che non conosco."

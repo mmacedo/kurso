@@ -453,7 +453,7 @@ Label53=Quando acquisterai il libro? — Domattina.
 Label57=Ho studiato l'esperanto [allora] quando ero a scuola.
 Label64=Cos'è la geografia? — La geografia è una scienza.
 Label1="Ecco alcune particelle molto utili (che appartengono ad un sistema regolare e conchiuso), denominate \"correlativi\". Il significato di ciascun correlativo risulta dalla combinazione dei significati della sua prima parte (prefisso) e della sua terminazione (suffisso). "
-Label2="Denota un individuo. Se gli individui sono più d'uno, prende la terminazione -j del plurale."
+Label2="denota un individuo o elemento di un insieme. Può avere la terminazione -j del plurale."
 Label9="Denota una domanda; oppure una relazione con la proposizione precedente."
 Label11="Chi; Colui / Colei che"
 Label12=Chi fu / è stato il tuo primo insegnante? — Il signor Carlo.
@@ -501,7 +501,7 @@ Label69="Niente; Nulla"
 Label70=Meglio qualcosa di nulla.
 Label71="Ogni cosa; Tutto."
 Label72=Ho dimenticato ogni cosa.
-Label73="Denota un oggetto, una cosa, un affare."
+Label73="Indica "classificazione, cosa, un affare". Non prende mai il plurale."
 
 [Lec07]
 Label486=Le preposizioni sono particelle che denotano la relazione che sussiste tra due parole.
