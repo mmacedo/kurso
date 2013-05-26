@@ -1,7 +1,7 @@
 .page-header
   %h2= t '.titolo'
 %p= t '.ekspliko-1'
-%dl.dl-horizontal
+%dl
   %dt= eo "Sur la sofo sidas ili."
   %dd= t '.frazo-1'
   %dt= eo "Sur la sofo ili sidas."
@@ -21,7 +21,7 @@
   %dt= eo "Ne mi faris tion."
   %dd= t '.frazo-9'
 %p= t '.ekspliko-2'
-%dl.dl-horizontal
+%dl
   %dt= eo "Ja mi vokis ilin."
   %dd= t '.frazo-10'
   %dt= eo "Morti iam vi ja devas."
@@ -31,7 +31,7 @@
   %dt= eo "Ĉu estis ja ŝi, kiu kantis?"
   %dd= t '.frazo-13'
 %p= t '.ekspliko-3'
-%dl.dl-horizontal
+%dl
   %dt= eo "Kion vi volas?"
   %dd= t '.frazo-14'
   %dt= eo "Kiu estas Anna?"
@@ -70,6 +70,6 @@
     %p= t('.dialogo').gsub(/(\s|\n)*—/m, "<br />\n—").html_safe
 %p= t '.ekspliko-5'
 %p= t '.ekspliko-6'
-= eo "Okazis eksterordinara io."
+%p= eo "Okazis eksterordinara io."
 %p= t '.ekspliko-7'
-= eo "Okazis io eksterordinara."
+%p= eo "Okazis io eksterordinara."
