@@ -72,7 +72,7 @@ I18nEltiro::Mapado.agordi do
       mapi 'l044', 'ekspliko-4'
     end
 
-    al 'muziko' do
+    al 'muziko02' do
       mapi 'l050', 'titolo'
       mapi 'l049', 'ekspliko'
       al 'vortaro' do

@@ -20,6 +20,10 @@
           %i.icon-chevron-right
           = t('.neado.titolo')
       %li
+        %a{href: '#muziko01'}
+          %i.icon-chevron-right
+          = t('.muziko01.titolo')
+      %li
         %a{href: '#vortaro02'}
           %i.icon-chevron-right
           = t('lecionoj.aliaj.dividitoj.vortaro')
@@ -36,6 +40,9 @@
     %section#neado
       .section-inner
         = render "lecionoj/leciono02/neado"
+    %section#muziko01
+      .section-inner
+        = render "lecionoj/leciono02/muziko01"
     %section#vortaro02
       .section-inner
         = render "lecionoj/leciono02/vortaro02"

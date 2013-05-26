@@ -61,6 +61,11 @@ I18nEltiro::Mapado.agordi do
       end
     end
 
+    al 'muziko01' do
+      mapi 'l050', 'titolo'
+      mapi 'l049', 'ekspliko'
+    end
+
     al 'vortaro02' do
       mapi 'l158', 'akvo'
       mapi 'l159', 'ami'
