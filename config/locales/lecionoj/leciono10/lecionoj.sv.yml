@@ -6,42 +6,32 @@ sv:
         ekspliko: |-
             Lite mer om verben: vi har redan sett att  verb slutar på 'as' i nutid (presens), med 'is' i förfluten 
             tid (preteritum) och med 'os' i framtid (futurum). Det finns fler tidsformer (tempus):
-        imperativo: 
-          ekspliko-1: |-
-              Verbet i imperativ (-U) avser vanligen andra person och då är det inte nödvändigt att använda 
-              pronomen. För första eller tredje person skall man använda motsvarande pronomen:
-          ekspliko-2: |-
-              U-ändelsens karaktär beror av målet ( order, bön, uppmaning, önskan, behov, plikt, tillstånd, 
-              förbud osv.). I de fall  det handlar om att 'jag hoppas', 'jag är rädd att', 'jag tror inte', jag antar' 
-              osv. skall man använda framtidsändelsen (ändelsen för futurum) (-os).
-          frazo-1: "Stäng dörren och sitt ner."
-          frazo-2: "Jag vill, att du skall komma."
-          frazo-3: "Leve esperanto!"
-          frazo-4: "Hon bad, att jag skulle stanna."
-          frazo-5: "Vi må (skall)  sova. /  De bör (skall) sova."
-          frazo-6: "Jag hoppas, att han skall komma."
-          frazo-7: |-
-              Jag föreslår, att han skall komma. 
-                 och ville genast få dig fatt!
-              — Jag tror dig o min kung
-                 men jag behöver guld uti min pung!
-              — Jag älskar dig, min dyra,
-                 men jag har knappt till hyra!
-              — Om du skulle älska mig, din snåljåp
-                 skulle du inte  bete dig som ett våp.
-          frazo-8: "Det är möjligt, att han kommer att komma."
-          titolo: "Befallningsform (imperativ)  (-U)"
-        kondicionalo: 
-          frazo-1: "Om jag vore rik, skulle jag resa mycket."
-          frazo-2: "Vi skulle äta brödet om det vore gott."
-          titolo: "Villkorsform (konditionalis) (-US)"
-        nerekta: 
-          ekspliko: "Vid indirekt anföring: Använd samma tempus och modus på verbet som vid direkt anföring. Ex.:"
-          frazo-1: "Han sade, 'Jag kommer från New York."
-          frazo-2: "Han sade, att han kommer från New York"
-          frazo-3: "Hon sade, 'Jag kommer att resa till Paris'"
-          frazo-4: "Hon sade, att hon kommer att resa till Paris."
         titolo: "Andra verbformer"
+      imperativo: 
+        ekspliko-1: |-
+            Verbet i imperativ (-U) avser vanligen andra person och då är det inte nödvändigt att använda 
+            pronomen. För första eller tredje person skall man använda motsvarande pronomen:
+        ekspliko-2: |-
+            U-ändelsens karaktär beror av målet ( order, bön, uppmaning, önskan, behov, plikt, tillstånd, 
+            förbud osv.). I de fall  det handlar om att 'jag hoppas', 'jag är rädd att', 'jag tror inte', jag antar' 
+            osv. skall man använda framtidsändelsen (ändelsen för futurum) (-os).
+        frazo-1: "Stäng dörren och sitt ner."
+        frazo-2: "Jag vill, att du skall komma."
+        frazo-3: "Leve esperanto!"
+        frazo-4: "Hon bad, att jag skulle stanna."
+        frazo-5: "Vi må (skall)  sova. /  De bör (skall) sova."
+        frazo-6: "Jag hoppas, att han skall komma."
+        frazo-7: |-
+            Jag föreslår, att han skall komma. 
+               och ville genast få dig fatt!
+            — Jag tror dig o min kung
+               men jag behöver guld uti min pung!
+            — Jag älskar dig, min dyra,
+               men jag har knappt till hyra!
+            — Om du skulle älska mig, din snåljåp
+               skulle du inte  bete dig som ett våp.
+        frazo-8: "Det är möjligt, att han kommer att komma."
+        titolo: "Befallningsform (imperativ)  (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Jag måste förstå"
@@ -64,6 +54,16 @@ sv:
           frazo-plaĉi-1: "Något eller någon behagar mig."
           frazo-plaĉi-2: "Böcker faller mig i smaken. ( Jag tycker om böcker.)"
           frazo-ŝati: "Jag tycker om något."
+      kondicionalo: 
+        frazo-1: "Om jag vore rik, skulle jag resa mycket."
+        frazo-2: "Vi skulle äta brödet om det vore gott."
+        titolo: "Villkorsform (konditionalis) (-US)"
+      nerekta: 
+        ekspliko: "Vid indirekt anföring: Använd samma tempus och modus på verbet som vid direkt anföring. Ex.:"
+        frazo-1: "Han sade, 'Jag kommer från New York."
+        frazo-2: "Han sade, att han kommer från New York"
+        frazo-3: "Hon sade, 'Jag kommer att resa till Paris'"
+        frazo-4: "Hon sade, att hon kommer att resa till Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Jag kommer att vara läsande"

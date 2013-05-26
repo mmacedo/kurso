@@ -4,29 +4,19 @@ pt:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Um pouco mais sobre os verbos: vimos que os verbos terminam em \"as\" no presente, em \"is\" no passado, em \"os\" no futuro e em \"i\" no infinitivo. Há também os modos:"
-        imperativo: 
-          ekspliko-1: "O modo imperativo (-u) é normalmente na segunda pessoa, e não é necessário usar o pronome. Porém, quando tratar-se da 1ª ou 3ª pessoa, usa-se o devido pronome:"
-          ekspliko-2: "O caráter da terminação -u é a finalidade (ordem, pedido, exortação, desejo, necessidade, dever, permissão, proibição etc.) Nos casos de \"espero\", \"temo\", \"não creio\", \"suponho\"  etc. usa-se a terminação do futuro (-os)."
-          frazo-1: "Feche a porta e sente-se."
-          frazo-2: "Eu quero que você venha."
-          frazo-3: "Viva o Esperanto!"
-          frazo-4: "Ela pediu que eu ficasse."
-          frazo-5: "Durmamos (nós) / Durmam eles, durmam elas"
-          frazo-6: "Espero que ele venha."
-          frazo-7: "Sugiro que ele venha."
-          frazo-8: "É possível que ele venha."
-          titolo: "Imperativo (-U)"
-        kondicionalo: 
-          frazo-1: "Se eu fosse rico, viajaria muito."
-          frazo-2: "Nós comeríamos o pão, se ele fosse bom."
-          titolo: "Condicional (-US)"
-        nerekta: 
-          ekspliko: "No discurso indireto, usa-se o mesmo tempo e modo verbal do discurso direto: Ex.:"
-          frazo-1: "Ele disse: \"Venho de Nova York\"."
-          frazo-2: "Ele disse que vinha de Nova York."
-          frazo-3: "Ela disse: \"Vou viajar a Paris\"."
-          frazo-4: "Ela disse que ia viajar a Paris."
         titolo: "Outros tempos verbais"
+      imperativo: 
+        ekspliko-1: "O modo imperativo (-u) é normalmente na segunda pessoa, e não é necessário usar o pronome. Porém, quando tratar-se da 1ª ou 3ª pessoa, usa-se o devido pronome:"
+        ekspliko-2: "O caráter da terminação -u é a finalidade (ordem, pedido, exortação, desejo, necessidade, dever, permissão, proibição etc.) Nos casos de \"espero\", \"temo\", \"não creio\", \"suponho\"  etc. usa-se a terminação do futuro (-os)."
+        frazo-1: "Feche a porta e sente-se."
+        frazo-2: "Eu quero que você venha."
+        frazo-3: "Viva o Esperanto!"
+        frazo-4: "Ela pediu que eu ficasse."
+        frazo-5: "Durmamos (nós) / Durmam eles, durmam elas"
+        frazo-6: "Espero que ele venha."
+        frazo-7: "Sugiro que ele venha."
+        frazo-8: "É possível que ele venha."
+        titolo: "Imperativo (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Eu devo entender, eu tenho que entender"
@@ -49,6 +39,16 @@ pt:
           frazo-plaĉi-1: "Algo ou alguém me agrada."
           frazo-plaĉi-2: "Livros me agradam (Eu gosto de livros)."
           frazo-ŝati: "Eu gosto de alguma coisa."
+      kondicionalo: 
+        frazo-1: "Se eu fosse rico, viajaria muito."
+        frazo-2: "Nós comeríamos o pão, se ele fosse bom."
+        titolo: "Condicional (-US)"
+      nerekta: 
+        ekspliko: "No discurso indireto, usa-se o mesmo tempo e modo verbal do discurso direto: Ex.:"
+        frazo-1: "Ele disse: \"Venho de Nova York\"."
+        frazo-2: "Ele disse que vinha de Nova York."
+        frazo-3: "Ela disse: \"Vou viajar a Paris\"."
+        frazo-4: "Ela disse que ia viajar a Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Estou para ler."

@@ -4,29 +4,19 @@ hr:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Nešto više o glagolima: već smo vidjeli da glagoli završavaju na \"as\" u sadašnjem vremenu, na \"is\" u prošlom, na \"os\" u budućem vremenu i na \"i\" u infinitivu. Postoje i druga vremena:"
-        imperativo: 
-          ekspliko-1: "Zapovjedni način (-u) obično se odnosi na drugo lice, pa nije potrebno stavljati ličnu zamjenicu. Ali, ako se radi o prvom ili trećem licu, onda se stavi pripadajuća lična zamjenica:"
-          ekspliko-2: "Značajka u-završetka je cilj (naredba, molba, nagovaranje, želja, potreba, prinuda, dozvola, zabrana i tako dalje). U slučajevima kada se radi o \"nadam se\", \"bojim se\", \"ne vjerujem\", \"pretpostavljam\" itd. upotrijebite nastavak za buduće vrijeme (-os)."
-          frazo-1: "Zatvori vrata i sjedni."
-          frazo-2: "Hoću, da dođeš."
-          frazo-3: "Živio Esperanto!"
-          frazo-4: "Zamolila me, da ostanem."
-          frazo-5: "Mi spavajmo / Oni neka spavaju"
-          frazo-6: "Nadam se, da će on doći."
-          frazo-7: "Sugeriram mu, da dođe."
-          frazo-8: "Moguće je, da će doći."
-          titolo: "Zapovjedni način (-u)"
-        kondicionalo: 
-          frazo-1: "Ako bi bio bogat, mnogo bi putovao."
-          frazo-2: "Mi bi jeli kruh, ako bi bio dobar."
-          titolo: "Kondicional (pogodbeni način) (-us)"
-        nerekta: 
-          ekspliko: "U neupravnom govoru upotrijebite isto vrijeme i glagolski oblik kao u upravmom govoru. Na pr.:"
-          frazo-1: "Rekao je, \"Dolazim iz New Yorka\"."
-          frazo-2: "Rekao je, da dolazi iz New Yorka."
-          frazo-3: "Rekla je, \"Putovat ću u Pariz\"."
-          frazo-4: "Rekla je, da će putovati u Pariz."
         titolo: "Ostala glagolska vremena"
+      imperativo: 
+        ekspliko-1: "Zapovjedni način (-u) obično se odnosi na drugo lice, pa nije potrebno stavljati ličnu zamjenicu. Ali, ako se radi o prvom ili trećem licu, onda se stavi pripadajuća lična zamjenica:"
+        ekspliko-2: "Značajka u-završetka je cilj (naredba, molba, nagovaranje, želja, potreba, prinuda, dozvola, zabrana i tako dalje). U slučajevima kada se radi o \"nadam se\", \"bojim se\", \"ne vjerujem\", \"pretpostavljam\" itd. upotrijebite nastavak za buduće vrijeme (-os)."
+        frazo-1: "Zatvori vrata i sjedni."
+        frazo-2: "Hoću, da dođeš."
+        frazo-3: "Živio Esperanto!"
+        frazo-4: "Zamolila me, da ostanem."
+        frazo-5: "Mi spavajmo / Oni neka spavaju"
+        frazo-6: "Nadam se, da će on doći."
+        frazo-7: "Sugeriram mu, da dođe."
+        frazo-8: "Moguće je, da će doći."
+        titolo: "Zapovjedni način (-u)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Moram razumjeti"
@@ -49,6 +39,16 @@ hr:
           frazo-plaĉi-1: "Nešto ili netko mi se sviđa."
           frazo-plaĉi-2: "Knjige mi se sviđaju."
           frazo-ŝati: "Nešto volim."
+      kondicionalo: 
+        frazo-1: "Ako bi bio bogat, mnogo bi putovao."
+        frazo-2: "Mi bi jeli kruh, ako bi bio dobar."
+        titolo: "Kondicional (pogodbeni način) (-us)"
+      nerekta: 
+        ekspliko: "U neupravnom govoru upotrijebite isto vrijeme i glagolski oblik kao u upravmom govoru. Na pr.:"
+        frazo-1: "Rekao je, \"Dolazim iz New Yorka\"."
+        frazo-2: "Rekao je, da dolazi iz New Yorka."
+        frazo-3: "Rekla je, \"Putovat ću u Pariz\"."
+        frazo-4: "Rekla je, da će putovati u Pariz."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Ja sam onaj koji će čitati."

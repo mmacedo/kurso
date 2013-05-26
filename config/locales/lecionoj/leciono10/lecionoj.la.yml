@@ -4,29 +4,19 @@ la:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Nedaudz vairāk par darbības vārdiem: mēs jau redzējām, ka darbības vādi beidzas ar \"as\" tagadnē, ar \"is\" pagātnē, ar \"os\" nākotnē un ar \"i\" nenoteiksmē. Ir arī citi laiki:"
-        imperativo: 
-          ekspliko-1: "Pavēles izteiksme (-u) parasti attiecas uz otro personu, un vietniekvārds nav vajadzīgs. Bet, kad iet runa par pirmo vai otro personu, lieto attiecīgu vietniekvārdu:"
-          ekspliko-2: "Pavēles galotne -u norāda uz mērķi (pavēle, lūgums, mudinājums, vēlējums, pienākums, atļauja, aizliegums utt.). Gadījumos, kad runa ir par \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" utt., jālieto nākotnes galotni (-os)."
-          frazo-1: "Aizver durvis un apsēdies."
-          frazo-2: "Es gribu, lai tu atnāc."
-          frazo-3: "Lai dzīvo esperanto!"
-          frazo-4: "Viņa lūdza, lai es palieku."
-          frazo-5: "Gulēsim / Lai viņi guļ"
-          frazo-6: "Es ceru, ka viņš atnāks."
-          frazo-7: "Es pieļauju, ka viņam jāatnāk."
-          frazo-8: "Iespējams, ka viņš atnāks."
-          titolo: "Pavēles izteiksme (galotne -U)"
-        kondicionalo: 
-          frazo-1: "Ja es būtu bagāta, es daudz ceļotu."
-          frazo-2: "Mēs ēstu maizi, ja tā būtu laba."
-          titolo: "Nosacījuma izteiksme (galotne -US)"
-        nerekta: 
-          ekspliko: "Netiešajā runā vajag lietot to pašu laiku un darbības vārda formu tāpat kā tiešajā runā. Piem.:"
-          frazo-1: "Viņš teica: \"Es nāku no Ņujorkas\"."
-          frazo-2: "Viņš teica, ka \"viņš nāk no Ņujorkas\"."
-          frazo-3: "Viņa teica: \"Es ceļošu uz Parīzi\"."
-          frazo-4: "Viņa teica, ka \"viņa ceļos uz Parīzi\"."
         titolo: "Citi darbības vārda laiki"
+      imperativo: 
+        ekspliko-1: "Pavēles izteiksme (-u) parasti attiecas uz otro personu, un vietniekvārds nav vajadzīgs. Bet, kad iet runa par pirmo vai otro personu, lieto attiecīgu vietniekvārdu:"
+        ekspliko-2: "Pavēles galotne -u norāda uz mērķi (pavēle, lūgums, mudinājums, vēlējums, pienākums, atļauja, aizliegums utt.). Gadījumos, kad runa ir par \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" utt., jālieto nākotnes galotni (-os)."
+        frazo-1: "Aizver durvis un apsēdies."
+        frazo-2: "Es gribu, lai tu atnāc."
+        frazo-3: "Lai dzīvo esperanto!"
+        frazo-4: "Viņa lūdza, lai es palieku."
+        frazo-5: "Gulēsim / Lai viņi guļ"
+        frazo-6: "Es ceru, ka viņš atnāks."
+        frazo-7: "Es pieļauju, ka viņam jāatnāk."
+        frazo-8: "Iespējams, ka viņš atnāks."
+        titolo: "Pavēles izteiksme (galotne -U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Man vajag saprast"
@@ -49,6 +39,16 @@ la:
           frazo-plaĉi-1: "Kaut kas vai kaut kurš man patīk."
           frazo-plaĉi-2: "Man patīk grāmatas."
           frazo-ŝati: "Es cienu kaut ko.  (Man patīk kaut kas.)"
+      kondicionalo: 
+        frazo-1: "Ja es būtu bagāta, es daudz ceļotu."
+        frazo-2: "Mēs ēstu maizi, ja tā būtu laba."
+        titolo: "Nosacījuma izteiksme (galotne -US)"
+      nerekta: 
+        ekspliko: "Netiešajā runā vajag lietot to pašu laiku un darbības vārda formu tāpat kā tiešajā runā. Piem.:"
+        frazo-1: "Viņš teica: \"Es nāku no Ņujorkas\"."
+        frazo-2: "Viņš teica, ka \"viņš nāk no Ņujorkas\"."
+        frazo-3: "Viņa teica: \"Es ceļošu uz Parīzi\"."
+        frazo-4: "Viņa teica, ka \"viņa ceļos uz Parīzi\"."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Es lasīšu. (Nodomājis lasīt.)"

@@ -3,31 +3,34 @@ I18nEltiro::Mapado.agordi do
     al 'aliaj_verbaj_tempoj' do
       mapi 'l004', 'titolo'
       mapi 'l718', 'ekspliko'
-      al 'kondicionalo' do
-        mapi 'l002', 'titolo'
-        mapi 'l721', 'frazo-1'
-        mapi 'l724', 'frazo-2'
-      end
-      al 'imperativo' do
-        mapi 'l003', 'titolo'
-        mapi 'l722', 'frazo-1'
-        mapi 'l723', 'frazo-2'
-        mapi 'l725', 'frazo-3'
-        mapi 'l727', 'frazo-4'
-        mapi 'l039', 'ekspliko-1'
-        mapi 'l035', 'frazo-5'
-        mapi 'l040', 'ekspliko-2'
-        mapi 'l036', 'frazo-6'
-        mapi 'l037', 'frazo-7'
-        mapi 'l038', 'frazo-8'
-      end
-      al 'nerekta' do
-        mapi 'l030', 'ekspliko'
-        mapi 'l031', 'frazo-1'
-        mapi 'l032', 'frazo-2'
-        mapi 'l033', 'frazo-3'
-        mapi 'l034', 'frazo-4'
-      end
+    end
+
+    al 'kondicionalo' do
+      mapi 'l002', 'titolo'
+      mapi 'l721', 'frazo-1'
+      mapi 'l724', 'frazo-2'
+    end
+
+    al 'imperativo' do
+      mapi 'l003', 'titolo'
+      mapi 'l722', 'frazo-1'
+      mapi 'l723', 'frazo-2'
+      mapi 'l725', 'frazo-3'
+      mapi 'l727', 'frazo-4'
+      mapi 'l039', 'ekspliko-1'
+      mapi 'l035', 'frazo-5'
+      mapi 'l040', 'ekspliko-2'
+      mapi 'l036', 'frazo-6'
+      mapi 'l037', 'frazo-7'
+      mapi 'l038', 'frazo-8'
+    end
+
+    al 'nerekta' do
+      mapi 'l030', 'ekspliko'
+      mapi 'l031', 'frazo-1'
+      mapi 'l032', 'frazo-2'
+      mapi 'l033', 'frazo-3'
+      mapi 'l034', 'frazo-4'
     end
 
     al 'kelkaj_gravaj_verboj' do

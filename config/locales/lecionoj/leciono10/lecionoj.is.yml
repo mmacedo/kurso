@@ -4,29 +4,19 @@ is:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Svolítið meira um sagnir:  Við höfum þegar séð, að sagnir enda á \"as\" í nútíð, á \"is\" í þátíð, á \"os\" í framtíð og á \"i\" í nafnhætti.  Það eru til fleiri birtingarmyndir sagna:"
-        imperativo: 
-          ekspliko-1: "Boðháttur (-u) á oftast við 2. persónu og þá er ekki þörf á að nota fornafn.  Eigi boðháttur við 1. eða 3. persónu, skal nota viðeigandi fornafn."
-          ekspliko-2: "U-endingin felur í sér tilgang (skipun, beiðni, ósk, áminningu, nauðsyn, skyldu, leyfi, bann o.s.frv.) Þegar sagt er \"mi esperas\" (ég vona), \"mi timas\" (ég er hræddur um), \"mi ne kredas\" (ég held ekki), \"mi supozas\" (ég hygg svo vera) o.s.frv. er notuð framtíðarendingin (-os)."
-          frazo-1: "Lokaðu dyrunum og sestu."
-          frazo-2: "Ég vil, að þú komir."
-          frazo-3: "Lifi esperanto!"
-          frazo-4: "Hún bað mig að vera áfram."
-          frazo-5: "Við skulum sofa / Sofi þau"
-          frazo-6: "Ég vona að hann komi."
-          frazo-7: "Ég legg til að hann komi."
-          frazo-8: "Mögulegt er að hann komi."
-          titolo: "Boðháttur, óskháttur (-u)"
-        kondicionalo: 
-          frazo-1: "Ef ég væri ríkur, ferðaðist ég mikið."
-          frazo-2: "Ég borðaði brauðið, ef það væri gott."
-          titolo: "Viðtengingarháttur (-us)"
-        nerekta: 
-          ekspliko: "Í óbeinni ræðu skal nota sömu tíð og hátt eins og í beinni ræðu. T.d.:"
-          frazo-1: "Hann sagði: \"Ég kem frá New York\"."
-          frazo-2: "Hann sagði, að hann kæmi frá New York."
-          frazo-3: "Hún sagði: \"Ég fer til Parísar\"."
-          frazo-4: "Hún sagði, að hún færi (muni fara) til Parísar."
         titolo: "Aðrar tíðir sagna"
+      imperativo: 
+        ekspliko-1: "Boðháttur (-u) á oftast við 2. persónu og þá er ekki þörf á að nota fornafn.  Eigi boðháttur við 1. eða 3. persónu, skal nota viðeigandi fornafn."
+        ekspliko-2: "U-endingin felur í sér tilgang (skipun, beiðni, ósk, áminningu, nauðsyn, skyldu, leyfi, bann o.s.frv.) Þegar sagt er \"mi esperas\" (ég vona), \"mi timas\" (ég er hræddur um), \"mi ne kredas\" (ég held ekki), \"mi supozas\" (ég hygg svo vera) o.s.frv. er notuð framtíðarendingin (-os)."
+        frazo-1: "Lokaðu dyrunum og sestu."
+        frazo-2: "Ég vil, að þú komir."
+        frazo-3: "Lifi esperanto!"
+        frazo-4: "Hún bað mig að vera áfram."
+        frazo-5: "Við skulum sofa / Sofi þau"
+        frazo-6: "Ég vona að hann komi."
+        frazo-7: "Ég legg til að hann komi."
+        frazo-8: "Mögulegt er að hann komi."
+        titolo: "Boðháttur, óskháttur (-u)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Ég verð að skilja"
@@ -49,6 +39,16 @@ is:
           frazo-plaĉi-1: "Eitthvað eða einhver fellur mér í geð."
           frazo-plaĉi-2: "Bækur falla mér vel í geð."
           frazo-ŝati: "Mér líkar eitthvað vel."
+      kondicionalo: 
+        frazo-1: "Ef ég væri ríkur, ferðaðist ég mikið."
+        frazo-2: "Ég borðaði brauðið, ef það væri gott."
+        titolo: "Viðtengingarháttur (-us)"
+      nerekta: 
+        ekspliko: "Í óbeinni ræðu skal nota sömu tíð og hátt eins og í beinni ræðu. T.d.:"
+        frazo-1: "Hann sagði: \"Ég kem frá New York\"."
+        frazo-2: "Hann sagði, að hann kæmi frá New York."
+        frazo-3: "Hún sagði: \"Ég fer til Parísar\"."
+        frazo-4: "Hún sagði, að hún færi (muni fara) til Parísar."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Ég er að fara að lesa."

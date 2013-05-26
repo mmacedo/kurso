@@ -4,29 +4,19 @@ eo:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Iom pli pri la verboj: ni jam vidis, ke la verboj finiĝas per \"as\" en la prezenco, per \"is\" en la pasinto, per \"os\" en la futuro kaj per \"i\" en la infinitivo. Estas ankaŭ aliaj tempoj:"
-        imperativo: 
-          ekspliko-1: "La imperativa modo (-u) ordinare rilatas al la dua persono, kaj ne necesas uzi la pronomon. Sed, kiam temas pri la unua aŭ tria persono, oni uzu la koncernan pronomon:"
-          ekspliko-2: "La karaktero de la u-finaĵo estas la celo (ordono, peto, admono, deziro, neceso, devo, permeso, malpermeso ktp.) En la kazoj kiam temas pri \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" ktp. oni uzu la futuran finaĵon (-os)."
-          frazo-1: "Fermu la pordon kaj eksidu."
-          frazo-2: "Mi volas, ke vi venu."
-          frazo-3: "Vivu Esperanto!"
-          frazo-4: "Ŝi petis, ke mi restu."
-          frazo-5: "Ni dormu / Ili dormu"
-          frazo-6: "Mi esperas, ke li venos."
-          frazo-7: "Mi sugestas, ke li venu."
-          frazo-8: "Estas eble, ke li venos."
-          titolo: "Imperativo (-U)"
-        kondicionalo: 
-          frazo-1: "Se mi estus riĉa, mi multe vojaĝus."
-          frazo-2: "Ni manĝus la panon, se ĝi estus bona."
-          titolo: "Kondicionalo (-US)"
-        nerekta: 
-          ekspliko: "En la nerekta parolo, oni uzu la saman tempon kaj verban modon kiel la rekta parolo. Ekz.:"
-          frazo-1: "Li diris, \"Mi venas de Nov-Jorko\"."
-          frazo-2: "Li diris, ke li venas de Nov-Jorko."
-          frazo-3: "Ŝi diris, \"Mi vojaĝos al Parizo\"."
-          frazo-4: "Ŝi diris, ke ŝi vojaĝos al Parizo."
         titolo: "Aliaj verbaj tempoj"
+      imperativo: 
+        ekspliko-1: "La imperativa modo (-u) ordinare rilatas al la dua persono, kaj ne necesas uzi la pronomon. Sed, kiam temas pri la unua aŭ tria persono, oni uzu la koncernan pronomon:"
+        ekspliko-2: "La karaktero de la u-finaĵo estas la celo (ordono, peto, admono, deziro, neceso, devo, permeso, malpermeso ktp.) En la kazoj kiam temas pri \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" ktp. oni uzu la futuran finaĵon (-os)."
+        frazo-1: "Fermu la pordon kaj eksidu."
+        frazo-2: "Mi volas, ke vi venu."
+        frazo-3: "Vivu Esperanto!"
+        frazo-4: "Ŝi petis, ke mi restu."
+        frazo-5: "Ni dormu / Ili dormu"
+        frazo-6: "Mi esperas, ke li venos."
+        frazo-7: "Mi sugestas, ke li venu."
+        frazo-8: "Estas eble, ke li venos."
+        titolo: "Imperativo (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Mi devas kompreni"
@@ -49,6 +39,16 @@ eo:
           frazo-plaĉi-1: "Io aŭ iu plaĉas al mi."
           frazo-plaĉi-2: "Libroj plaĉas al mi."
           frazo-ŝati: "Mi ŝatas ion."
+      kondicionalo: 
+        frazo-1: "Se mi estus riĉa, mi multe vojaĝus."
+        frazo-2: "Ni manĝus la panon, se ĝi estus bona."
+        titolo: "Kondicionalo (-US)"
+      nerekta: 
+        ekspliko: "En la nerekta parolo, oni uzu la saman tempon kaj verban modon kiel la rekta parolo. Ekz.:"
+        frazo-1: "Li diris, \"Mi venas de Nov-Jorko\"."
+        frazo-2: "Li diris, ke li venas de Nov-Jorko."
+        frazo-3: "Ŝi diris, \"Mi vojaĝos al Parizo\"."
+        frazo-4: "Ŝi diris, ke ŝi vojaĝos al Parizo."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Mi estas legonta."

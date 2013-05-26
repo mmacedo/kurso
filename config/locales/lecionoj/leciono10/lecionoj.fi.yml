@@ -4,29 +4,19 @@ fi:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Verbin päätteet: preesensin pääte \"as\", imperfektin pääte \"is\", futuurin pääte \"os\" ja infinitiivin pääte \"i\" ovat jo tuttuja. Nyt opimme lisää:"
-        imperativo: 
-          ekspliko-1: "Imperatiivin pääte (-u) viittaa yleensä toiseen persoonaan, eikä pronominin käyttö ole tarpeen. Mutta, jos kyseesä on ensimmäinen tai kolmas persoona, pitää pronominia käyttää:"
-          ekspliko-2: "Inperatiivi viittaa päämäärään (käsky, pyyntö, kehoitus, toive, välttämättömyys, pakko, lupa, kielto jne.). Muista kuitenkin imperatiivin ja futuurin välinen ero."
-          frazo-1: "Sulje ovi ja istu."
-          frazo-2: "Haluan, että tulet."
-          frazo-3: "Eläköön Esperanto!"
-          frazo-4: "Hän pyysi, että jään"
-          frazo-5: "Nukkukaamme / Nukkukoot"
-          frazo-6: "Toivon, että hän tulee."
-          frazo-7: "Ehdotan, että hän tulee (tulkoon)."
-          frazo-8: "On mahdollista, että hän tulee."
-          titolo: "Imperatiivi (-u)"
-        kondicionalo: 
-          frazo-1: "Jos olisin rikas, matkustaisin paljon."
-          frazo-2: "Söisimme leivän, jos se olisi hyvä."
-          titolo: "Konditionaali (-us)"
-        nerekta: 
-          ekspliko: "Epäsuorassa lauseessa pitää käyttää samaa verbin muotoa kun suorassa lauseessa. Esim.:"
-          frazo-1: "Hän sanoi, \"Tulen New Yorkista\"."
-          frazo-2: "Hän sanoi, että hän tulee New Yorkista."
-          frazo-3: "Hän sanoi, \"Matkustan Pariisiin\"."
-          frazo-4: "Hän sanoi, että hän matkustaa Pariisiin."
         titolo: "Lisää verbin aikamuotoja"
+      imperativo: 
+        ekspliko-1: "Imperatiivin pääte (-u) viittaa yleensä toiseen persoonaan, eikä pronominin käyttö ole tarpeen. Mutta, jos kyseesä on ensimmäinen tai kolmas persoona, pitää pronominia käyttää:"
+        ekspliko-2: "Inperatiivi viittaa päämäärään (käsky, pyyntö, kehoitus, toive, välttämättömyys, pakko, lupa, kielto jne.). Muista kuitenkin imperatiivin ja futuurin välinen ero."
+        frazo-1: "Sulje ovi ja istu."
+        frazo-2: "Haluan, että tulet."
+        frazo-3: "Eläköön Esperanto!"
+        frazo-4: "Hän pyysi, että jään"
+        frazo-5: "Nukkukaamme / Nukkukoot"
+        frazo-6: "Toivon, että hän tulee."
+        frazo-7: "Ehdotan, että hän tulee (tulkoon)."
+        frazo-8: "On mahdollista, että hän tulee."
+        titolo: "Imperatiivi (-u)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Minun täytyy ymmärtää"
@@ -49,6 +39,16 @@ fi:
           frazo-plaĉi-1: "Jokin tai joku miellyttää minua."
           frazo-plaĉi-2: "Kirjat miellyttävät minua."
           frazo-ŝati: "Pidän jostakin (asiasta tai esineestä)."
+      kondicionalo: 
+        frazo-1: "Jos olisin rikas, matkustaisin paljon."
+        frazo-2: "Söisimme leivän, jos se olisi hyvä."
+        titolo: "Konditionaali (-us)"
+      nerekta: 
+        ekspliko: "Epäsuorassa lauseessa pitää käyttää samaa verbin muotoa kun suorassa lauseessa. Esim.:"
+        frazo-1: "Hän sanoi, \"Tulen New Yorkista\"."
+        frazo-2: "Hän sanoi, että hän tulee New Yorkista."
+        frazo-3: "Hän sanoi, \"Matkustan Pariisiin\"."
+        frazo-4: "Hän sanoi, että hän matkustaa Pariisiin."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Minä olen lukeva (tulen lukemaan)."

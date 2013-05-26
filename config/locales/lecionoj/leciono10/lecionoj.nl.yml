@@ -4,29 +4,19 @@ nl:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Over werkwoorden:  de tegenwoordige tijd eindigt op \"as\", de verleden tijd op \"is\" en de toekomende op \"os\". Het onvervoegde werkwoord (= de \"noemvorm\") eindigt op -i. Er zijn ook nog andere vormen:"
-        imperativo: 
-          ekspliko-1: "De gebiedende wijs heeft bij de tweede persoon geen voornaamwoord nodig (Eet!), maar voor de eerste of derde persoon moet het persoonlijk voornaamwoord er wel uitdrukkelijk bij."
-          ekspliko-2: "Het karakter van de uitgang -u  kan zijn een: bevel, verzoek, wens, noodzaak, toestemming, verbod enz. In gevallen als \"ik hoop dat\", \"ik vrees dat\", \" ik geloof niet dat\", \"ik veronderstel dat\" e.d. gebruik je de uitgang van de toekomende tijd (-os)."
-          frazo-1: "Sluit de deur en ga zitten."
-          frazo-2: "Ik wil dat je komt."
-          frazo-3: "Leve Esperanto"
-          frazo-4: "Ze verzocht me te blijven."
-          frazo-5: "Laten wij (gaan) slapen / Laten zij (gaan) slapen"
-          frazo-6: "Ik hoop, dat hij komt (Esp.: ZAL komen)"
-          frazo-7: "Ik opper, dat hij moet komen (kome)."
-          frazo-8: "Het is mogelijk, dat hij komt (Esp.: ZAL komen)."
-          titolo: "De werkwoordsuitgang -u (gebiedende wijs, wensende wijs, aanvoegende wijs)"
-        kondicionalo: 
-          frazo-1: "Als ik rijk was (zou zijn), zou ik veel reizen."
-          frazo-2: "Wij zouden het brood eten, als dat goed was (zou zijn)."
-          titolo: "De werkwoordsuitgang -us (\"Voorwaardelijke wijs\": Als het zo was, dan.....)"
-        nerekta: 
-          ekspliko: "In de indirekte rede gebruik je dezelfde tijd als in de direkte rede, bijvoorbeeld:"
-          frazo-1: "Hij zei, \"Ik kom uit New York\"."
-          frazo-2: "Hij zei, dat hij uit New York KOMT (in het ned. kwam!)"
-          frazo-3: "Ze zei: \"Ik zal naar Parijs reizen\"."
-          frazo-4: "Ze zei, dat ze naar Parijs ZAL (ned. zou) reizen."
         titolo: "Andere werkwoordsvormen"
+      imperativo: 
+        ekspliko-1: "De gebiedende wijs heeft bij de tweede persoon geen voornaamwoord nodig (Eet!), maar voor de eerste of derde persoon moet het persoonlijk voornaamwoord er wel uitdrukkelijk bij."
+        ekspliko-2: "Het karakter van de uitgang -u  kan zijn een: bevel, verzoek, wens, noodzaak, toestemming, verbod enz. In gevallen als \"ik hoop dat\", \"ik vrees dat\", \" ik geloof niet dat\", \"ik veronderstel dat\" e.d. gebruik je de uitgang van de toekomende tijd (-os)."
+        frazo-1: "Sluit de deur en ga zitten."
+        frazo-2: "Ik wil dat je komt."
+        frazo-3: "Leve Esperanto"
+        frazo-4: "Ze verzocht me te blijven."
+        frazo-5: "Laten wij (gaan) slapen / Laten zij (gaan) slapen"
+        frazo-6: "Ik hoop, dat hij komt (Esp.: ZAL komen)"
+        frazo-7: "Ik opper, dat hij moet komen (kome)."
+        frazo-8: "Het is mogelijk, dat hij komt (Esp.: ZAL komen)."
+        titolo: "De werkwoordsuitgang -u (gebiedende wijs, wensende wijs, aanvoegende wijs)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Ik moet begrijpen"
@@ -49,6 +39,16 @@ nl:
           frazo-plaĉi-1: "Iets of iemand bevalt me."
           frazo-plaĉi-2: "Ik houd van boeken."
           frazo-ŝati: "Ik houd van iets."
+      kondicionalo: 
+        frazo-1: "Als ik rijk was (zou zijn), zou ik veel reizen."
+        frazo-2: "Wij zouden het brood eten, als dat goed was (zou zijn)."
+        titolo: "De werkwoordsuitgang -us (\"Voorwaardelijke wijs\": Als het zo was, dan.....)"
+      nerekta: 
+        ekspliko: "In de indirekte rede gebruik je dezelfde tijd als in de direkte rede, bijvoorbeeld:"
+        frazo-1: "Hij zei, \"Ik kom uit New York\"."
+        frazo-2: "Hij zei, dat hij uit New York KOMT (in het ned. kwam!)"
+        frazo-3: "Ze zei: \"Ik zal naar Parijs reizen\"."
+        frazo-4: "Ze zei, dat ze naar Parijs ZAL (ned. zou) reizen."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "ik ga lezen (\"ben zullende lezen\")"

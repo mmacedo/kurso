@@ -4,29 +4,19 @@ hu:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Még több az igékrõl: már láttuk, hogy az igék \"as\"-szal végzõdnek jelen idõben, \"is\"-szel múlt idõben, \"os\"-szal jövõ idõben. A fõnévi igenevek \"i\" -vel végzõdnek. Vannak egyéb igealakok is:"
-        imperativo: 
-          ekspliko-1: "Az (-u) felszólító mód általában a második személyre vonatkozik, és nem szükséges használni a névmást. Az elsõ vagy a harmadik személy esetében azonban szükséges a vonatkozó névmás."
-          ekspliko-2: "Az (-u) végzõdés betûje jelenthet: parancsot, kérelmet, intelmet, óhajt, szükséget, kötelezettséget, engedélyt, tiltást. A \"remélem, félek, nem hiszem, feltételezem, stb.\" esetén azonban használjuk a jövõ idõ (-os) végzõdését."
-          frazo-1: "Zárd be az ablakot, és ülj le!"
-          frazo-2: "Akarom, hogy gyere."
-          frazo-3: "Élj Eszperantó!"
-          frazo-4: "Kérte, hogy maradjak."
-          frazo-5: "Hadd aludjunk / Hadd aludjanak"
-          frazo-6: "Remélem, hogy jönni fog."
-          frazo-7: "Javaslom, hogy jöjjön."
-          frazo-8: "Lehet, hogy jönni fog."
-          titolo: "Felszólító mód  (-U)"
-        kondicionalo: 
-          frazo-1: "Ha gazdag lennék, nagyon sokat utaznék."
-          frazo-2: "Mi ennénk a kenyeret, ha az jó volna."
-          titolo: "Feltételes mód (-US)"
-        nerekta: 
-          ekspliko: "A idézett beszédben ugyanazt az igeidõt és módot használjuk, mint a közvetlenben. Példák:"
-          frazo-1: "Azt mondta: \"New York-ból jövök\""
-          frazo-2: "Azt mondta, hogy New York-ból jön."
-          frazo-3: "Azt mondta: \"Párizsba fogok utazni.\""
-          frazo-4: "Azt mondta, hogy Párizsba fog utazni."
         titolo: "Egyéb igealakok"
+      imperativo: 
+        ekspliko-1: "Az (-u) felszólító mód általában a második személyre vonatkozik, és nem szükséges használni a névmást. Az elsõ vagy a harmadik személy esetében azonban szükséges a vonatkozó névmás."
+        ekspliko-2: "Az (-u) végzõdés betûje jelenthet: parancsot, kérelmet, intelmet, óhajt, szükséget, kötelezettséget, engedélyt, tiltást. A \"remélem, félek, nem hiszem, feltételezem, stb.\" esetén azonban használjuk a jövõ idõ (-os) végzõdését."
+        frazo-1: "Zárd be az ablakot, és ülj le!"
+        frazo-2: "Akarom, hogy gyere."
+        frazo-3: "Élj Eszperantó!"
+        frazo-4: "Kérte, hogy maradjak."
+        frazo-5: "Hadd aludjunk / Hadd aludjanak"
+        frazo-6: "Remélem, hogy jönni fog."
+        frazo-7: "Javaslom, hogy jöjjön."
+        frazo-8: "Lehet, hogy jönni fog."
+        titolo: "Felszólító mód  (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Meg kell értsem."
@@ -49,6 +39,16 @@ hu:
           frazo-plaĉi-1: "Valami vagy valaki tetszik nekem."
           frazo-plaĉi-2: "A könyvek tetszenek nekem."
           frazo-ŝati: "Szeretek valamit."
+      kondicionalo: 
+        frazo-1: "Ha gazdag lennék, nagyon sokat utaznék."
+        frazo-2: "Mi ennénk a kenyeret, ha az jó volna."
+        titolo: "Feltételes mód (-US)"
+      nerekta: 
+        ekspliko: "A idézett beszédben ugyanazt az igeidõt és módot használjuk, mint a közvetlenben. Példák:"
+        frazo-1: "Azt mondta: \"New York-ból jövök\""
+        frazo-2: "Azt mondta, hogy New York-ból jön."
+        frazo-3: "Azt mondta: \"Párizsba fogok utazni.\""
+        frazo-4: "Azt mondta, hogy Párizsba fog utazni."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Épp olvasni fogok."

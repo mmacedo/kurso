@@ -8,6 +8,18 @@
           %i.icon-chevron-right
           = t('.aliaj_verbaj_tempoj.titolo')
       %li
+        %a{href: '#kondicionalo'}
+          %i.icon-chevron-right
+          = t('.kondicionalo.titolo')
+      %li
+        %a{href: '#imperativo'}
+          %i.icon-chevron-right
+          = t('.imperativo.titolo')
+      %li
+        %a{href: '#nerekta'}
+          %i.icon-chevron-right
+          = t('.nerekta.titolo', default: "-")
+      %li
         %a{href: '#kelkaj_gravaj_verboj'}
           %i.icon-chevron-right
           = t('.kelkaj_gravaj_verboj.titolo')
@@ -23,6 +35,15 @@
     %section#aliaj_verbaj_tempoj
       .section-inner
         = render "lecionoj/leciono10/aliaj_verbaj_tempoj"
+    %section#kondicionalo
+      .section-inner
+        = render "lecionoj/leciono10/kondicionalo"
+    %section#imperativo
+      .section-inner
+        = render "lecionoj/leciono10/imperativo"
+    %section#nerekta
+      .section-inner
+        = render "lecionoj/leciono10/nerekta"
     %section#kelkaj_gravaj_verboj
       .section-inner
         = render "lecionoj/leciono10/kelkaj_gravaj_verboj"

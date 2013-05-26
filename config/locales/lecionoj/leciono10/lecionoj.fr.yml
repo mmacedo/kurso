@@ -4,29 +4,19 @@ fr:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Un peu plus sur les verbes : nous avons déjà vu que les verbes se terminent par \"as\" au présent, par \"is\" au passé, par \"os\" au futur et par \"i\" à l'infinitif. Il existe aussi d'autres temps :"
-        imperativo: 
-          ekspliko-1: "Le mode impératif (-u) se rapporte d'ordinaire à la 2ème personne et il n'est pas utile d'utiliser le pronom. Mais, pour la 1ère ou la 3ème personne, on doit utiliser le pronom concerné :"
-          ekspliko-2: "La terminaison en -u caractérise le but (ordre, demande, exhortation, désir, nécessité, devoir, permission, interdiction, etc.). Quand il s'agit de \"j'espère\", \"je crains\", \"je ne crois pas\", \"je suppose\" etc., on doit utiliser la terminaison du futur (-os)."
-          frazo-1: "Fermez la porte et asseyez-vous."
-          frazo-2: "Je veux que vous veniez."
-          frazo-3: "(Que) Vive l'espéranto !"
-          frazo-4: "Elle a demandé que je reste."
-          frazo-5: "Dormons / Qu'ils dorment."
-          frazo-6: "J'espère qu'il viendra."
-          frazo-7: "Je suggère qu'il vienne."
-          frazo-8: "Il est possible qu'il vienne."
-          titolo: "Impératif (-U)"
-        kondicionalo: 
-          frazo-1: "Si j'étais riche, je voyagerais beaucoup."
-          frazo-2: "Nous mangerions le pain s'il était bon."
-          titolo: "Conditionnel (-US)"
-        nerekta: 
-          ekspliko: "Au discours indirect, on doit utiliser le même temps et le même mode qu'au discours direct. Ex. :"
-          frazo-1: "Il a dit : \"Je viens de New-York\"."
-          frazo-2: "Il a dit qu'il venait de New-York."
-          frazo-3: "Elle a dit : \"Je voyagerai à Paris\"."
-          frazo-4: "Elle a dit qu'elle allait voyager à Paris."
         titolo: "Autres temps des verbes"
+      imperativo: 
+        ekspliko-1: "Le mode impératif (-u) se rapporte d'ordinaire à la 2ème personne et il n'est pas utile d'utiliser le pronom. Mais, pour la 1ère ou la 3ème personne, on doit utiliser le pronom concerné :"
+        ekspliko-2: "La terminaison en -u caractérise le but (ordre, demande, exhortation, désir, nécessité, devoir, permission, interdiction, etc.). Quand il s'agit de \"j'espère\", \"je crains\", \"je ne crois pas\", \"je suppose\" etc., on doit utiliser la terminaison du futur (-os)."
+        frazo-1: "Fermez la porte et asseyez-vous."
+        frazo-2: "Je veux que vous veniez."
+        frazo-3: "(Que) Vive l'espéranto !"
+        frazo-4: "Elle a demandé que je reste."
+        frazo-5: "Dormons / Qu'ils dorment."
+        frazo-6: "J'espère qu'il viendra."
+        frazo-7: "Je suggère qu'il vienne."
+        frazo-8: "Il est possible qu'il vienne."
+        titolo: "Impératif (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Je dois comprendre"
@@ -49,6 +39,16 @@ fr:
           frazo-plaĉi-1: "Quelque chose ou quelqu'un me plaît."
           frazo-plaĉi-2: "Des livres me plaisent."
           frazo-ŝati: "J'aime (j'apprécie) quelque chose."
+      kondicionalo: 
+        frazo-1: "Si j'étais riche, je voyagerais beaucoup."
+        frazo-2: "Nous mangerions le pain s'il était bon."
+        titolo: "Conditionnel (-US)"
+      nerekta: 
+        ekspliko: "Au discours indirect, on doit utiliser le même temps et le même mode qu'au discours direct. Ex. :"
+        frazo-1: "Il a dit : \"Je viens de New-York\"."
+        frazo-2: "Il a dit qu'il venait de New-York."
+        frazo-3: "Elle a dit : \"Je voyagerai à Paris\"."
+        frazo-4: "Elle a dit qu'elle allait voyager à Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Je lirai (je suis \"allant lire\")."

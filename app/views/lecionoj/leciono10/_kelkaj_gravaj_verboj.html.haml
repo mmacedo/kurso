@@ -1,39 +1,57 @@
 .page-header
   %h2= t '.titolo'
-%dl.dl-horizontal
-  %dt= eo "voli"
-  %dd= t '.modalaj_verboj.voli'
-  %dt= eo "povi"
-  %dd= t '.modalaj_verboj.povi'
-  %dt= eo "devi"
-  %dd= t '.modalaj_verboj.devi'
-  %dt= eo "Mi volas veni"
-  %dd= t '.modalaj_verboj.volas-veni'
-  %dt= eo "Mi volas kompreni"
-  %dd= t '.modalaj_verboj.volas-kompreni'
-  %dt= eo "Mi povas veni"
-  %dd= t '.modalaj_verboj.povas-veni'
-  %dt= eo "Mi povas kompreni"
-  %dd= t '.modalaj_verboj.povas-kompreni'
-  %dt= eo "Mi devas veni"
-  %dd= t '.modalaj_verboj.devas-veni'
-  %dt= eo "Mi devas kompreni"
-  %dd= t '.modalaj_verboj.devas-kompreni'
-%dl.dl-horizontal
-  %dt= eo "Io aŭ iu plaĉas al mi."
-  %dd= t '.ŝato.frazo-plaĉi-1'
-  %dt= eo "Libroj plaĉas al mi."
-  %dd= t '.ŝato.frazo-plaĉi-2'
-  %dt= eo "Mi ŝatas ion."
-  %dd= t '.ŝato.frazo-ŝati'
-  %dt= eo "Mi amas iun."
-  %dd= t '.ŝato.frazo-ami'
-%dl.dl-horizontal
-  %dt= eo "Mi konas..."
-  %dd= t '.scio.frazo-koni-1'
-  %dt= eo "Ĉu vi konas Johanon?"
-  %dd= t '.scio.frazo-koni-2'
-  %dt= eo "Mi scias..."
-  %dd= t '.scio.frazo-scii-1'
-  %dt= eo "Ĉu vi scias Esperanton?"
-  %dd= t '.scio.frazo-scii-2'
+.row-fluid
+  .span4
+    %dl
+      %dt= eo "voli"
+      %dd= t '.modalaj_verboj.voli'
+      %dt= eo "Mi volas veni"
+      %dd= t '.modalaj_verboj.volas-veni'
+      %dt= eo "Mi volas kompreni"
+      %dd= t '.modalaj_verboj.volas-kompreni'
+  .span4
+    %dl
+      %dt= eo "povi"
+      %dd= t '.modalaj_verboj.povi'
+      %dt= eo "Mi povas veni"
+      %dd= t '.modalaj_verboj.povas-veni'
+      %dt= eo "Mi povas kompreni"
+      %dd= t '.modalaj_verboj.povas-kompreni'
+  .span4
+    %dl
+      %dt= eo "devi"
+      %dd= t '.modalaj_verboj.devi'
+      %dt= eo "Mi devas veni"
+      %dd= t '.modalaj_verboj.devas-veni'
+      %dt= eo "Mi devas kompreni"
+      %dd= t '.modalaj_verboj.devas-kompreni'
+%hr
+.row-fluid
+  .span4
+    %dl
+      %dt= eo "Io aŭ iu plaĉas al mi."
+      %dd= t '.ŝato.frazo-plaĉi-1'
+      %dt= eo "Libroj plaĉas al mi."
+      %dd= t '.ŝato.frazo-plaĉi-2'
+  .span4
+    %dl
+      %dt= eo "Mi ŝatas ion."
+      %dd= t '.ŝato.frazo-ŝati'
+  .span4
+    %dl
+      %dt= eo "Mi amas iun."
+      %dd= t '.ŝato.frazo-ami'
+%hr
+.row-fluid
+  .span6
+    %dl
+      %dt= eo "Mi konas..."
+      %dd= t '.scio.frazo-koni-1'
+      %dt= eo "Ĉu vi konas Johanon?"
+      %dd= t '.scio.frazo-koni-2'
+  .span6
+    %dl
+      %dt= eo "Mi scias..."
+      %dd= t '.scio.frazo-scii-1'
+      %dt= eo "Ĉu vi scias Esperanton?"
+      %dd= t '.scio.frazo-scii-2'

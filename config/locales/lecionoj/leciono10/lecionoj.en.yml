@@ -4,29 +4,19 @@ en:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "We already have seen that verbs end in  \"as\"  in the present,  \"is\"  in the past,  \"os\"  in the future, and  \"i\"  in the infinitive.  There are other verb forms:"
-        imperativo: 
-          ekspliko-1: "The imperative mode (-u) generally relates to the second person, and in that case it is not necessary to use the pronoun 'you'. However, when referring to the first or third person, we need to use the pronoun."
-          ekspliko-2: "When a subordinate clause introduced by 'ke' follows a verb which expresses causation in some way (command, request, admonition, desire, need, duty, permission, prohibition, etc.) the verb in the subordinate clause is in -U mode.  After verbs expressing hope (esperi), fear (timi), disbelief (ne kredi), supposition (supozi), don't use -U mode."
-          frazo-1: "Close the door and sit down."
-          frazo-2: "I want you to come."
-          frazo-3: "Long live Esperanto!"
-          frazo-4: "She asked me to stay. (She asked that I stay.)"
-          frazo-5: "Let's sleep. / Let them sleep."
-          frazo-6: "I hope that he will come."
-          frazo-7: "I suggest that he come."
-          frazo-8: "Maybe he will come. It is possible that he will come."
-          titolo: "Imperative mode (-U):"
-        kondicionalo: 
-          frazo-1: "If I were rich, I would travel a lot. (but I am not rich)"
-          frazo-2: "We would eat the bread, if it were good. (but it isn't)"
-          titolo: "Conditional mode (-US):  (used when the condition in the 'if' clause is contrary to fact)"
-        nerekta: 
-          ekspliko: "In indirect speech, use the same tense and mode as in the corresponding sentence in direct speech.  Examples:"
-          frazo-1: "He said, \"I am coming from New York.\""
-          frazo-2: "He said that he was coming from New York."
-          frazo-3: "She said, \"I will travel to Paris.\""
-          frazo-4: "She said that she would travel to Paris."
         titolo: "Other verb forms"
+      imperativo: 
+        ekspliko-1: "The imperative mode (-u) generally relates to the second person, and in that case it is not necessary to use the pronoun 'you'. However, when referring to the first or third person, we need to use the pronoun."
+        ekspliko-2: "When a subordinate clause introduced by 'ke' follows a verb which expresses causation in some way (command, request, admonition, desire, need, duty, permission, prohibition, etc.) the verb in the subordinate clause is in -U mode.  After verbs expressing hope (esperi), fear (timi), disbelief (ne kredi), supposition (supozi), don't use -U mode."
+        frazo-1: "Close the door and sit down."
+        frazo-2: "I want you to come."
+        frazo-3: "Long live Esperanto!"
+        frazo-4: "She asked me to stay. (She asked that I stay.)"
+        frazo-5: "Let's sleep. / Let them sleep."
+        frazo-6: "I hope that he will come."
+        frazo-7: "I suggest that he come."
+        frazo-8: "Maybe he will come. It is possible that he will come."
+        titolo: "Imperative mode (-U):"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "I must understand. I have to understand."
@@ -49,6 +39,16 @@ en:
           frazo-plaĉi-1: "Something or somebody pleases me.  I like something or somebody."
           frazo-plaĉi-2: "Books please me.  I like books."
           frazo-ŝati: "I like something.  Something pleases me."
+      kondicionalo: 
+        frazo-1: "If I were rich, I would travel a lot. (but I am not rich)"
+        frazo-2: "We would eat the bread, if it were good. (but it isn't)"
+        titolo: "Conditional mode (-US):  (used when the condition in the 'if' clause is contrary to fact)"
+      nerekta: 
+        ekspliko: "In indirect speech, use the same tense and mode as in the corresponding sentence in direct speech.  Examples:"
+        frazo-1: "He said, \"I am coming from New York.\""
+        frazo-2: "He said that he was coming from New York."
+        frazo-3: "She said, \"I will travel to Paris.\""
+        frazo-4: "She said that she would travel to Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "I am going to read."

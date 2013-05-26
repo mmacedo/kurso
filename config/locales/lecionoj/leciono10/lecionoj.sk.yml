@@ -4,29 +4,19 @@ sk:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Niečo viac o slovesách: už vieme, že slovesá v prítomnom čase končia na \"as\", v minulom na \"is\" a \"os\" v budúcom čase, no a \"i\" v neurčitku. Existujú aj iné vyjadrenia:"
-        imperativo: 
-          ekspliko-1: "Rozkazovací spôsob (-u) sa väčšinou vzťahuje na druhú osobu a nie je nutné uvádzať zámeno. Ale pokiaľ sa jedná o prvú alebo tretiu osobu je nutné použiť adekvátne zámeno ( a prekladáme pomocou \"nech\")."
-          ekspliko-2: "Koncovka -u vyjadruje účel (rozkaz, prosbu, napomenutie, prianie, nutnosť, povolenie, zákaz atď.). V prípadoch ako \"dúfam\", \"bojím sa\", \"neverím\", \"navrhujem\" atď sa používa koncovka \"-os\"."
-          frazo-1: "Zatvor dvere a posaď sa."
-          frazo-2: "Chcem, aby si prišiel."
-          frazo-3: "Nech žije esperanto!"
-          frazo-4: "Prosila, aby som zostal."
-          frazo-5: "Spime / Nech spia"
-          frazo-6: "Dúfam, že príde."
-          frazo-7: "Navrhujem, aby prišiel."
-          frazo-8: "Je možné, že príde."
-          titolo: "Rozkazovací spôsob (-u)"
-        kondicionalo: 
-          frazo-1: "Keby som bol bohatý, veľa by som cestoval."
-          frazo-2: "Jedli by sme chlieb, keby bol dobrý."
-          titolo: "Podmieňovací spôsob (-us)"
-        nerekta: 
-          ekspliko: "V nepriamej reči sa používa rovnaký čas a slovesný tvar ako v priamej reči. Napr:"
-          frazo-1: "Povedal:\"Prichádzam z New-Yorku.\""
-          frazo-2: "Povedal, že prichádza z New-Yorku."
-          frazo-3: "Povedala:\"Pocestujem do Paríža.\""
-          frazo-4: "Povedala, že pocestuje do Paríža."
         titolo: "Iné slovesné tvary"
+      imperativo: 
+        ekspliko-1: "Rozkazovací spôsob (-u) sa väčšinou vzťahuje na druhú osobu a nie je nutné uvádzať zámeno. Ale pokiaľ sa jedná o prvú alebo tretiu osobu je nutné použiť adekvátne zámeno ( a prekladáme pomocou \"nech\")."
+        ekspliko-2: "Koncovka -u vyjadruje účel (rozkaz, prosbu, napomenutie, prianie, nutnosť, povolenie, zákaz atď.). V prípadoch ako \"dúfam\", \"bojím sa\", \"neverím\", \"navrhujem\" atď sa používa koncovka \"-os\"."
+        frazo-1: "Zatvor dvere a posaď sa."
+        frazo-2: "Chcem, aby si prišiel."
+        frazo-3: "Nech žije esperanto!"
+        frazo-4: "Prosila, aby som zostal."
+        frazo-5: "Spime / Nech spia"
+        frazo-6: "Dúfam, že príde."
+        frazo-7: "Navrhujem, aby prišiel."
+        frazo-8: "Je možné, že príde."
+        titolo: "Rozkazovací spôsob (-u)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Musím rozumieť."
@@ -49,6 +39,16 @@ sk:
           frazo-plaĉi-1: "Niečo alebo niekto sa mi páči."
           frazo-plaĉi-2: "Knihy sa mi páčia."
           frazo-ŝati: "Niečo mám rád."
+      kondicionalo: 
+        frazo-1: "Keby som bol bohatý, veľa by som cestoval."
+        frazo-2: "Jedli by sme chlieb, keby bol dobrý."
+        titolo: "Podmieňovací spôsob (-us)"
+      nerekta: 
+        ekspliko: "V nepriamej reči sa používa rovnaký čas a slovesný tvar ako v priamej reči. Napr:"
+        frazo-1: "Povedal:\"Prichádzam z New-Yorku.\""
+        frazo-2: "Povedal, že prichádza z New-Yorku."
+        frazo-3: "Povedala:\"Pocestujem do Paríža.\""
+        frazo-4: "Povedala, že pocestuje do Paríža."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Chystám sa čítať. (budem čítať)"

@@ -4,29 +4,19 @@ id:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Suatu lebih tentang kata kerja:  kita telah mempelajari bahwa k.k. berakhir dengas \"as\" dalam k.k. masa kini, \"is\" dalam k.k. yg lalu, \"os\" dalam k.k. masa depan, dan \"i\" dalam k.k. infinitif.  Ada juga waktu lain:"
-        imperativo: 
-          ekspliko-1: "Bentuk perintah akhiran (-u) biasanya berhubungan dgn persona kedua, dan tidak perlu memakai kata peng-   ganti.  Tetapi, bilamana kita membicarakan tentang persona 1-a atau 3-a, kita memerlukan memakai k. p/ganti."
-          ekspliko-2: "Akhiran\"u\" menunjukkan pintah, permohonan, teguran, keinginan, keperluan, kewajiban, izin, larangan, dsb.  Dalam hal ini, \"Saya mengharap\", \"Saya takut\", \"Saya tidak percaya\", \"Saya mengira\" dsb, pakailah masa depan akhiran (-os)."
-          frazo-1: "Tutuplah pintu dan duduklah."
-          frazo-2: "Saya ingin anda datang."
-          frazo-3: "Hiduplah bahasa Esperanto!"
-          frazo-4: "Dia meminta saya tinggal."
-          frazo-5: "Mari kita tidur  /  Biarkan mereka tidur."
-          frazo-6: "Saya berharap dia (laki-laki) akan datang."
-          frazo-7: "Saya menganjurkan dia (laki-laki) akan datang."
-          frazo-8: "Mungkin dia (laki-laki) akan datang."
-          titolo: "Bentuk perintah (-u)"
-        kondicionalo: 
-          frazo-1: "Kalau saya kaya saya akan banyak berpergian (tetapi tak kaya"
-          frazo-2: "Kita memakan roti itu, bilamana enak.  (Tetapi roti itu tidak enak)"
-          titolo: "Bentuk pengandaian (-us)"
-        nerekta: 
-          ekspliko: "Dalam pembicaraan tak langsung, pakailah kata kerja cara seperti dalam bicara langsung.  Contoh:"
-          frazo-1: "Dia berkata, \"Saya berasal dari New York\"."
-          frazo-2: "Dia berkata bahwa dia berasal dari New York."
-          frazo-3: "Dia berkata, \"Saya akan berpergian ke Paris\"."
-          frazo-4: "Dia berkata bahwa dia akan berpergian ke Paris."
         titolo: "Kata Kerja pada Suatu Waktu Lain"
+      imperativo: 
+        ekspliko-1: "Bentuk perintah akhiran (-u) biasanya berhubungan dgn persona kedua, dan tidak perlu memakai kata peng-   ganti.  Tetapi, bilamana kita membicarakan tentang persona 1-a atau 3-a, kita memerlukan memakai k. p/ganti."
+        ekspliko-2: "Akhiran\"u\" menunjukkan pintah, permohonan, teguran, keinginan, keperluan, kewajiban, izin, larangan, dsb.  Dalam hal ini, \"Saya mengharap\", \"Saya takut\", \"Saya tidak percaya\", \"Saya mengira\" dsb, pakailah masa depan akhiran (-os)."
+        frazo-1: "Tutuplah pintu dan duduklah."
+        frazo-2: "Saya ingin anda datang."
+        frazo-3: "Hiduplah bahasa Esperanto!"
+        frazo-4: "Dia meminta saya tinggal."
+        frazo-5: "Mari kita tidur  /  Biarkan mereka tidur."
+        frazo-6: "Saya berharap dia (laki-laki) akan datang."
+        frazo-7: "Saya menganjurkan dia (laki-laki) akan datang."
+        frazo-8: "Mungkin dia (laki-laki) akan datang."
+        titolo: "Bentuk perintah (-u)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Saya harus mengerti."
@@ -49,6 +39,16 @@ id:
           frazo-plaĉi-1: "Sesuatu atau seseorang menyenangkan hati saya."
           frazo-plaĉi-2: "Buku-buku menyenangkan saya."
           frazo-ŝati: "Saya suka sesuatu."
+      kondicionalo: 
+        frazo-1: "Kalau saya kaya saya akan banyak berpergian (tetapi tak kaya"
+        frazo-2: "Kita memakan roti itu, bilamana enak.  (Tetapi roti itu tidak enak)"
+        titolo: "Bentuk pengandaian (-us)"
+      nerekta: 
+        ekspliko: "Dalam pembicaraan tak langsung, pakailah kata kerja cara seperti dalam bicara langsung.  Contoh:"
+        frazo-1: "Dia berkata, \"Saya berasal dari New York\"."
+        frazo-2: "Dia berkata bahwa dia berasal dari New York."
+        frazo-3: "Dia berkata, \"Saya akan berpergian ke Paris\"."
+        frazo-4: "Dia berkata bahwa dia akan berpergian ke Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Saya akan membaca."

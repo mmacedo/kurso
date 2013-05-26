@@ -4,29 +4,19 @@ cs:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Nyní si povíme o slovesech něco více: víme už, že slovesa končí v přítomném čase na \"as\", v minulém na \"is\", v budoucím na \"os\" a v infinitivu na \"i\". Existují ovšem další slovesné tvary:"
-        imperativo: 
-          ekspliko-1: "Rozkazovací způsob (-u) se obvykle vztahuje ke druhé osobě, proto v tomto případě se nepoužívá zájméno. Pokud se však jedná o jinou osobu, zájméno používáme (a do češtiny překládáme slůvkem AŤ):"
-          ekspliko-2: "Koncovka -u svým charakterem vyjadřuje účel (rozkaz, prosbu, napomenutí, přání, potřebu, povinnost, povolení, zákaz atd.). V případech jako \"doufám, bojím se, nevěřím, předpokládám\" apod. používejte koncovku budoucího času (-os)."
-          frazo-1: "Zavři dveře a posaď se."
-          frazo-2: "Chci, abys přišel."
-          frazo-3: "Ať žije esperanto!"
-          frazo-4: "Prosila, abych zůstal."
-          frazo-5: "Spěme / Ať oni spějí"
-          frazo-6: "Doufám, že přijde."
-          frazo-7: "Navrhuji, aby přišel."
-          frazo-8: "Je možné, že přijde."
-          titolo: "Rozkazovací způsob (-U)"
-        kondicionalo: 
-          frazo-1: "Kdybych byl bohatý, hodně bych cestoval."
-          frazo-2: "Jedli bychom ten chléb, kdyby byl dobrý."
-          titolo: "Podmiňovací způsob (-US)"
-        nerekta: 
-          ekspliko: "V nepřímé řeči používáme stejný čas a slovesný způsob jako v přímé řeči. Např.:"
-          frazo-1: "Řekl: \"Přicházím z New-Yorku\"."
-          frazo-2: "Řekl, že přichází z New Yorku."
-          frazo-3: "Řekla: \"Pojedu do Paříže.\""
-          frazo-4: "Řekla, že pojede do Paříže."
         titolo: "Další slovesné tvary"
+      imperativo: 
+        ekspliko-1: "Rozkazovací způsob (-u) se obvykle vztahuje ke druhé osobě, proto v tomto případě se nepoužívá zájméno. Pokud se však jedná o jinou osobu, zájméno používáme (a do češtiny překládáme slůvkem AŤ):"
+        ekspliko-2: "Koncovka -u svým charakterem vyjadřuje účel (rozkaz, prosbu, napomenutí, přání, potřebu, povinnost, povolení, zákaz atd.). V případech jako \"doufám, bojím se, nevěřím, předpokládám\" apod. používejte koncovku budoucího času (-os)."
+        frazo-1: "Zavři dveře a posaď se."
+        frazo-2: "Chci, abys přišel."
+        frazo-3: "Ať žije esperanto!"
+        frazo-4: "Prosila, abych zůstal."
+        frazo-5: "Spěme / Ať oni spějí"
+        frazo-6: "Doufám, že přijde."
+        frazo-7: "Navrhuji, aby přišel."
+        frazo-8: "Je možné, že přijde."
+        titolo: "Rozkazovací způsob (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Musím porozumět"
@@ -49,6 +39,16 @@ cs:
           frazo-plaĉi-1: "Něco nebo někdo se mi líbí"
           frazo-plaĉi-2: "Knihy se mi líbí."
           frazo-ŝati: "Mám něco rád."
+      kondicionalo: 
+        frazo-1: "Kdybych byl bohatý, hodně bych cestoval."
+        frazo-2: "Jedli bychom ten chléb, kdyby byl dobrý."
+        titolo: "Podmiňovací způsob (-US)"
+      nerekta: 
+        ekspliko: "V nepřímé řeči používáme stejný čas a slovesný způsob jako v přímé řeči. Např.:"
+        frazo-1: "Řekl: \"Přicházím z New-Yorku\"."
+        frazo-2: "Řekl, že přichází z New Yorku."
+        frazo-3: "Řekla: \"Pojedu do Paříže.\""
+        frazo-4: "Řekla, že pojede do Paříže."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Jsem hodlající číst."

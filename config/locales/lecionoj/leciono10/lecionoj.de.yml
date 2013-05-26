@@ -4,31 +4,21 @@ de:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "(a) Indikativ - 'Anzeigeform': In der 1. - 3. Person endet das Verb durchweg  im Präsens auf -as, im Präteritum auf -is, im Futur auf -os (Infinitiv stets auf -i).  Außerdem gelten als  Modi:"
-        imperativo: 
-          ekspliko-1: "Der Imperativ bezieht sich normalerweise auf die 2. Person (du/ihr) - und zwar ohne Personalpronomen. Dieses steht jedoch bei der 1. oder 3. Person [oft Formen des Wünschens]."
-          ekspliko-2: |-
-              Die Endung -u verwendet man bei Aufforderungen (Befehl, Wunsch u. ä.).
-              Nach Verben des Hoffens, Fürchtens, Glaubens usw. gebrauche man das Futur (-os).
-          frazo-1: "Schließ die Tür und setz dich hin."
-          frazo-2: "Ich will, dass du kommst."
-          frazo-3: "Esperanto soll leben!"
-          frazo-4: "Sie bat mich zu bleiben (wörtl.: dass ich bliebe)."
-          frazo-5: "Lasst uns schlafen!/Sie sollen schlafen!"
-          frazo-6: "Ich hoffe, dass er kommen wird."
-          frazo-7: "Ich rate (ihm) zu kommen [dass er kommen soll]."
-          frazo-8: "Es ist möglich, dass er kommt (wörtl.: kommen wird)."
-          titolo: "(c) Imperativ - 'Befehlsform' (-u)"
-        kondicionalo: 
-          frazo-1: "Wenn ich reich wäre, würde ich viel reisen."
-          frazo-2: "Wir würden das Brot essen, wenn es gut wäre."
-          titolo: "(b) Konditional -  'Bedingungsform' (-us) ['Konjunktiv']"
-        nerekta: 
-          ekspliko: "In der abhängigen Rede benutzt man die gleichen Verbformen wie in der direkten Rede, z. B.:"
-          frazo-1: "Er sagte: \"Ich komme von New York.\""
-          frazo-2: "Er sagte, dass er von New York komme."
-          frazo-3: "Sie sagte: \"Ich werde nach Paris reisen.\""
-          frazo-4: "Sie sagte, dass sie nach Paris reisen werde."
         titolo: "Verbformen als Modi: (a) Indikativ, (b) Konditional, (c) Imperativ"
+      imperativo: 
+        ekspliko-1: "Der Imperativ bezieht sich normalerweise auf die 2. Person (du/ihr) - und zwar ohne Personalpronomen. Dieses steht jedoch bei der 1. oder 3. Person [oft Formen des Wünschens]."
+        ekspliko-2: |-
+            Die Endung -u verwendet man bei Aufforderungen (Befehl, Wunsch u. ä.).
+            Nach Verben des Hoffens, Fürchtens, Glaubens usw. gebrauche man das Futur (-os).
+        frazo-1: "Schließ die Tür und setz dich hin."
+        frazo-2: "Ich will, dass du kommst."
+        frazo-3: "Esperanto soll leben!"
+        frazo-4: "Sie bat mich zu bleiben (wörtl.: dass ich bliebe)."
+        frazo-5: "Lasst uns schlafen!/Sie sollen schlafen!"
+        frazo-6: "Ich hoffe, dass er kommen wird."
+        frazo-7: "Ich rate (ihm) zu kommen [dass er kommen soll]."
+        frazo-8: "Es ist möglich, dass er kommt (wörtl.: kommen wird)."
+        titolo: "(c) Imperativ - 'Befehlsform' (-u)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Ich muss verstehen."
@@ -51,6 +41,16 @@ de:
           frazo-plaĉi-1: "Etwas oder jemand gefällt mir."
           frazo-plaĉi-2: "Bücher gefallen mir."
           frazo-ŝati: "Ich schätze (irgend)etwas."
+      kondicionalo: 
+        frazo-1: "Wenn ich reich wäre, würde ich viel reisen."
+        frazo-2: "Wir würden das Brot essen, wenn es gut wäre."
+        titolo: "(b) Konditional -  'Bedingungsform' (-us) ['Konjunktiv']"
+      nerekta: 
+        ekspliko: "In der abhängigen Rede benutzt man die gleichen Verbformen wie in der direkten Rede, z. B.:"
+        frazo-1: "Er sagte: \"Ich komme von New York.\""
+        frazo-2: "Er sagte, dass er von New York komme."
+        frazo-3: "Sie sagte: \"Ich werde nach Paris reisen.\""
+        frazo-4: "Sie sagte, dass sie nach Paris reisen werde."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Ich werde lesen."

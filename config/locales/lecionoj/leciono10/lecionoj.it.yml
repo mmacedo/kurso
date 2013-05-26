@@ -4,29 +4,19 @@ it:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Qualcosa in più sui verbi. Abbiamo già visto che, all'indicativo, i verbi terminano in -as al presente, in -is al passato, in -os al futuro; e, all'infinito, in -i. Ci sono anche altri modi:"
-        imperativo: 
-          ekspliko-1: "Il volitivo (-u) si riferisce di solito alla seconda persona (come un imperativo) e sottintende il pronome. Ma se si tratta della prima o terza persona, il pronome corrispondente va esplicitato:"
-          ekspliko-2: "La terminazione -u denota uno scopo (ordine, richiesta, ammonizione, desiderio, dovere, permesso, proibizione, etc.). Se, invece, il verbo principale è \"temo\", \"spero\", \"non credo\", \"suppongo\" e simili (che non esprimono una volontà) occorre la terminazione -os del futuro."
-          frazo-1: "Chiudi la porta e siediti."
-          frazo-2: "[Io] voglio che tu venga."
-          frazo-3: "Viva l'esperanto!"
-          frazo-4: "[Ella] chiese che [io] restassi."
-          frazo-5: "[Che noi] dormiamo! / [Che essi] dormano!"
-          frazo-6: "[Io] spero che [lui] venga."
-          frazo-7: "[Io] suggerisco che [lui] venga."
-          frazo-8: "È possibile che [lui] venga."
-          titolo: "Volitivo (terminazione: -u; corrisponde anche, in parte, al congiuntivo italiano)"
-        kondicionalo: 
-          frazo-1: "Se fossi ricco, viaggerei molto."
-          frazo-2: "Mangeremmo il pane, se fosse buono."
-          titolo: "Condizionale (terminazione: -us; corrisponde anche, in parte, al congiuntivo italiano)"
-        nerekta: 
-          ekspliko: "Nel discorso indiretto, il verbo prende lo stesso tempo e modo del discorso diretto. Ad esempio:"
-          frazo-1: "[Lui] disse: \"Vengo da New York\"."
-          frazo-2: "[Lui] disse di venire da New York."
-          frazo-3: "[Lei] disse:\"[Io] andrò a Parigi\"."
-          frazo-4: "[Lei] disse che sarebbe andata a Parigi."
         titolo: "Altre forme verbali"
+      imperativo: 
+        ekspliko-1: "Il volitivo (-u) si riferisce di solito alla seconda persona (come un imperativo) e sottintende il pronome. Ma se si tratta della prima o terza persona, il pronome corrispondente va esplicitato:"
+        ekspliko-2: "La terminazione -u denota uno scopo (ordine, richiesta, ammonizione, desiderio, dovere, permesso, proibizione, etc.). Se, invece, il verbo principale è \"temo\", \"spero\", \"non credo\", \"suppongo\" e simili (che non esprimono una volontà) occorre la terminazione -os del futuro."
+        frazo-1: "Chiudi la porta e siediti."
+        frazo-2: "[Io] voglio che tu venga."
+        frazo-3: "Viva l'esperanto!"
+        frazo-4: "[Ella] chiese che [io] restassi."
+        frazo-5: "[Che noi] dormiamo! / [Che essi] dormano!"
+        frazo-6: "[Io] spero che [lui] venga."
+        frazo-7: "[Io] suggerisco che [lui] venga."
+        frazo-8: "È possibile che [lui] venga."
+        titolo: "Volitivo (terminazione: -u; corrisponde anche, in parte, al congiuntivo italiano)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "[Io] devo capire"
@@ -49,6 +39,16 @@ it:
           frazo-plaĉi-1: "Qualcosa o qualcuno mi piace."
           frazo-plaĉi-2: "[I / Dei] libri mi piacciono."
           frazo-ŝati: "Mi piace qualcosa ([Io] gradisco qualcosa]."
+      kondicionalo: 
+        frazo-1: "Se fossi ricco, viaggerei molto."
+        frazo-2: "Mangeremmo il pane, se fosse buono."
+        titolo: "Condizionale (terminazione: -us; corrisponde anche, in parte, al congiuntivo italiano)"
+      nerekta: 
+        ekspliko: "Nel discorso indiretto, il verbo prende lo stesso tempo e modo del discorso diretto. Ad esempio:"
+        frazo-1: "[Lui] disse: \"Vengo da New York\"."
+        frazo-2: "[Lui] disse di venire da New York."
+        frazo-3: "[Lei] disse:\"[Io] andrò a Parigi\"."
+        frazo-4: "[Lei] disse che sarebbe andata a Parigi."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "[Io] sto per leggere."

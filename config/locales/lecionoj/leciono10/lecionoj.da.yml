@@ -4,29 +4,19 @@ da:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Lidt mere om udsagnsordene: Vi har allerede set at udsagnsordene ender på \"as\" i nutid, på \"is\" i datid, på \"os\" i fremtid og på \"i\" i  navneform. Der er også andre tider for udsagnsord:"
-        imperativo: 
-          ekspliko-1: "Bydemåde (-u) relaterer normalt til anden person og det er unødvendigt at benytte stedord.  Når det drejer sig om første eller tredie person benytter man det aktuelle stedord:"
-          ekspliko-2: "Karakteren af endelsen \"-u\"  er målet (ordren, begæringen, formaningen, ønsket, nødvendigheden, pligten, tilladelsen, forbudet osv.). I de tilfælde hvor det handler om \"jeg ønsker\", \"jeg frygter\", \"jeg tror ikke\", \"jeg antager\" osv benytter man fremtidsendelsen (-os)."
-          frazo-1: "Luk døren og sid ned."
-          frazo-2: "Jeg vil at du skal komme.    (ønskemåde)"
-          frazo-3: "Leve esperanto!"
-          frazo-4: "Hun bad om at jeg skulle blive."
-          frazo-5: "Lad os sove/Lad dem sove."
-          frazo-6: "Jeg håber at han vil komme."
-          frazo-7: "Jeg foreslår at han skal komme."
-          frazo-8: "Det er muligt at han vil komme."
-          titolo: "Bydemåde, ønskemåde"
-        kondicionalo: 
-          frazo-1: "Hvis jeg var rig, ville jeg rejse meget."
-          frazo-2: "Vi ville spise brødet hvis det var godt."
-          titolo: "Betinget måde (-us)"
-        nerekta: 
-          ekspliko: "I indirekte tale benytter man den samme tid og bøjningsform som i direkte tale. Fx:"
-          frazo-1: "Han sagde, \"Jeg kommer fra New York\"."
-          frazo-2: "Han sagde at han kom fra New York."
-          frazo-3: "Hun sagde, \"Jeg vil rejse til Paris\"."
-          frazo-4: "Hun sagde at hun ville rejse til Paris."
         titolo: "Udsagnsords øvrige tider"
+      imperativo: 
+        ekspliko-1: "Bydemåde (-u) relaterer normalt til anden person og det er unødvendigt at benytte stedord.  Når det drejer sig om første eller tredie person benytter man det aktuelle stedord:"
+        ekspliko-2: "Karakteren af endelsen \"-u\"  er målet (ordren, begæringen, formaningen, ønsket, nødvendigheden, pligten, tilladelsen, forbudet osv.). I de tilfælde hvor det handler om \"jeg ønsker\", \"jeg frygter\", \"jeg tror ikke\", \"jeg antager\" osv benytter man fremtidsendelsen (-os)."
+        frazo-1: "Luk døren og sid ned."
+        frazo-2: "Jeg vil at du skal komme.    (ønskemåde)"
+        frazo-3: "Leve esperanto!"
+        frazo-4: "Hun bad om at jeg skulle blive."
+        frazo-5: "Lad os sove/Lad dem sove."
+        frazo-6: "Jeg håber at han vil komme."
+        frazo-7: "Jeg foreslår at han skal komme."
+        frazo-8: "Det er muligt at han vil komme."
+        titolo: "Bydemåde, ønskemåde"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Jeg skal forstå"
@@ -49,6 +39,16 @@ da:
           frazo-plaĉi-1: "Noget eller nogen behager mig."
           frazo-plaĉi-2: "Bøger tiltaler mig."
           frazo-ŝati: "Jeg holder af  noget."
+      kondicionalo: 
+        frazo-1: "Hvis jeg var rig, ville jeg rejse meget."
+        frazo-2: "Vi ville spise brødet hvis det var godt."
+        titolo: "Betinget måde (-us)"
+      nerekta: 
+        ekspliko: "I indirekte tale benytter man den samme tid og bøjningsform som i direkte tale. Fx:"
+        frazo-1: "Han sagde, \"Jeg kommer fra New York\"."
+        frazo-2: "Han sagde at han kom fra New York."
+        frazo-3: "Hun sagde, \"Jeg vil rejse til Paris\"."
+        frazo-4: "Hun sagde at hun ville rejse til Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Jeg skal til at læse"

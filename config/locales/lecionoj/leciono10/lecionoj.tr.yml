@@ -4,29 +4,19 @@ tr:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Biraz da fiiller hakkında: Gördük ki, bütün mastarların sonu \"i\" ile biter. Şimdiki zaman \"as\" , geçmiş zaman \"is\", gelecek zaman ise \"os\" ile biter. Daha başka gramer zamanlarıda vardır :"
-        imperativo: 
-          ekspliko-1: "Emir çekiminde birinci tekil şahıs kullanılmaz (-u) genelde ikinci şahsa aittir ve zamir kullanılması şart değildir.Ancak birinci ve üçüncü şahsa ait olursa, uygun zamir kullanılabilir :"
-          ekspliko-2: "Son ek (u) , şu amacı ifade eder. Emir, rica, ikaz, mecburiyet, izin, yasak vb. gösterir. \"Ümit ediyorum\", \"korkuyorum\", inanmıyorum\", \"tahmin ediyorum\" gibi kelimelerden sonra gelecek zaman (-os) son eki kullanılmalı."
-          frazo-1: "Kapıyı kapatın ve oturun."
-          frazo-2: "Senin gelmeni istiyorum."
-          frazo-3: "Yaşasın Esperanto !"
-          frazo-4: "O (dişil) kalmam için rica etti."
-          frazo-5: "Uyuyalım / Onlar uyusunlar"
-          frazo-6: "Ümit ediyorum ki, o (erkek) gelecek."
-          frazo-7: "Ona (erkek) gelmesini tavsiye ediyorum."
-          frazo-8: "Mümkündür, o (erkek) gelecek."
-          titolo: "Emir kipi ( -U )"
-        kondicionalo: 
-          frazo-1: "Zengin olsaydım, çok seyahat ederdim."
-          frazo-2: "İyi olsaydı, ekmeği yemiş olurduk."
-          titolo: "Şart kipi ( -US )"
-        nerekta: 
-          ekspliko: "Kurallı sözde kullanılan, aynı zaman ve çekim, kuralsız sözde de kullanılsın. Örn. :"
-          frazo-1: "O (erkek) dedi ki, \" Ben NewYork'tan geliyorum\"."
-          frazo-2: "O (erkek) dedi ki , o NewYork'tan geliyor."
-          frazo-3: "(o (dişil) dedi, \" Ben Paris'e gideceğim\"."
-          frazo-4: "O (dişil) Paris'e yolculuk edeceğini söyledi."
         titolo: "Diğer fiil zamanları"
+      imperativo: 
+        ekspliko-1: "Emir çekiminde birinci tekil şahıs kullanılmaz (-u) genelde ikinci şahsa aittir ve zamir kullanılması şart değildir.Ancak birinci ve üçüncü şahsa ait olursa, uygun zamir kullanılabilir :"
+        ekspliko-2: "Son ek (u) , şu amacı ifade eder. Emir, rica, ikaz, mecburiyet, izin, yasak vb. gösterir. \"Ümit ediyorum\", \"korkuyorum\", inanmıyorum\", \"tahmin ediyorum\" gibi kelimelerden sonra gelecek zaman (-os) son eki kullanılmalı."
+        frazo-1: "Kapıyı kapatın ve oturun."
+        frazo-2: "Senin gelmeni istiyorum."
+        frazo-3: "Yaşasın Esperanto !"
+        frazo-4: "O (dişil) kalmam için rica etti."
+        frazo-5: "Uyuyalım / Onlar uyusunlar"
+        frazo-6: "Ümit ediyorum ki, o (erkek) gelecek."
+        frazo-7: "Ona (erkek) gelmesini tavsiye ediyorum."
+        frazo-8: "Mümkündür, o (erkek) gelecek."
+        titolo: "Emir kipi ( -U )"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Anlamam gerek"
@@ -49,6 +39,16 @@ tr:
           frazo-plaĉi-1: "Bir şey veya bir kimse hoşuma gidiyor."
           frazo-plaĉi-2: "Kitaplar hoşuma gidiyor."
           frazo-ŝati: "Ben birşeyi beğeniyorum."
+      kondicionalo: 
+        frazo-1: "Zengin olsaydım, çok seyahat ederdim."
+        frazo-2: "İyi olsaydı, ekmeği yemiş olurduk."
+        titolo: "Şart kipi ( -US )"
+      nerekta: 
+        ekspliko: "Kurallı sözde kullanılan, aynı zaman ve çekim, kuralsız sözde de kullanılsın. Örn. :"
+        frazo-1: "O (erkek) dedi ki, \" Ben NewYork'tan geliyorum\"."
+        frazo-2: "O (erkek) dedi ki , o NewYork'tan geliyor."
+        frazo-3: "(o (dişil) dedi, \" Ben Paris'e gideceğim\"."
+        frazo-4: "O (dişil) Paris'e yolculuk edeceğini söyledi."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: Okuyacağım.

@@ -4,29 +4,19 @@ vi:
     leciono10: 
       aliaj_verbaj_tempoj: 
         ekspliko: "Chúng ta đã xem xong động từ kết thúc với \"as\" ở thì hiện tại, \"is\"  ở thì quá khứ,  \"os\" ở thì tương lai và \"i\" ở dạng vô định. Đây là một số dạng động từ khác:"
-        imperativo: 
-          ekspliko-1: "Trong câu cầu khiến (-u) thường thường liên quan đến người thứ hai, và trong trường hợp đó nó không cần thiết sử dụng đại từ  \"bạn\". Tuy nhiên, khi chỉ đến người thứ nhất hay người thứ ba, chúng ta cần phải làm thế:"
-          ekspliko-2: "Khi mệnh đề phụ thuộc mở đầu bằng \"ke\" theo sau một động từ mà biểu thị quan hệ nhân quả (mệnh lệnh, yêu cầu, nhắc nhở, ước muốn, sự cho phép, ngăn cấm, v.v..) động từ trong mệnh đề  đó ở dạng -U.  Sau động từ biểu thị sự hi vọng (esperi), sợ hãi (timi), sự không tin (ne kredi), giả định(supozi), không sử dụng dạng -U."
-          frazo-1: "Hãy đóng cửa và ngồi xuống."
-          frazo-2: "Tôi muốn bạn tới."
-          frazo-3: "Quốc tế ngữ muôn năm!"
-          frazo-4: "Cô ấy đã hỏi tôi, rằng tôi có ở lại."
-          frazo-5: "Hãy ngủ nào."
-          frazo-6: "Tôi hy vọng rằng anh ấy sẽ tới."
-          frazo-7: "Tôi giả thuyết rằng anh ấy sẽ tới."
-          frazo-8: "Có thể, anh ấy sẽ tới."
-          titolo: "Câu mệnh lệnh, cầu khiến (-U)"
-        kondicionalo: 
-          frazo-1: "Nếu tôi giàu có, tôi sẽ đi du lịch nhiều hơn. (nhưng tôi không giàu)"
-          frazo-2: "Tôi sẽ ăn bánh mì, nếu nó tốt. (nhưng nó lại không thế)"
-          titolo: "Câu điều kiện (-US):  (sử dụng khi điều kiện ở dạng mệnh đề \"nếu\" nhưng trên thực tế chỉ là giả định)"
-        nerekta: 
-          ekspliko: "Trong câu gián tiếp, sử dụng câu giống với câu ở chế độ tương ứng với nó ở dạng trực tiếp. Ví dụ:"
-          frazo-1: "Anh ấy nói rằng: \"Tôi tới từ New York\"."
-          frazo-2: "Anh ấy đã nói rằng anh ấy đến từ New York."
-          frazo-3: "Cô ấy nói, \" Tôi sẽ đi du lịch Paris.\""
-          frazo-4: "Cô ấy nói rằng cô sẽ đi du lịch Paris."
         titolo: "Các dạng động từ khác"
+      imperativo: 
+        ekspliko-1: "Trong câu cầu khiến (-u) thường thường liên quan đến người thứ hai, và trong trường hợp đó nó không cần thiết sử dụng đại từ  \"bạn\". Tuy nhiên, khi chỉ đến người thứ nhất hay người thứ ba, chúng ta cần phải làm thế:"
+        ekspliko-2: "Khi mệnh đề phụ thuộc mở đầu bằng \"ke\" theo sau một động từ mà biểu thị quan hệ nhân quả (mệnh lệnh, yêu cầu, nhắc nhở, ước muốn, sự cho phép, ngăn cấm, v.v..) động từ trong mệnh đề  đó ở dạng -U.  Sau động từ biểu thị sự hi vọng (esperi), sợ hãi (timi), sự không tin (ne kredi), giả định(supozi), không sử dụng dạng -U."
+        frazo-1: "Hãy đóng cửa và ngồi xuống."
+        frazo-2: "Tôi muốn bạn tới."
+        frazo-3: "Quốc tế ngữ muôn năm!"
+        frazo-4: "Cô ấy đã hỏi tôi, rằng tôi có ở lại."
+        frazo-5: "Hãy ngủ nào."
+        frazo-6: "Tôi hy vọng rằng anh ấy sẽ tới."
+        frazo-7: "Tôi giả thuyết rằng anh ấy sẽ tới."
+        frazo-8: "Có thể, anh ấy sẽ tới."
+        titolo: "Câu mệnh lệnh, cầu khiến (-U)"
       kelkaj_gravaj_verboj: 
         modalaj_verboj: 
           devas-kompreni: "Tôi phải hiểu"
@@ -49,6 +39,16 @@ vi:
           frazo-plaĉi-1: "Một thứ, hay người nào đó làm hài lòng tôi."
           frazo-plaĉi-2: "Những quyển sách làm tôi hài lòng."
           frazo-ŝati: "Tôi thích một cái gì đó."
+      kondicionalo: 
+        frazo-1: "Nếu tôi giàu có, tôi sẽ đi du lịch nhiều hơn. (nhưng tôi không giàu)"
+        frazo-2: "Tôi sẽ ăn bánh mì, nếu nó tốt. (nhưng nó lại không thế)"
+        titolo: "Câu điều kiện (-US):  (sử dụng khi điều kiện ở dạng mệnh đề \"nếu\" nhưng trên thực tế chỉ là giả định)"
+      nerekta: 
+        ekspliko: "Trong câu gián tiếp, sử dụng câu giống với câu ở chế độ tương ứng với nó ở dạng trực tiếp. Ví dụ:"
+        frazo-1: "Anh ấy nói rằng: \"Tôi tới từ New York\"."
+        frazo-2: "Anh ấy đã nói rằng anh ấy đến từ New York."
+        frazo-3: "Cô ấy nói, \" Tôi sẽ đi du lịch Paris.\""
+        frazo-4: "Cô ấy nói rằng cô sẽ đi du lịch Paris."
       participoj: 
         aktiva_voĉo: 
           frazo-futuro: "Tôi chuẩn bị đọc."
