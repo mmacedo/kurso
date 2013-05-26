@@ -149,7 +149,7 @@ I18nEltiro::Mapado.agordi do
         mapi 'l629', 'kanadano'
         mapi 'l630', 'brazilano'
         mapi 'l045', 'usonano'
-        mapi 'l043', 'Kristo'
+        mapi 'l043', 'kristo'
         mapi 'l044', 'kristano'
       end
       al 'ar' do
