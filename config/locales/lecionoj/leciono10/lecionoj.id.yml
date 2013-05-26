@@ -1,11 +1,11 @@
---- 
-id: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+id:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Suatu lebih tentang kata kerja:  kita telah mempelajari bahwa k.k. berakhir dengas \"as\" dalam k.k. masa kini, \"is\" dalam k.k. yg lalu, \"os\" dalam k.k. masa depan, dan \"i\" dalam k.k. infinitif.  Ada juga waktu lain:"
         titolo: "Kata Kerja pada Suatu Waktu Lain"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Bentuk perintah akhiran (-u) biasanya berhubungan dgn persona kedua, dan tidak perlu memakai kata peng-   ganti.  Tetapi, bilamana kita membicarakan tentang persona 1-a atau 3-a, kita memerlukan memakai k. p/ganti."
         ekspliko-2: "Akhiran\"u\" menunjukkan pintah, permohonan, teguran, keinginan, keperluan, kewajiban, izin, larangan, dsb.  Dalam hal ini, \"Saya mengharap\", \"Saya takut\", \"Saya tidak percaya\", \"Saya mengira\" dsb, pakailah masa depan akhiran (-os)."
         frazo-1: "Tutuplah pintu dan duduklah."
@@ -17,8 +17,8 @@ id:
         frazo-7: "Saya menganjurkan dia (laki-laki) akan datang."
         frazo-8: "Mungkin dia (laki-laki) akan datang."
         titolo: "Bentuk perintah (-u)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Saya harus mengerti."
           devas-veni: "Saya harus datang."
           devi: harus
@@ -28,29 +28,29 @@ id:
           volas-kompreni: "Saya ingin mengerti."
           volas-veni: "Saya mau datang."
           voli: "mau, ingin"
-        scio: 
+        scio:
           frazo-koni-1: "Saya kenal dengan ..."
           frazo-koni-2: "Apakah anda kenal John?"
           frazo-scii-1: "Saya tahu ..."
           frazo-scii-2: "Apakah anda tahu bahasa Esperanto?"
         titolo: "Beberapa kata kerja yg penting sekali"
-        ŝato: 
+        ŝato:
           frazo-ami: "Saya cinta seseorang."
           frazo-plaĉi-1: "Sesuatu atau seseorang menyenangkan hati saya."
           frazo-plaĉi-2: "Buku-buku menyenangkan saya."
           frazo-ŝati: "Saya suka sesuatu."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Kalau saya kaya saya akan banyak berpergian (tetapi tak kaya"
         frazo-2: "Kita memakan roti itu, bilamana enak.  (Tetapi roti itu tidak enak)"
         titolo: "Bentuk pengandaian (-us)"
-      nerekta: 
+      nerekta:
         ekspliko: "Dalam pembicaraan tak langsung, pakailah kata kerja cara seperti dalam bicara langsung.  Contoh:"
         frazo-1: "Dia berkata, \"Saya berasal dari New York\"."
         frazo-2: "Dia berkata bahwa dia berasal dari New York."
         frazo-3: "Dia berkata, \"Saya akan berpergian ke Paris\"."
         frazo-4: "Dia berkata bahwa dia akan berpergian ke Paris."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Saya akan membaca."
           frazo-presenco: "Saya sedang membaca."
           frazo-preterito: "Saya telah membaca."
@@ -74,7 +74,7 @@ id:
         frazo-7: "Pintu yg ditutup"
         frazo-8: "Matahari yg sedang terbit"
         frazo-9: "Orang yang selamat"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Saya sedang membaca buku itu = Buku itu sedang dibaca oleh saya."
           frazo-futuro: "Buku itu akan dibaca."
           frazo-presenco: "Buku itu sedang dibaca."
@@ -84,7 +84,7 @@ id:
           preterito: "Yg lalu:  -it"
           titolo: "Ragam Pasif"
         titolo: Partisip
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" adalah kata pengganti refleksip, persona ketiga, dipakai bilamana berhubungan dengan kata pokok kalimat."
         ekspliko-2: "\"Sia\" bukan bagian dari kota pokok yg sama.  Bilamana hal itu, pakailah \"lia\", \"ŝia\", \"ĝia\" atau \"ilia\".  Dalam contoh di bawah, \"filo\" berhubungan dengan \"li\":"
         frazo-1: "John mandi.  (John memandikan dirinya sendiri.)"

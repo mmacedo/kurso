@@ -1,8 +1,8 @@
---- 
-hu: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+hu:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "A második leckében tanultakon kívül lehet egyéb módon is kérdezni:"
         frazo-1: "A skatulya kék?"
         frazo-2: "El fogsz menni a moziba?"
@@ -11,7 +11,7 @@ hu:
         frazo-5: "A skatulya nem kék, ugye?"
         frazo-6: "Nem fogsz elmenni a moziba, ugye?"
         titolo: "Egyéb kérdõ formák"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Némely kifejezés páros szavakat használ:"
         jen: Összehasonlítás
         jen-frazo-1: "A fiú hol sírt, hol nevetett."
@@ -29,11 +29,11 @@ hu:
         ĉu: "Közömbös, egyenlõ, szabad, vagy bizonytalan választási lehetõségeket mutat."
         ĉu-frazo-1: "Akár félelembõl, akár büszkeségbõl, semmit sem válaszolt."
         ĉu-frazo-2: "Akár esik, akár süt, én biztosan menni fogok."
-      horoj: 
+      horoj:
         je-kioma: "Hány órakor fogsz telefonálni nekem?"
         kioma-estas: "Mennyi az idõ?"
         titolo: Idõ
-      interjekcioj: 
+      interjekcioj:
         bis: újra!
         fi: szégyen!
         ha-1: "ah!, ó!"
@@ -45,7 +45,7 @@ hu:
         titolo: Indulatszók
         ve: jaj!
         ve-al-mi: "jaj nekem!"
-      mallongiloj: 
+      mallongiloj:
         bv: "legyen szíves"
         e-isto: eszperantista
         e-o: eszperantó
@@ -57,7 +57,7 @@ hu:
         str: utca
         te: "pl., például"
         titolo: Rövidítések
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "bár, akár  (hangsúlyozza a határozatlant vagy a közömböst)"
         almenaŭ: legalább
         ambaŭ: mindkettõ

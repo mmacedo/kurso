@@ -1,57 +1,57 @@
---- 
-nl: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+nl:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "onderdeel, element van een groter geheel"
           monero: "munt, geldstuk"
           mono: geld
           salero: zoutkorrel
           salo: zout
-        estr: 
+        estr:
           ekspliko: "leider, chef, hoofd, bevelhebber"
           urbestro: burgemeester
           urbo: stad
           ŝipestro: scheepskapitein
           ŝipo: schip
-        et: 
+        et:
           ekspliko: "klein,  zwak"
           pupeto: "popje, poppetje"
           pupo: pop
           rideti: glimlachen
           ridi: lachen
-        id: 
+        id:
           ekspliko: "afstammeling, kind van, nakomeling van"
           katido: kattenjong
           kato: kat
           reĝido: koningskind
           reĝo: koning
-        ig: 
+        ig:
           ekspliko: "vormt een overgankelijk werkwoord: - doen, - maken."
           morti: sterven
           mortigi: "doen sterven, doden"
           pura: "schoon, rein, zuiver"
           purigi: "schoonmaken, reinigen"
-        il: 
+        il:
           ekspliko: "vormt een instrument, werktuig"
           muzikilo: "muziekinstrument,  \"-tuig\""
           muziko: muziek
           ŝlosi: "op slot doen"
           ŝlosilo: sleutel
-        in: 
+        in:
           ekspliko: "vormt het vrouwelijk wezen"
           kokino: "kip, hen"
           koko: "hoen (hen of haan)"
           onklino: tante
           onklo: oom
-        ind: 
+        ind:
           admiri: bewonderen
           admirinda: bewonderenswaardig
           ekspliko: "betekent: — verdienend,  —waardig"
           laŭdi: "loven, prijzen"
           laŭdinda: prijzenswaardig
-        ist: 
+        ist:
           ekspliko: "vormt een beroep, gewoonlijke bezigheid"
           esperantisto: esperantist
           esperanto: Esperanto
@@ -61,7 +61,7 @@ nl:
           raportisto: "rapporteur, verslaggever"
           tajpi: typen
           tajpisto: typist
-        iĝ: 
+        iĝ:
           ekspliko: "maakt een onovergankelijk ww: - worden, in een - toestand komen"
           fari: "maken, doen"
           fariĝi: worden
@@ -69,39 +69,39 @@ nl:
           mateno: ochtend
           ruĝa: rood
           ruĝiĝi: "rood worden"
-        nj: 
+        nj:
           Maria: Marie
           ekspliko: "vormt troetelnaam voor een vrouw, met een deel van de stam, zodat het goed klinkt."
           manjo: "Marietje, Mie"
           panjo: "ma, moe, moesje"
           patrino: moeder
-        obl: 
+        obl:
           du: twee
           duobla: "tweevoudig, dubbel"
           ekspliko: —voud
           tri: drie
           trioblo: drievoud
         ? "on"
-        : 
+        :
           dek: tien
           dekono: "een tiende (deel)"
           ekspliko: "—de deel, fractie"
           kvar: vier
           kvarono: "een vierde deel, kwart"
-        op: 
+        op:
           du: twee
           duopo: "een groep van twee"
           ekspliko: "In groepen van —"
           ses: zes
           sesopo: "groep van zes, zestal"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Gebruik, bij mogelijke verwarring  tussen betekenis 1 en 2 van dit achtervoegsel, synoniemen:"
           germanio: Duitsland
           pomarbo: appelboom
           pomkesto: appelkist
           ruslando: Rusland
         titolo: Achtervoegsels
-        uj: 
+        uj:
           ekspliko: "voorwerp om andere voorwerpen te bevatten; boom volgens de vrucht; land volgens het volk."
           franco: fransman
           francujo: Frankrijk
@@ -109,7 +109,7 @@ nl:
           monujo: "portemonnaie, beurs"
           pomo: appel
           pomujo: appelboom
-        ul: 
+        ul:
           ekspliko: "Wezen met de eigenschap die in de stam wordt genoemd"
           kontraŭ: tegen
           kontraŭulo: tegenstander
@@ -119,21 +119,21 @@ nl:
           sanktulo: heilige
           stulta: dom
           stultulo: dommerik
-        um: 
+        um:
           ekspliko: "achtervoegsel zonder vaste betekenis"
           kolo: hals
           kolumo: kraag
           plena: vol
           plenumi: vervullen
-      vortordo: 
+      vortordo:
         dialogo: |-
-            — Ik zag je, oh schat, 
+            — Ik zag je, oh schat,
                 en ik werd meteen verliefd op je!
-            — Ik geloof je, 
+            — Ik geloof je,
                 maar er moet wel goud in je beurs zitten!
             — Ik hou van je, maar, liefste,
                 ik dacht niet dat je zo was!
-            — Als je van me hield, vrek, 
+            — Als je van me hield, vrek,
                 zou je me wel je koningin           maken
         ekspliko-1: "In de derde les lieten we de volgorde onderwerp - werkwoordsvorm - bepaling zien. Die volgorde wordt meestal gebruikt in Esperanto, maar andere zijn mogelijk, zolang de duidelijkheid maar bewaard blijft. Een van die gevallen ontstaat als je een bepaald zinsdeel wilt benadrukken. In de volgende zinnen is dat het geval:"
         ekspliko-2: "Om een zinsdeel te benadrukken kun je ook het woordje \"ja\" (= \"wel\") gebruiken:"

@@ -1,95 +1,95 @@
---- 
-fi: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+fi:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Tässä on hyödyllisiä pikkusanoja, jotka ovat osa säännöllistä ja suljettua järjestelmää. Näitä pikkusanoja kutsutaan korrelatiiveiksi. Korrelatiivien merkitys on muodostaa johdannainen sen vartalosta (etuliite) ja sen päätteestä (jälkiliite)."
         titolo: Korrelatiivit
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Aika
-        i: 
+        i:
           frazo: "Kävitkö joskus Brasiliassa?"
           vorto: Joskus
-        ki: 
+        ki:
           frazo: "Milloin ostat (sen) kirjan? - Huomenna aamulla."
           vorto: Milloin
-        neni: 
+        neni:
           frazo: "Ei, en koskaan käynyt tuossa maassa."
           vorto: "Ei koskaan, en koskaan"
-        ti: 
+        ti:
           frazo: "Minä opin Esperanton silloin, kun olin koulussa."
           vorto: Silloin
-        ĉi: 
+        ĉi:
           frazo: "Kuitenkin, minä aina halusin käydä siellä."
           vorto: Aina
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Tämä pikku sana ilmaisee läheisyyttä."
         frazo-1: "Mikä on tämä?"
         frazo-2: "Tämä on eläin."
         frazo-3: "Tämä on minun taloni."
         rimarkigo: "Taulukkosanat, joiden pääte on \"o\" (\"kio\", \"tio\" jne.) saavat tarvittaessa akkusatiivin päätteen (-n), mutta eivät monikon päätettä (-j)."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Osoittaa paikkaa."
-        i: 
+        i:
           ekspliko: "Osoittaa epämääräisyyttä."
           frazo: "Lyijykynäni on jossakin (tuossa) puutarhassa."
           vorto: Jossakin
-        ki: 
+        ki:
           ekspliko: "Ilmaisee kysymyksen: osoittaa suhteen aikaisempaan lauseeseen."
           frazo: "Missä sinä asut? -Asun Kanadassa."
           vorto: Missä
-        neni: 
+        neni:
           ekspliko: "Osoittaa kielteisen merkityksen."
           frazo: "Missään (mistään) en löytänyt kirjaani."
           vorto: "Ei missään"
-        ti: 
+        ti:
           ekspliko: "Käytetään osoittamiseen."
           frazo: "Minä asun tuolla, missä on (tuo) auto."
           vorto: Tuolla
-        ĉi: 
+        ĉi:
           ekspliko: "Osoittaa ryhmää, joukkoa."
           frazo: "Tyhmyri kirjoittaa nimensä kaikkialla."
           vorto: Kaikkialla
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Asia, kohde, esine."
-        i: 
+        i:
           frazo: "Jokin (jotakin) tapahtui!"
           vorto: Jokin
-        ki: 
+        ki:
           frazo: "Mikä on maantiede? - Maantiede on tiede."
           vorto: "Mikä, mitä"
-        neni: 
+        neni:
           frazo: "Parempi jokin (jotakin), kun ei mikään (mitään)."
           vorto: "Ei mitään, ei mikään"
-        ti: 
+        ti:
           frazo: "Mikä on tuo? - Tuo on soitin."
           vorto: Tuo
-        ĉi: 
+        ĉi:
           frazo: "Unohdin kaiken."
           vorto: Kaikki
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Osoittaa yksilön. Kun kyseessä on enemmän kuin yksi, se saa päätteen \"j\"."
-        i: 
+        i:
           ekspliko: "Osoittaa epämääräisyyttä."
           frazo: "Tuli joitakin henkilöitä, joita minä en tunne."
           vorto: Joku
-        ki: 
+        ki:
           ekspliko: "Osoittaa kysymyksen: osoittaa suhteen edeltävään lauseeseen."
           frazo: "Kuka oli ensimmäinen opettajasi? - Herra Karlo."
           vorto: Kuka
-        neni: 
+        neni:
           ekspliko: "Ilmaisee kielteisen merkityksen."
           frazo: "Kuka tuli eilen? - Ei kukaan tullut eilen."
           vorto: "Ei kukaan"
-        ti: 
+        ti:
           ekspliko: "Käytetään määrittelemään, osoittamaan."
           frazo: "Tuo kirja on erittäin hyvä."
           vorto: Tuo
-        ĉi: 
+        ĉi:
           ekspliko: "Ilmaisee joukkoa, ryhmää."
           frazo: "Jokainen ihminen rakastaa itseään."
           vorto: Jokainen
-      vortaro05: 
+      vortaro05:
         al: "(prep.) luokse, suuntaan"
         anonco: "ilmoitus, kuulutus"
         aĉeti: ostaa

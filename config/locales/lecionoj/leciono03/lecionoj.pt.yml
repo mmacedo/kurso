@@ -1,48 +1,48 @@
---- 
-pt: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+pt:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Os numerais ordinais são formados pela adição da terminação \"a\" aos numerais. Por terem a terminação \"a\", podem receber o plural (-j) e o acusativo (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "Os primeiros meninos estão vindo."
           frazo-2: "Ele capturou o terceiro inseto."
         titolo: "Adjetivos de numerais"
-        vortoj: 
+        vortoj:
           dek: dez
           dek-naŭ: dezenove
           dek-naŭa: décimo-nono
           deka: décimo(a)
           tri: três
           tria: terceiro(a)
-      adverboj: 
+      adverboj:
         ekspliko-1: "Os advérbios funcionam igual aos adjetivos (terminação -a), mas em vez de definir as idéias expressas pelo substantivo (-o), definem as idéias do verbo (-i, -as, -is, -os, etc.), e do adjetivo (-a). Geralmente exprimem a maneira, a causa, o tempo ou o lugar."
         ekspliko-2: "Em esperanto os advérbios geralmente terminam em \"e\". Isso acontece sempre que são derivados de uma palavra. A idéia básica expressa pelo radical da palavra pode ser usada de diversas maneiras, graças à simples mudança na terminação."
-        frazoj: 
+        frazoj:
           frazo-sana: "Ele está saudável."
           frazo-sane: "Ele vive com saúde."
           frazo-sani: "Ele tem saúde"
           frazo-sano: "Ele tem boa saúde."
         rimarkigo: "O advérbio é geralmente colocado antes da palavra à qual se refere, e não recebe a terminação do plural (-j)."
         titolo: Advérbios
-        vortoj: 
+        vortoj:
           sana: saudável
           sane: saudavelmente
           sani: "ter saúde"
           sano: saúde
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Adicionando o final \"e\" aos numerais formamos advérbios:"
-        frazoj: 
+        frazoj:
           frazo-1: "Ele primeiro beberá água."
         titolo: "Advérbios de numerais"
-        vortoj: 
+        vortoj:
           du: dois
           due: "em segundo lugar"
           unu: um
           unue: "em primeiro lugar, primeiramente"
-      numeraloj: 
+      numeraloj:
         titolo: Numerais
-      vortaro03: 
+      vortaro03:
         atendi: "esperar, aguardar"
         demandi: perguntar
         fumi: fumar

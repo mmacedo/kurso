@@ -1,19 +1,19 @@
---- 
-pt: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+pt:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: "Belo(a), bonito(a)"
         ekspliko: "Terminam com a letra \"a\":"
         sana: "São, sã, saudável"
         titolo: Adjetivos
         varma: Quente
-      alfabeto: 
+      alfabeto:
         ekspliko: "Em esperanto as palavras são escritas exatamente como são pronunciadas, e são pronunciadas exatamente conforme o som de cada letra escrita. A sílaba mais forte é sempre a penúltima. Clique para ouvir a pronúncia e repita em voz alta."
         titolo: "O Alfabeto do Esperanto"
-      artikolo: 
+      artikolo:
         ekspliko: "O artigo indefinido (um, uma, uns, umas) não existe em Esperanto; existe somente o artigo definido \"la\", igual para todos os gêneros, casos e números. Assim, onde em português houver o artigo \"um/uma\", basta usar em Esperanto a palavra sem artigo algum."
-        frazoj: 
+        frazoj:
           frazo-1: "Teus filhos são nossos amigos."
           frazo-2: "O pão está seco."
           frazo-3: "Leite quente é bom."
@@ -22,7 +22,7 @@ pt:
           frazo-6: "O pai é bom."
           titolo: Frases
         titolo: Artigo
-        vortoj: 
+        vortoj:
           floroj: "(Umas) flores"
           knabo: "(Um) menino, (um) garoto"
           la-floroj: "As flores"
@@ -31,33 +31,33 @@ pt:
           la-patroj: "Os pais"
           pano: "(um) pão"
           patroj: "(Uns) pais"
-      nomoj: 
+      nomoj:
         amiko: Amigo
         ekspliko: "Terminam com a letra \"o\":"
         frato: Irmão
         kafo: Café
         titolo: Substantivos
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Eles/elas (é o plural de  \"ŝi\", \"li\" e \"ĝi\")"
           ni: Nós
           titolo: Plural
           vi: "Vós, vocês"
-        singularo: 
+        singularo:
           li: Ele
           mi: Eu
           titolo: Singular
           vi: "Tu, você"
           ĝi: "Ele/ela (para mostrar algo ou alguém cujo sexo não é necessário especificar)"
           ŝi: Ela
-        specialaj: 
+        specialaj:
           oni: "Pronome pessoal indefinido que significa \"as pessoas, a gente, etc\", usado quando não se quer ou não se pode definir quem fez ou sofreu a ação."
           si: "Pronome reflexivo da terceira pessoa (li, ŝi, ĝi, ili, oni), usado quando relaciona-se com o sujeito da oração."
           titolo: Especiais
         titolo: "Pronomes Pessoais"
-      pluralo: 
+      pluralo:
         ekspliko: "O plural é formado pela adição da letra \"j\" ao final dos substantivos e adjetivos:"
-        pluralo: 
+        pluralo:
           amikoj: amigos
           belaj: "belas, belos"
           belaj-floroj: "belas flores"
@@ -66,7 +66,7 @@ pt:
           patroj: "pais (só do sexo masc.)"
           sanaj: "sãos, sãs, saudáveis"
           sanaj-patroj: "pais saudáveis"
-        singularo: 
+        singularo:
           amiko: amigo
           bela: "bela, bonita, belo, bonito"
           bela-floro: "bela flor"
@@ -76,9 +76,9 @@ pt:
           sana: "são, sã"
           sana-patro: "pai saudável"
         titolo: Plural
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Os pronomes possesivos são formados pela adição da terminação adjetiva (\"a\") aos pronomes pessoais:"
-        posedaj: 
+        posedaj:
           ilia: "seu, sua, deles"
           lia: "seu, sua, dele"
           mia: "meu, minha"
@@ -86,27 +86,27 @@ pt:
           via: "teu, tua, vosso, vossa"
           ĝia: "seu, sua, dele, dela  (neutro)"
           ŝia: "seu, sua, dela"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Também os pronomes possessivos recebem a terminação \"j\" no plural:"
           mia-amiko: "Meu amigo"
           miaj-amikoj: "Meus amigos"
           nia-floro: "Nossa flor"
           niaj-floroj: "Nossas flores"
         titolo: "Pronomes Possesivos"
-      verboj: 
+      verboj:
         ekspliko: "O tempo infinitivo termina com -i: esti (ser, estar); o tempo passado  termina em -is: estis (foi, esteve); o presente termina em -as: estas (é, está) e o futuro termina em -os: estos (será, estará). Outros tempos e modos verbais serão tratados nas lições seguintes."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Eles/elas são, estão"
           ni-estas: "Nós somos, estamos"
           oni-estos: "será, estará (sujeito indefinido)"
           vi-estis: "Vocês foram/eram, estavam/estiveram"
-        singularo: 
+        singularo:
           li-estis: "Ele foi/era, esteve/estava"
           mi-estas: "Eu sou, estou"
           ĝi-estos: "Ele/ela será, estará"
           ŝi-estas: "Ela é, está"
         titolo: Verbos
-      vortaro01: 
+      vortaro01:
         amiko: amigo
         bela: "belo(a), bonito(a)"
         biskvito: biscoito

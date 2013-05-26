@@ -1,11 +1,11 @@
---- 
-hi: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+hi:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "अभ्यास - संख्यावाचक"
         numeraloj-ekzercoj-instrukcioj: "निचे दिए गए जगह मैं संख्यावाचक शब्द दीजिये. उत्तार देने के बाद आप Enter बटन दबाईये. आपको 70% आंख प्राप्त होना चाहिए."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. वह उस लड़की को प्यार करता हैं."
         frazo02: "2. वह उस लड़की की बेहन को प्यार करता हैं."
         frazo03: "3. वह उस लड़का को प्यार करती हैं."

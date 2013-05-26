@@ -1,24 +1,24 @@
---- 
-ca: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+ca:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Per dir la data, seguiu el model (les paraules \"tago\" -dia- i \"en la jaro\" -de l'any- són implícites)"
         titolo: Dates
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "El pa està sec."
           titolo: "Afirmació:"
-        demando: 
+        demando:
           frazo-1: "Que està sec el pa?"
           titolo: "Pregunta:"
         ekspliko: "Totes les preguntes es construeixen sobre l'afirmació o la negació, simplement col·locant la paraula \"ĉu\" al principi de l'oració. Tingueu en compte que l'ordre de les paraules en esperanto no varia, només es col·loca la paraula \"ĉu\" davant de la frase. Això val per a les preguntes amb resposta \"sí\" o \"no\"."
-        respondo: 
+        respondo:
           frazo-negativa: "No, el pa no està sec."
           frazo-pozitiva: "Sí, el pa està sec."
           titolo: "Resposta:"
         titolo: "Oracions interrogatives"
-      monatoj: 
+      monatoj:
         aprilo: abril
         aŭgusto: agost
         decembro: desembre
@@ -32,7 +32,7 @@ ca:
         oktobro: octubre
         septembro: setembre
         titolo: "Mesos de l'any"
-      salutoj: 
+      salutoj:
         saluto-1: Hola!
         saluto-10: "Bon profit!"
         saluto-11: "Igualment, gràcies!"
@@ -48,12 +48,12 @@ ca:
         saluto-8: "Prou bé."
         saluto-9: "No gaire bé."
         titolo: Salutacions
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: ahir
           hodiaŭ: avui
           morgaŭ: demà
-        semajno: 
+        semajno:
           dimanĉo: diumenge
           lundo: dilluns
           mardo: dimarts
@@ -62,9 +62,9 @@ ca:
           vendredo: divendres
           ĵaŭdo: dijous
         titolo: "Dies de la setmana"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Llegiu el text superior, escrit per un estudiant d'esperanto, i intenteu entendre'l utilitzant el diccionari."
-        vortaro: 
+        vortaro:
           alia: altre/a
           antaŭ: "davant de, abans de"
           facila: fàcil
@@ -72,7 +72,7 @@ ca:
           komenci: començar
           lerni: aprendre
           tre: molt
-      vortaro04: 
+      vortaro04:
         infano: nen
         kaj: i
         kolekti: "arreplegar, col·leccionar"

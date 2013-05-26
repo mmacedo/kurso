@@ -1,11 +1,11 @@
---- 
-en: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+en:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Exercises - Numerals"
         numeraloj-ekzercoj-instrukcioj: "Type the numeral corresponding to the given text in the available space.  Press \"Enter\" or click on the side button when complete.  You must get at least 70% correct."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. He loves her."
         frazo02: "2. He loves her sister."
         frazo03: "3. She loves him."

@@ -1,95 +1,95 @@
---- 
-sk: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+sk:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Nasledujúce veľmi užitočné slová sú časťou pravidelného a uzavretého systému. Tieto slovíčka sa nazývajú korelatíva alebo tabuľkové slová, pretože vytvárajú ucelenú tabuľku. Každé tabuľkové slovo je kombináciou predložky a koncovky."
         titolo: "Tabuľkové slová"
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Čas
-        i: 
+        i:
           frazo: "Navštívil si niekedy Brazíliu?"
           vorto: Niekedy
-        ki: 
+        ki:
           frazo: "Kedy si kúpiš tú knihu? - Zajtra ráno."
           vorto: "Kedy, Keď"
-        neni: 
+        neni:
           frazo: "Nie, tú krajinu som nikdy nenavštívil"
           vorto: Nikdy
-        ti: 
+        ti:
           frazo: "Učil som sa esperanto vtedy, keď som bol v škole."
           vorto: Vtedy
-        ĉi: 
+        ĉi:
           frazo: "Ale vždy som si prial ju navštíviť."
           vorto: Vždy
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Toto slovíčko naznačuje blízkosť a môže byť pred alebo za tabuľkovým slovom, ku ktorému sa vzťahuje."
         frazo-1: "Čo je toto?"
         frazo-2: "Toto je zviera."
         frazo-3: "Toto je môj dom."
         rimarkigo: "Tabuľkové slová končiace na \"o\" môžu získať koncovku akuzatívu (-n), ale nie koncovku množného čísla \"j\"."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Ukazuje miesto"
-        i: 
+        i:
           ekspliko: Neurčitosť
           frazo: "Moja ceruza je niekde v záhrade."
           vorto: Niekde
-        ki: 
+        ki:
           ekspliko: "Naznačuje otázku alebo vzťah k predošlej vete (vzťažné vety)."
           frazo: "Kde bývaš? - Bývam v Kanade."
           vorto: Kde
-        neni: 
+        neni:
           ekspliko: "Vyjadruje zápor"
           frazo: "Nikde som nenašiel moju knihu."
           vorto: Nikde
-        ti: 
+        ti:
           ekspliko: Ukazovacia
           frazo: "Bývam tam, kde je to auto."
           vorto: "Tam (na otázku kde?, nie na otázku kam?)"
-        ĉi: 
+        ĉi:
           ekspliko: Všeobecnosť
           frazo: "Hlupák píše svoje meno všade. (\"Jména hloupých na všech sloupích\" :-)"
           vorto: Všade
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Udalosť, objekt, vec"
-        i: 
+        i:
           frazo: "Niečo sa stalo!"
           vorto: Niečo
-        ki: 
+        ki:
           frazo: "Čo je geografia? - Geografia je veda."
           vorto: Čo
-        neni: 
+        neni:
           frazo: "Lepšie niečo ako nič."
           vorto: Nič
-        ti: 
+        ti:
           frazo: "Čo je to? - To je hudobný nástroj."
           vorto: To
-        ĉi: 
+        ĉi:
           frazo: "Všetko som zabudol"
           vorto: Všetko
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Označuje osobu, či vec. Pokiaľ sa jedná o viac ako jednu, musí dostať koncovku \"j\"."
-        i: 
+        i:
           ekspliko: Neurčitosť
           frazo: "Prišli nejaký osoby, ktoré nepoznám."
           vorto: niekto
-        ki: 
+        ki:
           ekspliko: "Naznačuje otázku alebo vzťah k predošlej vete (vzťažné vety)."
           frazo: "Kto bol tvoj prvý učiteľ? - Pán Karol."
           vorto: "Ktorý, kto"
-        neni: 
+        neni:
           ekspliko: "Vyjadruje zápor"
           frazo: "Kto včera prišiel? - Nikto včera neprišiel."
           vorto: nikto
-        ti: 
+        ti:
           ekspliko: Ukazovacia
           frazo: "Tá kniha je veľmi dobrá."
           vorto: "ten / tá / to"
-        ĉi: 
+        ĉi:
           ekspliko: "Ukazuje všeobecnosť"
           frazo: "Každý človek sa má rád."
           vorto: každý
-      vortaro05: 
+      vortaro05:
         al: k
         anonco: oznam
         aĉeti: kúpiť

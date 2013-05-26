@@ -1,11 +1,11 @@
---- 
-is: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+is:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Forsetningar eru smáorð sem sýna tengsl tveggja orða."
         titolo: "Forsetningar I"
-        vortoj: 
+        vortoj:
           al: til
           da: "af (um magn)"
           de: "frá (einnig notað til að mynda eignarfall)"
@@ -18,9 +18,9 @@ is:
           sur: á
           ĉe: hjá
           ĝis: "þangað til"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Forsetningar II"
-        vortoj: 
+        vortoj:
           anstataŭ: "í staðinn fyrir"
           antaŭ: "fyrir, fyrir framan, á undan"
           apud: hjá
@@ -39,7 +39,7 @@ is:
           tra: "í gegnum"
           trans: "hinum megin"
           ĉirkaŭ: "í kringum"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Við sáum í annarri lexíu að \"-n\" táknar andlagsfall (þolfall).  Til dæmis:"
         ekspliko-2: "Þegar í setningu eru tveir þolendur hlýtur annar að vera óbeinn þolandi. Til dæmis:"
         ekspliko-3: "Þessi notkun á forsetningu er nauðsynleg og óbeini þolandinn fær ekki þolfallsendingu.  Hér eru fleiri dæmi."
@@ -56,8 +56,8 @@ is:
         frazo-5: "Hann drakk bolla af kaffi."
         frazo-6: "Farðu burt frá augliti mínu! (frá því að vera fyrir framan mig)."
         titolo: "Forsetningar III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "koma til"
           aŭtobuseto: smárúta
           danki: þakka
@@ -72,8 +72,8 @@ is:
           sidi: sitja
           tagmanĝo: hádegisverður
           viziti: heimsækja
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: norðurheimskautssvæði
           Kanado: Kanada
           admiri: "dást að"

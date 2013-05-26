@@ -1,10 +1,10 @@
---- 
-nl: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+nl:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: |-
-            Een andere, heel nuttige eindletter -n maakt het  mogelijk het lijdend voorwerp in een zin te herkennen. Dat is 
+            Een andere, heel nuttige eindletter -n maakt het  mogelijk het lijdend voorwerp in een zin te herkennen. Dat is
             de z.g. naamvals -n ("accusatief" of "vierde naamval" -uitgang).  Men zet die aan zelfstandige naamwoorden, bijvoeglijke naamwoorden en voornaamwoorden om het lijdend voorwerp aan te geven. Men herkent dus het lijdend voorwerp aan de uitgang -n, wat de verstaanbaarheid van zinnen sterk verhoogt.
         ekspliko-2: "Merk op dat de meervoudsuitgang -j voor de naamvals -n komt, dus eerst de \"j\", dan de \"n\". Het lijdend voorwerp mag aan het begin van de zin staan, aan het einde, of er midden in, dat verandert niets aan de betekenis van de zin. Je herkent het altijd aan de  -n. Hier komen drie zinnen, die alle drie hetzelfde betekenen."
         frazo-plurala: "Ik was de nieuwe kopjes af."
@@ -12,54 +12,54 @@ nl:
         rimarkigo-1: "Een veranderde woordvolgorde kan wel worden gebruikt om de betekenis een beetje te nuanceren. Dat komt later in de cursus aan de beurt."
         rimarkigo-2: "Na een vorm van het werkwoord \"esti \" (= zijn) komt geen naamvals-n. Het werkwoord \"esti\" drukt immers altijd equivalentie uit van onderwerp en gezegde."
         titolo: "Naamvals -n  (ook \"accusatief\" of \"vierde naamval\" genaamd)"
-      muziko01: 
+      muziko01:
         ekspliko: |-
-            Laat ons nu luisteren naar het Esperanto chanson "Jen" van 
-            de Argentijnse groep "La Porkoj", bekroond in de prijskamp 
-            voor schone  kunsten van de Universele Esperanto 
-            Vereniging. 
-            Maken deel uit van de groep: Alejandro Cossavella (stem), 
-            Pablo Ciancio (drums), Ignacio Mendizabal (gitaar) en 
-            Salvador Agustoni (basgitaar). 
+            Laat ons nu luisteren naar het Esperanto chanson "Jen" van
+            de Argentijnse groep "La Porkoj", bekroond in de prijskamp
+            voor schone  kunsten van de Universele Esperanto
+            Vereniging.
+            Maken deel uit van de groep: Alejandro Cossavella (stem),
+            Pablo Ciancio (drums), Ignacio Mendizabal (gitaar) en
+            Salvador Agustoni (basgitaar).
             Klik op de pijlknop om het chanson af te spelen.
         titolo: Esperantomuziek
-      neado: 
+      neado:
         ekspliko: "Om een zin ONTKENNEND te maken zet je het woordje \"ne\" voor het werkwoord."
-        frazoj: 
+        frazoj:
           frazo-1: "Ik zal het nieuwe kopje niet afwassen."
           frazo-2: "Hij is mijn broer niet."
           frazo-3: "Zij is mijn moeder niet,"
           frazo-4: "De koeken waren niet warm."
         titolo: Ontkenning
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: |-
-            Met het voorvoegsel mal- kunnen we woorden maken, waarvan de betekenis de TEGENGESTELDE is van het 
+            Met het voorvoegsel mal- kunnen we woorden maken, waarvan de betekenis de TEGENGESTELDE is van het
             woord waar het mee is verbonden. (Later zien we nog meer om je woordenlijst moeiteloos uit te breiden).
-        kun: 
+        kun:
           malamiko: vijand
           malavara: "vrijgevig, gul"
           malbela: lelijk
           maljuna: "oud (van levende wezens)"
           malnova: "oud (van dingen)"
-        sin: 
+        sin:
           amiko: vriend
           avara: gierig
           bela: mooi
           juna: jong
           nova: nieuw
         titolo: "Het voorvoegsel \"mal-\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: |-
-            In de eerste les zagen we, dat in het Esperanto de uitgangen van bijvoeglijke naamwoorden in enkel- en 
-            meervoud overeenkomen met het zelfstandig naamwoord: als het over één gaat krijgen ze de enkelvoudsvorm (zonder eind -j), anders de meervoudsvorm (met eind -j). 
+            In de eerste les zagen we, dat in het Esperanto de uitgangen van bijvoeglijke naamwoorden in enkel- en
+            meervoud overeenkomen met het zelfstandig naamwoord: als het over één gaat krijgen ze de enkelvoudsvorm (zonder eind -j), anders de meervoudsvorm (met eind -j).
             Woorden kennen geen geslachtsvormen (vrouwelijk, mannelijk, onzijdig)
         ekspliko-2: "Alleen namen van geslachtelijke wezens identificeren het geslacht van die wezens. Voor het mannelijk geslacht eindigen die namen op  \"o\", namen van vrouwelijke wezens eindigen op \"ino\""
-        frazoj: 
+        frazoj:
           frazo-amikino: "De mooie vriendin"
           frazo-patrino: "De goede moeder"
           frazo-virino: "De grote vrouwen"
         titolo: "Het achtervoegsel -ino"
-        vortoj: 
+        vortoj:
           amikino: vriendin
           amiko: vriend
           filino: dochter
@@ -68,7 +68,7 @@ nl:
           patro: vader
           virino: vrouw
           viro: man
-      vortaro02: 
+      vortaro02:
         akvo: water
         ami: liefhebben
         amo: liefde

@@ -1,11 +1,11 @@
---- 
-la: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+la:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Klausīšanās uzdevums I"
         auxdkompreno01-instrukcio: "Sekojošajā uzdevumā jūs klausīsieties vārdu un jums vajadzēs noklikšķināt uz vārda atbilstošās pogas. Ja jūs atbildēsiet pareizi, poga pazudīs no ekrānā. Pretējā gadījumā jūs no jauna dzirdēsiet vārdu uzdevuma pildīšanas brīdī. Jums vajag atbildēt vismaz 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. (Tā) Tēja ir silta."
         frazo02: "2. Skolotājs ir tēvs."
         frazo03: "3. Jūsu tēvs bija labs."

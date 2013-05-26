@@ -1,19 +1,19 @@
---- 
-id: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+id:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: indah-cantik-bagus
         ekspliko: "Berakhir dengan huruf \"a\""
         sana: sehat
         titolo: Kata-sifat
         varma: hangat
-      alfabeto: 
+      alfabeto:
         ekspliko: "Dalam Bahasa Esperanto, kata kata ditulis sama seperti cara pengucapannya, dan mereka diucapkan dengan bunyi dari setiap huruf dituliskan.  Tekanan terletak pada suku kata kedua dari yang terakhir.  Bunyikan tombol untuk mendengarkan pengucapannya dan ulangi lagi dengan suara yang keras."
         titolo: "Alfabet Bahasa Esperanto"
-      artikolo: 
+      artikolo:
         ekspliko: "Tidak ada kata-sandang dalam bahasa Esperanto; hanya ada kata-sandang tertentu \"la\".  Kata \"la\" sama untuk segala jenis kelamin, segala kasus,  bentuk tunggal dan bentuk jamak.  (Ini sama dengan \"itu\" dalam bahasa Indonesia.)"
-        frazoj: 
+        frazoj:
           frazo-1: "Semua anak laki-2 anda adalah kawan-2 kami."
           frazo-2: "Roti itu kering."
           frazo-3: "Susu hangat baik."
@@ -22,7 +22,7 @@ id:
           frazo-6: "Bapak itu baik."
           titolo: Kalimat
         titolo: Kata-Sandang
-        vortoj: 
+        vortoj:
           floroj: bunga-bunga
           knabo: "anak laki-laki"
           la-floroj: "Bunga (itu)"
@@ -31,33 +31,33 @@ id:
           la-patroj: "Bapak-bapak (itu)"
           pano: roti
           patroj: bapak-bapak
-      nomoj: 
+      nomoj:
         amiko: teman
         ekspliko: "Berakhir dengan huruf \"o\""
         frato: "kakak laki-laki"
         kafo: kopi
         titolo: Kata-benda
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Ili -Mereka (bentuk jamak  \"ŝi\", \"li\" dan \"ĝi\")"
           ni: "Ni - Kami, kita"
           titolo: "Bentuk jamak"
           vi: "Vi - Kamu (bentuk jamak)"
-        singularo: 
+        singularo:
           li: "Li - Dia, ia (laki-laki)"
           mi: "Mi - Saya, aku"
           titolo: "Bentuk  tunggal"
           vi: "Vi - anda (tunggal)"
           ĝi: "Ĝi -Dia, ia, -nya, itu  ( menunjukkan  barang, binatang atau orang kalau tidak perlu mengatakan jenis kelaminnya)"
           ŝi: "Ŝi - Dia, ia (perempuan)"
-        specialaj: 
+        specialaj:
           oni: "Oni - Kata ganti orang tak tentu, artinya \"seorang, orang-orang, seseorang yg tak dikenal\", digunakan kalau tidak mau atau tidak dapat mengatakan siapa terlibat - siapa membuat atau menderita aksi."
           si: "Si - Kata-ganti refleksip orang ketiga  - li, ŝi, ĝi, ili, oni - ( diri - dia, ia, nya, mereka).  \"Si\" berkenaan dengan pokok kalimat.  \"Si\" tidak dapat jadi pokok kalimat."
           titolo: "Yang lain"
         titolo: "Kata Ganti Orang"
-      pluralo: 
+      pluralo:
         ekspliko: "Bentuk jamak berbentuk dengan menambahkan huruf \"j\" pada akhir kata-benda dan kata-sifat."
-        pluralo: 
+        pluralo:
           amikoj: teman-teman
           belaj: "cantik, indah (b. jamak)"
           belaj-floroj: "bunga-bunga cantik"
@@ -66,7 +66,7 @@ id:
           patroj: bapak-bapak
           sanaj: "sehat (b. jamak)"
           sanaj-patroj: "bapak-bapak sehat"
-        singularo: 
+        singularo:
           amiko: teman/kawan
           bela: indah-cantik-bagus
           bela-floro: "bunga cantik"
@@ -76,9 +76,9 @@ id:
           sana: sehat
           sana-patro: "bapak sehat"
         titolo: "Bentuk Jamak"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Kata-ganti kepunyaan dibentuk dengan menambahkan akhir kata sifat \"a\" pada kata-ganti orang."
-        posedaj: 
+        posedaj:
           ilia: "... mereka"
           lia: "... dia. ...nya  (laki-laki)"
           mia: "...... saya"
@@ -86,27 +86,27 @@ id:
           via: "... anda, ...mu, ...nya"
           ĝia: ".......nya"
           ŝia: "...dia, ...nya (perempuan)"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Juga kata ganti kepunyaan berakhir dengan \"j\" kalau bentuk jamak."
           mia-amiko: "Teman saya"
           miaj-amikoj: "Teman-teman saya"
           nia-floro: "Bunga kami/kita"
           niaj-floroj: "Bunga-bunga kami"
         titolo: "Kata-Ganti Kepunyaan"
-      verboj: 
+      verboj:
         ekspliko: "Katakerja infinitif berakhir dengan -i: esti (tak ditentukan).  Katakerja yg lalu berakhir dengan -is: estis (saya...dulu).  Katakerja masa kini berakhir dengan -as: estas (saya...sekarang).  Katakerja masa depan berakhir dengan -os: estos (saya...yg akan datang).  K.k. yg lain akan diajarkan pada pel.-pel. yg berikutnya."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Mereka (...sekarang)"
           ni-estas: "Kami/kita (...sekarang)"
           oni-estos: "Orang (tak dikenal)  ...........yg akan............."
           vi-estis: "Anda (...waktu yg lalu)"
-        singularo: 
+        singularo:
           li-estis: "Dia (laki-laki) (...yg lalu)"
           mi-estas: "Saya (...sekarang)"
           ĝi-estos: "Itu (...yg akan datang)"
           ŝi-estas: "Dia (perempuan) (...sekarang)"
         titolo: Kata-Kerja
-      vortaro01: 
+      vortaro01:
         amiko: "teman, kawan"
         bela: indah-cantik-bagus
         biskvito: biskuit

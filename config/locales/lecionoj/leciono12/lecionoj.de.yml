@@ -1,13 +1,13 @@
---- 
-de: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+de:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: |-
-            Hören Sie nun das Lied "Bluaj Fragoj" von der brasilianischen Popmusikgruppe Merlin, die   weltweit auftritt und bereits zwei Plattenerfolge mit der Internationalen Sprache erzielte. 
+            Hören Sie nun das Lied "Bluaj Fragoj" von der brasilianischen Popmusikgruppe Merlin, die   weltweit auftritt und bereits zwei Plattenerfolge mit der Internationalen Sprache erzielte.
             Zu der Gruppe gehören: Markone Froes (Gesang und Gitarre), Guilherme Lima (Schlagzeug), Aldrin Gandra (Elektro-Gitarre), Sérgio Ribeiro (Bassgitarre) und Sérgio Vieira (Klavier).
         titolo: "Musik auf Esperanto"
-        vortaro: 
+        vortaro:
           aliri: hingehen
           alveni-al: "ankommen bei, gelangen"
           animo: Seele
@@ -21,46 +21,46 @@ de:
           vero: "Wahres, Wahrheit"
           ĉielarko: Regenbogen
           ĉielo: Himmel
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "Seit Lektion 2 kennen wir das Akkusativobjekt als direkte Ergänzung  des Verbs. Doch es gibt Verben, die keine Akkusativ-Ergänzung brauchen, z. B.:"
         frazo-1: "Es geschah etwas Bedeutsames."
         frazo-2: "Ich bin heute sehr froh."
         frazo-3: "Sie schlafen schon in ihren Betten."
         frazo-4: "Die jungen Leute tanzten viel."
-        ig: 
+        ig:
           ekspliko: "Verben auf -ig erfordern dagegen stets eine direkte Ergänzung:"
           frazo-1: "Die Reise hat dich sicher ermüdet. [W.: ermüdete dich sicher]"
           frazo-2: "Die Mittagssonne verbrennt seinen unbedeckten Kopf."
           frazo-3: "Der Vater will die ältere Tochter sogleich verheiraten."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. Die grammatische Eigentümlichkeit der Verben auf -iĝ ergibt sich aus ihrem Inhalt."
             frazo-1: "Die Menge lief langsamer als das Fahrzeug, das rasend schnell heranrollte."
             frazo-2: "Plötzlich war er [befand er sich] ganz allein auf der Straße."
             frazo-3: "Um wie viel Uhr beginnt die Unterrichtsstunde? [Wörtl.:  .. wird .. beginnen?]"
             frazo-4: "Scharen Vorbeigehender zogen über die Bürgersteige. [W.: .. bewegten sich auf..]"
           ekspliko: "Verben mit der Endung -iĝ benötigen keine Akkusativ-Ergänzung. Beispiele:"
-          unu: 
+          unu:
             ekspliko: "1. Zustandsänderung (täterfrei):"
             frazo-1: "Im Winter gefrieren die Gewässer."
             frazo-2: "Heute ist das Wetter wieder warm geworden."
             frazo-3: "Sie heiratete ihren Cousin. [..verheiratete sich mit ..]"
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Einige dieser Verben können eine präpositionale (adverbiale) Ergänzung haben:"
           ekspliko-2: "Manchmal verlangen solche Verben eine direkte Ergänzung, also ein Akkusativobjekt."
           frazo-1: "Sein Vater starb an Krebs."
           frazo-2: "Ich bin sehr froh über dein Glück!"
           frazo-3: "Sie schläft einen tiefen Schlaf."
           frazo-4: "Sie tanzte (einen) Walzer mit ihm."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Merke: Das Verb \"esti\" erfordert keinen Akkusativ (-n) -  und nach Präpositionen steht er nur gelegentlich zur Angabe einer Bewegung/Richtung [aber normalerweise der Nominativ]."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Verben ohne Subjekt:"
           frazo-1: "Gestern regnete es viel."
           frazo-2: "Es wird Tag, und ich muss heim(gehen)."
           frazo-3: "Es schneite heftig, und er kam nicht aus seiner Hütte heraus. [W.: ..konnte nicht .. h.]"
         titolo: "Ergänzungen des Verbs"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Sie haben sicher längst die außergewöhnliche Ausdrucksfähigkeit des Esperanto bemerkt. Durch Affixe (Präfixe, Suffixe, Beugungsendungen) lassen sich zahlreiche Wörter bilden - wenn man sich auskennt. Mit Hilfe der Wurzelwörter lässt sich der Wortschatz ausbauen, indem man sinnverwandte Wörter bildet. Für Wortschöpfung in der Internationalen Sprache hier einige Beispiele:"
         ekspliko-2: "(a) Wortbildung mittels Präfix, Suffix - sowie (sonstiger) Endungen:"
         ekspliko-3: "(b) Anfügung von Grundwörtern (Wurzeln): Dabei kann die Endung (-o, -a usw.) des ersten Wortes entfallen (muss sie aber nicht). Maßgeblich hierfür sollten Klarheit und Wohlklang sein:"
@@ -69,7 +69,7 @@ de:
             Hinweis: Obwohl man mehrere Affixe (Morpheme) miteinander verbinden kann, sollte man Mammut-Gebilde möglichst vermeiden, um die Klarheit und Eleganz der Sprache zu erhalten. Also z. B. statt "belulineto" lieber "eta belulino (kleine Schöne)" sagen/schreiben.
             Dabei wirkt sich die Anordnung der Affixe unmittelbar auf die Bedeutung der Neubildungen aus.
         titolo: "Wortbildung im Esperanto"
-        vortoj: 
+        vortoj:
           antaŭbrako: Unterarm
           balenŝipo: Walfangschiff
           helruĝo: Hellrot

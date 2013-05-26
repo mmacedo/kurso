@@ -1,38 +1,38 @@
---- 
-it: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+it:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Di uguaglianza:"
           frazo-1: "L'esperanto è tanto bello quanto utile (letteralmente: così ... come)."
           frazo-2: "Niente è tanto prezioso quanto la salute (letteralmente: così ... come)."
           frazo-3: "[Lei] è tanto bella quanto la madre (letteralmente: così ... come)."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Di minoranza:"
           frazo-1: "Mio fratello è meno anziano (quanto ad età) di me."
           frazo-2: "[Lui] scrive meno bene della ragazza."
           frazo-3: "Il marito parla meno forte della moglie."
-        supereco: 
+        supereco:
           ekspliko: "Di maggioranza:"
           frazo-1: "Il latte è più nutriente del vino. (/Del latte è più nutriente che del vino.)"
           frazo-2: "Giovanni è più alto di Pietro."
           frazo-3: "Il sole è più grande della luna."
         titolo: Comparativo
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: "[un] genero"
           bofratino: "[una] cognata"
           bopatrino: "[una] suocera"
           bopatro: "[uno] suocero"
           ekspliko: "denota parentela acquisita a seguito di matrimonio"
-        dis: 
+        dis:
           disdoni: distribuire
           disfali: "crollare, cadere a pezzi"
           disflugi: "volar via (disperdendosi)"
           dissemi: disseminare
           ekspliko: "denota distribuzione, dispersione, moto in direzioni divergenti"
-        duon: 
+        duon:
           duondio: "[un] mezzo dio"
           duonfilino: "[una] figliastra"
           duonhoro: "[una] mezz'ora"
@@ -40,37 +40,37 @@ it:
           ekspliko: "denota frazionamento a metà"
           filino: "[una] figlia"
           horo: "[un'] ora"
-        ek: 
+        ek:
           ekbrilo: "[un] bagliore"
           ekdormi: addormentarsi
           ekiri: incamminarsi
           ekpluvi: "cominciare a piovere"
           ekspliko: "denota l'inizio di un'azione, o un'azione improvvisa, o momentanea"
-        eks: 
+        eks:
           eksedziĝi: divorziare
           eksfianĉo: "[un] ex-fidanzato"
           eksiĝi: dimettersi
           ekspliko: "denota un'azione o uno stato che non esiste più."
           eksprezidanto: "[un] ex-presidente"
-        fi: 
+        fi:
           ekspliko: "denota riprovazione, disgusto, disprezzo (sotto il profilo morale)"
           fidomo: "[una] casa di malaffare"
           fikomercisto: "[un] commerciante disonesto"
           fivirino: "[una] donnaccia"
           komercisto: "[un] commerciante"
-        ge: 
+        ge:
           ekspliko: "denota l'unione dei generi maschile e femminile (coppia o gruppo)"
           geamikoj: "[degli] amici (maschi e femmine)"
           gefiloj: "[dei] figli [intendi: figli e figlie]"
           gefratoj: "[dei] fratelli e [delle] sorelle"
           gepatroj: "[dei] genitori"
-        mal: 
+        mal:
           dekstro: "[una parte] destra"
           ekspliko: "denota il significato opposto a quello della radice"
           fermi: chiudere
           maldekstro: "[una parte] sinistra"
           malfermi: aprire
-        mis: 
+        mis:
           ekspliko: "denota modalità erronea, scorretta, cattiva, inopportuna, sconveniente"
           kompreni: capire
           miskompreni: equivocare
@@ -78,7 +78,7 @@ it:
           misuzo: "[un / l'] abuso"
           paŝo: "[un] passo"
           uzo: "[un / l'] uso"
-        pra: 
+        pra:
           ekspliko: "denota lontananza nel tempo (passato o futuro)"
           historio: "[una / la] storia"
           nepo: "[un] nipote (di nonno)"
@@ -86,21 +86,21 @@ it:
           prahistorio: "[la] preistoria"
           prahomo: "[un] uomo primitivo"
           pranepo: "[un] pronipote"
-        re: 
+        re:
           ekspliko: "denota ripetizione, nuovo accadimento"
           reaperi: riapparire
           refari: rifare
           reteni: trattenere
           reveni: ritornare
         titolo: Prefissi
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "denota azione continuativa o ripetuta"
           parolado: "[un] discorso"
           paroli: parlare
           rigardadi: "contemplare, osservare"
           rigardi: guardare
-        an: 
+        an:
           brazilano: "[un] brasiliano"
           ekspliko: "denota un membro di gruppo, partito, religione; abitante di un paese o d'una regione"
           eŭropano: "[un] europeo"
@@ -108,25 +108,25 @@ it:
           kristano: "[un] cristiano"
           kristo: Cristo
           usonano: "[uno] statunitense"
-        ar: 
+        ar:
           ekspliko: "denota collettività, raccolta, insieme"
           vortaro: "[un] vocabolario, [un] dizionario"
           vorto: "[una] parola, [un] vocabolo"
           ŝafaro: "[un] gregge"
           ŝafo: "[una] pecora"
-        aĉ: 
+        aĉ:
           domaĉo: "[una] casaccia, topaia, [un] tugurio"
           domo: "[una] casa"
           ekspliko: "denota riprovazione, disgusto, disprezzo (sotto il profilo materiale o estetico)"
           skribaĉi: scarabocchiare
           skribi: scrivere
-        aĵ: 
+        aĵ:
           dolĉa: dolce
           dolĉaĵo: "[un] dolce"
           ekspliko: "denota una manifestazione concreta dell'idea della radice"
           pentraĝo: "[un] dipinto, [una] pittura"
           pentri: dipingere
-        ebl: 
+        ebl:
           ekspliko: "denota possibilità passiva"
           kredebla: credibile
           kredi: credere
@@ -134,19 +134,19 @@ it:
           legi: leggere
           videbla: visibile
           vidi: vedere
-        ec: 
+        ec:
           amikeco: "[l'] amicizia"
           amiko: "[un] amico"
           ekspliko: "denota stato o qualità astratta corrispondente all'idea della radice"
           mola: "molle, morbido"
           moleco: "mollezza, morbidezza"
-        eg: 
+        eg:
           ekspliko: "denota il più alto grado di grandezza o intensità"
           ridegi: "sbellicarsi dalle risa"
           ridi: ridere
           ventego: "[un] gran vento"
           vento: "[del, un] vento"
-        ej: 
+        ej:
           ekspliko: "denota il luogo dell'azione (o destinato agli esseri caratterizzati dalla radice)"
           oficejo: "[un] ufficio"
           ofico: "[una] mansione, [un] impiego"
@@ -154,26 +154,26 @@ it:
           preĝi: pregare
           ĉevalejo: "[una] scuderia"
           ĉevalo: "[un] cavallo"
-        em: 
+        em:
           babilema: "chiaccherone / a"
           babili: chiacchierare
           ekspliko: "denota propensione, tendenza, inclinazione"
           ŝparema: "parsimonioso / a"
           ŝpari: risparmiare
-        end: 
+        end:
           ekspliko: "denota obbligo passivo (il da farsi, per vincolo materiale o imposizione morale)"
           farenda: "da fare"
           fari: fare
           legenda: "da leggere"
           legi: leggere
         titolo: Suffissi
-        ĉj: 
+        ĉj:
           ekspliko: "denota vezzeggiativo maschile (accodato alla radice; o ad una parte, per eufonia)"
           jozefo: Giuseppe
           joĉjo: Peppino
           patro: "[un] padre"
           paĉjo: "[un] papà"
-      superlativo: 
+      superlativo:
         ekspliko-1: "Il superlativo (relativo) indica che uno dei soggetti considerati possiede una caratteristica in grado più alto (o più basso) di tutti gli altri."
         ekspliko-2: "Quando i soggetti (persone, oggetti, etc.) sono solo due, invece di \"plej\" o \"malplej\" si usano \"pli\" o \"malpli\" (perché si tratta di un comparativo, a ben vedere). Lo stesso vale quando si tratta di due gruppi:"
         frazo-1: "Di tutti i mie bambini, Ernesto è il più giovane."

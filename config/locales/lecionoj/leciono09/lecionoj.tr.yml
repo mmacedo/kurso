@@ -1,57 +1,57 @@
---- 
-tr: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+tr:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Bir bütünün öğesini ifade eden son takı."
           monero: kuruş
           mono: para
           salero: "kristal tuz"
           salo: tuz
-        estr: 
+        estr:
           ekspliko: "Şef, başkan rütbesi yüksek olan ve emir verebilen."
           urbestro: "Belediye başkanı"
           urbo: Şehir
           ŝipestro: "gemi kaptanı"
           ŝipo: "vapur, gemi"
-        et: 
+        et:
           ekspliko: "Küçük,küçük derecede"
           pupeto: "Oyuncak bebekcik"
           pupo: "Oyuncak bebek"
           rideti: "tebessüm etmek"
           ridi: gülmek
-        id: 
+        id:
           ekspliko: "Küçük çocuk, erkek evlat, oğul"
           katido: "kedi yavrusu"
           kato: kedi
           reĝido: prens
           reĝo: kral
-        ig: 
+        ig:
           ekspliko: "Yaptırıyorum,kökte belirtildiği gibi olmasını yaptırmak. Sıfat ve geçişsiz fiilleri geçişli fiil yapar."
           morti: ölmek
           mortigi: öldürmek
           pura: Temiz
           purigi: Temizlettiriyorum
-        il: 
+        il:
           ekspliko: "Olayın meydana gelmesini sağlayan alet veya avadanlık."
           muzikilo: "müzik aleti"
           muziko: müzik
           ŝlosi: kilitliyorum
           ŝlosilo: anahtar
-        in: 
+        in:
           ekspliko: "Dişil cinsiyeti belirleyen son takıdır."
           kokino: tavuk
           koko: horoz
           onklino: "Hala / Teyze"
           onklo: Amca
-        ind: 
+        ind:
           admiri: "Hayran kalmak"
           admirinda: "İnsanı hayran bırakan"
           ekspliko: "Kökün ifade ettiği gibi layık olmak"
           laŭdi: övmek
           laŭdinda: "övülmeye değer"
-        ist: 
+        ist:
           ekspliko: "Meslek veya geleneksel sanat için son takı."
           esperantisto: Esperantist
           esperanto: Esperanto
@@ -61,7 +61,7 @@ tr:
           raportisto: raportör
           tajpi: "Daktilo ile yazmak"
           tajpisto: Daktilograf
-        iĝ: 
+        iĝ:
           ekspliko: "Kökte belirtildiği gibi oluyorum.Edilgen fiil son ekidir. (Dış etken olmaksızın)"
           fari: yapmak
           fariĝi: "oluyorum / herhangi bir çeşit"
@@ -69,39 +69,39 @@ tr:
           mateno: Sabah
           ruĝa: kırmızı
           ruĝiĝi: kızarıyorum
-        nj: 
+        nj:
           Maria: "Maria (özel isim)"
           ekspliko: "Bayan isimleri için kullanılan nazik son takı ( kök ve ses ahengini koruyarak )"
           manjo: "Mariya'cık (özel isim)"
           panjo: annecik
           patrino: anne
-        obl: 
+        obl:
           du: İki
           duobla: "İki misli"
           ekspliko: "Bölünebilir sayı için son takı"
           tri: üç
           trioblo: "üç misli"
         ? "on"
-        : 
+        :
           dek: "on"
           dekono: "onda biri"
           ekspliko: "Bir kökün parçası"
           kvar: dört
           kvarono: "dörtte bir (çeyrek)"
-        op: 
+        op:
           du: iki
           duopo: "ikişer, çift olarak"
           ekspliko: "grup halinde birer ikişer"
           ses: altı
           sesopo: "altışar grup halinde"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Bu iki son takının manaları arasında karışıklık olduğunda, yerine eş anlamlısı kullanılmalı."
           germanio: Almanya
           pomarbo: "elma ağacı"
           pomkesto: "Elma sandığı"
           ruslando: Rusya
         titolo: "Son Takı"
-        uj: 
+        uj:
           ekspliko: "İç içe ifade taşıyan nesneler; meyvalarına göre ağaç; halkına göre memleket."
           franco: fransız
           francujo: Fransa
@@ -109,7 +109,7 @@ tr:
           monujo: "para kesesi"
           pomo: elma
           pomujo: "Adem elması"
-        ul: 
+        ul:
           ekspliko: "Kökte ifade edilen birey, şahıs için son takı"
           kontraŭ: "karşı, aksi"
           kontraŭulo: muhalif
@@ -119,13 +119,13 @@ tr:
           sanktulo: "aziz din adamı"
           stulta: aptal
           stultulo: "ahmak kişi"
-        um: 
+        um:
           ekspliko: "Manası belirsiz son takı"
           kolo: boyun
           kolumo: yaka
           plena: dolu
           plenumi: "icra etmek"
-      vortordo: 
+      vortordo:
         dialogo: "- Seni gördüm, ey hazine ve derhal sana vuruldum! - Sana inanıyorum, ama altın cüzdanında hazır bulunsun, - Seni seviyorum, ama en kıymetlim, böyle olduğunu düşünmezdim! - Beni sevseydin, cimri herif, beni kraliçe yapardın."
         ekspliko-1: "Şimdiye kadar Esperanto'da en çok karşılaşılan kelime dizimi özne, yüklem, tümleci gösterdik. Fakat açıklığı korumak şartıyla, serbest cümlelerde kurulabilir. Esas kural açıklıktır, bu nedenle: sıfat isimden, zarf da fiilden; genel bir ifade ile sıfat ve zarflar ait oldukları kelimelerden evvel bulunurlar.."
         ekspliko-2: "Cümlede herhangi bir kısmın önemini belirtmek, dikkatini çekmek için \"ja\" kelimeciğini kullanabiliriz."

@@ -1,48 +1,48 @@
---- 
-da: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+da:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Ordenstallene dannes ved at tilføje endelsen \"a\"  til talordene. Ideti ordenstallene har endelsen \"a\" kan de få flertalsendelsen (-j) og akkusativendelsen (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "De første drenge kommer."
           frazo-2: "Han fangede det tredje insekt."
         titolo: "Biord afledt af talord"
-        vortoj: 
+        vortoj:
           dek: ti
           dek-naŭ: nitten
           dek-naŭa: nittende
           deka: tiende
           tri: tre
           tria: tredje
-      adverboj: 
+      adverboj:
         ekspliko-1: "Medens tillægsord knytter sig til navneord, så er biord (adverbier) ord der knytter sig til udsagnsord, tillægsord eller til andre biord, og de angiver en biomstændighed eller lægger sig som forklarende tillæg til andre ord. Angiver ofte tid, sted, måde, årsag, nægtelse og lign."
         ekspliko-2: "På esperanto ender de afledte biord på \"e\".  Den grundlæggende idé som udtrykkes i  ordstammen,  kan forandres takket være den simple ændring af endelsen."
-        frazoj: 
+        frazoj:
           frazo-sana: "Han er sund"
           frazo-sane: "Han lever sundt."
           frazo-sani: "Han er sund"
           frazo-sano: "Han har god sundhed"
         rimarkigo: "Biordet placeres normalt foran det ord, der relateres til"
         titolo: "Biord (adverbier)"
-        vortoj: 
+        vortoj:
           sana: sund
           sane: sundt
           sani: "at være sund"
           sano: sundhed
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Ved at tilføje endelsen \"e\" til  talordene danner man biord:"
-        frazoj: 
+        frazoj:
           frazo-1: "Først vil han drikke vand"
         titolo: "Biord dannet af talord"
-        vortoj: 
+        vortoj:
           du: to
           due: "for det andet"
           unu: en
           unue: "først/for det første"
-      numeraloj: 
+      numeraloj:
         titolo: "Talord (numeraler)"
-      vortaro03: 
+      vortaro03:
         atendi: "at vente"
         demandi: "at spørge"
         fumi: "at ryge"

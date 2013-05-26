@@ -1,38 +1,38 @@
---- 
-vi: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+vi:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Câu tương đương:"
           frazo-1: "Quốc tế ngữ thì hay như sự hữu dụng của nó."
           frazo-2: "Không có gì quí giá bằng sức khỏe của bạn."
           frazo-3: "Cô ấy đẹp như mẹ cô ta."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Kém ưu việt:"
           frazo-1: "Em trai tôi thì trẻ hơn tôi."
           frazo-2: "Anh ấy viết không đẹp như các cô gái."
           frazo-3: "Ông chồng thì nói to hơn các bà vợ."
-        supereco: 
+        supereco:
           ekspliko: "Câu ưu việt hơn:"
           frazo-1: "Sữa thì có giá trị dinh dưỡng hơn rượu."
           frazo-2: "John cao hơn Peter."
           frazo-3: "Mặt trời thì lớn hơn mặt trăng."
         titolo: "Sự so sánh"
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: "con rể"
           bofratino: "chị, em dâu"
           bopatrino: "mẹ vợ, mẹ chồng"
           bopatro: "bố vợ, bố chồng"
           ekspliko: "mối quan hệ tạo bởi hôn nhân"
-        dis: 
+        dis:
           disdoni: "phân bổ, phân phối"
           disfali: "bẻ vụn"
           disflugi: "bay toán loạn"
           dissemi: "gieo rắc (hạt giống, tư tưởng...); phổ biến"
           ekspliko: "(dis-) sự phân phối, phân tán"
-        duon: 
+        duon:
           duondio: "á thần, thánh"
           duonfilino: "bước vào thì con gái"
           duonhoro: "nửa tiếng (giờ)"
@@ -40,37 +40,37 @@ vi:
           ekspliko: "một nửa"
           filino: "con gái"
           horo: giờ
-        ek: 
+        ek:
           ekbrilo: "tia lửa, tia sáng"
           ekdormi: "bắt đầu ngủ, ngủ gà"
           ekiri: "khởi hành"
           ekpluvi: "bắt đầu mưa"
           ekspliko: "(eks-) khởi tạo, bắt đầu, đột ngột hay hành động thoáng qua"
-        eks: 
+        eks:
           eksedziĝi: "trở thành người ly dị vợ"
           eksfianĉo: "chồng chưa cưới cũ"
           eksiĝi: "bỏ, từ bỏ, xin thôi"
           ekspliko: "(eks) biểu thị một hành động hay một trạng thái mà nó vừa mới xảy ra"
           eksprezidanto: "tổng thống tiền nhiệm (cũ)"
-        fi: 
+        fi:
           ekspliko: "xấu, tồi (đạo đức)"
           fidomo: "ngôi nhà có tiếng xấu"
           fikomercisto: "gian thương (bất lương)"
           fivirino: "người phụ nữ không ra gì"
           komercisto: "thương gia"
-        ge: 
+        ge:
           ekspliko: "cả hai giới (hai hay nhiều cá thể)"
           geamikoj: "bạn cả trai và gái"
           gefiloj: "các con trai và con gái"
           gefratoj: "anh chị em"
           gepatroj: "những người cha và mẹ"
-        mal: 
+        mal:
           dekstro: "bên phải (bên tay phải)"
           ekspliko: "sự đối lập, ngược lại"
           fermi: đóng
           maldekstro: "bên trái ( bên tay trái)"
           malfermi: mở
-        mis: 
+        mis:
           ekspliko: "lỗi, sai"
           kompreni: "không hiểu"
           miskompreni: "hiểu lầm, hiểu sai"
@@ -78,7 +78,7 @@ vi:
           misuzo: "sự dùng sai, ngược đãi"
           paŝo: "bước (đi)"
           uzo: "cách dùng, thói quen, tập quán"
-        pra: 
+        pra:
           ekspliko: "từ lâu rồi"
           historio: "lịch sử"
           nepo: "cháu trai"
@@ -86,21 +86,21 @@ vi:
           prahistorio: "tiền sử"
           prahomo: "ông bà, tổ tiên"
           pranepo: "chắt trai"
-        re: 
+        re:
           ekspliko: "lại,lặp lại"
           reaperi: "lại xuất hiện"
           refari: "làm lại"
           reteni: "giữ, cầm lại"
           reveni: "quay lại"
         titolo: "Các tiền tố"
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "mở rộng hay lặp lại hành động"
           parolado: "khả năng nói, lời nói"
           paroli: nói
           rigardadi: "ngắm, thưởng ngoạm"
           rigardi: "nhìn kính trọng, trân trọng"
-        an: 
+        an:
           brazilano: "người Brazil, thuộc Brazil, tiếng Brazil"
           ekspliko: "thành viên, công dân"
           eŭropano: "Thuộc châu Âu"
@@ -108,25 +108,25 @@ vi:
           kristano: "đạo Cơ-đốc, tên thánh"
           kristo: "Chúa Giê-su"
           usonano: "công dân của Hoa Kỳ"
-        ar: 
+        ar:
           ekspliko: "tập hợp, nhóm, bầy đàn"
           vortaro: "từ điển, từ vựng"
           vorto: từ
           ŝafaro: "đàn cừu"
           ŝafo: "con cừu, người nhút nhát"
-        aĉ: 
+        aĉ:
           domaĉo: "cái lán, lều"
           domo: "ngôi nhà"
           ekspliko: "tồi, chất lượng thấp"
           skribaĉi: "viết nguyệch ngoạc"
           skribi: viết
-        aĵ: 
+        aĵ:
           dolĉa: ngọt
           dolĉaĵo: "kẹo, những thứ ngọt như kẹo"
           ekspliko: "đồ vật hay đối tượng cụ thể."
           pentraĝo: "bức tranh, bức vẽ"
           pentri: "sơn, vẽ"
-        ebl: 
+        ebl:
           ekspliko: "có thể, có khả năng"
           kredebla: "đáng tin"
           kredi: "tin tưởng"
@@ -134,19 +134,19 @@ vi:
           legi: đọc
           videbla: "có thể nhìn thấy được"
           vidi: nhìn
-        ec: 
+        ec:
           amikeco: "tình bạn"
           amiko: "bạn bè"
           ekspliko: "tình trạng (tương đương với  -ness trong tiếng Anh)"
           mola: mềm
           moleco: "tính mềm dẻo"
-        eg: 
+        eg:
           ekspliko: "to lớn, vĩ đại"
           ridegi: "cười lớn"
           ridi: cười
           ventego: "gió bão, cơn gió mạnh"
           vento: gió
-        ej: 
+        ej:
           ekspliko: "nơi chốn"
           oficejo: "văn phòng, nơi làm việc"
           ofico: "nhiệm vụ, chức năng, công việc"
@@ -154,26 +154,26 @@ vi:
           preĝi: "cầu nguyện"
           ĉevalejo: "sự ổn định"
           ĉevalo: "ngôi nhà"
-        em: 
+        em:
           babilema: "tính hay nói, ba hoa, bép xép"
           babili: "nói truyện"
           ekspliko: "khuynh hướng, độ nghiêng"
           ŝparema: "tiết kiệm, thịnh vượng"
           ŝpari: "tiết kiệm, để dành"
-        end: 
+        end:
           ekspliko: "những thứ nên hay phải làm"
           farenda: "thứ phải được làm"
           fari: làm
           legenda: "thuộc truyện cổ tích"
           legi: đọc
         titolo: "Các hậu tố"
-        ĉj: 
+        ĉj:
           ekspliko: "tên hiệu cho giống đực ( phần gốc có thể được lược bớt hay thay đổi lại)"
           jozefo: "người đàn ông chay tịnh"
           joĉjo: "người lính"
           patro: "cha, bố"
           paĉjo: "ba, thầy, tía... (gọi thông tục)"
-      superlativo: 
+      superlativo:
         ekspliko-1: "So sánh cao nhất thì được sử dungj khi một thành viên trong nhóm biểu hiện số lượng , tính chất  ở mức độ  cao hơn (hay thấp hơn)  tất cả các cái khác."
         ekspliko-2: "Khi so sánh chỉ có hai người, hay hai vật hay hai nhóm sử dụng \" PLI\" hay \"MALPLI\""
         frazo-1: "Trong tất cả các đứa trẻ của tôi, Emest là trẻ nhất."

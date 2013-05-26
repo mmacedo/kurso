@@ -1,11 +1,11 @@
---- 
-pl: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+pl:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Widzieliśmy, że czasowniki w czasie teraźniejszym kończą się na -as,  w przeszłym na  -is w przyszłym na -os, w bezokoliczniku  na  -i. Są  jeszcze inne czasy:"
         titolo: "Inne czasy"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Tryb rozkazujący dotyczy przeważnie drugiej osoby, nie konieczne jest wtedy używanie zaimka \"ty\", \"wy\". Kiedy odnosi się do trzeciej osoby należy zastosować zaimek:"
         ekspliko-2: "Końcówka  -u  trybu rozkazującego  odnosi sie do :  rozkazu, prośby, upomnienia, życzenia, konieczności,  nakazu, pozwolenia, zakazu."
         frazo-1: "Zamknij drzwi i usiądź!"
@@ -17,8 +17,8 @@ pl:
         frazo-7: "Sugeruję, aby on przybył."
         frazo-8: "Jest możliwe, że on przybędzie."
         titolo: "Tryb rozkazujący ( -U   )"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Muszę rozumieć"
           devas-veni: "Ja muszę przybyć"
           devi: musieć
@@ -28,29 +28,29 @@ pl:
           volas-kompreni: "Chcę rozumieć"
           volas-veni: "Ja chcę przybyć"
           voli: chcieć
-        scio: 
+        scio:
           frazo-koni-1: znam...
           frazo-koni-2: "Czy znasz Jana?"
           frazo-scii-1: wiem
           frazo-scii-2: "Czy znasz Esperanto?"
         titolo: "Kilka bardzo ważnych czasowników"
-        ŝato: 
+        ŝato:
           frazo-ami: "Kocham kogoś."
           frazo-plaĉi-1: "Coś, albo ktoś podoba mi się."
           frazo-plaĉi-2: "Książki podobają mi się."
           frazo-ŝati: "Lubię coś."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Jeśli byłbym bogaty, wiele bym podróżował."
         frazo-2: "Jedlibyśmy chleb, jeśli on byłby dobry."
         titolo: "Tryb warunkowy  ( - US   )"
-      nerekta: 
+      nerekta:
         ekspliko: "W mowie nie wprost, używa się trybu oznajmiającego np:"
         frazo-1: "On powiedział: \" Przybywam z Nowego Jorku\"."
         frazo-2: "On powiedział, że przybywa z Nowego Jorku."
         frazo-3: "On powiedziała: \" Pojadę  do Paryża\"."
         frazo-4: "Ona powiedziała, że pojedzie do Paryża."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Jestem tym, który będzie czytał."
           frazo-presenco: "Jestem tym, który czyta."
           frazo-preterito: "Jestem tym, który czytał."
@@ -74,7 +74,7 @@ pl:
         frazo-7: "Zamknięte drzwi."
         frazo-8: "Wstające słońce."
         frazo-9: "Ci, którzy przeżyli."
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Czytam książkę = Książka jest czytana przeze mnie."
           frazo-futuro: "Książka będzie czytana."
           frazo-presenco: "Książka jest czytana."
@@ -84,7 +84,7 @@ pl:
           preterito: "Czas przeszły: -it"
           titolo: "Strona bierna"
         titolo: Imiesłowy
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\"  odnosi się do trzeciej osoby, podmiotu zdania."
         ekspliko-2: "\"Swój\" nie może być  podmiotem   zdania."
         frazo-1: "Jan mył się  (sam)."

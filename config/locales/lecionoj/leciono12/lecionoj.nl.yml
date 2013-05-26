@@ -1,13 +1,13 @@
---- 
-nl: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+nl:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: |-
             Luister nu naar het chanson "Bluaj Fragoj", gezongen door Merlin, een Braziliaanse popgroep die al twee albums in de internationale taal heeft opgenomen en in de hele wereld optreedt.
             Maken deel uit van de groep: Markone Froes (zang en gitaar), Guilherme Lima (drums). Aldrin Gandra (elektrische gitaar), Sérgio Ribeiro (basgitaar) en Sérgio Vieira  (klavier).
         titolo: "Muziek in Esperanto"
-        vortaro: 
+        vortaro:
           aliri: Aankomen
           alveni-al: "Aankomen op/in"
           animo: Ziel
@@ -21,53 +21,53 @@ nl:
           vero: Waarheid
           ĉielarko: "Hemelboog, regenboog"
           ĉielo: "Hemel, lucht"
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "We leerden in de tweede les het gebruik van de naamvals-n (\"accusatief\") om het lijdend voorwerp aan te geven. Er zijn ook werkwoorden die geen lijdend voorwerp kunnen hebben. Bijvoorbeeld:"
         frazo-1: "Er is iets belangrijks gebeurd."
         frazo-2: "Ik ben vandaag erg blij."
         frazo-3: "Ze slapen al in hun bed."
         frazo-4: "De jongeren dansten veel."
-        ig: 
+        ig:
           ekspliko: "Werkwoorden met het achtervoegsel -IG zijn altijd overgankelijk."
           frazo-1: "De reis vermoeide u zeker (= maakte u zeker moe)."
           frazo-2: "De zuidelijke zon verbrandt (= doet branden) zijn blote hoofd."
           frazo-3: "De vader wil de oudste dochter meteen laten trouwen."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. Bij werkwoorden op -IĜ die gemaakt zijn van overgankelijke werkwoorden gaat het niet om een toestandsverandering, maar om een op zichzelf staande handeling."
             frazo-1: "De massa rende minder snel dan de wagen, die erg snel reed."
             frazo-2: "Plotseling bevond hij zich op straat, helemaal alleen."
             frazo-3: "Hoe laat (= Om welk uur) begint de les?"
             frazo-4: "Massa's voorbijgangers bewogen zich op de trottoirs."
           ekspliko: "Werkwoorden met het achtervoegsel -IĜ zijn allemaal onovergankelijk, hoeven geen bepaling te krijgen en kunnen betekenen:"
-          unu: 
+          unu:
             ekspliko: "1. Overgang naar een andere toestand. De stam geeft het resultaat , de nieuwe toestand aan. In de werkwoorden met IĜ is de veroorzaker van die toestand niet van belang:"
             frazo-1: "In de winter worden de wateren ijs."
             frazo-2: "Vandaag werd het weer opnieuw warm."
             frazo-3: "Zij trouwde (= werd echtgenote) met haar (eigen) neef."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Sommige van die werkwoorden kunnen een bepaling met een voorzetsel krijgen:"
           ekspliko-2: "Andere kunnen in bepaalde gevallen toch een lijdend voorwerp krijgen:"
           frazo-1: "Zijn vader stierf aan (= wegens) kanker.\n"
           frazo-2: "Ik verheug me erg over uw geluk!"
           frazo-3: "Zij slaapt een diepe slaap."
           frazo-4: "Zij danste een wals met hem."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Onthoud altijd dat na woord \"esti\" geen naamvals-n komt en dat je geen naamval gebruikt na een voorzetsel."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Dan zijn er ook nog de werkwoorden zonder onderwerp:"
           frazo-1: "Gisteren regende het veel.  (\"Het\"  betekent niets, is geen echt onderwerp)"
           frazo-2: "Het wordt dag en ik moet naar huis gaan (opstappen)."
           frazo-3: "Het sneeuwde hevig en hij kon de hut niet uit(gaan)."
         titolo: "Overgankelijke en onovergankelijke werkwoorden"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "De buitengewone expressiemogelijkheden van Esperanto zijn je zeker al opgevallen. Alleen al door voorvoegsels, achtervoegsels en uitgangen te gebruiken kun je veel woorden maken, enkele zelfs die niet zijn te vertalen door woorden in je eigen taal. Maar hier houdt de taalrijkdom niet op. Door woordstammen samen te voegen kun je de woordenschat uitbreiden, synoniemen maken en de woorden benadrukken of nuanceren. Hier enkele voorbeelden van de scheppingskracht van de internationale taal."
         ekspliko-2: "Met uitgangen, voor- en achtervoegsels:"
         ekspliko-3: "Door stammen samen te voegen. De uitgang van de eerste woordstam kan worden weggelaten of niet, afhankelijk van de duidelijkheid en de klank van het samengestelde woord."
         ekspliko-4: "Door woorden te maken uit een groep woorden:"
         rimarkigo: "Hoewel het mogelijk is woorden te vormen met meer dan drie voor- en/of achtervoegsels, kun je dat voor de duidelijkheid en de fraaiheid beter vermijden. Daarom bijvoorbeeld liever \"eta belulino\" dan \"belulineto\". De volgorde van de bijvoegsels heeft invloed op de betekenis:"
         titolo: "Woordvorming in Esperanto"
-        vortoj: 
+        vortoj:
           antaŭbrako: "voorarm, benedenarm"
           balenŝipo: walvisvaarder
           helruĝo: "helrood (zelfst. nw.)"

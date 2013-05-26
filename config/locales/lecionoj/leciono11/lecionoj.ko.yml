@@ -1,11 +1,11 @@
---- 
-ko: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+ko:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: |-
             제2과에서 배운 형식에 더하여, 에스페란토에는 의문문을 만드는 다른 형태도 있습니다:방식들이 있다.
-            
+
             제2과에서 배운 형식에 덧붙여, 에스페란토에는의문문을 만드는 다른 방식들이 있다.
         frazo-1: "ĉu그 상자는 파란색인가요?"
         frazo-2: "ĉu당신은 영화관에 갑니까?"
@@ -14,7 +14,7 @@ ko:
         frazo-5: "그 상자는 파란 색이지 않다, 그죠ĉu?"
         frazo-6: "당신은 영화관에 가지 않겠다, 그 말이죠ĉu?"
         titolo: "다른형태의 의문문"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "에스페란토에는 한 문장에서 함게 쓰이는 낱말들이 있어요. 그 뜻을 알면 흥미로울 것입니다:"
         jen: "번갈아 감을 나타냄"
         jen-frazo-1: "그 소년은 울기도 하였고, 웃기도 하였다.(jen...jen...)"
@@ -32,11 +32,11 @@ ko:
         ĉu: "그 선택이 무차별적이고,평등하고, 자유롭고,불확실함일 수 있는 것을 나타냄가리킴."
         ĉu-frazo-1: "ĉu 무서움 때문인지,ĉu 자신만만함 때문인지, 그는 아무 말도 답하지 않았다."
         ĉu-frazo-2: "ĉu비가 오든지,ĉu 해가 떠든지, 나는 정말 갈 것이다."
-      horoj: 
+      horoj:
         je-kioma: "몇 시에 당신은 전화할 것입니까?"
         kioma-estas: "몇 시입니까?"
         titolo: 시간(들)
-      interjekcioj: 
+      interjekcioj:
         bis: "다시! 간청함!"
         fi: 빌어먹을!
         ha-1: 아!
@@ -48,7 +48,7 @@ ko:
         titolo: 감탄사
         ve: "안돼!, 이럴 수가!"
         ve-al-mi: "내게 이런 일이, 이럴 수가, 안타깝게도!"
-      mallongiloj: 
+      mallongiloj:
         bv: "기꺼이, 어서"
         e-isto: 에스페란티스토
         e-o: 에스페란토
@@ -60,7 +60,7 @@ ko:
         str: "거리, 가"
         te: "그 말은, 즉"
         titolo: 줄임
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "든지(무차별이나 무정의의 상태를 나타냄)"
         almenaŭ: "almenaŭ적어도, 거의"
         ambaŭ: ambaŭ둘다

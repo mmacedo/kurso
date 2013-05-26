@@ -1,24 +1,24 @@
---- 
-fi: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+fi:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Päivämääristä puhuessa, katso mallia. Sanat \"päivä\" ja \"vuonna\" ovat jo asiayhteydestä ymmärrettävissä, eikä niitä yleensä tarvitse mainita."
         titolo: Päivämäärät
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Leipä on kuiva."
           titolo: "Väite:"
-        demando: 
+        demando:
           frazo-1: "Onko leipä kuiva?"
           titolo: "Kysymys:"
         ekspliko: "Väitteestä muodostetaan kysymys, asettamalla kysymyspartikkeli \"Ĉu\" lauseen alkuun. Tämä ei muuta lauseen sanajärjestystä, vain \"ĉu\" partikkeli tulee lauseen eteen. Tämä pätee kaikkiin kysymyksiin, joiden vastaus on \"kyllä\" tai \"ei\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Ei, leipä ei ole kuiva."
           frazo-pozitiva: "Kyllä, leipä on kuiva."
           titolo: "Vastaus:"
         titolo: Kysymyslauseet
-      monatoj: 
+      monatoj:
         aprilo: huhtikuu
         aŭgusto: elokuu
         decembro: joulukuu
@@ -32,7 +32,7 @@ fi:
         oktobro: lokakuu
         septembro: syyskuu
         titolo: Kuukaudet
-      salutoj: 
+      salutoj:
         saluto-1: Hei!
         saluto-10: "Hyvää ruokahalua!"
         saluto-11: "Kiitos, samoin sinulle (teille)!"
@@ -48,12 +48,12 @@ fi:
         saluto-8: "Melko hyvin."
         saluto-9: "En kovin hyvin."
         titolo: Tervehdyksiä
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: eilen
           hodiaŭ: tänään
           morgaŭ: huomenna
-        semajno: 
+        semajno:
           dimanĉo: sunnuntai
           lundo: maanantai
           mardo: tiistai
@@ -62,9 +62,9 @@ fi:
           vendredo: perjantai
           ĵaŭdo: torstai
         titolo: Viikonpäivät
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Lue allaoleva teksti, jonka eräs Esperanton opiskelija on kirjoittanut, ja yritä ymmärtää se. Käytä apuna sanakirjaa."
-        vortaro: 
+        vortaro:
           alia: "toinen, muu"
           antaŭ: "edessä, ennen (prep.)"
           facila: helppo
@@ -72,7 +72,7 @@ fi:
           komenci: aloittaa
           lerni: "oppia, opetella"
           tre: "hyvin, sangen"
-      vortaro04: 
+      vortaro04:
         infano: lapsi
         kaj: ja
         kolekti: kerätä

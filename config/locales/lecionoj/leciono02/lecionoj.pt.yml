@@ -1,8 +1,8 @@
---- 
-pt: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+pt:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Há uma outra terminação, muito prática, que nos possibilita reconhecer o objeto direto numa oração. É o acusativo, que se coloca no final dos substantivos, adjetivos e pronomes para formar o objeto direto. Assim reconhecemos o objeto direto pela terminação \"n\"."
         ekspliko-2: "Note que o plural é colocado antes do acusativo, e este aparece sempre no final da palavra. O objeto direto pode aparecer no começo, no meio ou no final da oração, e isso de forma alguma modifica o sentido, porque ele está indicado pelo acusativo. As três frases seguintes têm o mesmo significado:"
         frazo-plurala: "Eu lavo as xícaras novas."
@@ -10,41 +10,41 @@ pt:
         rimarkigo-1: "De fato as diferentes ordens das palavras podem ser usadas para de alguma forma dar uma nuança para a frase. Isso será tratado mais adiante no curso."
         rimarkigo-2: "Após o verbo \"esti\" o acusativo não é usado, porque o verbo \"esti\", por si mesmo, implica que o sujeito e o predicativo são equivalentes."
         titolo: "Acusativo (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: "Vamos ouvir agora uma canção em Esperanto, \"Jen\", do grupo argentino La Porkoj, premiado no concurso internacional de arte da Associação Mundial de Esperanto. O grupo é formado por Alejandro Cossavella (voz), Pablo Ciancio (bateria), Ignacio Mendizabal (guitarras) e Salvador Agustoni (baixo). \"Jen\" é uma palavrinha usada para apresentar/mostrar algo ou alguém (correspondente à expressão portuguesa \"eis\"). Pressione o botão verde para iniciar a canção."
         titolo: "Música em Esperanto"
-      neado: 
+      neado:
         ekspliko: "Para tornar uma frase negativa, basta colocar a palavrinha \"ne\" antes do verbo."
-        frazoj: 
+        frazoj:
           frazo-1: "Eu não lavarei a xícara nova."
           frazo-2: "Ele não é meu irmão."
           frazo-3: "Ela não é minha mãe."
           frazo-4: "Os bolos não estavam quentes."
         titolo: Negação
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "O prefixo \"mal\" nos permite criar palavras cujo significado é o contrário da palavra à qual está ligado."
-        kun: 
+        kun:
           malamiko: inimigo
           malavara: generoso(a)
           malbela: feio(a)
           maljuna: "velho(a), idoso(a)"
           malnova: "velho(a), antigo(a)"
-        sin: 
+        sin:
           amiko: amigo
           avara: avarento(a)
           bela: bonito(a)
           juna: jovem
           nova: novo(a)
         titolo: "Prefixo \"mal-\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "Na primeira lição, nós vimos que em esperanto os adjetivos concordam no singular e no plural como o substantivo; quando trata-se de apenas um, eles permanecem no singular; mais de um, vão para o plural. Por outro lado, eles nunca se modificam conforme o gênero (masculino ou feminino)."
         ekspliko-2: "Só os nomes destinados aos seres sexuados podem identificar o sexo, terminando em \"o\" os masculinos e em \"ino\" os femininos."
-        frazoj: 
+        frazoj:
           frazo-amikino: "A bela amiga"
           frazo-patrino: "A boa mãe"
           frazo-virino: "As grandes mulheres"
         titolo: "Sufixo -ino"
-        vortoj: 
+        vortoj:
           amikino: amiga
           amiko: amigo
           filino: filha
@@ -53,7 +53,7 @@ pt:
           patro: pai
           virino: mulher
           viro: homem
-      vortaro02: 
+      vortaro02:
         akvo: água
         ami: amar
         amo: amor

@@ -1,57 +1,57 @@
---- 
-sk: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+sk:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "prvok z celku"
           monero: "minca, \"peniaz\""
           mono: peniaze
           salero: "zrnko soli"
           salo: soľ
-        estr: 
+        estr:
           ekspliko: "vedúci, šéf"
           urbestro: primátor
           urbo: mesto
           ŝipestro: "lodný kapitán"
           ŝipo: loď
-        et: 
+        et:
           ekspliko: malý
           pupeto: "bábika (zlý príklad :-)"
           pupo: bábika
           rideti: "usmievať sa"
           ridi: "smiať sa"
-        id: 
+        id:
           ekspliko: "mláďa, dieťa, potomok"
           katido: mača
           kato: mačka
           reĝido: princ
           reĝo: kráľ
-        ig: 
+        ig:
           ekspliko: "donútiť urobiť, dať urobiť"
           morti: zomrieť
           mortigi: "usmrtiť, zabiť"
           pura: čistý
           purigi: očistiť
-        il: 
+        il:
           ekspliko: "pomôcka, nástroj"
           muzikilo: "hudobný nástroj"
           muziko: hudba
           ŝlosi: zamknúť
           ŝlosilo: kľúč
-        in: 
+        in:
           ekspliko: "naznačuje ženské pohlavie"
           kokino: sliepka
           koko: kohút
           onklino: teta
           onklo: strýko
-        ind: 
+        ind:
           admiri: obdivovať
           admirinda: obdivuhodný
           ekspliko: "hoden niečoho"
           laŭdi: chváliť
           laŭdinda: chválihodný
-        ist: 
+        ist:
           ekspliko: "profesia, povolanie, stúpenec niečoho"
           esperantisto: esperantista
           esperanto: esperanto
@@ -61,7 +61,7 @@ sk:
           raportisto: reportér
           tajpi: písať
           tajpisto: pisár
-        iĝ: 
+        iĝ:
           ekspliko: "stať sa nejakým, \"urobiť sa\" nejakým"
           fari: robiť
           fariĝi: "stať sa"
@@ -69,39 +69,39 @@ sk:
           mateno: ráno
           ruĝa: červený
           ruĝiĝi: "očerveňať (stať sa červeným)"
-        nj: 
+        nj:
           Maria: Mária
           ekspliko: "mazlivá, zjemňujúca prípona pre ženy"
           manjo: "? :-)"
           panjo: mamička
           patrino: matka
-        obl: 
+        obl:
           du: dva
           duobla: dvojnásobný
           ekspliko: násobok
           tri: tri
           trioblo: trojnásobok
         ? "on"
-        : 
+        :
           dek: desať
           dekono: desatina
           ekspliko: zlomok
           kvar: štyri
           kvarono: štvrtina
-        op: 
+        op:
           du: dva
           duopo: dvojica
           ekspliko: "podľa skupín (po)"
           ses: šesť
           sesopo: šestica
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Pokiaľ by došlo k nejasnosti pri používaní tejto prípony, použite synonymá. Napr:"
           germanio: Nemecko
           pomarbo: jabloň
           pomkesto: "debna na jablká"
           ruslando: Rusko
         titolo: Prípony
-        uj: 
+        uj:
           ekspliko: "nádoba, strom, krajina (objekt obsahujúci iné objekty)"
           franco: Francúz
           francujo: Francúzsko
@@ -109,7 +109,7 @@ sk:
           monujo: peňaženka
           pomo: jablko
           pomujo: jabloň
-        ul: 
+        ul:
           ekspliko: "bytosť s určitou vlastnosťou"
           kontraŭ: proti
           kontraŭulo: protivník
@@ -119,13 +119,13 @@ sk:
           sanktulo: svätec
           stulta: hlúpy
           stultulo: hlupák
-        um: 
+        um:
           ekspliko: "prípona bez presného významu"
           kolo: krk
           kolumo: límec
           plena: plný
           plenumi: vyplniť
-      vortordo: 
+      vortordo:
         dialogo: |-
             - Videl som ťa, ach poklad môj, do teba som sa hneď zamiloval.
             - Verím ti, no zlato v peňaženke pripravené maj.

@@ -1,24 +1,24 @@
---- 
-id: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+id:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Untuk mengucapkan tanggal, ikuti model ini.  Kata \"tago\" (hari) dan \"en la jaro\" (dalam tahun itu) anda tidak harus mengucapkan, karena anda sudah mengertinya."
         titolo: Tanggal
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Roti itu kering."
           titolo: Perkataan
-        demando: 
+        demando:
           frazo-1: "Apakah roti itu kering?"
           titolo: "Pertanyaan:"
         ekspliko: "Semua pertanyaan terdiri dalam kalimat sederhana, pihak atau negatif, hanya mengambahkan dengan kata \"Ĉu\" sebelumnya.  Perhatikanlah bahwa urutan dalam kata bahasa Esperanto tidak berubah, hanya kata \"Ĉu\" ditambah pada permulaan kalimat.  Pertanyaan itu betul untuk semua yang dapat dijawab dengan \"ya\" atau \"tidak\" / \"bukan\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Tidak, roti itu tidak kering."
           frazo-pozitiva: "Ya, roti itu kering."
           titolo: "Jawaban:"
         titolo: "Kalimat Pertanyaan"
-      monatoj: 
+      monatoj:
         aprilo: "bulan April"
         aŭgusto: "bulan Agustus"
         decembro: "bulan Desember"
@@ -32,7 +32,7 @@ id:
         oktobro: "bulan Oktober"
         septembro: "bulan September"
         titolo: "Bulan-Bulan dalam Satu Tahun"
-      salutoj: 
+      salutoj:
         saluto-1: "Salam!  Halo!"
         saluto-10: "Nikmatilah makanan anda!"
         saluto-11: "Anda juga, terima kasih!"
@@ -48,12 +48,12 @@ id:
         saluto-8: "Baik baik saja."
         saluto-9: "Tidak baik."
         titolo: Sambutan
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: kemarin
           hodiaŭ: "hari ini"
           morgaŭ: besok
-        semajno: 
+        semajno:
           dimanĉo: "hari Minggu"
           lundo: "hari Senin"
           mardo: "hari Selasa"
@@ -62,9 +62,9 @@ id:
           vendredo: "hari Jum'at"
           ĵaŭdo: "hari Kamis"
         titolo: "Hari-Hari dalam Satu Minggu"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Bacalah teks di bawah, yang tertulis oleh pelajar bahasa Esperanto.  Coba mengertinya, mempergunakan kosa-kata."
-        vortaro: 
+        vortaro:
           alia: "lain, yang lain"
           antaŭ: "sebelum,  lebih dulu"
           facila: mudah
@@ -72,7 +72,7 @@ id:
           komenci: memulai
           lerni: "mempelajari,  belajar"
           tre: "sekali, amat, sangat"
-      vortaro04: 
+      vortaro04:
         infano: anak
         kaj: dan
         kolekti: mengumpulkan

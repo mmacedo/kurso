@@ -1,57 +1,57 @@
---- 
-la: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+la:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Viena daļiņa no kopuma"
           monero: monēta
           mono: nauda
           salero: "sāls graudiņš"
           salo: sāls
-        estr: 
+        estr:
           ekspliko: "Vadītājs, kuram ir pavēļu došanas vara."
           urbestro: "pilsētas galva, mērs"
           urbo: pilsēta
           ŝipestro: "kuģa kapteinis"
           ŝipo: kuģis
-        et: 
+        et:
           ekspliko: "Mazs, atslābjošs"
           pupeto: "maza lelle, lellīte"
           pupo: lelle
           rideti: smaidīt
           ridi: smieties
-        id: 
+        id:
           ekspliko: "Pēcnācējs, bērns, dēls"
           katido: kaķēns
           kato: kaķis
           reĝido: karaļdēls
           reĝo: karalis
-        ig: 
+        ig:
           ekspliko: "Padarīt par kaut ko, par kādu vai likt darīt"
           morti: mirt
           mortigi: nonāvēt
           pura: tīrs
           purigi: iztīrīt
-        il: 
+        il:
           ekspliko: "Instruments vai ierīce, kas kalpo, lai veiktu darbu."
           muzikilo: "mūzikas instruments"
           muziko: mūzika
           ŝlosi: (aiz)slēgt
           ŝlosilo: atslēga
-        in: 
+        in:
           ekspliko: "Norāda uz sieviešu dzimumu"
           kokino: vista
           koko: gailis
           onklino: tante
           onklo: onkulis
-        ind: 
+        ind:
           admiri: apbrīnot
           admirinda: apbrīnojams
           ekspliko: "Kurš ir kaut kā cienīgs"
           laŭdi: "lielīt, slavēt"
           laŭdinda: "slavējams, slavas cienīgs"
-        ist: 
+        ist:
           ekspliko: "Profesija, parastā nodarbošanās"
           esperantisto: esperantists
           esperanto: esperanto
@@ -61,7 +61,7 @@ la:
           raportisto: reportieris
           tajpi: "rakstīt (ar rakstāmmašīnu)"
           tajpisto: "mašīnrakstītāja, drukātāja"
-        iĝ: 
+        iĝ:
           ekspliko: "Kļūt, tapt"
           fari: "darīt, taisīt"
           fariĝi: "kļūt, tapt"
@@ -69,39 +69,39 @@ la:
           mateno: rīts
           ruĝa: sarkans
           ruĝiĝi: sarkt
-        nj: 
+        nj:
           Maria: Marija
           ekspliko: "Mīlināmais piedēklis sievietēm (labskanībai var tikt aizvietota daļa vārda saknes)"
           manjo: Māra
           panjo: "māmiņa, māmuļa"
           patrino: māte
-        obl: 
+        obl:
           du: divi
           duobla: divkāršs
           ekspliko: Daudzkāršojums
           tri: trīs
           trioblo: trīskāršs
         ? "on"
-        : 
+        :
           dek: desmit
           dekono: desmitdaļa
           ekspliko: "Daļskaitļu piedēklis"
           kvar: četri
           kvarono: ceturtdaļa
-        op: 
+        op:
           du: divi
           duopo: pāris
           ekspliko: "Kopums, grupa"
           ses: seši
           sesopo: "sešotne (grupā no sešiem)"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Kad ir konflikts starp šī piedēkļa nozīmēm, tad tiek lietoti sinonīmi:"
           germanio: Vācija
           pomarbo: ābele
           pomkesto: "kaste āboliem"
           ruslando: Krievija
         titolo: Piedēkļi
-        uj: 
+        uj:
           ekspliko: "Priekšmets, uz kura glabājas cits priekšmets; koks, uz kura aug augļi; valsts, kurā ir tauta"
           franco: francūzis
           francujo: Francija
@@ -109,7 +109,7 @@ la:
           monujo: "naudas maks"
           pomo: ābols
           pomujo: ābele
-        ul: 
+        ul:
           ekspliko: "Cilvēku raksturojoša īpašība"
           kontraŭ: "pret, pretim"
           kontraŭulo: pretinieks
@@ -119,17 +119,17 @@ la:
           sanktulo: svētais
           stulta: "dumjš, muļķīgs, stulbs"
           stultulo: muļķis
-        um: 
+        um:
           ekspliko: "Piedēklis bez noteiktas nozīmes, ar dažādu nozīmi"
           kolo: kakls
           kolumo: apkakle
           plena: pilns
           plenumi: izpildīt
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Es ieraudzīju tevi, ak dārgums, un tūlīt pat es iemīlējos tevī!
             — Es ticu tev, un tomēr zelts, lai tūlīt ir man naudas makā.
-            
+
             — Es mīlu jūs, bet, visdārgā, Es neticēju, ka jūs tāda!
             — Ja jūs, skopais, mīlētu mani, Jūs ieceltu mani par karalieni.
         ekspliko-1: "Līdz šim mēs lietojām vārdu kārtību: teikuma priekšmets-darbības vārds-papildinātājs, kura ir visbiežāk lietota esperanto valodā. Tomēr ir iespējami citi varianti, tomēr svarīgi, lai saglabātos skaidrība. Viens no gadījumiem ir, kad vēlas izcelt noteiktu frāzes elementu. Sekojošajās frāzēs vārdu kārtība ir mainīta, lai uzsvērtu vienu no tiem:"

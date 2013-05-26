@@ -1,12 +1,12 @@
---- 
-bg: 
-  lecionoj: 
-    aliaj: 
-      dividitoj: 
+---
+bg:
+  lecionoj:
+    aliaj:
+      dividitoj:
         rimarkigo: Забележка
         tekstokompreno: "Разбиране на текст"
         traduku: "Преведете на есперанто"
         vortaro: Речник
-      lingvo: 
+      lingvo:
         denaska: Български
         esperanta: bulgara

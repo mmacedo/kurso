@@ -1,48 +1,48 @@
---- 
-tr: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+tr:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Sayı zarflarının sonuna \"a\" harfini ilave ederek sıra numaraları yapılabilir. \"j\" ve i halin \"-n\" harfini ekleyerek çoğul yapılabilirler."
-        frazoj: 
+        frazoj:
           frazo-1: "İlk çocuklar geliyorlar."
           frazo-2: "O üçüncü böceği yakaladı."
         titolo: "Sayılardan zarf türetme"
-        vortoj: 
+        vortoj:
           dek: "on"
           dek-naŭ: ondokuz
           dek-naŭa: ondokuzuncu
           deka: onuncu
           tri: üç
           tria: üçüncü
-      adverboj: 
+      adverboj:
         ekspliko-1: "Zarflar aynen sıfatlara benzerler.İsimler tarafından ifade edilen fikirleri nitelemek yerine fiilin fikirlerini nitelerler ve \"j\" harfini alarak çoğul olamazlar.Genelde bunlar, tarzı , sebebi ,zamanı ve yeri gösterirler."
         ekspliko-2: "Esperantoda bütün zarfların sonu \"e\" ile biten bir kelimeden türer ( kelimeden türetildiği durumlarda geçerlidir). Kelime kökünün değişik şekilde kullanılarak basit bir son değişimi ile temel fikir değiştirilebilir."
-        frazoj: 
+        frazoj:
           frazo-sana: "O (erkek) sağlıklıdır."
           frazo-sane: "O (erkek) sağlıklı olarak yaşıyor."
           frazo-sani: "O (erkek) iyileşiyor."
           frazo-sano: "Onun (erkek) iyi bir sağlığı var."
         rimarkigo: "Zarf genelde nitelediği kelimeden önce gelir."
         titolo: Zarflar
-        vortoj: 
+        vortoj:
           sana: Sağlıklı
           sane: "Sağlıklı durumda"
           sani: "Sağlıklı olmak"
           sano: Sağlık
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Sayı sonuna \"e\" harfini ilave ederek sayı zarfları oluşturulabilir."
-        frazoj: 
+        frazoj:
           frazo-1: "O ilk defa su içiyor."
         titolo: "Sayı zarfları"
-        vortoj: 
+        vortoj:
           du: iki
           due: İkinci
           unu: bir
           unue: Birinci
-      numeraloj: 
+      numeraloj:
         titolo: Sayılar
-      vortaro03: 
+      vortaro03:
         atendi: beklemek
         demandi: sormak
         fumi: "sigara içmek"

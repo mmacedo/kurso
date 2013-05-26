@@ -1,15 +1,15 @@
---- 
-sv: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+sv:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Övning i hörförståelse"
         auxdkompreno01-instrukcio: |-
-            I följande övning kommer du att få höra ett antal ord. Klicka på den knapp som motsvarar det 
-            upplästa ordet. Är ditt val rätt kommer knappen att försvinna. Om inte, får du höra ordet en 
-            gång till vid senare tillfälle under övningen. Du bör ha åtminstone ha 70 % rätt innan du går till 
+            I följande övning kommer du att få höra ett antal ord. Klicka på den knapp som motsvarar det
+            upplästa ordet. Är ditt val rätt kommer knappen att försvinna. Om inte, får du höra ordet en
+            gång till vid senare tillfälle under övningen. Du bör ha åtminstone ha 70 % rätt innan du går till
             nästa övning.
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Teet är varmt."
         frazo02: "2. En lärare är en far."
         frazo03: "3. Din far är god (bra)."

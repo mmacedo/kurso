@@ -1,19 +1,19 @@
---- 
-is: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+is:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: fallegur
         ekspliko: "Enda á \"a\":"
         sana: heilbrigður
         titolo: Lýsingarorð
         varma: heitur
-      alfabeto: 
+      alfabeto:
         ekspliko: "Á esperanto eru orð skrifuð eftir framburði og hver stafur hefur alltaf sama hljóð.  Aðaláherslan er alltaf á næst-síðasta atkvæði.  Smelltu á orðin til þess að heyra framburðinn og endurtaktu þau upphátt."
         titolo: "Esperanto: Stafrófið"
-      artikolo: 
+      artikolo:
         ekspliko: "Í esperanto er einn og óumbreytanlegur ákveðinn greinir \"la\",  eins í öllum kynjum, föllum og  tölum."
-        frazoj: 
+        frazoj:
           frazo-1: "Synir ykkar eru vinir okkar."
           frazo-2: "Brauðið er þurrt."
           frazo-3: "Heit mjólk er góð."
@@ -22,7 +22,7 @@ is:
           frazo-6: "Faðirinn er góður."
           titolo: Setningar
         titolo: Greinir
-        vortoj: 
+        vortoj:
           floroj: "blóm (tvö eða mörg)"
           knabo: drengur
           la-floroj: blómin
@@ -31,33 +31,33 @@ is:
           la-patroj: feðurnir
           pano: brauð
           patroj: feður
-      nomoj: 
+      nomoj:
         amiko: vinur
         ekspliko: "Enda á \"o\":"
         frato: bróðir
         kafo: kaffi
         titolo: Nafnorð
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "þeir, þær, þau (fleirtala fyrir \"ŝi\", \"li\" og \"ĝi\")"
           ni: við
           titolo: Fleirtala
           vi: þið
-        singularo: 
+        singularo:
           li: hann
           mi: ég
           titolo: Eintala
           vi: þú
           ĝi: "það (um eitthvað sem ekki er þörf á að greina eftir kyni)"
           ŝi: hún
-        specialaj: 
+        specialaj:
           oni: "Oni (óákveðið fornafn, sem merkir \"menn\"; eða marga eða nokkra einstaklinga; einhverja óþekkta.  Notað þegar menn vilja ekki eða geta ekki bent á einhvern sérstakan."
           si: "si - afturbeygt fornafn þriðju persónu - li, ŝi, ĝi, oni - notað þegar vísað er til geranda (frumlags)). Á íslensku \"sig\"."
           titolo: "Önnur fornöfn"
         titolo: Persónufornöfn
-      pluralo: 
+      pluralo:
         ekspliko: "Fleirtala myndast með því að bæta \"j\" við endingu nafnorða og lýsingarorða:"
-        pluralo: 
+        pluralo:
           amikoj: vinir
           belaj: fallegir
           belaj-floroj: "falleg blóm"
@@ -66,7 +66,7 @@ is:
           patroj: feður
           sanaj: heilbrigðir
           sanaj-patroj: "heilbrigðir feður"
-        singularo: 
+        singularo:
           amiko: vinur
           bela: fallegur
           bela-floro: "fallegt blóm"
@@ -76,9 +76,9 @@ is:
           sana: heilbrigður
           sana-patro: "heilbrigður faðir"
         titolo: Fleirtala
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Eignarfornöfn eru mynduð með því að bæta lýsingarorðsendingunni \"a\" við persónufornöfn:"
-        posedaj: 
+        posedaj:
           ilia: þeirra
           lia: hans
           mia: "minn, mín, mitt"
@@ -86,27 +86,27 @@ is:
           via: "þinn, þín, þitt"
           ĝia: þess
           ŝia: hennar
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Eignarfornöfnin bæta við sig \"j\" í fleirtölu:"
           mia-amiko: "Vinur minn"
           miaj-amikoj: "Vinir mínir"
           nia-floro: "Blómið okkar"
           niaj-floroj: "Blómin okkar"
         titolo: Eignarfornöfn
-      verboj: 
+      verboj:
         ekspliko: "Nafnháttur endar á -i: esti = að vera;  þátíð endar á -is: estis = var; nútíð endar á -as: estas = er; og framtíð endar á -os: estos = verður (\"mun verða\").  Aðrar beygingar sagna verða teknar fyrir síðar."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "þeir (þær, þau) eru"
           ni-estas: "við erum"
           oni-estos: "\"menn\" verða (í framtíðinni)"
           vi-estis: "þú varst"
-        singularo: 
+        singularo:
           li-estis: "hann var"
           mi-estas: "ég er"
           ĝi-estos: "það verður"
           ŝi-estas: "hún er"
         titolo: Sagnir
-      vortaro01: 
+      vortaro01:
         amiko: vinur
         bela: fallegur
         biskvito: kex

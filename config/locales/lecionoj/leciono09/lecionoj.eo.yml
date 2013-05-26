@@ -1,57 +1,57 @@
---- 
-eo: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+eo:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Unu el la konsistigaj elementoj de tutaĵo"
           monero: monero
           mono: mono
           salero: salero
           salo: salo
-        estr: 
+        estr:
           ekspliko: "Iu, kiu estas ĉe supera kaj unua rango, kaj posedas efektivan ordonpovon."
           urbestro: urbestro
           urbo: urbo
           ŝipestro: ŝipestro
           ŝipo: ŝipo
-        et: 
+        et:
           ekspliko: "Malgranda, malintensa"
           pupeto: pupeto
           pupo: pupo
           rideti: rideti
           ridi: ridi
-        id: 
+        id:
           ekspliko: "Naskito, infano, filo, ido"
           katido: katido
           kato: kato
           reĝido: reĝido
           reĝo: reĝo
-        ig: 
+        ig:
           ekspliko: "Farigi, devigi fari"
           morti: morti
           mortigi: mortigi
           pura: pura
           purigi: purigi
-        il: 
+        il:
           ekspliko: "Instrumento aŭ aparato kiu servas por efektivigi la agon."
           muzikilo: muzikilo
           muziko: muziko
           ŝlosi: ŝlosi
           ŝlosilo: ŝlosilo
-        in: 
+        in:
           ekspliko: "Montras la inan sekson"
           kokino: kokino
           koko: koko
           onklino: onklino
           onklo: onklo
-        ind: 
+        ind:
           admiri: admiri
           admirinda: admirinda
           ekspliko: "Kiu estas inda je, kiu meritas"
           laŭdi: laŭdi
           laŭdinda: laŭdinda
-        ist: 
+        ist:
           ekspliko: "Profesio, kutima okupiĝo"
           esperantisto: esperantisto
           esperanto: Esperanto
@@ -61,7 +61,7 @@ eo:
           raportisto: raportisto
           tajpi: tajpi
           tajpisto: tajpisto
-        iĝ: 
+        iĝ:
           ekspliko: "Fariĝi (sen ekstera aganto)"
           fari: fari
           fariĝi: fariĝi
@@ -69,39 +69,39 @@ eo:
           mateno: mateno
           ruĝa: ruĝa
           ruĝiĝi: ruĝiĝi
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "Karesa sufikso por virinoj (per parto de la radiko kaj konservante la belsonecon)"
           manjo: Manjo
           panjo: panjo
           patrino: patrino
-        obl: 
+        obl:
           du: du
           duobla: duobla
           ekspliko: Oblo
           tri: tri
           trioblo: trioblo
         ? "on"
-        : 
+        :
           dek: dek
           dekono: dekono
           ekspliko: "Frakcio de la radiko"
           kvar: kvar
           kvarono: kvarono
-        op: 
+        op:
           du: du
           duopo: duopo
           ekspliko: "Laŭ grupoj de"
           ses: ses
           sesopo: sesopo
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Kiam okazos konfuzo inter la sencoj de tiu ĉi sufikso, oni uzu anstataŭe sinonimojn, ekzemple:"
           germanio: Germanio
           pomarbo: pomarbo
           pomkesto: pomkesto
           ruslando: Ruslando
         titolo: Sufiksoj
-        uj: 
+        uj:
           ekspliko: "Objekto entenanta aliajn objektojn; la arbo laŭ la frukto; la lando laŭ la popolo"
           franco: franco
           francujo: Francujo
@@ -109,7 +109,7 @@ eo:
           monujo: monujo
           pomo: pomo
           pomujo: pomujo
-        ul: 
+        ul:
           ekspliko: "La estulo karakterizita de la radiko"
           kontraŭ: kontraŭ
           kontraŭulo: kontraŭulo
@@ -119,13 +119,13 @@ eo:
           sanktulo: sanktulo
           stulta: stulta
           stultulo: stultulo
-        um: 
+        um:
           ekspliko: "Sufikso sen difinita senco, kun varia senco"
           kolo: kolo
           kolumo: kolumo
           plena: plena
           plenumi: plenumi
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Mi vidis vin, ho trezoro, kaj mi tuj ekamis vin!
             — Mi kredas vin, tamen oro estu preta en monuj'

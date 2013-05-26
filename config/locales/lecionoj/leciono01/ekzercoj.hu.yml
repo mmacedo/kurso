@@ -1,11 +1,11 @@
---- 
-hu: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+hu:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Hallás utáni értés: 1. gyakorlat"
         auxdkompreno01-instrukcio: "Szavakat fogsz hallani. Rá kell kattintanod a megfelelõ feliratozott gombra. Ha a válaszod helyes, a gomb eltûnik a panelról, ellenkezõ esetben késõbb ismét elhangzik a gombra írt szó. Legalább 70%-ot kell teljesítened."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. A tea meleg."
         frazo02: "2. A tanár egy apa."
         frazo03: "3. A te apád jó."

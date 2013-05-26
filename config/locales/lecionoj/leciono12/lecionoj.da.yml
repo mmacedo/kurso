@@ -1,11 +1,11 @@
---- 
-da: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+da:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Hør nu sangen, \"Bluaj Fragoj\" på esperanto. Den synges af den brasilianske popgruppe Merlin som allerede har udgivet to album på det internationale sprog, og som har forestillinger over hele verden. Gruppen består af: Markone Froes (stemme og guitar), Guilherme Lima (trommer), Aldrin Gandra (elektrisk guitar), Sérgio Ribeiro (basguitar) og Sérgio Vieira (klaver)."
         titolo: Esperantomusik
-        vortaro: 
+        vortaro:
           aliri: "at gå hen til"
           alveni-al: "ankomme til"
           animo: "en sjæl"
@@ -19,46 +19,46 @@ da:
           vero: "en sandhed"
           ĉielarko: "en regnbue"
           ĉielo: "en himmel"
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "I anden lektion så vi at akkusativ anvendes  for at vise genstandsled (det direkte objekt). Der findes  imidlertid udsagnsord som ikke har genstandsled. Fx:"
         frazo-1: "Der skete noget vigtigt."
         frazo-2: "Jeg er meget glad  i dag."
         frazo-3: "De sover allerede i  deres senge."
         frazo-4: "De unge dansede meget."
-        ig: 
+        ig:
           ekspliko: "Udsagnsord med efterstavelsen IG er altid transitive (kan have genstandsled):"
           frazo-1: "Rejsen trættede dig sikkert."
           frazo-2: "Den sydlige sol brænder hans nøgne hoved."
           frazo-3: "Faderen vil straks bortgifte den ældre datter."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. En handling som sker af sig selv ved intransitive udsagnsord som dannes af transitive udsagnsord  ved tilføjelse af endelsen  IĜ."
             frazo-1: "Hoben løb langsommere end køretøjet som rullede meget hurtigt."
             frazo-2: "Han befandt sig pludselig på gaden, helt alene."
             frazo-3: "På hvilket klokkeslæt begyndes lektionen?"
             frazo-4: "Masser af forbipasserende bevægede sig på fortovene."
           ekspliko: "Udsagnsord med efterstavelsen IĜ er alle intransitive, dvs. kan ikke have genstandsled. De kan beskrive :"
-          unu: 
+          unu:
             ekspliko: "1. Overgang til ny tilstand. Roden viser resultatet, den nye tilstand :"
             frazo-1: "Om vinteren tilfryser vandene. (bliver til is)"
             frazo-2: "I dag blev vejret igen varmt."
             frazo-3: "Hun blev gift med sin fætter."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Nogle af disse verber kan have komplement via forholdsord:"
           ekspliko-2: "Andre kan, i visse tilfælde, have genstandsled:"
           frazo-1: "Hans far døde af kræft."
           frazo-2: "Jeg  glæder mig over dit held!"
           frazo-3: "Hun sover en dyb søvn."
           frazo-4: "Hun dansede vals med ham."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Husk at man ikke efter udsagnsordet  ordet \"esti\" ikke bruger akkusativ, og at man efter forholdsord ikke benytter akkusativ."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Udsagnsord uden grundled  (på dansk er der et fyldeord som kaldes foreløbigt grundled):"
           frazo-1: "I går regnede det meget.    (ubetonet det oversættes ikke)"
           frazo-2: "Det dages, og jeg må starte hjemad."
           frazo-3: "Det sneede meget kraftigt, og han kunne ikke gå ud af hytten."
         titolo: "Transitive og intransitive udsagnsord"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Du har sikkert allerede bemærket de rige udtryksmuligheder der er på esperanto. Man kan faktisk, ved benyttelse af forstavelser, efterstavelser og endelser, danne mange ord hvoraf nogle endog ikke findes tilsvarende på dansk. Men mulighederne sluttes ikke der. Via sammensætninger af ordstammer kan man øge ordforrådet, finde synonymer, understrege eller nuancere ordene. Her er nogle eksempler på muligheder for at danne ord på det internationale sprog:"
         ekspliko-2: "Via endelser, forstavelser og efterstavelser:"
         ekspliko-3: "Sammensætning af ordstammer. Endelsen af den første ordstamme kan man bevare eller ej, idet man tager hensyn til klarhed og vellyd for det samensatte ord:"
@@ -67,7 +67,7 @@ da:
             Selv om det er muligt at danne ord med mere end to forstavelser og/eller efterstavelser, så anbefaler man af hensyn til klarhed og elegance at undgå sådanne konstruktioner.  Eksempelvis er "eta belulino" at foretrække fremfor "belunlineto".
             Rækkefølgen  af affikserne (tillægsstavelserne) har direkte indflydelse på meningen:
         titolo: "Orddannelse på esperanto"
-        vortoj: 
+        vortoj:
           antaŭbrako: "en underarm"
           balenŝipo: "et hvalskib"
           helruĝo: lyserød

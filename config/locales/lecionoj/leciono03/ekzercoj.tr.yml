@@ -1,11 +1,11 @@
---- 
-tr: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+tr:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Sayı alıştırmaları"
         numeraloj-ekzercoj-instrukcioj: "Boşluk bırakılan yerlere verilen dökümandaki sayıların karşılığını yazınız. Cevabı onaylamak için Enter tuşunu kullanın veya yandaki butonu tıklayın.En az %70 başarı sağlayın."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. O (erkek) onu (kadını) seviyor."
         frazo02: "2. O kızkardeşini seviyor."
         frazo03: "3. O (kadın) onu (erkeği) seviyor."

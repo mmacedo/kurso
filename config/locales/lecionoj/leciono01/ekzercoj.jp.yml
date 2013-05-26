@@ -1,11 +1,11 @@
---- 
-jp: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+jp:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "聞き取り練習 (1)"
         auxdkompreno01-instrukcio: "単語の発音を聞いて、正しい単語のボタンをクリックして下さい。 正解なら、そのボタンは枠内から消えます。 まちがいなら、その単語はあとでもういちど出てきます。 ７０％以上正解してください。"
-      pagxo12: 
+      pagxo12:
         frazo01: "1. お茶は熱いです。"
         frazo02: "2. その先生はお父さんです。"
         frazo03: "3. あなたのお父さんは良い人です。"

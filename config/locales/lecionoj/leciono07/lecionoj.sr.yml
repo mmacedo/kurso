@@ -1,11 +1,11 @@
---- 
-sr: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+sr:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Предлози су речце које показују однос између две речи."
         titolo: "Предлози I"
-        vortoj: 
+        vortoj:
           al: "ка, према"
           da: од
           de: од
@@ -18,9 +18,9 @@ sr:
           sur: на
           ĉe: код
           ĝis: до
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Предлози II"
-        vortoj: 
+        vortoj:
           anstataŭ: уместо
           antaŭ: испред
           apud: поред
@@ -39,7 +39,7 @@ sr:
           tra: кроз
           trans: преко
           ĉirkaŭ: "око, около"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Видели смо у другој лекцији, да \"-n\" показује додатак директног објекта. То је акузатив. Нпр.:"
         ekspliko-2: "Када реченица има два додатка, један од њих мора бити индиректни додатак. Нпр.:"
         ekspliko-3: "Горње коришћење предлога је неопходно, а индиректни објекат не добија наставак за акузатив. Ево других примера:"
@@ -53,13 +53,13 @@ sr:
         frazo-2: "Захваљујем вам на вашој љубазности."
         frazo-3: "Ја читам Петрову књигу."
         frazo-4: |-
-            Ја 
+            Ја
             Ја ћу путовати у Америку.
         frazo-5: "Он је пио шољу кафе."
         frazo-6: "Иди испред мене! (Бежи ми с очију!)"
         titolo: "Предлози III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "доћи, стићи"
           aŭtobuseto: "мали аутобус, мини-бус"
           danki: захвалити
@@ -74,8 +74,8 @@ sr:
           sidi: седети
           tagmanĝo: ручак
           viziti: посетити
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Арктик
           Kanado: Канада
           admiri: "дивити се"

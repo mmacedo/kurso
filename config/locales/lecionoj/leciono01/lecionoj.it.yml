@@ -1,19 +1,19 @@
---- 
-it: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+it:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: "Bello / a"
         ekspliko: "Terminano in -a:"
         sana: "Sano / a"
         titolo: Aggettivi
         varma: "Caldo / a"
-      alfabeto: 
+      alfabeto:
         ekspliko: "In esperanto le parole si scrivono esattamente come si pronunciano; e si leggono pronunciando in sequenza il suono di ciascuna lettera. L'accento tonico cade sulla penultima vocale (cioè: a, e, i, o, u; j e ŭ sono semivocali, perciò non influenzano l'accento tonico). Clicca i pulsanti per ascoltare la pronunzia delle parole corrispondenti e ripetile ad alta voce."
         titolo: "L'alfabeto dell'esperanto."
-      artikolo: 
+      artikolo:
         ekspliko: "L'articolo indeterminativo (un, uno; una) in esperanto non esiste, e si considera sottinteso ove manchi l'articolo determinativo \"la\". Quest'ultimo non varia al variare di genere, caso e numero."
-        frazoj: 
+        frazoj:
           frazo-1: "I vostri figli sono nostri amici."
           frazo-2: "Il pane è secco."
           frazo-3: "Il [/ Del] latte caldo è buono."
@@ -22,7 +22,7 @@ it:
           frazo-6: "Il padre è buono."
           titolo: Proposizioni
         titolo: Articolo
-        vortoj: 
+        vortoj:
           floroj: "[Dei] fiori (-> nota B2e)"
           knabo: "[Un] ragazzo (-> nota B2e)"
           la-floroj: "I fiori"
@@ -31,33 +31,33 @@ it:
           la-patroj: "I padri"
           pano: "[Del] pane (-> nota B2e)"
           patroj: "[Dei] padri"
-      nomoj: 
+      nomoj:
         amiko: "[Un] amico"
         ekspliko: "Terminano in -o (-> B2d):"
         frato: "[Un] fratello"
         kafo: "[Del] caffè"
         titolo: Sostantivi
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Loro (essi, esse; è il plurale corrispondente a \"li\", \"ŝi\" e \"ĝi\", indifferentemente)"
           ni: Noi
           titolo: Plurale
           vi: Voi
-        singularo: 
+        singularo:
           li: "Egli (lui)"
           mi: Io
           titolo: Singolare
           vi: "Tu (-> Come usare il corso, nota B2a)"
           ĝi: "Esso/a (per indicare qualcosa - o qualcuno - il cui sesso è irrilevante)"
           ŝi: "Lei (ella)"
-        specialaj: 
+        specialaj:
           oni: "= Si (Pronome personale indefinito, col significato di \"la gente; più persone; qualcuno, sconosciuto o imprecisato\".). E' usato quando non si può - o non s'intende - precisare il soggetto."
           si: "= Si (Pronome riflessivo di terza persona (singolare, plurale o indefinita: li, ŝi, ĝi; ili; oni).). Si riferisce al soggetto della proposizione in cui si trova.. Non può mai essere esso stesso soggetto di proposizione."
           titolo: "Forme particolari"
         titolo: "Pronomi personali."
-      pluralo: 
+      pluralo:
         ekspliko: "Il plurale si forma aggiungendo -j (che non sposta l'accento) in coda a sostantivi e aggettivi:"
-        pluralo: 
+        pluralo:
           amikoj: "[degli] amici"
           belaj: "belli / e"
           belaj-floroj: "[dei] bei fiori"
@@ -66,7 +66,7 @@ it:
           patroj: "[dei] padri"
           sanaj: "sani / e"
           sanaj-patroj: "[dei] padri sani"
-        singularo: 
+        singularo:
           amiko: "[un] amico (-> B2d)"
           bela: "bello / a"
           bela-floro: "[un] bel fiore"
@@ -76,9 +76,9 @@ it:
           sana: "sano / a"
           sana-patro: "[un] padre sano"
         titolo: Plurale
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Il possessivo (pronome o aggettivo; quest'ultimo mai preceduto dall'articolo \"la\") si ottiene aggiungendo in coda ai pronomi personali la terminazione -a dell'aggettivo:"
-        posedaj: 
+        posedaj:
           ilia: "[il] loro / [la] loro"
           lia: "[il] suo / [la] sua (di lui)"
           mia: "[il] mio / [la] mia"
@@ -86,27 +86,27 @@ it:
           via: "[il] tuo/vostro / [la] tua/vostra"
           ĝia: "[il] suo / [la] sua (di esso)"
           ŝia: "[il] suo / [la] sua (di lei)"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Anche i possessivi prendono al plurale la terminazione -j:"
           mia-amiko: "Il mio amico"
           miaj-amikoj: "I miei amici"
           nia-floro: "Il nostro fiore"
           niaj-floroj: "I nostri fiori"
         titolo: Possessivi
-      verboj: 
+      verboj:
         ekspliko: "L'infinito termina in -i; ad esempio: esti (essere). Nell'indicativo, il passato termina in -is (estis); il presente in -as (estas); il futuro in -os (estos). Le altre forme verbali sono trattate in lezioni successive."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "[Loro / essi / esse] sono"
           ni-estas: "[Noi] siamo"
           oni-estos: "Si sarà"
           vi-estis: "[Tu / Voi] fosti / foste (eri; sei stato -> B2c)"
-        singularo: 
+        singularo:
           li-estis: "[Egli] fu (era; è stato; -> B2c)"
           mi-estas: "[Io] sono (-> nota B2b)"
           ĝi-estos: "[Esso / a] sarà"
           ŝi-estas: "[Lei] è"
         titolo: Verbi
-      vortaro01: 
+      vortaro01:
         amiko: "[un] amico"
         bela: "bello / a"
         biskvito: "[un] biscotto"

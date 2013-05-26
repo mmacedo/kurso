@@ -1,19 +1,19 @@
---- 
-cs: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+cs:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: Krásný
         ekspliko: "Končí písmenem \"a\":"
         sana: Zdravý
         titolo: "Přídavná jména"
         varma: Teplý
-      alfabeto: 
+      alfabeto:
         ekspliko: "V esperantu jsou slova psána přesně podle výslovnosti a vyslovována přesně podle písmen. Nejsilněji vyslovenou slabikou (přízvučnou) je vždy ta předposlední (po kliknutí na příslušný buton uslyšíte správnou výslovnost, kterou nahlas opakujte)"
         titolo: "Abeceda esperanta"
-      artikolo: 
+      artikolo:
         ekspliko: "Neurčitý člen v esperantu není; je pouze člen určitý \"la\", stejný pro všechny rody, pády a čísla."
-        frazoj: 
+        frazoj:
           frazo-1: "Vaši synové jsou naši přátelé."
           frazo-2: "Ten chléb je suchý."
           frazo-3: "Teplé mléko je dobré (chutné)."
@@ -22,7 +22,7 @@ cs:
           frazo-6: "Otec je dobrý (hodný)."
           titolo: Věty
         titolo: Člen
-        vortoj: 
+        vortoj:
           floroj: Květiny
           knabo: Chlapec
           la-floroj: "(ty) květiny"
@@ -31,33 +31,33 @@ cs:
           la-patroj: "(ti) otcové"
           pano: Chléb
           patroj: Otcové
-      nomoj: 
+      nomoj:
         amiko: Přítel
         ekspliko: "Končí písmenem \"o\":"
         frato: Bratr
         kafo: Káva
         titolo: "Podstatná jména"
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Oni/Ony/Ona (množné číslo společné pro všechny tři rody \"li, ŝi, ĝi\")"
           ni: My
           titolo: "Množné číslo"
           vi: "Vy (množné číslo)"
-        singularo: 
+        singularo:
           li: "On"
           mi: Já
           titolo: "Jednotné číslo"
           vi: "Ty, Vy  (jednotné číslo, vždy se vyká)"
           ĝi: "Ono (týká se věcí a zvířat, jejichž pohlaví nepotřebujeme upřesnit)"
           ŝi: Ona
-        specialaj: 
+        specialaj:
           oni: "(vyslov  \"ony\") - neurčité osobní zájméno, značící \"člověk, lidé\", nemáme-li na mysli konkrétní osobu (člověka by to nenapadlo, jeden  se ani nediví, lidé říkají, říká se, ono se proslýchá)"
           si: "Si (= se, zvratné zájméno třetí osoby - li, ŝi, ĝi, ili, oni) - vztahuje se k podmětu, ne však v první a druhé osobě (pak říkáme doslova: myji mne, myješ tebe, myje se, myjeme nás, myjete vás, myjí se.)"
           titolo: Zvláštní
         titolo: "Osobní zájména"
-      pluralo: 
+      pluralo:
         ekspliko: "Množné číslo tvoříme přidáním písmene \"j\" k podstatným a přídavným jménům:"
-        pluralo: 
+        pluralo:
           amikoj: přátelé
           belaj: krásní
           belaj-floroj: "krásné květiny"
@@ -66,7 +66,7 @@ cs:
           patroj: otcové
           sanaj: zdraví
           sanaj-patroj: "zdraví otcové"
-        singularo: 
+        singularo:
           amiko: přítel
           bela: krásný
           bela-floro: "krásná květina"
@@ -76,9 +76,9 @@ cs:
           sana: zdravý
           sana-patro: "zdravý otec"
         titolo: "Množné číslo"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Přivlastňovací zájména tvoříme přidáním koncovky přídavných jmen (-a) k osobním zájménům:"
-        posedaj: 
+        posedaj:
           ilia: jejich
           lia: jeho
           mia: můj
@@ -86,27 +86,27 @@ cs:
           via: "tvůj, váš"
           ĝia: jeho
           ŝia: její
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Také přivlastňovací zájména přibírají v množném čísle koncovku -j:"
           mia-amiko: "Můj přítel"
           miaj-amikoj: "Moji přátelé"
           nia-floro: "Naše květina"
           niaj-floroj: "Naše květiny"
         titolo: "Přivlastňovací zájména"
-      verboj: 
+      verboj:
         ekspliko: "Infinitiv končí na -i (esti = být), minulý čas na -is (estis), přítomný na -as (estas) a budoucí na -os (estos). Další tvary probereme v příštích lekcích."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Oni jsou"
           ni-estas: Jsme
           oni-estos: "bude se, lidé budou"
           vi-estis: "Byl jsi, byl jste, byli  jste"
-        singularo: 
+        singularo:
           li-estis: "On byl"
           mi-estas: Jsem
           ĝi-estos: "Ono bude"
           ŝi-estas: "Ona je"
         titolo: Slovesa
-      vortaro01: 
+      vortaro01:
         amiko: přítel
         bela: krásný
         biskvito: suchar

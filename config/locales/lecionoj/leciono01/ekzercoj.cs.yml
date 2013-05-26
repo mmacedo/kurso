@@ -1,11 +1,11 @@
---- 
-cs: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+cs:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Nácvik odposlechu I"
         auxdkompreno01-instrukcio: "V následujícím cvičení uslyšíte slovo a musíte kliknout na buton s odpovídajícím slovem. Pokud odpovíte správně, buton zmizí z obrazovky, v opačném případě uslyšíte slovo znovu v jiné části cvičení. Vaším úkolem je dosáhnozt alespoň 70 % úspěšnosti."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Ten čaj je teplý."
         frazo02: "2. Učitel je otcem."
         frazo03: "3. Tvůj / váš otec je dobrý."

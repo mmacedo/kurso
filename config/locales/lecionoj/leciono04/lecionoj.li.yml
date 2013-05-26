@@ -1,24 +1,24 @@
---- 
-li: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+li:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Sakykite datą pagal pavyzdį (žodžiai \"tago\" ir \"jaro\" praleisti, nes jie savaime suprantami)."
         titolo: Datos
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Duona yra sausa."
           titolo: "Teiginys:"
-        demando: 
+        demando:
           frazo-1: "Ar duona yra sausa?"
           titolo: "Klausimas:"
         ekspliko: "Visi klausimai, sudaryti kokiam nors teiginiui, prasideda žodeliu \"Ĉu\".  Atkreipkite dėmesį, kad žodžių tvarka sakinyje nesikeičia, tik prieš sakinį parašomas žodelis \"Ĉu\". Tai galioja visiems klausimams, į kuriuos galima atsakyti \"taip\" arba \"ne\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Ne, duona nėra sausa."
           frazo-pozitiva: "Taip, duona yra sausa."
           titolo: "Atsakymas:"
         titolo: "Klausiamieji sakiniai"
-      monatoj: 
+      monatoj:
         aprilo: balandis
         aŭgusto: rugpjūtis
         decembro: gruodis
@@ -32,7 +32,7 @@ li:
         oktobro: spalis
         septembro: rugsėjis
         titolo: Mėnesiai
-      salutoj: 
+      salutoj:
         saluto-1: "Sveikas! Sveiki!"
         saluto-10: "Gero apetito!"
         saluto-11: "Ačiū, ir tau to paties!"
@@ -48,12 +48,12 @@ li:
         saluto-8: "Gana gerai."
         saluto-9: "Nelabai gerai."
         titolo: Pasisveikinimai
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: vakar
           hodiaŭ: šiandien
           morgaŭ: rytoj
-        semajno: 
+        semajno:
           dimanĉo: sekmadienis
           lundo: pirmadienis
           mardo: antradienis
@@ -62,9 +62,9 @@ li:
           vendredo: penktadienis
           ĵaŭdo: ketvirtadienis
         titolo: "Savaitės dienos"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Perskaitykite pateiktą tekstą, parašytą vieno mokinio, besimokančio esperanto kalbos, ir pabandykite jį suprasti naudodamiesi žodynu."
-        vortaro: 
+        vortaro:
           alia: kitas
           antaŭ: "prieš, priešais"
           facila: lengvas
@@ -72,7 +72,7 @@ li:
           komenci: pradėti
           lerni: mokytis
           tre: labai
-      vortaro04: 
+      vortaro04:
         infano: vaikas
         kaj: ir
         kolekti: rinkti

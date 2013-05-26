@@ -1,11 +1,11 @@
---- 
-it: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+it:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Le preposizioni sono particelle che denotano la relazione che sussiste tra due parole."
         titolo: "Preposizioni 1°"
-        vortoj: 
+        vortoj:
           al: "a, verso"
           da: "di (quantità, misura)"
           de: "da, di (allontanamento, provenienza, specificazione, causa efficiente, agente)"
@@ -18,9 +18,9 @@ it:
           sur: "su (stato in luogo o moto a luogo; denota contatto con l'oggetto sottostante)"
           ĉe: "a, da, presso di (presenza)"
           ĝis: "fino a (limite di spazio, di tempo, di misura)"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Preposizioni 2°"
-        vortoj: 
+        vortoj:
           anstataŭ: "invece di (sostituzione)"
           antaŭ: "davanti a, prima di (luogo / tempo)"
           apud: "vicino a (luogo)"
@@ -39,7 +39,7 @@ it:
           tra: "tra, attraverso, per"
           trans: "al di là di, oltre (scavalcando)"
           ĉirkaŭ: "intorno a, circa (luogo / tempo)"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Nella seconda lezione abbiamo visto che la terminazione -n denota il complemento oggetto, ovvero l'accusativo. Per esempio:"
         ekspliko-2: "Quando in una proposizione ci sono due complementi, uno di essi è necessariamente un complemento indiretto. Per esempio:"
         ekspliko-3: "Tale complemento indiretto è necessariamente retto da una preposizione (e non riceve la finale dell'accusativo). Ecco altri esempi:"
@@ -56,8 +56,8 @@ it:
         frazo-5: "[Lui] ha bevuto una tazza di caffè."
         frazo-6: "Vattene da davanti a me!"
         titolo: "Preposizioni 3°"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "arrivare a"
           aŭtobuseto: "[un] pulmino"
           danki: ringraziare
@@ -72,8 +72,8 @@ it:
           sidi: "sedere (essere seduto)"
           tagmanĝo: "[un / il] pranzo"
           viziti: visitare
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Artico
           Kanado: Canada
           admiri: ammirare

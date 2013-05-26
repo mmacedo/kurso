@@ -1,8 +1,8 @@
---- 
-es: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+es:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Además de la forma aprendida en la lección 2, hay otras formas de hacer las preguntas en Esperanto:"
         frazo-1: "¿La caja es azul?"
         frazo-2: "¿Vas a ir al cine?"
@@ -11,7 +11,7 @@ es:
         frazo-5: "La caja no es azul, ¿o sí?"
         frazo-6: "No vas a ir al cine, ¿o sí?"
         titolo: "Otras formas interrogativas"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Hay expresiones en Esperanto que usan pares de palabras, y cuyo significado es interesante conocer:"
         jen: "Muestra alternativa"
         jen-frazo-1: "El muchacho bien lloraba, bien reía."
@@ -29,11 +29,11 @@ es:
         ĉu: "Indica posibilidades entre las cuales la elección es indiferente, igual, libre o incierta."
         ĉu-frazo-1: "Bien por temor o por orgullo, él nada respondió."
         ĉu-frazo-2: "Acaso llueva o brille el sol, me iré."
-      horoj: 
+      horoj:
         je-kioma: "¿A qué hora vas a llamar?"
         kioma-estas: "¿Qué hora es?"
         titolo: Horas
-      interjekcioj: 
+      interjekcioj:
         bis: "¡otra vez!"
         fi: ¡zas!
         ha-1: ¡ah!
@@ -45,7 +45,7 @@ es:
         titolo: Interjecciones
         ve: ¡ay!
         ve-al-mi: "¡ay de mi!"
-      mallongiloj: 
+      mallongiloj:
         bv: "por favor"
         e-isto: esperantista
         e-o: Esperanto
@@ -57,7 +57,7 @@ es:
         str: calle
         te: "eso es, t.e."
         titolo: Abreviaturas
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "partícula que enfáticamente muestra indefinición o indiferencia"
         almenaŭ: "al menos"
         ambaŭ: ambos

@@ -1,11 +1,11 @@
---- 
-es: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+es:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Las preposiciones son palabras cortas que muestran la relación entre dos palabras."
         titolo: "Preposiciones I"
-        vortoj: 
+        vortoj:
           al: "a, hacia"
           da: "indica cantidad"
           de: de
@@ -18,9 +18,9 @@ es:
           sur: "sobre (haciendo contacto)"
           ĉe: en
           ĝis: hasta
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Preposiciones II"
-        vortoj: 
+        vortoj:
           anstataŭ: "en lugar de"
           antaŭ: "antes, delante"
           apud: "cerca de"
@@ -39,7 +39,7 @@ es:
           tra: "a través"
           trans: "más allá de"
           ĉirkaŭ: alrededor
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Vimos en la segunda lección que le \"-n\" indica el complemente de objeto directo. Eso es el acusativo. Ej:"
         ekspliko-2: "Cuando una frase tiene dos complementos, uno de ellos debe ser un complemento indirecto. Ej:"
         ekspliko-3: "El uso anterior de la preposición es necesario, y el objeto indirecto no recibe la terminación acusativa. Aquí otros ejemplos:"
@@ -56,8 +56,8 @@ es:
         frazo-5: "Él tomó una taza de café."
         frazo-6: "¡Sal de delante de mí!"
         titolo: "Preposiciones III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: llegar
           aŭtobuseto: microbús
           danki: agradecer
@@ -72,8 +72,8 @@ es:
           sidi: "estar sentado"
           tagmanĝo: almuerzo
           viziti: visitar
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Ártico
           Kanado: Canadá
           admiri: admirar

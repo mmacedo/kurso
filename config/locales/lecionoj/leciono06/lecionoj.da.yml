@@ -1,101 +1,101 @@
---- 
-da: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+da:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Vi skal nu gennemgå de øvrige korrelative ord."
         titolo: Korrelativer
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Beskaffendhed (kan få endelserne \"j\" og \"n\")"
-        i: 
+        i:
           frazo: "Har du en eller anden slags tvivl om esperantos grammatik?"
           vorto: "en eller anden slags"
-        ki: 
+        ki:
           frazo: "Hvordan var din dag? — Min dag var meget god, tak!"
           vorto: "hvilken slags / hvordan"
-        neni: 
+        neni:
           frazo: "Nej, jeg har ingen slags tvivl om den."
           vorto: "ingen slags"
-        ti: 
+        ti:
           frazo: "Jeg vil ikke spise (skal ikke til at spise) den slags brød."
           vorto: "den slags / sådan"
-        ĉi: 
+        ĉi:
           frazo: "Al slags hjælp er velkommen."
           vorto: "enhver slags / al slags"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: Årsag
-        i: 
+        i:
           frazo: "Af en eller anden grund kender jeg dig endnu ikke."
           vorto: "af en eller anden grund"
-        ki: 
+        ki:
           frazo: "Hvorfor løber barnet? — Fordi det er meget glad."
           vorto: hvorfor
-        neni: 
+        neni:
           frazo: "Du kunne tirre ham så meget som helst. Han ville af ingen grund være vred."
           vorto: "af ingen grund"
-        ti: 
+        ti:
           frazo: "Hun er meget smuk. Derfor elsker jeg hende."
           vorto: derfor
-        ĉi: 
+        ĉi:
           frazo: "Du spørger, hvorfor jeg elsker ham. Jeg svarer: Af enhver grund!"
           vorto: "af enhver grund"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Måde
-        i: 
+        i:
           ekspliko: Ubestemt
           frazo: "Hun minder mig på en eller anden måde om en anden person."
           vorto: "på en eller anden måde"
-        ki: 
+        ki:
           ekspliko: "Indikerer spørgsmål; viser relation (er henførende) til foregående sætning"
           frazo: "Hvordan har du det? — Jeg har det meget godt, tak!"
           vorto: "hvorledes / som"
-        neni: 
+        neni:
           ekspliko: Nægtende
           frazo: "Jeg kan på ingen måde forstå, hvad du siger."
           vorto: "på ingen måde / ingenlunde"
-        ti: 
+        ti:
           ekspliko: "Anvendes til at påpege, vise."
           frazo: "Hun skriver lige så godt som lærerinden."
           vorto: "således / sådan"
-        ĉi: 
+        ĉi:
           ekspliko: Sammenfattende
           frazo: "De hjalp mig på enhver måde."
           vorto: "på enhver måde"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: Besiddelse
-        i: 
+        i:
           frazo: "Jeg fandt en eller andens bog."
           vorto: "en eller andens"
-        ki: 
+        ki:
           frazo: "Hvis bog er det? — Det er Johannes bog."
           vorto: hvis
-        neni: 
+        neni:
           frazo: "Esperanto er ingens ejendom."
           vorto: ingens
-        ti: 
+        ti:
           frazo: "Katten løb på huset og beskadigede dets tag."
           vorto: "dens / dets"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto er alles sprog."
           vorto: "alles enhver"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: Mængde
-        i: 
+        i:
           frazo: "Jeg må købe noget kaffe."
           vorto: "en eller anden mængde / noget"
-        ki: 
+        ki:
           frazo: "Hvor meget er to og to? — Fire!"
           vorto: "hvor meget / hvor mange / som"
-        neni: 
+        neni:
           frazo: "Hvor mange børn leger i huset? — Ingen."
           vorto: "intet som helst"
-        ti: 
+        ti:
           frazo: "Han spiste så meget som han ville."
           vorto: "så meget / så mange"
-        ĉi: 
+        ĉi:
           frazo: "Hvor meget benzin ønsker du? - Jeg ønsker så meget, som du har."
           vorto: "alt sammen / det hele / alt"
-      relativoj: 
+      relativoj:
         ekspliko-1: "De ord som begynder på \"ki\" kan også indlede en sætning, som ikke er spørgende. Sådanne ord kaldes relativer fordi de viser relation mellem hoved- og bi-sætning."
         ekspliko-2: "I den ovenfor viste sætning henviser \"kiun\" til \"tiun frukton\"."
         frazo-1: "Jeg ønkser den frugt som du viste."

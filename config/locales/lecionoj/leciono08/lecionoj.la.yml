@@ -1,38 +1,38 @@
---- 
-la: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+la:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Vienlīdzība:"
           frazo-1: "Esperanto ir tik pat skaists cik arī noderīgs."
           frazo-2: "Nekas nav tik vērtīgs kā veselība."
           frazo-3: "Viņa ir tik skaista kā māte."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Pamazināmā pakāpe:"
           frazo-1: "Mans brālis ir jaunāks nekā es."
           frazo-2: "Viņš raksta neglītāk nekā meitene."
           frazo-3: "Vīrs runā klusāk nekā sieva."
-        supereco: 
+        supereco:
           ekspliko: "Pārākā pakāpe:"
           frazo-1: "Piens ir barojošāks nekā vīns."
           frazo-2: "Jānis ir garāks nekā Pēteris."
           frazo-3: "Saule ir lielāka nekā mēness."
         titolo: "Salīdzināmās pakāpes"
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: znots
           bofratino: "vīra māsa, sievas māsa"
           bopatrino: "vīra māte, sievas māte"
           bopatro: "vīra tēvs, sievas tēvs"
           ekspliko: "laulības radniecība"
-        dis: 
+        dis:
           disdoni: izģērbt
           disfali: izjukt
           disflugi: "izlidot (uz visām pusēm)"
           dissemi: izsēt
           ekspliko: "izsaka sadalīšanu, sairšanu, darbības virzienu uz visām pusēm"
-        duon: 
+        duon:
           duondio: pusdievs
           duonfilino: pusmeita
           duonhoro: pusstunda
@@ -40,37 +40,37 @@ la:
           ekspliko: "uz pusēm"
           filino: meita
           horo: stunda
-        ek: 
+        ek:
           ekbrilo: uzspīdums
           ekdormi: aizmigt
           ekiri: aiziet
           ekpluvi: "sākt līt (par lietu)"
           ekspliko: "apzīmē tūlītēju darbību vai darbības sākumu"
-        eks: 
+        eks:
           eksedziĝi: izšķirties
           eksfianĉo: "bijušais līgavainis"
           eksiĝi: apsēsties
           ekspliko: "priedēklis ar nozīmi \"bijušais\""
           eksprezidanto: eksprezidents
-        fi: 
+        fi:
           ekspliko: "norāda nicinājumu, morāli mazvērtīgu"
           fidomo: bordelis
           fikomercisto: blēdis
           fivirino: izvirtule
           komercisto: "tirgotājs, komersants"
-        ge: 
+        ge:
           ekspliko: "abu dzimumu kopums (var būt pāris vai grupa)"
           geamikoj: "draugi un draudzenes"
           gefiloj: "dēli un meitas"
           gefratoj: "brāļi un māsas"
           gepatroj: vecāki
-        mal: 
+        mal:
           dekstro: "labā puse"
           ekspliko: "izsaka pretstatu"
           fermi: aizvērt
           maldekstro: "kriesā puse"
           malfermi: atvērt
-        mis: 
+        mis:
           ekspliko: "kļūdīgi, nepareizi"
           kompreni: saprast
           miskompreni: "nepareizi saprast, pārprast"
@@ -78,7 +78,7 @@ la:
           misuzo: "nepareiza lietošana"
           paŝo: solis
           uzo: lietošana
-        pra: 
+        pra:
           ekspliko: "ļoti sens, pirmatnējs"
           historio: vēsture
           nepo: mazbērns
@@ -86,21 +86,21 @@ la:
           prahistorio: aizvēsture
           prahomo: pirmcilvēks
           pranepo: mazmazbērns
-        re: 
+        re:
           ekspliko: "atkārtošana, atkal notiek"
           reaperi: "atkal parādīties"
           refari: pārtaisīt
           reteni: pārvilkt
           reveni: atgriezties
         titolo: Priedēkļi
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "darbības ilgums"
           parolado: "runa, uzruna"
           paroli: runāt
           rigardadi: aplūkot
           rigardi: skatīties
-        an: 
+        an:
           brazilano: brazīlietis
           ekspliko: "grupas, partijas, reliģijas biedrs; valsts vai reģiona iedzīvotājs"
           eŭropano: eiropietis
@@ -108,25 +108,25 @@ la:
           kristano: kristietis
           kristo: Kristus
           usonano: amerikānis
-        ar: 
+        ar:
           ekspliko: kopums
           vortaro: vārdnīca
           vorto: vārds
           ŝafaro: "aitu bars"
           ŝafo: aita
-        aĉ: 
+        aĉ:
           domaĉo: mājele
           domo: māja
           ekspliko: "slikts no materiālā vai estētiskā viedokļa"
           skribaĉi: "rakstīt kā ar vistas kāju"
           skribi: rakstīt
-        aĵ: 
+        aĵ:
           dolĉa: salds
           dolĉaĵo: saldums
           ekspliko: "Vārda saknes pazīmes konkrēta parādīšana"
           pentraĝo: zīmējums
           pentri: zīmēt
-        ebl: 
+        ebl:
           ekspliko: "kaut kas ir iespējams"
           kredebla: ticams
           kredi: ticēt
@@ -134,19 +134,19 @@ la:
           legi: lasīt
           videbla: redzams
           vidi: redzēt
-        ec: 
+        ec:
           amikeco: draudzība
           amiko: draugs
           ekspliko: "īpašība vai kvalitāte, kura izteikta vārda saknē"
           mola: mīksts
           moleco: mīkstība
-        eg: 
+        eg:
           ekspliko: "izsaka vislielāko intensivitātes pakāpi"
           ridegi: "skaļi smieties"
           ridi: smieties
           ventego: vētra
           vento: vējš
-        ej: 
+        ej:
           ekspliko: "apzīmē vietu"
           oficejo: ofiss
           ofico: "amats, kalpojums"
@@ -154,26 +154,26 @@ la:
           preĝi: lūgties
           ĉevalejo: "zirgu stallis"
           ĉevalo: zirgs
-        em: 
+        em:
           babilema: pļāpīgs
           babili: pļāpāt
           ekspliko: "tendence, nosliece uz kaut ko"
           ŝparema: taupīgs
           ŝpari: krāt
-        end: 
+        end:
           ekspliko: "kaut kas jādara"
           farenda: "tas, ko jāizdara"
           fari: "darīt, taisīt"
           legenda: "tas, ko jāizlasa"
           legi: lasīt
         titolo: Piedēkļi
-        ĉj: 
+        ĉj:
           ekspliko: "mīlināmais piedēklis vīriešiem (labskanībai var pazust daļa vārda saknes)"
           jozefo: Jāzeps
           joĉjo: Jāzepiņš
           patro: tēvs
           paĉjo: tētis
-      superlativo: 
+      superlativo:
         ekspliko-1: "Pārāko pakāpi tieto, kad no indivīdiem vienam kvalitāte tiek izteikta vairāk vai mazāk nekā par citiem."
         ekspliko-2: "Kad ir tikai divi indivīdi (cilvēki, lietas utt.), izmanto PLI vai MALPLI, bet ne \"plej\" vai \"malplej\". Tas pats attiecas, kad ir runa par divām grupām:"
         frazo-1: "No visiem maniem bērniem Ernests ir visjaunākais."

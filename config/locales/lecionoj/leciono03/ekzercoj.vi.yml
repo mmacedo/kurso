@@ -1,11 +1,11 @@
---- 
-vi: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+vi:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Bài tập - Các chữ số"
         numeraloj-ekzercoj-instrukcioj: "Gõ số thích hợp tương ứng với chữ ở chỗ thích hợp. Nhấn \"Enter\" hay bấm vào nút sáng màu vàng khi kết thúc. Bạn phải đạt độ chính xác ít nhất là 70%."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Anh ấy yêu cô ấy."
         frazo02: "2. Anh ấy yêu chị gái cô ấy."
         frazo03: "3. Chị ấy yêu anh ấy."

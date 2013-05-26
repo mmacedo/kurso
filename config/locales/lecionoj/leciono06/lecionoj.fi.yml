@@ -1,104 +1,104 @@
---- 
-fi: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+fi:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Nyt opimme loput korrelatiivit. Muista että korrelatiivit on suljettu järjestelmä, johon ei voi johtaa muita, kun nyt esilletulevat korrelatiivit."
         titolo: Korrelaatiivit
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Osoittaa laatua, lajia (se voi saada päätteet \"j\" ja \"n\")"
-        i: 
+        i:
           frazo: "Onko sinulla jonkinlainen epäilys Esperanton kiliopista?"
           vorto: Jonkinlainen
-        ki: 
+        ki:
           frazo: "Millainen oli sinun päiväsi? - Päiväni oli oikein hyvä, kiitos!"
           vorto: Millainen
-        neni: 
+        neni:
           frazo: "Ei, minulla ei ole minkäänlaista epäilystä siitä."
           vorto: "Ei minkäänlainen"
-        ti: 
+        ti:
           frazo: "Minä en syö tuollaista leipää."
           vorto: "Sellainen, tuollainen"
-        ĉi: 
+        ĉi:
           frazo: "Kaikenlainen apu on tervetullut."
           vorto: Kaikenlainen
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Syy, aihe"
-        i: 
+        i:
           frazo: "Minä sinua jostakin syystä vielä en tunne."
           vorto: "Jostakin syystä"
-        ki: 
+        ki:
           frazo: "Miksi (tuo) lapsi juoksee? - Koska se on hyvin iloinen."
           vorto: Miksi
-        neni: 
+        neni:
           frazo: "Voisit ärsyttää häntä kuinka paljon tahansa. Hän ei mistään syystä olisi vihainen."
           vorto: "Ei mistään syystä"
-        ti: 
+        ti:
           frazo: "Hän on hyvin kaunis. Siksi minä rakastan häntä."
           vorto: Siksi
-        ĉi: 
+        ĉi:
           frazo: "Sinä kysyt, miksi minä rakastan sinua. Minä vastaan: joka syystä!"
           vorto: "Joka syystä"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Tapa
-        i: 
+        i:
           ekspliko: "Osoittaa epämääräisyyttä."
           frazo: "Hän jotenkin tuo muistiini toisen henkilön."
           vorto: |-
               Jotenkin
               Jotenkin
               Jotenkin
-        ki: 
+        ki:
           ekspliko: "Ilmaisee kysymyksen: osoittaa suhteen aikaisempaan lauseeseen."
           frazo: "Miten sinä voit? - Voin oikein hyvin, kiitos!"
           vorto: Miten
-        neni: 
+        neni:
           ekspliko: "Ilmaisee kielteistä merkitystä."
           frazo: "En mitenkään voi ymmärtää, mitä sinä puhut."
           vorto: "Ei mitenkään"
-        ti: 
+        ti:
           ekspliko: "Käytetään määrittelemään, osoittamaan."
           frazo: "Hän kirjoittaa niin hyvin, kuin opettaja."
           vorto: Siten
-        ĉi: 
+        ĉi:
           ekspliko: "Osoittaa ryhmää, joukkoa."
           frazo: "Kaikella tapaa he auttoivat minua."
           vorto: "Kaikin tavoin"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Osoittaa omistusta."
-        i: 
+        i:
           frazo: "Löysin jonkun (henkilön) kirjan."
           vorto: Jonkun
-        ki: 
+        ki:
           frazo: "Kenen kirja on tuo? - Tuo on Jussin kirja."
           vorto: Kenen
-        neni: 
+        neni:
           frazo: "Esperanto ei ole kenekään oma(-isuutta)."
           vorto: "Ei kenenkään"
-        ti: 
+        ti:
           frazo: "Kissa juoksi talon päällä ja vikuutti sen katon."
           vorto: "Sen, tuon"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto on jokaisen kieli."
           vorto: "Jokaisen, kaikkien"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Osoittaa määrää."
-        i: 
+        i:
           frazo: "Minun pitää ostaa jonkin verran kahvia."
           vorto: "Jonkin verran"
-        ki: 
+        ki:
           frazo: "Paljonko on kaksi ja (plus) kaksi? - Neljä!"
           vorto: "Miten paljon"
-        neni: 
+        neni:
           frazo: "Kuinka paljon lapsia leikkii talossa? -Ei yhtään."
           vorto: "Ei yhtään"
-        ti: 
+        ti:
           frazo: "Hän söi niin paljon, minkä verran hän halusi."
           vorto: "Niin paljon"
-        ĉi: 
+        ĉi:
           frazo: "Kuinka paljon bensiiniä sinä haluat? - Haluan koko sen määrän, jonka verran sinulla on."
           vorto: "Koko määrä"
-      relativoj: 
+      relativoj:
         ekspliko-1: "\"Ki\" alkuisilla sanoilla voidaan muodostaa lauseita myös ilman kysyvää merkitystä. Silloin niitä kutsutaan relatiiveiksi, koska ne osoittavat suhdetta sivulauseen ja päälauseen välillä."
         ekspliko-2: "Ylläolevassa lauseessa \"kiun\" on suhteessa \"tiu frukto\"."
         frazo-1: "Haluan tuon hedelmän, jonta sinä näytit."

@@ -1,57 +1,57 @@
---- 
-fr: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+fr:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "un des élements constituants d'un tout, la plus petite partie"
           monero: "pièce (de monnaie)"
           mono: argent
           salero: "grain de sel"
           salo: sel
-        estr: 
+        estr:
           ekspliko: "quelqu'un qui dirige, qui commande au lieu indiqué par la racine"
           urbestro: maire
           urbo: ville
           ŝipestro: "capitaine (marine)"
           ŝipo: "bateau, navire"
-        et: 
+        et:
           ekspliko: "l'idée exprimée par la racine est ramenée à un plus faible degré : diminutif"
           pupeto: "petite poupée"
           pupo: poupée
           rideti: sourire
           ridi: rire
-        id: 
+        id:
           ekspliko: "descendant, enfant, fils, petit d'un animal"
           katido: chaton
           kato: chat
           reĝido: prince
           reĝo: roi
-        ig: 
+        ig:
           ekspliko: "faire (devant un infinitif), faire devenir, rendre tel ou tel"
           morti: "mourir, décéder"
           mortigi: "faire mourir, tuer"
           pura: "propre, pur"
           purigi: nettoyer
-        il: 
+        il:
           ekspliko: "outil, instrument ou appareil qui sert à réaliser l'action"
           muzikilo: "instrument (de musique)"
           muziko: musique
           ŝlosi: "fermer à clé"
           ŝlosilo: "clé (serrure)"
-        in: 
+        in:
           ekspliko: "indique le sexe féminin"
           kokino: poule
           koko: coq
           onklino: tante
           onklo: oncle
-        ind: 
+        ind:
           admiri: admirer
           admirinda: admirable
           ekspliko: "qui est digne de, qui mérite"
           laŭdi: louer
           laŭdinda: louable
-        ist: 
+        ist:
           ekspliko: "profession, activité ou passe-temps habituel"
           esperantisto: espérantophone
           esperanto: espéranto
@@ -61,7 +61,7 @@ fr:
           raportisto: "reporter (profession)"
           tajpi: "taper (à la machine...)"
           tajpisto: dactylo
-        iĝ: 
+        iĝ:
           ekspliko: devenir
           fari: faire
           fariĝi: "devenir, se produire"
@@ -69,39 +69,39 @@ fr:
           mateno: matin
           ruĝa: rouge
           ruĝiĝi: rougir
-        nj: 
+        nj:
           Maria: Marie
           ekspliko: "diminutif féminin (avec le début de la racine et en conservant l'euphonie)"
           manjo: "Marinette, Marinou"
           panjo: maman
           patrino: mère
-        obl: 
+        obl:
           du: deux
           duobla: double
           ekspliko: "forme les multiplicatifs"
           tri: trois
           trioblo: triple
         ? "on"
-        : 
+        :
           dek: dix
           dekono: dixième
           ekspliko: "forme les fractions"
           kvar: quatre
           kvarono: quart
-        op: 
+        op:
           du: deux
           duopo: duo
           ekspliko: "par groupes de"
           ses: six
           sesopo: "un groupe de six"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Quand il peut y avoir confusion entre les sens 1 et 2 de ce suffixe, on doit à la place utiliser des synonymes :"
           germanio: Allemagne
           pomarbo: pommier
           pomkesto: "caisse de pommes"
           ruslando: Russie
         titolo: Suffixes
-        uj: 
+        uj:
           ekspliko: "récipient contenant d'autres objets ; l'arbre selon le fruit ; le pays selon le peuple"
           franco: Français
           francujo: France
@@ -109,7 +109,7 @@ fr:
           monujo: porte-monnaie
           pomo: pomme
           pomujo: pommier
-        ul: 
+        ul:
           ekspliko: "l'être caractérisé par l'idée exprimée dans la racine"
           kontraŭ: contre
           kontraŭulo: adversaire
@@ -119,21 +119,21 @@ fr:
           sanktulo: "saint (substantif)"
           stulta: "sot, imbécile (adjectif)"
           stultulo: "sot, imbécile (substantif)"
-        um: 
+        um:
           ekspliko: "suffixe indéterminé, utilisé lorsqu'aucun autre suffixe ne convient"
           kolo: cou
           kolumo: "col (d'un vêtement)"
           plena: "plein, complet"
           plenumi: accomplir
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Je t'ai vu, ô trésor, et t'ai tout de suite aimée !
-            
+
             — Je te crois mais sois prêt à bourse délier !
-            
-            
+
+
             — Je t'aime mais, très chère, je ne te croyais pas ainsi !
-            
+
             — Si tu m'aimais, avare, tu me ferais certes reine !
         ekspliko-1: "Dans la troisième leçon, nous avons montré l'ordre des mots sujet-verbe-complément, le plus souvent utilisé en espéranto. Cependant, d'autres sont possibles à condition que la clarté soit conservée. Un de ces cas est lorsque l'on veut souligner un élément particulier d'une phrase. Dans les phrases suivantes, l'ordre des mots a été changé, pour accentuer l'un d'entre d'eux :"
         ekspliko-2: "Pour souligner un élément de phrase, on peut utiliser aussi le petit mot \"ja\" qui accentue le sens :"

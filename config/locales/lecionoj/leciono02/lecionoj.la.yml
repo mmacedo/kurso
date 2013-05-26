@@ -1,8 +1,8 @@
---- 
-la: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+la:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Ir cita galotne, ļoti noderīga, kura dot iespēju teikumā skaidri noteikt tiešo papildinātāju. Tā ir akuzatīva galotne -n, kuru liek pie lietvārdu, īpašības un vietniekvārdu nominatīva galotnēm."
         ekspliko-2: "Pievērsiet uzmanību, ka daudzskaitļa galotni -j liek pirms akuzatīva galotnes -n, un abas vienmēr tiek liktas vārda beigās. Tiešais papildinātājs var atrasties teikuma sākumā, vidū vai beigās, un tas nekādi nemaina jēgu, jo tas ir akuzatīva norādīts. Lūk trīs frāzes, kuru jēga ir vienāda:"
         frazo-plurala: "Es mazgāju jaunās tases."
@@ -10,41 +10,41 @@ la:
         rimarkigo-1: "Faktiski dažāda vārdu kārtība var tikt izmantota, lai frāzei piešķirtu dažādas niases. To mēs apgūsim nākošajās lekcijās."
         rimarkigo-2: "Pēc darbības vārda \"esti\" nelieto akuzatīvu, jo vārds \"esti\" norāda uz to, ka priekšmets un izteicējs ir ekvivalenti."
         titolo: "Akuzatīvs (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: "Tagad noklausīsimies arģentīniešu grupas \"La Porkoj\" dziesmu \"Jen\" (\"Lūk\"), kura ieguva Vispasaules Esperanto Asociācijas (Universala Esperanto-Asocio) mākslinieku konkursa balvu. Grupas sastāvs: balss - Alehandro Kossavella (Alejandro Cossavella), bungas - Pablo Ciancio, ģitāra - Ignacio Mendizabal, basģitāra - Salvador Agustoni. Lai atskaņotu dziesmu, nospiediet pogu."
         titolo: "Mūzika esperanto valodā"
-      neado: 
+      neado:
         ekspliko: "Lai frāzei piešķirtu noliegumu, pietiek nolikt vārdu \"ne\" pirms darbības vārda (nelieto dubulto noliegumu)."
-        frazoj: 
+        frazoj:
           frazo-1: "Es nemazgāšu jauno tasi."
           frazo-2: "Viņš nav mans brālis."
           frazo-3: "Viņa nav mana māte."
           frazo-4: "Kūkas nebija siltas."
         titolo: Noliegums
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "Priedēklis mal-  ļauj izveidot vārdu, kura nozīme ir pretēja tam vārdam, kuram tas ir pievienots."
-        kun: 
+        kun:
           malamiko: "ienaidnieks, nedraugs"
           malavara: devīgs
           malbela: neglīts
           maljuna: vecs
           malnova: vecs
-        sin: 
+        sin:
           amiko: draugs
           avara: skops
           bela: skaists
           juna: jauns
           nova: jauns
         titolo: "Priedēklis \"mal-\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "Pirmajā lekcijā mēs redzējām, ka esperanto valodā īpašības vārdi ar lietvārdu saskaņojas vienskaitlī un daudzskaitlī; kad ir runa par kaut ko vienu, tie paliek vienskaitlī, vairāk kā par vienu, tos pārveido daudzskaitlī. Starp citu, īpašības vārdi nekad netiek pieskaņoti dzimtēm (vīriešu vai sieviešu)."
         ekspliko-2: "Vārdu dzimti var noteik pēc to galotnēm. Vīriešu dzimte beidzas ar galotni \"o\" un sieviešu - ar \"ino\"."
-        frazoj: 
+        frazoj:
           frazo-amikino: "skaistā draudzene"
           frazo-patrino: "labā māte"
           frazo-virino: "lielās sievietes"
         titolo: "Piedēklis -in-"
-        vortoj: 
+        vortoj:
           amikino: draudzene
           amiko: draugs
           filino: meita
@@ -53,7 +53,7 @@ la:
           patro: tēvs
           virino: sieviete
           viro: vīrietis
-      vortaro02: 
+      vortaro02:
         akvo: ūdens
         ami: mīlēt
         amo: mīlestība

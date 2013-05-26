@@ -1,95 +1,95 @@
---- 
-ca: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+ca:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Heus aquí unes paraules molt útils que són part d'un sistema regular i tancat. Se les anomena \"correlatius\". El seu significat és el resultat de combinar una arrel i una terminació."
         titolo: Correlatius
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Temps
-        i: 
+        i:
           frazo: "Has visitat Brasil alguna vegada?"
           vorto: "En algun moment"
-        ki: 
+        ki:
           frazo: "Quan compraràs el llibre? — Demà al matí."
           vorto: Quan
-        neni: 
+        neni:
           frazo: "No, no he visitat mai aquest país."
           vorto: "(No) mai"
-        ti: 
+        ti:
           frazo: "Vaig aprendre esperanto quan era a l'escola."
           vorto: "Llavors, aleshores"
-        ĉi: 
+        ĉi:
           frazo: "Tanmateix sempre l'he volgut visitar."
           vorto: Sempre
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Aquesta paraula indica proximitat i pot posar-se davant o darrere del correlatiu al que està associada."
         frazo-1: "Què és això?"
         frazo-2: "Això és un animal."
         frazo-3: "Aquesta és la meva casa."
         rimarkigo: "Els correlatius acabats en \"o\" (\"tio\", \"kio\", etc: \"què\", \"això\") poden tenir acusatiu (\"tion\", \"kion\"), però no plural (-j)."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Indica lloc."
-        i: 
+        i:
           ekspliko: "Indica indefinició."
           frazo: "En meu llapis és en algun lloc del jardí"
           vorto: "En algun lloc"
-        ki: 
+        ki:
           ekspliko: "Indica pregunta o relació amb la proposició anterior"
           frazo: "On vius? — Visc al Canadà."
           vorto: "On"
-        neni: 
+        neni:
           ekspliko: "Indica sentit negatiu."
           frazo: "No he trobat el meu llibre enlloc."
           vorto: Enlloc
-        ti: 
+        ti:
           ekspliko: "Usat per indicar, mostrar"
           frazo: "Visc allà on hi ha el cotxe."
           vorto: Allà
-        ĉi: 
+        ĉi:
           ekspliko: "Indica grup, conjunt."
           frazo: "El poca-solta escriu el seu nom a tot arreu."
           vorto: "Arreu, a tot arreu, pertot, pertot arreu"
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Cosa, objecte."
-        i: 
+        i:
           frazo: "Ha passat alguna cosa!"
           vorto: "Quelcom, alguna cosa"
-        ki: 
+        ki:
           frazo: "Què és la geografia? — La geografia és una ciència."
           vorto: Què
-        neni: 
+        neni:
           frazo: "Més val alguna cosa que no res."
           vorto: "(No) res"
-        ti: 
+        ti:
           frazo: "Què és això? — Això és un instrument."
           vorto: "Allò, això"
-        ĉi: 
+        ĉi:
           frazo: "Ho he oblidat tot."
           vorto: Tot
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Quan actua com a pronom indica persona. Quan n'hi ha més d'un ha de dur la terminació \"j\"."
-        i: 
+        i:
           ekspliko: "Indica indefinició."
           frazo: "Van venir algunes persones que no conec."
           vorto: Algú/una
-        ki: 
+        ki:
           ekspliko: "Indica pregunta o relació amb la proposició anterior."
           frazo: "Qui era el vostre primer professor? — El senyor Carles."
           vorto: "Qui, quin/a"
-        neni: 
+        neni:
           ekspliko: "Indica negació."
           frazo: "Qui va venir ahir? — Ningú no va venir."
           vorto: "Ningú, cap"
-        ti: 
+        ti:
           ekspliko: "Usat per indicar, mostrar."
           frazo: "Aquest llibre és molt bo."
           vorto: "Aquell/a, aquest/a"
-        ĉi: 
+        ĉi:
           ekspliko: "Indica grup, conjunt."
           frazo: "Tota persona s'estima a si mateixa"
           vorto: Tot/a
-      vortaro05: 
+      vortaro05:
         al: "a, cap a"
         anonco: "anunci, anunciament"
         aĉeti: comprar

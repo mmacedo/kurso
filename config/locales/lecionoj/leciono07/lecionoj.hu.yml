@@ -1,11 +1,11 @@
---- 
-hu: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+hu:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "A viszonyszók a szavak közötti összefüggéseket mutatják."
         titolo: "Viszonyszók I"
-        vortoj: 
+        vortoj:
           al: "felé, valamilyen irányba"
           da: "-nyi valamibõl (mennyiségi viszony)"
           de: "-tól, -tõl, -ról, -rõl, óta, miatt, által, -nak, -nek"
@@ -18,9 +18,9 @@ hu:
           sur: "-on, -en, -ön"
           ĉe: "-nál, -nél"
           ĝis: "-ig, míg, amíg"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Viszonyszók II"
-        vortoj: 
+        vortoj:
           anstataŭ: helyett
           antaŭ: elõtt
           apud: mellett
@@ -39,7 +39,7 @@ hu:
           tra: keresztül
           trans: "-n túl,-n túlról, át, túlra"
           ĉirkaŭ: körül
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "A második leckében láttuk, hogy az \"-n\" mutatja a közvetlen tárgyat. Ez a tárgyeset. Példák:"
         ekspliko-2: "Amikor egy mondatnak két tárgya van, akkor az egyik a közvetett tárgy kell, hogy legyen. Példa:"
         ekspliko-3: "A viszonyszónak a fenti használata szükséges, a közvetett tárgy nem kap tárgyas végzõdést. További példák következnek:"
@@ -56,8 +56,8 @@ hu:
         frazo-5: "Õ(férfi) ivott egy csésze kávét."
         frazo-6: "Takarodj elõlem!"
         titolo: "Viszonyszók III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: érkezni
           aŭtobuseto: kisbusz
           danki: megköszönni
@@ -72,8 +72,8 @@ hu:
           sidi: "ülni, ülve lenni"
           tagmanĝo: ebéd
           viziti: látogatni
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktisz
           Kanado: Kanada
           admiri: csodálni

@@ -1,11 +1,11 @@
---- 
-la: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+la:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Uzdevums - skaitļa vārdu pielietošana"
         numeraloj-ekzercoj-instrukcioj: "Ievadiet norādītajā laukumā skaitļa vārdu, kurš atbilst dotajam tekstam. Lai apstiprinātu atbildi, lietojiet taustiņu Enter vai uzklikšķiniet uz pogas ar lampiņas ikonu. Mēģiniet pareizi atbildēt vismaz 70%."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Viņš mīl viņu."
         frazo02: "2. Viņš mīl viņas meitu."
         frazo03: "3. Viņa mīl viņu."

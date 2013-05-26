@@ -1,57 +1,57 @@
---- 
-en: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+en:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "element or component of a whole."
           monero: coin
           mono: money
           salero: "grain of salt"
           salo: salt
-        estr: 
+        estr:
           ekspliko: "manager, leader, director"
           urbestro: mayor
           urbo: "city, town"
           ŝipestro: "ship's captain"
           ŝipo: ship
-        et: 
+        et:
           ekspliko: "little, small, tiny, less intense"
           pupeto: "small doll"
           pupo: "doll, hand puppet"
           rideti: smile
           ridi: laugh
-        id: 
+        id:
           ekspliko: "offspring, descendant"
           katido: kitten
           kato: cat
           reĝido: prince
           reĝo: king
-        ig: 
+        ig:
           ekspliko: "to make, to cause to be"
           morti: "to die"
           mortigi: "to kill, to put to death"
           pura: "clean, pure"
           purigi: "to clean, to make pure"
-        il: 
+        il:
           ekspliko: "instrument, tool"
           muzikilo: "musical instrument"
           muziko: music
           ŝlosi: "to lock"
           ŝlosilo: key
-        in: 
+        in:
           ekspliko: female
           kokino: hen
           koko: "chicken (of either sex)"
           onklino: aunt
           onklo: uncle
-        ind: 
+        ind:
           admiri: "to admire"
           admirinda: admirable
           ekspliko: worthy
           laŭdi: "to praise,laud"
           laŭdinda: laudable
-        ist: 
+        ist:
           ekspliko: "person who does something as a profession; adherent of a cause"
           esperantisto: Esperantist
           esperanto: Esperanto
@@ -61,7 +61,7 @@ en:
           raportisto: reporter
           tajpi: "to type"
           tajpisto: typist
-        iĝ: 
+        iĝ:
           ekspliko: "to become"
           fari: "to make, to do"
           fariĝi: "to become"
@@ -69,39 +69,39 @@ en:
           mateno: morning
           ruĝa: red
           ruĝiĝi: "to blush, to become red"
-        nj: 
+        nj:
           Maria: Mary
           ekspliko: "forms female nicknames  (root may be shortened or altered)"
           manjo: "nickname for Mary"
           panjo: "mom, mommy, ma, mama"
           patrino: mother
-        obl: 
+        obl:
           du: two
           duobla: double
           ekspliko: multiple
           tri: three
           trioblo: "triplet, threesome"
         ? "on"
-        : 
+        :
           dek: ten
           dekono: one-tenth
           ekspliko: "forms fractions"
           kvar: four
           kvarono: "quarter, fourth, 1/4"
-        op: 
+        op:
           du: two
           duopo: "a pair"
           ekspliko: "forms groups"
           ses: six
           sesopo: "sextet, a group of six"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "To avoid confusion due to the multiple meanings of this suffix meanings, we can use other words:"
           germanio: Germany
           pomarbo: "apple tree"
           pomkesto: "basket for apples"
           ruslando: Russia
         titolo: Suffixes
-        uj: 
+        uj:
           ekspliko: "container, tree by its fruit, country by its people"
           franco: Frenchman
           francujo: France
@@ -109,7 +109,7 @@ en:
           monujo: "purse, wallet"
           pomo: apple
           pomujo: "apple basket, apple tree"
-        ul: 
+        ul:
           ekspliko: "person, individual"
           kontraŭ: against
           kontraŭulo: "opponent, rival"
@@ -119,13 +119,13 @@ en:
           sanktulo: "a saint (holy, saintly person)"
           stulta: "stupid, foolish"
           stultulo: fool
-        um: 
+        um:
           ekspliko: "suffix with no specific meaning"
           kolo: neck
           kolumo: collar
           plena: "full, complete"
           plenumi: "to fulfill, to accomplish"
-      vortordo: 
+      vortordo:
         dialogo: |-
             — I saw you, oh treasure, and I immediately fell in love with you!
             — I believe you, however gold should be ready in a purse

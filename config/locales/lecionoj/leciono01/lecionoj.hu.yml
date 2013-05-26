@@ -1,19 +1,19 @@
---- 
-hu: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+hu:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: Szép
         ekspliko: "\"a\" betûs végzõdés:"
         sana: Egészséges
         titolo: Melléknevek
         varma: Meleg
-      alfabeto: 
+      alfabeto:
         ekspliko: "Az eszperantóban a szavakat pontosan úgy írjuk le, ahogyan kiejtjük, és a szavakat  minden egyes leírt betû hangja szerint ejtjük ki. A hangsúly mindig az utolsó elõtti szótagra esik. Kattints a gombra, hogy halljad a kiejtést, és ismételd meg hangosan!"
         titolo: "Az Eszperantó ABC"
-      artikolo: 
+      artikolo:
         ekspliko: "Határozatlan névelõ nincs az eszperantóban. Csak a \"la\" határozott névelõ létezik, amely a magyar \"a, az\" határozott névelõknek felel meg."
-        frazoj: 
+        frazoj:
           frazo-1: "A fiaid a mi barátaink."
           frazo-2: "A kenyér száraz."
           frazo-3: "A meleg tej jó."
@@ -22,7 +22,7 @@ hu:
           frazo-6: "Az apa jó."
           titolo: Mondatok
         titolo: Névelõ
-        vortoj: 
+        vortoj:
           floroj: Virágok
           knabo: "Egy fiú"
           la-floroj: "A virágok"
@@ -31,33 +31,33 @@ hu:
           la-patroj: "Az apák"
           pano: "Egy kenyér"
           patroj: Apák
-      nomoj: 
+      nomoj:
         amiko: Barát
         ekspliko: "\"o\" betûs végzõdés:"
         frato: Testvér
         kafo: Kávé
         titolo: Fõnevek
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: Õk
           ni: Mi
           titolo: "Többes szám"
           vi: "Ti (Önök)"
-        singularo: 
+        singularo:
           li: "Õ (férfi)"
           mi: Én
           titolo: "Egyes szám"
           vi: "Te (Ön)"
           ĝi: "Az (állat, tárgy, fogalom)"
           ŝi: "Õ (nõ)"
-        specialaj: 
+        specialaj:
           oni: "az ember; az emberek; mindenki, általában (határozatlan személyi névmás, általános alany): akkor használjuk, amikor nem akarunk vagy nem tudunk valakit megnevezni."
           si: "(saját)maga: Visszaható névmás. Sohasem szerepelhet fõnévszerûen. A mondatban az alanyra utal, akár fõnév az, akár harmadik személyû névmás, egyes vagy többes számú. Alanyesete nincsen, csak tárgy- és viszonyszós esete."
           titolo: Különleges
         titolo: "Személyes névmások"
-      pluralo: 
+      pluralo:
         ekspliko: "A fõnév és a melléknév többes számát a \"j\" betû hozzáadásával jelöljük."
-        pluralo: 
+        pluralo:
           amikoj: barátok
           belaj: szépek
           belaj-floroj: "szép virágok"
@@ -66,7 +66,7 @@ hu:
           patroj: apák
           sanaj: egészségesek
           sanaj-patroj: "egészséges apák"
-        singularo: 
+        singularo:
           amiko: barát
           bela: szép
           bela-floro: "szép virág"
@@ -76,9 +76,9 @@ hu:
           sana: egészséges
           sana-patro: "egészséges apa"
         titolo: "Többes szám"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "A birtokos névmást úgy képezzük, hogy a melléknévi \"a\" végzõdést hozzáadjuk a személyes névmáshoz:"
-        posedaj: 
+        posedaj:
           ilia: övéké
           lia: "övé (férfi)"
           mia: "az én(-m,-am,-em,-om,-öm,); Enyém"
@@ -86,27 +86,27 @@ hu:
           via: "tiéd, tiétek"
           ĝia: azé
           ŝia: "övé (nõ)"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "A személyes névmások is megkapják a \"j\" végzõdést többes szám esetén."
           mia-amiko: "A barátom"
           miaj-amikoj: "A barátaim"
           nia-floro: "A virágunk"
           niaj-floroj: "A virágaink"
         titolo: "Birtokos névmások"
-      verboj: 
+      verboj:
         ekspliko: "A fõnévi igenév -i -vel végzõdik: esti (lenni).  A múlt idõ -is -sel: estis (volt).  A jelen idõ -as -sal: estas (van).  A jövõ idõ -os -sal, estos (lesz). A további igeidõket a következõ leckékben mutatjuk be."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Õk vannak"
           ni-estas: "Mi vagyunk"
           oni-estos: "az ember(ek), (általában) lesz(nek)"
           vi-estis: "Ti (Önök) voltatok (voltak)"
-        singularo: 
+        singularo:
           li-estis: "Õ (férfi) volt"
           mi-estas: "Én vagyok"
           ĝi-estos: "Az lesz"
           ŝi-estas: "Õ (nõ) van"
         titolo: Igék
-      vortaro01: 
+      vortaro01:
         amiko: barát
         bela: szép
         biskvito: "keksz, sós keksz"

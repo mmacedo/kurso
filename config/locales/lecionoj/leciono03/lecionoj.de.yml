@@ -1,48 +1,48 @@
---- 
-de: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+de:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Die Ordnungszahlen enden auf -a (=Adjektive). Sie sind deklinierbar, d. h. sie können Plural- (-j) und Akkusativendungen (-n) erhalten."
-        frazoj: 
+        frazoj:
           frazo-1: "Die ersten Jungen kommen."
           frazo-2: "Er fing das dritte Insekt."
         titolo: "Adjektive aus Zahlwörtern"
-        vortoj: 
+        vortoj:
           dek: zehn
           dek-naŭ: neunzehn
           dek-naŭa: neunzehnte/r
           deka: zehnte/r
           tri: drei
           tria: dritte/r
-      adverboj: 
+      adverboj:
         ekspliko-1: "Das Adjektiv begleitet das Nomen und bestimmt es als 'Eigenschaftswort' näher, während die Adverbien das Verb begleiten und dessen Bedeutung näher bestimmen. Häufig enthalten sie Angaben zu Ort, Zeit, Art (Weise) und Grund. Nomen, Verb sowie deren Begleiter sind Wortarten."
         ekspliko-2: "In Esperanto enden die Adverbien meist auf -e. Man kann sie bequem aus Adjektiven und anderen Wortarten ableiten; z. B. bela kanto, aber: Vi bele kantas."
-        frazoj: 
+        frazoj:
           frazo-sana: "Er ist gesund."
           frazo-sane: "Er lebt gesund."
           frazo-sani: "Er ist gesund."
           frazo-sano: "Er hat eine gute Gesundheit."
         rimarkigo: "Das Adverb kann vor und nach einem Verb stehen, aber auch vor Adjektiven u. Adverbien."
         titolo: Adverbien
-        vortoj: 
+        vortoj:
           sana: gesund
           sane: gesund
           sani: "gesund sein"
           sano: "Gesundes, Gesundheit"
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Durch die Endung -e entstehen Adverbien aus den Zahlwörtern."
-        frazoj: 
+        frazoj:
           frazo-1: "Er wird zuerst Wasser trinken."
         titolo: "Adverbien aus Zahlwörtern"
-        vortoj: 
+        vortoj:
           du: zwei
           due: zweitens
           unu: ein
           unue: erstens
-      numeraloj: 
+      numeraloj:
         titolo: "Numeralien - Zahlwörter"
-      vortaro03: 
+      vortaro03:
         atendi: warten
         demandi: fragen
         fumi: rauchen

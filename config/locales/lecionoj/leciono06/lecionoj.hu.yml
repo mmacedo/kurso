@@ -1,101 +1,101 @@
---- 
-hu: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+hu:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Most tanuljunk meg bizonyos névmásokat. Jegyezzük meg, hogy a névmások rendszere zárt, ezért nem lehetséges származtatni más mutató névmásokat a most bemutatottakon kívûl."
         titolo: Névmások
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Minõséget, nemet, fajtát mutat (kaphat \"j\" és \"n\" végzõdést)."
-        i: 
+        i:
           frazo: "Van valamilyen kételyed az eszperantó nyelvtanával kapcsolatban?"
           vorto: valamilyen
-        ki: 
+        ki:
           frazo: "Milyen napja(napod) volt?  —  Köszönöm, nagyon jó napom volt."
           vorto: "milyen?, amilyen"
-        neni: 
+        neni:
           frazo: "Nem, nincsen semmilyen kételyem vele kapcsolatban."
           vorto: "semmilyen, semmiféle"
-        ti: 
+        ti:
           frazo: "Nem fogok megenni olyan kenyeret."
           vorto: olyan
-        ĉi: 
+        ĉi:
           frazo: "Mindenféle segítség jól jön."
           vorto: mindenféle
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: Ok
-        i: 
+        i:
           frazo: "Téged valami okból még nem ismerlek."
           vorto: "valamiért, valamilyen ok miatt"
-        ki: 
+        ki:
           frazo: "Miért szalad a gyerek?  —  Mert nagyon boldog."
           vorto: "miért?, amiért"
-        neni: 
+        neni:
           frazo: "Õt (férfit) bármennyire ingerelhetnéd. Semmiért sem haragudna meg."
           vorto: "semmiért sem, ok nélkül"
-        ti: 
+        ti:
           frazo: "Õ (nõ) nagyon szép. Ezért szeretem õt."
           vorto: "azért, ezért"
-        ĉi: 
+        ĉi:
           frazo: "Azt kérdezed, hogy miért szeretlek. Azt felelem: mindenért!"
           vorto: mindenért
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Mód
-        i: 
+        i:
           ekspliko: "Határozatlanságot mutat."
           frazo: "Õ (nõ) valahogyan emlékeztet engem egy másik személyre."
           vorto: valahogyan
-        ki: 
+        ki:
           ekspliko: "Kérdést jelez; viszonyt mutat az elõbbi mondathoz."
           frazo: "Hogy van(vagy)?  —  Köszönöm, nagyon jól!"
           vorto: "hogy(an)?, ahogyan; mint, -ként, gyanánt"
-        neni: 
+        neni:
           ekspliko: "Nemleges értelmet mutat."
           frazo: "Sehogyan sem tudom megérteni, amit beszélsz."
           vorto: "sehogy, sehogyan, sehogyan sem"
-        ti: 
+        ti:
           ekspliko: "Mutatásra használatos."
           frazo: "Õ (nõ) olyan jól ír, mint a tanár."
           vorto: "úgy, így"
-        ĉi: 
+        ĉi:
           ekspliko: "Gyûjtést, csoportot mutat."
           frazo: "Õk mindenképpen segítettek nekem."
           vorto: mindenképpen
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Tulajdont mutat."
-        i: 
+        i:
           frazo: "Megtaláltam valaki könyvét."
           vorto: valakié
-        ki: 
+        ki:
           frazo: "Kié az a könyv?  —  Az a könyv Jánosé."
           vorto: "kié?, mié?, akié"
-        neni: 
+        neni:
           frazo: "Az eszperantó senkinek sem a tulajdona."
           vorto: senkié
-        ti: 
+        ti:
           frazo: "A macska futott a házon és megrongálta annak tetõzetét."
           vorto: "azé, annak a.. -ja"
-        ĉi: 
+        ĉi:
           frazo: "Az eszperantó mindenki nyelve."
           vorto: mindenkié
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Mennyiséget mutat."
-        i: 
+        i:
           frazo: "Kell vegyek valamennyi (egy kevés) kávét."
           vorto: "valamennyi (nem minden)"
-        ki: 
+        ki:
           frazo: "Mennyi kettõ meg kettõ?  —  Négy!"
           vorto: "hány?, mennyi?, ahány, amennyi"
-        neni: 
+        neni:
           frazo: "Hány gyermek játszik a házban? — Semennyi."
           vorto: semennyi
-        ti: 
+        ti:
           frazo: "Annyit evett, amennyit akart."
           vorto: "annyi, ennyi"
-        ĉi: 
+        ĉi:
           frazo: "Mennyi benzint óhajt? - Mind (Az összest) kérem, amennyije van."
           vorto: "minden, az összes"
-      relativoj: 
+      relativoj:
         ekspliko-1: "A \"KI\"-vel kezdõdõ névmások  bevezethetnek olyan mondatokat is, amelyeknek nincsen kérdõ értelmük. Ezeket a szavakat vonatkozó névmásoknak nevezzük, mert összefüggést fejeznek ki a fõmondat és a mellékmondat között."
         ekspliko-2: "A fenti mondatban a \"kiun\" a \"tiu frukto\"-ra vonatkozik."
         frazo-1: "Szeretném azt a gyümölcsöt, amelyiket mutatta(d)."

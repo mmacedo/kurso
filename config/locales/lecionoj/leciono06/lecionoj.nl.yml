@@ -1,101 +1,101 @@
---- 
-nl: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+nl:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Nu gaan we de overige correlatieven (\"tabelwoorden\") aanpakken. We weten dat het correlatievensysteem (de \"tabel\") een vast  systeem is.  D.w.z. er kunnen geen andere correlatieven afgeleid worden buiten de nu getoonde correlatieven."
         titolo: "Correlatieven (ook \"Tabelwoorden\" genoemd)"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Wijst op HOEDANIGHEID, kwaliteit , soort   (kan een eind -j en -n hebben)"
-        i: 
+        i:
           frazo: "Heb je enige (een of andere soort) twijfel betreffende (over) de grammatica van Esperanto?"
           vorto: "Een of ander soort, enigerlei"
-        ki: 
+        ki:
           frazo: "Hoe(danig) was je dag? — Mijn dag was erg goed, dank (je)!"
           vorto: "Wat voor soort, welkdanig, wat voor, (welke)"
-        neni: 
+        neni:
           frazo: "Neen, ik heb generlei (= geen enkele soort) twijfel daarover (= \"over het\")."
           vorto: "Geen enkel soort, generlei"
-        ti: 
+        ti:
           frazo: "Ik zal zulk (dat soort) brood niet eten."
           vorto: "Zulke, zo een soort, zo een, zo 'n"
-        ĉi: 
+        ĉi:
           frazo: "Alle soort (allerlei) hulp is welgekomen (welkom)."
           vorto: "Elk soort, allerlei"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "OORZAAK, REDEN"
-        i: 
+        i:
           frazo: "Om een of andere reden ken ik u nog niet."
           vorto: "Om een of andere reden, ergens om"
-        ki: 
+        ki:
           frazo: "Waarom rent het kind? — Omdat het erg blij is."
           vorto: "Om welke reden, waarom"
-        neni: 
+        neni:
           frazo: "Je zou hem mogen jennen hoeveel dan ook (zoveel je wil). Hij zou nergens om boos worden."
           vorto: "Om geen enkele reden, nergens om"
-        ti: 
+        ti:
           frazo: "Ze is zeer mooi. Daarom houd ik van haar."
           vorto: "Om die reden, daarom"
-        ĉi: 
+        ĉi:
           frazo: "Je vraagt waarom ik van je houd. Ik antwoord: voor alles! (om elke reden!)"
           vorto: "Om elke reden"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: "MANIER, WIJZE"
-        i: 
+        i:
           ekspliko: "Toont onbepaaldheid."
           frazo: "Ze herinnert me op een of andere manier aan een andere persoon."
           vorto: "Op een of andere manier, enigszins"
-        ki: 
+        ki:
           ekspliko: "Wijst op een vraag;   of: verwijst naar de vorige zin."
           frazo: "Hoe stel je het? (Hoe gaat het met je?) — Ik stel het heel wel (Het gaat heel goed met me), dank je!"
           vorto: "Op welke manier, hoe"
-        neni: 
+        neni:
           ekspliko: "Stelt de negatieve zin voor (een lege verzameling)."
           frazo: "Ik kan geenszins begrijpen wat je spreekt."
           vorto: "Op geen enkele manier, geenszins"
-        ti: 
+        ti:
           ekspliko: "Gebruikt om aan te wijzen, te tonen."
           frazo: "Zij schrijft zo (of: even) goed, als de lerares."
           vorto: "Op die manier, zo"
-        ĉi: 
+        ĉi:
           ekspliko: "Wijst op een volle verzameling."
           frazo: "Ze hielpen me op alle mogelijke manieren."
           vorto: "Op alle manieren, alleszins"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Wijst op EIGENAAR."
-        i: 
+        i:
           frazo: "Ik vond iemands boek."
           vorto: Iemands
-        ki: 
+        ki:
           frazo: "Wiens boek is dat? — Dat is het boek van Johan."
           vorto: "Van wie, wiens"
-        neni: 
+        neni:
           frazo: "Esperanto is niemands eigendom."
           vorto: Niemands
-        ti: 
+        ti:
           frazo: "De kat liep op het huis en maakte het dak ervan (\"diens dak\") kapot."
           vorto: Diens
-        ĉi: 
+        ĉi:
           frazo: "Esperanto is ieders taal."
           vorto: "Van iedereen, ieders"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Wijst op een HOEVEELHEID."
-        i: 
+        i:
           frazo: "Ik moet een beetje (een onbepaalde hoeveelheid / wat) koffie kopen."
           vorto: "Een onbepaalde hoeveelheid, (een beetje)"
-        ki: 
+        ki:
           frazo: "Hoeveel is twee en twee? — Vier!"
           vorto: Hoeveel
-        neni: 
+        neni:
           frazo: "Hoeveel kinderen spelen (er) in het huis? Geen (enkele)."
           vorto: "Geen enkele hoeveelheid, (niets, geen)"
-        ti: 
+        ti:
           frazo: "Hij at zoveel (als) hij wilde."
           vorto: Zoveel
-        ĉi: 
+        ĉi:
           frazo: "Hoeveel benzine wil u? - Ik wil de hele hoeveelheid, die u heeft (al, wat u heeft)."
           vorto: "De hele hoeveelheid, (alles)"
-      relativoj: 
+      relativoj:
         ekspliko-1: "De woorden die met KI- beginnen kunnen ook aan het begin van een niet vragende zin staan. Die woorden noem je dan betrekkelijke voornaamwoorden, omdat ze de betrekking aangeven tussen bijzin en hoofdzin."
         ekspliko-2: "In de zin hierboven heeft  \"kiun\" betrekking op \"tiu frukto\"."
         frazo-1: "ik wil die vrucht, die u (je) toonde (getoond hebt)."

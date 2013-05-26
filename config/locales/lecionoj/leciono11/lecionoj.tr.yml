@@ -1,8 +1,8 @@
---- 
-tr: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+tr:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "İkinci derste okuduğumuz şekilden başka, Esperanto'da başka şekilde soru sorma imkanıda vardır."
         frazo-1: "Acaba kutu mavi mi?"
         frazo-2: "Sinemaya gidecek misin?"
@@ -11,7 +11,7 @@ tr:
         frazo-5: "Kutu mavi değil, değil mi?"
         frazo-6: "Sinemaya gitmeyeceksin değil mi?"
         titolo: "Diğer soru şekilleri"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Esperanto da bilinmesi gereken ilginç ikili ifadeli kelimeker vardır :"
         jen: "Sıralamayı gösteriyor"
         jen-frazo-1: "Erkek çoçuğu hem ağladı, hem güldü."
@@ -29,11 +29,11 @@ tr:
         ĉu: "Aralarında seçimin ilgisiz, serbest veya emin olmayan imkanları göstermekte."
         ĉu-frazo-1: "Korkudan mı, gururdan mı, o (erkek) hiçbir cevap vermedi."
         ĉu-frazo-2: "Acaba yağacak mı yoksa güneş mi doğacak, ben gideceğim ya."
-      horoj: 
+      horoj:
         je-kioma: "Saat kaçta telefon edeceksin?"
         kioma-estas: "Saat kaç?"
         titolo: Saatler
-      interjekcioj: 
+      interjekcioj:
         bis: Tekrar!
         fi: "üff !"
         ha-1: "tüh!, ha!"
@@ -45,7 +45,7 @@ tr:
         titolo: "Ünlem, Nida edatı"
         ve: "zavallı !"
         ve-al-mi: "vay halime ! , zavallı ben !"
-      mallongiloj: 
+      mallongiloj:
         bv: lütfedin
         e-isto: esperantist
         e-o: Esperanto
@@ -57,7 +57,7 @@ tr:
         str: sokak
         te: "t.e. yani"
         titolo: Kısaltmalar
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "belirsizlik, kayıtsızlık"
         almenaŭ: "Hiç olmazsa"
         ambaŭ: "her ikiside (erkek-dişil)"

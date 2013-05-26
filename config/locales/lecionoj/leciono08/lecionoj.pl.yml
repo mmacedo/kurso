@@ -1,38 +1,38 @@
---- 
-pl: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+pl:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Stopień równy:"
           frazo-1: "Esperanto jest tak ładne jak pożyteczne. *"
           frazo-2: "Nic nie jest tak wartościowe jak zdrowie. *"
           frazo-3: "Ona jest tak ładna jak matka. *"
-        malsupereco: 
+        malsupereco:
           ekspliko: "Stopień niższy:"
           frazo-1: "Mój brat jest młodszy niż ja."
           frazo-2: "On pisze mniej ładnie niż dziewczynka."
           frazo-3: "Mąż  mówi  ciszej niż  żona."
-        supereco: 
+        supereco:
           ekspliko: "Stopień wyższy:"
           frazo-1: "Mleko jest bardziej pożywne niż wino."
           frazo-2: "Jan jest wyższy niż Piotr."
           frazo-3: "Słońce jest większe niż księżyc."
         titolo: Porównanie
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: zięć
           bofratino: szwagierka
           bopatrino: teściowa
           bopatro: teść
           ekspliko: "pokrewieństwo przez  małżeństwo."
-        dis: 
+        dis:
           disdoni: rozdać
           disfali: "rozpaść się"
           disflugi: rozfrunąć
           dissemi: rozsiać
           ekspliko: "rozdanie,  rozejście"
-        duon: 
+        duon:
           duondio: półbóg
           duonfilino: pasierbica
           duonhoro: "pół godziny *"
@@ -40,37 +40,37 @@ pl:
           ekspliko: połowicznie
           filino: córka
           horo: godzina
-        ek: 
+        ek:
           ekbrilo: błysk
           ekdormi: zasnąć
           ekiri: "zacząć iść"
           ekpluvi: "zacząć padać"
           ekspliko: "początkowe, nagłe, lub chwilowe działanie"
-        eks: 
+        eks:
           eksedziĝi: "rozwieść się"
           eksfianĉo: "były narzeczony"
           eksiĝi: "stać się byłym"
           ekspliko: "były, już nie istniejący."
           eksprezidanto: "były przewodniczący"
-        fi: 
+        fi:
           ekspliko: "moralnie zły"
           fidomo: "podły dom ( w przenośni *)"
           fikomercisto: "podły handlowiec"
           fivirino: "podła kobieta"
           komercisto: handlowiec
-        ge: 
+        ge:
           ekspliko: "połączenie  obu płci  (para, lub grupa)"
           geamikoj: "przyjaciele obu płci"
           gefiloj: dzieci
           gefratoj: rodzeństwo
           gepatroj: rodzice
-        mal: 
+        mal:
           dekstro: prawo
           ekspliko: "przeciwieństwo, odwrotność"
           fermi: zamykać
           maldekstro: lewo
           malfermi: otwierać
-        mis: 
+        mis:
           ekspliko: "błędnie, niewłaściwie, źle, nietrafnie, nieprzydatnie, nieodpowiednio"
           kompreni: rozumieć
           miskompreni: "błędnie rozumieć"
@@ -78,7 +78,7 @@ pl:
           misuzo: "błędne użycie"
           paŝo: krok
           uzo: użycie
-        pra: 
+        pra:
           ekspliko: "bardzo dawno w czasie"
           historio: historia
           nepo: wnuk
@@ -86,21 +86,21 @@ pl:
           prahistorio: prahistoria
           prahomo: praczłowiek
           pranepo: prawnuk
-        re: 
+        re:
           ekspliko: "powtórzenie, powtórna okazja"
           reaperi: "pojawić się  znowu"
           refari: "powtórnie zrobić"
           reteni: "trzymać na nowo"
           reveni: wracać
         titolo: Przedrostki
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "ciągła czynność"
           parolado: przemówienie
           paroli: rozmawiać
           rigardadi: oglądać
           rigardi: patrzeć
-        an: 
+        an:
           brazilano: Brazylijczyk
           ekspliko: "członek grupy, partii, religii; mieszkaniec kraju, lub  regionu"
           eŭropano: Europejczyk
@@ -108,25 +108,25 @@ pl:
           kristano: chrześcijanin
           kristo: Chrystus
           usonano: Amerykanin
-        ar: 
+        ar:
           ekspliko: "zbiór, zbiorowość"
           vortaro: słownik
           vorto: słowo
           ŝafaro: "stado owiec"
           ŝafo: owca
-        aĉ: 
+        aĉ:
           domaĉo: chałupa
           domo: dom
           ekspliko: "zły z fizycznego, lub estetycznego  punktu widzenia"
           skribaĉi: bazgrać
           skribi: pisać
-        aĵ: 
+        aĵ:
           dolĉa: słodki
           dolĉaĵo: "słodka rzecz"
           ekspliko: "konkretna rzecz wyrażonej idei  w  rdzeniu słowa."
           pentraĝo: obraz
           pentri: malować
-        ebl: 
+        ebl:
           ekspliko: "bierna możliwość"
           kredebla: wiarygodny
           kredi: wierzyć
@@ -134,19 +134,19 @@ pl:
           legi: czytać
           videbla: widoczny
           vidi: widzieć
-        ec: 
+        ec:
           amikeco: przyjaźń
           amiko: przyjaciel
           ekspliko: "stan, lub abstrakcyjna cecha odnosząca się do idei rdzenia."
           mola: miękki
           moleco: miękkość
-        eg: 
+        eg:
           ekspliko: duży
           ridegi: "głośno śmiać się"
           ridi: "śmiać się"
           ventego: wicher
           vento: wiatr
-        ej: 
+        ej:
           ekspliko: "miejsce akcji, lub miejsce przebywania  dla   osób określonych w rdzeniu."
           oficejo: "urząd - budynek, miejsce"
           ofico: urząd
@@ -154,26 +154,26 @@ pl:
           preĝi: "modlić się"
           ĉevalejo: stajnia
           ĉevalo: koń
-        em: 
+        em:
           babilema: gadatliwy
           babili: gawędzić
           ekspliko: "tendencja, skłonność"
           ŝparema: oszczędny
           ŝpari: oszczędzać
-        end: 
+        end:
           ekspliko: "bierny  obowiązek"
           farenda: "konieczny do zrobienia"
           fari: robić
           legenda: "konieczny do przeczytania"
           legi: czytać
         titolo: Przyrostki
-        ĉj: 
+        ĉj:
           ekspliko: "przyrostek spieszczający męskie imię"
           jozefo: Józef
           joĉjo: Józio
           patro: ojciec
           paĉjo: tatuś
-      superlativo: 
+      superlativo:
         ekspliko-1: "Stopień najwyższy jest wtedy, kiedy  jeden osobnik wykazuje cechy w stopniu najwyższym w porównaniu z  wszystkimi innymi."
         ekspliko-2: "Kiedy są dwie osoby, lub rzeczy, użyj  wyrażenia  WIĘCEJ  lub MNIEJ. Tak samo porównuje się dwie grupy np: chłopcy są silniejsi od dziewczynek."
         frazo-1: "Z wszystkich moich dzieci Ernest jest najmłodszy."

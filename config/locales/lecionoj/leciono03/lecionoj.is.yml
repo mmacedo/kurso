@@ -1,48 +1,48 @@
---- 
-is: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+is:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Raðtölur eru myndaðar með því að bæta endingunni \"a\" við frumtölur.  Raðtölur geta bætt við sig fleirtöluendingunni \"j\" og þolfallsendingunni \"n\"."
-        frazoj: 
+        frazoj:
           frazo-1: "Fyrstu drengirnir koma."
           frazo-2: "Hann veiddi þriðja skordýrið."
         titolo: "Lýsingarorð mynduð af töluorðum"
-        vortoj: 
+        vortoj:
           dek: tíu
           dek-naŭ: nítján
           dek-naŭa: nítjándi
           deka: tíundi
           tri: þrír
           tria: þriðji
-      adverboj: 
+      adverboj:
         ekspliko-1: "Atviksorð hafa svipað hlutverk og lýsingarorð, en í stað þess að lýsa nafnorði, lýsa þau sagnorði eða lýsingarorði.  Þau taka ekki með sér fleirtöluendinguna \"j\".  Yfirleitt  lýsa þau á hvern hátt eitthvað gerist, orsök einhvers, tíma og stað."
         ekspliko-2: "Í esperanto enda atviksorð oftast á \"e\" (það gerist alltaf þegar þau eru dregin af öðru orði).  Aðalmerkingu orðstofns má tákna á mismunandi hátt með því að breyta endingunni."
-        frazoj: 
+        frazoj:
           frazo-sana: "Hann er heilbrigður."
           frazo-sane: "Hann lifir á heilbrigðan hátt."
           frazo-sani: "Honum heilsast vel."
           frazo-sano: "Hann hefur góða heilsu."
         rimarkigo: "Atviksorðið fer venjulega á undan orði sem það á við."
         titolo: Atviksorð
-        vortoj: 
+        vortoj:
           sana: heilbrigður
           sane: "á heilbrigðan hátt"
           sani: "að vera heilbrigður"
           sano: heilbrigði
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Atviksorð eru mynduð af töluorðum með endingunni \"e\":"
-        frazoj: 
+        frazoj:
           frazo-1: "Fyrst drekkur hann vatn (framtíð)."
         titolo: "Atviksorð mynduð af töluorðum"
-        vortoj: 
+        vortoj:
           du: tveir
           due: "í öðru lagi"
           unu: einn
           unue: "fyrst, í fyrstu"
-      numeraloj: 
+      numeraloj:
         titolo: Töluorð
-      vortaro03: 
+      vortaro03:
         atendi: "bíða, búast við"
         demandi: spyrja
         fumi: reykja

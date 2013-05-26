@@ -1,98 +1,98 @@
---- 
-de: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+de:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Das hier sind sehr nützliche kleine Wörter eines in sich geschlossenen Regelwerks. Man nennt sie Korrelativa oder Tabellwörter. Ihre Bedeutung ergibt sich jeweils aus einer Kombination von Stamm (Präfix) und Endung (Suffix)."
         titolo: "Beziehungswörter (Korrelativa)"
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: "Zeit (temporal)"
-        i: 
+        i:
           frazo: "Sind Sie einmal [irgendwann] in Brasilien gewesen? [W.: Besuchten Sie .. B.?]"
           vorto: "irgendwann, einst"
-        ki: 
+        ki:
           frazo: "Wann wirst du das Buch kaufen? — Morgen früh."
           vorto: "wann, wenn"
-        neni: 
+        neni:
           frazo: "Nein,  das [jenes] Land habe ich nie besucht."
           vorto: "nie, niemals"
-        ti: 
+        ti:
           frazo: "Ich lernte [damals] Esperanto, als ich auf die Schule ging. [.. in der Schule war]."
           vorto: "dann, damals, da"
-        ĉi: 
+        ĉi:
           frazo: "Dennoch wünschte ich immer, es zu besuchen."
           vorto: immer
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Beigefügtes \"ĉi\" zeigt Nähe an."
         frazo-1: "Was ist dies?"
         frazo-2: "Dies ist ein Tier."
         frazo-3: "Dies ist mein Haus."
         rimarkigo: |-
             Die Korrelativa auf -o ("kio", "tio" usw.) bilden einen Akkusativ (-n), aber keinen Plural (-j).
-            Dagegen kann man an -a oder -u beides (-j/-n) anhängen. 
+            Dagegen kann man an -a oder -u beides (-j/-n) anhängen.
             Fragewörter ("kio", "kie" usw.) leiten Ergänzungsfragen ein. [Bei diesen kein "ĉu" setzen!]
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Ort (lokal)"
-        i: 
+        i:
           ekspliko: Unbestimmt
           frazo: "Mein Bleistift liegt [ist] irgendwo im Garten."
           vorto: irgendwo
-        ki: 
+        ki:
           ekspliko: Fragend
           frazo: "Wo wohnst du? — Ich wohne in Kanada."
           vorto: wo
-        neni: 
+        neni:
           ekspliko: Verneinend
           frazo: "Nirgends fand ich mein Buch."
           vorto: nirgends
-        ti: 
+        ti:
           ekspliko: Hinweisend
           frazo: "Ich wohne dort, wo das Auto steht [ist]."
           vorto: "da, dort"
-        ĉi: 
+        ĉi:
           ekspliko: Allumfassend/gesamt
           frazo: "Ein Dummkopf schreibt überall seinen Namen hin. [Narrenhände beschmieren Tisch u. ..]"
           vorto: überall
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Angelegenheit, Gegenstand, Sache"
-        i: 
+        i:
           frazo: "Etwas ist passiert/geschehen! [Prät.]"
           vorto: (irgend)etwas
-        ki: 
+        ki:
           frazo: "Was ist Geografie? — Geografie ist eine Wissenschaft."
           vorto: was
-        neni: 
+        neni:
           frazo: "Besser etwas (Gutes) als (gar) nichts. [gutes Etwas .. Nichts]."
           vorto: nichts
-        ti: 
+        ti:
           frazo: "Was ist das? — Das ist ein Musikinstrument."
           vorto: "das, jenes"
-        ĉi: 
+        ĉi:
           frazo: "Ich vergaß alles."
           vorto: alles
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Benanntes Einzelwesen (Individuum): Person/Sache (Mehrzahl: -uj)."
-        i: 
+        i:
           ekspliko: Unbestimmt
           frazo: "Es kamen einige [irgendwelche] Leute [Personen], die ich nicht kenne."
           vorto: "irgendeiner, jemand"
-        ki: 
+        ki:
           ekspliko: "Fragend (Fragepronomen/-adverb) oder bezüglich (Relativpronomen/-adverb)."
           frazo: "Wer war dein erster Lehrer? — Herr Karl."
           vorto: "wer?  welcher, -e, -es?; der, die das [welcher, -e, -es]"
-        neni: 
+        neni:
           ekspliko: Verneinend
           frazo: "Wer kam gestern? — Gestern kam niemand."
           vorto: "niemand, keiner"
-        ti: 
+        ti:
           ekspliko: Hinweisend
           frazo: "Das Buch (da) ist sehr gut."
           vorto: "der [die, das]; jener [jene, jenes]"
-        ĉi: 
+        ĉi:
           ekspliko: Allumfasssend/gesamt
           frazo: "Jeder Mensch liebt sich selbst."
           vorto: "jeder,-e,-es [Person u. benannte Sache]"
-      vortaro05: 
+      vortaro05:
         al: zu
         anonco: Anzeige
         aĉeti: kaufen

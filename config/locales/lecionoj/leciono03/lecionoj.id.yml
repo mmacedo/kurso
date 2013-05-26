@@ -1,48 +1,48 @@
---- 
-id: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+id:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Nomor urutan berbentuk dengan menambahkan akhiran \"a\" pada angka.  Karena nomor urutan punya akhiran \"a\", mereka bisa menerima bentuk jamak akhiran \"j\" dan akusatip \"n\"."
-        frazoj: 
+        frazoj:
           frazo-1: "Anak laki-laki pertama sedang datang."
           frazo-2: "Dia menangkap serangga yang ketiga."
         titolo: "Kata-Sifat yang Berbentuk dari Angka"
-        vortoj: 
+        vortoj:
           dek: sepuluh
           dek-naŭ: "sembilan belas"
           dek-naŭa: "kesembilan belas"
           deka: kesepuluh
           tri: tiga
           tria: ketiga
-      adverboj: 
+      adverboj:
         ekspliko-1: "Kata-keterangan berfungsi sama dengat kata sifat, tetapi menambahkan kata-kerja dan kata sifat daripada kata-benda.  Kata-keterangan tidak berubah untuk bentuk jamak.  Biasanya mereka akan menguraikan cara, alasan, waktu atau tempat."
         ekspliko-2: "Dalam bahasa Esperanto, kata-kata keterangan biasanya berakhir dengan \"e\" (ini selalu betul kalau  kata-keterangan itu berasal dari kata lain).   Dalam bahasa ini, satu kata bisa menjadi banyak arti, dengan menambahkan kata akhiran."
-        frazoj: 
+        frazoj:
           frazo-sana: "Dia sehat."
           frazo-sane: "Dia hidup dengan cara yang sehat."
           frazo-sani: "Dia sehat."
           frazo-sano: "Kesehatannya baik."
         rimarkigo: "Kata-keterangan biasanya ditempatkan lebih dulu dari kata kerja."
         titolo: Kata-Keterangan
-        vortoj: 
+        vortoj:
           sana: sehat
           sane: "dengan cara yg sehat"
           sani: "mempunyai kesehatan"
           sano: kesehatan
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Kata-keterangan dapat berbentuk dengan menambahkan akhiran \"e\" pada angka."
-        frazoj: 
+        frazoj:
           frazo-1: "Dia pertama akan minum air."
         titolo: "Kata-Keterangan yang Berbentuk dari Angka"
-        vortoj: 
+        vortoj:
           du: dua
           due: kedua
           unu: satu
           unue: pertama
-      numeraloj: 
+      numeraloj:
         titolo: Angka
-      vortaro03: 
+      vortaro03:
         atendi: menunggu
         demandi: menanya
         fumi: merokok

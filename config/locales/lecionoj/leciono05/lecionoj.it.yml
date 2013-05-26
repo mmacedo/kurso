@@ -1,95 +1,95 @@
---- 
-it: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+it:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Ecco alcune particelle molto utili (che appartengono ad un sistema regolare e conchiuso), denominate \"correlativi\". Il significato di ciascun correlativo risulta dalla combinazione dei significati della sua prima parte (prefisso) e della sua terminazione (suffisso)."
         titolo: Correlativi
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: "Denota tempo"
-        i: 
+        i:
           frazo: "Hai mai visitato il Brasile?"
           vorto: "Una volta; Un tempo; Mai (\"Mai\" ha qui il senso di: \"qualche volta\")"
-        ki: 
+        ki:
           frazo: "Quando acquisterai il libro? — Domattina."
           vorto: Quando
-        neni: 
+        neni:
           frazo: "No, non ho mai visitato quel paese."
           vorto: "Mai; Non mai"
-        ti: 
+        ti:
           frazo: "Ho studiato l'esperanto [allora] quando ero a scuola."
           vorto: "Allora; A quel tempo."
-        ĉi: 
+        ĉi:
           frazo: "Tuttavia, ho sempre desiderato visitarlo."
           vorto: Sempre
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Questa particella indica vicinanza a chi parla; può essere collocata sia davanti - sia dietro - al correlativo cui si riferisce:"
         frazo-1: "Cos'è questo / questa cosa?"
         frazo-2: "Questa [lett.: Questo / Questa cosa] è una bestia."
         frazo-3: "Questa è la mia casa."
         rimarkigo: "I correlativi che terminano in -o (kio, tio, etc.) possono ricevere la terminazione dell'accusativo (-n), ma non quella del plurale (-j). Quelli che terminano in -a e -u possono ricevere sia la terminazione -n, sia la terminazione -j. Davanti ai correlativi interrogativi (kiu, kio, kie, etc.) non si usa la particella \"ĉu\"."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Denota un luogo."
-        i: 
+        i:
           ekspliko: "Denota indefinitezza."
           frazo: "La mia matita è da qualche parte nel giardino."
           vorto: "In qualche luogo; Da qualche parte."
-        ki: 
+        ki:
           ekspliko: "Denota una domanda; oppure una relazione con la proposizione precedente."
           frazo: "Dove abiti? — Abito in Canada."
           vorto: Dove
-        neni: 
+        neni:
           ekspliko: "Denota negazione."
           frazo: "Non ho trovato il mio libro da nessuna parte. (-> B2h)"
           vorto: "In nessun luogo; Da nessuna parte."
-        ti: 
+        ti:
           ekspliko: "Usato per indicare, mostrare."
           frazo: "Io abito [là], dove c'è l'automobile."
           vorto: "Là; Lì; Colà"
-        ĉi: 
+        ĉi:
           ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
           frazo: "Lo stolto scrive il proprio nome dappertutto."
           vorto: "In ogni luogo; Dappertutto; In ogni dove."
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Denota un oggetto, una cosa, un affare."
-        i: 
+        i:
           frazo: "E' accaduto qualcosa!"
           vorto: Qualcosa
-        ki: 
+        ki:
           frazo: "Cos'è la geografia? — La geografia è una scienza."
           vorto: "Che cosa?; [Il] che; Ciò che; La qual cosa"
-        neni: 
+        neni:
           frazo: "Meglio qualcosa di nulla."
           vorto: "Niente; Nulla"
-        ti: 
+        ti:
           frazo: "Che è quello (quella cosa)? — [Quello] è uno strumento musicale."
           vorto: "Ciò; Quello; Quella cosa"
-        ĉi: 
+        ĉi:
           frazo: "Ho dimenticato ogni cosa."
           vorto: "Ogni cosa; Tutto."
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Denota un individuo. Se gli individui sono più d'uno, prende la terminazione -j del plurale."
-        i: 
+        i:
           ekspliko: "Denota indefinitezza."
           frazo: "Vennero [talune] persone che non conosco."
           vorto: "Qualcuno; [Cert]uno; Taluno"
-        ki: 
+        ki:
           ekspliko: "Denota una domanda; oppure una relazione con la proposizione precedente."
           frazo: "Chi fu / è stato il tuo primo insegnante? — Il signor Carlo."
           vorto: "Chi; Colui / Colei che"
-        neni: 
+        neni:
           ekspliko: "Denota negazione."
           frazo: "Chi è venuto ieri? — Nessuno [è venuto ieri]."
           vorto: Nessuno
-        ti: 
+        ti:
           ekspliko: "Usato per indicare, mostrare."
           frazo: "Quel libro è molto buono."
           vorto: "Quello / a; Colui / Colei"
-        ĉi: 
+        ĉi:
           ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
           frazo: "Ogni persona ama se stessa (ognuno ama se stesso)."
           vorto: "Ognuno; Ogni; Ciascheduno."
-      vortaro05: 
+      vortaro05:
         al: a
         anonco: "[un] annuncio"
         aĉeti: acquistare

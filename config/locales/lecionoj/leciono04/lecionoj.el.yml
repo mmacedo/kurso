@@ -1,24 +1,24 @@
---- 
-el: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+el:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Για να πείτε τι ημερομηνία είναι, ακολουθήστε το πρότυπο. Οι λέξεις \"tago\" και \"en la jaro\" εννοούνται και, συνήθως, δε χρειάζεται να αναφερθούν:"
         titolo: Ημερομηνίες
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Το ψωμί είναι ξερό."
           titolo: "Κατάφαση:"
-        demando: 
+        demando:
           frazo-1: "Το ψωμί είναι ξερό;"
           titolo: "Ερώτηση:"
         ekspliko: "Κάθε ερώτηση σχηματίζεται με βάση καταφατική ή αρνητική πρόταση και με την απλή προσθήκη του μορίου \"Ĉu\" στην αρχή της πρότασης. Προσέξτε ότι, όπως και στα ελληνικά, η σειρά των λέξεων στην Εσπεράντο δεν αλλάζει. Χρειάζεται μόνο να τοποθετηθεί η λέξη \"Ĉu\" στην αρχή της πρότασης. Αυτό ισχύει για κάθε ερώτηση που μπορεί να απαντηθεί με τις λέξεις \"jes\" ή \"ne\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Όχι, το ψωμί δεν είναι ξερό."
           frazo-pozitiva: "Ναι, το ψωμί είναι ξερό."
           titolo: "Απάντηση:"
         titolo: "Ερωτηματικές προτάσεις"
-      monatoj: 
+      monatoj:
         aprilo: Απρίλιος
         aŭgusto: Αύγουστος
         decembro: Δεκέμβριος
@@ -32,7 +32,7 @@ el:
         oktobro: Οκτώβριος
         septembro: Σεπτέμβριος
         titolo: "Μήνες του έτους"
-      salutoj: 
+      salutoj:
         saluto-1: Γεια!
         saluto-10: "Καλή όρεξη!"
         saluto-11: "Επίσης, ευχαριστώ!"
@@ -48,12 +48,12 @@ el:
         saluto-8: "Αρκετά καλά."
         saluto-9: "Όχι πολύ καλά."
         titolo: Χαιρετισμοί
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: χθες
           hodiaŭ: σήμερα
           morgaŭ: αύριο
-        semajno: 
+        semajno:
           dimanĉo: Κυριακή
           lundo: Δευτέρα
           mardo: Τρίτη
@@ -62,9 +62,9 @@ el:
           vendredo: Παρασκευή
           ĵaŭdo: Πέμπτη
         titolo: "Ημέρες της εβδομάδας"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Διαβάστε το παρακάτω κείμενο που έχει γραφτεί από κάποιο μαθητή της Εσπεράντο και προσπαθήστε να το κατανοήσετε με τη βοήθεια του λεξιλογίου."
-        vortaro: 
+        vortaro:
           alia: άλλος
           antaŭ: "πριν από"
           facila: εύκολος
@@ -72,7 +72,7 @@ el:
           komenci: αρχίζω
           lerni: μαθαίνω
           tre: πολύ
-      vortaro04: 
+      vortaro04:
         infano: παιδί
         kaj: και
         kolekti: "συλλέγω, μαζεύω"

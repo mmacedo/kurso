@@ -1,11 +1,11 @@
---- 
-id: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+id:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Latihan Angka"
         numeraloj-ekzercoj-instrukcioj: "Ketiklah angka yang sama seperti kata-teks dalam tempat yang tersedia.  Tekanlah \"Enter\" atau klik tombol bilamana sudah siap.  Coba berhasil sekurang-kurangnya 70%."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Dia (laki-laki) cinta dia (perempuan itu)."
         frazo02: "2. Dia (laki-laki) cinta adik/kakak perempuannya."
         frazo03: "3. Dia (perempuan) cinta dia (laki-laki)."

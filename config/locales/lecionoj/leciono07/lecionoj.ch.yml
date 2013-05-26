@@ -1,11 +1,11 @@
---- 
-ch: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+ch:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: 介词又叫前置词，表示它后面的词与前面的词之间的关系，或者是与前面的句子成份之间的关系。
         titolo: "介词 I"
-        vortoj: 
+        vortoj:
           al: 向
           da: 用在量词后和可量名词之间，以表示其后名词的数量。
           de: 的
@@ -18,9 +18,9 @@ ch:
           sur: 在……上
           ĉe: 在……身边，紧挨着……
           ĝis: 直到……为止
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "介词 II"
-        vortoj: 
+        vortoj:
           anstataŭ: 代替
           antaŭ: 在……前
           apud: 在……旁
@@ -39,7 +39,7 @@ ch:
           tra: 通过，经过
           trans: 在……那边，在……的对面
           ĉirkaŭ: 在……周围
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: 在第二课中我们看到，“-n”用于直接宾语的词尾，表示宾语的补充，我们称它为宾格。例如：
         ekspliko-2: 当一个句子有两个宾语时，其中一个必须是间接宾语，例如：
         ekspliko-3: 上面的句子中必须使用介词，其间接宾语不能使用宾格。下面再看一些例子：
@@ -56,8 +56,8 @@ ch:
         frazo-5: 他喝了一杯咖啡。
         frazo-6: 从我面前走开！
         titolo: "介词 III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: 来
           aŭtobuseto: 小汽车
           danki: 感谢
@@ -72,8 +72,8 @@ ch:
           sidi: 坐
           tagmanĝo: 午餐
           viziti: 参观，访问
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: 北极，北极区
           Kanado: 加拿大
           admiri: 赞赏，钦佩

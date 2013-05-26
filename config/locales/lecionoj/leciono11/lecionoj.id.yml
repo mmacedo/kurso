@@ -1,8 +1,8 @@
---- 
-id: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+id:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Selain cara melakukan pertanyaan yg telah kita mempelajari dalam pelajaran 2, ada cara yg lain melakukan pertanyaan dalam bahasa Esperanto:"
         frazo-1: "Apakah kotak itu biru?"
         frazo-2: "Apakah anda akan pergi ke bioskop?"
@@ -11,7 +11,7 @@ id:
         frazo-5: "Kotak itu tidak biru, betul?"
         frazo-6: "Anda tidak akan pergi ke bioskop, betul?"
         titolo: "Bentuk pertanyaan lain"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Adalah beberapa perkataan dalam bahasa Esperanto yang memakai sepasang kata.  Arti itu yg menarik:"
         jen: "Menunjukkan pergantian"
         jen-frazo-1: "Anak laki-laki itu kadang-kadang menangis, kadang2  tertawa."
@@ -29,11 +29,11 @@ id:
         ĉu: "Menunjukkan  kemungkinan, diantaranya pemilihan tak penting, sama, bebas atau tak pasti."
         ĉu-frazo-1: "Karena takut atau rasa harga diri, dia tidak menjawab."
         ĉu-frazo-2: "Hujan atau tidak (apapun yg terjadi) saya sungguh akan pergi."
-      horoj: 
+      horoj:
         je-kioma: "Jam berapa anda akan menelpon?"
         kioma-estas: "Jam berapa?"
         titolo: Jam
-      interjekcioj: 
+      interjekcioj:
         bis: "Sekali lagi!"
         fi: "Tak tahu malu!"
         ha-1: "Ah! O!"
@@ -45,7 +45,7 @@ id:
         titolo: "Kata Seru"
         ve: Aduh!
         ve-al-mi: "Kasihan diriku!"
-      mallongiloj: 
+      mallongiloj:
         bv: silahkan
         e-isto: "orang yg berbicara Esp."
         e-o: "bahasa Esperanto"
@@ -57,7 +57,7 @@ id:
         str: jalan
         te: yaitu
         titolo: Singkatan
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "ajn (menunjukkan dgn tekanan keadaan tak tentu atau tak penting - pernah, sewaktu-waktu, sama sekali"
         almenaŭ: sekurang-kurangnya
         ambaŭ: berdua

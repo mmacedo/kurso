@@ -1,11 +1,11 @@
---- 
-vi: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+vi:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Nghe hiểu, bài tập 1"
         auxdkompreno01-instrukcio: "Bạn sẽ nghe một từ. Hãy nghe cẩn thận, sau đó bấm vào nút có từ mà bạn nghĩ là bạn đã nghe thấy. Nếu câu trả lời của bạn chính xác, nút bấm sẽ biến mất khỏi bảng điều khiển; nếu không, bạn sẽ nghe lại âm đó trong suốt phần bài tập. Bạn phải đạt được độ chính xác ít nhất 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Nước chè thì ấm."
         frazo02: "2. Giáo viên là một người cha."
         frazo03: "3. Bố bạn (thì) tốt."

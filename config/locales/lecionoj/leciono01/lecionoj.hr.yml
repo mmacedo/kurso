@@ -1,19 +1,19 @@
---- 
-hr: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+hr:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: "Lijep, -a, -o"
         ekspliko: "Završavaju sa \"a\":"
         sana: "Zdrav, -a, -o"
         titolo: Pridjevi
         varma: "Topao, topla, toplo"
-      alfabeto: 
+      alfabeto:
         ekspliko: "U Esperantu se riječi pišu točno onako kako se izgovaraju, a izgovaraju se upravo prema glasu svakog napisanog slova. Naglasak je uvijek na predzadnjem slogu. Pritisnite na pojedini gumb pa ćete čuti izgovor riječi. Svaku riječ glasno ponovite."
         titolo: "Esperantska abeceda"
-      artikolo: 
+      artikolo:
         ekspliko: "Neodređeni član u Esperantu ne postoji. Član \"la\" stavlja se ispred određenih imenica svih rodova, padeža i brojeva. Ako se želi naznačiti neodređeni smisao riječi, onda se član izostavi."
-        frazoj: 
+        frazoj:
           frazo-1: "Vaši sinovi su naši prijatelji."
           frazo-2: "(taj) Kruh je suh."
           frazo-3: "Toplo mlijeko je dobro."
@@ -22,7 +22,7 @@ hr:
           frazo-6: "Otac je dobar."
           titolo: Rečenice
         titolo: Član
-        vortoj: 
+        vortoj:
           floroj: "(neko) Cvijeće"
           knabo: "(neki) Dječak"
           la-floroj: "(ovo) Cvijeće"
@@ -31,33 +31,33 @@ hr:
           la-patroj: "(ovi) Očevi"
           pano: "(neki) Kruh"
           patroj: "(nekoji) Očevi"
-      nomoj: 
+      nomoj:
         amiko: Prijatelj
         ekspliko: "Završavaju sa slovom \"o\":"
         frato: Brat
         kafo: Kava
         titolo: Imenice
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Oni, one, ona"
           ni: Mi
           titolo: Množina
           vi: Vi
-        singularo: 
+        singularo:
           li: "On"
           mi: Ja
           titolo: Jednina
           vi: Ti
           ĝi: "(neodređena zamjenica, kojom se označuje stvar ili pojava gdje spol ili rod nije posebno naznačen)"
           ŝi: Ona
-        specialaj: 
+        specialaj:
           oni: "Bezlična zamjenica (prevodi se sa \"ljudi\" ili \"se\") a koristi se kada se ne želi ili ne može odrediti vršitelj radnje ili onaj koji trpi radnju."
           si: "\"Se\", \"sebe\" (Povratna zamjenica trećeg lica jednine i množine kada radnja prelazi na sam subjekt)"
           titolo: "Posebne zamjenice"
         titolo: "Lične zamjenice"
-      pluralo: 
+      pluralo:
         ekspliko: "Množina se pravi dodavanjem slova \"j\" na kraju imenica i pridjeva:"
-        pluralo: 
+        pluralo:
           amikoj: prijatelji
           belaj: "lijepi, -e, -a"
           belaj-floroj: "lijepi cvjetovi"
@@ -66,7 +66,7 @@ hr:
           patroj: očevi
           sanaj: zdravi
           sanaj-patroj: "zdravi očevi"
-        singularo: 
+        singularo:
           amiko: prijatelj
           bela: "lijep, -a, -o"
           bela-floro: "lijepi cvijet"
@@ -76,9 +76,9 @@ hr:
           sana: "zdrav, -a, -o"
           sana-patro: "zdrav otac"
         titolo: Množina
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Posvojne zamjenice se tvore dodavanjem pridjevskog završetka (\"a\") ličnim zamjenicama."
-        posedaj: 
+        posedaj:
           ilia: "njihov, -a, -o"
           lia: "njegov, -a, -o"
           mia: "moj, -a, -e"
@@ -86,27 +86,27 @@ hr:
           via: "tvoj, -a, -e"
           ĝia: "njegov (za stvari, pojave i t. d.)"
           ŝia: "njezin, -a, -o"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "I posvojne zamjenice dobivaju  završetak \"j\" u množini:"
           mia-amiko: "Moj prijatelj"
           miaj-amikoj: "Moji prijatelji"
           nia-floro: "Naš cvijet"
           niaj-floroj: "Naši cvjetovi"
         titolo: "Posvojne zamjenice"
-      verboj: 
+      verboj:
         ekspliko: "Neodređeni oblik (infinitiv) ima nastavak -i: esti (biti); prošlo vrijeme (preterit) završava sa -is: mi estis (ja sam bio); sadašnje vrijeme (prezent) dobiva -as: mi estas (ja sam); buduće vrijeme (futur) završava sa -os: mi estos (ja ću biti). Ostala glagolska vremena ćemo učiti poslije.\n"
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Oni su"
           ni-estas: "Mi smo"
           oni-estos: "Bit' će (neodređeno)"
           vi-estis: "Ti si bio; Vi ste bili"
-        singularo: 
+        singularo:
           li-estis: "On je bio"
           mi-estas: "Ja sam"
           ĝi-estos: "Ono će biti"
           ŝi-estas: "Ona je"
         titolo: Glagoli
-      vortaro01: 
+      vortaro01:
         amiko: prijatelj
         bela: "lijep, -a, -o"
         biskvito: biskvit

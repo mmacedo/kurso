@@ -1,11 +1,11 @@
---- 
-sk: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+sk:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Posluchové cvičenie |"
         auxdkompreno01-instrukcio: "V nasledujúcom cvičení budete počuť slovo a budete musieť kliknúť na tlačidlo  prislúchajúcemu správnemu slovu. Ak trafíte, tlačidlo zmizne, v opačnom prípade budete slovo počuť ešte raz v priebehu cvičenia. Musíte trafiť aspoň 70 percent."
-      pagxo12: 
+      pagxo12:
         frazo01: "Ten čaj je teplý."
         frazo02: "Učiteľ je otec."
         frazo03: "Tvoj otec bol dobrý."

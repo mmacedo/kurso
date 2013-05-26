@@ -1,11 +1,11 @@
---- 
-de: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+de:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "(a) Indikativ - 'Anzeigeform': In der 1. - 3. Person endet das Verb durchweg  im Präsens auf -as, im Präteritum auf -is, im Futur auf -os (Infinitiv stets auf -i).  Außerdem gelten als  Modi:"
         titolo: "Verbformen als Modi: (a) Indikativ, (b) Konditional, (c) Imperativ"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Der Imperativ bezieht sich normalerweise auf die 2. Person (du/ihr) - und zwar ohne Personalpronomen. Dieses steht jedoch bei der 1. oder 3. Person [oft Formen des Wünschens]."
         ekspliko-2: |-
             Die Endung -u verwendet man bei Aufforderungen (Befehl, Wunsch u. ä.).
@@ -19,8 +19,8 @@ de:
         frazo-7: "Ich rate (ihm) zu kommen [dass er kommen soll]."
         frazo-8: "Es ist möglich, dass er kommt (wörtl.: kommen wird)."
         titolo: "(c) Imperativ - 'Befehlsform' (-u)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Ich muss verstehen."
           devas-veni: "Ich muss kommen."
           devi: müssen
@@ -30,29 +30,29 @@ de:
           volas-kompreni: "Ich will verstehen."
           volas-veni: "Ich will kommen."
           voli: wollen
-        scio: 
+        scio:
           frazo-koni-1: "Ich kenne..."
           frazo-koni-2: "Kennst du Johannes?"
           frazo-scii-1: "Ich weiß..."
           frazo-scii-2: "Kennst du Esperanto?"
         titolo: "Sehr wichtig: Modalverben"
-        ŝato: 
+        ŝato:
           frazo-ami: "Ich liebe (irgend)jemand [irgendeinen]."
           frazo-plaĉi-1: "Etwas oder jemand gefällt mir."
           frazo-plaĉi-2: "Bücher gefallen mir."
           frazo-ŝati: "Ich schätze (irgend)etwas."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Wenn ich reich wäre, würde ich viel reisen."
         frazo-2: "Wir würden das Brot essen, wenn es gut wäre."
         titolo: "(b) Konditional -  'Bedingungsform' (-us) ['Konjunktiv']"
-      nerekta: 
+      nerekta:
         ekspliko: "In der abhängigen Rede benutzt man die gleichen Verbformen wie in der direkten Rede, z. B.:"
         frazo-1: "Er sagte: \"Ich komme von New York.\""
         frazo-2: "Er sagte, dass er von New York komme."
         frazo-3: "Sie sagte: \"Ich werde nach Paris reisen.\""
         frazo-4: "Sie sagte, dass sie nach Paris reisen werde."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Ich werde lesen."
           frazo-presenco: "Ich lese (bin lesend)."
           frazo-preterito: "Ich habe gelesen."
@@ -78,7 +78,7 @@ de:
         frazo-7: "Die geschlossene Tür."
         frazo-8: "[Eine] aufgehende Sonne."
         frazo-9: "Die (damaligen) Nachkommen/Überlebenden."
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Ich lese das Buch = Das Buch wird von mir gelesen."
           frazo-futuro: "Das Buch wird gelesen werd."
           frazo-presenco: "Das Buch wird gelesen."
@@ -88,10 +88,10 @@ de:
           preterito: "Präteritum: -it"
           titolo: Passiv
         titolo: Partizipien
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" bezieht sich als \"rückbezügliches Pronomen\" der 3. Person auf das Subjekt des Satzes zurück."
         ekspliko-2: |-
-            "Sia" kann nicht Begleiter des Subjekts selbst sein. Dann gebraucht man "lia, ŝia, ĝia oder ilia". 
+            "Sia" kann nicht Begleiter des Subjekts selbst sein. Dann gebraucht man "lia, ŝia, ĝia oder ilia".
             In den unteren Beispielen bezieht sich "filo" auf "li".
         frazo-1: "Hans wusch sich (selbst)."
         frazo-2: "Hans wusch ihn (einen anderen)."

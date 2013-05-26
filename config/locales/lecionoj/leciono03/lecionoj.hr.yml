@@ -1,48 +1,48 @@
---- 
-hr: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+hr:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Redni brojevi se tvore nastavkom \"a\" na glavni broj. Pošto završavaju sa \"a\", oni mogu dobivati nastavke za množinu (-j) i za akuzativ (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "Prvi dječaci dolaze."
           frazo-2: "On je uhvatio trećeg kukca."
         titolo: "Brojčani pridjevi"
-        vortoj: 
+        vortoj:
           dek: deset
           dek-naŭ: devetnaest
           dek-naŭa: "devetnaesti, -a, -o"
           deka: "deseti, -a, -o"
           tri: tri
           tria: "treći, -a, -e"
-      adverboj: 
+      adverboj:
         ekspliko-1: "Prilozi imaju sličnu ulogu kao i pridjevi, ali oni pobliže označuju glagole i pridjeve; ne dobivaju nastavak \"j\". Pomoću njih se izražava način, uzrok, vrijeme ili mjesto radnje."
         ekspliko-2: "U Esperantu prilozi završavaju sa \"e\". Tvorba različitih vrsti riječi moguć je jednostavnom promjenom nastavka na korijenu riječi."
-        frazoj: 
+        frazoj:
           frazo-sana: "On je zdrav."
           frazo-sane: "On zdravo živi."
           frazo-sani: "On je zdrav."
           frazo-sano: "On ima dobro zdravlje."
         rimarkigo: "Prilog se najčešće stavlja ispred riječi koju pobliže označuje."
         titolo: Prilozi
-        vortoj: 
+        vortoj:
           sana: "zdrav, -a, -o"
           sane: zdravo
           sani: "biti zdrav"
           sano: zdravlje
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Dodajući brojevima \"e\" tvore se prilozi:"
-        frazoj: 
+        frazoj:
           frazo-1: "On će najprije (prvo) piti vodu."
         titolo: "Brojčani prilozi"
-        vortoj: 
+        vortoj:
           du: dva
           due: drugo
           unu: jedan
           unue: prvo
-      numeraloj: 
+      numeraloj:
         titolo: Brojevi
-      vortaro03: 
+      vortaro03:
         atendi: čekati
         demandi: pitati
         fumi: pušiti

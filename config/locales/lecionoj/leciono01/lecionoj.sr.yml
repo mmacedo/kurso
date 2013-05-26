@@ -1,19 +1,19 @@
---- 
-sr: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+sr:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: "Леп, лепа, -о"
         ekspliko: "Завршаваjу се словом \"a\":"
         sana: "Здрав, -а, -о"
         titolo: Придеви
         varma: "Топао, -ла, -лo"
-      alfabeto: 
+      alfabeto:
         ekspliko: "У есперанту важи правило: Пиши као што говориш, читај као што је написано. Акценат је увек на претпоследњем слогу (кликните на дугмад да бисте чули изговор, и понављајте гласно)."
         titolo: "Азбука есперанта"
-      artikolo: 
+      artikolo:
         ekspliko: "Неодређени члан не постоји у есперанту; постоји само одређени члан \"la\", једнак за све родове, падеже и бројеве. Када се речи жели дати неодређени смисао, просто се избаци члан \"la\"."
-        frazoj: 
+        frazoj:
           frazo-1: "Ваши синови су наши приатељи."
           frazo-2: "Хлеб је сув."
           frazo-3: "Топло млеко је добро."
@@ -22,7 +22,7 @@ sr:
           frazo-6: "Отац је добар."
           titolo: Реченице
         titolo: Члан
-        vortoj: 
+        vortoj:
           floroj: Цветови
           knabo: Дечак
           la-floroj: Цветови
@@ -31,7 +31,7 @@ sr:
           la-patroj: Очеви
           pano: Хлеб
           patroj: Очеви
-      nomoj: 
+      nomoj:
         amiko: Пријатељ
         ekspliko: "Завршавају се са словом \"o\":"
         frato: Брат
@@ -39,27 +39,27 @@ sr:
             Кафа
             Kafa
         titolo: Именице
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Они (множина за \"она\", \"он\" и \"оно\")"
           ni: Ми
           titolo: Множина
           vi: "Ви (множина)"
-        singularo: 
+        singularo:
           li: Он
           mi: Ја
           titolo: Једнина
           vi: "Ти (једнина)"
           ĝi: "Оно (за показивање нечега или некога, чији пол се не може прецизирати)"
           ŝi: Она
-        specialaj: 
+        specialaj:
           oni: "Сe (лична неодређена заменица, у значењу \"људи; много или неколико особа; неко непознат\", користи се кад се неће или не може прецизирати ко је урадио или трпео радњу)."
           si: "Себи (Повратна заменица трећег лица - он, она, оно, они, се -, користи се када се односи на субјекат предлога)."
           titolo: Посебни
         titolo: "Личне заменице"
-      pluralo: 
+      pluralo:
         ekspliko: "Множина се гради додавањем слова \"j\" на крај именица и придева:"
-        pluralo: 
+        pluralo:
           amikoj: пријатељи
           belaj: лепи
           belaj-floroj: "лепи цветови"
@@ -68,7 +68,7 @@ sr:
           patroj: очеви
           sanaj: здрави
           sanaj-patroj: "здрави очеви"
-        singularo: 
+        singularo:
           amiko: пријатељ
           bela: леп
           bela-floro: "леп цвет"
@@ -78,9 +78,9 @@ sr:
           sana: здрав
           sana-patro: "здрав отац"
         titolo: Множина
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Присвојне заменице се граде додавањем придевског наставка (\"a\") личним заменицама."
-        posedaj: 
+        posedaj:
           ilia: њихов
           lia: његов
           mia: мој
@@ -88,27 +88,27 @@ sr:
           via: твој
           ĝia: његово
           ŝia: њен
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "И присвојне заменице добијају наставак \"j\" у множини:"
           mia-amiko: "Мој пријатељ"
           miaj-amikoj: "Моји пријатељи"
           nia-floro: "Наш цвет"
           niaj-floroj: "Наши цветови"
         titolo: "Присвојне заменице"
-      verboj: 
+      verboj:
         ekspliko: "Инфинитив се завршава са -i: esti; прошло време се завршава са -is: estis; садашње време се завршава са -as а будуће са -os. Остала глаголска времена ћемо обрадити касније."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Они су"
           ni-estas: "Ми смо"
           oni-estos: Биће
           vi-estis: "Ви сте били"
-        singularo: 
+        singularo:
           li-estis: "Он је био"
           mi-estas: "Ја сам"
           ĝi-estos: "Оно ће бити"
           ŝi-estas: "Она је"
         titolo: Глаголи
-      vortaro01: 
+      vortaro01:
         amiko: пријатељ
         bela: леп
         biskvito: бисквит

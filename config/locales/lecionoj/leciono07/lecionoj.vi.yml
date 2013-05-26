@@ -1,11 +1,11 @@
---- 
-vi: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+vi:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Giới từ là những từ thể hiện mối quan hệ giữa một danh từ theo sau (đối tượng của giới từ) và phần còn lại của câu."
         titolo: "Giới từ I"
-        vortoj: 
+        vortoj:
           al: "tới, hướng về"
           da: "của, thuộc về( cho số lượng)"
           de: "thuộc, của, từ"
@@ -18,9 +18,9 @@ vi:
           sur: "trên, ở trên"
           ĉe: "ở, với, bên cạnh"
           ĝis: "cho đến, đến khi"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Giới từ II"
-        vortoj: 
+        vortoj:
           anstataŭ: "thay vì"
           antaŭ: "đằng trước, ở phía trước"
           apud: "bên cạnh"
@@ -39,7 +39,7 @@ vi:
           tra: "qua, xuyên qua, suốt"
           trans: "ngang qua, ở phía bên..."
           ĉirkaŭ: "xung quanh, khoảng chừng"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Chúng ta đã thấy ở bài học thứ hai là \"-n\" là dấu hiệu hướng của đối tượng (bổ ngữ). Đây là sự đổi cách. Ví dụ:"
         ekspliko-2: "Một câu không thể có hai hướng đối tượng (bổ ngữ). Hãy nhớ rằng giới từ của đối tượng đó trong trường hợp này không đổi cách. Ví dụ:"
         ekspliko-3: "Xem thêm ba ví dụ sau đây:"
@@ -56,8 +56,8 @@ vi:
         frazo-5: "Anh ấy đã uống một cốc cà phê."
         frazo-6: "Đi khỏi trước mặt tôi!"
         titolo: "Giới từ III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "đi đến"
           aŭtobuseto: "xe buýt nhỏ"
           danki: "cảm ơn"
@@ -72,8 +72,8 @@ vi:
           sidi: ngồi
           tagmanĝo: "bữa trưa"
           viziti: "đi thăm, đi dự"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "Bắc cực"
           Kanado: Canada
           admiri: "ngắm nhìn một cách vui thích, khâm phục"

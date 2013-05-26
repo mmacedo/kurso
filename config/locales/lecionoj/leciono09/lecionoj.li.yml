@@ -1,57 +1,57 @@
---- 
-li: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+li:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "žymi visumos dalį"
           monero: moneta
           mono: pinigai
           salero: "druskos krislas"
           salo: druska
-        estr: 
+        estr:
           ekspliko: "žymi vadovaujantį asmenį"
           urbestro: "miesto meras"
           urbo: miestas
           ŝipestro: kapitonas
           ŝipo: laivas
-        et: 
+        et:
           ekspliko: "žymi sumažinimą, susilpninimą"
           pupeto: lėlytė
           pupo: lėlė
           rideti: šypsotis
           ridi: juoktis
-        id: 
+        id:
           ekspliko: "žymi vaiką, įpėdinį, jauniklį"
           katido: kačiukas
           kato: katė
           reĝido: karalaitis
           reĝo: karalius
-        ig: 
+        ig:
           ekspliko: "versti kitą, ką nors daryti"
           morti: mirti
           mortigi: žudyti
           pura: švarus
           purigi: valyti
-        il: 
+        il:
           ekspliko: "žymi įrankį, priemonę"
           muzikilo: "muzikos instrumentas"
           muziko: muzika
           ŝlosi: (už)rakinti
           ŝlosilo: raktas
-        in: 
+        in:
           ekspliko: "žymi moteriškąją lytį"
           kokino: višta
           koko: gaidys
           onklino: teta
           onklo: dėdė
-        ind: 
+        ind:
           admiri: "gėrėtis, žavėtis, grožėtis"
           admirinda: žavingas
           ekspliko: "žymi asmens ar daikto vertumą"
           laŭdi: girti
           laŭdinda: girtinas
-        ist: 
+        ist:
           ekspliko: "žymi amatą, profesiją, ko nors šalininką"
           esperantisto: esperantininkas
           esperanto: "esperanto kalba"
@@ -61,7 +61,7 @@ li:
           raportisto: pranešėjas
           tajpi: "rašyti mašinėle"
           tajpisto: mašininkas
-        iĝ: 
+        iĝ:
           ekspliko: "darymasis, tapimas"
           fari: daryti
           fariĝi: "darytis, tapti"
@@ -69,39 +69,39 @@ li:
           mateno: rytas
           ruĝa: raudonas
           ruĝiĝi: raudonuoti
-        nj: 
+        nj:
           Maria: Marija
           ekspliko: "žymi mažybinį, maloninį moterų vardą"
           manjo: Marijutė
           panjo: mamytė
           patrino: motina
-        obl: 
+        obl:
           du: du
           duobla: dvigubas
           ekspliko: "žymi daugialypumą"
           tri: trys
           trioblo: "kažkas triguba"
         ? "on"
-        : 
+        :
           dek: dešimt
           dekono: dešimtadalis
           ekspliko: "žymi trupmeną"
           kvar: keturi
           kvarono: ketvirtadalis
-        op: 
+        op:
           du: du
           duopo: dvejetas
           ekspliko: "kuopiniai skaitvardžiai"
           ses: šeši
           sesopo: šešetas
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Norint išvengti nesusipratimų tarp dviejų reikšmių, patariame vartoti sinonimus:"
           germanio: Vokietija
           pomarbo: obelis
           pomkesto: "obuolių dėžė"
           ruslando: Rusija
         titolo: Priesagos
-        uj: 
+        uj:
           ekspliko: "žymi indą ar kitokią talpą, medį, šalį"
           franco: prancūzas
           francujo: Prancūzija
@@ -109,7 +109,7 @@ li:
           monujo: piniginė
           pomo: obuolys
           pomujo: "obelis, obuolių dėžė"
-        ul: 
+        ul:
           ekspliko: "žymi individą su tam tikrais palinkimais, ypatybėmis"
           kontraŭ: prieš(ais)
           kontraŭulo: priešininkas
@@ -119,13 +119,13 @@ li:
           sanktulo: šventuolis
           stulta: kvailas
           stultulo: kvailys
-        um: 
+        um:
           ekspliko: "tikslios reikšmės neturi ir yra vartojama, kai kitos priesagos netinka"
           kolo: kaklas
           kolumo: apykaklė
           plena: pilnas
           plenumi: pildyti
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Aš pamačiau tave, o lobi, ir aš tuoj pamilau tave!
             — Aš tikiu tavim, bet auksas tegul būna paruoštas piniginėj!

@@ -1,10 +1,10 @@
---- 
-cs: 
-  lecionoj: 
-    leciono02: 
-      pagxo10: 
+---
+cs:
+  lecionoj:
+    leciono02:
+      pagxo10:
         ekzpliko: "Podle překladu doplňte bílé prostory chybějícími částmi. Nezapomeňte doplnit koncovky množného čísla a akuzativu, kde je to třeba. Pokud považujete větu za správně doplněnou, klikněte na spodní buton nebo stiskněte ENTER. Uhodněte aspoň 70%."
-      pagxo11: 
+      pagxo11:
         frazo01: "1. Zdravý chlapec pije teplé mléko."
         frazo02: "2. Ten starý obchůdek neprodává suché koláče."
         frazo03: "Učitel potkal ty nové přátele."

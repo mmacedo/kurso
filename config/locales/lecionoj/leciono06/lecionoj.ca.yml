@@ -1,101 +1,101 @@
---- 
-ca: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+ca:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Ara aprenguem la resta dels correlatius. Recordeu que el sistema de correlatius és un sistema tancat, és a dir que no se'n poden derivar més dels que ara us ensenyem."
         titolo: Correlatius
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Indica qualitat, tipus (pot tenir les marques \"j\" i \"n\")"
-        i: 
+        i:
           frazo: "Tens algun dubte sobre la gramàtica de l'esperanto? (més enfàtic que \"iun dubon\")"
           vorto: "D'alguna mena"
-        ki: 
+        ki:
           frazo: "Com ha estat el dia? — El dia ha estat molt bo, gràcies!"
           vorto: "Com, de quina mena (referit sempre a adjectius)"
-        neni: 
+        neni:
           frazo: "No, no en tinc cap mena de dubte. (més enfàtic que \"neniu dubon\")"
           vorto: "De cap mena"
-        ti: 
+        ti:
           frazo: "No menjaré aquesta mena de pa."
           vorto: "D'aquesta mena"
-        ĉi: 
+        ĉi:
           frazo: "Tota mena d'ajuda serà benvinguda. (més enfàtic que \"ĉiu helpo\")"
           vorto: "De tota mena"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Causa, raó"
-        i: 
+        i:
           frazo: "Per alguna raó encara no et conec."
           vorto: "Per algun motiu"
-        ki: 
+        ki:
           frazo: "Per què corre el nen? — Perquè està molt content."
           vorto: "Per què"
-        neni: 
+        neni:
           frazo: "Podries intentar de fer-lo enfadar tant com vulguessis. No s'enfadaria per cap motiu."
           vorto: "Per cap motiu"
-        ti: 
+        ti:
           frazo: "És molt bonica. Per això l'estimo."
           vorto: "Per tant, per això"
-        ĉi: 
+        ĉi:
           frazo: "Em preguntes perquè t'estimo. Et contesto: per tot!"
           vorto: "Per tots els motius"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Manera
-        i: 
+        i:
           ekspliko: "Indica indefinició."
           frazo: "Ella em recorda d'alguna manera una altra persona."
           vorto: "D'alguna manera"
-        ki: 
+        ki:
           ekspliko: "Indica pregunta o relació amb la proposició anterior"
           frazo: "Com estàs? — Estic molt bé, gràcies!"
           vorto: Com
-        neni: 
+        neni:
           ekspliko: "Indica sentit negatiu."
           frazo: "No puc entendre de cap manera què és el que dieu."
           vorto: "De cap manera"
-        ti: 
+        ti:
           ekspliko: "Usat per indicar, mostrar"
           frazo: "Ella escriu tan bé com la professora."
           vorto: Així
-        ĉi: 
+        ĉi:
           ekspliko: "Indica grup, conjunt."
           frazo: "Em van ajudar de totes les maneres possibles."
           vorto: "De totes les maneres"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Indica possessió."
-        i: 
+        i:
           frazo: "He trobat el llibre d'algú."
           vorto: D'algú
-        ki: 
+        ki:
           frazo: "De qui és aquest llibre? — Aquest és el llibre d'en Joan."
           vorto: "De qui"
-        neni: 
+        neni:
           frazo: "L'esperanto no és proprietat de ningú."
           vorto: "De ningú"
-        ti: 
+        ti:
           frazo: "El gat va córrer per damunt de la casa i va fer-ne malbé la teulada."
           vorto: "Del qual, d'aquest"
-        ĉi: 
+        ĉi:
           frazo: "L'esperanto és la llengua de tots."
           vorto: "De tothom, de tots"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Indica quantitat."
-        i: 
+        i:
           frazo: "He de comprar una mica de cafè."
           vorto: "Una mica, un poc, un xic"
-        ki: 
+        ki:
           frazo: "Quant fan dos i dos? — Quatre!"
           vorto: Quant
-        neni: 
+        neni:
           frazo: "Quants nens juguen a la casa? — Cap."
           vorto: "Gens, cap"
-        ti: 
+        ti:
           frazo: "Ell va menjar tant com va voler."
           vorto: Tant
-        ĉi: 
+        ĉi:
           frazo: "Quanta gasolina vols? — Vull tota la que tinguis."
           vorto: "Tot (tota la quantitat)"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Les paraules que comencen per \"KI\" també poden introduir frases sense sentit interrogatiu. Aquestes paraules s'anomenen relatius perquè indiquen la relació entre l'oració principal i la subordinada."
         ekspliko-2: "A la frase anterior \"kiun\" es relaciona amb \"tiu frukto\"."
         frazo-1: "Vull aquella fruita que em vas ensenyar."

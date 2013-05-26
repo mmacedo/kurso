@@ -1,11 +1,11 @@
---- 
-da: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+da:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Lytteøvelse I"
         auxdkompreno01-instrukcio: "I denne øvelse vil du høre ordene, og skal klikke på den knap der svarer til det hørte ord. Hvis du vælger rigtigt, vil knappen forsvinde fra skærmen. Hvis du vælger forkert, vil du høre ordet igen på et senere tidspunkt i øvelsen. Prøv at få mindst 70% rigtige."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Teen er varm."
         frazo02: "2. En lærer er far."
         frazo03: "3. Din far var god."

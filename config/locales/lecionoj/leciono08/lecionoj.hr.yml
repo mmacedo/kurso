@@ -1,38 +1,38 @@
---- 
-hr: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+hr:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Jednakosti:"
           frazo-1: "Esperanto je tako lijep kao i koristan."
           frazo-2: "Ništa nije tako vrijedno kao zdravlje."
           frazo-3: "Ona je tako lijepa kao i majka."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Stupnjevanja naniže:"
           frazo-1: "Moj brat je mlađi od mene."
           frazo-2: "On piše manje lijepo od djevojke."
           frazo-3: "Suprug govori manje glasno od supruge."
-        supereco: 
+        supereco:
           ekspliko: "Stupnjevanja naviše:"
           frazo-1: "Mlijeko je hranljivije od vina."
           frazo-2: "Ivan je viši od Petra."
           frazo-3: "Sunce je veće od mjeseca."
         titolo: Usporedba
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: zet
           bofratino: šogorica
           bopatrino: punica
           bopatro: tast
           ekspliko: "srodstvo nastalo ženidbom"
-        dis: 
+        dis:
           disdoni: razdavati
           disfali: "raspasti se"
           disflugi: "razletjeti se"
           dissemi: rasijati
           ekspliko: "(raz-) razdjeliti, razići"
-        duon: 
+        duon:
           duondio: polubog
           duonfilino: pokćerka
           duonhoro: "pola sata"
@@ -40,37 +40,37 @@ hr:
           ekspliko: "(polu-) polovično"
           filino: kćerka
           horo: "sat (vrijeme)"
-        ek: 
+        ek:
           ekbrilo: zasjaj
           ekdormi: zaspati
           ekiri: poći
           ekpluvi: "početi padati (kiša)"
           ekspliko: "(za-) početno, iznenadno ili kratkotrajno djelovanje"
-        eks: 
+        eks:
           eksedziĝi: "rastaviti se"
           eksfianĉo: "bivši zaručnik"
           eksiĝi: "dati ostavku"
           ekspliko: "(bivši) označuje djelovanje ili stanje koje je prestalo postojati."
           eksprezidanto: "bivši predsjednik"
-        fi: 
+        fi:
           ekspliko: "(odvratan) zao u moralnom smislu"
           fidomo: "kuća na lošem glasu"
           fikomercisto: švercer
           fivirino: "nečasna žena"
           komercisto: trgovac
-        ge: 
+        ge:
           ekspliko: "zajedništvo oba spola (u paru ili skupini)"
           geamikoj: prijatelji
           gefiloj: "djeca (sinovi i kćeri)"
           gefratoj: braća
           gepatroj: roditelji
-        mal: 
+        mal:
           dekstro: desno
           ekspliko: suprotnost
           fermi: zatvoriti
           maldekstro: lijevo
           malfermi: otvoriti
-        mis: 
+        mis:
           ekspliko: "krivo, nepravilno, loše, krivo, netočno, nedolično, neprikladno"
           kompreni: razumjeti
           miskompreni: "krivo razumjeti"
@@ -78,7 +78,7 @@ hr:
           misuzo: zloraba
           paŝo: korak
           uzo: "upotreba, uporaba"
-        pra: 
+        pra:
           ekspliko: "(pra-) daleko u prošlosti"
           historio: povijest
           nepo: unuk
@@ -86,21 +86,21 @@ hr:
           prahistorio: prahistorija
           prahomo: pračovjek
           pranepo: praunuk
-        re: 
+        re:
           ekspliko: "(ponovno) ponavljanje, ponovno događanje"
           reaperi: "pojaviti se ponovno"
           refari: "ponovno činiti"
           reteni: zadržati
           reveni: "vratiti se"
         titolo: Prefiksi
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: trajanje
           parolado: "govor (govorancija)"
           paroli: govoriti
           rigardadi: "gledati (trajno)"
           rigardi: gledati
-        an: 
+        an:
           brazilano: brazilijanac
           ekspliko: "član neke skupine, stranke, vjere; stanovnik zemlje, pokrajine ili mjesta"
           eŭropano: europljanin
@@ -108,25 +108,25 @@ hr:
           kristano: kršćanin
           kristo: Krist
           usonano: amerikanac
-        ar: 
+        ar:
           ekspliko: "zbir, skupina"
           vortaro: riječnik
           vorto: riječ
           ŝafaro: "stado ovaca"
           ŝafo: ovca
-        aĉ: 
+        aĉ:
           domaĉo: koliba
           domo: kuća
           ekspliko: "(ružan) loš u materijalnom ili estetskom smislu"
           skribaĉi: piskarati
           skribi: pisati
-        aĵ: 
+        aĵ:
           dolĉa: sladak
           dolĉaĵo: "slatkiš, poslastica"
           ekspliko: "(stvar, stanje) Konkretno označavanje ideje korijena riječi."
           pentraĝo: slika
           pentri: slikati
-        ebl: 
+        ebl:
           ekspliko: mogućnost
           kredebla: vjerojatan
           kredi: vjerovati
@@ -134,19 +134,19 @@ hr:
           legi: čitati
           videbla: vidljiv
           vidi: vidjeti
-        ec: 
+        ec:
           amikeco: prijateljstvo
           amiko: prijatelj
           ekspliko: svojstvo
           mola: mekan
           moleco: mekoća
-        eg: 
+        eg:
           ekspliko: "tim sufiksom se izražava najviši stupanj veličine ili intenziteta"
           ridegi: "grohotom se smijati"
           ridi: "smijati se"
           ventego: oluja
           vento: vjetar
-        ej: 
+        ej:
           ekspliko: "prebivalište ili mjesto neke radnje."
           oficejo: ured
           ofico: služba
@@ -154,26 +154,26 @@ hr:
           preĝi: "moliti (Boga)"
           ĉevalejo: konjušnica
           ĉevalo: konj
-        em: 
+        em:
           babilema: brbljiv
           babili: brbljati
           ekspliko: sklonost
           ŝparema: štedljiv
           ŝpari: štedjeti
-        end: 
+        end:
           ekspliko: "što mora biti učinjeno"
           farenda: "što se mora učiniti"
           fari: činiti
           legenda: "što se mora pročitati"
           legi: čitati
         titolo: Sufiksi
-        ĉj: 
+        ĉj:
           ekspliko: "Dometak značenja od milja za muški rod (zajedno sa dijelom korijena ukoliko to doprinese milozvučnosti)"
           jozefo: Josip
           joĉjo: Jožek
           patro: otac
           paĉjo: tata
-      superlativo: 
+      superlativo:
         ekspliko-1: "Superlativ je najviši ili najniži stupanj usporedbe između više stupnjeva."
         ekspliko-2: "Kada se radi o dva pojedinca (ljudi, stvari i t. d.), primjenjuje se PLI ili MALPLI. Isto je i kod dvije skupine."
         frazo-1: "Od sve moje djece Ernest je najmlađi."

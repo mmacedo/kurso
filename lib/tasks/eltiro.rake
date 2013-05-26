@@ -1,4 +1,5 @@
 require 'i18n_eltiro'
+require 'whitespace_utils'
 
 def desc_eltiro_i18n(kio)
   desc "Generas lokaĵaroj el tradukoj el kurso-desktop (#{kio})"
@@ -13,6 +14,13 @@ namespace :eltiro do
   desc_eltiro_i18n "ĉiuj lokaĵaroj"
   task 'i18n' => :environment do
     I18nEltiro::Konvertilo.new.konverti
+    lokaĵaroj = "config/locales/lecionoj/{aliaj,leciono??}/*.??.yml"
+    Dir.glob(Rails.root.join(lokaĵaroj)).each do |dosiero|
+      redakti_dosiero(dosiero) do |linioj|
+        forigi_finajn_spacojn! linioj
+        certigi_novan_linon_ĉe_eof! linioj
+      end
+    end
   end
 
   desc_eltiro_i18n ":eo kaj parametroj"

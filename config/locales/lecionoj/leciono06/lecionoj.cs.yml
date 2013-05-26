@@ -1,101 +1,101 @@
---- 
-cs: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+cs:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Nyní se naučme zbývající tabulková slova. Pamatujte, že tabulka je uzavřeným systémem, do kterého nelze další slova zavádět."
         titolo: "Tabulková slova"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Ukazuje kvalitu, druh (může mít koncovky \"j\" a \"n\")"
-        i: 
+        i:
           frazo: "Máte nějakou pochybnost o mluvnici esperanta?"
           vorto: Nějaký
-        ki: 
+        ki:
           frazo: "Jaký je váš den? - Můj den je velmi dobrý, díky!"
           vorto: Jaký
-        neni: 
+        neni:
           frazo: "Ne, nemám o ní žádnou pochybnost."
           vorto: Nijaký
-        ti: 
+        ti:
           frazo: "Nebudu jíst takový chléb."
           vorto: Takový
-        ĉi: 
+        ĉi:
           frazo: "Každá pomoc je vítána (= všeho druhu)."
           vorto: Všelijaký
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Příčina, důvod"
-        i: 
+        i:
           frazo: "Z nějakého důvodu vás ještě neznám."
           vorto: "Z nějaké příčiny"
-        ki: 
+        ki:
           frazo: "Proč to dítě běhá? - Protože je velmi radostné."
           vorto: Proč
-        neni: 
+        neni:
           frazo: "Mohl byste ho jakkoli dráždit. Nezlobil by se v žádném případě (z žádného důvodu)."
           vorto: "Z žádných příčin"
-        ti: 
+        ti:
           frazo: "Je velmi krásná. Proto ji miluji."
           vorto: Proto
-        ĉi: 
+        ĉi:
           frazo: "Ptáš se mě, proč tě miluji. Odpovídám: ze všech důvodů (které si umíš představit)!"
           vorto: "Ze všech příčin"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Způsob
-        i: 
+        i:
           ekspliko: "Vyjadřuje neurčitost."
           frazo: "Nějak mi připomíná jinou osobu."
           vorto: Nějak
-        ki: 
+        ki:
           ekspliko: "Vyjadřuje otázku nebo  vztah k předchozí větě (slova tázací a vztažná)."
           frazo: "Jak se máte? - Mám se velmi dobře, díky!"
           vorto: Jak
-        neni: 
+        neni:
           ekspliko: "Vyjadřuje zápor."
           frazo: "Nijak nemohu pochopit, o čem mluvíte."
           vorto: Nijak
-        ti: 
+        ti:
           ekspliko: "Slouží k ukazování."
           frazo: "Ona píše tak pěkně jako učitelka."
           vorto: Tak
-        ĉi: 
+        ĉi:
           ekspliko: "Zahrnuje vše, zevšeobecňuje."
           frazo: "Všemožně mi pomohli."
           vorto: "Všelijak, všemi způsoby"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Vyjadřuje vlastnictví."
-        i: 
+        i:
           frazo: "Našel jsem něčí knihu."
           vorto: Něčí
-        ki: 
+        ki:
           frazo: "Čí je tato kniha? - Tato je kniha Janova."
           vorto: Čí
-        neni: 
+        neni:
           frazo: "Esperanto není ničí vlastnictví."
           vorto: Ničí
-        ti: 
+        ti:
           frazo: "Kočka běžela na domě a poškodila jeho střechu."
           vorto: "Toho (tomu patřící)"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto je jazyk patřící všem."
           vorto: "Všech (všem patřící)"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Vyjadřuje množství."
-        i: 
+        i:
           frazo: "Musím koupit trochu kávy."
           vorto: Trochu
-        ki: 
+        ki:
           frazo: "Kolik je dvě a dvě? - Čtyři!"
           vorto: Kolik
-        neni: 
+        neni:
           frazo: "Kolik dětí si hraje v domě? - Vůbec žádné."
           vorto: "Vůbec nic"
-        ti: 
+        ti:
           frazo: "Snědl tolik, kolik chtěl."
           vorto: Tolik
-        ĉi: 
+        ĉi:
           frazo: "Kolik benzínu chcete? - Chci úplně vše, co máte."
           vorto: "Úplně vše"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Slova začínající na \"KI\" mohou uvádět slova i bez tázacího významu. Takovým slovům říkáme vztažná, protože ukazují vztah mezi hlavní a vedlejší větou."
         ekspliko-2: "Ve výše uvedené větě se \"kiun\"  vztahuje k výrazu \"tiu frukto\"."
         frazo-1: "Chci to ovoce, které jste ukázal."

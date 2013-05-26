@@ -1,11 +1,11 @@
---- 
-pl: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+pl:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Przyimki  są słówkami, które pokazują zależność między dwoma wyrazami."
         titolo: "Przyimki I"
-        vortoj: 
+        vortoj:
           al: do
           da: "służy do pojęć ilościowych"
           de: od
@@ -18,9 +18,9 @@ pl:
           sur: na
           ĉe: przy
           ĝis: "aż do"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Przyimki II"
-        vortoj: 
+        vortoj:
           anstataŭ: zamiast
           antaŭ: przed
           apud: obok
@@ -39,7 +39,7 @@ pl:
           tra: przez
           trans: "za, przez, poza, na drugą stronę"
           ĉirkaŭ: wokół
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Widzieliśmy w drugiej lekcji,  że \"-n\" pokazuje  proste dopełnienie zdania. To jest biernik.Np:"
         ekspliko-2: "Kiedy zdanie ma dwa dopełnienia, jedno z nich jest nieproste. Np:"
         ekspliko-3: "Powyższe użycie przyimka jest konieczne, a nieproste dopełnienie nie otrzymuje końcówki -n"
@@ -56,8 +56,8 @@ pl:
         frazo-5: "On pił filiżankę kawy."
         frazo-6: "Odejdź  od \"przede mnie\"       /=  \"zejdź mi z drogi\"/"
         titolo: "Przyimki  III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "przybyć do"
           aŭtobuseto: autobusik
           danki: dziękować
@@ -72,8 +72,8 @@ pl:
           sidi: siedzieć
           tagmanĝo: obiad
           viziti: odwiedzać
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktyka
           Kanado: Kanada
           admiri: podziwiać

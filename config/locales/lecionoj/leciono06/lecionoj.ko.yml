@@ -1,101 +1,101 @@
---- 
-ko: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+ko:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "이제 우리는 여러 상관사들을 배워봅시다. 상관사 시스템은 엄격해, 지금 보여지는 상관사들을 제외하고는 다른 낱말들을 만들어 낼 수 없습니다."
         titolo: 상관사
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "품질,특성을 나타낸다.(복수어미(j), 목적격어미(n)이 뒤에 올 수 있다."
-        i: 
+        i:
           frazo: "(Ĉu)당신은 에스페란토문법에 대한 어떤 회의가 있나요?"
           vorto: "무슨(불특정한),뭔가의"
-        ki: 
+        ki:
           frazo: "당신의 날은 어떠햇습니까? — 제(나의) 날은 아주 좋았습니다. 고맙습니다!"
           vorto: 무슨(의문)
-        neni: 
+        neni:
           frazo: "아뇨, 저는 그것(ĝi)에 대한 아무런 회의도 없습니다."
           vorto: "아무런 ..."
-        ti: 
+        ti:
           frazo: "나는 그러한 빵을 먹지 않는다manĝas."
           vorto: "그러한,그러하다"
-        ĉi: 
+        ĉi:
           frazo: "그녀의(Ŝia) 도움은 환영합니다."
           vorto: "ĉia모든, 모두다."
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "원인(kaŭzo),이유"
-        i: 
+        i:
           frazo: "나는 아직도 무슨 이유로 해서 당신에 대해  모르고 있습니다."
           vorto: "무슨 이유로 인해"
-        ki: 
+        ki:
           frazo: "저 아이는 왜 달려 갑니까? - 왜냐하면ĉar 저 아이는 아주 기뻐서요ĝoja."
           vorto: 왜
-        neni: 
+        neni:
           frazo: "당신은 얼마든지 그를 흥분하게 할 수 있을 겁니다. 그러나 그는 아무렇게도 화를 내지 않을 겁니다."
           vorto: "아무 이유도 없이(않고)"
-        ti: 
+        ti:
           frazo: "그녀는(ŝi) 아주 아름답습니다. 그 때문에 나는 그녀를(ŝin) 사랑합니다."
           vorto: "그 때문에, 그 이유로"
-        ĉi: 
+        ĉi:
           frazo: "내가 왜 당신을 사랑하는지 당신께서 묻는군요. 제 대답은 모든 이유로 해서 라고 답하겠어요."
           vorto: "ĉial모든 이유로 해서"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: 방법
-        i: 
+        i:
           ekspliko: "불확정함을 나타낸다."
           frazo: "그녀는(Ŝi)  나를 보면 다른 사람에 대해 생각해 낸다."
           vorto: "무슨 방법을 이용하여"
-        ki: 
+        ki:
           ekspliko: "의문을 나타낸다"
           frazo: "어떻게 당신은 지냅니까? — 아주 잘 지내고 있습니다. 고맙습니다!"
           vorto: 어떻게(방법)
-        neni: 
+        neni:
           ekspliko: "부정의 의미를 나타낸다."
           frazo: "나는 당신이 말하는 바를 아무리해도 이해할 수 없습니다."
           vorto: "아무 방법도 없이, 소용없이"
-        ti: 
+        ti:
           ekspliko: "지시, 방향을 나타내기 위해 쓰인다."
           frazo: "그녀는ŝi 그 여교사처럼 그렇게 잘 (글)쓴다"
           vorto: "그 방법으로, 그렇게"
-        ĉi: 
+        ĉi:
           ekspliko: "집합,무리를 나타낸다."
           frazo: "그들은 나를 모든 방법으로(ĉiel) 도와 주었다."
           vorto: "ĉiel모든 방법을 이용하여"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "소유를 나타낸다."
-        i: 
+        i:
           frazo: "나는 누구 소유의 책을 찾아냈다."
           vorto: "누구 소유의"
-        ki: 
+        ki:
           frazo: "저것은 누구(소유)의 책입니까? — 저것은 요하노 (소유)의 책입니다."
           vorto: "누구 소유의(의문)"
-        neni: 
+        neni:
           frazo: "에스페란토는 어느 누구의 소유물(propraĵo)이 아니다."
           vorto: "아무 소유도...아닌(없는)"
-        ti: 
+        ti:
           frazo: "그 고양이는 집 위로 올라가, 그 집 지붕을 망가뜨렸다."
           vorto: "그 소유의"
-        ĉi: 
+        ĉi:
           frazo: "에스페란토는 어느 누구나(ĉies) 소유할 수 있는 언어입니다."
           vorto: "ĉies모두의 소유로"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "수량을 나타낸다."
-        i: 
+        i:
           frazo: "나는 커피를 조금 사야(aĉeti) 만 한다."
           vorto: "얼마만큼,조금"
-        ki: 
+        ki:
           frazo: "2더하기 2는 얼마 입니까? — 4입니다!"
           vorto: 얼마만큼
-        neni: 
+        neni:
           frazo: "얼마나 많은 아이들이 그 집 안에서 놀고 있나요?- 한 명도 없어요."
           vorto: 조금도...않다(없다)
-        ti: 
+        ti:
           frazo: "그는 그가 원하는 만큼, 그만큼 먹었다manĝas."
           vorto: 그만큼
-        ĉi: 
+        ĉi:
           frazo: "얼마만큼의 석유를 원하나요?- 나는 당신이 가지고 있는 만큼, 모두(ĉiom)를 원합니다."
           vorto: ĉiom전부(수량)
-      relativoj: 
+      relativoj:
         ekspliko-1: "\"KI\"로 시작되는 낱말들은 의문 의미가 아닌 관계사로도 쓰입니다. 이는 주절과 종속절을 연결하는관계사를 말합니다.문장의 주절 과 종속절을 연결해주는(관계하는) 것을 제시해 준다."
         ekspliko-2: "이(ĉi) 위의 문장에서  \"kiun\"이라는 낱말은 \"tiu frukto\" 과 관계가 있다."
         frazo-1: "나는 당신이 가리켜 준  저 과일을 원합니다."

@@ -1,11 +1,11 @@
---- 
-sk: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+sk:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Predložky sú slovíčka, ktorá ukazujú vzťah medzi dvoma slovami."
         titolo: Predložky
-        vortoj: 
+        vortoj:
           al: k
           da: "\"z čoho\" \"množstvo niečoho\""
           de: od
@@ -18,9 +18,9 @@ sk:
           sur: na
           ĉe: pri
           ĝis: "až kým, po"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: Predložky
-        vortoj: 
+        vortoj:
           anstataŭ: namiesto
           antaŭ: pred
           apud: vedľa
@@ -39,7 +39,7 @@ sk:
           tra: "cez, skrz"
           trans: cez
           ĉirkaŭ: okolo
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "V druhej lekcii sme videli, že koncovka \"-n\" ukazuje priamy predmet to jest akuzatív. Napr:"
         ekspliko-2: "V prípade, že má veta dva predmety, jeden z nich musí byť nepriamy. Napr.:"
         ekspliko-3: "Toto použitie predlotky je nevyhnutné a nepriamy predmet nedostáva koncovku akuzatívu. Ďalšie príklady:"
@@ -56,8 +56,8 @@ sk:
         frazo-5: "Vypil šálku kávy."
         frazo-6: "Choď odo mňa!"
         titolo: Predložky
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: prísť
           aŭtobuseto: "malý autobus"
           danki: ďakovať
@@ -72,8 +72,8 @@ sk:
           sidi: sedieť
           tagmanĝo: obed
           viziti: navštíviť
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktída
           Kanado: Kanada
           admiri: obdivovať

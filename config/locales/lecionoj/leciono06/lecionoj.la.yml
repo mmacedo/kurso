@@ -1,101 +1,101 @@
---- 
-la: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+la:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Tagad iemācīsimies pārejos korelatīvus. Iegaumējiet, ka korelatīvu sistēma ir slēgta, tas nozīmē, ka nevar atvasināt jaunus vārdus, kā tikai tos, kurus tagad apskatīsim."
         titolo: Korelatīvi
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Izsaka kvalitāti, veidu, šķiru (tas var iegūt galotnes -j un -n)"
-        i: 
+        i:
           frazo: "Vai jums ir kaut kādas šaubas par esperanto gramatiku?"
           vorto: "Kaut kāds, kaut kāda"
-        ki: 
+        ki:
           frazo: "Kāda bija jūsu diena? — Paldies, mana diena bija ļoti laba!"
           vorto: "Kāds, kāda, (dažkārt) cik"
-        neni: 
+        neni:
           frazo: "Nē, man nav nekādu šaubu par to."
           vorto: "Nekāds, nekāda"
-        ti: 
+        ti:
           frazo: "Es neēdīšu tādu maizi."
           vorto: "Tāds, tāda, (dažkārt) tik"
-        ĉi: 
+        ĉi:
           frazo: "Jebkāda palīdzība ir laipni gaidīta."
           vorto: "Ikkatrs, ikviens, katrs, jebkurš, visāds"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: Iemesls
-        i: 
+        i:
           frazo: "Es kaut kāda iemesla dēļ jūs vēl nepazīstu."
           vorto: "Kaut kāda iemesla dēļ"
-        ki: 
+        ki:
           frazo: "Kādēļ bērns skrien? — Jo tas ir ļoti priecīgs."
           vorto: "Kādēļ, kāpēc"
-        neni: 
+        neni:
           frazo: "Jūs varat kaitināt viņu cik jūs gribat. Viņš tāpat vien nesadusmosies."
           vorto: "Bez jebkāda iemesla"
-        ti: 
+        ti:
           frazo: "Viņa ir ļoti skaista. Tāpēc es mīlu viņu."
           vorto: "Tādēļ, tāpēc"
-        ĉi: 
+        ĉi:
           frazo: "Jūs jautājat, kāpēc es mīlu viņu. Es atbildu: visādu iemeslu dēļ!"
           vorto: "Dažādu iemeslu dēļ; katrā ziņā"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: "Maniere, veids"
-        i: 
+        i:
           ekspliko: "Parāda nenoteiktību."
           frazo: "Viņa kaut kā atgādina man citu cilvēku."
           vorto: "Kaut kā"
-        ki: 
+        ki:
           ekspliko: "Izsaka jautājumu;  parāda attiecību uz priekšā stāvošo teikumu."
           frazo: "Kā jums klājas? — Paldies, man klājas ļoti labi!"
           vorto: "Kā; cik"
-        neni: 
+        neni:
           ekspliko: "Izsaka nolieguma nozīmi."
           frazo: "Es nekā nevaru saprast, ko jūs runājat."
           vorto: "Nekā, nekādā veidā"
-        ti: 
+        ti:
           ekspliko: "Tiek lietots, lai uz kaut ko norādītu."
           frazo: "Viņa raksta tik labi, kā skolotāja."
           vorto: "Tā; tik"
-        ĉi: 
+        ĉi:
           ekspliko: "Parāda kopumu, grupu."
           frazo: "Viņi man visādi palīdzēja."
           vorto: Visādi
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Parāda piederību."
-        i: 
+        i:
           frazo: "Es atradu kaut kā grāmatu."
           vorto: "Kāda, kādas, kaut kādam (kādai) piederošs"
-        ki: 
+        ki:
           frazo: "Kam pieder tā grāmata? — Tā ir Jāņa grāmata."
           vorto: "Kā, kam piederošs"
-        neni: 
+        neni:
           frazo: "Esperanto nav neviena īpašums."
           vorto: "Neviena, nevienas, nevienam nepiederošs"
-        ti: 
+        ti:
           frazo: "Kaķis skraidīja uz mājas un bojāja tās jumtu."
           vorto: "Tā, tās; tam, tai piederošs"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto valoda pieder visiem."
           vorto: "Visu, visiem piederošs"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Izsaka daudzumu."
-        i: 
+        i:
           frazo: "Man vajag nopirkt kaut cik kafijas."
           vorto: "Kaut cik, nedaudz, mazliet"
-        ki: 
+        ki:
           frazo: "Cik ir divi plus divi? — Četri!"
           vorto: Cik
-        neni: 
+        neni:
           frazo: "Cik bērnu spēlējas mājā? — Necik."
           vorto: "Necik, (it) nemaz"
-        ti: 
+        ti:
           frazo: "Viņš ēda tik, cik viņš gribēja."
           vorto: "Tik (daudz)"
-        ĉi: 
+        ĉi:
           frazo: "Cik benzīna jūs gribat? — Es gribu visu, cik jums ir."
           vorto: "Viss (viss daudzums)"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Vārdi, kuri sākas ar \"ki-\", arī var iesākt frāzi bez jautājuma nozīmes.  Tie ir tā sauktie saikļi, jo tie parāda attiecību starp palīgteikumu un virsteikumu."
         ekspliko-2: "Augšējā frāzē \"kiun\" attiecas uz \"tiu frukto\"."
         frazo-1: "Es gribu to augli, kuru jūs parādījāt."

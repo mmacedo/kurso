@@ -1,24 +1,24 @@
---- 
-sr: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+sr:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Да бисте рекли датум следите пример (речи \"дан\" и \"године\" се подразумевају):"
         titolo: Датуми
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Хлеб је сув."
           titolo: "Тврдња:"
-        demando: 
+        demando:
           frazo-1: "Да ли је хлеб сув?"
           titolo: "Питање:"
         ekspliko: "Свако питање гради се на тврдњи, само додајући испред реченице речцу \"Chu\". Приметите да се ред речи на есперанту не мења, само се речца \"cxu\" додаје испред реченице. То важи за сва питања, на која следе одговори \"да\" или \"не\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Не, хлеб није сув."
           frazo-pozitiva: "Да, хлеб је сув."
           titolo: "Одговор:"
         titolo: "Упитне реченице"
-      monatoj: 
+      monatoj:
         aprilo: април
         aŭgusto: август
         decembro: децембар
@@ -32,7 +32,7 @@ sr:
         oktobro: октобар
         septembro: септембар
         titolo: "Месеци у години"
-      salutoj: 
+      salutoj:
         saluto-1: Здраво!
         saluto-10: Пријатно!
         saluto-11: "И вама, хвала!"
@@ -48,12 +48,12 @@ sr:
         saluto-8: "Доста добро."
         saluto-9: "Не баш добро."
         titolo: Поздрави
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: јуче
           hodiaŭ: данас
           morgaŭ: сутра
-        semajno: 
+        semajno:
           dimanĉo: недеља
           lundo: понедељак
           mardo: уторак
@@ -62,9 +62,9 @@ sr:
           vendredo: петак
           ĵaŭdo: четвртак
         titolo: "Дани у недељи"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Прочитајте доњи текст, којег је написао ученик есперанта, и покушајте да га разумете користећи речник."
-        vortaro: 
+        vortaro:
           alia: други
           antaŭ: испред
           facila: лак
@@ -72,7 +72,7 @@ sr:
           komenci: почети
           lerni: учити
           tre: врло
-      vortaro04: 
+      vortaro04:
         infano: дете
         kaj: "и, а"
         kolekti: сакупљати

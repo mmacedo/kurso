@@ -1,11 +1,11 @@
---- 
-li: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+li:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Jau matėme, kad esamojo laiko veiksmažodžiai baigiasi galūne \"-as\", būtojo- \"-is\", būsimojo- \"-os\", bendratis- \"-i\". Tačiau yra dar ir kitų veiksmažodžio formų:"
         titolo: "Kitos veiksmažodžio formos"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Liepiamoji nuosaka (\"-u\") paprastai vartojama su antruoju asmeniu, todėl nebūtina vartoti įvardžio. Tačiau, kai kalbama apie pirmąjį arba trečiąjį asmenį, vartojamas atitinkamas įvardis:"
         ekspliko-2: "Veiksmažodžiai su galūne \"-u\" reiškia tikslą (įsakymas, prašymas, perspėjimas, pageidavimas, būtinumas, leidimas, draudimas ir kt.). Sakydami  \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" ir kt., vartokite būsimojo laiko galūnę \"-os\"."
         frazo-1: "Uždaryk duris ir atsisėsk."
@@ -17,8 +17,8 @@ li:
         frazo-7: "Aš patariu, kad jis ateitų."
         frazo-8: "Gali būti, kad jis ateis."
         titolo: "Liepiamoji nuosaka (\"-u\")"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Aš privalau suprasti"
           devas-veni: "Aš privalau ateiti"
           devi: privalėti
@@ -28,29 +28,29 @@ li:
           volas-kompreni: "Aš noriu suprasti"
           volas-veni: "Aš noriu ateiti"
           voli: norėti
-        scio: 
+        scio:
           frazo-koni-1: "Aš pažįstu ..."
           frazo-koni-2: "Ar tu pažįsti Joną?"
           frazo-scii-1: "Aš žinau..."
           frazo-scii-2: "Ar moki esperanto kalbą?"
         titolo: "Keletas labai svarbių veiksmažodžių"
-        ŝato: 
+        ŝato:
           frazo-ami: "Aš kažką (kažkurį)  myliu."
           frazo-plaĉi-1: "Kažkas ar kažkuris man patinka."
           frazo-plaĉi-2: "Man patinka knygos."
           frazo-ŝati: "Aš mėgstu kažką."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Jeigu aš būčiau turtinga, aš daug keliaučiau."
         frazo-2: "Mes valgytume duoną, jei ji būtų gera."
         titolo: "Tariamoji nuosaka (\"-us\")"
-      nerekta: 
+      nerekta:
         ekspliko: "Netiesioginėje kalboje vartokite tokį patį laiką ir nuosaką, kaip ir tiesioginėje kalboje. Pvz.:"
         frazo-1: "Jis sakė: \"Aš atvykstu iš Niujorko\"."
         frazo-2: "Jis sakė, kad jis atvyksta iš Niujorko."
         frazo-3: "Ji sakė: \"Aš keliausiu į Paryžių\"."
         frazo-4: "Ji sakė, kad ji keliaus į Paryžių."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Aš esu skaitysiantis."
           frazo-presenco: "Aš esu skaitantis."
           frazo-preterito: "Aš esu skaitęs."
@@ -74,7 +74,7 @@ li:
         frazo-7: "Uždarytos durys"
         frazo-8: "Kylanti saulė"
         frazo-9: "Vėliau gyvenusieji"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Aš skaitau knygą = Knyga yra mano skaitoma."
           frazo-futuro: "Knyga bus skaitoma (yra skaitysima)."
           frazo-presenco: "Knyga yra skaitoma."
@@ -84,7 +84,7 @@ li:
           preterito: "Būtasis: \"-it\""
           titolo: "Neveikiamoji rūšis"
         titolo: Dalyviai
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" yra sangrąžinis įvardis trečiajam asmeniui, kuris yra susijęs su veiksniu."
         ekspliko-2: "\"Sia\" negali būti veiksnio dalimi. Tokiais atvejais vartojama \"lia\", \"ŝia\", \"ĝia\", \"ilia\". Žemiau esančiuose pavyzdžiuose \"filo\" susietas su \"li\":"
         frazo-1: "Jonas prausėsi (prausė save)."

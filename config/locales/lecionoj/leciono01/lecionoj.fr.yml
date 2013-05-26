@@ -1,19 +1,19 @@
---- 
-fr: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+fr:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: "beau, belle"
         ekspliko: "Se terminent par la lettre \"a\" :"
         sana: "sain, saine"
         titolo: "Les adjectifs"
         varma: "chaud, chaude"
-      alfabeto: 
+      alfabeto:
         ekspliko: "En espéranto, on écrit les mots comme ils se prononcent et on les prononce comme ils s'écrivent. L'accent tonique se trouve sur l'avant-dernière syllabe (cliquez sur un mot en gras pour entendre sa prononciation, puis répétez à voix haute)."
         titolo: "L'alphabet espéranto"
-      artikolo: 
+      artikolo:
         ekspliko: "L'article indéfini n'existe pas en espéranto ; seul existe l'article défini \"la\", utilisé quel que soit le genre et le nombre."
-        frazoj: 
+        frazoj:
           frazo-1: "Vos fils sont nos amis."
           frazo-2: "Le pain est sec."
           frazo-3: "Du lait chaud est bon."
@@ -22,7 +22,7 @@ fr:
           frazo-6: "Le père est bon."
           titolo: Phrases
         titolo: L'article
-        vortoj: 
+        vortoj:
           floroj: "des fleurs"
           knabo: "un garçon"
           la-floroj: "les fleurs"
@@ -31,33 +31,33 @@ fr:
           la-patroj: "les pères"
           pano: "un pain"
           patroj: "des pères"
-      nomoj: 
+      nomoj:
         amiko: ami
         ekspliko: "Se terminent par la lettre \"o\" :"
         frato: frère
         kafo: café
         titolo: "Les noms"
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "ils/elles (pluriel de \"ŝi\", \"li\" et \"ĝi\")"
           ni: nous
           titolo: Pluriel
           vi: vous
-        singularo: 
+        singularo:
           li: il
           mi: je
           titolo: Singulier
           vi: tu
           ĝi: "il/elle (objet, animal ou enfant dont on n'a pas besoin de préciser le sexe)"
           ŝi: elle
-        specialaj: 
+        specialaj:
           oni: "on (impersonnel)"
           si: "se (pronom réfléchi de la troisième personne, utilisé pour se référer au sujet de la proposition)."
           titolo: "Cas particuliers"
         titolo: "Les pronoms personnels"
-      pluralo: 
+      pluralo:
         ekspliko: "Pour indiquer le pluriel, on ajoute la lettre \"j\" à la fin des adjectifs et des noms :"
-        pluralo: 
+        pluralo:
           amikoj: "des amis"
           belaj: "beaux, belles"
           belaj-floroj: "de belles fleurs"
@@ -66,7 +66,7 @@ fr:
           patroj: "des pères"
           sanaj: "sain(e)s, bien portant(e)s"
           sanaj-patroj: "des pères bien portants"
-        singularo: 
+        singularo:
           amiko: ami
           bela: "beau, belle"
           bela-floro: "une belle fleur"
@@ -76,9 +76,9 @@ fr:
           sana: "sain(e), bien portant(e)"
           sana-patro: "un père bien portant"
         titolo: "Le pluriel"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Les adjectifs possessifs se forment en ajoutant la terminaison des adjectifs (\"a\") à la fin des pronoms personnels :"
-        posedaj: 
+        posedaj:
           ilia: leur
           lia: "son, sa (à lui)"
           mia: "mon, ma"
@@ -86,27 +86,27 @@ fr:
           via: "ton, ta, votre"
           ĝia: "son, sa (à un objet, à un animal)"
           ŝia: "son, sa (à elle)"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Les adjectifs possessifs prennent également la marque du pluriel \"j\" :"
           mia-amiko: "mon ami"
           miaj-amikoj: "mes amis"
           nia-floro: "notre fleur"
           niaj-floroj: "nos fleurs"
         titolo: "Les possessifs"
-      verboj: 
+      verboj:
         ekspliko: "L'infinitif se termine par -i ; le passé se termine par -is ; le présent se termine par -as ; le futur se termine par -os. Nous verrons les autres temps dans une autre leçon."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "ils/elles sont"
           ni-estas: "nous sommes"
           oni-estos: "on sera"
           vi-estis: "vous étiez"
-        singularo: 
+        singularo:
           li-estis: "il était"
           mi-estas: "je suis"
           ĝi-estos: "il/elle sera (objet, animal)"
           ŝi-estas: "elle est"
         titolo: "Les verbes"
-      vortaro01: 
+      vortaro01:
         amiko: ami
         bela: "beau, belle"
         biskvito: biscuit

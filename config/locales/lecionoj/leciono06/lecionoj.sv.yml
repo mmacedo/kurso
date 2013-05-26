@@ -1,103 +1,103 @@
---- 
-sv: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+sv:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: |-
-            Nu skall vi studera resterande korrelativa ord. Kom ihåg att tabellen är statisk och att det inte 
+            Nu skall vi studera resterande korrelativa ord. Kom ihåg att tabellen är statisk och att det inte
             går att  lägga till nya ord i rabellen.
         titolo: "Korrelativa tabellen"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Anger kvalitet, sort (det kan ha ändelserna '.j' och '-n'"
-        i: 
+        i:
           frazo: "Har du något tvivel angående Esperantos grammatik?"
           vorto: "någon, något slags (egenskap)"
-        ki: 
+        ki:
           frazo: "Hurudan har din dag varit? — Min dag har varit mycket bra, tack!"
           vorto: "hurudan, vad för en"
-        neni: 
+        neni:
           frazo: "Nej, jag har inte några tvivel om den."
           vorto: "ingen, inget slags"
-        ti: 
+        ti:
           frazo: "Jag kommer inte att äta ett sådant bröd."
           vorto: sådan
-        ĉi: 
+        ĉi:
           frazo: "Varje slags hjälp är välkommen."
           vorto: "varje (slags), allt (slags)"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Orsak / skäl"
-        i: 
+        i:
           frazo: "Av någon anledning känner jag dig icke ännu."
           vorto: "av någon orsak"
-        ki: 
+        ki:
           frazo: "Varför springer barnet? — Eftersom det är mycket glatt."
           vorto: varför
-        neni: 
+        neni:
           frazo: "Du skulle kunna reta honom hur mycket som helst. Han skulle inte bli arg av någon orsak."
           vorto: "av ingen orsak"
-        ti: 
+        ti:
           frazo: "Hon är mycket vacker. Därför älskar jag henne."
           vorto: därför
-        ĉi: 
+        ĉi:
           frazo: "Du frågar. varför jag älskar dig.  Jag svarar: Av alla skäl."
           vorto: "av alla skäl"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Sätt
-        i: 
+        i:
           ekspliko: "Odefinierad /Indefinit"
           frazo: "På  något sätt får hon  mig att minnas en annan person."
           vorto: "på något sätt"
-        ki: 
+        ki:
           ekspliko: "Indikerar fråga, anger relation till ord i föregående sats."
           frazo: "Hur mår du? — Jag mår mycket bra, tack!"
           vorto: "hur: (så) som"
-        neni: 
+        neni:
           ekspliko: Nekande
           frazo: "Jag kan på inget sätt förstå vad du säger."
           vorto: "på inget sätt, ingalunda"
-        ti: 
+        ti:
           ekspliko: "Visande /demonstrativt"
           frazo: "Hon skriver lika bra, som lärarinnan."
           vorto: "så, på så sätt"
-        ĉi: 
+        ĉi:
           ekspliko: Distributiva
           frazo: "De hjälpte mig på alla sätt."
           vorto: "på alla sätt"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Anger ägande"
-        i: 
+        i:
           frazo: "Jag hittade någons bok."
           vorto: någons
-        ki: 
+        ki:
           frazo: "Vems bok är denna? — Den där är Johans bok."
           vorto: "vems: vars, vilkens"
-        neni: 
+        neni:
           frazo: "Esperanto är inte någons egendom."
           vorto: ingens
-        ti: 
+        ti:
           frazo: "Katten  hade sprungit  på huset och skadat  dess tak."
           vorto: dennes
-        ĉi: 
+        ĉi:
           frazo: "Esperanto är allas språk.\n"
           vorto: "vars och ens, allas"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Anger mängd"
-        i: 
+        i:
           frazo: "Jag måste köpa lite kaffe."
           vorto: "något, lite, en smula"
-        ki: 
+        ki:
           frazo: "Hur mycket är två och (plus) två? — Fyra!"
           vorto: "hur mycket"
-        neni: 
+        neni:
           frazo: "Hur många barn leker i huset? Inte något (barn)."
           vorto: "icke det minsta, inte något"
-        ti: 
+        ti:
           frazo: "Han åt så mycket, som han ville."
           vorto: "så mycket"
-        ĉi: 
+        ĉi:
           frazo: "Hur mycket bensin vill du ha? Jag vill ha så mycket som du har."
           vorto: "det hela, allt sammans"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Orden som börjar med 'KI' kan även inleda meningar utan frågande innebörd. Dessa ord kallas 'relativer', ty de anger förhållandet mellan ett ord i en huvudsats och ett ord i en bisats."
         ekspliko-2: "I ovanstående mening är det  relationen mellan orden 'kiun' och 'tiun frukton' som avses."
         frazo-1: "Jag vill (ha) den frukt, som du visade."

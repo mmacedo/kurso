@@ -1,11 +1,11 @@
---- 
-hu: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+hu:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Most meghallgathatsz egy eszperantó zeneszámot, a \"Bluaj Fragoj\"-t. (Kék eprek) Elõadó: Merlin, egy brazil pop együttes, amelynek már két nagylemeze van eszperantó nyelven, és már zenélt szerte a világban. Az együttes tagjai: Markone Froes (ének és gitár), Guilherme Lima (dob), Aldrin Gandra (elektromos gitár), Sergio Ribeiro (basszusgitár) és Sergio Vieira (billentyû)."
         titolo: "Eszperantó zene"
-        vortaro: 
+        vortaro:
           aliri: Megközelíteni
           alveni-al: Megérkezni
           animo: Lélek
@@ -19,53 +19,53 @@ hu:
           vero: Igazság
           ĉielarko: Szivárvány
           ĉielo: "Ég, mennyország"
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "A második leckében láthattuk, hogyan lehet használni a tárgyesetet, hogy mutassa az ige közvetlen tárgyát. Vannak azonban olyan igék, amelyek nem igényelnek bõvítményt. Példák:"
         frazo-1: "Valami komoly dolog történt."
         frazo-2: "Nagyon örülök ma."
         frazo-3: "Õk már alusznak a saját ágyaikban."
         frazo-4: "A fiatalok sokat táncoltak."
-        ig: 
+        ig:
           ekspliko: "Az IG-gel végzõdõ igék mindig tárgyasak:"
           frazo-1: "Az utazás kétségtelenül kifárasztotta õt."
           frazo-2: "A déli nap égette a fedetlen fejét."
           frazo-3: "Az apa azonnal férjhez akarja adni az idõsebb lányt."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. A  tárgyas igékbõl IĜ képzõvel alkotott igék esetében nem állapotváltozásról van szó, hanem a cselekvésrõl, ami önmagával történt."
             frazo-1: "A tömeg lassabban futott, mint a jármû, amely nagyon gyorsan gurult."
             frazo-2: "Hirtelen az utcán találta magát, teljesen egyedül."
             frazo-3: "Hány órakor kezdõdik a tanóra?"
             frazo-4: "Gyalogosok tömege mozgott a járdákon."
           ekspliko: "Az összes IĜ utótaggal rendelkezõ ige nem tárgyas, ezért nem igényel bõvítményt, és jelenthet:"
-          unu: 
+          unu:
             ekspliko: "1. Állapotváltozást. A szógyök(ök) az eredményt mutatják, az új állapotot. Az IĜ -el végzõdõ igékben az aktus okozója nem fontos:"
             frazo-1: "Télen a vízek megfagynak."
             frazo-2: "Tegnap az idõjárás ismét felmelegedett."
             frazo-3: "Õ (nõ) férjhezment a saját unokatestvéréhez."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Néhánynak közülük lehet bõvítménye elõljáróval."
           ekspliko-2: "Más igék néhány esetben kaphatnak közvetlen tárgyat."
           frazo-1: "Az apa meghalt rákban."
           frazo-2: "Nagyon örülök a szerencsédnek(boldogságodnak)!"
           frazo-3: "(nõ) Mély álmot alszik."
           frazo-4: "(nõ) Keringõt táncolt vele (férfival)."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Jegyezd meg, hogy az \"esti\" (lenni) szó nem követel tárgyesetet, és az elöljáró után nem használunk tárgyesetet!"
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Vannak még tárgyatlan igék is:"
           frazo-1: "Tegnap sokat esett az esõ."
           frazo-2: "Virrad, és el kell indulnom haza."
           frazo-3: "Erõsen havazott, és nem tudta elhagyni a faházat."
         titolo: "Igei tárgyasság"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Bizonyára már megfigyelted az eszperantó rendkívüli kifejezõ képességét. Valójában az elõképzõk, utóképzõk és végzõdések használatával sok szót lehet alkotni, köztük sok olyat, amelynek nincs is közvetlen magyar megfelelõje. De az eszperantó gazdagsága nem ér itt véget. A szógyökök összeillesztésének rendszerével a szókincset tovább lehet bõvíteni, szinonimákat találni, hangsúlyozni, vagy akár árnyalt értelmet adni a szavaknak. Következik néhány példa a nemzetközi nyelv szóalkotási képességérõl:"
         ekspliko-2: "Végzõdésekkel, elõtagokkal és utótagokkal:"
         ekspliko-3: "Szógyökök összeillesztése: Tekintettel az összetett szó érthetõségére és jó hangzására, az elsõ szógyök végzõdését meg lehet tartani vagy el lehet hagyni:"
         ekspliko-4: "Szavak alkotása szócsoportokból:"
         rimarkigo: "Bár lehet szerkeszteni szavakat több, mint két elõtaggal és/vagy utótaggal, mégis ajánlatos az érthetõség és a nyelvi elegancia kedvéért kerûlni az ilyen szerkezeteket. Így pl. a \"belulineto\" helyett  inkább az \"eta belulino\" javasolt."
         titolo: "Szóalkotás az eszperantóban"
-        vortoj: 
+        vortoj:
           antaŭbrako: alkar
           balenŝipo: bálna(vadász)hajó
           helruĝo: világospiros

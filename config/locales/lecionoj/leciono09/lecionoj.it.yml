@@ -1,57 +1,57 @@
---- 
-it: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+it:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "denota uno degli elementi che costituiscono il tutto"
           monero: "[una] moneta"
           mono: "[del] denaro"
           salero: "[un] granello di sale"
           salo: "[del] sale"
-        estr: 
+        estr:
           ekspliko: "denota un individuo di rango superiore e primario, con effettiva facoltà di comando"
           urbestro: "[un] sindaco"
           urbo: "[una] città"
           ŝipestro: "[un] capitano (di nave)"
           ŝipo: "[una] nave"
-        et: 
+        et:
           ekspliko: "denota piccolezza, tenuità, bassa intensità"
           pupeto: "[una] bambolina, bamboletta"
           pupo: "[una] bambola"
           rideti: sorridere
           ridi: ridere
-        id: 
+        id:
           ekspliko: "denota figliolanza: nato, piccolo, figlio, cucciolo"
           katido: "[un] gattino"
           kato: "[un] gatto"
           reĝido: "[un] principe"
           reĝo: "[un] re"
-        ig: 
+        ig:
           ekspliko: "denota il causativo: rendere, porre in un certo stato, far fare"
           morti: morire
           mortigi: "uccidere (lett: render morto)"
           pura: "pulito / a"
           purigi: "pulire (lett.: rendere pulito)"
-        il: 
+        il:
           ekspliko: "denota uno strumento o attrezzo per eseguire l'azione espressa dalla radice"
           muzikilo: "[uno] strumento musicale"
           muziko: "[una / della] musica"
           ŝlosi: "chiudere a chiave"
           ŝlosilo: "[una] chiave"
-        in: 
+        in:
           ekspliko: "denota il genere femminile"
           kokino: "[una] gallina"
           koko: "[un] gallo"
           onklino: "[una] zia"
           onklo: "[uno] zio"
-        ind: 
+        ind:
           admiri: ammirare
           admirinda: ammirevole
           ekspliko: "denota che quanto è espresso dalla radice è meritato, appropriato, confacente"
           laŭdi: lodare
           laŭdinda: lodevole
-        ist: 
+        ist:
           ekspliko: "denota professione, occupazione abituale"
           esperantisto: "[un] esperantista"
           esperanto: "[l'] esperanto"
@@ -61,7 +61,7 @@ it:
           raportisto: "[un] corrispondente (giornalista)"
           tajpi: "battere a macchina"
           tajpisto: "[un] dattilografo"
-        iĝ: 
+        iĝ:
           ekspliko: "denota cambio di stato (riflessivo / passivo con agente ignoto): divenire, diventare"
           fari: fare
           fariĝi: "farsi, divenire"
@@ -69,39 +69,39 @@ it:
           mateno: "[un] mattino"
           ruĝa: "rosso / a"
           ruĝiĝi: arrossire
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "denota vezzeggiativo femminile (accodato alla radice; o ad una parte, per eufonia)"
           manjo: "Marietta, Mariuccia"
           panjo: "[una] mamma"
           patrino: "[una] madre"
-        obl: 
+        obl:
           du: due
           duobla: "doppio / a"
           ekspliko: "denota multiplazione"
           tri: tre
           trioblo: "[il] triplo"
         ? "on"
-        : 
+        :
           dek: dieci
           dekono: "un decimo"
           ekspliko: "denota una frazione di quanto indicato dalla radice"
           kvar: quattro
           kvarono: "un quarto"
-        op: 
+        op:
           du: due
           duopo: "[un] duo, [una] coppia"
           ekspliko: "denota distribuzione: a gruppi di, in tot alla volta"
           ses: sei
           sesopo: "[un] sestetto"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Qualora si ingeneri confusione tra i vari significati di questo suffisso, si può ricorrere a sinonimi; ad esempio:"
           germanio: "[la] Germania"
           pomarbo: "[un] melo"
           pomkesto: "[un] cesto di mele"
           ruslando: "[la] Russia"
         titolo: Suffissi
-        uj: 
+        uj:
           ekspliko: "denota: oggetto che ne contiene altri; pianta di un dato frutto; paese di un dato popolo"
           franco: "[un] francese"
           francujo: "[la] Francia"
@@ -109,7 +109,7 @@ it:
           monujo: "[un] portafoglio"
           pomo: "[una] mela"
           pomujo: "[un] melo / recipiente per mele"
-        ul: 
+        ul:
           ekspliko: "denota un individuo caratterizzato dalla radice"
           kontraŭ: "contro, di fronte a"
           kontraŭulo: "[un] oppositore"
@@ -119,13 +119,13 @@ it:
           sanktulo: "[un] santo"
           stulta: "stupido / a"
           stultulo: "[uno] stupido"
-        um: 
+        um:
           ekspliko: "suffisso omnibus, usato per significati vari, non esprimibili con gli altri suffissi"
           kolo: "[un] collo"
           kolumo: "[un] colletto"
           plena: "pieno / a, completo / a"
           plenumi: adempiere
-      vortordo: 
+      vortordo:
         dialogo: "— T'ho vista, tesoro, e subito mi sono innamorato di te! — Ti credo; tuttavia, non ti manchi l'oro nel borsellino! — Ti amo, ma, carissima, non ti credevo un tipo simile! — Avaro! Se mi amassi, faresti di me una regina."
         ekspliko-1: "Finora, nelle proposizioni s'è rispettato l'ordine: soggetto - verbo - complemento, che è il più frequente in esperanto. Ne sono però possibili altri, a condizione che sia salvaguardata la chiarezza. E' questo il caso quando si voglia enfatizzare un certo elemento della frase. Nelle proposizioni seguenti l'ordine è stato variato, proprio per enfatizzare uno degli elementi:"
         ekspliko-2: "Per enfatizzare un elemento della frase, gli si può affiancare la particella \"ja\", che ne mette in risalto il significato."

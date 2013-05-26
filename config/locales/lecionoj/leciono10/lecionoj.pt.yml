@@ -1,11 +1,11 @@
---- 
-pt: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+pt:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Um pouco mais sobre os verbos: vimos que os verbos terminam em \"as\" no presente, em \"is\" no passado, em \"os\" no futuro e em \"i\" no infinitivo. Há também os modos:"
         titolo: "Outros tempos verbais"
-      imperativo: 
+      imperativo:
         ekspliko-1: "O modo imperativo (-u) é normalmente na segunda pessoa, e não é necessário usar o pronome. Porém, quando tratar-se da 1ª ou 3ª pessoa, usa-se o devido pronome:"
         ekspliko-2: "O caráter da terminação -u é a finalidade (ordem, pedido, exortação, desejo, necessidade, dever, permissão, proibição etc.) Nos casos de \"espero\", \"temo\", \"não creio\", \"suponho\"  etc. usa-se a terminação do futuro (-os)."
         frazo-1: "Feche a porta e sente-se."
@@ -17,8 +17,8 @@ pt:
         frazo-7: "Sugiro que ele venha."
         frazo-8: "É possível que ele venha."
         titolo: "Imperativo (-U)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Eu devo entender, eu tenho que entender"
           devas-veni: "Eu devo vir, eu tenho que vir"
           devi: "dever, ter que"
@@ -28,29 +28,29 @@ pt:
           volas-kompreni: "Eu quero entender"
           volas-veni: "Eu quero vir"
           voli: querer
-        scio: 
+        scio:
           frazo-koni-1: "Eu conheço ..., sou familiar com ..."
           frazo-koni-2: "Você conhece João?"
           frazo-scii-1: "Eu sei ..., eu tenho pleno conhecimento de ..."
           frazo-scii-2: "Você sabe Esperanto?"
         titolo: "Alguns verbos muito importantes"
-        ŝato: 
+        ŝato:
           frazo-ami: "Eu amo alguém."
           frazo-plaĉi-1: "Algo ou alguém me agrada."
           frazo-plaĉi-2: "Livros me agradam (Eu gosto de livros)."
           frazo-ŝati: "Eu gosto de alguma coisa."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Se eu fosse rico, viajaria muito."
         frazo-2: "Nós comeríamos o pão, se ele fosse bom."
         titolo: "Condicional (-US)"
-      nerekta: 
+      nerekta:
         ekspliko: "No discurso indireto, usa-se o mesmo tempo e modo verbal do discurso direto: Ex.:"
         frazo-1: "Ele disse: \"Venho de Nova York\"."
         frazo-2: "Ele disse que vinha de Nova York."
         frazo-3: "Ela disse: \"Vou viajar a Paris\"."
         frazo-4: "Ela disse que ia viajar a Paris."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Estou para ler."
           frazo-presenco: "Eu estou lendo."
           frazo-preterito: "Eu acabo de ler."
@@ -74,7 +74,7 @@ pt:
         frazo-7: "A porta fechada"
         frazo-8: "Sol levante"
         frazo-9: "Os sobreviventes"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Eu leio o livro = O livro é lido por mim."
           frazo-futuro: "O livro está por ser lido."
           frazo-presenco: "O livro está sendo lido."
@@ -84,7 +84,7 @@ pt:
           preterito: "Pretérito: -it"
           titolo: "Voz Passiva"
         titolo: Particípios
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" é o pronome reflexivo da terceira pessoa, usado quando se refere ao sujeito da oração."
         ekspliko-2: "\"Sia\" não pode ser parte do próprio sujeito. Nesse caso usa-se \"lia\", \"ŝia\", \"ĝia\" ou \"ilia\". Nos exemplos abaixo \"filo\" refere-se a \"li\"."
         frazo-1: "João lavou-se (lavou a si mesmo)."

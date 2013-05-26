@@ -1,19 +1,19 @@
---- 
-ar: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+ar:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: جميل
         ekspliko: "تنتهي كل الصفات بـ\"-a\""
         sana: معاف
         titolo: الصفات
         varma: "دافئ أو سخن"
-      alfabeto: 
+      alfabeto:
         ekspliko: "بالإسبرانتو تكتب الكلمات كما تنطق وتنطق كما تكتب بلا استثناء ، ودائما ما يكون المقطع السابق للأخير منبورا (منطوقا بشدة عما حوله). انقر الحروف والكلمات لتسمعها ثم رددها:"
         titolo: "الألفباء الإسبرانتية"
-      artikolo: 
+      artikolo:
         ekspliko: "أداة المعرفة الإسبرانتية هي \"la\" ، ولا يعرّف إلا اسم ، فلا تتبع الصفات أسماءها في التعريف ، وإنما هي أداة واحدة تضاف قبل الاسم وكل صفاته :"
-        frazoj: 
+        frazoj:
           frazo-1: "أولادكم أصدقاؤنا."
           frazo-2: "الخبز جاف."
           frazo-3: "الحليب الدافئ جيد."
@@ -22,7 +22,7 @@ ar:
           frazo-6: "الأب جيد."
           titolo: جمل
         titolo: "أداة المعرفة"
-        vortoj: 
+        vortoj:
           floroj: ورود
           knabo: صبي
           la-floroj: الورود
@@ -31,33 +31,33 @@ ar:
           la-patroj: الآباء
           pano: خبز
           patroj: آباء
-      nomoj: 
+      nomoj:
         amiko: صديق
         ekspliko: "تنتهي كل الأسماء بـ\"-o\""
         frato: أخ
         kafo: قهوة
         titolo: الأسماء
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "هما أو هم أو هن"
           ni: نحن
           titolo: الجمع
           vi: "أنتما أو أنتم أو أنتن"
-        singularo: 
+        singularo:
           li: هو
           mi: أنا
           titolo: المفرد
           vi: "أنتَ أو أنتِ"
           ĝi: "هو أو هي (شيء أو حيوان أو طفل لا جنس له أو لا حاجة لذكر جنسه)"
           ŝi: هي
-        specialaj: 
+        specialaj:
           oni: "الواحد منا أو أحد (تستعمل عند عموم الفاعل أو عند جهوله أو غموضه)."
           si: "(نفسه)  ضمير عائد على الفاعل الغائب سواء أكان مفردا أم جمعا ، لا يكون فاعلا ولا جزءا من فاعل."
           titolo: أيضًا
         titolo: الضمائر
-      pluralo: 
+      pluralo:
         ekspliko: "تجمع الكلمات بإضافة \"-j\" إلى آخرها."
-        pluralo: 
+        pluralo:
           amikoj: أصدقاء
           belaj: جميلون
           belaj-floroj: "ورود جميلة"
@@ -66,7 +66,7 @@ ar:
           patroj: آباء
           sanaj: معافون
           sanaj-patroj: "آباء معافون"
-        singularo: 
+        singularo:
           amiko: صديق
           bela: جميل
           bela-floro: "وردة جميلة"
@@ -76,9 +76,9 @@ ar:
           sana: معاف
           sana-patro: "أب معاف"
         titolo: الجمع
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "تضاف النهاية النسبية (التي تحول الأسماء إلى صفات) إلى الضمائر لتشكل ضمائر الملكية :"
-        posedaj: 
+        posedaj:
           ilia: ـهم
           lia: ـه
           mia: ـي
@@ -86,27 +86,27 @@ ar:
           via: ـك
           ĝia: "ـه لغير العاقل"
           ŝia: ـها
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "تتبع الصفات أسماءها في الجمع والإفراد فتأخد \"j-\" عند تبعها لجمع."
           mia-amiko: صديقي
           miaj-amikoj: أصدقائي
           nia-floro: وردتنا
           niaj-floroj: ورودنا
         titolo: "ضمائر الملكية"
-      verboj: 
+      verboj:
         ekspliko: "تنتهي كل المصادر بـi كما في \"esti\"وكل المواضي بـis وكل الحواضر بـas وكل المستقبلات بـos. أما بقية الأزمنة فتذكر لاحقا."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "هم (يكونون)"
           ni-estas: "نحن (نكون)"
           oni-estos: "سيكون الواحد منا"
           vi-estis: كنتَ
-        singularo: 
+        singularo:
           li-estis: كان
           mi-estas: "أنا (أكون)"
           ĝi-estos: "سيكون ذلك"
           ŝi-estas: "هي (تكون)"
         titolo: الأفعال
-      vortaro01: 
+      vortaro01:
         amiko: صديق
         bela: جميل
         biskvito: "بسكويت أو بقسماط"

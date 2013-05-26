@@ -1,57 +1,57 @@
---- 
-id: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+id:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Sebagian dari keseluruhan"
           monero: "mata uang"
           mono: uang
           salero: "remah garam"
           salo: garam
-        estr: 
+        estr:
           ekspliko: "Seorang atasan yang dapat memberi perintah;   pemimpin"
           urbestro: walikota
           urbo: kota
           ŝipestro: "kapten kapal"
           ŝipo: kapal
-        et: 
+        et:
           ekspliko: "kecil,  pendek;   tidak kuat/hebat"
           pupeto: "boneka kecil"
           pupo: boneka
           rideti: tersenyum
           ridi: tertawa
-        id: 
+        id:
           ekspliko: "Anak, keturunan"
           katido: "anak kucing"
           kato: kucing
           reĝido: "putera raja"
           reĝo: raja
-        ig: 
+        ig:
           ekspliko: "Menyuruh, menjadikan, memaksa"
           morti: "meninggal,  mati"
           mortigi: membunuh
           pura: bersih
           purigi: "membersihkan,  mencuci"
-        il: 
+        il:
           ekspliko: "Alat untuk membuat aksi"
           muzikilo: "alat musik"
           muziko: musik
           ŝlosi: mengunci
           ŝlosilo: kunci
-        in: 
+        in:
           ekspliko: "Menunjukkan jenis perempuan/betina"
           kokino: ayam
           koko: "ayam jantan"
           onklino: bibi
           onklo: paman
-        ind: 
+        ind:
           admiri: "memuji amat,  kagum akan"
           admirinda: terpuji
           ekspliko: "Yang berjasa, berguna, patut, kepujian"
           laŭdi: memuji
           laŭdinda: "patut dipuji"
-        ist: 
+        ist:
           ekspliko: "Profesi, pekerjaan yang biasa"
           esperantisto: "orang yg berbicara Esperanto"
           esperanto: "bahasa Esperanto"
@@ -61,7 +61,7 @@ id:
           raportisto: "pembuat laporan"
           tajpi: mengetik
           tajpisto: "juru ketik"
-        iĝ: 
+        iĝ:
           ekspliko: Menjadi
           fari: membuat
           fariĝi: menjadi
@@ -69,39 +69,39 @@ id:
           mateno: pagi
           ruĝa: merah
           ruĝiĝi: "menjadi kemerah-merahan"
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "Akhiran timangan untuk orang perempuan (dengan sebagian kata dasar dan suara yang baik)"
           manjo: "Meri, Mary, May"
           panjo: "'bu"
           patrino: ibu
-        obl: 
+        obl:
           du: dua
           duobla: "dua kali lipat"
           ekspliko: "berkali-kali,  perkalian"
           tri: tiga
           trioblo: "tiga kali lipat"
         ? "on"
-        : 
+        :
           dek: sepuluh
           dekono: sepersepuluh
           ekspliko: Pecahan
           kvar: empat
           kvarono: seperempat
-        op: 
+        op:
           du: dua
           duopo: "sepasang,  pasangan"
           ekspliko: "dalam kelompok yg terdiri dari"
           ses: enam
           sesopo: "kelompok enam orang dsb"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Bilamana kebingungan diantara arti akhiran ini, memakai kata searti.  Contoh:"
           germanio: Jerman
           pomarbo: "pohon apel"
           pomkesto: "keranjang apel"
           ruslando: Rusia
         titolo: Akhiran
-        uj: 
+        uj:
           ekspliko: "Obyek barang, dengan barang yang lain di dalamnya;   negeri sesuai dengan penduduk"
           franco: "orang Perancis"
           francujo: Perancis
@@ -109,7 +109,7 @@ id:
           monujo: dompet
           pomo: apel
           pomujo: "keranjang apel"
-        ul: 
+        ul:
           ekspliko: "Orang dengan sifat dalam kata dasar"
           kontraŭ: melawan
           kontraŭulo: lawan
@@ -119,17 +119,17 @@ id:
           sanktulo: "orang suci"
           stulta: bodoh
           stultulo: "orang bodoh / tolol / goblok"
-        um: 
+        um:
           ekspliko: "Akhiran tidak tentu,  dengan beberapa arti"
           kolo: leher
           kolumo: "leher baju"
           plena: lengkap
           plenumi: "memenuhi, mengerjakan"
-      vortordo: 
+      vortordo:
         dialogo: |-
             1.  Saya melihat anda, oh kekasih, dan saya langsung jatuh cinta!
             2.  Saya percaya kepada anda, tetapi ada emas kontan siap sedia   dalam dompet.           3.Saya cinta anda, tetapi, kekasih saya, saya tidak percaya anda  seperti itu!
-            4 Bilamana anda cinta saya, oh orang serakah, anda akan 
+            4 Bilamana anda cinta saya, oh orang serakah, anda akan
                   menjadikan saya ratu.
         ekspliko-1: "Sehingga sekarang, kita telah mempelajari kata urutan: pokok kalimat, kata kerja, pelengkap langsung.  Itu kata urutan yg umum dipakai dalam bahasa Esperanto.  Tetapi, kata urutan yg lain dapat dipakai, bilamana artinya jelas.  Kita dapat mengganti urutannya untuk mengutamakan kata istimewa dalam kalimat.  Dalam kalimat yg berikutnya, kata urutannya diganti untuk menutamakan satu bagiannya:"
         ekspliko-2: "Untuk mengutamakan bagian kalimat, kata kecil \"ja\" juga dapat dipakai untuk merupakan artinya:"

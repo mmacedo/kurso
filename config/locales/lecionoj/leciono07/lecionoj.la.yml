@@ -1,11 +1,11 @@
---- 
-la: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+la:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Prievārdi ir tādi vārdi, kuri parāda attiecību starp diviem vārdiem."
         titolo: "Prievārdi I"
-        vortoj: 
+        vortoj:
           al: "pie, uz (virziena apzīmēšana); datīva apzīmēšana"
           da: "prievārds mēra, svara un daudzuma apzīmēšanai"
           de: "no; ģenetīva apzīmešana"
@@ -18,9 +18,9 @@ la:
           sur: uz
           ĉe: "pie, klāt"
           ĝis: līdz
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prievārdi II"
-        vortoj: 
+        vortoj:
           anstataŭ: vietā
           antaŭ: "priekšā; pirms"
           apud: "pie; blakus"
@@ -39,7 +39,7 @@ la:
           tra: caur
           trans: "pār; pāri; viņpus"
           ĉirkaŭ: "apkārt; apmēram"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Otrajā lekcijā mēs redzējām, ka galotne -n norāda uz tiešā papildinātāja klātbūtni. Tas ir akuzatīvs. Piem.:"
         ekspliko-2: "Kad frāzei ir divi papildinātāji, vienam no tiem jābūt netiešajam papildinātājam. Piem. :"
         ekspliko-3: "Prievārda lietošana augšējā piemērā ir nepieciešama un netiešais papildinātājs neiegūst akuzatīva galotni. Lūk citi piemēri:"
@@ -56,8 +56,8 @@ la:
         frazo-5: "Viņš dzēra tasi kafijas."
         frazo-6: "Aizejiet no manām acīm (no manis)!"
         titolo: "Prievārdi III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "atnākt, ierasties, atbraukt"
           aŭtobuseto: autobusiņš
           danki: pateikties
@@ -72,8 +72,8 @@ la:
           sidi: sēdēt
           tagmanĝo: pusdienas
           viziti: apmeklēt
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktika
           Kanado: Kanāda
           admiri: apbrīnot

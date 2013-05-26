@@ -1,29 +1,29 @@
---- 
-sv: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+sv:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Datum utläses enlig modellen ( orden 'tago' och 'en la jaro' är underförstådda):"
         titolo: Datum
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Brödet är torrt."
           titolo: "Påstående:"
-        demando: 
+        demando:
           frazo-1: "Är brödet torrt?"
           titolo: "Fråga:"
         ekspliko: |-
-            Alla frågor konstrueras med utgångspunkt från en påståendefras genom att man placerar det 
-            lilla ordet 'Ĉu' i början av frasen / meningen. Observera att påståendefrasens ordföljd inte 
-            behöver ändras, det är bara det lilla ordet 'ĉu' som placeras först i frasen.  Detta gäller alla 
-            frågor vars svar kommer att bli 'jes' (ja) eller 'ne' (nej).  Senare i kursen kommer andra 
+            Alla frågor konstrueras med utgångspunkt från en påståendefras genom att man placerar det
+            lilla ordet 'Ĉu' i början av frasen / meningen. Observera att påståendefrasens ordföljd inte
+            behöver ändras, det är bara det lilla ordet 'ĉu' som placeras först i frasen.  Detta gäller alla
+            frågor vars svar kommer att bli 'jes' (ja) eller 'ne' (nej).  Senare i kursen kommer andra
             frågeord (kio, kial, kiel osv.) att behandlas. 'ĉu' kan lämpligen översättas med 'månne'.
-        respondo: 
+        respondo:
           frazo-negativa: "Nej, brödet är inte torrt"
           frazo-pozitiva: "Ja, brödet är torrt."
           titolo: "Svar:"
         titolo: Frågemeningar
-      monatoj: 
+      monatoj:
         aprilo: april
         aŭgusto: augusti
         decembro: december
@@ -37,7 +37,7 @@ sv:
         oktobro: oktober
         septembro: september
         titolo: "Årets månader."
-      salutoj: 
+      salutoj:
         saluto-1: Hej!
         saluto-10: "Smaklig måltid!"
         saluto-11: "Tack det samma! (Det samma till dig, tack)"
@@ -53,12 +53,12 @@ sv:
         saluto-8: "Ganska bra"
         saluto-9: "Inte så bra."
         titolo: Hälsningar
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: "i går"
           hodiaŭ: "i dag"
           morgaŭ: "i morgon"
-        semajno: 
+        semajno:
           dimanĉo: söndag
           lundo: måndag
           mardo: tisdag
@@ -67,11 +67,11 @@ sv:
           vendredo: fredag
           ĵaŭdo: torsdag
         titolo: "Veckans dagar"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: |-
-            Läs nedanstående text, skriven av esperantostuderande, och försök förstå den genom att 
+            Läs nedanstående text, skriven av esperantostuderande, och försök förstå den genom att
             använda ordlistan.
-        vortaro: 
+        vortaro:
           alia: annan
           antaŭ: "före, sedan"
           facila: "lätt (ej svårt)"
@@ -79,7 +79,7 @@ sv:
           komenci: börja
           lerni: lära
           tre: "mycket (graden)"
-      vortaro04: 
+      vortaro04:
         infano: barn
         kaj: och
         kolekti: samla

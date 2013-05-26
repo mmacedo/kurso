@@ -1,24 +1,24 @@
---- 
-fr: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+fr:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Voici comment énoncer les dates (les mots \"jour\" et \"dans l'année\" sont sous-entendus) :"
         titolo: "Les dates"
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Le pain est sec."
           titolo: "Affirmation :"
-        demando: 
+        demando:
           frazo-1: "Est-ce que le pain est sec ? Le pain est-il sec ?"
           titolo: "Question :"
         ekspliko: "On construit chaque question à partir de l'affirmation, en mettant seulement, au début de la phrase, le petit mot \"Ĉu\". Faites attention que l'ordre des mots ne change pas en espéranto, on met seulement le mot \"ĉu\" devant la phrase. Cela est valable pour toutes les questions dont les réponses sont \"oui\" ou \"non\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Non, le pain n'est pas sec."
           frazo-pozitiva: "Oui, le pain est sec."
           titolo: "Réponse :"
         titolo: "Phrases interrogatives"
-      monatoj: 
+      monatoj:
         aprilo: avril
         aŭgusto: août
         decembro: décembre
@@ -32,7 +32,7 @@ fr:
         oktobro: octobre
         septembro: septembre
         titolo: "Les mois de l'année"
-      salutoj: 
+      salutoj:
         saluto-1: "Salut ! (Bonjour !)"
         saluto-10: "Bon appétit !"
         saluto-11: "Pareillement à vous, merci !"
@@ -48,12 +48,12 @@ fr:
         saluto-8: "Assez bien."
         saluto-9: "Pas très bien."
         titolo: Salutations
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: hier
           hodiaŭ: aujourd'hui
           morgaŭ: demain
-        semajno: 
+        semajno:
           dimanĉo: dimanche
           lundo: lundi
           mardo: mardi
@@ -62,9 +62,9 @@ fr:
           vendredo: vendredi
           ĵaŭdo: jeudi
         titolo: "Les jours de la semaine"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Lisez le texte ci-dessous écrit par un élève d'un cours d'espéranto et essayez de le comprendre avec l'aide du vocabulaire."
-        vortaro: 
+        vortaro:
           alia: autre
           antaŭ: "avant, devant"
           facila: facile
@@ -72,7 +72,7 @@ fr:
           komenci: commencer
           lerni: apprendre
           tre: très
-      vortaro04: 
+      vortaro04:
         infano: enfant
         kaj: et
         kolekti: "rassembler, recueillir, collectionner"

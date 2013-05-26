@@ -1,8 +1,8 @@
---- 
-ch: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+ch:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: 除了第二课已学的疑问句外，世界语的疑问句还有其它表达方式：
         frazo-1: 那盒子是蓝色的吗？
         frazo-2: 你要去电影院吗？
@@ -11,7 +11,7 @@ ch:
         frazo-5: 那盒子不是蓝色的，对吗？
         frazo-6: 你不去电影院，是吗？
         titolo: 其它疑问句式
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: 在世界语里有些语意的表达要用固定词组，下面我们就来了解一下：
         jen: 一会儿……一会儿，时而……时而（表示更迭）
         jen-frazo-1: 男孩一哭一会笑。
@@ -29,11 +29,11 @@ ch:
         ĉu: 表示可能，其选择可以是无差别的，相等的，自由的或不肯定的。
         ĉu-frazo-1: 无论是由于害怕还是因为自豪，他什么也没回答。
         ĉu-frazo-2: 不管是下雨，还是出太阳，我都会走的。
-      horoj: 
+      horoj:
         je-kioma: 你打算几点打电话？
         kioma-estas: 几点钟了？
         titolo: 时间
-      interjekcioj: 
+      interjekcioj:
         bis: 再来一次！
         fi: 呸！
         ha-1: 哈！
@@ -45,7 +45,7 @@ ch:
         titolo: 感叹词
         ve: （表示悲痛、惋惜、遗憾等）唉！
         ve-al-mi: 我真倒霉！
-      mallongiloj: 
+      mallongiloj:
         bv: 请
         e-isto: 世界语者
         e-o: 世界语
@@ -57,7 +57,7 @@ ch:
         str: 街，街道
         te: 那就是
         titolo: 省略语
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: 任何（一个）；无论，不管
         almenaŭ: 至少
         ambaŭ: 两者，两人，双方

@@ -1,11 +1,11 @@
---- 
-pl: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+pl:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Ćwiczenie rozumienia ze słuchu I"
         auxdkompreno01-instrukcio: "W następnym ćwiczeniu usłyszysz słowo i musisz  nacisnąć przycisk odpowiedni dla niego. Jeśli trafisz,  zniknie ono , jeśli nie, usłyszysz to słowo w innym  momencie ćwiczenia. Musisz trafić  przynajmiej w 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1.Herbata jest ciepła."
         frazo02: "2. Nauczyciel jest ojcem."
         frazo03: "3. Twój ojciec  był dobry."

@@ -1,57 +1,57 @@
---- 
-sv: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+sv:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "ett av de element som utgör helheten"
           monero: mynt
           mono: pengar/valuta
           salero: saltkorn
           salo: salt
-        estr: 
+        estr:
           ekspliko: "Någon som innehar högre befattning och har rätt att ge order"
           urbestro: borgmästare
           urbo: stad
           ŝipestro: fartygschef
           ŝipo: skepp
-        et: 
+        et:
           ekspliko: "liten, med svag intensitet"
           pupeto: "liten docka"
           pupo: docka
           rideti: le
           ridi: skratta
-        id: 
+        id:
           ekspliko: "avkomma, barn"
           katido: kattunge
           kato: katt
           reĝido: "prins (kungason)"
           reĝo: kung
-        ig: 
+        ig:
           ekspliko: "låta göra (något), få någon att göra något"
           morti: dö
           mortigi: "döda (göra död)"
           pura: ren
           purigi: "göra rent"
-        il: 
+        il:
           ekspliko: "verktyg eller apparat som används för att utföra verksamheten."
           muzikilo: musikinstrument
           muziko: musik
           ŝlosi: låsa
           ŝlosilo: nyckel
-        in: 
+        in:
           ekspliko: "anger kvinnligt kön (femininum)"
           kokino: höna
           koko: tupp
           onklino: "faster / moster"
           onklo: morbro/farbror
-        ind: 
+        ind:
           admiri: beundra
           admirinda: beundransvärd
           ekspliko: "det som är värt att, det som förtjänar att"
           laŭdi: berömma
           laŭdinda: berömvärd
-        ist: 
+        ist:
           ekspliko: "profession, yrkesman, person som utför viss verksamhet ofta"
           esperantisto: esperantist
           esperanto: esperanto
@@ -61,7 +61,7 @@ sv:
           raportisto: reporter
           tajpi: "skriva på maskin"
           tajpisto: maskinskrivare
-        iĝ: 
+        iĝ:
           ekspliko: "bli (utan påverkan av yttre omständighet)"
           fari: göra
           fariĝi: bli
@@ -69,39 +69,39 @@ sv:
           mateno: morgon
           ruĝa: röd
           ruĝiĝi: rodna
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "smeknamnsbildande suffix för kvinnor (vanligen 3 - 5 bokstäver + suffixet)"
           manjo: "Maja (ev. Mia)"
           panjo: mamsen
           patrino: "moder, mor"
-        obl: 
+        obl:
           du: två
           duobla: "tvåfaldig, dubbel"
           ekspliko: "-faldig, -dubbel"
           tri: tre
           trioblo: tredubbel
         ? "on"
-        : 
+        :
           dek: tio
           dekono: tiondel
           ekspliko: "-del (bråkdel av det roten uttrycker)"
           kvar: fyra
           kvarono: fjärdedel
-        op: 
+        op:
           du: två
           duopo: par
           ekspliko: "I grupper om"
           ses: sex
           sesopo: "grupp om sex"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Om det uppstår tveksamhet om innebörden av 1 och 2 bör man istället använda synonymer:"
           germanio: Tyskland
           pomarbo: äppelträd
           pomkesto: äppellåda
           ruslando: Ryssland
         titolo: Suffix
-        uj: 
+        uj:
           ekspliko: "föremål som innesluter andra föremål/behållare, träd med frukt, landet där angivet folk bor"
           franco: fransman
           francujo: Frankrike
@@ -109,7 +109,7 @@ sv:
           monujo: portmonnä
           pomo: äpple
           pomujo: äppelträd
-        ul: 
+        ul:
           ekspliko: "varelse med egenskap enligt roten"
           kontraŭ: emot
           kontraŭulo: motståndare
@@ -119,15 +119,15 @@ sv:
           sanktulo: helgon
           stulta: dum
           stultulo: "dummer, dum person"
-        um: 
+        um:
           ekspliko: "suffix utan fastbetydelse (de skapade ordens innebörd måste läras separat)"
           kolo: hals
           kolumo: krage
           plena: full
           plenumi: uppfylla
-      vortordo: 
+      vortordo:
         dialogo: |-
-            — Jag såg dig, å min skatt, 
+            — Jag såg dig, å min skatt,
                och ville genast få dig fatt!
             — Jag tror dig o min kung
                men jag behöver guld uti min pung!
@@ -139,8 +139,8 @@ sv:
         ekspliko-2: "För att understryka ord i mening kan man även använda det lilla ordet 'ja' = ju, som framhäver betydelsen:"
         ekspliko-3: "Ord som börjar på 'KI' måste stå i början av en mening eller bisats:"
         ekspliko-4: |-
-            Inom poesi är det vanligt att placera orden på olika ställen i meningen. Studera  följande 
-            humoristiska fyr-rads verser, där subjekt, verb och komplement uppträder på de sex platser 
+            Inom poesi är det vanligt att placera orden på olika ställen i meningen. Studera  följande
+            humoristiska fyr-rads verser, där subjekt, verb och komplement uppträder på de sex platser
             som är möjliga. Obs.  Den svenska 'översättningen'  är på intet sätt  ordagrann.
         ekspliko-5: "Denna frihet ger poesin en enorm flexibilitet, men. i proza och dagligt bruk är denna frihet inte absolut, ty praxis har redan sanktionerat vissa former, t.ex.:"
         ekspliko-6: "Istället för:"

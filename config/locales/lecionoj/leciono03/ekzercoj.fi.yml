@@ -1,11 +1,11 @@
---- 
-fi: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+fi:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: Numeraaliharjoitus
         numeraloj-ekzercoj-instrukcioj: "Kirjoita osoitettuun tilaan numeraali, joka vastaa tekstiä. Vahvista vastauksesi Enter-painikkeella tai napsauttamalla vieressä olevaa painiketta. Pyri jälleen ainakin 70% saavutukseen."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Hän (mies) rakastaa häntä (naista)."
         frazo02: "2. Hän rakastaa sisartaan."
         frazo03: "3. Hän (nainen) rakastaa häntä (miestä)."

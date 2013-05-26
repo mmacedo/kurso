@@ -1,8 +1,8 @@
---- 
-vi: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+vi:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Ngoài cách thể hiện trong bài 2, còn có một số cách đặt câu hỏi trong Quốc tế ngữ:"
         frazo-1: "Cái hộp màu xanh dương phải không?"
         frazo-2: "Anh chuẩn bị đi xem phim đấy à?"
@@ -11,7 +11,7 @@ vi:
         frazo-5: "Chiếc hộp không phải màu xanh dương, đúng thế không nhỉ? (câu hỏi đuôi)"
         frazo-6: "Anh không chuẩn bị đi xem phim, có phải thế không? (câu hỏi đuôi)"
         titolo: "Dạng câu hỏi khác"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Một số cách nói sử dụng một cặp từ:"
         jen: "Biểu hiện sự tương phản"
         jen-frazo-1: "Đứa bé trai lúc thì khóc lúc thì cười."
@@ -29,11 +29,11 @@ vi:
         ĉu: "cho dù....hay...."
         ĉu-frazo-1: "Cho dù vì sợ hãi hay tự ái, anh ấy không trả lời."
         ĉu-frazo-2: "Mưa hay nắng, tôi chắc chắn vẫn đi.(Cho dù có mưa hay nắng, . . .)"
-      horoj: 
+      horoj:
         je-kioma: "Mấy giờ bạn sẽ gọi điện cho tôi?"
         kioma-estas: "Mấy giờ rồi?"
         titolo: "Thời gian"
-      interjekcioj: 
+      interjekcioj:
         bis: "lại lần nữa đi!"
         fi: "xấu hổ quá!"
         ha-1: "À!, Ồ! (thán từ)"
@@ -45,7 +45,7 @@ vi:
         titolo: "Thán từ"
         ve: "khổ quá!"
         ve-al-mi: "đáng thương cái thân tôi!"
-      mallongiloj: 
+      mallongiloj:
         bv: "làm ơn, vui lòng"
         e-isto: "nhà Quốc tế ngữ"
         e-o: "Quốc tế ngữ"
@@ -57,7 +57,7 @@ vi:
         str: "đường phố"
         te: "đây là"
         titolo: "Chữ viết tắt"
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "chút nào (nhấn mạnh hàm ý không có gì cả)"
         almenaŭ: "ở mức bé nhất, nhỏ nhất"
         ambaŭ: "cả hai"

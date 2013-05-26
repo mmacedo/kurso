@@ -1,57 +1,57 @@
---- 
-cs: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+cs:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "(-er) částečka celku"
           monero: "peníz, mince"
           mono: peníze
           salero: "zrnko soli"
           salo: sůl
-        estr: 
+        estr:
           ekspliko: "(-estr) vedoucí, šéf, představený"
           urbestro: starosta
           urbo: město
           ŝipestro: "kapitán lodi"
           ŝipo: loď
-        et: 
+        et:
           ekspliko: "(-et) malý, drobný"
           pupeto: panenka
           pupo: "pana, loutka"
           rideti: "usmívat se"
           ridi: "smát se"
-        id: 
+        id:
           ekspliko: "(-id) mládě, potomek"
           katido: kotě
           kato: kočka
           reĝido: "kralevic, princ"
           reĝo: král
-        ig: 
+        ig:
           ekspliko: "(-ig) udělat nebo dát udělat"
           morti: zemřít
           mortigi: zabít
           pura: čistý
           purigi: vyčistit
-        il: 
+        il:
           ekspliko: "(-il) nástroj nebo přístroj"
           muzikilo: "hudební nástroj"
           muziko: hudba
           ŝlosi: zamykat
           ŝlosilo: klíč
-        in: 
+        in:
           ekspliko: "(-in) ženské pohlaví"
           kokino: slepice
           koko: kohout
           onklino: teta
           onklo: strýc
-        ind: 
+        ind:
           admiri: obdivovat
           admirinda: obdivuhodný
           ekspliko: "(-ind) hoden něčeho"
           laŭdi: chválit
           laŭdinda: chvályhodný
-        ist: 
+        ist:
           ekspliko: "(-isto) profesionál, sportovec, člen hnutí"
           esperantisto: esperantista
           esperanto: esperanto
@@ -61,7 +61,7 @@ cs:
           raportisto: reportér
           tajpi: "psát na stroji"
           tajpisto: písař
-        iĝ: 
+        iĝ:
           ekspliko: "(-iĝ) stat se nějakým"
           fari: udělat
           fariĝi: "stát se"
@@ -69,39 +69,39 @@ cs:
           mateno: ráno
           ruĝa: červený
           ruĝiĝi: zčervenat
-        nj: 
+        nj:
           Maria: Marie
           ekspliko: "(-nj) mazlivá koncovka pro ženská jména (kořen může být zkrácen kvůli libozvučnosti)"
           manjo: Máňa
           panjo: maminka
           patrino: matka
-        obl: 
+        obl:
           du: dva
           duobla: dvojnásobný
           ekspliko: "(-obl) násobek"
           tri: tři
           trioblo: trojnásobek
         ? "on"
-        : 
+        :
           dek: deset
           dekono: desetina
           ekspliko: "(-on) zlomek"
           kvar: čtyři
           kvarono: čtvrtina
-        op: 
+        op:
           du: dva
           duopo: dvojice
           ekspliko: "Podle skupin"
           ses: šest
           sesopo: šestice
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Pokud by došlo k nejasnostem mezi významy této přípony, použijte synonyma:"
           germanio: Německo
           pomarbo: jabloň
           pomkesto: "bedna na jablka"
           ruslando: Rusko
         titolo: Přípony
-        uj: 
+        uj:
           ekspliko: "(-uj) nádoba, strom, země"
           franco: Francouz
           francujo: Francie
@@ -109,7 +109,7 @@ cs:
           monujo: peněženka
           pomo: jablko
           pomujo: jabloň
-        ul: 
+        ul:
           ekspliko: "(-ul) bytost určité vlastnosti"
           kontraŭ: proti
           kontraŭulo: protivník
@@ -119,17 +119,17 @@ cs:
           sanktulo: světec
           stulta: hloupý
           stultulo: hlupák
-        um: 
+        um:
           ekspliko: "(-um) přípona bez přesného významu (kde se nehodí jiná přípona)"
           kolo: krk
           kolumo: límec
           plena: "plný, úplný"
           plenumi: splnit
-      vortordo: 
+      vortordo:
         dialogo: |-
             - Viděl jsem tě, ach poklade, a hned jsem si tě zamiloval!
             -Věřím ti, avšak zlato měj připraveno v peněžence!
-            
+
             -Miluje tě, ale, (má) nejdražší, nevěřil jsem, že jsi taková!
             -Kdybys mě miloval, (ty) lakomý, udělal bys mě královnou!
         ekspliko-1: "V třetí lekci jsme si ukázali, že bežný slovosled v esperantu je podmět-sloveso-předmět. Nicméně je možný i jiný pořádek slov, pokud se zachová jasnost a srozumitelnost. Důvodem změny slovosledu je zdůraznění některého větného členu, což si ukážeme na příkladech:"

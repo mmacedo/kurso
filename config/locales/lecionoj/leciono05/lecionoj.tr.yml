@@ -1,95 +1,95 @@
---- 
-tr: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+tr:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Doğru ve kapalı sistemin bir parçası olan bu sisteme biz nispi zamirler diyoruz. Her nispi zamirlerin manası onun kökünün ön takısının ve son takısının birleşmesi sonucudur."
         titolo: "Nispi Zamirler"
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Zaman
-        i: 
+        i:
           frazo: "Brezilyada hiç bulundun mu?"
           vorto: "Bir zamanlar"
-        ki: 
+        ki:
           frazo: "Kitabı ne zaman satın alacaksın? — Yarın sabah."
           vorto: "Ne zaman"
-        neni: 
+        neni:
           frazo: "Hayır, bu ülkeyi hiçbir zaman ziyaret etmedim."
           vorto: "Hiçbir zaman"
-        ti: 
+        ti:
           frazo: "Ben Esperantoyu, okulda olduğum zaman öğrendim."
           vorto: "O zaman"
-        ĉi: 
+        ĉi:
           frazo: "Fakat onu her zaman ziyaret etmek isterim."
           vorto: "Her zaman"
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Bu kelimecik yakınlığı işaret etmekte, kiminle ilgili ise zamirin önünde veya arkasında olabilir."
         frazo-1: "Bu nedir ?"
         frazo-2: "Bu bir hayvandır."
         frazo-3: "Bu benim evim."
         rimarkigo: "Sonu \"o\" harfi ile biten nispi zamirler ( Ne , O , vb.) \"i\" halinin sonunu ( -n harfini ) alabilirler.( Neyi , Onu) Fakat, çoğullayıcı olan \"j\" harfini alamazlar."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Yeri göstermektedir."
-        i: 
+        i:
           ekspliko: "Belirsizlik ifade etmekte."
           frazo: "Benim kalemim orada bahçede bir yerdedir."
           vorto: "Herhangi bir yerde"
-        ki: 
+        ki:
           ekspliko: "Soru göstermekte; önceki basit cümle ile ilişkiyi göstermektedir."
           frazo: "Nerede oturuyorsun? — Ben Kanada'da oturuyorum."
           vorto: Nerede
-        neni: 
+        neni:
           ekspliko: "Olumsuz anlamı göstermektedir."
           frazo: "Kitabımı hiçbir yerde bulamadım."
           vorto: "Hiçbir yerde"
-        ti: 
+        ti:
           ekspliko: "İşaret göstermek için kullanılır."
           frazo: "Ben arabanın olduğu yerde oturuyorum."
           vorto: Orada
-        ĉi: 
+        ĉi:
           ekspliko: "Genellemeyi göstermekte;"
           frazo: "Akılsız heryere adını yazar."
           vorto: "Her yerde"
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "İş, eşya, nesne"
-        i: 
+        i:
           frazo: "Birşey oldu !"
           vorto: Birşey
-        ki: 
+        ki:
           frazo: "Coğrafya nedir? — Coğrafya bir bilimdir."
           vorto: Ne
-        neni: 
+        neni:
           frazo: "Hiçbir şeyden, daha iyi bir şey."
           vorto: "Hiç birşey"
-        ti: 
+        ti:
           frazo: "O nedir? — O müzik aletidir."
           vorto: O
-        ĉi: 
+        ĉi:
           frazo: "Ben herşeyi unuttum."
           vorto: Herşey
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "\"u\" bir şahsı gösterir, eğer kişi sayısı birden fazla ise burda \"j\" harfini ekleyerek çoğullanabilir.."
-        i: 
+        i:
           ekspliko: "Belirsizlik göstermektedir."
           frazo: "Tanımadığım birileri geldiler."
           vorto: "Birisi veya birkimse"
-        ki: 
+        ki:
           ekspliko: "\"Ki\" -ilgi , -soruyu işaret etmekle , bir önceki basit cümle ile arasındaki bağı göstermektedir."
           frazo: "Sizin ilk öğretmeniniz kim di ? — Senyor Carlo'dur."
           vorto: "Kim , Hangisi"
-        neni: 
+        neni:
           ekspliko: "Olumsuz manayı ifade eder."
           frazo: "Dün kim geldi? — Dün hiç kimse gelmedi."
           vorto: "Hiçbir kimse"
-        ti: 
+        ti:
           ekspliko: "İşaret göstermek için kullanılır."
           frazo: "O kitap çok iyidir."
           vorto: "O - o şahıs"
-        ĉi: 
+        ĉi:
           ekspliko: "Genellemeyi göstermekte;"
           frazo: "Her insan kendisini sever."
           vorto: "Herkes , her kimse"
-      vortaro05: 
+      vortaro05:
         al: "-na takısıdır"
         anonco: Anons
         aĉeti: "Satın almak"

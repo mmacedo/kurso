@@ -1,21 +1,21 @@
---- 
-de: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+de:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: schön
         ekspliko: "Endung: -a"
         sana: gesund
         titolo: Adjektive
         varma: warm
-      alfabeto: 
+      alfabeto:
         ekspliko: |-
             In Esperanto schreibt man die Wörter lauttreu, d. h. genau nach dem Klang der Laute. Dabei werden die  Wörter stets auf der vorletzten [Sprech-]Silbe betont.
             [Bitte Wörter (1) anklicken und laut nachsprechen, (2) vorher aussprechen und dann abhören]
         titolo: Esperanto-ABC
-      artikolo: 
+      artikolo:
         ekspliko: "Das Esperanto kennt nur den bestimmten Artikel \"la\", dt. 'der/die/das'. Fehlt \"la\" vor einem Nomen/Substantiv, ist dies gleichbedeutend mit dem unbestimmten Artikel (ein/e) im Dt."
-        frazoj: 
+        frazoj:
           frazo-1: "Deine Söhne sind unsere Freunde."
           frazo-2: "Das Brot ist trocken."
           frazo-3: "Warme Milch ist gut."
@@ -24,7 +24,7 @@ de:
           frazo-6: "Der Vater ist gut."
           titolo: "Zum Gebrauch des Artikels"
         titolo: Artikel
-        vortoj: 
+        vortoj:
           floroj: Blumen
           knabo: "(ein) Junge"
           la-floroj: "die Blumen"
@@ -33,33 +33,33 @@ de:
           la-patroj: "die Väter"
           pano: "(ein) Brot"
           patroj: Väter
-      nomoj: 
+      nomoj:
         amiko: Freund
         ekspliko: "Endung:  -o"
         frato: Bruder
         kafo: Kaffee
         titolo: Nomen/Substantive
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "sie (Mehrzahl von 'er, sie, es')"
           ni: wir
           titolo: "Mehrzahl - Plural"
           vi: ihr
-        singularo: 
+        singularo:
           li: er
           mi: ich
           titolo: "Einzahl - Singular"
           vi: du
           ĝi: "es (geschlechtsneutral/'sächlich')"
           ŝi: sie
-        specialaj: 
+        specialaj:
           oni: "man (Indefinitpronomen, unpersönlich)"
           si: "sich [Reflexivpronomen der 3. Person (er, sie, es, man), rückbezogen auf das Subjekt               des Satzes]"
           titolo: Besondere
         titolo: Personalpronomen
-      pluralo: 
+      pluralo:
         ekspliko: "Der Plural endet auf \"oj\" bei den Nomen, auf \"aj\" bei den Adjektiven."
-        pluralo: 
+        pluralo:
           amikoj: Freunde
           belaj: schöne
           belaj-floroj: "schöne Blumen"
@@ -68,7 +68,7 @@ de:
           patroj: Väter
           sanaj: gesunde
           sanaj-patroj: "gesunde Väter"
-        singularo: 
+        singularo:
           amiko: "(ein) Freund"
           bela: schön
           bela-floro: "(eine) schöne Blume"
@@ -78,9 +78,9 @@ de:
           sana: gesund
           sana-patro: "(ein) gesunder Vater"
         titolo: "Mehrzahl - Plural"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Man bildet ein Possessivpronomen aus dem Personalpronomen, indem man an dieses die Adjektivendung \"a\" anfügt, also: mi = ich, mia = mein (usw.)"
-        posedaj: 
+        posedaj:
           ilia: ihr
           lia: sein
           mia: mein
@@ -88,27 +88,27 @@ de:
           via: dein
           ĝia: sein
           ŝia: ihr
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Auch die Possessivpronomen enden im Plural auf -aj."
           mia-amiko: "mein Freund"
           miaj-amikoj: "meine Freunde"
           nia-floro: "unsere Blume"
           niaj-floroj: "unsere Blumen"
         titolo: Possessivpronomen
-      verboj: 
+      verboj:
         ekspliko: "Der Infinitiv endet stets auf -i: esti = sein.  Die Zeitformen (Tempora)  erkennt man an ihren [gleich bleibenden] Endungen: (1) Präteritum (-is): estis = war,  (2) Präsens (-as): estas = ist und (3) Futur (-os): estos = wird sein. Weitere Formen des Verbs behandeln wir in Lektion 9."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "sie sind"
           ni-estas: "wir sind"
           oni-estos: "man wird sein"
           vi-estis: "ihr wart"
-        singularo: 
+        singularo:
           li-estis: "er war"
           mi-estas: "ich bin"
           ĝi-estos: "es wird sein"
           ŝi-estas: "sie ist"
         titolo: Verben
-      vortaro01: 
+      vortaro01:
         amiko: Freund
         bela: schön
         biskvito: "Zwieback, Biskuit"

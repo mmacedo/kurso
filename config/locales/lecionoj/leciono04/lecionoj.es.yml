@@ -1,24 +1,24 @@
---- 
-es: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+es:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Para decir la fecha, siga el modelo. Las palabras \"día\" y \"en el año\" están implícitas, y normalmente no es necesario mencionarlas."
         titolo: Fechas
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "El pan está seco."
           titolo: "Afirmación:"
-        demando: 
+        demando:
           frazo-1: "¿Está seco el pan?"
           titolo: "Pregunta:"
         ekspliko: "Todas las preguntas se construyen sobre la afirmación, simplemente colocando la palabra \"Ĉu\" al principio de la oración. Note que el orden de palabras en Esperanto no varía; sólo se coloca la palabra \"ĉu\" al inicio. Esto es válido para todas las preguntas cuyas respuestas serán \"sí\" o \"no\"."
-        respondo: 
+        respondo:
           frazo-negativa: "No, el pan no está seco."
           frazo-pozitiva: "Sí, el pan está seco."
           titolo: "Respuesta:"
         titolo: "Oraciones Interrogativas"
-      monatoj: 
+      monatoj:
         aprilo: abril
         aŭgusto: agosto
         decembro: diciembre
@@ -32,7 +32,7 @@ es:
         oktobro: octubre
         septembro: septiembre
         titolo: "Meses del Año"
-      salutoj: 
+      salutoj:
         saluto-1: ¡Hola!
         saluto-10: "¡Buen provecho!, ¡Buen apetito!"
         saluto-11: "Igual para ti, ¡gracias!"
@@ -48,12 +48,12 @@ es:
         saluto-8: "Bastante bien."
         saluto-9: "No muy bien."
         titolo: Saludos
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: ayer
           hodiaŭ: hoy
           morgaŭ: mañana
-        semajno: 
+        semajno:
           dimanĉo: domingo
           lundo: lunes
           mardo: martes
@@ -62,9 +62,9 @@ es:
           vendredo: viernes
           ĵaŭdo: jueves
         titolo: "Días de la Semana"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Lea el siguiente texto, escrito por un aprendiz de Esperanto, e intente comprenderlo usando el glosario."
-        vortaro: 
+        vortaro:
           alia: otro
           antaŭ: "antes, delante"
           facila: fácil
@@ -72,7 +72,7 @@ es:
           komenci: comenzar
           lerni: aprender
           tre: muy
-      vortaro04: 
+      vortaro04:
         infano: niño
         kaj: "y"
         kolekti: coleccionar

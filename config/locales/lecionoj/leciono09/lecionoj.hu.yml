@@ -1,57 +1,57 @@
---- 
-hu: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+hu:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "részecske (egy része az egésznek)"
           monero: aprópénz
           mono: pénz
           salero: sószem
           salo: só
-        estr: 
+        estr:
           ekspliko: "fõnök, vezetõ, igazgató"
           urbestro: polgármester
           urbo: város
           ŝipestro: hajóskapitány
           ŝipo: hajó
-        et: 
+        et:
           ekspliko: "kicsi, pici"
           pupeto: kisbaba
           pupo: baba
           rideti: mosolyog
           ridi: nevet
-        id: 
+        id:
           ekspliko: utód
           katido: kiscica
           kato: macska
           reĝido: herceg
           reĝo: király
-        ig: 
+        ig:
           ekspliko: "valamivé tesz"
           morti: "meghalni, elmúlni, kimúlni"
           mortigi: megölni
           pura: tiszta
           purigi: tisztít
-        il: 
+        il:
           ekspliko: "eszköz, szerszám"
           muzikilo: hangszer
           muziko: zene
           ŝlosi: bezárni
           ŝlosilo: kulcs
-        in: 
+        in:
           ekspliko: nõnem
           kokino: tyúk
           koko: kakas
           onklino: nagynéni
           onklo: nagybácsi
-        ind: 
+        ind:
           admiri: csodálni
           admirinda: "csodálatra méltó"
           ekspliko: "méltó valamire"
           laŭdi: dicsérni
           laŭdinda: "dicséretre méltó"
-        ist: 
+        ist:
           ekspliko: "szakma, hivatás"
           esperantisto: eszperantista
           esperanto: eszperantó
@@ -61,7 +61,7 @@ hu:
           raportisto: tudósító
           tajpi: gépelni
           tajpisto: gépíró
-        iĝ: 
+        iĝ:
           ekspliko: "valamivé válik"
           fari: "tenni, csinálni"
           fariĝi: "valamivé válni vagy alakulni"
@@ -69,39 +69,39 @@ hu:
           mateno: reggel
           ruĝa: vörös
           ruĝiĝi: "elpirulni, vörössé válni"
-        nj: 
+        nj:
           Maria: Mária
           ekspliko: "nõi becenév  (a szógyök megváltozhat!)"
           manjo: Marcsi
           panjo: mama
           patrino: anya
-        obl: 
+        obl:
           du: kettõ
           duobla: kétszeres
           ekspliko: többszöröz
           tri: három
           trioblo: "triobla = háromszoros"
         ? "on"
-        : 
+        :
           dek: tíz
           dekono: "egy tized"
           ekspliko: "törtet képez"
           kvar: négy
           kvarono: negyed
-        op: 
+        op:
           du: kettõ
           duopo: "egy pár"
           ekspliko: csoportosít
           ses: hat
           sesopo: "fél tucat"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Amikor értelmi zavar van az utóképzõk között, használhatunk szinonimákat:"
           germanio: Németország
           pomarbo: almafa
           pomkesto: almáskosár
           ruslando: Oroszország
         titolo: Utóképzõk
-        uj: 
+        uj:
           ekspliko: "tartály, gyümölccsel teli fa, ország néppel együtt"
           franco: "francia (nemzet)"
           francujo: Franciaország
@@ -109,7 +109,7 @@ hu:
           monujo: pénztárca
           pomo: alma
           pomujo: "almáskosár, almafa"
-        ul: 
+        ul:
           ekspliko: személyesít
           kontraŭ: "ellen, szemben"
           kontraŭulo: "ellenálló (személy)"
@@ -119,13 +119,13 @@ hu:
           sanktulo: "szent (személy)"
           stulta: "hülye, buta"
           stultulo: "egy hülye személy"
-        um: 
+        um:
           ekspliko: "(határozatlan): v-mivel v-mit tenni, v-minek a v-mije, v-mi határozatlant tenni."
           kolo: nyak
           kolumo: gallér
           plena: "teli, teljes"
           plenumi: "megtölteni, teljessé tenni"
-      vortordo: 
+      vortordo:
         dialogo: "— Megláttalak téged, ó kincs, és tüstént beléd szerettem!    — Hiszek neked, de az aranynak a pénztárcában a helye     — Imádlak téged, de kedvesem, én nem ilyennek hittelek    — Ha szeretnél engem, te fösvény, királynõvé tennél"
         ekspliko-1: "A harmadik leckében láthattuk az alany - állítmány - tárgy szórendet, amely a leggyakrabban használt szórend az eszperantóban. Más szórendet is használhatunk, azzal a feltétellel, hogy a mondat megõrizze értelmét. A szórendváltoztatást egy szó hangsúlyozása érdekében tesszük. A következõ mondatban szórendet változtatunk, hogy kihangsúlyozzunk egy szót."
         ekspliko-2: "Egy szó hangsúlyozására a \"ja\" szót használjuk (ilyenkor az értelme: igenis, valóban, tényleg, biztos, bizonyára stb.)."

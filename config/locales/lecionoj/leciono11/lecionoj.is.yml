@@ -1,8 +1,8 @@
---- 
-is: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+is:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Til viðbótar við það, sem sagt er í 2. lexíu um spurnarsetningar skulum við líta á fleiri möguleika."
         frazo-1: "Er askjan blá?"
         frazo-2: "Ferðu í kvikmyndahúsið?"
@@ -11,7 +11,7 @@ is:
         frazo-5: "Askjan er ekki blá, er það?"
         frazo-6: "Þú ferð ekki í kvikmyndahúsið, er það?"
         titolo: "Önnur spurnarform"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Vert er að kynna sér dæmi um orðapör:"
         jen: "Sýnir fleygun setninga"
         jen-frazo-1: "Drengurinn ýmist grét eða hló."
@@ -29,11 +29,11 @@ is:
         ĉu: "Táknar möguleika, þar sem valið skiptir ekki máli, er jafngott, frjálst eða óvisst."
         ĉu-frazo-1: "Hvort sem það var vegna hræðslu eða stolts, svaraði hann engu."
         ĉu-frazo-2: "Hvort sem rignir eða sólin skín, fer ég áreiðanlega."
-      horoj: 
+      horoj:
         je-kioma: "Klukkan hvað hringirðu?"
         kioma-estas: "Hvað er klukkan?"
         titolo: Klukkan
-      interjekcioj: 
+      interjekcioj:
         bis: "aftur! (t.d. endurtaka lag)"
         fi: svei!
         ha-1: "(upphrópun til að láta í ljós undrun)"
@@ -45,7 +45,7 @@ is:
         titolo: Upphrópanir
         ve: "vei, því miður"
         ve-al-mi: "vei mér"
-      mallongiloj: 
+      mallongiloj:
         bv: "gjörðu svo vel"
         e-isto: esperantisti
         e-o: esperanto
@@ -57,7 +57,7 @@ is:
         str: stræti
         te: "það er, þ.e."
         titolo: Skammstafanir
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "\"sem er\" (kiam ajn = hvenær sem er, kiel ajn = hvernig sem er)"
         almenaŭ: "að minnsta kosti"
         ambaŭ: "báðir, báðar, bæði"

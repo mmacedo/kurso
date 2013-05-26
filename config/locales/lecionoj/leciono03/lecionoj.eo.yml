@@ -1,48 +1,48 @@
---- 
-eo: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+eo:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "La ordajn numeralojn oni formas per la aldono de la finaĵo \"a\" al la numeraloj. Ĉar ili havas la finaĵon \"a\", ili povas ricevi la pluralon (-j) kaj la akuzativon (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "La unuaj knaboj venas."
           frazo-2: "Li kaptis la trian insekton."
         titolo: "Adjketivoj el numeraloj"
-        vortoj: 
+        vortoj:
           dek: dek
           dek-naŭ: "dek naŭ"
           dek-naŭa: dek-naŭa
           deka: deka
           tri: tri
           tria: tria
-      adverboj: 
+      adverboj:
         ekspliko-1: "La adverboj funkcias same kiel la adjektivoj, sed anstataŭ difini la ideojn esprimatajn de la substantivo, ili difinas la ideojn de la verbo kaj de la adjektivo, sed ne ricevas la finaĵon \"j\". Ĝenerale ili esprimas la manieron, la kaŭzon, la tempon aŭ la lokon."
         ekspliko-2: "En Esperanto la adverboj ĝenerale finiĝas per \"e\" (tio ĉi okazas ĉiam kiam ili estas derivitaj de vorto). La baza ideo esprimata de la vortoradiko povas esti uzata diverse, danke al la simpla ŝanĝo en la finaĵo."
-        frazoj: 
+        frazoj:
           frazo-sana: "Li estas sana."
           frazo-sane: "Li sane vivas."
           frazo-sani: "Li sanas."
           frazo-sano: "Li havas bonan sanon."
         rimarkigo: "La adverbon oni ordinare metas antaŭ la la vorto, al kiu ĝi rilatas."
         titolo: Adverboj
-        vortoj: 
+        vortoj:
           sana: sana
           sane: sane
           sani: sani
           sano: sano
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Aldonante la finaĵon \"e\" al la numeraloj oni formas adverbojn:"
-        frazoj: 
+        frazoj:
           frazo-1: "Li unue trinkos akvon."
         titolo: "Adverboj el numeraloj"
-        vortoj: 
+        vortoj:
           du: du
           due: due
           unu: unu
           unue: unue
-      numeraloj: 
+      numeraloj:
         titolo: Numeraloj
-      vortaro03: 
+      vortaro03:
         atendi: atendi
         demandi: demandi
         fumi: fumi

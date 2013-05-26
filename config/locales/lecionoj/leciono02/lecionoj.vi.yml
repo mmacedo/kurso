@@ -1,8 +1,8 @@
---- 
-vi: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+vi:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Phần đuôi rất hữu dụng khác cho phép chúng ta định rõ hướng chủ thể của câu. Nó là sự đổi cách phần đuôi \"n\", có vị trí tại cuối của các danh từ, tính từ, và đại từ. (Chú ý: hướng của chủ thể của câu là cái mà động từ tác động tới. Nó tiếp nhận hành động của động từ. Ví dụ: \"Tôi nhìn bạn\", thì \"bạn\" là hướng chủ thể)."
         ekspliko-2: "Chú ý rằng việc đổi cách \"n\" luôn luôn tại cuối của một từ (sau \"j\" dạng số nhiều). Hướng đối tượng có thể tại bất kỳ đâu trong câu mà không thay đổi nghĩa của nó. Ba câu sau đây có cùng một nghĩa:"
         frazo-plurala: "Tôi rửa những chiếc cốc mới."
@@ -10,41 +10,41 @@ vi:
         rimarkigo-1: "Sự khác biệt về vị trí từ có thể sử dụng cho việc nhấn mạnh. Chúng ta sẽ thấy điều đó trong phần cuối bài học."
         rimarkigo-2: "Sự đổi cách thì không được sử dụng sau động từ \"esti\". \"Esti\" được gọi là động từ liên kết cái mà được hiểu ngầm rằng chủ đề hay chủ thể là tương đương."
         titolo: "Sự đổi cách(-n)"
-      muziko01: 
+      muziko01:
         ekspliko: "Bây giờ chúng ta sẽ nghe một bài hát Quốc tế ngữ \"Jen\", của nhóm Ác-hen-ti-na \" La Porkoj\", đạt giải nghệ thuật của tổ chức Liên Hiệp Quốc Tế Ngữ Thế Giới. Nhóm được thành lập bởi Alejandro Cossavella (Hát chính), Pablo Ciancio (Trống), Ignacio Mendizabal (Ghi ta) and Salvador Agustoni (Ghi ta bass). Bấm nút để nghe bài hát."
         titolo: "Âm nhạc trong Quốc tế ngữ"
-      neado: 
+      neado:
         ekspliko: "Để tạo các câu phủ định  nó chỉ cần đặt từ \"ne\" (không...) trước động từ."
-        frazoj: 
+        frazoj:
           frazo-1: "Tôi sẽ không rửa chiếc cốc mới."
           frazo-2: "Anh ấy không phải là anh trai tôi."
           frazo-3: "Bà ấy không phải là mẹ tôi."
           frazo-4: "Những cái bánh này không nóng."
         titolo: "Phủ định"
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "Tiền tố \"mal\" cho phép chúng ta tạo ra các từ có nghĩa đối lập với từ nguyên gốc."
-        kun: 
+        kun:
           malamiko: "quân địch"
           malavara: "rộng rãi, hào phóng"
           malbela: "xấu xí"
           maljuna: già
           malnova: cũ
-        sin: 
+        sin:
           amiko: "bạn bè"
           avara: "keo kiệt, tham lam"
           bela: "xinh đẹp"
           juna: trẻ
           nova: mới
         titolo: "Tiền tố \"mal\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "Trong bài học đầu tiên chúng ta thấy rằng tính từ Quốc tế ngữ sử dụng số lượng (số nhiều hay số ít) với các danh từ mà nó mô tả; khi một danh từ qui là một thứ, tính từ của nó ở dạng số it và khi danh từ qui cho nhiều hơn một, tính từ của nó mang dạng số nhiều."
         ekspliko-2: "Hầu hết các danh từ không biểu hiện giới tính, nhưng một số nhỏ chỉ người lại có. Với những từ như thế, nếu kết thúc bằng '-o' được qui cho giống đực và '-ino' được qui cho giống cái."
-        frazoj: 
+        frazoj:
           frazo-amikino: "Người bạn gái xinh đẹp"
           frazo-patrino: "Người mẹ tốt"
           frazo-virino: "Người đàn bà vĩ đại"
         titolo: "Hậu tố -ino"
-        vortoj: 
+        vortoj:
           amikino: "bạn gái"
           amiko: "bạn bè"
           filino: "con gái"
@@ -53,7 +53,7 @@ vi:
           patro: "bố, cha"
           virino: "phụ nữ"
           viro: "đàn ông"
-      vortaro02: 
+      vortaro02:
         akvo: nước
         ami: yêu
         amo: "tình yêu"

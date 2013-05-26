@@ -1,11 +1,11 @@
---- 
-es: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+es:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Ejercicio - Números"
         numeraloj-ekzercoj-instrukcioj: "Escriba en el espacio destinado el número que corresponde al texto indicado. Para confirmar la respuesta, use la tecla Enter o haga clic sobre el botón lateral. Intente acertar al menos un 70%."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Él la ama."
         frazo02: "2. Él ama a su hermana."
         frazo03: "3. Ella lo ama."

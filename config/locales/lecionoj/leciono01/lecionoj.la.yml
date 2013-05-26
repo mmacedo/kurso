@@ -1,19 +1,19 @@
---- 
-la: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+la:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: skaists
         ekspliko: "beidzas ar galotni \"a\"."
         sana: vesels
         titolo: "Īpašības vārdi"
         varma: silts
-      alfabeto: 
+      alfabeto:
         ekspliko: "Esperanto valodā vārdi tiek rakstīti tāpat kā tie tiek izrunāti, un tie tiek izrunāti tieši saskaņā ar ikkatru rakstītā burta skanējumu. Uzsvars vienmēr ir uz priekšpēdējās zilbes. Uzklikšķiniet uz pogām, lai dzirdētu izrunu, un atkārtojiet to balsī."
         titolo: "Esperanto alfabēts"
-      artikolo: 
+      artikolo:
         ekspliko: "Nenoteiktā artikula esperanto valodā nav, bet ir tikai noteiktais artikuls \"la\", kurš ir vienāds visām dzimtēm, locījumiem un skaitļiem. Artikulu pielieto runājot par kādu konkrētu lietu vai sarunu biedram zināmu lietu. Latviski to netulko."
-        frazoj: 
+        frazoj:
           frazo-1: "Jūsu dēli ir mūsu draugi."
           frazo-2: "(Tā) Maize ir sausa."
           frazo-3: "Silts piens ir labs."
@@ -22,7 +22,7 @@ la:
           frazo-6: "(Tas) Tēvs ir labs."
           titolo: Frāzes
         titolo: Artikuls
-        vortoj: 
+        vortoj:
           floroj: puķes
           knabo: zēns
           la-floroj: "(konkrētas; tās) puķes"
@@ -31,33 +31,33 @@ la:
           la-patroj: "(konkrētie; tie) tēvi"
           pano: maize
           patroj: tēvi
-      nomoj: 
+      nomoj:
         amiko: draugs
         ekspliko: "beidzas ar galotni \"o\"."
         frato: brālis
         kafo: kafija
         titolo: Lietvārdi
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "viņi, viņas; tie, tās"
           ni: mēs
           titolo: Daudzskaitlis
           vi: "jūs (daudzskaitlis)"
-        singularo: 
+        singularo:
           li: viņš
           mi: es
           titolo: Vienskaitlis
           vi: "tu; jūs (vienskaitlis)"
           ĝi: "tas, tā (par nedzīvu būtni vai arī kam nav noteikts dzimums)"
           ŝi: viņa
-        specialaj: 
+        specialaj:
           oni: "Bezpersonisks vietniekvārds; nozīmē \"cilvēki; daudz vai dažas personas;  kaut kāds nepazīstams\", tiek pielietots, kad negrib vai nevar precizēt, kas veica darbību. Piem., oni parolas, ke... - runā, ka..."
           si: "\"Sia - savs\": trešās personas vietniekvārds, kurš tiek lietots, kad tas attiecas uz teikuma priekšmetu."
           titolo: Īpašie
         titolo: Personvietniekvārdi
-      pluralo: 
+      pluralo:
         ekspliko: "Daudzskaitli veido pievienojot burtu \"j\" lietvārda un īpašības vārda galotnei:"
-        pluralo: 
+        pluralo:
           amikoj: draugi
           belaj: skaistas
           belaj-floroj: "skaistas puķes"
@@ -66,7 +66,7 @@ la:
           patroj: tēvi
           sanaj: veseli
           sanaj-patroj: "veseli tēvi"
-        singularo: 
+        singularo:
           amiko: draugs
           bela: skaists
           bela-floro: "skaista puķe"
@@ -76,9 +76,9 @@ la:
           sana: vesels
           sana-patro: "vesels tēvs"
         titolo: Daudzskaitlis
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Piederības vietniekvārdus veido pievienojot personas vietniekvārdiem īpašības galotni (\"a\"):"
-        posedaj: 
+        posedaj:
           ilia: "viņu; to"
           lia: viņa
           mia: mans
@@ -86,27 +86,27 @@ la:
           via: "tavs; jūsu"
           ĝia: "tā; tās"
           ŝia: viņas
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Arī piederības vietniekvārdi daudzskaitlī augūst galotni \"j\":"
           mia-amiko: "mans draugs"
           miaj-amikoj: "mani draugi"
           nia-floro: "mūsu puķe"
           niaj-floroj: "mūsu puķes"
         titolo: "Piederības vietniekvārdi"
-      verboj: 
+      verboj:
         ekspliko: "Nenoteiksmei galotne ir -i: esti; pagātnei -is: estis, tagadnei -as un nākotnei -os. Pārējās darbības vārdu laikus izņemsim nākošajās lekcijās."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "viņi; viņas; tie; tās ir"
           ni-estas: "mēs esam"
           oni-estos: "(kaut kāds cilvēks, cilvēki) būs"
           vi-estis: "jūs bijāt"
-        singularo: 
+        singularo:
           li-estis: "viņš bija"
           mi-estas: "es esmu"
           ĝi-estos: "tas; tā būs"
           ŝi-estas: "viņa ir"
         titolo: "Darbības vārdi"
-      vortaro01: 
+      vortaro01:
         amiko: draugs
         bela: skaists
         biskvito: cepums

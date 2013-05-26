@@ -1,11 +1,11 @@
---- 
-hr: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+hr:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Čujte šansonu na Esperantu, \"Bluaj Fragoj\", koju pjeva Merlin, brazilski sastav pop-glazbe, koji je već izdao dva albuma na međunarodnom jeziku i nastupa po cijelom svijetu. Sastav sačinjavaju Markone Froes (vokal i gitara), Guilherme Lima (bubnjevi), Aldrin Gandra (električna gitara), Sergio Ribeiro (basgitara) i Sergio Vieira (klavijatura)."
         titolo: "Esperantska glazba"
-        vortaro: 
+        vortaro:
           aliri: Prići
           alveni-al: "Prići ka"
           animo: Duša
@@ -19,53 +19,53 @@ hr:
           vero: Istina
           ĉielarko: Duga
           ĉielo: Nebo
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "Vidjeli smo u drugoj lekciji upotrebu akuzativa u pokazivanju upravnog objekta glagola. Ipak postoje glagoli, kojima nije potreban komplement. Na primjer:"
         frazo-1: "Dogodilo se nešto važno."
         frazo-2: "Danas se jako veselim."
         frazo-3: "Oni već spavaju u svojim posteljama."
         frazo-4: "Omladina je mnogo plesala."
-        ig: 
+        ig:
           ekspliko: "Glagoli sa sufiksom IG uvijek su prelazni:"
           frazo-1: "Putovanje vas je sigurno zamorilo."
           frazo-2: "Južno sunce peče njegovu golu glavu."
           frazo-3: "Otac hoće odmah udati stariju kćerku."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. U glagolima sa IĜ koji su stvoreni iz prelaznih glagola ne mijenja se stanje, nego mijenja se radnja, koja se događa sama po sebi."
             frazo-1: "Ljudi su trčali manje brzo od vozila, koje se kotrljalo vrlo brzo."
             frazo-2: "On se nenadano našao na ulici, posve sam."
             frazo-3: "U koliko sati će započeti lekcija?"
             frazo-4: "Mase prolaznika su se kretale pločnicima."
           ekspliko: "Glagoli sa sufiksom IĜ su uvijek neprelazni, to jest, ne trebaju komplement, i mogu značiti:"
-          unu: 
+          unu:
             ekspliko: "1. Prijelaz u novo stanje. Korijeni pokazuju rezultat, novo stanje. U glagolima koji završavaju sa IĜ vršitelj radnje nije bitan:"
             frazo-1: "Zimi se voda smrzava (pretvara u led)."
             frazo-2: "Danas se vrijeme ponovno zagrijalo."
             frazo-3: "Ona se udala sa svojim nećakom."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Neki od tih glagola mogu imati komplement pomoću zavisne rečenice:"
           ekspliko-2: "Drugi mogu dobiti, u nekim slučajevima, upravni objekt:"
           frazo-1: "Njegov otac je umro od raka."
           frazo-2: "Vrlo se veselim vašoj sreći!"
           frazo-3: "Ona spava dubokim snom."
           frazo-4: "Ona je plesala valcer s njim."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Zapamtite da iza riječi \"esti\" nikad ne dolazi akuzativ, i da se iza zavisne rečenice ne upotrebljava akuzativ."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Postoje još glagoli bez subjekta:"
           frazo-1: "Jučer je mnogo kišilo."
           frazo-2: "Dani se (sviće), pa moram poći kući."
           frazo-3: "Snježilo je vrlo jako, pa nije mogao izići iz kolibe."
         titolo: "Prelazni glagoli"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Sigurno ste već zapazili izvanredne mogućnosti izražavanja Esperantom. Zapravo, korištenjem prefiksa, sufiksa i nastavaka, mogu se stvarati mnoge riječi, neke čak nemaju ekvivalentni prijevod u nacionalnim jezicima. Bogatsvo Esperanta time ne završava. Sustavom spajanja korijena može se obogatiti riječnik, naći istoznačnice, naglasiti ili nijansirati značenja. Evo nekih primjera o mogućnostima stvaranja rijeći u međunarodnom jeziku:"
         ekspliko-2: "Pomoću nastavaka, prefiksa i sufiksa:"
         ekspliko-3: "Kod sastavljanja korijena. Završetak prvog korijena se može ispustiti ili ostaviti, zavisno o potrebi za jasnoćom i melodioznošću sastavljenih riječi:"
         ekspliko-4: "Stvaranje riječi iz skupine riječi:"
         rimarkigo: "Iako je moguće stvarati riječi sastavljanjem više prefiksa ili sufiksa, ipak se preporučuje, radi jasnoće i elegancije, izbjegavati takove konstrukcije. Tako, umjesto \"belulineto\" preporučuje se \"eta belulino\"nRedoslijed afiksa ima neposredan utjecaj na smisao:"
         titolo: "Stvaranje riječi u Esperantu"
-        vortoj: 
+        vortoj:
           antaŭbrako: podlaktica
           balenŝipo: "kitolovac (brod)"
           helruĝo: "svjetlocrvena boja"

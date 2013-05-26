@@ -1,24 +1,24 @@
---- 
-ar: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+ar:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "وتقرأ التواريخ كالآتي (مع حذف \"tago\" و \"en la jaro\" إلا عند الحاجة طبعا) :"
         titolo: التواريخ
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "الخبز جاف."
           titolo: "الإثبات :"
-        demando: 
+        demando:
           frazo-1: "هل الخبز جاف؟"
           titolo: "السؤال :"
         ekspliko: "مقابل \"هل\" بالإسبرانتو هو \"ĉu\" ، تضاف على أول الجملة دون تغيير في ترتيب الكلمات ، ويجاب عليها بـ\"نعم\" و\"لا\"."
-        respondo: 
+        respondo:
           frazo-negativa: "لا ، ليس الخبز جافا."
           frazo-pozitiva: "نعم ، الخبز جاف"
           titolo: "الجواب :"
         titolo: الاستفهام
-      monatoj: 
+      monatoj:
         aprilo: "نيسان (أبريل)"
         aŭgusto: "آب (أغسطس أو أوت)"
         decembro: "كانون الأول (ديسمبر أو دشنبر)"
@@ -32,7 +32,7 @@ ar:
         oktobro: "تشرين الأول (أكتوبر)"
         septembro: "أيلول (شتنبر أو سبتمبر)"
         titolo: الأشهر
-      salutoj: 
+      salutoj:
         saluto-1: "السلام عليكم"
         saluto-10: "بالهناء والشفاء !"
         saluto-11: "ولك بالمثل ، شكرا."
@@ -48,12 +48,12 @@ ar:
         saluto-8: عادي.
         saluto-9: "لست بخير."
         titolo: التحية
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: أمس
           hodiaŭ: اليوم
           morgaŭ: غدًا
-        semajno: 
+        semajno:
           dimanĉo: الأحد
           lundo: الإثنين
           mardo: الثلاثاء
@@ -62,9 +62,9 @@ ar:
           vendredo: الجمعة
           ĵaŭdo: الخميس
         titolo: الأيام
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "كتب طالب إسبرانتو النص التالي. حاول أن تقرأه مستعينا بالمفردات أدناه عند الحاجة :"
-        vortaro: 
+        vortaro:
           alia: آخر
           antaŭ: "قبل أو أمام"
           facila: سهل
@@ -72,7 +72,7 @@ ar:
           komenci: "أن يبدأ"
           lerni: "أن يتعلم"
           tre: جدًا
-      vortaro04: 
+      vortaro04:
         infano: طفل
         kaj: و
         kolekti: "أن يجمع"

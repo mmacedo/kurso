@@ -1,20 +1,20 @@
---- 
-de: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+de:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Sehr praktisch - besonders für deutsche Ohren - ist die Endung -n beim Akkusativ (Wenfall). Daran erkennt man das direkte Objekt eines Satzes bei Nomen, Pronomen und Adjektiven."
         ekspliko-2: "An folgenden Beispielen sieht man, wie leicht sich Satzglieder umstellen lassen:"
         frazo-plurala: "Ich spüle die neuen Tassen."
         frazo-singulara: "Ich spüle die neue Tasse."
         rimarkigo-1: |-
-            Die veränderte Stellung der Satzglieder (Objekte) erlaubt uns, feinere Unterschiede des Satzsinnes auszudrücken.  
+            Die veränderte Stellung der Satzglieder (Objekte) erlaubt uns, feinere Unterschiede des Satzsinnes auszudrücken.
             Darüber später mehr.
         rimarkigo-2: "Beim Verb \"esti = sein\" steht gewöhnlich der Nominativ (wer?) - als Subjekt oder Prädikats- nomen, jedoch nicht der Akkusativ."
         titolo: "Akkusativ (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: |-
-            Hören wir nun das Esperanto-Lied "Jen (Siehe da!)" der argentinischen Gruppe "La Porkoj  - Die Schweine". Sie gewann den Kunstpreis des Esperanto-Weltbundes. 
+            Hören wir nun das Esperanto-Lied "Jen (Siehe da!)" der argentinischen Gruppe "La Porkoj  - Die Schweine". Sie gewann den Kunstpreis des Esperanto-Weltbundes.
             Ihre Mitglieder:
             Alejandro Cossavella (Gesang)
             Pablo Ciancio (Schlagzeug)
@@ -22,9 +22,9 @@ de:
             Salvador Augustoni (Bassgitarre)
             Zum Abspielen bitte den 'Knopf drücken'.
         titolo: "Musik auf Esperanto"
-      neado: 
+      neado:
         ekspliko: "Durch \"ne\" (vor dem Verb) verneint man den Satzsinn."
-        frazoj: 
+        frazoj:
           frazo-1: |-
               Ich werde die neue Tasse nicht spülen.
               Ich werde die neue Tasse nicht waschen.
@@ -32,30 +32,30 @@ de:
           frazo-3: "Sie ist nicht meine Mutter."
           frazo-4: "Die Kuchen waren nicht warm."
         titolo: Negation/Verneinung
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "Das Präfix (Vorsilbe) \"mal\" verkehrt die Bedeutung des Grundwortes ins Gegenteil."
-        kun: 
+        kun:
           malamiko: Feind
           malavara: freigebig
           malbela: hässlich
           maljuna: alt
           malnova: alt
-        sin: 
+        sin:
           amiko: Freund
           avara: geizig
           bela: schön
           juna: jung
           nova: neu
         titolo: "Die Vorsilbe \"mal\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "Die Adjektive passen sich dem Substantiv im Numerus an, wie wir gelernt haben (1. Lektion) - im Singular enden sie auf -a, im Plural auf -aj. Maßgeblich ist auch, ob sie ein oder mehrere Substantive begleiten.  Das grammatische Geschlecht (m/f/n) entfällt beim Esperanto."
         ekspliko-2: "Beim natürlichen Geschlecht unterscheidet man: viro - Mann; virino -  Frau; fraŭlo - Jungeselle; fraŭlino - Fräulein usw. Das Merkmal 'weiblich' wird also durch die Endung -ino ausgedrückt."
-        frazoj: 
+        frazoj:
           frazo-amikino: "Die schöne Freundin"
           frazo-patrino: "Die gute Mutter"
           frazo-virino: "Die großen Frauen"
         titolo: "Suffix/Endung -ino"
-        vortoj: 
+        vortoj:
           amikino: Freundin
           amiko: Freund
           filino: Tochter
@@ -64,7 +64,7 @@ de:
           patro: Vater
           virino: Frau
           viro: Mann
-      vortaro02: 
+      vortaro02:
         akvo: Wasser
         ami: lieben
         amo: Liebe

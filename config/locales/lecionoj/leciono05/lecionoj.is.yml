@@ -1,95 +1,95 @@
---- 
-is: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+is:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Hér koma mjög gagnleg orð sem mynda reglubundna og lokaða heild.  Þau eru kölluð samsvörunarorð.  Merking hvers orðs ræðst af byrjun þess (stofni) og endingu (viðskeyti)."
         titolo: Samsvörunarorð
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: "tími, tíð"
-        i: 
+        i:
           frazo: "Hefirðu einhverntíma komið til Brasilíu?"
           vorto: "Einhvern tíma"
-        ki: 
+        ki:
           frazo: "Hvenær kaupirðu bókina? Í fyrramálið."
           vorto: "hvenær, þegar"
-        neni: 
+        neni:
           frazo: "Nei, ég hef aldrei komið til þessa lands."
           vorto: aldrei
-        ti: 
+        ti:
           frazo: "Ég lærði esperanto þegar ég var í skóla."
           vorto: þá
-        ĉi: 
+        ĉi:
           frazo: "Þó hefur mig alltaf langað til að fara þangað."
           vorto: alltaf
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Þetta smáorð (hérna) táknar nálægð og getur verið, hvort sem er, á undan eða á eftir samsvörunarorði."
         frazo-1: "Hvað er þetta (hérna)?"
         frazo-2: "Þetta (hérna) er dýr."
         frazo-3: "Þetta hús (hérna) er húsið mitt."
         rimarkigo: "Samsvörunarorðin, sem enda á \"o\" (\"kio\", \"tio\" o.s.frv.), geta bætt við sig  þolfallsendingunni (\"n\") en ekki fleirtöluendingunni (\"j\")."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Táknar stað."
-        i: 
+        i:
           ekspliko: "Sýnir eitthvað óákveðið."
           frazo: "Blýanturinn minn er einhvers staðar í garðinum."
           vorto: "einhvers staðar"
-        ki: 
+        ki:
           ekspliko: "Táknar spurningu; sýnir tengsl við setninguna á undan."
           frazo: "Hvar áttu heima?  Ég á heima í Kanada."
           vorto: hvar
-        neni: 
+        neni:
           ekspliko: "Hefur neitandi merkingu."
           frazo: "Ég fann hvergi bókina mína."
           vorto: hvergi
-        ti: 
+        ti:
           ekspliko: "Notað ábendandi."
           frazo: "Ég bý þar sem bíllinn er."
           vorto: þar
-        ĉi: 
+        ĉi:
           ekspliko: "Hefur altæka merkingu."
           frazo: "Heimskingi skrifar nafn sitt alls staðar."
           vorto: "alls staðar"
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Málefni, hlutur"
-        i: 
+        i:
           frazo: "Eitthvað kom fyrir!"
           vorto: eitthvað
-        ki: 
+        ki:
           frazo: "Hvað er landafræði?  Landafræði er vísindagrein."
           vorto: "hvað, sem"
-        neni: 
+        neni:
           frazo: "Betra er eitthvað en ekkert."
           vorto: ekkert
-        ti: 
+        ti:
           frazo: "Hvað er þetta?  Það er hljóðfæri."
           vorto: það
-        ĉi: 
+        ĉi:
           frazo: "Ég gleymdi öllu."
           vorto: allt
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Táknar einstakling.  Sé um fleiri að ræða þarf að bæta við endingunni \"j\"."
-        i: 
+        i:
           ekspliko: "Táknar eitthvað óákveðið."
           frazo: "Það komu einhverjir sem ég þekki ekki."
           vorto: einhver
-        ki: 
+        ki:
           ekspliko: "Táknar spurningu; sýnir tengsl við setninguna á undan."
           frazo: "Hver var fyrsti kennari þinn?  Herra Karl."
           vorto: "hver, hvaða, sá sem"
-        neni: 
+        neni:
           ekspliko: "Hefur neitandi merkingu."
           frazo: "Hver kom í gær?  Það kom enginn í gær."
           vorto: enginn
-        ti: 
+        ti:
           ekspliko: "Notað ábendandi."
           frazo: "Þessi bók er mjög góð."
           vorto: þessi
-        ĉi: 
+        ĉi:
           ekspliko: "Hefur altæka merkingu."
           frazo: "Sérhver maður elskar sjálfan sig."
           vorto: sérhver
-      vortaro05: 
+      vortaro05:
         al: "til, við"
         anonco: auglýsing
         aĉeti: kaupa

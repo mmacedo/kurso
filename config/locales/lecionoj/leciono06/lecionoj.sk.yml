@@ -1,101 +1,101 @@
---- 
-sk: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+sk:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Naučme sa teraz ostatné tabuľkové slová. Majte na pamäti, že systém je uzatvorený, to znamená, že nie je možné vytvoriť iné ako už ukázané tabuľkové slová."
         titolo: "Tabuľkové slová"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Ukazuje kvalitu, druh (môže mať koncovku \"j\" aj \"n\")"
-        i: 
+        i:
           frazo: "Máš nejaké pochybnosti o gramatike esperanta?"
           vorto: Nejaký
-        ki: 
+        ki:
           frazo: "Aký bol tvoj deň? - Môj deň bol veľmi dobrý, ďakujem!"
           vorto: Aký
-        neni: 
+        neni:
           frazo: "Nie, nemám o nej nijakú pochybnosť."
           vorto: Nijaký
-        ti: 
+        ti:
           frazo: "Nebudem jesť taký chleba."
           vorto: Taký
-        ĉi: 
+        ĉi:
           frazo: "Každá pomoc je vítaná."
           vorto: Všelijaký
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: Príčina
-        i: 
+        i:
           frazo: "Z nejakého dôvodu ťa ešte nepoznám."
           vorto: "Pre niečo"
-        ki: 
+        ki:
           frazo: "Prečo to dieťa beží? - Pretože má veľkú radosť."
           vorto: Prečo
-        neni: 
+        neni:
           frazo: "Môžeš ho dráždiť akokoľvek. Nikdy by sa nenahneval."
           vorto: "Pre nič"
-        ti: 
+        ti:
           frazo: "Je veľmi pekná. Pretu ju milujem."
           vorto: Preto
-        ĉi: 
+        ĉi:
           frazo: "Pýtaš sa, prečo ťa milujem. Odpovedám: pre všetko!"
           vorto: "Pre všetko"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Spôsob
-        i: 
+        i:
           ekspliko: Neurčitosť
           frazo: "Nejako mi pripomína inú osobu."
           vorto: Nejako
-        ki: 
+        ki:
           ekspliko: "Ukazuje otázku alebo vzťah k predošlej vete (vzťažné vety)"
           frazo: "Ako sa máš? - Mám sa veľmi dobre, ďakujem!"
           vorto: Ako
-        neni: 
+        neni:
           ekspliko: "Vyjadruje zápor"
           frazo: "Nijako nemôžem porozumieť, čo hovoríš."
           vorto: Nijako
-        ti: 
+        ti:
           ekspliko: Ukazovacie
           frazo: "Píše tak dobre ako učiteľka."
           vorto: Tak
-        ĉi: 
+        ĉi:
           ekspliko: Všeobecne
           frazo: "Všemožne mi pomohli."
           vorto: "Všelijako (všetkými spôsobmi)"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: Vlastníctvo
-        i: 
+        i:
           frazo: "Našiel som niekoho knihu."
           vorto: Niekoho
-        ki: 
+        ki:
           frazo: "Koho je to kniha? - To je Johanova kniha."
           vorto: Koho
-        neni: 
+        neni:
           frazo: "Esperanto nie je nikoho vlastníctvom."
           vorto: Nikoho
-        ti: 
+        ti:
           frazo: "Mačka bežala po dome a poškodila jeho strechu."
           vorto: Toho
-        ĉi: 
+        ĉi:
           frazo: "Esperanto je jazyk každého."
           vorto: Každého
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Ukazuje množstvo"
-        i: 
+        i:
           frazo: "Músim kúpiť trochu (niekoľko) kávy."
           vorto: "Niekoľko, trochu"
-        ki: 
+        ki:
           frazo: "Koľko sú dve a dve? - Štyri!"
           vorto: Koľko
-        neni: 
+        neni:
           frazo: "Koľko detí sa hrá v dome? - Žiadne (\"nikoľko\")"
           vorto: "Nič, nikoľko"
-        ti: 
+        ti:
           frazo: "Jedol toľko, koľko chcel."
           vorto: Toľko
-        ĉi: 
+        ĉi:
           frazo: "Koľko chcete benzínu? - Chcem všetko, čo máte."
           vorto: Všetko
-      relativoj: 
+      relativoj:
         ekspliko-1: "Slová začínajúce na \"KI\" môžu taktiež uvádzať vety bez opytovacieho zmyslu. Vtedy sa nazývajú vzťažnými, pretože ukazujú vzťah medzi hlavnou a vedlajšou vetou."
         ekspliko-2: "V nasledujúcej vete sa \"kiun\" vzťahuje na \"tiu frukto\"."
         frazo-1: "Chcem to ovocie, ktoré si ukázal."

@@ -1,24 +1,24 @@
---- 
-hu: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+hu:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "A dátum kifejezéséhez kövesd a példát.  A \"tago\" és az \"en la jaro\" hozzágondolt,  ezért nem szükséges megemlíteni."
         titolo: "Dátum, idõpont, keltezés"
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "A kenyér száraz."
           titolo: "Kijelentés:"
-        demando: 
+        demando:
           frazo-1: "Száraz a kenyér?"
           titolo: "Kérdés:"
         ekspliko: "Az összes kérdés a kijelentésre épül, csak elékerül a \"Ĉu\" szó. Jegyezd meg, hogy a szórend nem változik meg, csak a \"Ĉu\" szó kerül a mondat elé. Ez érvényes az összes olyan kérdésre, amelyre \"igen\"-nel  vagy \"nem\"-mel lehet válaszolni."
-        respondo: 
+        respondo:
           frazo-negativa: "Nem, a kenyér nem száraz."
           frazo-pozitiva: "Igen, a kenyér száraz."
           titolo: "Válasz:"
         titolo: "Kérdõ mondatok"
-      monatoj: 
+      monatoj:
         aprilo: Április
         aŭgusto: Augusztus
         decembro: December
@@ -32,7 +32,7 @@ hu:
         oktobro: Október
         septembro: Szeptember
         titolo: "Az év hónapjai"
-      salutoj: 
+      salutoj:
         saluto-1: Szervusz!
         saluto-10: "Jó étvágyat!"
         saluto-11: "Köszönöm, viszont kívánom!"
@@ -48,12 +48,12 @@ hu:
         saluto-8: "Elég jól."
         saluto-9: "Nem nagyon jól."
         titolo: Köszöntések
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: tegnap
           hodiaŭ: ma
           morgaŭ: holnap
-        semajno: 
+        semajno:
           dimanĉo: Vasárnap
           lundo: Hétfõ
           mardo: Kedd
@@ -62,9 +62,9 @@ hu:
           vendredo: Péntek
           ĵaŭdo: Csütörtök
         titolo: "A hét napjai"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Olvasd el az alábbi szöveget, amelyet egy eszperantó diák írt, és próbáld megérteni a szókészlet segítségével!"
-        vortaro: 
+        vortaro:
           alia: "másik, egy másik"
           antaŭ: elõtte
           facila: könnyû
@@ -72,7 +72,7 @@ hu:
           komenci: kezdeni
           lerni: tanulni
           tre: nagyon
-      vortaro04: 
+      vortaro04:
         infano: gyermek
         kaj: és
         kolekti: gyûjteni

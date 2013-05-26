@@ -1,95 +1,95 @@
---- 
-cs: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+cs:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Zde předkládáme užitečná slůvka, která jsou částí pravidelného a uzavřeného systému, tvořícího tabulku. Říkáme jim korelativa, slova souvztažná nebo tabulková. Význam každého slůvka je kombinací předpony a přípony."
         titolo: "Tabulková slova (korelativa, slova souvztažná)"
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Čas
-        i: 
+        i:
           frazo: "Navštívil jste někdy Brazilii?"
           vorto: Někdy
-        ki: 
+        ki:
           frazo: "Kdy koupíte tu knihu? - Zítra ráno."
           vorto: "Kdy, když"
-        neni: 
+        neni:
           frazo: "Ne, nikdy jsem tu zemi nenavštívil."
           vorto: Nikdy
-        ti: 
+        ti:
           frazo: "Učil jsem se esperanto tehdy, když jsem byl ve škole."
           vorto: Tehdy
-        ĉi: 
+        ĉi:
           frazo: "Přesto jsem si vždy přál ji navštívit."
           vorto: Vždy
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Toto slůvko označuje větší blízkost: Může stát před tabulkovým slovem nebo za ním."
         frazo-1: "Copak je tohleto?"
         frazo-2: "Tohle je zvíře."
         frazo-3: "Tohleto je můj dům."
         rimarkigo: "Tabulková slova končící na \"o\" (kio, tio atd.) mohou získat koncovku 4. pádu (-n), ale nemají množné číslo (-j). Slova končící na \"a\" nebo \"u\" mohou získat jak \"-n\", tak \"-j\". Před tázacími slovy (kio, kie atd.) nepoužíváme tázací slůvko \"ĉu\"."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Ukazuje místo."
-        i: 
+        i:
           ekspliko: "Vyjadřuje neurčitost."
           frazo: "Moje tužka je někde na zahradě."
           vorto: Někde
-        ki: 
+        ki:
           ekspliko: "Vyjadřuje otázku nebo  vztah k předchozí větě (slova tázací a vztažná)."
           frazo: "Kde bydlíš? - Bydlím v Kanadě."
           vorto: Kde
-        neni: 
+        neni:
           ekspliko: "Vyjadřuje zápor.."
           frazo: "Nikde jsem nenašel svou knihu."
           vorto: Nikde
-        ti: 
+        ti:
           ekspliko: "Slouží k ukazování."
           frazo: "Bydlím tam, kde je to auto."
           vorto: Tam
-        ĉi: 
+        ĉi:
           ekspliko: "Zahrnuje vše, zevšeobecňuje."
           frazo: "Hlupák všude svoje jméno píše."
           vorto: Vše
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Záležitost, předmět, věc."
-        i: 
+        i:
           frazo: "Něco se stalo!"
           vorto: Něco
-        ki: 
+        ki:
           frazo: "Co je zeměpis? - Zeměpis je věda."
           vorto: Co
-        neni: 
+        neni:
           frazo: "Lepší něco nežli nic."
           vorto: Nic
-        ti: 
+        ti:
           frazo: "Co je to? - To je hudební nástroj."
           vorto: To
-        ĉi: 
+        ĉi:
           frazo: "Zapomněl jsem vše."
           vorto: Vše
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Ukazuje jednotlivou osobu nebo věc. V množném čísle přibírá koncovku -j."
-        i: 
+        i:
           ekspliko: "Vyjadřuje neurčitost."
           frazo: "Přišly nějaké osoby, které neznám."
           vorto: Někdo
-        ki: 
+        ki:
           ekspliko: "Vyjadřuje otázku nebo  vztah k předchozí větě (slova tázací a vztažná)."
           frazo: "Kdo byl tvůj první učitel? - Pan Karel."
           vorto: "Kdo, který"
-        neni: 
+        neni:
           ekspliko: "Vyjadřuje zápor."
           frazo: "Kdo přišel včera? - Nikdo včera nepřišel."
           vorto: Nikdo
-        ti: 
+        ti:
           ekspliko: "Slouží k ukazování."
           frazo: "Ta kniha je velmi dobrá."
           vorto: "Ten (ta, to)"
-        ĉi: 
+        ĉi:
           ekspliko: "Zahrnuje vše, zevšeobecňuje."
           frazo: "Každý člověk miluje sám sebe."
           vorto: Každý
-      vortaro05: 
+      vortaro05:
         al: k
         anonco: oznámení
         aĉeti: koupit

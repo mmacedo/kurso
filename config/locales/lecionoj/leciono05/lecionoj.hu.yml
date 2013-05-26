@@ -1,95 +1,95 @@
---- 
-hu: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+hu:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Nagyon hasznos szavacskák, amelyek részei egy szabályos és zárt rendszernek. Ezeket a szavacskákat névmásoknak hívják. Minden névmásnak az értelmét a szógyök (elõtag) és a végzõdés (utótag) együttesen adja."
         titolo: Névmások
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Idõ
-        i: 
+        i:
           frazo: "Voltál valaha Brazíliában?"
           vorto: "valamikor, egykor, hajdan, egyszer, valaha"
-        ki: 
+        ki:
           frazo: "Mikor fogja(fogod) megvenni a könyvet?  —  Holnap reggel."
           vorto: "mikor?, amikor"
-        neni: 
+        neni:
           frazo: "Nem, én sohasem látogattam meg azt az országot."
           vorto: "soha, semmikor"
-        ti: 
+        ti:
           frazo: "Akkor tanultam eszperantót, amikor iskolába jártam."
           vorto: "akkor, ekkor, abban (ebben) az esetben"
-        ĉi: 
+        ĉi:
           frazo: "Mindazonáltal én mindig vágytam azt meglátogatni."
           vorto: mindig
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Ez a szó közelséget jelent:"
         frazo-1: "Mi ez?"
         frazo-2: "Ez egy állat."
         frazo-3: "Ez az én házam."
         rimarkigo: "Az \"o\"-val végzõdõ névmások (kio, tio, stb.) kaphatnak (-n) tárgyeset végzõdést, viszont nem kaphatnak (-j) többes számot. Az \"a\" és a \"u\" végzõdésû névmások viszont kaphatnak \"-n\" tárgyesetet és \"-j\" többes számot. Sose használd a \"Ĉu\" szót kérdõszók (\"kio\", \"kie\", stb.) elõtt!"
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Helyet mutat."
-        i: 
+        i:
           ekspliko: "Határozatlanságot mutat."
           frazo: "A ceruzám valahol a kertben van."
           vorto: valahol
-        ki: 
+        ki:
           ekspliko: "Kérdést mutat; mutatja a viszonyt az elõzõ mondattal."
           frazo: "Hol lakik(laksz)?  —  Kanadában lakom."
           vorto: "hol?, ahol"
-        neni: 
+        neni:
           ekspliko: "Nenmlegeséget mutat."
           frazo: "Sehol sem találtam a könyvemet."
           vorto: sehol
-        ti: 
+        ti:
           ekspliko: "Mutatásra használatos."
           frazo: "Ott lakom, ahol a kocsi van."
           vorto: ott
-        ĉi: 
+        ĉi:
           ekspliko: "Gyûjtést, csoportot mutat."
           frazo: "A buta ember mindenhová a saját nevét írja."
           vorto: "mindenütt, mindenhol"
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Dolog, tárgy, valami."
-        i: 
+        i:
           frazo: "Valami történt!"
           vorto: valami
-        ki: 
+        ki:
           frazo: "Mi a földrajz?  —  A földrajz egy tudomány."
           vorto: "mi?, ami"
-        neni: 
+        neni:
           frazo: "Jobb valami, mint semmi."
           vorto: semmi
-        ti: 
+        ti:
           frazo: "Mi az? — Az egy hangszer."
           vorto: az
-        ĉi: 
+        ĉi:
           frazo: "Mindent elfelejtettem."
           vorto: minden
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Egyént jelõl. Amikor több, mint egyrõl van szó, \"j\" végzõdést kap."
-        i: 
+        i:
           ekspliko: "Határozatlanságot mutat."
           frazo: "Jöttek valakik, akiket nem ismerek."
           vorto: valaki
-        ki: 
+        ki:
           ekspliko: "Kérdést mutat; mutatja a viszonyt az elõzõ mondathoz."
           frazo: "Ki az elsõ oktató? — Károly úr."
           vorto: "ki; aki"
-        neni: 
+        neni:
           ekspliko: "Nemlegességet mutat."
           frazo: "Ki jött tegnap?  —  Senki sem jött tegnap."
           vorto: "senki, egyik sem, semelyik"
-        ti: 
+        ti:
           ekspliko: "Mutatásra használatos."
           frazo: "Az a könyv nagyon jó."
           vorto: az(személy)
-        ĉi: 
+        ĉi:
           ekspliko: "Gyûjtést, csoportot mutat."
           frazo: "Minden ember szereti saját magát."
           vorto: mindenki
-      vortaro05: 
+      vortaro05:
         al: "felé, tova"
         anonco: hirdetés
         aĉeti: venni

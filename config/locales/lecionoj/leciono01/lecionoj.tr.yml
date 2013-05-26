@@ -1,19 +1,19 @@
---- 
-tr: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+tr:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: Güzel
         ekspliko: "\"a\" ile bitenler :"
         sana: Sağlıklı
         titolo: Sıfatlar
         varma: Sıcak
-      alfabeto: 
+      alfabeto:
         ekspliko: "Esperanto da kelimeler Türkçede olduğu gibi aynı harf her yerde aynı şekilde telaffuz edilir.Esperanto kelimelerinde vurgu sondan önceki hecedir.Bu hece diğerinden daha kuvvetli ve uzunca telaffuz edilir.Bu hece üzerinde durmak ve son heceyi biraz hafif söylemek gerekir."
         titolo: "Esperanto Alfabesi"
-      artikolo: 
+      artikolo:
         ekspliko: "Esperantoda yalnız bir belirli harfi tarif vardır \"la\" takısı.Harfi tarif çoğul ve hal eki almaz.Türkçede yoktur."
-        frazoj: 
+        frazoj:
           frazo-1: "Çoçuklarınız bizim arkadaşlarımızdır."
           frazo-2: "Ekmek kurudur."
           frazo-3: "Sıcak süt iyidir."
@@ -22,7 +22,7 @@ tr:
           frazo-6: "Baba iyidir."
           titolo: Cümleler
         titolo: "Harfi Tarif"
-        vortoj: 
+        vortoj:
           floroj: Çiçekler
           knabo: Çocuk
           la-floroj: Çiçekler
@@ -31,33 +31,33 @@ tr:
           la-patroj: Babalar
           pano: Ekmek
           patroj: Babalar
-      nomoj: 
+      nomoj:
         amiko: "Dost , Arkadaş"
         ekspliko: "\"o\" harfiyle bitenler :"
         frato: Kardeş
         kafo: Kahve
         titolo: İsimler
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Onlar ( Çoğul )"
           ni: Biz
           titolo: Çoğul
           vi: "Siz ( Çoğul )"
-        singularo: 
+        singularo:
           li: "O (erkek )"
           mi: Ben
           titolo: Tekil
           vi: "Sen ( Tekil )"
           ĝi: "O ( Cansız varlıklar için )"
           ŝi: "O ( Dişil )"
-        specialaj: 
+        specialaj:
           oni: "Mechul Zamir - Esperantoda belirsiz bir zamirdir ki, bu sayısı, cinsi ve tarifi yapılamayan varlıklar için kullanılmaktadır. Veya kişisi belirsiz durumlarda da kullanılmaktadır."
           si: "Refleks Zamiri - Sadece üçüncü şahısların tekil veya çoğul durumlarında kullanılır. \"Si mem\" özne olamaz. Cümledeki özneye dönüşüm yapar."
           titolo: "Özel durumlar"
         titolo: "Şahıs Zamirleri"
-      pluralo: 
+      pluralo:
         ekspliko: "Çoğul takısı isim ve sıfatların sonuna \"j\" harfi konularak yapılır."
-        pluralo: 
+        pluralo:
           amikoj: arkadaşlar
           belaj: Güzeller
           belaj-floroj: "Güzel çiçekler"
@@ -66,7 +66,7 @@ tr:
           patroj: Babalar
           sanaj: Sağlıklılar
           sanaj-patroj: "Sağlıklı babalar"
-        singularo: 
+        singularo:
           amiko: Arkadaş
           bela: Güzel
           bela-floro: "Güzel çiçek"
@@ -76,9 +76,9 @@ tr:
           sana: Sağlıklı
           sana-patro: "Sağlıklı baba"
         titolo: Çoğul
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "İyelik zamirleri şahıs zamirlerinin sonuna (\"a\") harfi getirilerek yapılır."
-        posedaj: 
+        posedaj:
           ilia: Onların
           lia: Onun
           mia: Benim
@@ -86,27 +86,27 @@ tr:
           via: Senin
           ĝia: "Onun ( cansız varlıklar )"
           ŝia: "Onun ( dişil )"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Aynı zamanda iyelik zamirleride sonuna \"j\" harfini ekleyerek çoğul halini alırlar."
           mia-amiko: Arkadaşım
           miaj-amikoj: Arkadaşlarım
           nia-floro: "Bizim çiçeğimiz"
           niaj-floroj: "Bizim çiçeklerimiz"
         titolo: "İyelik Zamirleri"
-      verboj: 
+      verboj:
         ekspliko: "Kökler her zaman -i takısı ile biter.Örneğin \"esti\". Estas ( şimdiki zaman ) , -as ile biter. Estis ( geçmiş zaman ), -is ile biter. Estos ( gelecek zaman ), -os ile biter.Diğer fiillerin zamanlarını gelecek derslerde inceleyeceğiz."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: Onlardır
           ni-estas: Biziz
           oni-estos: "Olacaklar - Cansız varlıklar için"
           vi-estis: Sizdiniz
-        singularo: 
+        singularo:
           li-estis: "O idi ( Eril )"
           mi-estas: Benim
           ĝi-estos: "O olacaktır - Cansızlar için"
           ŝi-estas: "Odur ( Dişil )"
         titolo: Fiiller
-      vortaro01: 
+      vortaro01:
         amiko: Arkadaş
         bela: Güzel
         biskvito: Bisküvit

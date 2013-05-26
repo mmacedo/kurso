@@ -1,24 +1,24 @@
---- 
-pl: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+pl:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "By podać datę użyj modelu ( \"dzień\" )  i  ( \"w roku\" ) 13.Jan.1964 = (13 stycznia ) ( w 1964r )"
         titolo: Daty
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Chleb jest suchy."
           titolo: "Twierdzenie:"
-        demando: 
+        demando:
           frazo-1: "Czy chleb jest suchy?"
           titolo: "Pytanie:"
         ekspliko: "Każde pytanie buduje się na twierdzeniu, stawiając tylko na początku zdania słówko  \"Czy\". To obowiązuje dla wszystkich pytań, na które odpowiedź jest   \"tak\", lub  \"nie\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Nie, chleb nie jest suchy."
           frazo-pozitiva: "Tak, chleb jest suchy."
           titolo: "Odpowiedź:"
         titolo: "Zdania pytające"
-      monatoj: 
+      monatoj:
         aprilo: kwiecień
         aŭgusto: sierpień
         decembro: grudzień
@@ -32,7 +32,7 @@ pl:
         oktobro: październik
         septembro: wrzesień
         titolo: "Miesiące roku"
-      salutoj: 
+      salutoj:
         saluto-1: "Witaj!  Witajcie!"
         saluto-10: "Dobrego apetytu!"
         saluto-11: "To samo tobie, dziękuję!"
@@ -48,12 +48,12 @@ pl:
         saluto-8: "Wystarczająco  dobrze."
         saluto-9: "Nie bardzo dobrze."
         titolo: Powitania
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: wczoraj
           hodiaŭ: dzisiaj
           morgaŭ: jutro
-        semajno: 
+        semajno:
           dimanĉo: niedziela
           lundo: poniedziałek
           mardo: wtorek
@@ -62,9 +62,9 @@ pl:
           vendredo: piątek
           ĵaŭdo: czwartek
         titolo: "Dni tygodnia"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Przeczytaj poniższy tekst, napisany przez ucznia Esperanta i spróbuj  go zrozumieć z pomocą słownika."
-        vortaro: 
+        vortaro:
           alia: inny
           antaŭ: przed
           facila: łatwy
@@ -72,7 +72,7 @@ pl:
           komenci: zaczynać
           lerni: "uczyć się"
           tre: bardzo
-      vortaro04: 
+      vortaro04:
         infano: dziecko
         kaj: "i, a"
         kolekti: zbierać

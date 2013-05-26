@@ -1,11 +1,11 @@
---- 
-jp: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+jp:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "動詞についてもう少し見てみましょう: 現在形は\"as\"で終わり、過去形は\"is\"で終わり、未来形は\"os\"で終わり、不定形は\"i\"で終わることは、すでに勉強しました。 この他にも動詞の形はいくつかあります:"
         titolo: 動詞のその他の形
-      imperativo: 
+      imperativo:
         ekspliko-1: "命令形(-u)は一般に二人称(話す相手)に対して使います。 この場合には代名詞は必要ありません。 しかし一人称(自分、自分たち)や三人称(自分でも相手でもない第三者)に対して使うときは、代名詞を使うべきです。"
         ekspliko-2: "語尾-uは目標(命令、依頼、忠告、願望、必要、義務、許可、禁止など)を表します。 「私は希望する、恐れる、信じない、想像する」などの場合には、未来形(-os)を使うべきです。"
         frazo-1: そのドアを閉めて、座りなさい。
@@ -17,8 +17,8 @@ jp:
         frazo-7: 私は、彼が来いと、それとなく言います。
         frazo-8: 彼が来る可能性はあります。
         titolo: "命令法 (-u)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: 私は理解しなければなりません。
           devas-veni: 私は来なければなりません。
           devi: ～すべきだ(義務、必然)
@@ -28,29 +28,29 @@ jp:
           volas-kompreni: 私は理解したいです。
           volas-veni: 私は来たいです。
           voli: ～したい(意思)
-        scio: 
+        scio:
           frazo-koni-1: "私は ... (人、場所など) を知っています。"
           frazo-koni-2: あなたはヨハーノを知っていますか?
           frazo-scii-1: "私は ... (数学、科学、書き方など) を知っています。"
           frazo-scii-2: あなたはエスペラントを知っていますか?
         titolo: とても重要な動詞
-        ŝato: 
+        ŝato:
           frazo-ami: 私は誰かを愛します。
           frazo-plaĉi-1: 何か、または誰かは私の好みに合います。
           frazo-plaĉi-2: 本は私の好みに合います。
           frazo-ŝati: 私は何かが好きです。
-      kondicionalo: 
+      kondicionalo:
         frazo-1: 私がお金持ちなら、たくさん旅行するのになぁ。
         frazo-2: もしそのパンがおいしければ、私たちはそれを食べるのになぁ。
         titolo: "仮定法 (-us)"
-      nerekta: 
+      nerekta:
         ekspliko: "間接話法では、直接話法と同じ動詞の形を使います。 例を見てみましょう:"
         frazo-1: 彼は「私はニューヨークから来ました」と言いました。
         frazo-2: 彼は自分はニューヨークから来たと言いました。
         frazo-3: 彼女は「私はパリに旅行するでしょう」と言いました。
         frazo-4: 彼女は自分はパリに旅行するだろうと言いました。
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: 私はこれから読むところです。
           frazo-presenco: 私は読んでいるところです。
           frazo-preterito: 私は読み終えたところです。
@@ -74,7 +74,7 @@ jp:
         frazo-7: 閉められたドア
         frazo-8: 昇りつつある太陽
         frazo-9: 生き残った人々
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "私はその本を読んでいます = その本は私によって読まれています。"
           frazo-futuro: その本はこれから読まれます。
           frazo-presenco: その本は読まれているところです。
@@ -84,7 +84,7 @@ jp:
           preterito: "過去: -it"
           titolo: 受動態(じゅどうたい)、受け身(うけみ)
         titolo: 分詞(ぶんし)
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"si\" は三人称の再帰代名詞で、その文の主語を指します。"
         ekspliko-2: "\"sia\"は主語には使いません。 主語に使うには\"lia\"や\"ŝia\"や\"ĝia\"を使います。 以下の例では\"filo\"は\"li\"と関係しています:"
         frazo-1: ヨハーノは自分を洗いました。

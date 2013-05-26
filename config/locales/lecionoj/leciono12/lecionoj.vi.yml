@@ -1,11 +1,11 @@
---- 
-vi: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+vi:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Bây giờ chúng ta có thể nghe bài hát Quốc tế ngữ  \"Bluaj Fragoj\"  (Quả dâu màu xanh da trời), hát bởi Merlin, một nhóm nhạc pop Brazil, nhóm này đã có 2 album bằng Quốc tế ngữ và biểu diễn khắp thế giới. Nhóm nhạc gồm: Markone Froes (hát và chơi ghi ta), Guilherme Lima (chơi trống), Aldrin Gandra (chơi ghi ta điện tử), Sergio Ribeiro (chơi ghi ta bass) and Sergio Vieira (chơi organ)."
         titolo: "Bài hát bằng Quốc tế ngữ"
-        vortaro: 
+        vortaro:
           aliri: "lại gần"
           alveni-al: "đi tới"
           animo: "linh hồn, tâm hồn"
@@ -19,53 +19,53 @@ vi:
           vero: "sự thật, chân lý"
           ĉielarko: "cầu vồng"
           ĉielo: "trên trời"
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "Một số động từ, được gọi là ngoại động từ, nhận chủ ngữ trực tiếp. Trong bài học số 2 chúng ta đã biết rằng chủ ngữ trực tiếp thì luôn ở dạng đổi cách. Các động từ khác, được gọi là nội động từ, không nhận chủ ngữ trực tiếp. Ví dụ:"
         frazo-1: "Có điều gì đó quan trọng đã xảy ra."
         frazo-2: "Hôm nay tôi rất vui."
         frazo-3: "Họ đã sẵn sàng ngủ trên giường của họ."
         frazo-4: "Những người trẻ tuổi nhảy rất nhiều."
-        ig: 
+        ig:
           ekspliko: "Động từ với hậu tố -IG-  thường là ngoại động từ. Thường hàm ý \"làm....\":"
           frazo-1: "Chuyến đi chắc chắn làm bạn mệt mỏi."
           frazo-2: "Người dân ở miền Nam mặt trời đốt cháy vùng đầu không được che. (làm cho bị cháy nắng)"
           frazo-3: "Người cha muốn cưới  chồng cho con gái lớn tuổi của mình ngay lập tức. (làm cho cô ấy thành một bà vợ)"
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "'-ĝi' thường được thên vào ngoại động từ. Kết quả là một ngoại động từ mà từ này có nghĩa là 'trở thành....'.Do đó 'kuiri' = nấu nướng và 'kuiriĝi' = trở nên chín (sau khi nấu)."
             frazo-1: "Con bò chạy chậm hơn chiếc xe đạp, cái mà được đạp rất nhanh."
             frazo-2: "Bỗng nhiên anh ấy tìm thấy anh ta trên phố, một mình trơ trọi."
             frazo-3: "Vào thời gian nào thì bài học bắt đầu?"
             frazo-4: "Nơi dành cho khách bộ hành đi lại là vỉa hè."
           ekspliko: "Tất cả các động từ có hậu tố '-ĝi' là nội động từ (không có chủ ngữ trực tiếp). Chúng thường cấu thành bời thêm đuôi '-ĝi'  vào danh từ hay tính từ. Thông thường, nghĩa có thể được hiểu là \" trở thành\":"
-          unu: 
+          unu:
             ekspliko: "Động từ với đuôi là  '-iĝi'  thường ngụ ý một sự chuyển tiếp sang một trạng thái mới của một trạng thái đặc thù được chỉ ra bởi từ gốc. Người làm hay thủ phạm của hành động không được định rõ:"
             frazo-1: "Trong mùa đông, nước đóng băng. (trở thành đá)"
             frazo-2: "Hôm nay thời tiết trở nên ấm hơn."
             frazo-3: "Cô ấy cưới (trở thành vợ) anh họ cô ấy. (Chú ý là 'kuzo' thường dùng cho nam giới)"
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Các động từ có thể có phần bổ xung sử dụng giới từ:"
           ekspliko-2: "Một số động từ mà nội dung thông thường đôi khi có thể nhận chủ ngữ trực tiếp:"
           frazo-1: "Bố anh ấy chết vì bệnh ung thư."
           frazo-2: "Tôi rất vui sướng vì thấy bạn hạnh phúc!"
           frazo-3: "Cô ấy đang ngủ trong một giấc ngủ sâu. (ngủ say)"
           frazo-4: "Cô ấy nhảy một điệu van xơ với anh ta."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Luôn nhớ rằng động từ \"esti\"  không yêu cầu đổi cách. Đừng sử dụng sự đổi cách sau một giới từ."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Một số động từ không có chủ ngữ:"
           frazo-1: "Hôm qua, mưa nhiều.(không có chủ ngữ , ở đây hiểu là trời mưa)"
           frazo-2: "Rạng đông rồi, và tôi phải về nhà ."
           frazo-3: "Tuyết rơi rất dày và anh ấy không thể rời khỏi ca bin (buồng lái)."
         titolo: "Nội và ngoại động từ"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Chắc chắn rằng bạn đã chú ý đến sự lạ thường về khả năng diễn tả trong Quốc tế ngữ. Trên thực tế, bằng việc thêm các tiền tố, phụ tố khác nhau và phần đuôi ngữ pháp vào từ gốc, bạn có thể tạo ra rất nhiều từ, một số trong đó không có từ tương ứng trong tiếng Anh (hay tiếng Việt). Sau đây là một số cách tạo từ:"
         ekspliko-2: "Sử dụng tiền tố và hậu tố:"
         ekspliko-3: "Nối các từ gốc. Phần đuôi ngữ pháp của phần tử đầu tiên, thường là \" '-o', thì đôi khi bị bỏ qua, nhưng nó có thể được duy trì cho việc phát âm dễ dàng."
         ekspliko-4: "Tạo từ từ một nhóm từ:"
         rimarkigo: "Dù là nó có thể được tạo ra từ với hơn một tiền tố hay hậu tố hay cả hai, nên thiên về sự rõ ràng và tao nhã, và tránh xa việc sáng tạo quá nhiều. Như vậy, thay vì dùng  \"belulineto\" chúng ta sẽ dùng \"eta belulino\". Ví dụ:"
         titolo: "Việc tạo từ trong Quốc tế ngữ"
-        vortoj: 
+        vortoj:
           antaŭbrako: "cẳng tay"
           balenŝipo: "tàu đánh cá voi"
           helruĝo: "ánh sáng màu đỏ"

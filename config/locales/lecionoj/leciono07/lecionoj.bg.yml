@@ -1,11 +1,11 @@
---- 
-bg: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+bg:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Предлозите са думички, които показват отношението между две думи."
         titolo: "Предлози I"
-        vortoj: 
+        vortoj:
           al: "на, към, до"
           da: "предлог след думи за количество, обикновено не се превежда на български"
           de: "от, на, по (напр. учебник по...)"
@@ -18,9 +18,9 @@ bg:
           sur: "на, върху"
           ĉe: "до, при"
           ĝis: до
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Предлози II"
-        vortoj: 
+        vortoj:
           anstataŭ: вместо
           antaŭ: пред
           apud: "до, близо до"
@@ -39,7 +39,7 @@ bg:
           tra: "през (преминаване през)"
           trans: "през, отвъд"
           ĉirkaŭ: около
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Във втория урок видяхме, че окончанието \"-n\" показва прякото допълнение. Това е винителен падеж. Например:"
         ekspliko-2: "Ако в изречението има две допълнения, едното от тях трябва да е непряко. Например:"
         ekspliko-3: "Горната употреба на предлога е необходима, а непрякото допълнение няма окончание за винителен падеж. Ето други примери:"
@@ -56,8 +56,8 @@ bg:
         frazo-5: "Той изпи чаша чай."
         frazo-6: "Махни се от пред мен!"
         titolo: "Предлози III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: пристигам
           aŭtobuseto: автобусче
           danki: благодаря
@@ -72,8 +72,8 @@ bg:
           sidi: седя
           tagmanĝo: обяд
           viziti: посещавам
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "Арктика (около Северния полюс)"
           Kanado: Канада
           admiri: "възхищавам се на"

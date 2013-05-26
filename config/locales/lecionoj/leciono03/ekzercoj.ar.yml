@@ -1,11 +1,11 @@
---- 
-ar: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+ar:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "تمارين في الأرقام التعدادية"
         numeraloj-ekzercoj-instrukcioj: "املأ الفراغ بالرقم المقابل للكلمة المعطاة. عند انتهائك ، انقر \"Enter\" أو الزر المجاور. وتذكر : يجب ألا تقل نسبة الإجابات الصحيحة عن ٧٠٪."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. هو يحبها."
         frazo02: "2. هو يحب أختها."
         frazo03: "3. هي تحبه."

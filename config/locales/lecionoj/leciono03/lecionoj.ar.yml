@@ -1,48 +1,48 @@
---- 
-ar: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+ar:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "يمكننا تشكيل الأرقام الترتيبية بإضافة النهاية الوصفية \"a-\" إلى الأرقام التعدادية. كبقية الصفات ، تجمع الأرقام الترتيبية وتنصب."
-        frazoj: 
+        frazoj:
           frazo-1: "الأولاد الأولون يأتون."
           frazo-2: "أمسك الحشرةَ الثالثة."
         titolo: "الصفات المشتقة من الأرقام التعدادية"
-        vortoj: 
+        vortoj:
           dek: عشرة
           dek-naŭ: "تسعة عشر"
           dek-naŭa: "تاسع عشر"
           deka: عاشر
           tri: ثلاثة
           tria: ثالث
-      adverboj: 
+      adverboj:
         ekspliko-1: "تشبه الأحوال في طريقة استخدامها الصفات كثيرا ، إلا أن الأحوال تصف الأفعال والصفات وحتى الأحوال الأخرى ، مخالفة في ذلك الصفات والتي لا تصف إلا أسماء. كذلك فإن الأحوال لا تجمَع. بصفة عامة ، تصف الأحوال كيفية وأسباب وزمان ومكان حدوث شيء ما."
         ekspliko-2: "وتنتهي الأحوال المشتقة من كلمات أخرى بـ\"e-\" في الإسبرانتو. بتغيير بسيط في النهايات ، يمكنك استعمال أكثر من وجه لنفس المعنى الأساسي :"
-        frazoj: 
+        frazoj:
           frazo-sana: "هو معاف."
           frazo-sane: "يعيش معافا."
           frazo-sani: يصحّ.
           frazo-sano: "عنده عافية (جيدة)."
         rimarkigo: "غالبا ما توضع الحال قبل موصوفها."
         titolo: الأحوال
-        vortoj: 
+        vortoj:
           sana: معاف
           sane: بصحة
           sani: "أن يكون معافا"
           sano: عافية
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "ويمكننا كذلك تشكيل الأحوال من الأرقام التعدادية بإضافة \"e-\" :"
-        frazoj: 
+        frazoj:
           frazo-1: "أولا سيشرب الماء."
         titolo: "الأحوال المشتقة من الأرقام"
-        vortoj: 
+        vortoj:
           du: اثنان
           due: ثانيا
           unu: واحد
           unue: أولا
-      numeraloj: 
+      numeraloj:
         titolo: "الأرقام التعدادية"
-      vortaro03: 
+      vortaro03:
         atendi: "أن ينتظر"
         demandi: "أن يسأل"
         fumi: "أن يدخن"

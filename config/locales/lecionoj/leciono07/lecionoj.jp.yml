@@ -1,11 +1,11 @@
---- 
-jp: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+jp:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "前置詞は日本語の「てにをは」のように語句の間の関係を表します。 日本語では後ろに置きますが、エスペラントでは前に置くので「前置詞」といいます。"
         titolo: "前置詞(ぜんちし) (1)"
-        vortoj: 
+        vortoj:
           al: ～へ
           da: ～の分量の
           de: ～の、～から
@@ -18,9 +18,9 @@ jp:
           sur: ～の上に
           ĉe: ～の所で
           ĝis: ～まで
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "前置詞 (2)"
-        vortoj: 
+        vortoj:
           anstataŭ: ～の代わりに
           antaŭ: ～の前に
           apud: ～の隣に
@@ -39,7 +39,7 @@ jp:
           tra: ～を通って
           trans: ～の向こうに、～を越えて
           ĉirkaŭ: ～のまわりに
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "第2課では、対格語尾の\"n\"は直接目的語(日本語の文の「～を」にあたる部分)を表すことを勉強しました。 例を見てみましょう:"
         ekspliko-2: "一つの文章が二つの目的語を持つときは、二つのうちの一つは間接目的語になります。 例を見てみましょう:"
         ekspliko-3: "この上の例では、前置詞の後の語が間接目的語で、それには対格語尾の\"n\"はつきません。 ほかの例を見てみましょう:"
@@ -56,8 +56,8 @@ jp:
         frazo-5: 彼はカップ一杯のコーヒーを飲みました。
         frazo-6: 私の前から立ち去れ!
         titolo: "前置詞 (3)"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: 到着する
           aŭtobuseto: 小さいバス
           danki: 感謝する
@@ -72,8 +72,8 @@ jp:
           sidi: 座っている
           tagmanĝo: 昼食
           viziti: 訪問する
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: 北極
           Kanado: カナダ(国の名)
           admiri: 賞賛する

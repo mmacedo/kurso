@@ -1,19 +1,19 @@
---- 
-sv: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+sv:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: |-
-            Lite mer om verben: vi har redan sett att  verb slutar på 'as' i nutid (presens), med 'is' i förfluten 
+            Lite mer om verben: vi har redan sett att  verb slutar på 'as' i nutid (presens), med 'is' i förfluten
             tid (preteritum) och med 'os' i framtid (futurum). Det finns fler tidsformer (tempus):
         titolo: "Andra verbformer"
-      imperativo: 
+      imperativo:
         ekspliko-1: |-
-            Verbet i imperativ (-U) avser vanligen andra person och då är det inte nödvändigt att använda 
+            Verbet i imperativ (-U) avser vanligen andra person och då är det inte nödvändigt att använda
             pronomen. För första eller tredje person skall man använda motsvarande pronomen:
         ekspliko-2: |-
-            U-ändelsens karaktär beror av målet ( order, bön, uppmaning, önskan, behov, plikt, tillstånd, 
-            förbud osv.). I de fall  det handlar om att 'jag hoppas', 'jag är rädd att', 'jag tror inte', jag antar' 
+            U-ändelsens karaktär beror av målet ( order, bön, uppmaning, önskan, behov, plikt, tillstånd,
+            förbud osv.). I de fall  det handlar om att 'jag hoppas', 'jag är rädd att', 'jag tror inte', jag antar'
             osv. skall man använda framtidsändelsen (ändelsen för futurum) (-os).
         frazo-1: "Stäng dörren och sitt ner."
         frazo-2: "Jag vill, att du skall komma."
@@ -22,7 +22,7 @@ sv:
         frazo-5: "Vi må (skall)  sova. /  De bör (skall) sova."
         frazo-6: "Jag hoppas, att han skall komma."
         frazo-7: |-
-            Jag föreslår, att han skall komma. 
+            Jag föreslår, att han skall komma.
                och ville genast få dig fatt!
             — Jag tror dig o min kung
                men jag behöver guld uti min pung!
@@ -32,8 +32,8 @@ sv:
                skulle du inte  bete dig som ett våp.
         frazo-8: "Det är möjligt, att han kommer att komma."
         titolo: "Befallningsform (imperativ)  (-U)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Jag måste förstå"
           devas-veni: "Jag måste komma"
           devi: "att böra ('måsta')"
@@ -43,29 +43,29 @@ sv:
           volas-kompreni: "Jag vill förstå"
           volas-veni: "Jag vill komma"
           voli: "att vilja"
-        scio: 
+        scio:
           frazo-koni-1: "Jag känner ..."
           frazo-koni-2: "Känner du Johan?"
           frazo-scii-1: "Jag vet ..."
           frazo-scii-2: "Kan du esperanto?"
         titolo: "Några mycket viktiga verb"
-        ŝato: 
+        ŝato:
           frazo-ami: "Jag älskar någon."
           frazo-plaĉi-1: "Något eller någon behagar mig."
           frazo-plaĉi-2: "Böcker faller mig i smaken. ( Jag tycker om böcker.)"
           frazo-ŝati: "Jag tycker om något."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Om jag vore rik, skulle jag resa mycket."
         frazo-2: "Vi skulle äta brödet om det vore gott."
         titolo: "Villkorsform (konditionalis) (-US)"
-      nerekta: 
+      nerekta:
         ekspliko: "Vid indirekt anföring: Använd samma tempus och modus på verbet som vid direkt anföring. Ex.:"
         frazo-1: "Han sade, 'Jag kommer från New York."
         frazo-2: "Han sade, att han kommer från New York"
         frazo-3: "Hon sade, 'Jag kommer att resa till Paris'"
         frazo-4: "Hon sade, att hon kommer att resa till Paris."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Jag kommer att vara läsande"
           frazo-presenco: "Jag är läsande (just nu)"
           frazo-preterito: "Jag har varit läsande"
@@ -89,7 +89,7 @@ sv:
         frazo-7: "Den stängda dörren.\n"
         frazo-8: "En uppgående sol"
         frazo-9: "De efterlevande"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Jag läser en bok = Boken läses av mig. (just nu)"
           frazo-futuro: "Boken kommer att bli läst."
           frazo-presenco: "Boken läses (just nu)."
@@ -99,7 +99,7 @@ sv:
           preterito: "Förfluten tid (preteritum): -it"
           titolo: "Passiv form"
         titolo: Particip
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "'si' är ett reflekterande (återsändande) pronomen för tredje person som används för att relatera till satsens subjekt (den som utför handlingen)."
         ekspliko-2: "'Sia' (sin) kan inte var del av subjektet självt. I sådana fall skall man använda 'lia', 'ŝia', 'ĝia' eller 'ilia'. I nedanstående exempel relaterar ordet 'filo' till 'li' :"
         frazo-1: "Johan tvättade sig (d.v.s sin egen kropp)"

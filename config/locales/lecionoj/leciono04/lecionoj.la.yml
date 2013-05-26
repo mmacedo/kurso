@@ -1,24 +1,24 @@
---- 
-la: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+la:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Lai izteiktu datumus, sekojiet piemēram. Vārdi \"tago\" un \"en la jaro\" netiek lietoti:"
         titolo: Datumi
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Maize ir sausa."
           titolo: "Apgalvojums:"
-        demando: 
+        demando:
           frazo-1: "Vai maize ir sausa?"
           titolo: "Jautājums:"
         ekspliko: "Jebkurš jautājums tiek veidots uz apgalvojuma vai nolieguma, kuram pirms frāzes tiek pievienots vārds \"Ĉu\". Pievērsiet uzmanību, ka vārdu kārtība esperanto valodā netiek mainīta, tikai pirms frāzes pievieno vārdu \"Ĉu\". Tas ir derīgs visiem jautājumiem, kuriem atbildes būs \"jes - jā\" vai \"ne - nē\""
-        respondo: 
+        respondo:
           frazo-negativa: "Nē, maize nav sausa."
           frazo-pozitiva: "Jā, maize ir sausa."
           titolo: "Atbilde:"
         titolo: "Jautājamās frāzes"
-      monatoj: 
+      monatoj:
         aprilo: aprīlis
         aŭgusto: augusts
         decembro: decembris
@@ -32,7 +32,7 @@ la:
         oktobro: oktobris
         septembro: septembris
         titolo: "Gada mēneši"
-      salutoj: 
+      salutoj:
         saluto-1: Sveiks!
         saluto-10: "Labu apetīti!"
         saluto-11: "Paldies, jums tāpat!"
@@ -48,12 +48,12 @@ la:
         saluto-8: "Pietiekami labi."
         saluto-9: "Ne ļoti labi."
         titolo: Sasveicināšanās
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: vakar
           hodiaŭ: šodien
           morgaŭ: rīt
-        semajno: 
+        semajno:
           dimanĉo: svētdiena
           lundo: pirmdiena
           mardo: otrdiena
@@ -62,9 +62,9 @@ la:
           vendredo: piektdiena
           ĵaŭdo: ceturtdiena
         titolo: "Nedēļas dienas"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Izlasiet apakšā doto tekstu, kuru ir izrakstījis esperanto skolnieks un pamēģiniet to saprast izmantojot vārdnīcu."
-        vortaro: 
+        vortaro:
           alia: cits
           antaŭ: "pirms, priekšā"
           facila: viegls
@@ -72,7 +72,7 @@ la:
           komenci: sākt
           lerni: mācīties
           tre: ļoti
-      vortaro04: 
+      vortaro04:
         infano: bērns
         kaj: un
         kolekti: "kolekcionēt, savākt"

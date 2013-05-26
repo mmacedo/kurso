@@ -1,11 +1,11 @@
---- 
-hu: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+hu:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Gyakorlatok - Számnevek"
         numeraloj-ekzercoj-instrukcioj: "Írd be a megfelelõ számot a rendelkezésre álló ablakba, majd kattints a gombra! Legalább 70%-ot kell teljesítened."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Õ(férfi) szereti õt(nõt)."
         frazo02: "2. Õ(férfi) szereti az õ(nõ) nõvérét."
         frazo03: "3. Õ(nõ) szereti õt(férfit)."

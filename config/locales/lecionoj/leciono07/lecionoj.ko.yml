@@ -1,11 +1,11 @@
---- 
-ko: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+ko:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "전치사는 두 낱말 사이의 관계를 보여준다."
         titolo: "전치사 1"
-        vortoj: 
+        vortoj:
           al: "(...)에게,으로, 앞으로"
           da: "수량을 나타내는 전치사"
           de: "(...)의,으로부터"
@@ -18,9 +18,9 @@ ko:
           sur: (...)위에
           ĉe: "ĉe(...)  곁에, 에"
           ĝis: ĝis(...)까지
-      prepozicioj02: 
+      prepozicioj02:
         titolo: 전치사2
-        vortoj: 
+        vortoj:
           anstataŭ: anstataŭ(...)대신에
           antaŭ: "antaŭ(...)전에, 앞에,이전에"
           apud: (...)옆에
@@ -39,13 +39,13 @@ ko:
           tra: "(...)을 통하여"
           trans: "(...)을 지나"
           ĉirkaŭ: ĉirkaŭ(...)주위에
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "제2과에서 어미<-N>이 직접목적의 목적어임을 알게 되었다. 이를<목적격어미>라고 합니다. 예:"
         ekspliko-2: "문장에 두 개의 목적어를 가질 때, 둘 중에 하나는 간접목적어가 되어야 되어야 합니다. 예:"
         ekspliko-3: "이 위의 전치사 사용은 필요하고, 간접목적어는 목적격어미를 가지지 않습니다. 여기에 다른 예문을보세요:"
         ekspliko-4: |-
             그렇게 된다: 즉 전치사 뒤에는 목적격을 두지 않고 주격을 씁니다.
-            단, 목적격어미가 전치사를 대신해 쓰일 수 있습니다. 
+            단, 목적격어미가 전치사를 대신해 쓰일 수 있습니다.
             전치사를 대신하여 목적격어미<N>을 쓰는 경우도 있다. 그 점을 다음 페이지에서보게 된다.
         ekspliko-5: "목적격어미를 전치사를 대신하여 사용할 수 있다, 단 그 때에는그 명확성이 분명히 드러나야 합니다. 아래의 에문들은 똑같은 의미를 가집니다"
         ekspliko-6: "전치사가 다른 전치사를 동반하는 수도 있습니다. 예문:"
@@ -62,8 +62,8 @@ ko:
         frazo-5: "그는 한 잔의 커피를( 커피 한 잔을) 마셨다."
         frazo-6: "내 앞에서 antaŭ사라져(꺼져!)!"
         titolo: 전치사3
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: 도착하다
           aŭtobuseto: aŭtobuso소형버스
           danki: "감사하다, 고마움을 표시하다"
@@ -78,8 +78,8 @@ ko:
           sidi: 앉다
           tagmanĝo: tagmanĝo점심
           viziti: 방문하다
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: 극지방
           Kanado: 캐나다
           admiri: 존경하다

@@ -1,19 +1,19 @@
---- 
-en: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+en:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: beautiful
         ekspliko: "Every adjective ends with the letter \"a\":"
         sana: healthy
         titolo: Adjectives
         varma: "warm, hot"
-      alfabeto: 
+      alfabeto:
         ekspliko: "In Esperanto words are written exactly the way they are pronounced, and they are pronounced exactly as they are written. The stressed syllable is always the one before the last.  Click the buttons to hear the pronunciation, and repeat it aloud."
         titolo: "The Esperanto Alphabet"
-      artikolo: 
+      artikolo:
         ekspliko: "The indefinite article doesn't exist in Esperanto.  There is only the definite article \"la\", equivalent to English \"the\"."
-        frazoj: 
+        frazoj:
           frazo-1: "Your sons are our friends."
           frazo-2: "The bread is dry."
           frazo-3: "Warm milk is good."
@@ -22,7 +22,7 @@ en:
           frazo-6: "The father is good."
           titolo: Sentences
         titolo: Article
-        vortoj: 
+        vortoj:
           floroj: flowers
           knabo: "a boy"
           la-floroj: "the flowers"
@@ -31,33 +31,33 @@ en:
           la-patroj: "the fathers"
           pano: bread
           patroj: fathers
-      nomoj: 
+      nomoj:
         amiko: friend
         ekspliko: "Every noun ends with the letter \"o\":"
         frato: brother
         kafo: coffee
         titolo: Nouns
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: they
           ni: we
           titolo: Plural
           vi: "you  (plural)"
-        singularo: 
+        singularo:
           li: he
           mi: I
           titolo: Singular
           vi: "you  (singular)"
           ĝi: it
           ŝi: she
-        specialaj: 
+        specialaj:
           oni: "One, they, people (Indefinite personal pronoun, meaning \"people, some people, somebody unknown\", used when you don't want to or cannot say who was involved."
           si: "(self)  Third person reflexive pronoun (both singular and plural). Refers back to the SUBJECT of the sentence. \"Si\" cannot be the subject or a part of the subject."
           titolo: Special
         titolo: "Personal Pronouns"
-      pluralo: 
+      pluralo:
         ekspliko: "The plural is formed by adding the letter \"j\" to the end of nouns and adjectives:"
-        pluralo: 
+        pluralo:
           amikoj: friends
           belaj: beautiful
           belaj-floroj: "beautiful flowers"
@@ -66,7 +66,7 @@ en:
           patroj: fathers
           sanaj: healthy
           sanaj-patroj: "healthy fathers"
-        singularo: 
+        singularo:
           amiko: friend
           bela: beautiful
           bela-floro: "beautiful flower"
@@ -76,9 +76,9 @@ en:
           sana: healthy
           sana-patro: "healthy father"
         titolo: Plural
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Possessive adjectives and pronouns are formed by adding the adjective ending \"a\" to the personal pronouns:"
-        posedaj: 
+        posedaj:
           ilia: "their, theirs"
           lia: his
           mia: "my, mine"
@@ -86,27 +86,27 @@ en:
           via: "your, yours"
           ĝia: its
           ŝia: "her, hers"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Possessive adjectives also receive the ending \"j\" when they modify a plural noun."
           mia-amiko: "my friend"
           miaj-amikoj: "my friends"
           nia-floro: "our flower"
           niaj-floroj: "our flowers"
         titolo: "Possessive Pronouns"
-      verboj: 
+      verboj:
         ekspliko: "Every infinitive ends in -i: esti (to be).  Every past tense verb ends in -is: mi estis = I was.  Every present tense verb ends in -as: mi estas = I am.  Every future tense verb ends in -os: mi estos = I will be.  Other verb tenses will be introduced in later lessons."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "They are"
           ni-estas: "We are"
           oni-estos: "They, someone will be (indefinite)"
           vi-estis: "You were"
-        singularo: 
+        singularo:
           li-estis: "He was"
           mi-estas: "I am"
           ĝi-estos: "It will be"
           ŝi-estas: "She is"
         titolo: Verbs
-      vortaro01: 
+      vortaro01:
         amiko: friend
         bela: beautiful
         biskvito: "biscuit, cracker"

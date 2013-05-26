@@ -1,48 +1,48 @@
---- 
-li: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+li:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Kelintiniai skaitvardžiai sudaromi prie skaitvardžio pridedant galūnę \"-a\".  Kaip ir būdvardžiai, daugiskaitoje jie turi galūnę \"-j\", o galininko linksnyje - \"-n\"."
-        frazoj: 
+        frazoj:
           frazo-1: "Pirmieji berniukai ateina."
           frazo-2: "Jis pagavo trečią vabzdį."
         titolo: "Kelintiniai skaitvardžiai"
-        vortoj: 
+        vortoj:
           dek: dešimt
           dek-naŭ: devyniolika
           dek-naŭa: devynioliktas
           deka: dešimtas
           tri: trys
           tria: "trečias\n"
-      adverboj: 
+      adverboj:
         ekspliko-1: "Prieveiksmiai, skirtingai nuo būdvardžių, susiję ne su daiktavardžiu, o su veiksmažodžiu ir būdvardžiu. Daugiskaitoje prieveiksmiai neturi galūnės \"-j\". Jie išreiškia būdą, priežastį, laiką ar vietą."
         ekspliko-2: "Esperanto kalboje išvestiniai prieveiksmiai paprastai baigiasi \"-e\". Pagrindinė žodžio šaknies reikšmė gali keistis priklausomai nuo galūnės."
-        frazoj: 
+        frazoj:
           frazo-sana: "Jis yra sveikas."
           frazo-sane: "Jis sveikai gyvena."
           frazo-sani: "Jis yra sveikas."
           frazo-sano: "Jis turi gerą sveikatą."
         rimarkigo: "Prieveiksmiai paprastai rašomi prieš žodį, su kuriuo jis susijęs."
         titolo: Prieveiksmiai
-        vortoj: 
+        vortoj:
           sana: sveikas
           sane: sveikai
           sani: "būti sveikam"
           sano: sveikata
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Prie skaitvardžių pridedant galūnę \"-e\", gaunami prieveiksmiai:"
-        frazoj: 
+        frazoj:
           frazo-1: "Pirmiausia jis gers vandenį."
         titolo: "Prieveiksmiai, padaryti iš skaitvardžių"
-        vortoj: 
+        vortoj:
           du: du
           due: añtra
           unu: vienas
           unue: "pirma (pirmiausia, visų pirma)"
-      numeraloj: 
+      numeraloj:
         titolo: Skaitvardžiai
-      vortaro03: 
+      vortaro03:
         atendi: laukti
         demandi: klausti
         fumi: rūkyti

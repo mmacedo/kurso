@@ -1,8 +1,8 @@
---- 
-ca: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+ca:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "A més de la forma apresa a la lliçó 2, hi ha altres maneres de fer preguntes en esperanto:"
         frazo-1: "La caixa és blava?"
         frazo-2: "Anireu al cinema?"
@@ -11,7 +11,7 @@ ca:
         frazo-5: "La caixa no és blava, oi?"
         frazo-6: "No anireu al cinema, o sí?"
         titolo: "Altres formes interrogatives"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Hi ha expressions en esperanto que utilitzen locucions que convé saber:"
         jen: "Indica alternància"
         jen-frazo-1: "El noi tan aviat plora com riu."
@@ -29,11 +29,11 @@ ca:
         ĉu: "Mostra possibilitats entre les quals l'elecció és indiferent, igual, lliure o incerta."
         ĉu-frazo-1: "Bé per por, bé per orgull, no va contestar res."
         ĉu-frazo-2: "Tant si plou com si fa sol, me n'aniré."
-      horoj: 
+      horoj:
         je-kioma: "A quina hora telefonaràs?"
         kioma-estas: "Quina hora és?"
         titolo: Hores
-      interjekcioj: 
+      interjekcioj:
         bis: "bis!, una altra vegada!"
         fi: uix!
         ha-1: ah!
@@ -45,7 +45,7 @@ ca:
         titolo: Interjeccions
         ve: ai!
         ve-al-mi: "pobre de mi!"
-      mallongiloj: 
+      mallongiloj:
         bv: "si us plau"
         e-isto: esperantista
         e-o: esperanto
@@ -57,7 +57,7 @@ ca:
         str: carrer
         te: "això és, és a dir"
         titolo: Abreviacions
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "partícula que emfàticament mostra indefinició o indiferència"
         almenaŭ: almenys
         ambaŭ: "Tots dos"

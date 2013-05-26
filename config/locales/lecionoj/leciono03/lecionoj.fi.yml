@@ -1,48 +1,48 @@
---- 
-fi: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+fi:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Järjestysluvut muodostetaan päätteellä \"a\". Koska päätteenä on \"a\", ne voivat esiintyä myös monikossa päätteellä (-j) ja akkusatiivissa päätteellä (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "Ensimmäiset pojat tulevat."
           frazo-2: "Hän pyydysti kolmannen hyönteisen."
         titolo: "Numeraaleista adjektiiveja"
-        vortoj: 
+        vortoj:
           dek: kymmenen
           dek-naŭ: yhdeksäntista
           dek-naŭa: yhdeksästoista
           deka: kymmenes
           tri: kolme
           tria: Kolmas
-      adverboj: 
+      adverboj:
         ekspliko-1: "Adverbit käyttäytyvät adjektiivien tavoin, mutta määrittelemättä substantiivin ilmaisuja. Ne määrittelevät verbin ja adjektiivin ilmaisuja, mutta eivät saa \"j\" päätettä. Yleensä ne ilmaisevat tapaa, syytä, aikaa tai paikkaa."
         ekspliko-2: "Adverbien pääte on yleensä \"e\" (näin on aina siloin, kun ne ovat toisen sanan johdannaisia). Sanan merkitystä voidaan muuttaa yksinkertaisesti, päätettä muuttamalla."
-        frazoj: 
+        frazoj:
           frazo-sana: "Hän on terve."
           frazo-sane: "Hän elää terveesti."
           frazo-sani: "Hän on terve."
           frazo-sano: "Hänellä on hyvä terveys."
         rimarkigo: "Yleensä adverbi tulee ennen sanaa, johon se liittyy."
         titolo: Adverbit
-        vortoj: 
+        vortoj:
           sana: terve
           sane: terveesti
           sani: "tervehtyä, parantua"
           sano: terveys
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Päätteellä \"e\" lukusanoista muodostetaan adverbejä."
-        frazoj: 
+        frazoj:
           frazo-1: "Ensiksi hän juo vettä."
         titolo: "Numeraaliset adverbit"
-        vortoj: 
+        vortoj:
           du: kaksi
           due: toiseksi
           unu: yksi
           unue: ensiksi
-      numeraloj: 
+      numeraloj:
         titolo: Numeraalit
-      vortaro03: 
+      vortaro03:
         atendi: odottaa
         demandi: kysyä
         fumi: polttaa

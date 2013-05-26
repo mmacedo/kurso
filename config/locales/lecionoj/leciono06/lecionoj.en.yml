@@ -1,101 +1,101 @@
---- 
-en: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+en:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Let us now introduce the remaining correlatives.  Remember that the correlative system is closed, meaning it's not possible to use their beginnings or endings with any other words."
         titolo: Correlatives
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "indicates sort or type (it can take the \"j\" and \"n\" endings)"
-        i: 
+        i:
           frazo: "Do you have any kind of doubt concerning the grammar of Esperanto?"
           vorto: "some kind of, any kind of"
-        ki: 
+        ki:
           frazo: "How was your day?  —  My day was very good, thank you!"
           vorto: "What kind of?, What sort of?"
-        neni: 
+        neni:
           frazo: "No, I have no kind of doubt about it."
           vorto: "no kind of"
-        ti: 
+        ti:
           frazo: "I will not eat that kind of bread."
           vorto: "that kind of, that sort of, such a"
-        ĉi: 
+        ĉi:
           frazo: "Every sort of help is welcome."
           vorto: "all kinds, every kind"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "cause, reason"
-        i: 
+        i:
           frazo: "For some reason, I still don't know you."
           vorto: "for some reason"
-        ki: 
+        ki:
           frazo: "Why does the child run?  —  Because it is very happy."
           vorto: "Why?, For what reason?"
-        neni: 
+        neni:
           frazo: "You could incite him however much (you might want to).  He would have no reason to be angry."
           vorto: "for no reason"
-        ti: 
+        ti:
           frazo: "She is very beautiful.  For that reason I love her."
           vorto: "for that reason, so"
-        ĉi: 
+        ĉi:
           frazo: "You ask why I love you.  I respond: for every reason!"
           vorto: "for every reason"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: manner
-        i: 
+        i:
           ekspliko: "indicates something indefinite.  (often translated as \"any\" or \"some\")"
           frazo: "She somehow reminds me of another person."
           vorto: "somehow, anyhow, in some way"
-        ki: 
+        ki:
           ekspliko: "indicates a question or introduces a relative clause."
           frazo: "How do you do? (literally: How are you faring?)  —  I am very well, thank you!"
           vorto: "How?, In what manner?; as, like"
-        neni: 
+        neni:
           ekspliko: "indicates negativeness or non-existence."
           frazo: "In no way can I understand, what you say (literally speak)."
           vorto: "in no way"
-        ti: 
+        ti:
           ekspliko: "is used to indicate or point.  (Often translated as \"that\" or \"those\")"
           frazo: "She writes as well as the teacher."
           vorto: "like that, in that way (the combination tiel . . . kiel means as . . . as)"
-        ĉi: 
+        ĉi:
           ekspliko: "indicates all members of a group."
           frazo: "They helped me in every way."
           vorto: "in every way"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "shows possession"
-        i: 
+        i:
           frazo: "I found someone's book."
           vorto: "someone's, anyone's"
-        ki: 
+        ki:
           frazo: "Whose book is that?  —  That is John's book."
           vorto: "Whose?, Which one's?; whose"
-        neni: 
+        neni:
           frazo: "Esperanto is nobody's property"
           vorto: "nobody's, no one's"
-        ti: 
+        ti:
           frazo: "The cat ran on the house and ruined its (that one's — i.e. the house's) roof."
           vorto: "that one's"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto is everybody's language"
           vorto: "everybody's, everyone's"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "indicates quantity."
-        i: 
+        i:
           frazo: "I must buy some coffee."
           vorto: "some quantity, some"
-        ki: 
+        ki:
           frazo: "How much is two and two?  —  Four!"
           vorto: "How much?, How many?, What quantity?"
-        neni: 
+        neni:
           frazo: "How many children are playing in the house? — None."
           vorto: "none, no quantity"
-        ti: 
+        ti:
           frazo: "He ate as much as he wanted."
           vorto: "that quantity, as many, as much (tiom . . . kiom means as . . . as  relative to quantity)"
-        ĉi: 
+        ĉi:
           frazo: "How much gasoline do you want? - I want all that you have."
           vorto: "all of it, the whole quantity"
-      relativoj: 
+      relativoj:
         ekspliko-1: "The \"Ki-\" correlatives can also introduce sentences that are not questions.  In this role they are called \"relatives\" because they show the relationship between a main sentence and a secondary sentence called a subordinate clause or relative clause."
         ekspliko-2: "In the sentence above \"kiun\" refers to \"tiu frukto\"."
         frazo-1: "I want that fruit, which you showed."

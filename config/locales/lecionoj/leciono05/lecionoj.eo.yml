@@ -1,95 +1,95 @@
---- 
-eo: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+eo:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Jen tre utilaj vortetoj, kiuj estas parto de regula kaj fermita sistemo. Tiujn ĉi vortetojn oni nomas korelativoj. La signifo de ĉiu korelativo estas la kombina rezulto de ĝia radiko (prefikso) kaj ĝia finaĵo (sufikso)."
         titolo: Korelativoj
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Tempo
-        i: 
+        i:
           frazo: "Ĉu vi iam vizitis Brazilon?"
           vorto: Iam
-        ki: 
+        ki:
           frazo: "Kiam vi aĉetos la libron? -- Morgaŭ matene."
           vorto: Kiam
-        neni: 
+        neni:
           frazo: "Ne, mi neniam vizitis tiun landon."
           vorto: Neniam
-        ti: 
+        ti:
           frazo: "Mi lernis Esperanton tiam, kiam mi estis en la lernejo."
           vorto: Tiam
-        ĉi: 
+        ĉi:
           frazo: "Tamen mi ĉiam deziris viziti ĝin."
           vorto: Ĉiam
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Tiu ĉi vorteto indikas proksimecon, kaj povas esti antaŭ aŭ post la korelativo, al kiu ĝi rilatas."
         frazo-1: "Kio estas ĉi tio?"
         frazo-2: "Ĉi tio estas besto."
         frazo-3: "Ĉi tiu estas mia domo."
         rimarkigo: "La korelativoj finiĝantaj per \"o\" (\"kio\", \"tio\" ktp) povas ricevi la akuzativan finaĵon (\"kion\", \"tion\"), sed  ne ricevas la pluralon (-j)."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Montras lokon."
-        i: 
+        i:
           ekspliko: "Montras nedifinecon."
           frazo: "Mia krajono estas ie en la ĝardeno."
           vorto: Ie
-        ki: 
+        ki:
           ekspliko: "Montras demandon; montras rilaton al la antaŭa propozicio."
           frazo: "Kie vi loĝas? -- Mi loĝas en Kanado."
           vorto: Kie
-        neni: 
+        neni:
           ekspliko: "Prezentas nean sencon."
           frazo: "Nenie mi trovis mian libron."
           vorto: Nenie
-        ti: 
+        ti:
           ekspliko: "Uzata por indiki, montri."
           frazo: "Mi loĝas tie, kie estas la aŭto."
           vorto: Tie
-        ĉi: 
+        ĉi:
           ekspliko: "Montras kolekton, aron."
           frazo: "Malsaĝulo ĉie sian nomon skribas."
           vorto: Ĉie
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Afero, objekto, aĵo."
-        i: 
+        i:
           frazo: "Io okazis!"
           vorto: Io
-        ki: 
+        ki:
           frazo: "Kio estas geografio? -- Geografio estas scienco."
           vorto: Kio
-        neni: 
+        neni:
           frazo: "Pli bona io, ol nenio."
           vorto: Nenio
-        ti: 
+        ti:
           frazo: "Kio estas tio? -- Tio estas muzikilo."
           vorto: Tio
-        ĉi: 
+        ĉi:
           frazo: "Mi forgesis ĉion."
           vorto: Ĉio
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Montras individuon. Kiam temas pri pli ol unu, ĝi devas ricevi la finaĵon \"j\"."
-        i: 
+        i:
           ekspliko: "Montras nedifinecon."
           frazo: "Venis iuj personoj, kiujn mi ne konas."
           vorto: Iu
-        ki: 
+        ki:
           ekspliko: "Montras demandon; montras rilaton al la antaŭa propozicio."
           frazo: "Kiu estis via unua instruisto? -- Sinjoro Karlo."
           vorto: Kiu
-        neni: 
+        neni:
           ekspliko: "Prezentas nean sencon."
           frazo: "Kiu venis hieraŭ? -- Neniu venis hieraŭ."
           vorto: Neniu
-        ti: 
+        ti:
           ekspliko: "Uzata por indiki, montri."
           frazo: "Tiu libro estas tre bona."
           vorto: Tiu
-        ĉi: 
+        ĉi:
           ekspliko: "Montras kolekton, aron."
           frazo: "Ĉiu homo amas sin mem."
           vorto: Ĉiu
-      vortaro05: 
+      vortaro05:
         al: al
         anonco: anonco
         aĉeti: aĉeti

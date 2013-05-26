@@ -1,11 +1,11 @@
---- 
-cs: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+cs:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Vyslechněte si šanson v esperantu \"Bluaj Fragoj\" (Modré jahody), v podání Merlina, brazilského souboru lidové hudby, který již nahrál v mezinárodním jazyce dvě alba a předvádí své umění po celém světě. Členy skupiny jsou Markone Froes (hlas a kytara), Guilherme Lima (bicí), Aldrin Gandra (elektrická kytara), Sérgio Ribeiro (baskytara) a Sérgio Vieira (klávesy)."
         titolo: "Esperantská hudba"
-        vortaro: 
+        vortaro:
           aliri: "Přijít, přistoupit"
           alveni-al: "Přijít k"
           animo: Duše
@@ -19,55 +19,55 @@ cs:
           vero: Pravda
           ĉielarko: Duha
           ĉielo: Nebe
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "Ve druhé lekci jsme viděli, že se akuzativ používá pro přímý předmět sloves. Existují ovšem slovesa, která předmět nepotřebují. Například:"
         frazo-1: "Stalo se něco důležitého."
         frazo-2: "Dnes mám velkou radost (velmi se raduji)."
         frazo-3: "Oni už spí ve svých postelích."
         frazo-4: "Mládež hodně tančila."
-        ig: 
+        ig:
           ekspliko: "Slovesa s koncovkou IG jsou vždy transitivní (potřebují přímý předmět):"
           frazo-1: "Cesta vás jistě unavila."
           frazo-2: "Jižní slunce žhne na jeho nepokrytou hlavu."
           frazo-3: "Otec chce hned provdat starší dceru."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. U sloves s IĜ vytvořených z transitivních sloves se nejedná o změnu stavu, nýbrž o samovolný děj:"
             frazo-1: "Dav běžel pomaleji než vůz, který se valil velmi rychle."
             frazo-2: "Najednou se ocitl na ulici, zcela sám."
             frazo-3: "V kolik hodin začne vyučovací hodina?"
             frazo-4: "Davy chodců se pohybovaly po chodnících."
           ekspliko: "Slovesa s příponou IĜ jsou vždy netransitivní (nemají nikdy přímý předmět) a mohou znamenat:"
-          unu: 
+          unu:
             ekspliko: "1. Přechod k novému stavu. Kořen slova ukazuje výsledek, nový stav. U sloves s IĜ není důležitý původce děje:\n"
             frazo-1: "V zimě vody zamrzají."
             frazo-2: "Dnes se počasí opět oteplilo."
             frazo-3: "Provdala se za svého bratrance (stala se manželkou s bratrancem)."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Některá slovesa mohou mít nepřímý předmět (s předložkou):"
           ekspliko-2: "Některá mohou získat přímý předmět v určitých případech:"
           frazo-1: "Jeho otec zemřel na rakovinu."
           frazo-2: "Mám radost z vašeho štěstí!"
           frazo-3: "Spí hlubokým spánkem."
           frazo-4: "Tančila s ním valčík."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Pamatujte, že sloveso \"esti\" nevyžaduje přímý předmět a že po předložkách se akuzativ neklade."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Existují také slovesa bez podmětu:"
           frazo-1: "Včera hodně pršelo."
           frazo-2: "Rozednívá se a já musím jít domů."
           frazo-3: "Velice silně sněžilo a on nemohl vyjít z chaty."
         titolo: "Přechodnost sloves"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Jistě jste si již všimli, že esperanto má neobyčejné vyjadřovací schopnosti. Díky předponám, příponám a koncovkám může vytvořit mnoho slov, pro které národní jazyky často ani nemají ekvivalenty a musí je různě opisovat. Tím však bohatství esperanta nekončí. Skládáním slov lze rozšířit slovník o synonyma, zdůrazňovat a  odstiňovat výrazy. Nabízíme vám několik příkladů tvořivosti v esperantu."
         ekspliko-2: "Koncovkami, předponami a příponami:"
         ekspliko-3: "Skládáním slovních kořenů. Koncovku prvního kořene většinou vynecháváme, pokud to libozvučnost dovolí, dbáme také na jasnost a srozumitelnost složeniny:"
         ekspliko-4: "Tvorbou slov ze sousloví:"
         rimarkigo: |-
-            Ačkoliv je možné vytvořit nové slovo i několika předponami a příponami, doporučuje se postupovat s mírou. Například místo "belulineto" je lepší "eta belulino" apod. 
+            Ačkoliv je možné vytvořit nové slovo i několika předponami a příponami, doporučuje se postupovat s mírou. Například místo "belulineto" je lepší "eta belulino" apod.
             Pořadí předpon a přípon má přímý vliv na význam výsledného slova:
         titolo: "Tvorba slov v esperantu"
-        vortoj: 
+        vortoj:
           antaŭbrako: předloktí
           balenŝipo: "velrybářská loď"
           helruĝo: "světlá červeň"

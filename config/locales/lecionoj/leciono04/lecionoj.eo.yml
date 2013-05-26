@@ -1,24 +1,24 @@
---- 
-eo: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+eo:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Por diri la datojn, sekvu la modelon. La vortoj \"tago\" kaj \"en la jaro\" estas jam subkomprenataj, kaj ordinare oni ne bezonas mencii ilin."
         titolo: Datoj
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "La pano estas seka."
           titolo: "Aserto:"
-        demando: 
+        demando:
           frazo-1: "Ĉu la pano estas seka?"
           titolo: "Demando:"
         ekspliko: "Ĉiun demandon oni konstruas sur la aserto aŭ malaserto, nur metante antaŭ la frazo la vorteton \"Ĉu\". Atentu ke la vortordo en Esperanto ne ŝanĝiĝas, nur la vorteton \"ĉu\" oni metas antaŭ la frazo.  Tio validas por ĉiuj demandoj, kies respondoj estos \"jes\" aŭ \"ne\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Ne, la pano ne estas seka."
           frazo-pozitiva: "Jes, la pano estas seka."
           titolo: "Respondo:"
         titolo: "Demandaj frazoj"
-      monatoj: 
+      monatoj:
         aprilo: aprilo
         aŭgusto: aŭgusto
         decembro: decembro
@@ -32,7 +32,7 @@ eo:
         oktobro: oktobro
         septembro: septembro
         titolo: "Monatoj de la jaro"
-      salutoj: 
+      salutoj:
         saluto-1: Saluton!
         saluto-10: "Bonan apetiton!"
         saluto-11: "La samon al vi, dankon!"
@@ -48,12 +48,12 @@ eo:
         saluto-8: "Sufiĉe bone."
         saluto-9: "Ne tre bone."
         titolo: Salutoj
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: hieraŭ
           hodiaŭ: hodiaŭ
           morgaŭ: morgaŭ
-        semajno: 
+        semajno:
           dimanĉo: dimanĉo
           lundo: lundo
           mardo: mardo
@@ -62,9 +62,9 @@ eo:
           vendredo: vendredo
           ĵaŭdo: ĵaŭdo
         titolo: "Tagoj de la semajno"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Legu la suban tekston, skribitan de lernanto de Esperanto, kaj provu ĝin kompreni uzante la vortaron."
-        vortaro: 
+        vortaro:
           alia: alia
           antaŭ: antaŭ
           facila: facila
@@ -72,7 +72,7 @@ eo:
           komenci: komenci
           lerni: lerni
           tre: tre
-      vortaro04: 
+      vortaro04:
         infano: infano
         kaj: kaj
         kolekti: kolekti

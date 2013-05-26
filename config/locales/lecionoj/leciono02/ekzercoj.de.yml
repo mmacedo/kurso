@@ -1,13 +1,13 @@
---- 
-de: 
-  lecionoj: 
-    leciono02: 
-      pagxo10: 
+---
+de:
+  lecionoj:
+    leciono02:
+      pagxo10:
         ekzpliko: "Leerstellen bei der Übersetzung ergänzen. Dabei sind die notwendigen Angleichungen bei Kasus (Fall) und Numerus (Einzahl/Mehrzahl) vorzunehmen. Richtige Lösungen durch Anklicken oder Enter bestätigen. Trefferquote: Wenigstens 70 % erfordert."
-      pagxo11: 
+      pagxo11:
         frazo01: "1. Ein gesunder Junge trinkt warme Milch."
         frazo02: |-
-            2. Das alte Geschäft verkauft keine trockenen 
+            2. Das alte Geschäft verkauft keine trockenen
             Kuchen. [W.: .. verkauft nicht trockene K.]
         frazo03: "3. Der Lehrer traf die neuen Freunde."
         frazo04: "4. Die neuen Freunde werden einen guten Kuchen machen/backen."

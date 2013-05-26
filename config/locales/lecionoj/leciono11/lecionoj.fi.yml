@@ -1,8 +1,8 @@
---- 
-fi: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+fi:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Kappaleessa 2 opitun lisäksi, on myös muita kysymysmuotoja:"
         frazo-1: "Onko rasia (laatikko) sininen?"
         frazo-2: "Menetkö elokuvateatteriin?"
@@ -11,7 +11,7 @@ fi:
         frazo-5: "Rasia ei ole sininen, eihän?"
         frazo-6: "Sinä et mene elokuvateatteriin, ethän?"
         titolo: "Muita kysymysmuotoja"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Myös Esperantossa käytetään sanapareja. Tässä esimerkkejä:"
         jen: "Osoittaa vuorottelua"
         jen-frazo-1: "Poika milloin itki, milloin nauroi."
@@ -29,11 +29,11 @@ fi:
         ĉu: "Mitä ... sitä ..."
         ĉu-frazo-1: "Joko pelosta, tahi ylpeydestä, hän ei vastannut mitään."
         ĉu-frazo-2: "Joko sataa, tai paistaa, minäpä menen."
-      horoj: 
+      horoj:
         je-kioma: "Mihin aikaan soitat (tulet soittamaan)?"
         kioma-estas: "Paljonko kello on (monesko tunti on)?"
         titolo: Tunnit
-      interjekcioj: 
+      interjekcioj:
         bis: uudestaan!
         fi: hyi!
         ha-1: "oh! haa!"
@@ -45,7 +45,7 @@ fi:
         titolo: Huudahdussanat
         ve: "voi! oi!"
         ve-al-mi: "voi minua!"
-      mallongiloj: 
+      mallongiloj:
         bv: "ole hyvä"
         e-isto: esperantisti
         e-o: Esperanto
@@ -57,7 +57,7 @@ fi:
         str: katu
         te: "se on"
         titolo: Lyhennykset
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "tahansa, hyvänsä"
         almenaŭ: ainakin
         ambaŭ: molemmat

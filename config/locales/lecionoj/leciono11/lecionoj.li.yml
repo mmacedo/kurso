@@ -1,8 +1,8 @@
---- 
-li: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+li:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Yra ir kitų būdų, kaip galima sudaryti klausimus:"
         frazo-1: "Ar dėžutė yra mėlyna?"
         frazo-2: "Ar eisi į kiną?"
@@ -11,7 +11,7 @@ li:
         frazo-5: "Ar dėžutė nėra mėlyna?"
         frazo-6: "Ar neisi į kiną?"
         titolo: "Kitos klausiamosios formos"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Esperanto kalboje yra posakių, kuriuose vartojami dvigubi jungtukai:"
         jen: "tai... tai..."
         jen-frazo-1: "Berniukas tai verkė, tai juokėsi."
@@ -29,11 +29,11 @@ li:
         ĉu: "ar... ar..."
         ĉu-frazo-1: "Ar iš baimės, ar iš išdidumo jis nieko neatsakė."
         ĉu-frazo-2: "Ar lis, ar saulė švies, aš gi eisiu."
-      horoj: 
+      horoj:
         je-kioma: "Kelintą valandą paskambinsi?"
         kioma-estas: "Kelinta valanda?"
         titolo: Valandos
-      interjekcioj: 
+      interjekcioj:
         bis: bis!
         fi: "fui! fe!"
         ha-1: "ak! oi!"
@@ -45,7 +45,7 @@ li:
         titolo: Jaustukai
         ve: "oi! vai!"
         ve-al-mi: "vargas man!"
-      mallongiloj: 
+      mallongiloj:
         bv: prašom
         e-isto: esperantininkas
         e-o: "esperanto kalba"
@@ -57,7 +57,7 @@ li:
         str: gatvė
         te: "t.y.; tai yra"
         titolo: Sutrumpinimai
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "paryškina neapibrėžtumą ar abejingumą"
         almenaŭ: "bent, bent jau"
         ambaŭ: "abu, abudu"

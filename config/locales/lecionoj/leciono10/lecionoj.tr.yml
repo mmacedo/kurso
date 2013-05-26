@@ -1,11 +1,11 @@
---- 
-tr: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+tr:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Biraz da fiiller hakkında: Gördük ki, bütün mastarların sonu \"i\" ile biter. Şimdiki zaman \"as\" , geçmiş zaman \"is\", gelecek zaman ise \"os\" ile biter. Daha başka gramer zamanlarıda vardır :"
         titolo: "Diğer fiil zamanları"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Emir çekiminde birinci tekil şahıs kullanılmaz (-u) genelde ikinci şahsa aittir ve zamir kullanılması şart değildir.Ancak birinci ve üçüncü şahsa ait olursa, uygun zamir kullanılabilir :"
         ekspliko-2: "Son ek (u) , şu amacı ifade eder. Emir, rica, ikaz, mecburiyet, izin, yasak vb. gösterir. \"Ümit ediyorum\", \"korkuyorum\", inanmıyorum\", \"tahmin ediyorum\" gibi kelimelerden sonra gelecek zaman (-os) son eki kullanılmalı."
         frazo-1: "Kapıyı kapatın ve oturun."
@@ -17,8 +17,8 @@ tr:
         frazo-7: "Ona (erkek) gelmesini tavsiye ediyorum."
         frazo-8: "Mümkündür, o (erkek) gelecek."
         titolo: "Emir kipi ( -U )"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Anlamam gerek"
           devas-veni: "Gelmem gerekli"
           devi: gerekli
@@ -28,29 +28,29 @@ tr:
           volas-kompreni: "Anlamak istiyorum"
           volas-veni: "Gelmek istiyorum"
           voli: istemek
-        scio: 
+        scio:
           frazo-koni-1: Tanıyorum...
           frazo-koni-2: "Johan'ı tanıyor musun?"
           frazo-scii-1: Biliyorum...
           frazo-scii-2: "Esperanto biliyor musun?"
         titolo: "Çok önemli birkaç fiil"
-        ŝato: 
+        ŝato:
           frazo-ami: "Ben birini ( bir kimseyi) seviyorum."
           frazo-plaĉi-1: "Bir şey veya bir kimse hoşuma gidiyor."
           frazo-plaĉi-2: "Kitaplar hoşuma gidiyor."
           frazo-ŝati: "Ben birşeyi beğeniyorum."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Zengin olsaydım, çok seyahat ederdim."
         frazo-2: "İyi olsaydı, ekmeği yemiş olurduk."
         titolo: "Şart kipi ( -US )"
-      nerekta: 
+      nerekta:
         ekspliko: "Kurallı sözde kullanılan, aynı zaman ve çekim, kuralsız sözde de kullanılsın. Örn. :"
         frazo-1: "O (erkek) dedi ki, \" Ben NewYork'tan geliyorum\"."
         frazo-2: "O (erkek) dedi ki , o NewYork'tan geliyor."
         frazo-3: "(o (dişil) dedi, \" Ben Paris'e gideceğim\"."
         frazo-4: "O (dişil) Paris'e yolculuk edeceğini söyledi."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: Okuyacağım.
           frazo-presenco: Okuyorum.
           frazo-preterito: Okumuştum.
@@ -74,7 +74,7 @@ tr:
         frazo-7: "Kapatılmış kapı"
         frazo-8: "Doğmakta olan güneş"
         frazo-9: "Uzun yaşamış olanlar"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Kitabı okuyorum = Kitap benim tarafımdan okunuyor."
           frazo-futuro: "Kitap okunacak."
           frazo-presenco: "Kitap okunuyor"
@@ -84,7 +84,7 @@ tr:
           preterito: "Geçmiş zaman : -it"
           titolo: "Pasif sıfat ortaçları"
         titolo: Ortaçlar
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si \" dönüşlü zamir. Tekil ve çoğul üçüncü şahısa aittir, ve cümledeki özne için kullanılır."
         ekspliko-2: "\"Sia\" öznenin bir parçası olamaz. Bu durumlarda \"ŝia\",\"ĝia\" ve \"ilia\" zamirlerini kullanın. Aşağıdaki örneklerde \"filo\" , \"li\" 'yi kastetmektedir."
         frazo-1: "Johano kendini yıkıyor."

@@ -1,8 +1,8 @@
---- 
-cs: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+cs:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Kromě způsobu vysvětleného v lekci 2, existují i další možnosti v esperantu, jak tvořit otázky:"
         frazo-1: "Je ta krabice modrá?"
         frazo-2: "Půjdete do kina?"
@@ -11,7 +11,7 @@ cs:
         frazo-5: "Ta krabice není modrá, že?"
         frazo-6: "Vy nepůjdete do kina, že?"
         titolo: "Jiné tázací formy"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "V esperantu některé výrazy tvoří dvojici. Jejich význam byste měli znát:"
         jen: "Ukazuje střídání"
         jen-frazo-1: "Chlapec tu plakal, tu se smál."
@@ -29,11 +29,11 @@ cs:
         ĉu: "Ukazuje možnosti stejné, lhostejné, volné nebo nejisté."
         ĉu-frazo-1: "Ať už ze strachu, ať už z pýchy, nic neodpověděl."
         ĉu-frazo-2: "Ať bude pršet, ať bude svítit slunce, stejně půjdu."
-      horoj: 
+      horoj:
         je-kioma: "V kolik hodin budete telefonovat?"
         kioma-estas: "Kolik je hodin? (Kolikátá je hodina?)"
         titolo: Hodiny
-      interjekcioj: 
+      interjekcioj:
         bis: "výborně! opakovat!"
         fi: fuj!
         ha-1: ha!
@@ -45,7 +45,7 @@ cs:
         titolo: Citoslovce?
         ve: běda!
         ve-al-mi: "běda mi!"
-      mallongiloj: 
+      mallongiloj:
         bv: "račte, prosím"
         e-isto: esperantista
         e-o: esperanto
@@ -57,7 +57,7 @@ cs:
         str: ulice
         te: "tj., to jest"
         titolo: Zkratky
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "ajn (zdůrazňuje neurčitost a lhostejnost)"
         almenaŭ: "aspoň, alespoň"
         ambaŭ: oba

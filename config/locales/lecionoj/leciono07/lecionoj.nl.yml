@@ -1,11 +1,11 @@
---- 
-nl: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+nl:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Voorzetsels zijn woordjes die een relatie aangeven tussen twee woorden."
         titolo: "Voorzetsels I"
-        vortoj: 
+        vortoj:
           al: "naar, aan (tegen)"
           da: "voorzetsel van hoeveelheid"
           de: van
@@ -18,9 +18,9 @@ nl:
           sur: op
           ĉe: bij
           ĝis: tot
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Voorzetsels II"
-        vortoj: 
+        vortoj:
           anstataŭ: "in plaats van"
           antaŭ: "voor (plaats of tijd)"
           apud: naast
@@ -39,7 +39,7 @@ nl:
           tra: door(heen)
           trans: "aan de overkant van, over"
           ĉirkaŭ: rondom
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "We zagen in de tweede les, dat de -n het lijdend voorwerp aangeeft. Die -n vormt de zogenaamde \"accusatief\" of \"vierde naamval\". Bijvoorbeeld:"
         ekspliko-2: "Naast het lijdend voorwerp kan een zin ook andere bepalingen hebben, vaak met een voorzetsel. Bijvoorbeeld:"
         ekspliko-3: "Het gebruik van een voorzetsel is hier nodig en de bepaling met een voorzetsel krijgt geen naamvals -n.  Hier andere voorbeelden:"
@@ -56,8 +56,8 @@ nl:
         frazo-5: "Hij dronk een kopje (l.v.) koffie (bep. met voorzetsel \"da\")"
         frazo-6: "Ga weg van voor mij!"
         titolo: "Voorzetsels III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: aankomen
           aŭtobuseto: autobusje
           danki: danken
@@ -72,8 +72,8 @@ nl:
           sidi: zitten
           tagmanĝo: middagmaal
           viziti: bezoeken
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Noordpool
           Kanado: Canada
           admiri: bewonderen

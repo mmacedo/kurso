@@ -1,11 +1,11 @@
---- 
-ch: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+ch:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: 我们已经知道动词现在时以“as”结尾，过去时以“is”结尾，将来时以“os”结尾。此外，还有一些其它时态。
         titolo: 其他动词时态
-      imperativo: 
+      imperativo:
         ekspliko-1: 命令式通常是与第二个人相关，因而不必使用代词。但是如果与第一人或者第三人相关时，就应使用相应的代词。
         ekspliko-2: "以-U结尾的动词通常表示命令、请求、忠告、祝愿、必须、允许、禁止等。在表示“希望”、“担心”、“不相信”、 “猜测”等意思时，用将来时词尾（-os）。"
         frazo-1: 把门关上，坐吧！
@@ -17,8 +17,8 @@ ch:
         frazo-7: 我建议他来。
         frazo-8: 可能他会来。
         titolo: 命令式-U
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: 我应该理解。
           devas-veni: 我必须来。
           devi: 应该，必须
@@ -28,29 +28,29 @@ ch:
           volas-kompreni: 我想理解。
           volas-veni: 我想来。
           voli: 想要，愿，欲
-        scio: 
+        scio:
           frazo-koni-1: 我认识……
           frazo-koni-2: 你认识约翰吗？
           frazo-scii-1: 我知道……
           frazo-scii-2: 你知道世界语吗？
         titolo: 几个常用动词
-        ŝato: 
+        ŝato:
           frazo-ami: 我爱某人。
           frazo-plaĉi-1: 某物或某人让我喜欢。
           frazo-plaĉi-2: 书籍让我喜欢。
           frazo-ŝati: 我喜欢某物（或某事）。
-      kondicionalo: 
+      kondicionalo:
         frazo-1: 如果我富有的话，我会多旅游。
         frazo-2: 如果面包好的话，我们就吃面包。
         titolo: 条件式-US
-      nerekta: 
+      nerekta:
         ekspliko: 在间接引语中通常使用与直接引语相同的时态或动词式，如：
         frazo-1: 他说：“我来自纽约。”
         frazo-2: 他说，他来自纽约。
         frazo-3: 她说：“我将去巴黎。”
         frazo-4: 她说，她将去巴黎。
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: 我现在准备读。
           frazo-presenco: 我现在正在读。
           frazo-preterito: 我现在读完了。
@@ -74,7 +74,7 @@ ch:
         frazo-7: 被关闭的门
         frazo-8: 正在升起的太阳
         frazo-9: 幸存者
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "我在读书 = 书正在被我读"
           frazo-futuro: 那本书将被读。
           frazo-presenco: 那本书正被读着。
@@ -84,7 +84,7 @@ ch:
           preterito: 过去时：-it
           titolo: 被动态分词
         titolo: 动词分词
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: “Si”是第三人称反身代词，用在动词后与句子主语关联，反指主语。
         ekspliko-2: “Sia”不能是主语自身的一部分，这类情况下应用“lia”、“ŝia”、“ĝia”或“ilia”。下面的例子中“filo”和“li”关联：
         frazo-1: 约翰给自己洗了。

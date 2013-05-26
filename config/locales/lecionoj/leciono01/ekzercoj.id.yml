@@ -1,11 +1,11 @@
---- 
-id: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+id:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Latihan tentang Memeriksa Pengertian 1"
         auxdkompreno01-instrukcio: "Dalam latihan yg beritkutnya, anda mendengarkan kata, dan anda harus menekan tombol yang sama seperti kata yang betulnya.  Kalau jawabanmu benar, maka tombol akan menghilang dari panel, sebaliknya anda akan mendengarkan kata itu lagi selama latihan ini.  Anda harus berhasil sekurang-kurangnya 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Teh itu hangat."
         frazo02: "2. Guru adalah seorang bapak."
         frazo03: "3. Ayah anda baik (waktu yg lalu)."

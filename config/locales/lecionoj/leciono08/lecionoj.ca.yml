@@ -1,38 +1,38 @@
---- 
-ca: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+ca:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "D'igualtat:"
           frazo-1: "L'esperanto és tan bonic com útil."
           frazo-2: "Res no és tan valuós com la salut."
           frazo-3: "És tan bonica com la mare."
-        malsupereco: 
+        malsupereco:
           ekspliko: "D'inferioritat:"
           frazo-1: "El meu germà és més jove que jo. (menys gran)"
           frazo-2: "Ell escriu menys bellament que la noia."
           frazo-3: "El marit parla menys fort que la dona."
-        supereco: 
+        supereco:
           ekspliko: "De superioritat:"
           frazo-1: "La llet és més nutritiva que el vi."
           frazo-2: "En Joan és més alt que en Pere."
           frazo-3: "El sol és més gran que la lluna."
         titolo: Comparació
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: gendre
           bofratino: cunyada
           bopatrino: sogra
           bopatro: sogre
           ekspliko: "parentiu per matrimoni"
-        dis: 
+        dis:
           disdoni: repartir
           disfali: "caure, ensorrar-se"
           disflugi: "separar-se volant"
           dissemi: disseminar
           ekspliko: "divisió, separació, disgregació"
-        duon: 
+        duon:
           duondio: semidéu
           duonfilino: fillastra
           duonhoro: "mitja hora"
@@ -40,37 +40,37 @@ ca:
           ekspliko: "mig, a mitges"
           filino: filla
           horo: hora
-        ek: 
+        ek:
           ekbrilo: resplandor
           ekdormi: adormir-se
           ekiri: "arrancar (començar un trajecte)"
           ekpluvi: "posar-se a ploure"
           ekspliko: "acció que comença, sobtada o momentània"
-        eks: 
+        eks:
           eksedziĝi: divorciar-se
           eksfianĉo: "exxicot, expromès"
           eksiĝi: "plegar (voluntàriament o no)"
           ekspliko: "acció o estat que ja no existeix"
           eksprezidanto: expresident
-        fi: 
+        fi:
           ekspliko: "dolent des del punt de vista moral"
           fidomo: "casa de mala reputació"
           fikomercisto: "mercader, entabanador"
           fivirino: "dona dolenta, mala dona"
           komercisto: comerciant
-        ge: 
+        ge:
           ekspliko: "conjunt de tots dos sexes (pot ser una parella o un grup)"
           geamikoj: "amics (i amigues)"
           gefiloj: "fills (i filles)"
           gefratoj: "germans (i germanes)"
           gepatroj: "pares (i mares)"
-        mal: 
+        mal:
           dekstro: dreta
           ekspliko: "contrari, oposat"
           fermi: tancar
           maldekstro: esquerra
           malfermi: obrir
-        mis: 
+        mis:
           ekspliko: "de froma equivocada, incorrecta, dolenta, no encertada, inapropiada"
           kompreni: "entendre, comprendre"
           miskompreni: malentendre
@@ -78,7 +78,7 @@ ca:
           misuzo: "mal ús, ús equivocat"
           paŝo: "passa, pas"
           uzo: ús
-        pra: 
+        pra:
           ekspliko: "molt llunyà en el temps"
           historio: història
           nepo: nét
@@ -86,21 +86,21 @@ ca:
           prahistorio: prehistòria
           prahomo: "home primitiu"
           pranepo: besnét
-        re: 
+        re:
           ekspliko: "repetició d'un acte"
           reaperi: reaparèixer
           refari: refer
           reteni: retendre
           reveni: "tornar, estar de tornada"
         titolo: Prefixos
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "acció que dura"
           parolado: "discurs; conversa"
           paroli: parlar
           rigardadi: observar
           rigardi: mirar
-        an: 
+        an:
           brazilano: brasileny
           ekspliko: "membre d'un grup, partit, religió; habitant d'un territori"
           eŭropano: europeu
@@ -108,25 +108,25 @@ ca:
           kristano: cristià
           kristo: Crist
           usonano: nord-americà/ana
-        ar: 
+        ar:
           ekspliko: "col·lecció, col·lectiu"
           vortaro: "vocabulari, diccionari"
           vorto: paraula
           ŝafaro: "ramat d'ovelles"
           ŝafo: "be, ovella"
-        aĉ: 
+        aĉ:
           domaĉo: casot
           domo: casa
           ekspliko: "dolent físicament o estèticament"
           skribaĉi: "fer gargots"
           skribi: escriure
-        aĵ: 
+        aĵ:
           dolĉa: dolç/a
           dolĉaĵo: "dolç, llaminadura"
           ekspliko: "manifestació concreta de la idea de l'arrel."
           pentraĝo: "pintura (quadre)"
           pentri: pintar
-        ebl: 
+        ebl:
           ekspliko: "possibilitat passiva"
           kredebla: creïble
           kredi: creure
@@ -134,19 +134,19 @@ ca:
           legi: llegir
           videbla: visible
           vidi: veure
-        ec: 
+        ec:
           amikeco: amistat
           amiko: amic
           ekspliko: "estat o qualitat abstracta corresponent a la idea de l'arrel"
           mola: tou/tova
           moleco: tovor
-        eg: 
+        eg:
           ekspliko: gran
           ridegi: "petar-se de riure"
           ridi: riure
           ventego: ventada
           vento: vent
-        ej: 
+        ej:
           ekspliko: "lloc de l'acció o destinat als éssers caracteritzats per l'arrel"
           oficejo: oficina
           ofico: càrrec
@@ -154,26 +154,26 @@ ca:
           preĝi: "pregar, resar"
           ĉevalejo: quadra
           ĉevalo: cavall
-        em: 
+        em:
           babilema: xerraire
           babili: xerrar
           ekspliko: "tendència, inclinació a"
           ŝparema: estalviador/a
           ŝpari: estalviar
-        end: 
+        end:
           ekspliko: "deure passiu"
           farenda: "que cal fer"
           fari: fer
           legenda: "de lectura obligada"
           legi: llegir
         titolo: Sufixos
-        ĉj: 
+        ĉj:
           ekspliko: "sufix afectiu per a homes (amb només part de l'arrel i mantenint l'eufonia)"
           jozefo: Josep
           joĉjo: Pep
           patro: pare
           paĉjo: papa
-      superlativo: 
+      superlativo:
         ekspliko-1: "El superlatiu s'utilitza quan un dels individus presenta qualitats en un grau més o menys alt que tots els altres."
         ekspliko-2: "Quan hi ha només dos individus (persones, coses, etc.), utilitzem PLI o MALPLI. El mateix passa quan es tracta de dos grups:"
         frazo-1: "De tots els meus nens, l'Ernest és el més jove."

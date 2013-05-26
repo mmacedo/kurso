@@ -1,24 +1,24 @@
---- 
-sk: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+sk:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Dátumy vyjadríte nasledovným spôsobom. Slová \"tago\" a \"en la jaro\" sa obyčajne už neuvádzajú."
         titolo: Dátumy
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Ten chlieb je suchý."
           titolo: Tvrdenie
-        demando: 
+        demando:
           frazo-1: "Je ten chlieb suchý?"
           titolo: Otázka
         ekspliko: "Každá otázka sa tvorí jednoduchým položením slovíčka \"ĉu\" na začiatok vety. Dajte pozor na to, že slovosled sa nemení. To platí pre všetky otázky, na ktoré sa dá odpovedať \"áno\" alebo \"nie\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Nie, ten chleba nie je suchý."
           frazo-pozitiva: "Áno, ten chleba je suchý."
           titolo: Odpoveď
         titolo: "Opytovacie vety"
-      monatoj: 
+      monatoj:
         aprilo: apríl
         aŭgusto: august
         decembro: december
@@ -32,7 +32,7 @@ sk:
         oktobro: október
         septembro: september
         titolo: "Mesiace v roku"
-      salutoj: 
+      salutoj:
         saluto-1: Ahoj!
         saluto-10: "Dobrú chuť!"
         saluto-11: "Nápodobne, ďakujem!"
@@ -48,12 +48,12 @@ sk:
         saluto-8: "Celkom (dosť) dobre."
         saluto-9: "Nie veľmi dobre."
         titolo: Pozdravy
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: včera
           hodiaŭ: dnes
           morgaŭ: zajtra
-        semajno: 
+        semajno:
           dimanĉo: nedeľa
           lundo: pondelok
           mardo: utorok
@@ -62,9 +62,9 @@ sk:
           vendredo: piatok
           ĵaŭdo: štvrtok
         titolo: "Dni v týždni"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Prečítajte si nasledujúci text, napísaný žiakom učiacim sa esperanto, a pokúste sa mu s pomocou slovníka porozumieť."
-        vortaro: 
+        vortaro:
           alia: iný
           antaŭ: pred
           facila: ľahký
@@ -72,7 +72,7 @@ sk:
           komenci: začať
           lerni: "učiť sa"
           tre: veľmi
-      vortaro04: 
+      vortaro04:
         infano: dieťa
         kaj: a
         kolekti: zbierať

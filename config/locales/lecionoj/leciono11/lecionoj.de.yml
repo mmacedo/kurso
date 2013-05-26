@@ -1,8 +1,8 @@
---- 
-de: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+de:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Für die Entscheidungsfrage (Ja/Nein) gibt es neben der üblichen Einleitung mit \"ĉu\" (s. Lekt. 2) noch andere Ausdrucksmöglichkeiten:"
         frazo-1: "Ist die Schachtel blau?"
         frazo-2: "Wirst du ins Kino gehen?"
@@ -11,7 +11,7 @@ de:
         frazo-5: "Die Schachtel ist nicht blau, oder?"
         frazo-6: "Du wirst nicht ins Kino gehen - oder?"
         titolo: "Andere Frageformen"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Interessante Wortpaare im Esperanto:"
         jen: "mal [so] .. mal [so]"
         jen-frazo-1: "Mal weinte der Junge, mal lachte er."
@@ -29,11 +29,11 @@ de:
         ĉu: "ob .. oder/ob"
         ĉu-frazo-1: "Ob aus Angst, ob aus Stolz, er schwieg.  [Wörtlich: antwortete nicht(s)]."
         ĉu-frazo-2: "Ob's regnet od. die Sonne scheint, ich werde doch gehen."
-      horoj: 
+      horoj:
         je-kioma: "Um wie viel Uhr wirst du anrufen? (w.: zur wie vielten Std.)"
         kioma-estas: "Wie viel Uhr ist es?  (Wörtl.: [Die] wie vielte Stunde ist es?)"
         titolo: Stunden
-      interjekcioj: 
+      interjekcioj:
         bis: "noch einmal; da capo!"
         fi: pfui!
         ha-1: "ha! ach!"
@@ -45,7 +45,7 @@ de:
         titolo: "Interjektionen - Ausrufewörter"
         ve: weh(e)!
         ve-al-mi: "wehe mir!"
-      mallongiloj: 
+      mallongiloj:
         bv: bitte
         e-isto: Esperanto-Anhänger
         e-o: Esperanto
@@ -57,7 +57,7 @@ de:
         str: Straße
         te: "d. h., das heißt [das ist]"
         titolo: Abkürzungen
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "'immer' [unbestimmt - wird nachgestellt]"
         almenaŭ: wenigstens
         ambaŭ: beide

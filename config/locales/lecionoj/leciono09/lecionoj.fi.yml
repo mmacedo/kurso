@@ -1,57 +1,57 @@
---- 
-fi: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+fi:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Yksi osa kokonaisuudesta."
           monero: kolikko
           mono: raha
           salero: suolarae
           salo: suola
-        estr: 
+        estr:
           ekspliko: "Johtaja, päällikkö, pomo"
           urbestro: kaupunginjohtaja
           urbo: kaupunki
           ŝipestro: "laivan kapteeni"
           ŝipo: laiva
-        et: 
+        et:
           ekspliko: Pienennys
           pupeto: pikkunukke
           pupo: nukke
           rideti: hymyillä
           ridi: nauraa
-        id: 
+        id:
           ekspliko: "Jälkeläinen, poikanen"
           katido: kissanpentu
           kato: kissa
           reĝido: "kuninkaan jälkeläinen (lapsi)"
           reĝo: kuningas
-        ig: 
+        ig:
           ekspliko: "Teettää, pakottaa, tehdä"
           morti: kuolla
           mortigi: tappaa
           pura: puhdas
           purigi: puhdistaa
-        il: 
+        il:
           ekspliko: "Väline, laite"
           muzikilo: musiikki-instrumentti
           muziko: musiikki
           ŝlosi: lukita
           ŝlosilo: avain
-        in: 
+        in:
           ekspliko: "Nainen, naaras"
           kokino: kana
           koko: kukko
           onklino: täti
           onklo: setä
-        ind: 
+        ind:
           admiri: ihailla
           admirinda: ihailtava
           ekspliko: "Jnk. arvoinen"
           laŭdi: "kehua, kiittää"
           laŭdinda: kiitettävä
-        ist: 
+        ist:
           ekspliko: "Ammatti, oppisuunta"
           esperantisto: esperantisti
           esperanto: Esperanto
@@ -61,7 +61,7 @@ fi:
           raportisto: selostaja
           tajpi: "kirjottaa koneella"
           tajpisto: konekirjoittaja
-        iĝ: 
+        iĝ:
           ekspliko: "Tulla joksikin"
           fari: tehdä
           fariĝi: "tulla jks, tapahtua"
@@ -69,39 +69,39 @@ fi:
           mateno: aamu
           ruĝa: punainen
           ruĝiĝi: "punastua, punertua"
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "Helliminen, lempinimi naissukupuolesta"
           manjo: Mariakulta
           panjo: äitikulta
           patrino: äiti
-        obl: 
+        obl:
           du: kaksi
           duobla: kaksinkertainen
           ekspliko: Kertaistus
           tri: kolme
           trioblo: "kolminkertainen asia, -esine"
         ? "on"
-        : 
+        :
           dek: kymmenen
           dekono: kymmenesosa
           ekspliko: "Osa, murtoluku"
           kvar: neljä
           kvarono: neljännes
-        op: 
+        op:
           du: kaksi
           duopo: kaksikko
           ekspliko: Ryhmä
           ses: kuusi
           sesopo: "kuuden ryhmä"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Mikäli voi syntyä epäselvyyttä tämän suffiksin merkityksen suhteen, on suositeltavaa käyttää synonyymejä, esimerkiksi:"
           germanio: Saksa
           pomarbo: omenapuu
           pomkesto: omenakori
           ruslando: Venäjä
         titolo: Jälkiliitteet
-        uj: 
+        uj:
           ekspliko: "Purkki, rasia, säiliö; valtio; hedelmäpuu (vanhentunut merkitys)"
           franco: ranskalainen
           francujo: Ranska
@@ -109,7 +109,7 @@ fi:
           monujo: kukkaro
           pomo: omena
           pomujo: omenapuu
-        ul: 
+        ul:
           ekspliko: "Henkilö, olento"
           kontraŭ: "vastaan, kohti"
           kontraŭulo: vastustaja
@@ -119,13 +119,13 @@ fi:
           sanktulo: pyhimys
           stulta: typerä
           stultulo: typerys
-        um: 
+        um:
           ekspliko: "Epämääräinen-, vaihteleva merkitys"
           kolo: kaula
           kolumo: kaulus
           plena: täysi
           plenumi: täyttää
-      vortordo: 
+      vortordo:
         dialogo: "— Minä näin sinut, oi aarre, ja minä heti rakastuin sinuun!"
         ekspliko-1: "Kolmannessa kappaleessa opimme sanajärjestyksen subjekti-verbi-jatke, joka on tavallisin. Kuitenkin, sanajärjestystä voi muuttaa, kunhan lause säilyy ymmärrettävänä. Näin menetellään esimerkiksi silloin, kun halutaan painottaa jotakin lauseen osaa. Seuraavissa lauseissa on painotettu jotakin asiaa, muuttamalla sanajärjestystä:"
         ekspliko-2: "Lauseen osan painottamiseen voi käyttää myös sanaa \"ja\", joka vastaa suomen päätettä \"-han, -hän:"

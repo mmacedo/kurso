@@ -1,48 +1,48 @@
---- 
-pl: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+pl:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Liczebniki porządkowe tworzy się dodając końcówkę  \"-a\"  do liczebników głównych.  Mają one też liczbę mnogą  ( -j ) i  biernik (-n )"
-        frazoj: 
+        frazoj:
           frazo-1: "Pierwsi chłopcy przybywają."
           frazo-2: "On złapał trzeciego owada."
         titolo: "Przymiotniki  z liczebników."
-        vortoj: 
+        vortoj:
           dek: dziesięć
           dek-naŭ: dziewiętnaście
           dek-naŭa: dziewiętnasty
           deka: dziesiąty
           tri: trzy
           tria: trzeci
-      adverboj: 
+      adverboj:
         ekspliko-1: "Przysłówki działają jak przymiotniki, ale zamiast określać rzeczownik, określają czasownik i przymiotnik  i  nie otrzymują końcówki  \"j\". Ogólnie wyrażąją  one  sposób,  przyczynę,  czas i miejsce."
         ekspliko-2: "W Esperanto  przysłówki kończa się na literę \"-e\"  ( kiedy pochodzą od wyrazu)."
-        frazoj: 
+        frazoj:
           frazo-sana: "On jest zdrowy."
           frazo-sane: "On zdrowo żyje."
           frazo-sani: "On jest zdrowy *"
           frazo-sano: "On ma dobre zdrowie"
         rimarkigo: "Przysłówek daje się przed wyrazem, którego on dotyczy."
         titolo: Przysłówki
-        vortoj: 
+        vortoj:
           sana: zdrowy
           sane: zdrowo
           sani: "być zdrowym*"
           sano: zdrowie
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Dodając końcówkę  \"-e\" do liczebników  tworzy się  przysłówki:"
-        frazoj: 
+        frazoj:
           frazo-1: "On najpierw będzie pił wodę."
         titolo: "Przysłówki z liczebników"
-        vortoj: 
+        vortoj:
           du: dwa
           due: "po drugie"
           unu: jeden
           unue: "po pierwsze"
-      numeraloj: 
+      numeraloj:
         titolo: Liczebniki
-      vortaro03: 
+      vortaro03:
         atendi: czekać
         demandi: pytać
         fumi: "dymić, palić papierosa"

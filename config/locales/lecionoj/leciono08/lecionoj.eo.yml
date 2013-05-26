@@ -1,38 +1,38 @@
---- 
-eo: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+eo:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "De egaleco:"
           frazo-1: "Esperanto estas tiel bela kiel utila."
           frazo-2: "Nenio estas tiel valora kiel la sano."
           frazo-3: "Ŝi estas tiel bela kiel la patrino."
-        malsupereco: 
+        malsupereco:
           ekspliko: "De malsupereco:"
           frazo-1: "Mia frato estas malpli aĝa ol mi."
           frazo-2: "Li skribas malpli bele ol la knabino."
           frazo-3: "La edzo parolas malpli laŭte ol la edzino."
-        supereco: 
+        supereco:
           ekspliko: "De supereco:"
           frazo-1: "Lakto estas pli nutra ol vino."
           frazo-2: "Johano estas pli alta ol Petro."
           frazo-3: "La suno estas pli granda ol la luno."
         titolo: Komparado
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: bofilo
           bofratino: bofratino
           bopatrino: bopatrino
           bopatro: bopatro
           ekspliko: "(bo-) pareco pro geedziĝo"
-        dis: 
+        dis:
           disdoni: disdoni
           disfali: disfali
           disflugi: disflugi
           dissemi: dissemi
           ekspliko: "(dis-) disdono, disiro"
-        duon: 
+        duon:
           duondio: duondio
           duonfilino: duonfilino
           duonhoro: duonhoro
@@ -40,37 +40,37 @@ eo:
           ekspliko: "(duon-) duone"
           filino: filino
           horo: horo
-        ek: 
+        ek:
           ekbrilo: ekbrilo
           ekdormi: ekdormi
           ekiri: ekiri
           ekpluvi: ekpluvi
           ekspliko: "(ek-) komenca, subita aŭ momenta ago"
-        eks: 
+        eks:
           eksedziĝi: eksedziĝi
           eksfianĉo: eksfianĉo
           eksiĝi: eksiĝi
           ekspliko: "(eks-) montras agon aŭ staton kiu ne plu ekzistas."
           eksprezidanto: eksprezidanto
-        fi: 
+        fi:
           ekspliko: "(fi-) malbona laŭ morala vidpunkto"
           fidomo: fidomo
           fikomercisto: fikomercisto
           fivirino: fivirino
           komercisto: komercisto
-        ge: 
+        ge:
           ekspliko: "(ge-) kuneco de ambaŭ seksoj (povas esti paro aŭ grupo)"
           geamikoj: geamikoj
           gefiloj: gefiloj
           gefratoj: gefratoj
           gepatroj: gepatroj
-        mal: 
+        mal:
           dekstro: dekstro
           ekspliko: "(mal-) la malo, la kontraŭo"
           fermi: fermi
           maldekstro: maldekstro
           malfermi: malfermi
-        mis: 
+        mis:
           ekspliko: "(mis-) erare, malĝuste, malbone, maltrafe, maltaŭge, ne konvene"
           kompreni: kompreni
           miskompreni: miskompreni
@@ -78,7 +78,7 @@ eo:
           misuzo: misuzo
           paŝo: paŝo
           uzo: uzo
-        pra: 
+        pra:
           ekspliko: "(pra-) tre malproksima en la tempo"
           historio: historio
           nepo: nepo
@@ -86,21 +86,21 @@ eo:
           prahistorio: prahistorio
           prahomo: prahomo
           pranepo: pranepo
-        re: 
+        re:
           ekspliko: "(re-) ripetado, reokazo"
           reaperi: reaperi
           refari: refari
           reteni: reteni
           reveni: reveni
         titolo: Prefiksoj
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "(-ad) daŭra ago"
           parolado: parolado
           paroli: paroli
           rigardadi: rigardadi
           rigardi: rigardi
-        an: 
+        an:
           brazilano: brazilano
           ekspliko: "(-an) membro de grupo, partio, religio; loĝanto de lando aŭ regiono"
           eŭropano: eŭropano
@@ -108,25 +108,25 @@ eo:
           kristano: kristano
           kristo: Kristo
           usonano: usonano
-        ar: 
+        ar:
           ekspliko: "(-ar) kolekto, kolektiveco"
           vortaro: vortaro
           vorto: vorto
           ŝafaro: ŝafaro
           ŝafo: ŝafo
-        aĉ: 
+        aĉ:
           domaĉo: domaĉo
           domo: domo
           ekspliko: "(-aĉ) malbona laŭ la materia aŭ estetika vidpunkto"
           skribaĉi: skribaĉi
           skribi: skribi
-        aĵ: 
+        aĵ:
           dolĉa: dolĉa
           dolĉaĵo: dolĉaĵo
           ekspliko: "(-aĵ) Konkreta manifestiĝo de la ideo en la radiko."
           pentraĝo: pentraĵo
           pentri: pentri
-        ebl: 
+        ebl:
           ekspliko: "(-ebl) pasiva ebleco"
           kredebla: kredebla
           kredi: kredi
@@ -134,19 +134,19 @@ eo:
           legi: legi
           videbla: videbla
           vidi: vidi
-        ec: 
+        ec:
           amikeco: amikeco
           amiko: amiko
           ekspliko: "(-ec) stato aŭ abstrakta kvalito korespondanta al la ideo de la radiko."
           mola: mola
           moleco: moleco
-        eg: 
+        eg:
           ekspliko: granda
           ridegi: ridegi
           ridi: ridi
           ventego: ventego
           vento: vento
-        ej: 
+        ej:
           ekspliko: "(-ej) loko de la ago aŭ destinita al la estuloj karakterizitaj de la radiko."
           oficejo: oficejo
           ofico: ofico
@@ -154,26 +154,26 @@ eo:
           preĝi: preĝi
           ĉevalejo: ĉevalejo
           ĉevalo: ĉevalo
-        em: 
+        em:
           babilema: babilema
           babili: babili
           ekspliko: "(-em) tendenco, inklino al"
           ŝparema: ŝparema
           ŝpari: ŝpari
-        end: 
+        end:
           ekspliko: "(-end) pasiva devo"
           farenda: farenda
           fari: fari
           legenda: legenda
           legi: legi
         titolo: Sufiksoj
-        ĉj: 
+        ĉj:
           ekspliko: "(-ĉj) karesa sufikso por viroj (kun parto de la radiko kaj konservante la belsonecon)"
           jozefo: Jozefo
           joĉjo: Joĉjo
           patro: patro
           paĉjo: paĉjo
-      superlativo: 
+      superlativo:
         ekspliko-1: "Superlativo estas kiam unu el la individuoj prezentas kvaliton en grado pli aŭ malpli alta ol la ceteraj."
         ekspliko-2: "Kiam estas nur du individuoj (homoj, aĵoj ktp.), oni uzu PLI aŭ MALPLI. La samo okazas kiam temas pri du grupoj:"
         frazo-1: "El ĉiuj miaj infanoj Ernesto estas la plej juna."

@@ -1,38 +1,38 @@
---- 
-ko: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+ko:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "동등함:"
           frazo-1: "에스페란토는 유용한만큼 그만큼 아름답다."
           frazo-2: "건강만큼 그만큼 가치있는 것은 아무 것도 없다."
           frazo-3: "그녀는ŝi 어머니만큼 그정도로 아름답다."
-        malsupereco: 
+        malsupereco:
           ekspliko: "열등함:"
           frazo-1: "나의 남동생은 나보다 더 나이가aĝa 적다."
           frazo-2: "그는 그 소녀보다도 덜 예쁘게(아름답게) 글쓴다."
           frazo-3: "그 남편은 그 아내보다도 덜 큰 소리로laŭte 말한다."
-        supereco: 
+        supereco:
           ekspliko: "월등함:"
           frazo-1: "우유는 포도주보다도 더 영양이 많다."
           frazo-2: "요하노는 페트로보다 더 키가 크다."
           frazo-3: "태양은 달보다 더 크다."
         titolo: 비교
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: 사위
           bofratino: "시누이,올캐,처형,처제"
           bopatrino: "시어머니, 장모"
           bopatro: "시아버지,장인"
           ekspliko: "(bo-)결혼으로 인해 생긴 친인척관계"
-        dis: 
+        dis:
           disdoni: "나누어 주다"
           disfali: "뿔뿔히 쓰러지다"
           disflugi: "흩어져 날아가다"
           dissemi: 흩뿌리다
           ekspliko: "(dis-)분산하여 나눠줌, 뿔뿔히 흩어져 감"
-        duon: 
+        duon:
           duondio: "신과 인간의 자식"
           duonfilino: 의붓딸
           duonhoro: 반시간(30분)
@@ -40,37 +40,37 @@ ko:
           ekspliko: "(duon-)절반, 2분의 1"
           filino: 딸
           horo: "시간, 한시간"
-        ek: 
+        ek:
           ekbrilo: 반짝거림
           ekdormi: "잠들기 시작하다"
           ekiri: 출발하다
           ekpluvi: 비오기시작하다
           ekspliko: "(ek-)시작,또는 갑작스런 또는 순간적 행동"
-        eks: 
+        eks:
           eksedziĝi: eksedziĝo이혼
           eksfianĉo: "eksfianĉo 이전의 약혼자"
           eksiĝi: "eksiĝi(...)에서 해직되다"
           ekspliko: "(eks-) 이젠 더 이상 존재하지 않는 이전의 행동이나 상태를 나타냄"
           eksprezidanto: "이전의 회장, 전직 대표"
-        fi: 
+        fi:
           ekspliko: "(fi-)도덕적 관점으로 보면 나쁜 것"
           fidomo: "나쁜 집, 흉가"
           fikomercisto: "나쁜 상인"
           fivirino: "나쁜 여자"
           komercisto: "상인,교역상"
-        ge: 
+        ge:
           ekspliko: "(ge-) 남녀 양성의 결합 (둘이거나 단체가 되기도 함)"
           geamikoj: 남녀친구
           gefiloj: "아들딸,자녀"
           gefratoj: 형제자매
           gepatroj: "부모,아버지와 어머니"
-        mal: 
+        mal:
           dekstro: 오른쪽
           ekspliko: "(mal-) 반대"
           fermi: "(..)을 닫다"
           maldekstro: 왼쪽
           malfermi: "(...)을 열다"
-        mis: 
+        mis:
           ekspliko: "(mis-)잘못,틀림,나쁨,맞히지 못함, 부적절함"
           kompreni: 이해하다
           miskompreni: 오해하다
@@ -78,7 +78,7 @@ ko:
           misuzo: "잘못 사용"
           paŝo: paŝir걷다
           uzo: 사용
-        pra: 
+        pra:
           ekspliko: "(pra-)시간에 있어 아주 먼 시간"
           historio: 역사
           nepo: 손자
@@ -86,21 +86,21 @@ ko:
           prahistorio: "선사 시대"
           prahomo: 원시인간
           pranepo: 증손자
-        re: 
+        re:
           ekspliko: "(re-) 반복,다시 일어남"
           reaperi: "다시 나타나다"
           refari: "다시 하다,다시 만들다"
           reteni: "다시 잡다"
           reveni: "되돌아오다,다시 오다"
         titolo: 접두사
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "(-ad) 지속적 행동"
           parolado: 연설
           paroli: 말하다
           rigardadi: "계속 쳐다보다"
           rigardi: 쳐다보다
-        an: 
+        an:
           brazilano: "브라질사람, 브라질인"
           ekspliko: "(-an) 단체, 정당, 종교의 회원; 나라나 지역의 거주자(구성원)"
           eŭropano: "eŭropano유럽사람,유럽인"
@@ -108,25 +108,25 @@ ko:
           kristano: "그리스도인, 기독교인"
           kristo: 그리스도
           usonano: "미국인, 미국사람"
-        ar: 
+        ar:
           ekspliko: "(-ar) 집단, 무리"
           vortaro: 사전
           vorto: 낱말
           ŝafaro: "ŝafaro양무리,양떼"
           ŝafo: "ŝafo양 (한마리)"
-        aĉ: 
+        aĉ:
           domaĉo: "domaĉo나쁜 집, 흉가"
           domo: "집,건물"
           ekspliko: "(-aĉ) 물질적 또는 미학적 관점에서 보면 나쁜 상태"
           skribaĉi: "skribaĵo글쓴 내용"
           skribi: "글을 쓰다"
-        aĵ: 
+        aĵ:
           dolĉa: "dolĉa달콤한, 달콤하다"
           dolĉaĵo: "dolĉaĵo과자,단것"
           ekspliko: "(-aĵ) 어근에서의 사상을 구체적으로 표현하는것(구체적 사물)"
           pentraĝo: pentraĵo그림
           pentri: "그림을 그리다"
-        ebl: 
+        ebl:
           ekspliko: "(-ebl)수동의 가능"
           kredebla: "믿을만한,믿을민하다"
           kredi: 믿다
@@ -134,19 +134,19 @@ ko:
           legi: 읽다
           videbla: "보여지는, 보여지다"
           vidi: 보다
-        ec: 
+        ec:
           amikeco: 우정
           amiko: 남자친구
           ekspliko: "(-ec)어근의 사상에 대응하는 상태나 구체적 성질(추상적인성질)"
           mola: "물렁한,물렁하다"
           moleco: "무름의 성질"
-        eg: 
+        eg:
           ekspliko: "(-eg)크다, 위대하다, 대단하다,큰, 위대한, 대단한"
           ridegi: "크게 웃다"
           ridi: 웃다
           ventego: 태풍
           vento: 바람
-        ej: 
+        ej:
           ekspliko: "(-ej) 어근과 특징지워지는 존재물에 관련된 행동의 장소."
           oficejo: "사무실,사무소"
           ofico: "사무,업무,공무"
@@ -154,26 +154,26 @@ ko:
           preĝi: preĝi기도하다
           ĉevalejo: ĉevalejo마굿간
           ĉevalo: ĉevalo말(달리는)
-        em: 
+        em:
           babilema: "잡담을 하길 좋아하는"
           babili: "잡담하다. 이야기를 나누다"
           ekspliko: "(-em)경향,...에 끌림"
           ŝparema: "ŝparema절약하기를 즐겨하는"
           ŝpari: ŝpari절약하다
-        end: 
+        end:
           ekspliko: "(-end)수동적 의무"
           farenda: "하여야 하는, 하여져야 하는"
           fari: "만들다, 하다,이행하다"
           legenda: "읽혀져야 되는"
           legi: 읽다
         titolo: 접미사
-        ĉj: 
+        ĉj:
           ekspliko: "(-cĵ) 남자의 애칭(어근의 일부와, 발음의 미려성을 고려함)"
           jozefo: 요셉(인명)
           joĉjo: "Joĉjo요셉을 편하게 <요쵸>라 함"
           patro: 아버지
           paĉjo: paĉjo아빠
-      superlativo: 
+      superlativo:
         ekspliko-1: "최상급은 개체들 중에서 하나가 여타의 것들에 비해 가장 높은 정도나 가장 낮은 단계의 품질을 나타냅니다."
         ekspliko-2: "두 개체(사람,사물이나) 만 있을 때, 비교급은  PLI(더) 나 MALPLI(덜)을 쓴다.두 개의 그룹을 비교할 때도 같다:"
         frazo-1: "나의 모든ĉiuj 아이들 중에 에르네스토가 가장 어리다."

@@ -1,48 +1,48 @@
---- 
-it: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+it:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "I numerali ordinali (primo, secondo, ..) si formano accodando ai numerali cardinali (uno, due, ..) la terminazione -a dell'aggettivo. In quanto aggettivi, possono assumere la terminazione del plurale (-j) e dell'accusativo (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "I primi ragazzi vengono."
           frazo-2: "[Egli] catturò il terzo insetto."
         titolo: "Aggettivi derivati dai numerali"
-        vortoj: 
+        vortoj:
           dek: dieci
           dek-naŭ: diciannove
           dek-naŭa: "diciannovesimo / a"
           deka: "decimo / decima"
           tri: tre
           tria: "terzo / terza"
-      adverboj: 
+      adverboj:
         ekspliko-1: "Gli avverbi hanno una funzione simile a quella degli aggettivi, ma caratterizzano - anziché le nozioni espresse dal sostantivo - quelle del verbo o dell'aggettivo (senza prendere la terminazione -j). In generale, essi esprimono il modo, la causa, il tempo o il luogo."
         ekspliko-2: "In esperanto gli avverbi terminano generalmente in -e (ciò accade sempre per gli avverbi derivati da altra parola). Così, l'idea di base associata ad una data radice assume determinazioni differenziate (secondo le categorie del sostantivo, dell'aggettivo o dell'avverbio), con il semplice cambiamento della terminazione (-o, -a, -e)."
-        frazoj: 
+        frazoj:
           frazo-sana: "[Egli / lui] è sano."
           frazo-sane: "[Egli / lui ] vive in modo sano."
           frazo-sani: "[Egli / lui] è sano."
           frazo-sano: "[Egli / lui] ha [una] buona salute."
         rimarkigo: "Di regola, l'avverbio si colloca davanti alla parola a cui si riferisce."
         titolo: Avverbi
-        vortoj: 
+        vortoj:
           sana: "sano / sana"
           sane: "in modo sano, sanamente"
           sani: "essere sano"
           sano: "[la] salute"
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Accodando la terminazione -e ai numerali cardinali, si ottengono gli avverbi corrispondenti:"
-        frazoj: 
+        frazoj:
           frazo-1: "Per prima cosa [egli] berrà dell'acqua."
         titolo: "Avverbi derivati dai numerali"
-        vortoj: 
+        vortoj:
           du: due
           due: "in secondo luogo, per secondo"
           unu: uno
           unue: "in primo luogo, per primo"
-      numeraloj: 
+      numeraloj:
         titolo: Numerali
-      vortaro03: 
+      vortaro03:
         atendi: "aspettare, attendere"
         demandi: "domandare (per sapere)"
         fumi: fumare

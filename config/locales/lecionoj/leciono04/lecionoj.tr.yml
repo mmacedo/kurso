@@ -1,24 +1,24 @@
---- 
-tr: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+tr:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Tarihleri söylemek için modeli takip edin.\" Gün \" ve \" Sene \" içinde kelimeler aşağıda anlaşılmakta ve genelde onlardan bahsetmek gerekmiyor."
         titolo: Tarihler
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Ekmek kurudur."
           titolo: "Onaylamak:"
-        demando: 
+        demando:
           frazo-1: "Ekmek kuru mu ?"
           titolo: "Soru :"
         ekspliko: "Her soru onaylama veya onaylamama üzerine kurulur, sadece cümlenin önüne \" Ĉu \" ( mı , mi ) kelimeciğini koyarız. Bu cevaplar cevabı \"evet \" veya \"hayır\" olacak tüm sorular için geçerlidir."
-        respondo: 
+        respondo:
           frazo-negativa: "Hayır, ekmek kuru değildir."
           frazo-pozitiva: "Evet, ekmek kurudur."
           titolo: "Cevap :"
         titolo: "Soru cümleleri"
-      monatoj: 
+      monatoj:
         aprilo: Nisan
         aŭgusto: Agustos
         decembro: Aralık
@@ -32,7 +32,7 @@ tr:
         oktobro: Ekim
         septembro: Eylül
         titolo: "Yılın Ayları"
-      salutoj: 
+      salutoj:
         saluto-1: "Selam !"
         saluto-10: "Afiyet Olsun !"
         saluto-11: "Sizede, teşekkürler !"
@@ -48,12 +48,12 @@ tr:
         saluto-8: "Oldukça iyi."
         saluto-9: "Çok iyi değil."
         titolo: Selamlar
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: Dün
           hodiaŭ: Bugün
           morgaŭ: Yarın
-        semajno: 
+        semajno:
           dimanĉo: Pazar
           lundo: Pazartesi
           mardo: Salı
@@ -62,9 +62,9 @@ tr:
           vendredo: Cuma
           ĵaŭdo: Perşembe
         titolo: "Haftanın Günleri"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Esperanto öğrenen bir öğrenci tarafından yazılmış aşağıdaki metni sözlük yardımıyla okuyup anlamaya çalışın."
-        vortaro: 
+        vortaro:
           alia: Diğeri
           antaŭ: Önce
           facila: Kolay
@@ -72,7 +72,7 @@ tr:
           komenci: Başlamak
           lerni: Oku
           tre: Çok
-      vortaro04: 
+      vortaro04:
         infano: Çocuk
         kaj: Ve
         kolekti: Toplamak

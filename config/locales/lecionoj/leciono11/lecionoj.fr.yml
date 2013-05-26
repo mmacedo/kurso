@@ -1,8 +1,8 @@
---- 
-fr: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+fr:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "En complément de la forme apprise dans la leçon 2, il existe d'autres manières de former les questions en espéranto :"
         frazo-1: "Est-ce que la boîte est bleue ? La boîte est-elle bleue ?"
         frazo-2: "Irez-vous au cinéma ?"
@@ -11,7 +11,7 @@ fr:
         frazo-5: "La boîte n'est pas bleue, n'est-ce pas ?"
         frazo-6: "Vous n'irez pas au cinéma, n'est-ce pas ?"
         titolo: "Autres formes interrogatives"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "En espéranto, il existe des expressions qui utilisent deux mots et dont il est intéressant de connaître les significations :"
         jen: "Montre une alternance"
         jen-frazo-1: "Le garçon tantôt pleurait, tantôt riait."
@@ -29,11 +29,11 @@ fr:
         ĉu: "Montre des possibilités parmi lesquelles le choix est indifférent, égal, libre ou incertain."
         ĉu-frazo-1: "Soit par peur, soit par fierté, il n'a rien répondu."
         ĉu-frazo-2: "Qu'il pleuve ou qu'il y ait du soleil, je viendrai assurément."
-      horoj: 
+      horoj:
         je-kioma: "A quelle heure téléphonerez-vous ?"
         kioma-estas: "Quelle heure est-il ?"
         titolo: Heures
-      interjekcioj: 
+      interjekcioj:
         bis: bis !
         fi: "fi ! pouah !"
         ha-1: ah !
@@ -45,7 +45,7 @@ fr:
         titolo: Interjections
         ve: hélas !
         ve-al-mi: "malheur à moi !"
-      mallongiloj: 
+      mallongiloj:
         bv: "veuillez, s'il vous plaît"
         e-isto: espérantophone
         e-o: espéranto
@@ -57,7 +57,7 @@ fr:
         str: rue
         te: "c'est-à-dire, c.-à-d."
         titolo: Abréviations
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "exprime le caractère indéterminé, indéfini, quelconque"
         almenaŭ: "au moins"
         ambaŭ: "tous deux, tous les deux"

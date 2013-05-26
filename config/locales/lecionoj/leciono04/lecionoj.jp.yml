@@ -1,24 +1,24 @@
---- 
-jp: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+jp:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "日付を言うには次の例をまねてください(\"tago\" と \"en la jaro\" の意味はもう分かりますね):"
         titolo: 日付
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: そのパンは乾いています。
           titolo: "平叙文(へいじょぶん):"
-        demando: 
+        demando:
           frazo-1: そのパンは乾いていますか?
           titolo: "質問:"
         ekspliko: "疑問文は平叙文の先頭に \"Ĉu\" を付けるだけでできます。 エスペラントでは、語順は変わらず単に文の先頭に\"Ĉu\" を付けるだけでいいことに注意して下さい。 これは、はい(jes)・いいえ(ne)で答えられる疑問文すべてについていえることです。"
-        respondo: 
+        respondo:
           frazo-negativa: いいえ、そのパンは乾いていません。
           frazo-pozitiva: はい、そのパンは乾いています。
           titolo: "答え:"
         titolo: 疑問文（ぎもんぶん）
-      monatoj: 
+      monatoj:
         aprilo: 4月
         aŭgusto: 8月
         decembro: 12月
@@ -32,7 +32,7 @@ jp:
         oktobro: 10月
         septembro: 9月
         titolo: 1年の月
-      salutoj: 
+      salutoj:
         saluto-1: やあ!
         saluto-10: さあめし上がれ!(食事を勧める)
         saluto-11: "あなたも同じく。 ありがとう!"
@@ -48,12 +48,12 @@ jp:
         saluto-8: じゅうぶんいいです。
         saluto-9: あまりよくありません。
         titolo: あいさつ
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: 昨日(きのう)
           hodiaŭ: 今日(きょう)
           morgaŭ: 明日(あした)
-        semajno: 
+        semajno:
           dimanĉo: 日曜日
           lundo: 月曜日
           mardo: 火曜日
@@ -62,9 +62,9 @@ jp:
           vendredo: 金曜日
           ĵaŭdo: 木曜日
         titolo: 1週間の曜日
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: エスペラントを勉強している人が書いた下の文章を読んで、次の単語表を使って理解しましょう。
-        vortaro: 
+        vortaro:
           alia: ほかの
           antaŭ: 以前に、～の前に
           facila: やさしい
@@ -72,7 +72,7 @@ jp:
           komenci: はじめる
           lerni: 勉強する
           tre: とても
-      vortaro04: 
+      vortaro04:
         infano: こども
         kaj: ～と～
         kolekti: 集める

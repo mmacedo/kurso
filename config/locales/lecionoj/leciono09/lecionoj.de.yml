@@ -1,57 +1,57 @@
---- 
-de: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+de:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Teil, Element"
           monero: Münze
           mono: Geld
           salero: Salzkorn
           salo: Salz
-        estr: 
+        estr:
           ekspliko: "Leiter, Chef"
           urbestro: Bürgermeister
           urbo: Stadt
           ŝipestro: Kapitän
           ŝipo: Schiff
-        et: 
+        et:
           ekspliko: "Verkleinerung, Abschwächung"
           pupeto: Püppchen
           pupo: Puppe
           rideti: lächeln
           ridi: lachen
-        id: 
+        id:
           ekspliko: "Nachkomme, Junges"
           katido: Kätzchen
           kato: Katze
           reĝido: Prinz
           reĝo: König
-        ig: 
+        ig:
           ekspliko: "machen, [veran]lassen"
           morti: sterben
           mortigi: töten
           pura: rein
           purigi: reinigen
-        il: 
+        il:
           ekspliko: "Mittel, Werkzeug"
           muzikilo: Musikinstrument
           muziko: Musik
           ŝlosi: (zu)schließen
           ŝlosilo: Schlüssel
-        in: 
+        in:
           ekspliko: "Weibliches Geschlecht [Sexus]"
           kokino: "Henne, Huhn"
           koko: "Huhn [als Gattung]; Hahn"
           onklino: Tante
           onklo: Onkel
-        ind: 
+        ind:
           admiri: bewundern
           admirinda: bewundernswert
           ekspliko: "wie dt. -wert, -würdig"
           laŭdi: loben
           laŭdinda: lobenswert
-        ist: 
+        ist:
           ekspliko: "Beruf/übliche Beschäftigung"
           esperantisto: Esperantist
           esperanto: Esperanto
@@ -61,7 +61,7 @@ de:
           raportisto: "Berichterstatter, Reporter"
           tajpi: "tippen, Maschine schreiben"
           tajpisto: "Schreiber, Sekretär,'Tipper'"
-        iĝ: 
+        iĝ:
           ekspliko: werden
           fari: "tun, machen"
           fariĝi: werden
@@ -69,39 +69,39 @@ de:
           mateno: Morgen
           ruĝa: rot
           ruĝiĝi: "rot werden"
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "Koseform - weiblich"
           manjo: "Mariechen, Mia usw."
           panjo: Mama
           patrino: Mutter
-        obl: 
+        obl:
           du: zwei
           duobla: zweifach
           ekspliko: "(-fach) Vielfaches"
           tri: drei
           trioblo: "(das) Dreifache"
         ? "on"
-        : 
+        :
           dek: zehn
           dekono: Zehntel
           ekspliko: "(-tel) Bruchteil"
           kvar: vier
           kvarono: Viertel
-        op: 
+        op:
           du: zwei
           duopo: "etwas/Gruppe zu zweien"
           ekspliko: Sammelzahlen
           ses: sechs
           sesopo: "etwas/Gruppe zu sechsen"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Wenn es bei diesem Suffix zu Verwechlungen kommt, besser Synonyme verwenden:"
           germanio: Deutschland
           pomarbo: Apfelbaum
           pomkesto: Apfelkiste
           ruslando: Russland
         titolo: "Suffixe - Endungen"
-        uj: 
+        uj:
           ekspliko: Behälter
           franco: Franzose
           francujo: Frankreich
@@ -109,7 +109,7 @@ de:
           monujo: "Geldbörse, Portmonee"
           pomo: Apfel
           pomujo: Apfelbaum
-        ul: 
+        ul:
           ekspliko: "Person, Typ"
           kontraŭ: gegen
           kontraŭulo: Gegner
@@ -119,17 +119,17 @@ de:
           sanktulo: Heiliger
           stulta: "dumm, töricht"
           stultulo: "Dummkopf, Tor"
-        um: 
+        um:
           ekspliko: "Verwandter Begriff  (Bedeutung offener)"
           kolo: Hals
           kolumo: Kragen
           plena: voll
           plenumi: erfüllen
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Ich sah dich, o Schatz, und verliebte mich gleich.
             — Dir trau ich, doch bares Geld macht mich weich.
-            
+
             — Ich liebe dich, Liebste, doch glaubt' ich's nicht so.
             — Liebtest gierig du mich, wäre herrschend ich froh.
         ekspliko-1: |-

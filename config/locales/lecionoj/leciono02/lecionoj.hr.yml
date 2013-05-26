@@ -1,8 +1,8 @@
---- 
-hr: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+hr:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Postoji jedan vrlo koristan nastavak koji pomaže prepoznavanje objekta u složenoj rečenici. To je akuzativ, a dolazi na kraju imenica, pridjeva i zamjenica stvarajući tako upravni objekt. A to se postiže nastavkom \"-n\"."
         ekspliko-2: "Oznaka za množinu dolazi ispred oznake za akuzativ, i to uvijek na kraju riječi. Tako se objekt može pojaviti na početku, u sredini, ili na kraju rečenice, a da se smisao rečenice ne mijenja, jer je objekt označen akuzativom. Evo tri rečenice, čiji smisao ostaje neizmjenjen:"
         frazo-plurala: "Mi peremo nove šalice."
@@ -10,41 +10,41 @@ hr:
         rimarkigo-1: "Ustvari, različit redoslijed riječi u rečenici može donekle nijansirati smisao. No, to ćemo učiti poslije."
         rimarkigo-2: "Iza glagola \"biti\" ne slijedi akuzativ, jer glagol \"biti\" podrazumijeva istovjetnost subjekta sa predikatom."
         titolo: "Akuzativ (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: "Slušajmo esperantsku šansonu \"Jen\",  od argentinske grupe \"La Porkoj\", koja je nagrađena na natječaju lijepe umjetnosti uea. Grupu sačinjavaju: Alejandro Cossavella (vokal), Pablo Ciancio (bubnjevi) Ignacio Mendizabal (gitare), i Salvador Agustoni (basgitara). Ako želite čuti šansonu pritisnite gumb."
         titolo: "Glazba na Esperantu"
-      neado: 
+      neado:
         ekspliko: "Za negaciju je dovoljno staviti \"ne\" ispred glagola."
-        frazoj: 
+        frazoj:
           frazo-1: "Neću prati novu šalicu."
           frazo-2: "On nije moj brat."
           frazo-3: "Ona nije moja majka."
           frazo-4: "Kolači nisu bili topli."
         titolo: Negacija
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "Prefiks \"mal\" nam omogućuje tvorbu riječi, čiji smisao je suprotan onome kojeg označuje korijen riječi."
-        kun: 
+        kun:
           malamiko: neprijatelj
           malavara: darežljiv
           malbela: ružan
           maljuna: "stari (dob)"
           malnova: stari
-        sin: 
+        sin:
           amiko: prijatelj
           avara: škrt
           bela: lijep
           juna: mlad
           nova: novi
         titolo: "Prefiks \"mal\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "Kako smo vidjeli u prošloj lekciji, u Esperantu se pridjevi slažu sa imenicama, kako u jednini, tako i u množini. Množina je sve što je više od jedan. Pridjevi se ne mijenjaju, bez obzira na rod."
         ekspliko-2: "Samo imena bića kojima se određuje spol dobivaju nastavak \"o\" za muški spol, a \"ino\" za ženski spol."
-        frazoj: 
+        frazoj:
           frazo-amikino: "lijepa prijateljica"
           frazo-patrino: "dobra majka"
           frazo-virino: "velike žene"
         titolo: "Sufiks -ino"
-        vortoj: 
+        vortoj:
           amikino: prijateljica
           amiko: prijatelj
           filino: kći
@@ -53,7 +53,7 @@ hr:
           patro: otac
           virino: žena
           viro: muškarac
-      vortaro02: 
+      vortaro02:
         akvo: voda
         ami: voljeti
         amo: ljubav

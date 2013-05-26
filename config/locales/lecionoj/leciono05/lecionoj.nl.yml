@@ -1,99 +1,99 @@
---- 
-nl: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+nl:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: |-
-            Hier volgen zeer nuttige woordjes, die deel uitmaken van een regelmatig en vast systeem (de "tabel"). Deze 
-            woordjes noemt men correlatieven. De betekenis van deze correlatieven volgt uit de combinatie van hun stam 
-            (voorvoegsel) en hun uitgang (achtervoegsel). Er zijn 5 "voorvoegsels" (die alle op i eindigen) en een tiental 
+            Hier volgen zeer nuttige woordjes, die deel uitmaken van een regelmatig en vast systeem (de "tabel"). Deze
+            woordjes noemt men correlatieven. De betekenis van deze correlatieven volgt uit de combinatie van hun stam
+            (voorvoegsel) en hun uitgang (achtervoegsel). Er zijn 5 "voorvoegsels" (die alle op i eindigen) en een tiental
             "achtervoegsels" in de "tabel". Met deze 5+10=15 ben je meteen 5 x 10=50 zeer nuttige woordjes rijker!
         titolo: "Correlatieven (ook \"Tabelwoorden\" genoemd)"
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: TIJDSTIP.
-        i: 
+        i:
           frazo: "Heb je ooit Brazilië bezocht?"
           vorto: Ooit
-        ki: 
+        ki:
           frazo: "Wanneer zal je het boek kopen? — Morgenochtend."
           vorto: Wanneer
-        neni: 
+        neni:
           frazo: "Neen, ik heb dat land nooit bezocht."
           vorto: Nooit
-        ti: 
+        ti:
           frazo: "Ik leerde Esperanto (dan, wanneer) toen ik op school zat."
           vorto: "Op dat ogenblik, toen, dan"
-        ĉi: 
+        ĉi:
           frazo: "Nochtans heb ik altijd verlangd (verlangde ik altijd) het te bezoeken."
           vorto: Altijd
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Dit woordje ĉi geeft nabijheid aan; het kan zowel voor als na het correlatief staan, waarop het betrekking heeft."
         frazo-1: "Wat is dit?"
         frazo-2: "Dit (= \"dat hier\") is een dier."
         frazo-3: "Dit is mijn huis."
         rimarkigo: "De correlatieven die op o eindigen (\"kio\", \"tio\" enz.) kunnen de naamvalsuitgang -n krijgen maar niet de meervoudsuitgang  -j. Die, welke eindigen op a  en u kunnen -j en -n  krijgen."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Wijst op een PLAATS."
-        i: 
+        i:
           ekspliko: "Toont de onbepaaldheid."
           frazo: "Mijn potlood is (ligt) ergens in de tuin."
           vorto: Ergens
-        ki: 
+        ki:
           ekspliko: "Wijst op een vraag;   of verwijst naar een relatie met de vorige zin."
           frazo: "Waar woon je? — Ik woon in Canada."
           vorto: Waar
-        neni: 
+        neni:
           ekspliko: "Toont de ontkennende zin aan, een lege verzameling"
           frazo: "Nergens vond ik mijn boek."
           vorto: Nergens
-        ti: 
+        ti:
           ekspliko: "Gebruikt om aan te wijzen, te tonen."
           frazo: "Ik woon daar, waar de auto is (staat)."
           vorto: Daar
-        ĉi: 
+        ĉi:
           ekspliko: "Wijst op een allesomvattende verzameling"
           frazo: "Een dwazerik schrijft overal zijn naam."
           vorto: Overal
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "ZAAK,  DING,  VOORWERP."
-        i: 
+        i:
           frazo: "Er is iets gebeurd! (Iets gebeurde)."
           vorto: Iets
-        ki: 
+        ki:
           frazo: "Wat is aardrijkskunde? — Aardrijkskunde is een wetenschap."
           vorto: Wat
-        neni: 
+        neni:
           frazo: "Beter iets dan niets."
           vorto: Niets
-        ti: 
+        ti:
           frazo: "Wat is dat? — Dat is een muziekinstrument."
           vorto: Dat
-        ĉi: 
+        ĉi:
           frazo: "Ik heb alles vergeten. (Ik vergat alles)"
           vorto: Alles
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Wijst een INDIVIDU aan. Als het over meer dan één gaat moet het de uitgang j krijgen."
-        i: 
+        i:
           ekspliko: "Wijst op een onbepaaldheid."
           frazo: "Er kwamen sommige personen, die ik niet ken."
           vorto: "Iemand, een of ander(e)"
-        ki: 
+        ki:
           ekspliko: "Wijst op een vraag;   of    toont een relatie met de voorgaande zin."
           frazo: "Wie was je eerste leraar? — Meneer Karel."
           vorto: "Wie, welk(e)"
-        neni: 
+        neni:
           ekspliko: "Betekent de ontkennende zin, de lege verzameling"
           frazo: "Wie kwam (er) gisteren? — Niemand kwam gisteren."
           vorto: "Niemand, geen enkel(e)"
-        ti: 
+        ti:
           ekspliko: "Wordt gebruikt om aan te wijzen, aan te duiden."
           frazo: "Dat boek is erg goed."
           vorto: "Die, dat (aanwijzend)"
-        ĉi: 
+        ĉi:
           ekspliko: "Duidt op een allesomvattende verzameling."
           frazo: "Iedere mens houdt van zichzelf."
           vorto: "Iedereen, iedere"
-      vortaro05: 
+      vortaro05:
         al: "aan, naar"
         anonco: "advertentie, aankondiging"
         aĉeti: kopen

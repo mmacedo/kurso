@@ -1,38 +1,38 @@
---- 
-ar: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+ar:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: المساواة
           frazo-1: "الإسبرانتو مفيد كما هو جميل."
           frazo-2: "لا شيء بقيمة الصحة."
           frazo-3: "هي بجمال أمها."
-        malsupereco: 
+        malsupereco:
           ekspliko: التحقير
           frazo-1: "أخي أقل عمرا مني."
           frazo-2: "هو يكتب (بخط) أقل جمال من البنت."
           frazo-3: "الزوج يتحدث بقوة أقل من الزوجة."
-        supereco: 
+        supereco:
           ekspliko: التفضيل
           frazo-1: "الحليب مغذ أكثر من الخمر."
           frazo-2: "يحيى أطول من بطرس."
           frazo-3: "الشمس أكبر من القمر."
         titolo: "اسم التفضيل"
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: "ابن الزوج(ة)"
           bofratino: "أخت الزوج(ة)"
           bopatrino: حماة
           bopatro: ّحم
           ekspliko: "عائلة الزوج"
-        dis: 
+        dis:
           disdoni: "أن يوزع"
           disfali: "أن يتبعثر"
           disflugi: "أن يتطاير"
           dissemi: "أن يبث"
           ekspliko: "التوزع والانتشار"
-        duon: 
+        duon:
           duondio: "نصف إله"
           duonfilino: "بنت زوج(ة)"
           duonhoro: "نصف ساعة"
@@ -40,37 +40,37 @@ ar:
           ekspliko: نصف
           filino: بنت
           horo: ساعة
-        ek: 
+        ek:
           ekbrilo: "أن يبدأ باللمعان"
           ekdormi: "أن يغفو (أن يبدأ بالنوم)"
           ekiri: "أن يبتدأ المشي (أي الطفل)"
           ekpluvi: "أن يبتدأ الجو بالإمطار"
           ekspliko: "بداية أمر ما أو تغير مفاجئ أو سريع"
-        eks: 
+        eks:
           eksedziĝi: "أن يطلق"
           eksfianĉo: "خطيب سابق"
           eksiĝi: "أن يستقيل"
           ekspliko: "عملية أو حال قد انتهت"
           eksprezidanto: "رئيس أسبق"
-        fi: 
+        fi:
           ekspliko: "ذو أخلاق سيئة"
           fidomo: "بيت مشبوه"
           fikomercisto: "غشاش (في التجارة)"
           fivirino: عاهرة
           komercisto: تاجر
-        ge: 
+        ge:
           ekspliko: "مكون من ذكور وإناث"
           geamikoj: "أصدقاء (أصدقاء وصديقات)"
           gefiloj: "أطفال (الأبناء والبنات)"
           gefratoj: "إخوان (إخوان وأخوات)"
           gepatroj: "آباء (الآباء والأمهات)"
-        mal: 
+        mal:
           dekstro: يمين
           ekspliko: ضد
           fermi: "أن يغلق"
           maldekstro: شمال
           malfermi: "أن يفتح"
-        mis: 
+        mis:
           ekspliko: "دم أداء شيء بشكل صحيح"
           kompreni: "أن يفهم"
           miskompreni: "أن يخطأ الفهم"
@@ -78,7 +78,7 @@ ar:
           misuzo: "إساءة استعمال"
           paŝo: خطوة
           uzo: استخدام
-        pra: 
+        pra:
           ekspliko: "بعيد في الزمن أو درجة الصلة"
           historio: تاريخ
           nepo: حفيد
@@ -86,21 +86,21 @@ ar:
           prahistorio: "ما قبل التاريخ"
           prahomo: "رجل البدائي"
           pranepo: "ابن حفيد"
-        re: 
+        re:
           ekspliko: تكرار
           reaperi: "أن يعاود الظهور"
           refari: "أن يعيد"
           reteni: "أن يحتفظ"
           reveni: "أن يعود"
         titolo: السوابق
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "طالة شيء ما أو تكراره بشكل منتظم"
           parolado: محادثة
           paroli: "أن يتحدث"
           rigardadi: "أن يتأمل طويلا"
           rigardi: "أن يشاهد"
-        an: 
+        an:
           brazilano: برازيلي
           ekspliko: "فرد من طائفة أو حزب أو دين ، فرد من بلد معين"
           eŭropano: أوروبي
@@ -108,25 +108,25 @@ ar:
           kristano: مسيحي
           kristo: مسيح
           usonano: "ساكن بالولايات المتحدة"
-        ar: 
+        ar:
           ekspliko: "مجموعة من أشياء من نفس الجنس مرتبة مع بعضها البعض"
           vortaro: "مفردات أو قاموس"
           vorto: كلمة
           ŝafaro: "قطيع (خرفان)"
           ŝafo: خروف
-        aĉ: 
+        aĉ:
           domaĉo: "حارة فقيرة"
           domo: بيت
           ekspliko: "غير راق"
           skribaĉi: "أن يرسم الغرافيتي"
           skribi: "أن يكتب"
-        aĵ: 
+        aĵ:
           dolĉa: حلو
           dolĉaĵo: حلوى
           ekspliko: "تجسيد لصفة ما"
           pentraĝo: لوحة
           pentri: طلاء
-        ebl: 
+        ebl:
           ekspliko: "ممكن أو مقدور"
           kredebla: "ممكن الحدوث"
           kredi: "أن يصدق"
@@ -134,19 +134,19 @@ ar:
           legi: "أن يقرأ"
           videbla: ظاهر
           vidi: "أن يرى"
-        ec: 
+        ec:
           amikeco: صداقة
           amiko: صديق
           ekspliko: "فكرة بحتة"
           mola: ليّن
           moleco: ليونة
-        eg: 
+        eg:
           ekspliko: "كبير أو مبالغة"
           ridegi: "أن يقهقه"
           ridi: "أن يضحك"
           ventego: عاصفة
           vento: ريح
-        ej: 
+        ej:
           ekspliko: "كان يقام فيه بفعل ما أو يوضع فيه شيء ما"
           oficejo: مكتب
           ofico: "وظيفة أو دور"
@@ -154,26 +154,26 @@ ar:
           preĝi: "أن يصلي"
           ĉevalejo: إسطبل
           ĉevalo: حصان
-        em: 
+        em:
           babilema: شجاع
           babili: "أن يشجُع"
           ekspliko: "رغبة ، سواء كانت إرادية أو لا إرادية ، أو ميل لفعل شيء ما"
           ŝparema: مقتصد
           ŝpari: "قصْد (أي الإقلال من الإسراف)"
-        end: 
+        end:
           ekspliko: "شيء يجب فعل شيء فيه"
           farenda: "يجب فعله"
           fari: "أن يفعل"
           legenda: "يجب قراءته"
           legi: "أن يقرأ"
         titolo: نهايات
-        ĉj: 
+        ĉj:
           ekspliko: "تصغير لأسماء الذكور (يمكن قصر الجذر أو التصرف فيه)"
           jozefo: يوسف
           joĉjo: صوفا
           patro: أب
           paĉjo: بابا
-      superlativo: 
+      superlativo:
         ekspliko-1: "عندما يتصف شيء ما بصفة ما أكثر من كل نوعه ، استخدم صيغة المبالغة :"
         ekspliko-2: "عندما يقتصر الأمر على عنصرين (شخصين ، شيئين ، إلخ.) يستعمَل \"pli\" أو \"malpli\" ، كما يستعمالان عند الاقتصار على مجموعتين."
         frazo-1: "من كل أولادي ، إرنست هو الأصغر."

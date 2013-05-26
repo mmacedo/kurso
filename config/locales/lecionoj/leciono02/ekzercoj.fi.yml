@@ -1,10 +1,10 @@
---- 
-fi: 
-  lecionoj: 
-    leciono02: 
-      pagxo10: 
+---
+fi:
+  lecionoj:
+    leciono02:
+      pagxo10:
         ekzpliko: "Täydennä valkoiset tilat. Muista laittaa monikon ja akkusatiivin päätteet tarvittaessa. Kun lause on valmis, napsauta allaolevaa painiketta tai paina Enter. Yritä saada vähintään 70% oikein."
-      pagxo11: 
+      pagxo11:
         frazo01: "1. Terve poika juo lämmintä maitoa."
         frazo02: "2. Vanha myymälä ei myy kuivia kakkuja."
         frazo03: "3. Opettaja tapasi uudet ystävät."

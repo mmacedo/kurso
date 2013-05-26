@@ -1,8 +1,8 @@
---- 
-da: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+da:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "En anden nyttig endelse er \"n\"  som  gør det muligt at genkende genstandsledet (det direkte objekt) i en sætning.  Genstandsfald kaldes også akkusativ. Endelsen benyttes i  navneord, tillægsord og stedord."
         ekspliko-2: "Bemærk at flertalsendelsen placeres før akkusativ-endelsen. Genstandsleddet kan stå i begyndelsen, i midten eller i slutningen af sætningen. Genstandsleddets placering i sætningen  påvirker ikke meningen fordi genstandsleddet genkendes via akkusativ-endelsen.  Her er tre sætninger som har samme mening:"
         frazo-plurala: "Jeg vasker de nye kopper"
@@ -10,41 +10,41 @@ da:
         rimarkigo-1: "I virkeligheden kan den valgte rækkefølge af ordene benyttes til at nuancere en sætning. Dette behandler vi senere i kurset."
         rimarkigo-2: "Efter udsagnsordet \"esti\" (at være)  benyttes ikke akkusativ (n-form) . Omsagnsled til grundled står nemlig i nævnefald (nominativ)."
         titolo: "Akkusativ (n-form)"
-      muziko01: 
+      muziko01:
         ekspliko: "Lad os nu høre sangen \"Jen\",  af den argentinske gruppe \"La Porkoj\",  premieret  ved Verdens-esperantoforeningens konkurrence for kunst. Gruppen består af Alejandro Cossavella (stemme), Pablo Ciancio (trommer), Ignacio Mendizabal (guitar) og Salvador Agustoni (basguitar). Tryk på knappen for at afspille sangen."
         titolo: "Musik på esperanto"
-      neado: 
+      neado:
         ekspliko: "Sætninger gøres nægtende ved at sætte ordet \"ne\" foran verbet."
-        frazoj: 
+        frazoj:
           frazo-1: "Jeg vil ikke vaske den nye kop."
           frazo-2: "Han er ikke min bror."
           frazo-3: "Hun er ikke min mor."
           frazo-4: "Kagerne var ikke varme."
         titolo: Nægtelse
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "Forstavelsen \"mal\" betegner det modsatte."
-        kun: 
+        kun:
           malamiko: "en fjende"
           malavara: gavmild
           malbela: grim
           maljuna: gammel
           malnova: gammel
-        sin: 
+        sin:
           amiko: "en ven"
           avara: nærig
           bela: smuk
           juna: juna
           nova: ny
         titolo: "Forstavelsen (præfikset) \"mal\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "I den første lektion så vi at tillægsordene på esperanto står i ental eller flertal i overensstemmelse med navneordene . Der sker ingen bøjning af tillægsordet på grund af køn (han eller hun)."
         ekspliko-2: "Navneord som beskriver kønnede væsener, kan identificere kønnet  idet de ender på  \"ino\" for hunkønsvæsener."
-        frazoj: 
+        frazoj:
           frazo-amikino: "den smukke veninde"
           frazo-patrino: "den gode mor"
           frazo-virino: "de store kvinder"
         titolo: "Endelsen -ino"
-        vortoj: 
+        vortoj:
           amikino: "en veninde"
           amiko: "en ven"
           filino: "en datter"
@@ -53,7 +53,7 @@ da:
           patro: "en far"
           virino: "en kvinde"
           viro: "en mand"
-      vortaro02: 
+      vortaro02:
         akvo: vand
         ami: "at elske"
         amo: kærlighed

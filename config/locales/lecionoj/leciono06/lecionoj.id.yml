@@ -1,119 +1,119 @@
---- 
-id: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+id:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Sekarang kita akan mulai belajar kata-korelasi yang lain.  Jangan lupa bahwa sistem kata-korelasi ditutup, yaitu, tidak bisa membuat kata-korelasi selain daripada itu yang sekarang ditunjukkan."
         titolo: Kata-Korelasi
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Menunjukkan kualitas, macam.  (Bisa menerima akhiran \"j\" dan \"n\".)"
-        i: 
+        i:
           frazo: "Apakah anda meragukan suatu cara tentang tatabahasa Esperanto?"
           vorto: "Suatu cara"
-        ki: 
+        ki:
           frazo: "Bagaimana hari anda?  - Hari saya baik sekali, terima kasih.  (sudah)"
           vorto: "Semacam apa"
-        neni: 
+        neni:
           frazo: "Tidak,  tidak ada cara keragu-raguan yang saya punya tentangnya."
           vorto: "Tidak ada cara"
-        ti: 
+        ti:
           frazo: "Saya tidak akan makan roti seperti itu."
           vorto: "Seperti itu"
-        ĉi: 
+        ĉi:
           frazo: "Semua cara tolong adalah menggembirakan."
           vorto: "Semua cara"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Sebab,  alasan"
-        i: 
+        i:
           frazo: "Karena sesuatu sebab, saya masih tidak mengenal anda."
           vorto: "Sesuatu sebab"
-        ki: 
+        ki:
           frazo: "Mengapa anak itu berlari? - Karena dia senang sekali."
           vorto: "Mengapa,   kenapa"
-        neni: 
+        neni:
           frazo: "Anda dapat  memacu dia sebanyak yang anda ingin.  Tak ada alasan dapat memarahkannya."
           vorto: "Tak ada alasan"
-        ti: 
+        ti:
           frazo: "Dia begitu cantik.  Oleh karena itu, saya cintanya."
           vorto: "Karena itu"
-        ĉi: 
+        ĉi:
           frazo: "Anda menanya mengapa saya cinta anda.  Saya menjawab: karena segala sebab!"
           vorto: "Dengan segala sebab"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Cara
-        i: 
+        i:
           ekspliko: "Menunjukkan sesuatu yang tidak tentu."
           frazo: "Bagaimanapun dia (perempuan) mengingatkan aku kepada seorang yang lain."
           vorto: "Dengan satu cara, bagaimanapun"
-        ki: 
+        ki:
           ekspliko: "Menunjukkan pertanyaan;  menunjukkan hubungan dengan anak kalimat yang lebih dulu."
           frazo: "Apa kabar?   -  Kabar baik, terima kasih!"
           vorto: Bagaimana
-        neni: 
+        neni:
           ekspliko: "Menunjukkan arti negatip."
           frazo: "Tak ada cara saya dapat mengerti apa yang anda mengatakan."
           vorto: "Tak ada cara"
-        ti: 
+        ti:
           ekspliko: "Dipakai untuk menunjukkan."
           frazo: "Dia (perempuan) menulis sama baiknya dengan gurunya."
           vorto: "Cara itu,  seperti itu"
-        ĉi: 
+        ĉi:
           ekspliko: "Menunjukkan pengumpulan."
           frazo: "Dengan cara apapun mereka menolong saya. (lebih dulu)"
           vorto: "Dengan cara apapun"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Menunjukkan milik, kepunyaan."
-        i: 
+        i:
           frazo: "Saya mendapat  buku yang punya siapapun."
           vorto: "Punya siapapun"
-        ki: 
+        ki:
           frazo: "Buku itu kepunyaan siapa? - Buku itu Buku John."
           vorto: "Siapa (punya)"
-        neni: 
+        neni:
           frazo: "Bahasa Esperanto bukan punya siapa-siapa."
           vorto: "Bukan punya siapa-siapa"
-        ti: 
+        ti:
           frazo: "Kucing itu berlari di atas rumah dan merusakkan atap rumah itu. (yg lalu)"
           vorto: Kepunyaan
-        ĉi: 
+        ĉi:
           frazo: "Bahasa Esperanto bahasa yang kepunyaan setiap orang"
           vorto: "Kepunyaan setiap orang"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Menunjukkan banyaknya."
-        i: 
+        i:
           frazo: "Saya harus membeli sedikit kopi."
           vorto: "Beberapa,  sementara,  suatu,  sedikit"
-        ki: 
+        ki:
           frazo: "Berapa dua tambah dua? - Empat!"
           vorto: Berapa
-        neni: 
+        neni:
           frazo: "Berapa anak bermain-main dalam rumah itu?  Tak seorang pun dari anak-anak."
           vorto: "Tidak ada apa"
-        ti: 
+        ti:
           frazo: "Dia makan sepuas-puasnya. (yg lalu)"
           vorto: "Berapa, banyak, sedikit, begitu, sekali, sangat"
-        ĉi: 
+        ĉi:
           frazo: |
               Berapa minyak bensin saudara ingin?  Saya ingin seluruhnya yang ada.
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               Berapa minyak bensin saudara ingin? - Saya ingin semuanya anda punya.
           vorto: "Semuanya,  jumlah,  seluruh"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Kata yang mulai dengan \"Ki\" juga bisa memperkenalkan kalimat yang tidak ada pertanyaan.  Kata ini dikenal \"kata relatip\" karena kata itu menunjukkan hubungan diantara induk kalimat  dan anak kedua kalimat."
         ekspliko-2: "Dalam kalimat yang di atas, kata \"kiun\" berhubungan dengan kata \"tiu frukto\"."
         frazo-1: "Saya suka buah itu, yang anda tunjukkan. (dulu)"

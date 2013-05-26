@@ -1,57 +1,57 @@
---- 
-ko: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+ko:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "전체를 구성하는 요소 중의 하나, 일부분"
           monero: 동전
           mono: "돈, 화폐"
           salero: "소금(낱 개)"
           salo: 소금
-        estr: 
+        estr:
           ekspliko: "대표, ..장(실제 조직을 움직일 수 있음)"
           urbestro: "도시의 장, 즉 시장"
           urbo: 도시
           ŝipestro: ŝipestro선장
           ŝipo: ŝipo배
-        et: 
+        et:
           ekspliko: "(-et)작거나, 약함"
           pupeto: "소인형, 작은 인형"
           pupo: 인형
           rideti: "살짝 웃다"
           ridi: 웃다
-        id: 
+        id:
           ekspliko: "(-id) 자식, 새끼, 아이, 아들"
           katido: 새끼고양이
           kato: 고양이
           reĝido: 왕자(reĝido)
           reĝo: 왕(reĝo)
-        ig: 
+        ig:
           ekspliko: "(-ig) 하게 하다, 시키다(사역)"
           morti: 죽다
           mortigi: "죽게 하다. 죽이다"
           pura: "깨끗하다, 깨끗한"
           purigi: "깨끗하게 하다. 깨끗하게 시키다rigi"
-        il: 
+        il:
           ekspliko: "어떤 행위를 효과적으로 하기 위한 도구 나 기구."
           muzikilo: 악기
           muziko: 음악
           ŝlosi: "ŝlosi 자물쇠를 잠그다"
           ŝlosilo: "ŝlosilo 열쇠"
-        in: 
+        in:
           ekspliko: "여성을 나타냄"
           kokino: 암탉
           koko: 닭(수탉)
           onklino: "숙모, 아주머니"
           onklo: "삼촌, 아저씨"
-        ind: 
+        ind:
           admiri: 존경하다
           admirinda: "존경할만한, 존경할만한 가치가 있는"
           ekspliko: "...할만한 가치가 있는"
           laŭdi: laŭdi칭찬하다
           laŭdinda: "laŭdinda칭찬할 만한"
-        ist: 
+        ist:
           ekspliko: "직업인, 어떤 습관적인 일에 몰두하는사람"
           esperantisto: 에스페란티스토
           esperanto: 에스페란토
@@ -61,7 +61,7 @@ ko:
           raportisto: "보고자, 기자"
           tajpi: 타자치다
           tajpisto: 타자수
-        iĝ: 
+        iĝ:
           ekspliko: "(-iĝ fariĝi (외부의 활동자없이)자동사화 접미사....이 되다.되어지다."
           fari: "만들다, 하다"
           fariĝi: fariĝi되다
@@ -69,39 +69,39 @@ ko:
           mateno: 아침
           ruĝa: "ruĝa붉다, 붉은"
           ruĝiĝi: "ruĝiĝi붉게 되다.붉어지다."
-        nj: 
+        nj:
           Maria: 마리아(인명)
           ekspliko: "여자에 대한 애칭 (어근의 일부로서 또 아름다운 소리를 가지면서)"
           manjo: "마뇨(마리아의 애칭)"
           panjo: 엄마
           patrino: 어머니
-        obl: 
+        obl:
           du: "둘, 2"
           duobla: "두 배다, 두 배의"
           ekspliko: "(-obl)배수를 나타냄"
           tri: "삼,3"
           trioblo: "세배,3배"
         ? "on"
-        : 
+        :
           dek: 십
           dekono: "10분의 1"
           ekspliko: "(-on)분수를 나타냄"
           kvar: "사, 넷, 4"
           kvarono: "4분의 1"
-        op: 
+        op:
           du: "이,2"
           duopo: "둘이 무리가 되어,둘이서"
           ekspliko: "...이 무리가 되어 Laŭ grupoj de"
           ses: "육,6"
           sesopo: "여섯이 무리가 되어"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "이 접미사의 의미 1, 의미2 사이에 혼돈이 올 때는, 동의어를 대신 사용하세요. 예:"
           germanio: 독일
           pomarbo: 사과나무
           pomkesto: 사과상자
           ruslando: 러시아
         titolo: 접두사
-        uj: 
+        uj:
           ekspliko: "다른 물건을 담는 그릇; 열매를 가지는 나무; 국민을 가진 나라"
           franco: 프랑스인
           francujo: 프랑스(국명)
@@ -109,7 +109,7 @@ ko:
           monujo: "지갑,돈주머니"
           pomo: 사과
           pomujo: 사과나무
-        ul: 
+        ul:
           ekspliko: "어근을 특징짓는 사람"
           kontraŭ: kontraŭ정반대의
           kontraŭulo: "kontraŭulo반대자, 적수"
@@ -119,17 +119,17 @@ ko:
           sanktulo: "성인, 신성한 인물"
           stulta: "바보스런, 멍청한"
           stultulo: "바보,멍청이"
-        um: 
+        um:
           ekspliko: "한정된 의미가 없는 접미사, 다양한 의미를 가진 접미사."
           kolo: 목
           kolumo: "칼라(목 둘레를 나타냄)"
           plena: "충분한, 완전한"
           plenumi: "(...)을 완수,완성하다"
-      vortordo: 
+      vortordo:
         dialogo: |-
             -당신을 보고 있어요, 오, 보물 같은 존재, 난 당신을 사랑하게 되었어요!
             -난 당신을 믿어요, 하지만 황금은 지갑 속에 넣어 둬요!
-            
+
             -당신을 사랑해요, 하지만, 그대여, 난 그런 당신을 믿지 못했어요.
             -당신이 나를 사랑하려면, 그대는나를 여왕처럼 만들어야 해요.
         ekspliko-1: |-

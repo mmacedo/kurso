@@ -1,8 +1,8 @@
---- 
-pl: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+pl:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Oprócz formy uczonej w lekcji 2, są inne sposoby pytań w Esperanto."
         frazo-1: "Czy to pudełko jest niebieskie?"
         frazo-2: "Czy ty pójdziesz do kina?"
@@ -11,7 +11,7 @@ pl:
         frazo-5: "To pudełko nie jest niebieskie, czy?"
         frazo-6: "Ty nie pójdziesz do kina,czy?"
         titolo: "Inne formy pytające"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Są wyrażenia w Esperanto, które używają pary wyrazów i których znaczenia warto poznać:"
         jen: "Pokazuje naprzemienność.."
         jen-frazo-1: "Chłopiec to płakał, to śmiał się."
@@ -29,11 +29,11 @@ pl:
         ĉu: "Pokazuje możliwości, między którymi wybór jest obojętny, równy, wolny, niepewny."
         ĉu-frazo-1: "Czy  z powodu strachu, czy dumy, on nic nie odpowiedział."
         ĉu-frazo-2: "Czy będzie padać, czy świecić słońce, ja jednak pójdę."
-      horoj: 
+      horoj:
         je-kioma: "O której godzinie ty będziesz telefonował?"
         kioma-estas: "Która jest godzina?"
         titolo: Godziny
-      interjekcioj: 
+      interjekcioj:
         bis: "jeszcze raz!"
         fi: fe!
         ha-1: och!
@@ -45,7 +45,7 @@ pl:
         titolo: Wykrzykniki
         ve: biada!
         ve-al-mi: "biada mi!"
-      mallongiloj: 
+      mallongiloj:
         bv: "badź uprzejmy"
         e-isto: esperantysta
         e-o: Esperanto
@@ -57,7 +57,7 @@ pl:
         str: ulica
         te: "to jest   t.j."
         titolo: Skróty
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "-kolwiek  ( z przesadą pokazuje nieokreśloność, lub obojętność)"
         almenaŭ: przynajmniej
         ambaŭ: obaj

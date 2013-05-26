@@ -1,38 +1,38 @@
---- 
-es: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+es:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "De igualdad:"
           frazo-1: "El Esperanto es tan bello como útil."
           frazo-2: "Nada es tan valioso como la salud."
           frazo-3: "Ella es tan bella como la madre."
-        malsupereco: 
+        malsupereco:
           ekspliko: "De inferioridad:"
           frazo-1: "Mi hermano es menor que yo."
           frazo-2: "El escribe menos bellamente que la chama."
           frazo-3: "El esposo habla menos fuertemente que la esposa."
-        supereco: 
+        supereco:
           ekspliko: "De superioridad:"
           frazo-1: "La leche es más nutritiva que el vino."
           frazo-2: "Juan es más alto que Pedro."
           frazo-3: "El sol es más grande que la luna."
         titolo: Comparación
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: yerno
           bofratino: cuñada
           bopatrino: suegra
           bopatro: suegro
           ekspliko: "(bo-) familiaridad por matrimonio"
-        dis: 
+        dis:
           disdoni: repartir
           disfali: colapsar
           disflugi: "separar volando"
           dissemi: diseminar
           ekspliko: "(dis-) separación, disgregación"
-        duon: 
+        duon:
           duondio: semidiós
           duonfilino: hijastra
           duonhoro: "media hora"
@@ -40,37 +40,37 @@ es:
           ekspliko: "(duon-) a medias"
           filino: hija
           horo: hora
-        ek: 
+        ek:
           ekbrilo: resplandor
           ekdormi: dormirse
           ekiri: "arrancar (iniciar viaje)"
           ekpluvi: "comezar a llover"
           ekspliko: "(ek-) acción que comienza, súbita o momentánea"
-        eks: 
+        eks:
           eksedziĝi: divorciarse
           eksfianĉo: ex-novio
           eksiĝi: retirarse
           ekspliko: "(eks-) indica una acción o estado que ya no existe."
           eksprezidanto: ex-presidente
-        fi: 
+        fi:
           ekspliko: "(fi-) malo desde el punto de vista moral"
           fidomo: "casa de mala muerte"
           fikomercisto: "comerciante de mala fama"
           fivirino: mujerzuela
           komercisto: comerciante
-        ge: 
+        ge:
           ekspliko: "(ge-) conjunto de ambos sexos (puede ser una pareja o grupo)"
           geamikoj: amigos
           gefiloj: hijos
           gefratoj: hermanos
           gepatroj: padres
-        mal: 
+        mal:
           dekstro: derecha
           ekspliko: "(mal-) lo opuesto, contrario"
           fermi: cerrar
           maldekstro: izquierda
           malfermi: abrir
-        mis: 
+        mis:
           ekspliko: "(mis-) equivocado, incorrecto, malo, no conveniente."
           kompreni: entender
           miskompreni: malentender
@@ -78,7 +78,7 @@ es:
           misuzo: "mal uso"
           paŝo: paso
           uzo: uso
-        pra: 
+        pra:
           ekspliko: "(pra-) muy lejano en el tiempo"
           historio: historia
           nepo: nieto
@@ -86,21 +86,21 @@ es:
           prahistorio: "historia antigua"
           prahomo: "hombre primitivo"
           pranepo: biznieto
-        re: 
+        re:
           ekspliko: "(re-) repetición"
           reaperi: reaparecer
           refari: rehacer
           reteni: retener
           reveni: regresar
         titolo: Prefijos
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "(-ad) acción duradera"
           parolado: conversación
           paroli: hablar
           rigardadi: observar
           rigardi: mirar
-        an: 
+        an:
           brazilano: brasileño
           ekspliko: "(-an) miembro de un grupo, partido, religión; habitante de un país o región"
           eŭropano: europeo
@@ -108,25 +108,25 @@ es:
           kristano: cristiano
           kristo: Cristo
           usonano: estadounidense
-        ar: 
+        ar:
           ekspliko: "(-ar) conjunto, colectivo"
           vortaro: diccionario
           vorto: palabra
           ŝafaro: "manada de ovejas"
           ŝafo: carnero
-        aĉ: 
+        aĉ:
           domaĉo: casucha
           domo: casa
           ekspliko: "(-aĉ) malo desde el punto de vista material o estético"
           skribaĉi: garabatear
           skribi: escribir
-        aĵ: 
+        aĵ:
           dolĉa: dulce
           dolĉaĵo: "un dulce, algo dulce"
           ekspliko: "(-aĵ) Manifestación concreta de la idea en la raíz."
           pentraĝo: pintura
           pentri: pintar
-        ebl: 
+        ebl:
           ekspliko: "(-ebl) posibilidad pasiva"
           kredebla: creíble
           kredi: creer
@@ -134,19 +134,19 @@ es:
           legi: leer
           videbla: visible
           vidi: ver
-        ec: 
+        ec:
           amikeco: amistad
           amiko: amigo
           ekspliko: "(-ec) estado o cualidad abstracta que corresponde a la idea de la raíz"
           mola: "blanda, suave"
           moleco: suavidad
-        eg: 
+        eg:
           ekspliko: "(-eg) grande"
           ridegi: "reír a carcajadas"
           ridi: reír
           ventego: huracán
           vento: viento
-        ej: 
+        ej:
           ekspliko: "(-ej) lugar de la acción o destinado a los seres caracterizados por la raíz."
           oficejo: "edificio de oficinas"
           ofico: oficina
@@ -154,26 +154,26 @@ es:
           preĝi: rezar
           ĉevalejo: caballeriza
           ĉevalo: caballo
-        em: 
+        em:
           babilema: conversador
           babili: conversar
           ekspliko: "(-em) tendencia o inclinación a"
           ŝparema: ahorrativo
           ŝpari: ahorrar
-        end: 
+        end:
           ekspliko: "(-end) deber pasivo"
           farenda: "que debe hacerse"
           fari: hacer
           legenda: "de lectura obligada"
           legi: leer
         titolo: Sufijos
-        ĉj: 
+        ĉj:
           ekspliko: "(-cĵ) sufijo cariñoso para hombres (con parte de la raíz y conservando sonido armónico)"
           jozefo: José
           joĉjo: Cheo
           patro: padre
           paĉjo: papá
-      superlativo: 
+      superlativo:
         ekspliko-1: "Superlativo es cuando uno de los individuos presente una cualidad en un grado más o menos alto que los demás."
         ekspliko-2: "Cuando hay sólo dos individuos (personas, cosas, etc.), se usa PLI o MALPLI. Lo mismo sucede cuando se trata de dos grupos:"
         frazo-1: "De todos mis niños, Ernesto es el más joven."

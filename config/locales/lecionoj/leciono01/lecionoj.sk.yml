@@ -1,19 +1,19 @@
---- 
-sk: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+sk:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: Pekná
         ekspliko: "Zakončené písmenom \"a\""
         sana: Zdravý
         titolo: "Prídavné mená"
         varma: Teplý
-      alfabeto: 
+      alfabeto:
         ekspliko: "V esperante sa slová píšu presne podľa výslovnosti a vyslovujú sa presne podľa zvuku každého napísaného písmena (Píš ako počuješ). Dôraz sa kladie vždy na predposlednú slabiku. Kliknite na tlačidlá pre vypočutie si výslovnosti a nahlas opakujte."
         titolo: "Abeceda esperanta"
-      artikolo: 
+      artikolo:
         ekspliko: "Neurčitý člen v esperante neexistuje. Existuje iba určitý člen \"la\", používaný pre všetky rody, pády a čísla."
-        frazoj: 
+        frazoj:
           frazo-1: "Tvoji synovia sú našimi priateľmi."
           frazo-2: "Ten chlieb je suchý."
           frazo-3: "Teplé mlieko je dobré."
@@ -22,7 +22,7 @@ sk:
           frazo-6: "Otec je dobrý."
           titolo: Vety
         titolo: Člen
-        vortoj: 
+        vortoj:
           floroj: Kvety
           knabo: Chlapec
           la-floroj: "(tie) kvety"
@@ -31,33 +31,33 @@ sk:
           la-patroj: "(tí) otcovia"
           pano: Chlieb
           patroj: Otcovia
-      nomoj: 
+      nomoj:
         amiko: Priateľ
         ekspliko: "Zakončené písmenom \"o\""
         frato: Brat
         kafo: Mačka
         titolo: "Podstatné mená"
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Ony, Oni"
           ni: My
           titolo: "Množné číslo"
           vi: Vy
-        singularo: 
+        singularo:
           li: "On"
           mi: Ja
           titolo: "Jednotné číslo"
           vi: Ty
           ĝi: "Ono (niečo alebo niekto, ktorého pohlavie nie je nutné upresniť)"
           ŝi: Ona
-        specialaj: 
+        specialaj:
           oni: "Oni - nedefinované osobné zámeno, ktoré znamená \"ľudia; človek; \"sa\" \", používané keď nechceme alebo sa nedá upresniť podmet. (človek nemôže, nedá sa, zdá sa...)"
           si: "Si - zvratné zámeno tretej osoby - li, ŝi, ĝi, ili, oni - používa sa iba ak prislúcha podmetu v 3. os.!"
           titolo: Špeciálne
         titolo: "Osobné zámená"
-      pluralo: 
+      pluralo:
         ekspliko: "Množné číslo sa tvorí pripojením písmena \"j\" ku koncu podstatných a prídavných mien"
-        pluralo: 
+        pluralo:
           amikoj: priatelia
           belaj: pekné
           belaj-floroj: "pekné kvety"
@@ -66,7 +66,7 @@ sk:
           patroj: otcovia
           sanaj: zdraví
           sanaj-patroj: "zdraví otcovia"
-        singularo: 
+        singularo:
           amiko: priateľ
           bela: pekná
           bela-floro: "pekný kvet"
@@ -76,9 +76,9 @@ sk:
           sana: zdravý
           sana-patro: "zdravý otec"
         titolo: "Množné číslo"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Privlastňovacie zámená sa tvoria pripojením prívlastkovej koncovky \"a\" k osobným zámenám"
-        posedaj: 
+        posedaj:
           ilia: ich
           lia: jeho
           mia: môj
@@ -86,27 +86,27 @@ sk:
           via: tvoj
           ĝia: jeho
           ŝia: jej
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Taktiež privlastňovacie zámená dostávajú koncovku \"j\" pri množnom čísle"
           mia-amiko: "Môj priateľ"
           miaj-amikoj: "Moji priatelia"
           nia-floro: "Náš kvet"
           niaj-floroj: "Naše kvety"
         titolo: "Privlastňovacie zámená"
-      verboj: 
+      verboj:
         ekspliko: "Infinitív má koncovku -i : esti (byť). Minulí čas končí na -is : estis (bol). Prítomný čas končí na -as a budúci sa tvorí pomocou koncovky -os. Inými slvoesnými časmi sa budeme zaoberať v ďalších lekciách."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Oni/ony sú"
           ni-estas: "My sme"
           oni-estos: Bude
           vi-estis: "Vy ste"
-        singularo: 
+        singularo:
           li-estis: "On je"
           mi-estas: "Ja som"
           ĝi-estos: "Ono je"
           ŝi-estas: "Ona je"
         titolo: Slovesá
-      vortaro01: 
+      vortaro01:
         amiko: priateľ
         bela: pekná
         biskvito: keks

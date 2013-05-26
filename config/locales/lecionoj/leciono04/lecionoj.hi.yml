@@ -1,24 +1,24 @@
---- 
-hi: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+hi:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "दिन कहने के लिए इस तरह उपयोग कीजिये. दिन और महीने दुसरे बाषा से लिया गया हैं और आप इसको जल्दी समझ पाएंगे."
         titolo: दिनांक
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "रोटी सूखा हैं."
           titolo: "दृढ़-वचन:"
-        demando: 
+        demando:
           frazo-1: "क्या रोटी सूखा हैं?"
           titolo: "प्रश्न:"
         ekspliko: "हम जब प्रश्न बनाते हैं हमे बस \"ĉu\" को उपयोग करना हैं. वाख्य का अर्थ कभी नहीं बदलता पर जब हम \"ĉu\" इस शब्द का उपयोग करते हैं तब इसका उत्तार \"Jes\" और \"Ne\" मैं हो सकता हैं."
-        respondo: 
+        respondo:
           frazo-negativa: "नहीं, रोटी सूखा नहीं हैं."
           frazo-pozitiva: "हाँ, रोटी सूखा हैं."
           titolo: "जवाब:"
         titolo: "वाख्य प्रश्न"
-      monatoj: 
+      monatoj:
         aprilo: अप्रेल
         aŭgusto: अगस्त
         decembro: दिसम्बर
@@ -32,7 +32,7 @@ hi:
         oktobro: अक्टूबर
         septembro: सितम्बर
         titolo: "साल के महीने"
-      salutoj: 
+      salutoj:
         saluto-1: नमस्ते!
         saluto-10: "अच्छे खाईये!"
         saluto-11: "आपको भी, धन्यवाद!"
@@ -48,12 +48,12 @@ hi:
         saluto-8: "बहुत अच्छे हैं."
         saluto-9: "उतना अच्छे नहीं हैं."
         titolo: नमस्ते
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: कल
           hodiaŭ: आज
           morgaŭ: कल
-        semajno: 
+        semajno:
           dimanĉo: रविवार
           lundo: सोमवार
           mardo: मंगलवार
@@ -62,11 +62,11 @@ hi:
           vendredo: शुक्रवार
           ĵaŭdo: गुरूवार
         titolo: "हफ्ते के दिन"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: |-
             निचे दिए गए शब्दों पड़ने की कोशिश कीजिये, इसे एस्पेरान्तो पड़ने वाला लिखा हैं, और पड़ते पड़ते
             शब्दकोश के उपयोग से समझने की कोशिश कीजिये.
-        vortaro: 
+        vortaro:
           alia: अन्य
           antaŭ: "के सामने"
           facila: आसान
@@ -74,7 +74,7 @@ hi:
           komenci: "जारी करना"
           lerni: "ज्ञान प्राप्त करना"
           tre: बहूत
-      vortaro04: 
+      vortaro04:
         infano: बच्चा
         kaj: और
         kolekti: "जमा होना"

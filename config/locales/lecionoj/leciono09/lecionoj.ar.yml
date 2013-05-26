@@ -1,57 +1,57 @@
---- 
-ar: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+ar:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "جزء من كل ، جزء الأساسي"
           monero: "عملة معدنية أو ورقية"
           mono: مال
           salero: "حبة ملح"
           salo: ملح
-        estr: 
+        estr:
           ekspliko: "شخص مشْرِف ، أو حاكم"
           urbestro: عُمدة
           urbo: مدينة
           ŝipestro: كابتن
           ŝipo: "مركبة أو سفينة"
-        et: 
+        et:
           ekspliko: "إضعاف للمعنى : تصغير"
           pupeto: "دُميّة (دمية صغيرة)"
           pupo: دمية
           rideti: "أن يبتسم"
           ridi: "أن يضحك"
-        id: 
+        id:
           ekspliko: "نسل ، ولد ، صغير حيوان"
           katido: هريرة
           kato: هرة
           reĝido: أمير
           reĝo: ملك
-        ig: 
+        ig:
           ekspliko: "تعدية : جعل المفعول به فاعلا"
           morti: "أن يموت"
           mortigi: "أن يقتل"
           pura: نظيف
           purigi: "أن ينظّف"
-        il: 
+        il:
           ekspliko: أداة
           muzikilo: "أداة موسيقية"
           muziko: موسيقى
           ŝlosi: "أن يقفل"
           ŝlosilo: مفتاح
-        in: 
+        in:
           ekspliko: مؤنث
           kokino: دجاجة
           koko: ديك
           onklino: عمة
           onklo: عم
-        ind: 
+        ind:
           admiri: "أن يحب"
           admirinda: "مثير للإعجاب"
           ekspliko: مستحق
           laŭdi: "أن يمدح"
           laŭdinda: "جدير بالثناء"
-        ist: 
+        ist:
           ekspliko: "ممارس كمهنا أو مؤمن"
           esperantisto: "إسبراتي (متحدث إسبرانتو)"
           esperanto: إسبرانتو
@@ -61,7 +61,7 @@ ar:
           raportisto: صحفي
           tajpi: "أن يرقن (يكتب باستخدام لوحة المفاتيح)"
           tajpisto: "ناسخ (موظف)"
-        iĝ: 
+        iĝ:
           ekspliko: صير
           fari: "أن يفعل"
           fariĝi: "أن يحدث"
@@ -69,39 +69,39 @@ ar:
           mateno: صباح
           ruĝa: أحمر
           ruĝiĝi: "أن يحمر"
-        nj: 
+        nj:
           Maria: مريم
           ekspliko: "تصغير لأسماء الإناث (يمكن قصر الجذر أو التصرف فيه)"
           manjo: ميرو
           panjo: ماما
           patrino: أم
-        obl: 
+        obl:
           du: اثنان
           duobla: ضِعف
           ekspliko: ضِعف
           tri: ثلاثة
           trioblo: "ثلاثة أضعاف"
         ? "on"
-        : 
+        :
           dek: عشرة
           dekono: عُشر
           ekspliko: كسر
           kvar: أربعة
           kvarono: ربع
-        op: 
+        op:
           du: اثنان
           duopo: ثنائي
           ekspliko: "مجموعة مكونة من عدد معين من الأعضاء"
           ses: ستة
           sesopo: سداسي
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "عند اشتباه معنى النهاية ، يجب أن تستعمل أحد مرادفات الكلمة :"
           germanio: ألمانيا
           pomarbo: "شجرة تفاح"
           pomkesto: "صندوق تفاح"
           ruslando: روسيا
         titolo: "نهايات مهمة"
-        uj: 
+        uj:
           ekspliko: "حاوِ ، كالشجرة للفاكهة ، والبلد للشعب"
           franco: فرنسي
           francujo: فرانسا
@@ -109,7 +109,7 @@ ar:
           monujo: محفظة
           pomo: تفاحة
           pomujo: "شجرة تفاح"
-        ul: 
+        ul:
           ekspliko: "شخص لديه صفة"
           kontraŭ: ضد
           kontraŭulo: عدو
@@ -119,20 +119,20 @@ ar:
           sanktulo: قدّيس
           stulta: "أحمق (صفة)"
           stultulo: "سفيه (موصوف)"
-        um: 
+        um:
           ekspliko: "نهاية غير محددة : تستعمَل عندما لا يناسِب المعنى أي من النهايات الأخرى"
           kolo: رقبة
           kolumo: ياقة
           plena: ممتلئ
           plenumi: "أن ينجز"
-      vortordo: 
+      vortordo:
         dialogo: |-
             --رأيتك ، يا كنز ، وأحببتك في حينها
-            
+
              --أصدّقك ولكن يجب أن يكون الذهب جاهزا في حقيبة يد.
-            
+
             --أحبك لكن ، يا أيها الغالي كثيرا، ما ظننتك هكذا
-            
+
             . --لو أحببتني ، يا بخيل ، لكنت جعلتني ملكة !
         ekspliko-1: "في الدرس الثالث ، رأينا أن الترتيب فاعل-فعل-مفعول هو الأكثر شيوعا ، مع ذلك فإن التراتيب الأخرى متاحة إذا لم يلتبس المعنى ، فمثلا عندما نريد أن نوكّد عنصرا معينا من الجملة ، نغيّر ترتيب الكلمات :"
         ekspliko-2: "كما يمكننا توكيد عنصر من الجملة باستعمال الأداة \"ja\" :"

@@ -1,11 +1,11 @@
---- 
-hr: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+hr:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Vježba - Brojevi"
         numeraloj-ekzercoj-instrukcioj: "Upišite u određeni prostor brojku koja odgovara tekstualnom obliku tog broja. Da bi potvrdili ispravan odgovor, pritisnite Enter ili pokrajni gumb. Opet nastojte biti točni u najmanje 70% slučajeva."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. On ju voli."
         frazo02: "2. On voli njenu sestru."
         frazo03: "3. Ona voli njega."

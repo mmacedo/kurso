@@ -1,38 +1,38 @@
---- 
-li: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+li:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: Vienodumas
           frazo-1: "Esperanto yra tokia pat graži, kaip ir naudinga."
           frazo-2: "Niekas nėra taip vertinga kaip sveikata."
           frazo-3: "Ji yra tokia graži kaip mama."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Pranašumas (žemesnio laipsnio)"
           frazo-1: "Mano brolis yra jaunesnis už mane."
           frazo-2: "Jis rašo bjauriau negu mergaitė."
           frazo-3: "Vyras kalba tyliau už žmoną."
-        supereco: 
+        supereco:
           ekspliko: "Pranašumas (aukštesnio laipsnio)"
           frazo-1: "Pienas yra maistingesnis už vyną."
           frazo-2: "Jonas yra aukštesnis už Petrą."
           frazo-3: "Saulė yra didesnė už Mėnulį."
         titolo: Palyginimas
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: žentas
           bofratino: "svainė, moša"
           bopatrino: uošvienė
           bopatro: uošvis
           ekspliko: "žymi vedybinę giminystę"
-        dis: 
+        dis:
           disdoni: išdalinti
           disfali: subyrėti
           disflugi: išsiskraidyti
           dissemi: "sėti (išmėtyti sėklas)"
           ekspliko: "išskirstymas, išsklaidymas"
-        duon: 
+        duon:
           duondio: "pusiau dievas"
           duonfilino: podukra
           duonhoro: pusvalandis
@@ -40,37 +40,37 @@ li:
           ekspliko: pusiau
           filino: dukra
           horo: valanda
-        ek: 
+        ek:
           ekbrilo: sužibėjimas
           ekdormi: užmigti
           ekiri: "pradėti eiti"
           ekpluvi: "pradėti lyti"
           ekspliko: "žymi veiksmo pradžią"
-        eks: 
+        eks:
           eksedziĝi: išsituokti
           eksfianĉo: "buvęs sužadėtinis"
           eksiĝi: "nustoti būti (kuo nors)"
           ekspliko: "žymi buvusią tarnybą, būklę, ypatybę"
           eksprezidanto: "buvęs prezidentas"
-        fi: 
+        fi:
           ekspliko: "žymi moralinį pasibjaurėjimą"
           fidomo: viešnamis
           fikomercisto: aferistas
           fivirino: nedorėlė
           komercisto: prekybininkas
-        ge: 
+        ge:
           ekspliko: "žymi abiejų lyčių asmenis (gali būti pora ar grupė)"
           geamikoj: draugai
           gefiloj: "sūnūs ir dukros"
           gefratoj: "broliai ir seserys"
           gepatroj: "tėvai (motina ir tėvas)"
-        mal: 
+        mal:
           dekstro: dešinė
           ekspliko: "žymi priešingą reikšmę"
           fermi: uždaryti
           maldekstro: kairė
           malfermi: atidaryti
-        mis: 
+        mis:
           ekspliko: "žymi suklydimą, blogumą, netinkamumą"
           kompreni: suprasti
           miskompreni: "ne taip suprasti"
@@ -78,7 +78,7 @@ li:
           misuzo: "neteisingas naudojimas"
           paŝo: žingsnis
           uzo: naudojimas
-        pra: 
+        pra:
           ekspliko: "žymi pirmykštiškumą, senoviškumą, tolimą giminystę"
           historio: istorija
           nepo: anūkas
@@ -86,21 +86,21 @@ li:
           prahistorio: priešistorė
           prahomo: "pirmykštis žmogus"
           pranepo: proanūkis
-        re: 
+        re:
           ekspliko: "žymi kartotinį arba grįžtamą veiksmą"
           reaperi: "dar kartą atsirasti"
           refari: perdaryti
           reteni: "išlaikyti, sulaikyti"
           reveni: grįžti
         titolo: Priešdėliai
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "žymi veiksmo dažnumą, testinumą"
           parolado: "kalba, prakalba"
           paroli: kalbėti
           rigardadi: žiūrinėti
           rigardi: žiūrėti
-        an: 
+        an:
           brazilano: brazilas
           ekspliko: "žymi narį, gyventoją, šalininką"
           eŭropano: europietis
@@ -108,25 +108,25 @@ li:
           kristano: krikščionis
           kristo: Kristus
           usonano: amerikietis
-        ar: 
+        ar:
           ekspliko: "žymi vienarūšių objektų visumą, grupę, rinkinį"
           vortaro: žodynas
           vorto: žodis
           ŝafaro: "avių banda"
           ŝafo: avis
-        aĉ: 
+        aĉ:
           domaĉo: namiūkštis
           domo: namas
           ekspliko: "žymi menkumą, blogą kokybę"
           skribaĉi: keverzoti
           skribi: rašyti
-        aĵ: 
+        aĵ:
           dolĉa: saldus
           dolĉaĵo: saldumynas
           ekspliko: "žymi gaminį, pagal būdingą savybę vadinamą daiktą arba reiškinį"
           pentraĝo: paveikslas
           pentri: "piešti, tapyti"
-        ebl: 
+        ebl:
           ekspliko: "žymi galimumą"
           kredebla: tikėtina
           kredi: tikėti
@@ -134,19 +134,19 @@ li:
           legi: skaityti
           videbla: matomas
           vidi: matyti
-        ec: 
+        ec:
           amikeco: draugystė
           amiko: draugas
           ekspliko: "žymi savybę, ypatumą"
           mola: minkštas
           moleco: minkštumas
-        eg: 
+        eg:
           ekspliko: "žymi padidinimą, sustiprinimą"
           ridegi: kvatoti
           ridi: juoktis
           ventego: "stiprus vėjas"
           vento: vėjas
-        ej: 
+        ej:
           ekspliko: "žymi patalpą, vietą"
           oficejo: įstaiga
           ofico: "tarnyba, pareigos"
@@ -154,26 +154,26 @@ li:
           preĝi: melstis
           ĉevalejo: arklidė
           ĉevalo: arklys
-        em: 
+        em:
           babilema: "mėgstantis plepėti"
           babili: plepėti
           ekspliko: "žymi polinkį, įprotį"
           ŝparema: taupus
           ŝpari: taupyti
-        end: 
+        end:
           ekspliko: "žymi būtinumą, reikalą"
           farenda: darytinas
           fari: daryti
           legenda: skaitytinas
           legi: skaityti
         titolo: Priesagos
-        ĉj: 
+        ĉj:
           ekspliko: "žymi maloninį vyrų vardą"
           jozefo: Juozas
           joĉjo: Juozukas
           patro: tėvas
           paĉjo: tėvelis
-      superlativo: 
+      superlativo:
         ekspliko-1: "Aukščiausiasis laipsnis yra naudojamas, kai vieno individo savybės yra geresnės ar blogesnės nei likusių."
         ekspliko-2: "Kai yra tik du individai (žmonės, daiktai ir kt.), vartokite žodžius \"PLI\" arba \"MALPLI\". Taip pat ir tuo atveju, kai kalbama apie dvi grupes:"
         frazo-1: "Iš visų mano vaikų Ernestas yra jauniausias."

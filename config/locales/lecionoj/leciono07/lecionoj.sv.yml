@@ -1,11 +1,11 @@
---- 
-sv: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+sv:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Prepositioner är småord som anger relationen mellan två ord."
         titolo: "Prepositioner I"
-        vortoj: 
+        vortoj:
           al: till/åt
           da: "av (samband mått och det mätta)"
           de: "av / från"
@@ -18,9 +18,9 @@ sv:
           sur: på
           ĉe: invid/vid
           ĝis: "tills / fram till"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prepositioner II"
-        vortoj: 
+        vortoj:
           anstataŭ: "i stället för"
           antaŭ: "framför /för .... sedan"
           apud: "intill / bredvid"
@@ -39,9 +39,9 @@ sv:
           tra: igenom
           trans: "på andra sidan"
           ĉirkaŭ: "omkring / runt om"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: |-
-            Vi såg i andra lektionen, att suffixet '-n' indikerar det komplement som är det direkta objektet. 
+            Vi såg i andra lektionen, att suffixet '-n' indikerar det komplement som är det direkta objektet.
             Det vill säga ackusativen. Ex.:
         ekspliko-2: "När en mening har två komplement måste ett av dem vara ett icke direkt komplement. Ex.:"
         ekspliko-3: "I ovanstående mening är det nödvändigt att använda en preposition. Observera: Det icke direkta objektet inte skall ha ackusativändelsen '-n'. Här följer andra exempel."
@@ -58,8 +58,8 @@ sv:
         frazo-5: "Han drack en kopp kaffe."
         frazo-6: "Gå bort ifrån mig!"
         titolo: "Prepositioner III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: komma
           aŭtobuseto: minibuss
           danki: "tacka (för något)"
@@ -74,8 +74,8 @@ sv:
           sidi: sitta
           tagmanĝo: middagsmål
           viziti: besöka
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktis
           Kanado: Kanada
           admiri: beundra

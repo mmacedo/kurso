@@ -1,11 +1,11 @@
---- 
-it: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+it:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Comprensione del parlato. Esercizio 1."
         auxdkompreno01-instrukcio: "L'esercizio consiste nell'ascoltare una serie di parole e nel cliccare sul pulsante corrispondente alla parola udita. Se indovini, il pulsante scompare. Altrimenti, il pulsante giusto lampeggia e la parola ti è riproposta più avanti. Proponiti di conseguire almeno il 70% di risposte esatte."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Il tè è caldo."
         frazo02: "2. Un insegnante è [un] padre."
         frazo03: "3. Tuo padre era buono."

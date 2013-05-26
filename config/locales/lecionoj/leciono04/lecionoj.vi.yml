@@ -1,24 +1,24 @@
---- 
-vi: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+vi:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Nói ngày tháng theo mô hình sau đây ( từ \"tago\" và \"en la jaro\" thường ở ngoài cùng bên trái)."
         titolo: "Ngày tháng"
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Bánh mì (thì) khô."
           titolo: "Câu khẳng định:"
-        demando: 
+        demando:
           frazo-1: "Bánh mì khô phải không?"
           titolo: "Câu hỏi:"
         ekspliko: "Câu hỏi được cấu thành bằng cách thêm từ \"ĉu\" trước câu khẳng định. Thứ tự từ không thay đổi. Điều này đúng cho tất cả các câu hỏi có trả lời là \"đúng\" hay \"sai\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Không, bánh mì không khô."
           frazo-pozitiva: "Đúng, bánh mì khô."
           titolo: "Trả lời:"
         titolo: "Các câu hỏi dạng nghi vấn."
-      monatoj: 
+      monatoj:
         aprilo: "tháng Tư"
         aŭgusto: "tháng Tám"
         decembro: "tháng Mười hai"
@@ -32,7 +32,7 @@ vi:
         oktobro: "tháng Mười"
         septembro: "tháng Chín"
         titolo: "Các tháng của năm"
-      salutoj: 
+      salutoj:
         saluto-1: "Xin chào!"
         saluto-10: "Ngon miệng quá!, Tôi rất thích bữa ăn của bạn!"
         saluto-11: "Bạn cũng thế, cảm ơn!"
@@ -48,12 +48,12 @@ vi:
         saluto-8: "Khá tốt."
         saluto-9: "Không ổn lắm."
         titolo: "Chào hỏi"
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: "hôm qua"
           hodiaŭ: "hôm nay"
           morgaŭ: "ngày mai"
-        semajno: 
+        semajno:
           dimanĉo: "Chủ nhật"
           lundo: "Thứ hai"
           mardo: "Thứ ba"
@@ -62,9 +62,9 @@ vi:
           vendredo: "Thứ sáu"
           ĵaŭdo: "Thứ năm"
         titolo: "Các ngày trong tuần"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Hãy đọc phần văn bản sau đây, được viết bởi một sinh viên Quốc tế ngữ, và cố đọc hiểu chúng bằng việc sử dụng từ vựng."
-        vortaro: 
+        vortaro:
           alia: "khác, cái khác"
           antaŭ: trước
           facila: "dễ dàng"
@@ -72,7 +72,7 @@ vi:
           komenci: "bắt đầu"
           lerni: "học, nghiên cứu"
           tre: rất
-      vortaro04: 
+      vortaro04:
         infano: "đứa trẻ, đứa con"
         kaj: và
         kolekti: "tập họp, tụ tập"

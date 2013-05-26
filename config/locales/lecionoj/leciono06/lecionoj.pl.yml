@@ -1,101 +1,101 @@
---- 
-pl: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+pl:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Teraz poznamy następne korelatywy.  Pamiętaj, że są one w zamkniętym systemie i nie można tworzyć z nich innych słów oprócz tych pokazanych."
         titolo: "Wyrazy współzależne"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Pokazuje przymiot, cechę, jakość, właściwość. Otrzymuje końcówkę  \"-j\"  i  \"-n\""
-        i: 
+        i:
           frazo: "Czy masz jakąś wątpliwość co do gramatyki Esperanta?"
           vorto: Jakiś
-        ki: 
+        ki:
           frazo: "Jaki był twój dzień?— Mój dzień był bardzo dobry,dziękuję!"
           vorto: Jaki
-        neni: 
+        neni:
           frazo: "Nie, nie mam żadnej wątpliwości co do niej."
           vorto: Żaden
-        ti: 
+        ti:
           frazo: "Ja nie będę jadł takiego chleba."
           vorto: Taki
-        ĉi: 
+        ĉi:
           frazo: "Każda pomoc jest oczekiwana."
           vorto: Każdy
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Przyczyna, powód."
-        i: 
+        i:
           frazo: "Z jakiegoś powodu jeszcze cię nie znam."
           vorto: Dlaczegoś
-        ki: 
+        ki:
           frazo: "Dlaczego dziecko biega?- Ponieważ jest bardzo radosne."
           vorto: Dlaczego
-        neni: 
+        neni:
           frazo: "Mógłbyś go drażnić  ilekolwiek  bądź. On z żadnego powodu  by się nie złościł."
           vorto: "Z żadnego powodu. Z żadnej przyczyny."
-        ti: 
+        ti:
           frazo: "Ona jest bardzo ładna. Dlatego kocham ją."
           vorto: Dlatego
-        ĉi: 
+        ĉi:
           frazo: "Pytasz, dlaczego cię kocham. Odpowiadam: z każdego powodu."
           vorto: "Z każdego powodu"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: sposób
-        i: 
+        i:
           ekspliko: "Wyraża coś nieznanego, nieokreślonego."
           frazo: "Ona jakoś przypomina mi inną osobę."
           vorto: Jakoś
-        ki: 
+        ki:
           ekspliko: "Pyta.  Pokazuje stosunek do poprzedniego zdania."
           frazo: "Jak się czujesz?—Ja czuję się bardzo dobrze, dziękuję!"
           vorto: Jak
-        neni: 
+        neni:
           ekspliko: "Ma znaczenie przeczące."
           frazo: "W żaden sposób nie mogę zrozumieć, co ty mówisz."
           vorto: "W żaden sposób"
-        ti: 
+        ti:
           ekspliko: Wskazuje.
           frazo: "Ona pisze  tak  dobrze, jak nauczycielka."
           vorto: "W ten sposób"
-        ĉi: 
+        ĉi:
           ekspliko: Uogólnia.
           frazo: "Oni na każdy sposób pomogli mi."
           vorto: "W każdy sposób"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Wyraża  posiadanie."
-        i: 
+        i:
           frazo: "Znalazłem czyjąś książkę."
           vorto: Czyjś
-        ki: 
+        ki:
           frazo: "Czyja jest tamta książka?—Tamta książka jest Jana."
           vorto: Czyj
-        neni: 
+        neni:
           frazo: "Esperanto  nie jest niczyją własnością."
           vorto: Niczyj
-        ti: 
+        ti:
           frazo: "Kot biegł po domu i uszkodził jego dach."
           vorto: Tego
-        ĉi: 
+        ĉi:
           frazo: "Esperanto jest językiem wszystkich."
           vorto: Każdego
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Oznacza ilość."
-        i: 
+        i:
           frazo: "Muszę kupić jakąś ilość kawy."
           vorto: Ileś
-        ki: 
+        ki:
           frazo: "Ile jest dwa i dwa?—Cztery."
           vorto: Ile
-        neni: 
+        neni:
           frazo: "Ile dzieci bawi się w domu?— Żadne."
           vorto: Nic
-        ti: 
+        ti:
           frazo: "On jadł tyle, ile chciał."
           vorto: Tyle
-        ĉi: 
+        ĉi:
           frazo: "Ile chcesz benzyny?  -  Chcę wszystko, ile masz."
           vorto: Wszystko
-      relativoj: 
+      relativoj:
         ekspliko-1: "Wyrazy zaczynające się na  \"KI\"  mogą  też  wprowadzać zdania bez pytającego znaczenia."
         ekspliko-2: "W powyższym zdaniu \"kiun\" odnosi się do \"tego owocu\"."
         frazo-1: "Ja chcę tamten owoc, który ty pokazałeś."

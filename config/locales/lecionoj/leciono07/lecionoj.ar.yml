@@ -1,11 +1,11 @@
---- 
-ar: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+ar:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "الأحرف هي كلمات قصيرة لا معنى لها في ذاتها ، وإنما تدل على العلاقة بين وحدات الجملة الأخرى."
         titolo: "الأحرف (الجزء الأول)"
-        vortoj: 
+        vortoj:
           al: "إلى (متجه نحو الشيء أو لأجل شخص ما)"
           da: "من (أي كمية أو جزء من الكل لا من مكان)"
           de: "من (متجه إلى مكان خارجا من مكان آخر)"
@@ -18,9 +18,9 @@ ar:
           sur: "فوق (مع الملامسة)"
           ĉe: "بالقرب من أو عند شيء ما"
           ĝis: "حتى (أي حتى وقت ما)"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "الأحرف (الجزء الثاني)"
-        vortoj: 
+        vortoj:
           anstataŭ: "بدلا من"
           antaŭ: "قبل أو أمام"
           apud: "بالقرب من"
@@ -39,7 +39,7 @@ ar:
           tra: "في خلال"
           trans: "مرورًا بـ"
           ĉirkaŭ: حول
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "رأينا في الدرس الثاني أن المفعول به ينصب بـ\"n-\"."
         ekspliko-2: "عند وجود مفعولين ، لا يكون القابل لحرف الجرالدال على الحركة منصوبا:"
         ekspliko-3: "استعمال الحرف أعلاه واجب ولا ينصب الاسم المجرور به. وإليكم بعض الأمثلة الأخرى :"
@@ -56,8 +56,8 @@ ar:
         frazo-5: "شرب كأسا من القهوة."
         frazo-6: "اذهب من أمامي"
         titolo: "الأحرف (الجزء الثالث)"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "أن يصِل"
           aŭtobuseto: "مِكروباص (حافلة صغيرة)"
           danki: "أن يشكر"
@@ -72,8 +72,8 @@ ar:
           sidi: "أن يجلس"
           tagmanĝo: غذاء
           viziti: "أن يزور"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "القطب الجنوبي"
           Kanado: كندا
           admiri: "أن يحب"

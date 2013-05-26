@@ -1,11 +1,11 @@
---- 
-ca: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+ca:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Exercici - Numerals"
         numeraloj-ekzercoj-instrukcioj: "Teclegeu dins l'espai adequat el número corresponent al text que apareix. Per confirmar la resposta utilitzeu la tecla de retorn o feu clic en el botó inferior. Intenteu aconseguir almenys un 70%."
-      pagxo09: 
+      pagxo09:
         frazo01: "Ell l'estima (a ella)."
         frazo02: "Ell estima la seva germana (la germana d'ella)."
         frazo03: "Ella l'estima (a ell)."

@@ -1,24 +1,24 @@
---- 
-en: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+en:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "To say the dates follow the model (the words \"tago\" and \"en la jaro\" are usually left out)."
         titolo: Dates
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "The bread is dry."
           titolo: "Affirmation:"
-        demando: 
+        demando:
           frazo-1: "Is the bread dry?"
           titolo: "Question:"
         ekspliko: "Questions are formed by adding the word \"cxu\" before the corresponding affirmative sentence. The word order doesn't change.  This is true for all questions that can be answered by \"yes\" or \"no\"."
-        respondo: 
+        respondo:
           frazo-negativa: "No, the bread is not dry."
           frazo-pozitiva: "Yes, the bread is dry."
           titolo: "Answer:"
         titolo: "Interrogative sentences"
-      monatoj: 
+      monatoj:
         aprilo: April
         aŭgusto: August
         decembro: December
@@ -32,7 +32,7 @@ en:
         oktobro: October
         septembro: September
         titolo: "Months of the year"
-      salutoj: 
+      salutoj:
         saluto-1: Hello!
         saluto-10: "Good appetite!, Enjoy your meal!"
         saluto-11: "The same to you, thank you!"
@@ -48,12 +48,12 @@ en:
         saluto-8: "Well enough."
         saluto-9: "Not very well."
         titolo: Greetings
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: yesterday
           hodiaŭ: today
           morgaŭ: tomorrow
-        semajno: 
+        semajno:
           dimanĉo: Sunday
           lundo: Monday
           mardo: Tuesday
@@ -62,9 +62,9 @@ en:
           vendredo: Friday
           ĵaŭdo: Thursday
         titolo: "Days of the week"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Please read the following text, written by an Esperanto student, and try to understand it using the vocabulary."
-        vortaro: 
+        vortaro:
           alia: "other, another"
           antaŭ: before
           facila: easy
@@ -72,7 +72,7 @@ en:
           komenci: "to begin"
           lerni: "to learn"
           tre: very
-      vortaro04: 
+      vortaro04:
         infano: child
         kaj: and
         kolekti: "to collect, gather"

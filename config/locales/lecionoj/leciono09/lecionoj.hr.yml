@@ -1,57 +1,57 @@
---- 
-hr: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+hr:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "element neke cjeline"
           monero: novčić
           mono: novac
           salero: "zrnce soli"
           salo: sol
-        estr: 
+        estr:
           ekspliko: "Netko tko je po hijerarhijskoj ljestvici viši i/ili nadređeni."
           urbestro: gradonačelnik
           urbo: grad
           ŝipestro: "kapetan broda"
           ŝipo: brod
-        et: 
+        et:
           ekspliko: "malen, slab"
           pupeto: lutkica
           pupo: lutka
           rideti: "smiješiti se"
           ridi: "smijati se"
-        id: 
+        id:
           ekspliko: "potomak, mladunče"
           katido: mačić
           kato: mačka
           reĝido: kraljević
           reĝo: kralj
-        ig: 
+        ig:
           ekspliko: "učiniti nešto takovim što korijen označuje"
           morti: umrijeti
           mortigi: ubiti
           pura: čist
           purigi: očistiti
-        il: 
+        il:
           ekspliko: "alat kojim se može ostvariti radnja"
           muzikilo: "muzički instrument"
           muziko: glazba
           ŝlosi: zaključati
           ŝlosilo: ključ
-        in: 
+        in:
           ekspliko: "pokazuje ženki spol"
           kokino: kokoš
           koko: pijetao
           onklino: "strina, tetka, ujna"
           onklo: "stric, tetak, ujak"
-        ind: 
+        ind:
           admiri: "diviti se"
           admirinda: "divljenja vrijedan"
           ekspliko: "vrijedan, zaslužan"
           laŭdi: hvaliti
           laŭdinda: hvalevrijedan
-        ist: 
+        ist:
           ekspliko: "zvanje, zanimanje"
           esperantisto: esperantist
           esperanto: Esperanto
@@ -61,7 +61,7 @@ hr:
           raportisto: izvjestitelj
           tajpi: tipkati
           tajpisto: tipkač
-        iĝ: 
+        iĝ:
           ekspliko: "postati nešto takvo što korijen označuje (izvan stranog utjecaja)"
           fari: činiti
           fariĝi: postati
@@ -69,39 +69,39 @@ hr:
           mateno: jutro
           ruĝa: crven
           ruĝiĝi: "zacrvenjeti se"
-        nj: 
+        nj:
           Maria: Marija
           ekspliko: "ime od milja za ženski spol (sa većim ili manjm dijelom korijena rijeći, da se postigne milozvučnost)"
           manjo: "Marica, Maja"
           panjo: mama
           patrino: majka
-        obl: 
+        obl:
           du: dva
           duobla: dvostruk
           ekspliko: "dvostruk, višestruk"
           tri: tri
           trioblo: "trostruka količina"
         ? "on"
-        : 
+        :
           dek: deset
           dekono: desetina
           ekspliko: razlomak
           kvar: četiri
           kvarono: četvrtina
-        op: 
+        op:
           du: dva
           duopo: "dvoje, dvojica"
           ekspliko: "Po skupinama"
           ses: šest
           sesopo: "šestorka, šestorica"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Ako se pojavi nejasnoća između prvog i drugog pojma tog sufiksa, može se upotrijebiti sinonim (istoznačnica):"
           germanio: Njemačka
           pomarbo: "jabuka (voćka)"
           pomkesto: "sanduk za jabuke"
           ruslando: Rusija
         titolo: Sufiksi
-        uj: 
+        uj:
           ekspliko: "predmet koji sadrži druge predmete; voćka; zemlja (država)"
           franco: francuz
           francujo: Francuska
@@ -109,7 +109,7 @@ hr:
           monujo: novčanik
           pomo: jabuka
           pomujo: "jabuka (voćka)"
-        ul: 
+        ul:
           ekspliko: "biće ili osoba opisana korijenom"
           kontraŭ: protiv
           kontraŭulo: protivnik
@@ -119,17 +119,17 @@ hr:
           sanktulo: svetac
           stulta: glup
           stultulo: glupan
-        um: 
+        um:
           ekspliko: "sufiks bez određenog značenja, raznog značenja"
           kolo: vrat
           kolumo: ovratnik
           plena: pun
           plenumi: "ispuniti (obećanje)"
-      vortordo: 
+      vortordo:
         dialogo: |-
             -Vidio sam te, zlato, i odmah sam se zaljubio u te!
             -Vjerujem ti, ipak neka zlato bude spremno u me!
-            
+
             -Ja te volim, ali, najdraža, ne mogu te zamisliti takvom!
             -Ako bi me volio, škrće, učinio bi me kraljicom!
         ekspliko-1: "U trećoj lekciji smo pokazali redoslijed riječi subjekt-predikat-objekt, koji se najčešće primjenjuje u Esperantu. No, mogući su i drugačiji, ako se ne mijenja smisao i jasnoća. S namjerom da se naglasi određeni element rečenice, redoslijed se mijenja. To ćete vidjeti u slijedećim primjerima:"

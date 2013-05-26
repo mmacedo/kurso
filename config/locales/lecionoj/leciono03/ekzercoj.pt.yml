@@ -1,11 +1,11 @@
---- 
-pt: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+pt:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Exercício - numerais"
         numeraloj-ekzercoj-instrukcioj: "Digite no espaço apropriado o correspondente, em numeral, à frase dada. Para confirmar a resposta, use a tecla Enter ou clique no botão ao lado. Tente acertar no mínimo 70%"
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Ele a ama."
         frazo02: "2. Ele ama a irmã dela."
         frazo03: "3. Ela o ama."

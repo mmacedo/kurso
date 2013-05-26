@@ -1,11 +1,11 @@
---- 
-hi: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+hi:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "पूर्वसर्ग वो शब्द हैं जो दो शब्दों के बीच का संबंध बताता हैं."
         titolo: पूर्वसर्ग!
-        vortoj: 
+        vortoj:
           al: "को, तक"
           da: का
           de: "का, के"
@@ -18,9 +18,9 @@ hi:
           sur: "के बारे में, के ऊपर"
           ĉe: "पर, में, से"
           ĝis: "तब तक"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "पूर्वसर्ग II"
-        vortoj: 
+        vortoj:
           anstataŭ: "के बदल में"
           antaŭ: "की उपस्थिति में"
           apud: नजदीक
@@ -39,7 +39,7 @@ hi:
           tra: "के ज़रिए"
           trans: "के अतिरिक्त"
           ĉirkaŭ: "के चारों ओर, आस पास, मोड़ पर"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "आपने दुसरे पाठ मैं देखा की \"n\" सिर्फ सीदे वस्तु के ऊपर उपयोग होता हैं. उसको हम कर्मकारक कहते हैं. उदाहरण:"
         ekspliko-2: "जब वाख्य मैं दो पूरक होते हैं, उनमे से कोई एक सीदा पूरक नहीं हो सकता. उदाहरण:"
         ekspliko-3: "यहाँ दिया गया पूर्वसर्ग जरूरी हैं, और यह पूरक कर्मकारक अक्षर नहीं लेता हैं. दुसरे उदाहरण:"
@@ -56,8 +56,8 @@ hi:
         frazo-5: "वह एक कप कॉफी पी रहा हैं."
         frazo-6: "मेरे आगे से निकल जाओ!"
         titolo: "पूर्वसर्ग III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: पहुँचना
           aŭtobuseto: बस
           danki: "शुक्रिया मानना"
@@ -72,8 +72,8 @@ hi:
           sidi: बैठाना
           tagmanĝo: "दोपहर का खाना"
           viziti: "घुमने जाना"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "उत्तर ध्रुवीय"
           Kanado: कनाडा
           admiri: "प्रशंसा करना"

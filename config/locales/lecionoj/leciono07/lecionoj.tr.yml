@@ -1,11 +1,11 @@
---- 
-tr: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+tr:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Edatlar iki kelime arasında bağlantıyı gösteren kelimeciklerdir. Kendi başına tam anlamı olmayıp iki kelime veya fikir arasındaki türlü ilgi ve özellikleri belirten ve cümlenin anlamına duygu katarlar."
         titolo: "Edatlar I"
-        vortoj: 
+        vortoj:
           al: "e,a, y, ya (-e hali), doğru."
           da: "Sayı ve ölçü kelimelerinden sonra kullanılır. Miktar ifade eden edattır. Türkçe karşılığı yoktur."
           de: "de, nin, in, den (-in hali)."
@@ -18,9 +18,9 @@ tr:
           sur: "üstünde ( temas halinde )"
           ĉe: "de, nezninde (-de hali), evinde."
           ĝis: "kadar, dek ,değin"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Edatlar II"
-        vortoj: 
+        vortoj:
           anstataŭ: yerine
           antaŭ: "önce, evvel"
           apud: yanında
@@ -39,7 +39,7 @@ tr:
           tra: "arasından geçmek"
           trans: ötesinde
           ĉirkaŭ: "civarında, dolayında"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "İkinci derste gördük ki, sondaki \"n\" harfi -i hali göstermektedir. Örneğin:"
         ekspliko-2: "Eğer cümlede iki tamamlayıcı zarf varsa, bunlardan birisi tamamlayıcıdır. Örn :"
         ekspliko-3: "Yukarıdaki edatın kullanılması mecburidir.Ve direkt olmayan nesne, -i halin son ekini almaz.İşte diğer örnekler :"
@@ -56,8 +56,8 @@ tr:
         frazo-5: "O (erkek) bir bardak çay içti."
         frazo-6: "Önümden çekil!"
         titolo: "Edatlar III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: gelmek
           aŭtobuseto: minibüs
           danki: "teşekkür etmek"
@@ -72,8 +72,8 @@ tr:
           sidi: oturmak
           tagmanĝo: "öğle yemeği"
           viziti: "ziyaret etmek"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "Arktika ( kıta )"
           Kanado: Kanada
           admiri: "hayran kalmak"

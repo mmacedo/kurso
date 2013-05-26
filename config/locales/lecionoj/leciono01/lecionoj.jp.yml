@@ -1,19 +1,19 @@
---- 
-jp: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+jp:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: 美しい
         ekspliko: 最後は"a"で終わります
         sana: 健康な
         titolo: 形容詞(けいようし)
         varma: 熱い、暑い
-      alfabeto: 
+      alfabeto:
         ekspliko: "エスペラントでは、単語のつづりは発音通りに書きます。 発音は単語のつづり通りに読みます。 単語の最後から２番めの音節を一番強く（長めに）発音します。 （単語のボタンを押すと発音が聞こえます。 大きい声で繰り返し発音して下さい。 ）"
         titolo: エスペラントのアルファベット
-      artikolo: 
+      artikolo:
         ekspliko: "エスペラントには不定冠詞（ふていかんし）はありません。 定冠詞 （ていかんし）\"la\" は変わりません（性・数・格が変わっても）。"
-        frazoj: 
+        frazoj:
           frazo-1: あなたの息子たちは私たちの友達たちです。
           frazo-2: そのパンは乾いています。
           frazo-3: 熱いミルクはよいです。
@@ -22,7 +22,7 @@ jp:
           frazo-6: そのお父さんはよいです。
           titolo: 文
         titolo: 冠詞(かんし)
-        vortoj: 
+        vortoj:
           floroj: 花々(複数)
           knabo: 男の子
           la-floroj: その花々(複数)
@@ -31,33 +31,33 @@ jp:
           la-patroj: そのお父さんたち(複数)
           pano: パン
           patroj: お父さんたち(複数)
-      nomoj: 
+      nomoj:
         amiko: 友人、ともだち
         ekspliko: 最後は"o"で終わります
         frato: 兄弟(兄/弟どちらも)
         kafo: コーヒー
         titolo: 名詞(めいし)
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: 彼ら・彼女ら・それら
           ni: 私たち
           titolo: 複数(ふくすう)
           vi: あなたたち(2人以上)
-        singularo: 
+        singularo:
           li: 彼
           mi: わたし
           titolo: 単数(たんすう)
           vi: あなた
           ĝi: それ
           ŝi: 彼女
-        specialaj: 
+        specialaj:
           oni: あれこれの人、だれかれ(だれと名前をあげられない人、だれとは名前をあげたくない人、日本語には訳さないことも多い)
           si: "～自身。 三人称(単数・複数)の再帰代名詞(さいきだいめいし）です。 彼は「自分の」～を、彼女は「自分自身」を、などという時に使います。 その文の主語を指します。 \"si\"は主語にはなりません。"
           titolo: 特別な代名詞
         titolo: 人称代名詞(にんしょうだいめいし)
-      pluralo: 
+      pluralo:
         ekspliko: 人（や物）が複数いる（ある）時には、その名詞や形容詞に"j"をつけて複数形にします。
-        pluralo: 
+        pluralo:
           amikoj: 友人たち(複数)
           belaj: 美しい(複数)
           belaj-floroj: 美しい花々(複数)
@@ -66,7 +66,7 @@ jp:
           patroj: お父さんたち(複数)
           sanaj: 健康な(複数)
           sanaj-patroj: 健康なお父さんたち(複数)
-        singularo: 
+        singularo:
           amiko: 友人、ともだち
           bela: 美しい
           bela-floro: 美しい花
@@ -76,9 +76,9 @@ jp:
           sana: 健康な
           sana-patro: 健康なお父さん
         titolo: 複数(ふくすう)…２人以上の人、２個以上の物
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: 「私/mi」などの代名詞に対して、「私の/mia」などの所有を表す語を「所有代名詞」といい、代名詞の後に"a"をつけます。
-        posedaj: 
+        posedaj:
           ilia: 彼らの・彼女らの・それらの
           lia: 彼の
           mia: わたしの
@@ -86,27 +86,27 @@ jp:
           via: あなたの
           ĝia: それの
           ŝia: 彼女の
-        rimarkigo: 
+        rimarkigo:
           ekspliko: 「私の物」が複数あるときには、「私の/miaj」というように所有代名詞にも複数の"j"をつけます。
           mia-amiko: 私の友人
           miaj-amikoj: 私の友人たち(複数)
           nia-floro: 私たちの花
           niaj-floroj: 私たちの花々(複数)
         titolo: 所有代名詞(しょゆうだいめいし)
-      verboj: 
+      verboj:
         ekspliko: "動詞の基本形（不定形：ふていけい)は\"i\"で終わります。 例えばesti(～です)。 過去形(かこけい)は\"is\"で終わります。 例えばestis(～でした)。 現在形(げんざいけい)は\"as\"で終わります。 例えばestas(～です)。 未来形(みらいけい)は\"os\"で終わります。 例えばestos(～でしょう)。 動詞のその他の形は後の課で学びます。"
-        ne-singularo: 
+        ne-singularo:
           ili-estas: 彼ら(彼女ら・それら)は～です(現在)
           ni-estas: 私たちは～です(現在)
           oni-estos: 人は～でしょう(未来)
           vi-estis: あなたたちは～でした(過去)
-        singularo: 
+        singularo:
           li-estis: 彼は～でした(過去)
           mi-estas: 私は～です(現在)
           ĝi-estos: それは～でしょう(未来)
           ŝi-estas: 彼女は～です(現在)
         titolo: 動詞(どうし)
-      vortaro01: 
+      vortaro01:
         amiko: 友人、ともだち
         bela: 美しい
         biskvito: ビスケット

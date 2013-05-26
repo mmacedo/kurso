@@ -1,11 +1,11 @@
---- 
-fi: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+fi:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Verbin päätteet: preesensin pääte \"as\", imperfektin pääte \"is\", futuurin pääte \"os\" ja infinitiivin pääte \"i\" ovat jo tuttuja. Nyt opimme lisää:"
         titolo: "Lisää verbin aikamuotoja"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Imperatiivin pääte (-u) viittaa yleensä toiseen persoonaan, eikä pronominin käyttö ole tarpeen. Mutta, jos kyseesä on ensimmäinen tai kolmas persoona, pitää pronominia käyttää:"
         ekspliko-2: "Inperatiivi viittaa päämäärään (käsky, pyyntö, kehoitus, toive, välttämättömyys, pakko, lupa, kielto jne.). Muista kuitenkin imperatiivin ja futuurin välinen ero."
         frazo-1: "Sulje ovi ja istu."
@@ -17,8 +17,8 @@ fi:
         frazo-7: "Ehdotan, että hän tulee (tulkoon)."
         frazo-8: "On mahdollista, että hän tulee."
         titolo: "Imperatiivi (-u)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Minun täytyy ymmärtää"
           devas-veni: "Minun täytyy tulla"
           devi: "täytyä, olla pakko"
@@ -28,29 +28,29 @@ fi:
           volas-kompreni: "Haluan ymmärtää"
           volas-veni: "Haluan tulla"
           voli: haluta
-        scio: 
+        scio:
           frazo-koni-1: "Minä tunnen..."
           frazo-koni-2: "Tunnetko Jussin?"
           frazo-scii-1: Tiedän...
           frazo-scii-2: "Osaatko esperantoa?"
         titolo: "Tärkeitä verbejä"
-        ŝato: 
+        ŝato:
           frazo-ami: "Rakastan jotakuta."
           frazo-plaĉi-1: "Jokin tai joku miellyttää minua."
           frazo-plaĉi-2: "Kirjat miellyttävät minua."
           frazo-ŝati: "Pidän jostakin (asiasta tai esineestä)."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Jos olisin rikas, matkustaisin paljon."
         frazo-2: "Söisimme leivän, jos se olisi hyvä."
         titolo: "Konditionaali (-us)"
-      nerekta: 
+      nerekta:
         ekspliko: "Epäsuorassa lauseessa pitää käyttää samaa verbin muotoa kun suorassa lauseessa. Esim.:"
         frazo-1: "Hän sanoi, \"Tulen New Yorkista\"."
         frazo-2: "Hän sanoi, että hän tulee New Yorkista."
         frazo-3: "Hän sanoi, \"Matkustan Pariisiin\"."
         frazo-4: "Hän sanoi, että hän matkustaa Pariisiin."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Minä olen lukeva (tulen lukemaan)."
           frazo-presenco: "Minä olen lukemassa."
           frazo-preterito: "Minä olen lukenut."
@@ -74,7 +74,7 @@ fi:
         frazo-7: "Suljettu ovi"
         frazo-8: "Nouseva aurinko"
         frazo-9: "Myöhemmin eläneet"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Luen kirjaa = Kirja on luettavanani."
           frazo-futuro: "Kirja on luettavana (tulevaisuudessa)."
           frazo-presenco: "Kirja on luettavana (kirjaa luetaan)."
@@ -84,7 +84,7 @@ fi:
           preterito: "Mennyt aika: -it"
           titolo: Passiivi
         titolo: Partisiipit
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" on kolmannen persoonan refleksiivipronomini."
         ekspliko-2: "\"Sia\" ei voi olla osana itse subjektia, vaan siinä tapaukseesa käytetään \"lia\", \"ŝia\", \"ĝia\" tai \"ilia\". Seuraavissa esimerkeissä on kyse \"filo\" ja  \"li\" -n suhteesta."
         frazo-1: "Jussi pesi itsensä."

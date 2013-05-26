@@ -1,95 +1,95 @@
---- 
-li: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+li:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: "Sukurta klausiamųjų žodžių ir su jais susijusių atsakymų sistema. Ją sudaro penki pirmieji elementai ir devyni antrieji elementai, kuriuos galima sujungti įvairiais būdais. Jie vadinami koreliatyvais."
         titolo: Koreliatyvai
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: "Nurodo laiką."
-        i: 
+        i:
           frazo: "Ar tu kada nors buvai Brazilijoje?"
           vorto: "kažkada, kada nors"
-        ki: 
+        ki:
           frazo: "Kada tu nusipirksi knygą? — Rytoj ryte."
           vorto: kada
-        neni: 
+        neni:
           frazo: "Ne, aš niekada nebuvau toje šalyje."
           vorto: niekada
-        ti: 
+        ti:
           frazo: "Aš mokiausi esperanto tada, kai buvau mokykloje."
           vorto: "tada, tuomet"
-        ĉi: 
+        ĉi:
           frazo: "Tačiau aš visada troškau aplankyti ją."
           vorto: visada
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Prieveiksmis \"ĉi\" žymi artumą (artimesnį asmenį ar daiktą). Jis gali stovėti prieš parodomuosius ir apibendrinamuosius žodžius arba po jų."
         frazo-1: "Kas tai yra?"
         frazo-2: "Tai yra žvėris."
         frazo-3: "Šitas namas yra mano."
         rimarkigo: "Koreliatyvai, kurie baigiasi balūne \"-o\" (\"kio\", \"tio\" ir t.t.) gali turėti galininko galūnę (\"-n\"), bet negali turėti daugiskaitos galūnės (\"-j\"). Tie, kurie turi galūnes \"-a\" ir \"-u\", gali turėti ir \"-n\", ir \"-j\". Su klausiamaisiais žodžiais (\"kio\", \"kie\" ir t.t.) žodelis \"Ĉu\" nevartojamas."
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: "Nurodo vietą."
-        i: 
+        i:
           ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
           frazo: "Mano pieštukas yra kažkur sode."
           vorto: "kažkur, kur nors"
-        ki: 
+        ki:
           ekspliko: "Naudojamas sudarant klausiamuosius arba santykinius žodžius."
           frazo: "Kur tu gyveni? — Aš gyvenu Kanadoje."
           vorto: kur
-        neni: 
+        neni:
           ekspliko: "Naudojamas sudarant neigiamuosius žodžius."
           frazo: "Niekur aš neradau savo knygos."
           vorto: niekur
-        ti: 
+        ti:
           ekspliko: "Naudojamas sudarant parodomuosius žodžius."
           frazo: "Aš gyvenu ten, kur yra automobilis."
           vorto: "ten, tenai"
-        ĉi: 
+        ĉi:
           ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
           frazo: "Kvailys visur savo vardą rašo."
           vorto: visur
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Nurodo neapibrėžtą dalyką, daiktą."
-        i: 
+        i:
           frazo: "Kažkas atsitiko!"
           vorto: "kažkas, kas nors"
-        ki: 
+        ki:
           frazo: "Kas yra geografija? — Geografija yra mokslas."
           vorto: kas
-        neni: 
+        neni:
           frazo: "Geriau kažkas nei niekas."
           vorto: "niekas (apie daiktus)"
-        ti: 
+        ti:
           frazo: "Kas tai? — Tai muzikos instrumentas."
           vorto: "tai; tas"
-        ĉi: 
+        ĉi:
           frazo: "Aš pamiršau viską."
           vorto: viskas
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Nurodo asmenį arba įvardintą dalyką. Kai kalbama apie daugiskaitą, pridedama galūnė \"-j\"."
-        i: 
+        i:
           ekspliko: "Naudojamas sudarant nežymimuosius žodžius."
           frazo: "Atėjo kažkokie asmenys, kurių aš nepažįstu."
           vorto: "kažkas, kas nors"
-        ki: 
+        ki:
           ekspliko: "Naudojamas sudarant klausiamuosius arba santykinius žodžius."
           frazo: "Kas buvo tavo pirmasis mokytojas? — Ponas Karlas."
           vorto: "kas; kuris"
-        neni: 
+        neni:
           ekspliko: "Naudojamas sudarant neigiamuosius žodžius."
           frazo: "Kas vakar atėjo? — Niekas vakar neatėjo."
           vorto: "niekas, joks"
-        ti: 
+        ti:
           ekspliko: "Naudojamas sudarant parodomuosius žodžius."
           frazo: "Ta knyga yra labai gera."
           vorto: "tas, anas"
-        ĉi: 
+        ĉi:
           ekspliko: "Naudojamas sudarant apibendrinamuosius žodžius."
           frazo: "Kiekvienas žmogus myli patį save."
           vorto: kiekvienas
-      vortaro05: 
+      vortaro05:
         al: "link, į, pas; žymi naudininką"
         anonco: skelbimas
         aĉeti: pirkti

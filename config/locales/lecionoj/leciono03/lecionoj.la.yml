@@ -1,48 +1,48 @@
---- 
-la: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+la:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Kārtas skaitļa vārdi tiek veidoti ar galotnes -a pievienošanu skaitļa vārdam.  Tā kā tiem ir galotne -a, tiem var pievienot daudzskaitļa galotni (-j) un akuzatīva galotni (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "Pirmie zēni nāk."
           frazo-2: "Viņš noķēra trešo kukaini."
         titolo: "Īpašības vārdi, kurus veido no skaitļa vārdiem"
-        vortoj: 
+        vortoj:
           dek: desmit
           dek-naŭ: deviņpadsmit
           dek-naŭa: deviņpadsmitais
           deka: desmitais
           tri: trīs
           tria: trešais
-      adverboj: 
+      adverboj:
         ekspliko-1: "Apstākļa vārdi veic tādu pat funkciju, kā īpašības vārdi, bet tā vietā, lai apzīmētu lietvārda izteiktās nozīmes, tie apzīmē darbības un īpašības vārda nozīmes, bet nesaņem galotnes -j. Parasti tie izsaka veidu, iemeslu, laiku vai vietu."
         ekspliko-2: "Esperanto valodā apstākļa vārdi parasti beidzas ar -e (ja ir darināti no vārda). Galvenā nozīme, kas izteikta vārda celmā, var tikt izmantota dažādi, pateicoties vienkāršai galotņu maiņai."
-        frazoj: 
+        frazoj:
           frazo-sana: "Viņš ir vesels."
           frazo-sane: "Viņš veselīgi dzīvo."
           frazo-sani: "Viņš veseļojas."
           frazo-sano: "Viņam ir laba veselība."
         rimarkigo: "Parasti apstākļa vārds atrodas pirms vārda, uz kuru tas attiecas."
         titolo: "Apstākļa vārdi"
-        vortoj: 
+        vortoj:
           sana: vesels
           sane: veselīgi
           sani: "būt veselam"
           sano: veselība
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Pievienojot galotni -e skaitļa vārdiem, iegūstam apstākļa vārdus:"
-        frazoj: 
+        frazoj:
           frazo-1: "Pirmkārt, viņš dzers ūdeni."
         titolo: "Apstākļa vārdi, kurus veido no skaitļa vārdiem"
-        vortoj: 
+        vortoj:
           du: divi
           due: otrkārt
           unu: viens
           unue: pirmkārt
-      numeraloj: 
+      numeraloj:
         titolo: "Skaitļa vārdi"
-      vortaro03: 
+      vortaro03:
         atendi: gaidīt
         demandi: jautāt
         fumi: smēķēt

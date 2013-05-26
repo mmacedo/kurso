@@ -1,57 +1,57 @@
---- 
-is: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+is:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "(-er) hluti af heild"
           monero: "eyrir, einstakur peningur"
           mono: peningar
           salero: saltkorn
           salo: salt
-        estr: 
+        estr:
           ekspliko: "(-estr) sá sem stjórnar, -stjóri."
           urbestro: borgarstjóri
           urbo: borg
           ŝipestro: skipstjóri
           ŝipo: skip
-        et: 
+        et:
           ekspliko: "(-et) smækkun"
           pupeto: smábrúða
           pupo: brúða
           rideti: brosa
           ridi: hlæja
-        id: 
+        id:
           ekspliko: "(-id) afkvæmi"
           katido: kettlingur
           kato: köttur
           reĝido: konungsbarn
           reĝo: konungur
-        ig: 
+        ig:
           ekspliko: "(-ig) láta eitthvað gerast"
           morti: deyja
           mortigi: drepa
           pura: hreinn
           purigi: hreinsa
-        il: 
+        il:
           ekspliko: "(-il) áhald, tæki"
           muzikilo: hljóðfæri
           muziko: tónlist
           ŝlosi: læsa
           ŝlosilo: lykill
-        in: 
+        in:
           ekspliko: "(-in) táknar náttúrlegt kvenkyn"
           kokino: hæna
           koko: hani
           onklino: frænka
           onklo: "frændi, föður-eða móðurbróðir"
-        ind: 
+        ind:
           admiri: "dást að"
           admirinda: aðdáunarverður
           ekspliko: "(-ind) að vera verður einhvers"
           laŭdi: hrósa
           laŭdinda: "lofsverður, hrósverður"
-        ist: 
+        ist:
           ekspliko: "(-isto) sem hefur aðalstarf af því sem í orðstofni segir eða aðhyllist stefnu"
           esperantisto: esperantisti
           esperanto: esperanto
@@ -61,7 +61,7 @@ is:
           raportisto: "fréttaritari, þulur"
           tajpi: vélrita
           tajpisto: vélritari
-        iĝ: 
+        iĝ:
           ekspliko: "(-iĝ) verða, breytast úr einu ástandi í annað"
           fari: gera
           fariĝi: "verða, gerast"
@@ -69,39 +69,39 @@ is:
           mateno: morgunn
           ruĝa: rauður
           ruĝiĝi: "roðna, verða rauður"
-        nj: 
+        nj:
           Maria: María
           ekspliko: "(-nj) til að mynda gælunafn konu, ásamt hluta af orðstofni sem  best hljómar með viðsk."
           manjo: Maja
           panjo: mamma
           patrino: móðir
-        obl: 
+        obl:
           du: tveir
           duobla: tvöfaldur
           ekspliko: "(obl-) margfeldi"
           tri: þrír
           trioblo: þrífeldi
         ? "on"
-        : 
+        :
           dek: tíu
           dekono: "tíundi hluti"
           ekspliko: "(-on) brot af því sem í orðstofni felst"
           kvar: fjórir
           kvarono: fjórðungur
-        op: 
+        op:
           du: tveir
           duopo: "tvennd, tveir saman"
           ekspliko: "Saman í hóp"
           ses: sex
           sesopo: "sex í hóp"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Ef hætt er við merkingarruglingi milli ólíkra þýðinga \"-uj\",  skal nota samheiti þeirra:"
           germanio: Þýskaland
           pomarbo: eplatré
           pomkesto: eplakassi
           ruslando: Rússland
         titolo: Viðskeyti
-        uj: 
+        uj:
           ekspliko: "(-uj) hlutur sem inniheldur annan hlut, tré kennt við ávöxt, land kennt við þjóð"
           franco: Frakki
           francujo: Frakkland
@@ -109,7 +109,7 @@ is:
           monujo: peningabudda
           pomo: epli
           pomujo: eplatré
-        ul: 
+        ul:
           ekspliko: "(-ul) einstaklingur með einkenni þess sem í orðstofni segir"
           kontraŭ: "á móti"
           kontraŭulo: andstæðingur
@@ -119,17 +119,17 @@ is:
           sanktulo: "helgur maður, dýrlingur"
           stulta: heimskur
           stultulo: heimskingi
-        um: 
+        um:
           ekspliko: "(-um) viðskeyti óljósrar merkingar, með mismunandi merkingum"
           kolo: háls
           kolumo: kragi
           plena: "fullur, fullkominn"
           plenumi: uppfylla
-      vortordo: 
+      vortordo:
         dialogo: |-
             Ég sá þig, ó fjársjóðurinn minn, og ég festi strax ást á þér!
              Ég trúi þér, samt skal gull vera tilbúið í pyngju!
-            
+
             Ég elska þig, minn kæri, ég hélt þú værir ekki þannig!
             Ef þú elskaðir mig, níski, gerðirðu mig vissulega að                                                                  drottningu!
         ekspliko-1: "Í þriðju lexíu sýndum við orðaröðina frumlag-sögn-sagnfylling en það er algengasta orðaröðin í esperanto.  Þó eru fleiri möguleikar fyrir hendi, að því tilskyldu að merkingin raskist ekki.  Það gerir okkur kleift að leggja áherslu á þann hluta setningarinnar sem við kjósum.  Þeir möguleikar eru nýttir í eftirfarandi setningum."

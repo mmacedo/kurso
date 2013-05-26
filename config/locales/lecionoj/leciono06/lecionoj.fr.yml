@@ -1,101 +1,101 @@
---- 
-fr: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+fr:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Apprenons maintenant les autres corrélatifs. Souvenez-vous que le système des corrélatifs est un système fermé; les seuls corrélatifs possibles sont donc ceux qui sont présentés."
         titolo: "Les corrélatifs"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Indique la qualité (peut prendre le \"j\" du pluriel et le \"n\" de l'accusatif)"
-        i: 
+        i:
           frazo: "Est-ce que tu as un certain doute sur la grammaire de l'Espéranto ?"
           vorto: "un certain, une espèce de"
-        ki: 
+        ki:
           frazo: "Comment a été votre journée ? — Ma journée fut très bonne, merci !"
           vorto: "quelle sorte de ? comment ? [de quelle sorte ?]"
-        neni: 
+        neni:
           frazo: "Non, je n'ai aucun doute à son sujet."
           vorto: "aucun, aucune, aucune sorte de"
-        ti: 
+        ti:
           frazo: "Je ne mangerai pas un tel pain."
           vorto: "tel, telle [de cette sorte]"
-        ĉi: 
+        ĉi:
           frazo: "Toute sorte d'aide est la bienvenue."
           vorto: "toute espèce de, toute sorte de"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Indique la cause, la raison"
-        i: 
+        i:
           frazo: "Je ne te connais pas encore pour une certaine raison."
           vorto: "pour une certaine raison"
-        ki: 
+        ki:
           frazo: "Pourquoi l'enfant court-il ? - Parce qu'il est très joyeux."
           vorto: "pourquoi ? [pour quelle raison ?]"
-        neni: 
+        neni:
           frazo: "Tu pourrais le provoquer n'importe comment. Il ne s'énerverait pour aucune raison."
           vorto: "pour aucune raison"
-        ti: 
+        ti:
           frazo: "Elle est très belle. C'est pour ça que je l'aime."
           vorto: "c'est pourquoi, aussi [pour cette raison]"
-        ĉi: 
+        ĉi:
           frazo: "Tu demandes pourquoi je t'aime. Je réponds : pour toutes les raisons !"
           vorto: "pour toutes sortes de raisons"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: "Indique la manière"
-        i: 
+        i:
           ekspliko: "Indéfini (correspond à \"un certain ..., une certaine ..., quelque ...\")"
           frazo: "Elle me fait penser d'une certaine manière à une autre personne."
           vorto: "d'une certaine manière, par un certain moyen"
-        ki: 
+        ki:
           ekspliko: "Indique une question, ou un lien avec la proposition qui précède."
           frazo: "Comment allez-vous ? — Je vais très bien, merci !"
           vorto: "comment ? [de quelle manière ?]"
-        neni: 
+        neni:
           ekspliko: "Indique une négation totale (correspond à \"aucun, aucune ...\")"
           frazo: "Je ne peux en aucune façon comprendre de quoi tu parles."
           vorto: "par aucun moyen [d'aucune manière]"
-        ti: 
+        ti:
           ekspliko: "Utilisé pour indiquer, montrer (démonstratif)"
           frazo: "Elle écrit aussi bien que l'institutrice."
           vorto: "ainsi, par ce moyen [de cette manière]"
-        ĉi: 
+        ĉi:
           ekspliko: "Définit le collectif, l'ensemble, la totalité"
           frazo: "Ils m'ont aidé de toutes les manières."
           vorto: "de toutes les manières"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Indique la possession"
-        i: 
+        i:
           frazo: "J'ai trouvé le livre de quelqu'un."
           vorto: "de quelqu'un, à quelqu'un"
-        ki: 
+        ki:
           frazo: "A qui est ce livre ? — C'est le livre de Jean."
           vorto: "de qui ? à qui ?"
-        neni: 
+        neni:
           frazo: "L'espéranto n'est la propriété de personne."
           vorto: "à personne, de personne"
-        ti: 
+        ti:
           frazo: "Le chat a couru sur la maison et a abîmé le toit de celle-ci."
           vorto: "de celui, de celle, de ceux, de celles"
-        ĉi: 
+        ĉi:
           frazo: "L'espéranto est la langue de tous."
           vorto: "de chacun, de tous, à tout le monde"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Indique la quantité"
-        i: 
+        i:
           frazo: "Je dois acheter une certaine quantité de café."
           vorto: "une certaine quantité"
-        ki: 
+        ki:
           frazo: "Combien font deux et deux ? — Quatre !"
           vorto: "combien ? [quelle quantité ?]"
-        neni: 
+        neni:
           frazo: "Combien d'enfants jouent dans la maison ? — Aucun."
           vorto: "rien, aucune quantité"
-        ti: 
+        ti:
           frazo: "Il a mangé autant qu'il a voulu."
           vorto: "tant, autant"
-        ĉi: 
+        ĉi:
           frazo: "Combien d'essence vous voulez ? - Je veux tout ce que vous avez."
           vorto: "le tout"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Les mots commençant par \"KI\" peuvent aussi introduire des phrases sans valeur interrogative. On les appelle \"pronoms relatifs\" car ils indiquent la relation entre les propositions principales et subordonnées. Ils peuvent être aussi \"conjonctions de subordination\" (kiam)."
         ekspliko-2: "Dans la phrase ci-dessus, \"kiun\" se rapporte à \"tiu frukto\"."
         frazo-1: "Je veux ce fruit que vous avez montré."

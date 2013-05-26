@@ -1,24 +1,24 @@
---- 
-hr: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+hr:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Da bi se izrazio nadnevak slijedite model (riječi \"dan\" i \"godine\" se podrazumijevaju):"
         titolo: Nadnevci
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Kruh je suh."
           titolo: "Tvrdnja:"
-        demando: 
+        demando:
           frazo-1: "Dali je kruh suh?"
           titolo: "Pitanje:"
         ekspliko: "Upitna rečenica dobiva na svom početku riječcu \"ću\". Pazite da se redoslijed riječi ne mijenja. Samo \"ću\" uvijek dolazi na početak. To se odnosi na upitne rečenice čiji odgovor slijedi sa \"jes\" ili \"ne\"."
-        respondo: 
+        respondo:
           frazo-negativa: "Ne, kruh nije suh."
           frazo-pozitiva: "Da, kruh je suh."
           titolo: "Odgovor:"
         titolo: "Upitne rečenice"
-      monatoj: 
+      monatoj:
         aprilo: travanj
         aŭgusto: kolovoz
         decembro: prosinac
@@ -32,7 +32,7 @@ hr:
         oktobro: listopad
         septembro: rujan
         titolo: "Mjeseci u godini"
-      salutoj: 
+      salutoj:
         saluto-1: Zdravo!
         saluto-10: "Dobar tek!"
         saluto-11: "Isto i vama, hvala!"
@@ -48,12 +48,12 @@ hr:
         saluto-8: "Dosta dobro."
         saluto-9: "Ne baš (vrlo) dobro."
         titolo: Pozdravi
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: jučer
           hodiaŭ: danas
           morgaŭ: sutra
-        semajno: 
+        semajno:
           dimanĉo: nedjelja
           lundo: ponedjeljak
           mardo: utorak
@@ -62,9 +62,9 @@ hr:
           vendredo: petak
           ĵaŭdo: četvrtak
         titolo: "Dani u tjednu"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Čitajte doljnji tekst, kojeg je napisao učenik Esperanta, i pokušajte ga razumjeti pomoću riječnika."
-        vortaro: 
+        vortaro:
           alia: "drugi (ini)"
           antaŭ: ispred
           facila: lak
@@ -72,7 +72,7 @@ hr:
           komenci: početi
           lerni: učiti
           tre: vrlo
-      vortaro04: 
+      vortaro04:
         infano: dijete
         kaj: i
         kolekti: sakupljati

@@ -1,11 +1,11 @@
---- 
-fi: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+fi:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Etusanoja eli prepositioita käytetään Suomen sijamuotojen asemesta."
         titolo: "Prepositiot I"
-        vortoj: 
+        vortoj:
           al: "-lle, luokse"
           da: "ilmaisee tiettyä määrää jtak."
           de: "ilmaisee omistamista; osaa jstk.; lähtökohtaa; tekijää"
@@ -18,9 +18,9 @@ fi:
           sur: "päällä, pinnalla"
           ĉe: "lähellä, luona"
           ĝis: "asti, saakka"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prepositiot II"
-        vortoj: 
+        vortoj:
           anstataŭ: "asemesta, sijasta"
           antaŭ: "ennen, edessä"
           apud: vieressä
@@ -39,7 +39,7 @@ fi:
           tra: lävitse
           trans: "toisella puolen, yli"
           ĉirkaŭ: "ympäri, ympärillä, noin"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Toisessa oppikappaleessa tutustuimme akkusatiivin (kohteen) päätteeseen \"-n\". Esim.:"
         ekspliko-2: "Kun lauseella on kaksi kohdette, toisen pitää olla epäsuora. Esim.:"
         ekspliko-3: "Ylläolevassa tapaukseessa preposition käyttö on välttämätöntä, ja epäsuora objekti pitää olla ilman akkusatiivin päätettä. Lisää esimerkkejä:"
@@ -58,8 +58,8 @@ fi:
         frazo-5: "Hän joi kupin kahvia."
         frazo-6: "Mene pois edestäni!"
         titolo: "Prepositiot III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: saapua
           aŭtobuseto: pikkubussi
           danki: kiitää
@@ -74,8 +74,8 @@ fi:
           sidi: istua
           tagmanĝo: päivällinen
           viziti: "käydä jssak., vierailla"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Pohjoisnapa-alue
           Kanado: Kanada
           admiri: ihailla

@@ -1,11 +1,11 @@
---- 
-pt: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+pt:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Exercício de compreensão auditiva I"
         auxdkompreno01-instrukcio: "No exercício seguinte, você ouvirá uma palavra e deverá clicar sobre o botão que corresponde à palavra correta. Se você acertar, o botão será desabilitado na tela. Do contrário, a palavra será ouvida de novo em outro momento durante o exercício. Você deverá acertar pelo menos 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. O chá está quente."
         frazo02: "2. Um professor é um pai."
         frazo03: "3. Teu pai foi bom."

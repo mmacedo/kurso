@@ -1,8 +1,8 @@
---- 
-sv: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+sv:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "I tillägg till den frågeform, som blev inlärd under lektion 2, finns andra sätt att ställa frågor på esperanto."
         frazo-1: "Är lådan blå?"
         frazo-2: "Kommer du gå till biografen?"
@@ -11,9 +11,9 @@ sv:
         frazo-5: "Lådan är inte blå, inte sant?"
         frazo-6: "Du kommer inte att gå till biografen, inte sant?"
         titolo: "Andra frågeformer"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: |-
-            Det finns uttryck på esperanto där man använder ordpar och vilkas betydelse det är intressant 
+            Det finns uttryck på esperanto där man använder ordpar och vilkas betydelse det är intressant
             att känna till.
         jen: "Anger växling"
         jen-frazo-1: "Pojken än grät än skattade."
@@ -31,11 +31,11 @@ sv:
         ĉu: "Visar de möjligheter, mellan vilka valet är likgiltig, likvärdigt, fritt eller osäkert."
         ĉu-frazo-1: "Om det var av rädsla eller av stolthet, så svarade han inget."
         ĉu-frazo-2: "Vare sig det regnar eller är solsken, kommer jag att gå."
-      horoj: 
+      horoj:
         je-kioma: "Hur dags kommer du att telefonera? (Vid hur mycket timme...)"
         kioma-estas: "Vad är klockan? (hur mycket timme är det?)"
         titolo: Timmar
-      interjekcioj: 
+      interjekcioj:
         bis: "en gång till!"
         fi: "usch!, fy!"
         ha-1: "ah!, ha!"
@@ -47,7 +47,7 @@ sv:
         titolo: "Interjektioner (utrop)"
         ve: "o!, ååå! ack!"
         ve-al-mi: "ve mig!"
-      mallongiloj: 
+      mallongiloj:
         bv: "var vänlig, var god att"
         e-isto: esperantisto
         e-o: esperanto
@@ -59,7 +59,7 @@ sv:
         str: gata
         te: "det vill säga, d.v.s."
         titolo: Förkortningar
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "som helst  (understryker obestämdhet eller likgiltighet inför urval)"
         almenaŭ: åtminstone
         ambaŭ: båda

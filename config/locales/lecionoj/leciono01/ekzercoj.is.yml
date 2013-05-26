@@ -1,11 +1,11 @@
---- 
-is: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+is:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Æfing í að skilja tal I"
         auxdkompreno01-instrukcio: "Í þessari æfingu heyrirðu orð og átt að smella á viðeigandi stað.  Ef þú gerir rétt hverfur orðið af skjánum.  Gerist það ekki, heyrirðu orðið aftur síðar í æfingunni.  Þú þarft að gera a.m.k 70% af orðunum rétt."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Teið er heitt."
         frazo02: "2. Kennari er faðir."
         frazo03: "3. Faðir þinn var góður."

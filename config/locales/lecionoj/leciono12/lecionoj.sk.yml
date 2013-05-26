@@ -1,11 +1,11 @@
---- 
-sk: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+sk:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Vypočujte si teraz pieseň v esperante, \"Bluaj Fragoj\", spievanú skupinou Merlin, brazílskou popovou zostavou, ktorá už v medzinárodnom jazyku vydala dva albumi a prezentuje sa na celom svete. Skupinu tvoria Markone Froes (hlas a gytara), Guilherme Lima (bubny), Aldrin Gandra (elektrická gytara), Sérgio Ribeiro (basgytara) a Sérgio Víeira (klavír)."
         titolo: "Esperantská hudba"
-        vortaro: 
+        vortaro:
           aliri: "Prísť, dôjsť"
           alveni-al: Prísť
           animo: Duša
@@ -19,53 +19,53 @@ sk:
           vero: Pravda
           ĉielarko: Dúha
           ĉielo: Nebo
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "V druhej lekcii sme si ukázali použitie akuzatívu (4.p) pre ukázanie priameho predmetu. Existujú slovesá, ktoré predmet nepotrebujú. Napríklad:"
         frazo-1: "Stalo sa niečo dôležité."
         frazo-2: "Dnes sa veľmi teším."
         frazo-3: "Už spia vo svojich posteliach."
         frazo-4: "Mládež veľa tancovala."
-        ig: 
+        ig:
           ekspliko: "Slovesá s príponou \"ig\" potrebujú vždy priamy predmet"
           frazo-1: "Cesta vas určite unavila."
           frazo-2: "Južné slnko hrialo na jeho holú hlavu."
           frazo-3: "Otec chce hneď vydať najstaršiu dcéru."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. Pri slovesách s \"iĝ\" vytvorených z prechodných slovies sa nejedná o zmenu stavu, ale o samotný čin, dej."
             frazo-1: "Dav bežal pomalšie ako vozítko, ktoré sa valilo veľmi rýchlo."
             frazo-2: "Zrazu sa ocitol na ulici úplne sám."
             frazo-3: "O koľkej začne lekcia?"
             frazo-4: "Davy chodcov sa pohybovali po chodníkoch."
           ekspliko: "Slovesá s príponou \"iĝ\" nepotrebuju predmet a môžu znamenať:"
-          unu: 
+          unu:
             ekspliko: "1. Prechod do nového stavu. Prípona ukazuje výsledok, nový stav. Pri slovesách končiacich na \"iĝ\" nie je dôležitý činiteľ deja:"
             frazo-1: "V zime vody zamŕzajú."
             frazo-2: "Dnes vietor znovu oteplel. (=stal sa teplým)"
             frazo-3: "Vydala sa za svojho bratranca. (=stala sa manželkou)"
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Niekoľko z týchto sloveis môžu mať predmet cez predložku:"
           ekspliko-2: "Iné môžu získať aj priamy predmet:"
           frazo-1: "Jeho otec zomrel na rakovinu."
           frazo-2: "Veľmi ma teší tvoje šťastie."
           frazo-3: "Spí hlbokým spánkom."
           frazo-4: "Tancovala s ním valčík."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Nezabudnite, že sloveso \"esti\" nevyžaduje akuzatív, a ktorý nenasleduje ani po predložkách."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Existujú ešte slovesá bez podmetu:"
           frazo-1: "Včera veľa pršalo."
           frazo-2: "Rozvidnieva sa a ja už musím ísť domov."
           frazo-3: "Veľmi silno snežilo a on nemohol výsť z chaty."
         titolo: "Prechodnosť slovies"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Určite ste si už všimli neobvyklú vyjadrovaciu schopnosť esperanta. Použitím predpôn, prípon a rôznych koncoviek je možné vytvoriť mnoho slov, dokonca aj niekoľko takých, pre ktoré nenájdede ekvivalent v národnom jazyku. Ale tu bohatosť esperanta nekončí. Vďaka systému spájania predpôn a prípon je možné slovník ešte viac rozšíriť, nájsť synonymá, zvýrazniť alebo zjemniť slová. Hľa, niekoľko príkladov tvorivost esperanta:"
         ekspliko-2: "Pomocou koncoviek, predpôn a prípon:"
         ekspliko-3: "Pomocou spájania slovných koreňov. Koncovku prvého je možné vynechať, pokiaľ to zrozumiteľnosť a ľúbozvučnosť dovoľuje."
         ekspliko-4: "Vytváranie slov zo skupiny slov:"
         rimarkigo: "Hoci je možné vytvárať slová pomocou viac ako dvoch predpôn alebo/a prípon, nedoporučuje sa to, a to jasnosť a zrozumiteľnosť. Preto namiesto \"belulineto\" použite radšej \"eta \"belulino\".."
         titolo: "Tvorenie slov v esperante"
-        vortoj: 
+        vortoj:
           antaŭbrako: predlaktie
           balenŝipo: "veľrybárska loď"
           helruĝo: "svetlá červená"

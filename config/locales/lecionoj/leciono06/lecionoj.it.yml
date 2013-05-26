@@ -1,101 +1,101 @@
---- 
-it: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+it:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Impariamo gli altri correlativi. Va osservato che quello dei correlativi è un sistema conchiuso; vale a dire: non è possibile derivare altri correlativi oltre a quelli qui considerati."
         titolo: Correlativi
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Denota qualità, specie (può prendere le terminazioni -j ed -n)"
-        i: 
+        i:
           frazo: "Hai dubbi (letteralmente: un dubbio) di qualche genere sulla grammatica dell'esperanto?"
           vorto: "Di [un] qualche genere; Di [una] qualche specie"
-        ki: 
+        ki:
           frazo: "Com'è stata la tua giornata? - La mia giornata è stata molto buona, grazie!"
           vorto: "Di che genere? Di quale specie?"
-        neni: 
+        neni:
           frazo: "No, non ho dubbio di sorta in proposito. (Letteralmente: ... su di essa)."
           vorto: "Di nessuna specie; Di nessun genere"
-        ti: 
+        ti:
           frazo: "Non mangerò pane di tal genere."
           vorto: "Tale; Di tal genere / specie / fatta; Siffatto / a"
-        ĉi: 
+        ĉi:
           frazo: "Qualsiasi aiuto è benvenuto."
           vorto: "D'ogni specie; D'ogni genere; Qualsiasi"
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Denota causa, motivo"
-        i: 
+        i:
           frazo: "Per qualche ragione, ancora non ti / vi conosco."
           vorto: "Per qualche motivo / ragione"
-        ki: 
+        ki:
           frazo: "Perché il bambino corre? — Perché è molto gioioso."
           vorto: "Perché? Per quale motivo?"
-        neni: 
+        neni:
           frazo: "Potresti provocarlo in qualunque modo (misura). Per nessuna ragione andrebbe in collera."
           vorto: "Per nessun motivo; Per nessuna ragione."
-        ti: 
+        ti:
           frazo: "[Lei] è molto bella. Perciò la amo."
           vorto: "Perciò; Per ciò; Per tanto"
-        ĉi: 
+        ĉi:
           frazo: "Mi domandi perché t'amo. Rispondo: per tutte le ragioni [di questo mondo]."
           vorto: "Per tutte le ragioni."
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: "Denota il modo, la maniera."
-        i: 
+        i:
           ekspliko: "Denota indefinitezza."
           frazo: "[Lei] mi ricorda, in qualche modo, un'altra persona."
           vorto: "In qualche modo"
-        ki: 
+        ki:
           ekspliko: "Denota una domanda; oppure una relazione con la proposizione precedente."
           frazo: "Come stai? — Sto molto bene, grazie!"
           vorto: Come
-        neni: 
+        neni:
           ekspliko: "Denota negazione."
           frazo: "Non posso in alcun modo comprendere cosa dici"
           vorto: "In nessun modo"
-        ti: 
+        ti:
           ekspliko: "Usato per indicare, mostrare."
           frazo: "Lei scrive [così] bene come la insegnante."
           vorto: Così
-        ĉi: 
+        ĉi:
           ekspliko: "Denota la totalità degli elementi di un insieme, di una collezione."
           frazo: "Mi hanno aiutato in ogni modo."
           vorto: "In ogni modo"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Denota possesso, proprietà."
-        i: 
+        i:
           frazo: "Ho trovato il libro di qualcuno."
           vorto: "Di qualcuno"
-        ki: 
+        ki:
           frazo: "Di chi è quel libro (letteralmente: quello è il libro di chi)? — Quello è il libro di Giovanni."
           vorto: "Di chi?; Di cui; Del / Della quale"
-        neni: 
+        neni:
           frazo: "L'esperanto non è proprietà di alcuno."
           vorto: "Di nessuno; Non ... di alcuno"
-        ti: 
+        ti:
           frazo: "Il gatto corse sopra la casa e ne danneggiò il tetto."
           vorto: "Di quello / a; Di ciò; Ne"
-        ĉi: 
+        ĉi:
           frazo: "L'esperanto è proprietà di ciascheduno."
           vorto: "Di ognuno; Di ciasc(hed)uno; Di tutti"
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Denota quantità."
-        i: 
+        i:
           frazo: "Devo comprare un po' di caffè."
           vorto: "Un poco; Un po'"
-        ki: 
+        ki:
           frazo: "Quanto fa due più due? — Quattro!"
           vorto: Quanto
-        neni: 
+        neni:
           frazo: "Quanti bambini giocano nella casa? — Punti (in nessuna misura; nessuno)."
           vorto: "Per niente; [Nient']affatto; Punto (nel senso di: \"in nessuna misura\")"
-        ti: 
+        ti:
           frazo: "[Lui] ha mangiato [tanto] quanto ha voluto."
           vorto: Tanto
-        ĉi: 
+        ĉi:
           frazo: "Quanta benzina vuoi? — [Ne] voglio [tanta] quanta [ne] hai."
           vorto: "Del tutto, interamente"
-      relativoj: 
+      relativoj:
         ekspliko-1: "Le parole che iniziano con \"ki-\" possono introdurre anche proposizioni non interrogative. Queste sono allora designate come \"proposizioni relative\" (in quanto denotano la relazione che sussiste tra la proposizione secondaria in cui si trovano, e la proposizione principale a cui corrispondono)."
         ekspliko-2: "Nella frase soprastante, il \"che\" si riferisce a \"quel frutto\"."
         frazo-1: "Voglio il [letteralmente: quel] frutto che hai mostrato."

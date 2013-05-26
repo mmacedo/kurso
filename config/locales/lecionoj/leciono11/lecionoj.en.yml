@@ -1,8 +1,8 @@
---- 
-en: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+en:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Besides the way shown in lesson 2, there are other ways to make questions:"
         frazo-1: "Is the box blue?"
         frazo-2: "Are you going to the movies?"
@@ -11,7 +11,7 @@ en:
         frazo-5: "The box isn't blue, is it?"
         frazo-6: "You aren't going to the movies, are you?"
         titolo: "Other interrogative forms"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Some expressions use a pair of words:"
         jen: Contrast
         jen-frazo-1: "The boy at times cried, at times laughed."
@@ -29,11 +29,11 @@ en:
         ĉu: "whether . . . whether, whether . . . or"
         ĉu-frazo-1: "Whether for fear or for pride, he didn't answer."
         ĉu-frazo-2: "Rain or shine, I will certainly go. (Whether it rains or whether it shines, . . .)"
-      horoj: 
+      horoj:
         je-kioma: "At what time will you telephone me?"
         kioma-estas: "What time is it?"
         titolo: Time
-      interjekcioj: 
+      interjekcioj:
         bis: "encore! one more time!"
         fi: shame!
         ha-1: ah!
@@ -45,7 +45,7 @@ en:
         titolo: Interjections
         ve: woe!
         ve-al-mi: "poor me!"
-      mallongiloj: 
+      mallongiloj:
         bv: please
         e-isto: esperantist
         e-o: Esperanto
@@ -57,7 +57,7 @@ en:
         str: street
         te: "this is, i.e."
         titolo: abbreviations
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "whatever, at all"
         almenaŭ: "at least"
         ambaŭ: both

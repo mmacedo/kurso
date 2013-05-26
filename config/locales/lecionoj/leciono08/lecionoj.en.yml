@@ -1,38 +1,38 @@
---- 
-en: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+en:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Equality:"
           frazo-1: "Esperanto is as beautiful as it is useful."
           frazo-2: "Nothing is so valuable as your health."
           frazo-3: "She is as beautiful as her mother."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Inferiority:"
           frazo-1: "My brother is younger than I."
           frazo-2: "He writes less beautifully than the girl."
           frazo-3: "The husband talks less loudly than the wife."
-        supereco: 
+        supereco:
           ekspliko: "Superiority:"
           frazo-1: "Milk is more nutritious than wine."
           frazo-2: "John is taller than Peter."
           frazo-3: "The sun is bigger than the moon."
         titolo: Comparison
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: son-in-law
           bofratino: sister-in-law
           bopatrino: "mother in-law"
           bopatro: "father in-law"
           ekspliko: "relationship by marriage"
-        dis: 
+        dis:
           disdoni: "to distribute"
           disfali: "to crumble, to fall to pieces"
           disflugi: "to fly off in several directions"
           dissemi: "to disseminate, to spread"
           ekspliko: "distribution, dispersion"
-        duon: 
+        duon:
           duondio: demi-god
           duonfilino: step-daughter
           duonhoro: "half an hour"
@@ -40,37 +40,37 @@ en:
           ekspliko: half
           filino: daughter
           horo: hour
-        ek: 
+        ek:
           ekbrilo: "flash, spark"
           ekdormi: "to start to sleep, doze off"
           ekiri: "to start to walk"
           ekpluvi: "to start to rain"
           ekspliko: "beginning, sudden change, or momentary action"
-        eks: 
+        eks:
           eksedziĝi: "to become divorced (of a man)"
           eksfianĉo: ex-fiance
           eksiĝi: "to resign"
           ekspliko: "shows an action or state that no longer exists"
           eksprezidanto: ex-president
-        fi: 
+        fi:
           ekspliko: "bad (morally)"
           fidomo: "house of bad repute"
           fikomercisto: "dishonest businessman"
           fivirino: "slut, worthless woman"
           komercisto: businessman
-        ge: 
+        ge:
           ekspliko: "both sexes (two or more individuals)"
           geamikoj: "friends (both sexes)"
           gefiloj: "son(s) and daughter(s)"
           gefratoj: "brother(s) and sister(s)"
           gepatroj: "father(s) and mother(s)"
-        mal: 
+        mal:
           dekstro: "right (hand side)"
           ekspliko: "the opposite"
           fermi: "to close"
           maldekstro: "left (hand side)"
           malfermi: "to open"
-        mis: 
+        mis:
           ekspliko: "mistake, error, not fitting"
           kompreni: "to understand"
           miskompreni: "to misunderstand"
@@ -78,7 +78,7 @@ en:
           misuzo: misuse
           paŝo: step
           uzo: use
-        pra: 
+        pra:
           ekspliko: "from long ago"
           historio: history
           nepo: grandson
@@ -86,21 +86,21 @@ en:
           prahistorio: prehistory
           prahomo: "ancestral human, pre-human"
           pranepo: great-grandson
-        re: 
+        re:
           ekspliko: "repetition, again, back"
           reaperi: "to reappear"
           refari: "to do, to make again"
           reteni: "to hold back, retain"
           reveni: "to return, to come back"
         titolo: Prefixes
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "prolonged or repeated action."
           parolado: "speech, continuous talking"
           paroli: "to talk"
           rigardadi: "to contemplate"
           rigardi: "to regard, to look at"
-        an: 
+        an:
           brazilano: Brazilian
           ekspliko: "member, citizen"
           eŭropano: European
@@ -108,25 +108,25 @@ en:
           kristano: Christian
           kristo: Christ
           usonano: "citizen of the USA"
-        ar: 
+        ar:
           ekspliko: "collection, group, cluster, herd"
           vortaro: "dictionary, vocabulary"
           vorto: word
           ŝafaro: "flock of sheep"
           ŝafo: sheep
-        aĉ: 
+        aĉ:
           domaĉo: shack
           domo: house
           ekspliko: "bad; low quality"
           skribaĉi: "to scribble, write badly"
           skribi: "to write"
-        aĵ: 
+        aĵ:
           dolĉa: sweet
           dolĉaĵo: "candy, something sweet"
           ekspliko: "concrete thing or object"
           pentraĝo: "a painting, a picture"
           pentri: "to paint"
-        ebl: 
+        ebl:
           ekspliko: possibility
           kredebla: credible
           kredi: "to believe"
@@ -134,19 +134,19 @@ en:
           legi: "to read"
           videbla: visible
           vidi: "to see"
-        ec: 
+        ec:
           amikeco: "friendship, amity"
           amiko: friend
           ekspliko: "abstract quality (English  -ness)"
           mola: soft
           moleco: softness
-        eg: 
+        eg:
           ekspliko: "big, more intense"
           ridegi: "to laugh loudly, raucously"
           ridi: "to laugh"
           ventego: "wind storm, gale"
           vento: wind
-        ej: 
+        ej:
           ekspliko: place
           oficejo: "office (room), workplace"
           ofico: "office, function, post, job"
@@ -154,26 +154,26 @@ en:
           preĝi: "to pray"
           ĉevalejo: stable
           ĉevalo: horse
-        em: 
+        em:
           babilema: talkative
           babili: "to chatter, to talk"
           ekspliko: "inclination, tendency"
           ŝparema: thrifty
           ŝpari: "to save, spare"
-        end: 
+        end:
           ekspliko: "that should or must be done"
           farenda: "that has to be done"
           fari: "to make, to do"
           legenda: "that should be read"
           legi: "to read"
         titolo: Suffixes
-        ĉj: 
+        ĉj:
           ekspliko: "nickname for males. (root may be shortened or altered)"
           jozefo: Joseph
           joĉjo: Joe
           patro: father
           paĉjo: "daddy, dad, pa, papa"
-      superlativo: 
+      superlativo:
         ekspliko-1: "The superlative is used when one member of a group shows a quality in a degree higher (or lower) than all of the others."
         ekspliko-2: "When comparing only two people, things or groups use \"PLI\" or \"MALPLI\"."
         frazo-1: "Of all my children, Ernest is the youngest."

@@ -1,57 +1,57 @@
---- 
-es: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+es:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Uno de los elementos componentes de la totalidad"
           monero: moneda
           mono: dinero
           salero: "grano de sal"
           salo: sal
-        estr: 
+        estr:
           ekspliko: "Alguien que está en el rango primero y superior, y posee poder de ordenar."
           urbestro: alcalde
           urbo: ciudad
           ŝipestro: capitán
           ŝipo: barco
-        et: 
+        et:
           ekspliko: "Pequeño, poco intenso"
           pupeto: muñequito
           pupo: muñeco
           rideti: sonreír
           ridi: reír
-        id: 
+        id:
           ekspliko: "Niño, hijo, descendiente"
           katido: minino
           kato: gato
           reĝido: príncipe
           reĝo: rey
-        ig: 
+        ig:
           ekspliko: "Mandar, obligar a hacer, hacer"
           morti: morir
           mortigi: "matar, hacer morir"
           pura: limpio
           purigi: "mandar a limpiar"
-        il: 
+        il:
           ekspliko: "Instrumento o aparato que sirve para realizar la acción."
           muzikilo: "instrumento musical"
           muziko: música
           ŝlosi: cerrar
           ŝlosilo: llave
-        in: 
+        in:
           ekspliko: "Indica el sexo femenino"
           kokino: gallina
           koko: gallo
           onklino: tía
           onklo: tío
-        ind: 
+        ind:
           admiri: admirar
           admirinda: "digno de admirar"
           ekspliko: "Indica carácter meritorio, que es digno de"
           laŭdi: aplaudir
           laŭdinda: "digno de aplaudir"
-        ist: 
+        ist:
           ekspliko: "Profesión, ocupación cotidiana"
           esperantisto: esperantista
           esperanto: Esperanto
@@ -61,7 +61,7 @@ es:
           raportisto: reportero
           tajpi: teclear
           tajpisto: mecanógrafo
-        iĝ: 
+        iĝ:
           ekspliko: "Hacerse (sin agente externo)"
           fari: hacer
           fariĝi: hacerse
@@ -69,39 +69,39 @@ es:
           mateno: mañana
           ruĝa: rojo
           ruĝiĝi: enrojecerse
-        nj: 
+        nj:
           Maria: María
           ekspliko: "Sufijo cariñoso para mujeres (usando parte de la raíz y conservando sonido armónico)"
           manjo: Marucha
           panjo: mamá
           patrino: madre
-        obl: 
+        obl:
           du: dos
           duobla: doble
           ekspliko: Múltiple
           tri: tres
           trioblo: triple
         ? "on"
-        : 
+        :
           dek: diez
           dekono: décimo
           ekspliko: "Fracción de la raíz"
           kvar: cuatro
           kvarono: cuarto
-        op: 
+        op:
           du: dos
           duopo: par
           ekspliko: "Según grupos de, a razón de"
           ses: seis
           sesopo: "en grupo de seis"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Cuando vaya a ocurrir confusión entre los significados de este sufijo, use en su lugar un sinónimo:"
           germanio: Alemania
           pomarbo: "árbol de manzanas"
           pomkesto: "cesto de manzanas"
           ruslando: Rusia
         titolo: Sufijos
-        uj: 
+        uj:
           ekspliko: "Objeto que contiene a otro, el árbol que da el fruto, el país que contiene los habitantes"
           franco: francés
           francujo: Francia
@@ -109,7 +109,7 @@ es:
           monujo: monedero
           pomo: manzana
           pomujo: manzano
-        ul: 
+        ul:
           ekspliko: "El ser caracterizado por la raíz"
           kontraŭ: contra
           kontraŭulo: opositor
@@ -119,13 +119,13 @@ es:
           sanktulo: "santo (persona)"
           stulta: estúpido
           stultulo: "estúpido (persona)"
-        um: 
+        um:
           ekspliko: "Sufijo sin sentido definivo, con significado variable"
           kolo: cuello
           kolumo: collar
           plena: lleno
           plenumi: ejecutar
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Te vi, ¡oh tesoro, e inmediatamente te comencé a amar!
             — Te creo, pero que esté listo el oro en la cartera.

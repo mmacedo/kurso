@@ -1,11 +1,11 @@
---- 
-de: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+de:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Präpositionen stehen meist vor Nomen/Substantiven - und stellen zu diesen einen inhaltlichen Bezug her (Ort, Zeit, Art, Grund). Deshalb spricht man auch von \"Verhältniswörtern\"."
         titolo: "Präpositionen I - Verhältniswörter"
-        vortoj: 
+        vortoj:
           al: zu
           da: "an [quantitativ]"
           de: von
@@ -18,9 +18,9 @@ de:
           sur: auf
           ĉe: "bei [räumlich]"
           ĝis: bis
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Präpositionen II"
-        vortoj: 
+        vortoj:
           anstataŭ: statt
           antaŭ: vor
           apud: bei
@@ -39,7 +39,7 @@ de:
           tra: "durch (hindurch)"
           trans: jenseits
           ĉirkaŭ: "um (herum)"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: |-
             In der 2. Lektion haben wir die Endung "-n" beim Akkusativ(objekt) kennen gelernt.
             Im folgenden Beispiel steht ein Akkusativ:
@@ -58,8 +58,8 @@ de:
         frazo-5: "Er trank eine Tasse Kaffee."
         frazo-6: "Hinweg von mir! [wörtl.: Geh weg von vor mir!]"
         titolo: "Präpositionen III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "ankommen, gelangen"
           aŭtobuseto: Kleinbus
           danki: danken
@@ -74,8 +74,8 @@ de:
           sidi: sitzen
           tagmanĝo: Mittagessen
           viziti: besuchen
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "Arktis [Gebiet um Nordpol]"
           Kanado: Kanada
           admiri: bewundern

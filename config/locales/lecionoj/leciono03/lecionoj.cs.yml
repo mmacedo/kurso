@@ -1,48 +1,48 @@
---- 
-cs: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+cs:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Řadové číslovky tvoříme přidáním koncovky \"a\" k základní číslovce. Protože mají tvar přídavného jména, mohou přibírat koncovku množného čísla (-j) a akuzativu (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "První chlapci přicházejí."
           frazo-2: "Chytil již třetí exemplář hmyzu."
         titolo: "Přídavná jména z číslovek"
-        vortoj: 
+        vortoj:
           dek: deset
           dek-naŭ: devatenáct
           dek-naŭa: devatenáctý
           deka: desátý
           tri: tři
           tria: třetí
-      adverboj: 
+      adverboj:
         ekspliko-1: "Příslovce fungují podobně jako přídavná jména, neupřesňují však smysl podstatných jmen, nýbrž smysl sloves a přídavných jmen, nemohou však získat koncovku \"j\". Všeobecně vyjadřují způsob, příčinu, čas nebo místo."
         ekspliko-2: "V esperantu končí příslovce většinou na -e (týká se to všech příslovcí odvozených od jiných slovních druhů). Základní význam slovního kořenu může být použit v různých slovních druzích prostou výměnou koncovky."
-        frazoj: 
+        frazoj:
           frazo-sana: "Je zdravý."
           frazo-sane: "Žije zdravě."
           frazo-sani: "Je zdravý."
           frazo-sano: "Má dobré zdraví."
         rimarkigo: "Příslovce obvykle klademe před slovo, ke kterému patří."
         titolo: Příslovce
-        vortoj: 
+        vortoj:
           sana: zdravý
           sane: zdravě
           sani: "být zdravý"
           sano: zdraví
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Přidáním konckovky -e k číslovce základní tvoříme příslovce s významem \"za ...-é\":"
-        frazoj: 
+        frazoj:
           frazo-1: "Nejdříve se napije vody."
         titolo: "Příslovce z číslovek"
-        vortoj: 
+        vortoj:
           du: dva
           due: "za druhé"
           unu: jeden
           unue: "za prvé, nejdříve"
-      numeraloj: 
+      numeraloj:
         titolo: Číslovky
-      vortaro03: 
+      vortaro03:
         atendi: čekat
         demandi: "ptát se"
         fumi: kouřit

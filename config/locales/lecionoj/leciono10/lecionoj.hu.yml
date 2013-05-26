@@ -1,11 +1,11 @@
---- 
-hu: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+hu:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Még több az igékrõl: már láttuk, hogy az igék \"as\"-szal végzõdnek jelen idõben, \"is\"-szel múlt idõben, \"os\"-szal jövõ idõben. A fõnévi igenevek \"i\" -vel végzõdnek. Vannak egyéb igealakok is:"
         titolo: "Egyéb igealakok"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Az (-u) felszólító mód általában a második személyre vonatkozik, és nem szükséges használni a névmást. Az elsõ vagy a harmadik személy esetében azonban szükséges a vonatkozó névmás."
         ekspliko-2: "Az (-u) végzõdés betûje jelenthet: parancsot, kérelmet, intelmet, óhajt, szükséget, kötelezettséget, engedélyt, tiltást. A \"remélem, félek, nem hiszem, feltételezem, stb.\" esetén azonban használjuk a jövõ idõ (-os) végzõdését."
         frazo-1: "Zárd be az ablakot, és ülj le!"
@@ -17,8 +17,8 @@ hu:
         frazo-7: "Javaslom, hogy jöjjön."
         frazo-8: "Lehet, hogy jönni fog."
         titolo: "Felszólító mód  (-U)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Meg kell értsem."
           devas-veni: "Kell jönnöm."
           devi: "kelleni (valamit tenni)"
@@ -28,29 +28,29 @@ hu:
           volas-kompreni: "Meg akarom érteni."
           volas-veni: "Akarok jönni."
           voli: akarni
-        scio: 
+        scio:
           frazo-koni-1: "Én ismerek...  (valakit, egy helyet...)"
           frazo-koni-2: "Ismered Jánost?"
           frazo-scii-1: "Én tudom(tudok)...  (a matematikát, tudományt, írni...)"
           frazo-scii-2: "Ismered az eszperantót?"
         titolo: "Néhány nagyon fontos ige"
-        ŝato: 
+        ŝato:
           frazo-ami: "Imádok(szeretek) valakit."
           frazo-plaĉi-1: "Valami vagy valaki tetszik nekem."
           frazo-plaĉi-2: "A könyvek tetszenek nekem."
           frazo-ŝati: "Szeretek valamit."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Ha gazdag lennék, nagyon sokat utaznék."
         frazo-2: "Mi ennénk a kenyeret, ha az jó volna."
         titolo: "Feltételes mód (-US)"
-      nerekta: 
+      nerekta:
         ekspliko: "A idézett beszédben ugyanazt az igeidõt és módot használjuk, mint a közvetlenben. Példák:"
         frazo-1: "Azt mondta: \"New York-ból jövök\""
         frazo-2: "Azt mondta, hogy New York-ból jön."
         frazo-3: "Azt mondta: \"Párizsba fogok utazni.\""
         frazo-4: "Azt mondta, hogy Párizsba fog utazni."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Épp olvasni fogok."
           frazo-presenco: "Épp olvasok."
           frazo-preterito: "Épp olvastam."
@@ -74,7 +74,7 @@ hu:
         frazo-7: "Az (akkor) bezárt ajtó"
         frazo-8: "Felkelõ nap"
         frazo-9: "A túlélõk"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Olvasom a könyvet = A könyv épp olvasva van általam."
           frazo-futuro: "A könyv éppen olvasva lesz."
           frazo-presenco: "A könyv éppen olvasva van."
@@ -84,7 +84,7 @@ hu:
           preterito: "Múlt:  -it"
           titolo: "Szenvedõ igealak"
         titolo: "Melléknévi igenevek"
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "A \"si\" a harmadik személy visszaható névmása, amelyet akkor használunk, amikor a mondat alanyára hivatkozunk."
         ekspliko-2: "A \"sia\" nem lehet része magának az alanynak. Ilyenkor használjuk a \"lia\",  \"ŝia\",  \"ĝia\",  vagy  \"ilia\" birtokos személyi névmásokat! A következõ példákban a \"filo\" a \"li\" -re vonatkozik."
         frazo-1: "János megmosta magát (megmosakodott)."

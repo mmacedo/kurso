@@ -1,11 +1,11 @@
---- 
-fr: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+fr:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Les prépositions sont des petits mots qui indiquent la relation entre deux mots."
         titolo: "Prépositions I"
-        vortoj: 
+        vortoj:
           al: "vers, à (indique le mouvement vers un lieu ou vers le bénéficiaire)"
           da: "de (pour indication de quantité)"
           de: "de, à partir de, depuis (temps, lieu)"
@@ -18,9 +18,9 @@ fr:
           sur: "sur, au-dessus de (avec contact)"
           ĉe: "à côté de, tout près de, contre, à l'endroit de, chez (quelqu'un)"
           ĝis: "jusqu'à, jusqu'à ce que"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prépositions II"
-        vortoj: 
+        vortoj:
           anstataŭ: "au lieu de, à la place de"
           antaŭ: "avant, devant"
           apud: "près de, à côté de"
@@ -39,7 +39,7 @@ fr:
           tra: "à travers, au travers de"
           trans: "au-delà de (en franchissant)"
           ĉirkaŭ: "autour de"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Nous avons vu, dans la deuxième leçon, que le \"-n\" indique le complément d'objet direct. C'est l'accusatif. Ex. :"
         ekspliko-2: "Quand une phrase contient deux compléments d'objet, l'un des deux doit être un complément indirect. Ex. :"
         ekspliko-3: "L'utilisation ci-dessus de la préposition est nécessaire et le complément d'objet indirect ne prend pas la terminaison de l'accusatif. Voici d'autres exemples :"
@@ -56,8 +56,8 @@ fr:
         frazo-5: "Il a bu une tasse de café."
         frazo-6: "Va-t'en de devant moi !"
         titolo: "Prépositions III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "arriver à (ou dans)"
           aŭtobuseto: minibus
           danki: remercier
@@ -72,8 +72,8 @@ fr:
           sidi: "être assis"
           tagmanĝo: "repas du midi"
           viziti: "visiter, rendre visite"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: l'Arctique
           Kanado: Canada
           admiri: admirer

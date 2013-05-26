@@ -1,11 +1,11 @@
---- 
-fr: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+fr:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Exercices - Nombres cardinaux"
         numeraloj-ekzercoj-instrukcioj: "Tapez dans l'espace prévu le nombre cardinal correspondant au texte donné. Pour valider la réponse, utilisez la touche Entrée ou cliquez sur le bouton situé à la droite de votre réponse. Essayez d'atteindre au moins 70 %."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Il l'aime. (la personne aimée est une femme)"
         frazo02: "2. Il aime sa soeur. (il s'agit de la soeur de sa femme)"
         frazo03: "3. Elle l'aime. (la personne aimée est un homme)"

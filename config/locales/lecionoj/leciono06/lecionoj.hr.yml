@@ -1,101 +1,101 @@
---- 
-hr: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+hr:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Sada naučimo i ostale korelative. Imajte na umu da je korelativni sustav ograničen na određeni broj, to znači, da ih nije moguće tvoriti još, izvan sada prikazanih."
         titolo: Korelativi
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Pokazuje kakvoću, vrstu (može dobivati nastavke \"j\" i \"n\")"
-        i: 
+        i:
           frazo: "Imate li kakvu sumnju o gramatici Esperanta?"
           vorto: nekakav
-        ki: 
+        ki:
           frazo: "Kakav je vaš dan? — Moj dan je vrlo dobar, hvala!"
           vorto: kakav
-        neni: 
+        neni:
           frazo: "Ne, nemam nikakvu sumnju o njoj."
           vorto: nikakav
-        ti: 
+        ti:
           frazo: "Neću jesti takav kruh."
           vorto: takav
-        ĉi: 
+        ĉi:
           frazo: "Svakakva pomoć je dobrodošla."
           vorto: svakakav
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Uzrok, razlog"
-        i: 
+        i:
           frazo: "Ja vas radi nečeg još ne poznajem."
           vorto: "zbog nečega"
-        ki: 
+        ki:
           frazo: "Zašto dijete trči? — Jer je vrlo veselo."
           vorto: zašto
-        neni: 
+        neni:
           frazo: "Možete ga srditi koliko god. On se nebi ljutio ni zbog kojeg razloga."
           vorto: "ni zbog čega"
-        ti: 
+        ti:
           frazo: "Ona je vrlo lijepa. Zato ju volim."
           vorto: zato
-        ĉi: 
+        ĉi:
           frazo: "Vi pitate, zašto vas volim. Odgovaram: radi svega!"
           vorto: svakako
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: Način
-        i: 
+        i:
           ekspliko: "Pokazuje neodređenost."
           frazo: "Ona me nekako podsjeća na drugu osobu."
           vorto: nekako
-        ki: 
+        ki:
           ekspliko: "Upitna zamjenica; odnosi se na predhodnu složenu rečenicu."
           frazo: "Kako se osjećate? — Osjećam se vrlo dobro, hvala!"
           vorto: kako
-        neni: 
+        neni:
           ekspliko: "Predstavlja niječni smisao."
           frazo: "Nikako ne mogu razumjeti, što govorite."
           vorto: nikako
-        ti: 
+        ti:
           ekspliko: "Koristi se indikativno, pokazno."
           frazo: "Ona piše tako dobro, kao i učiteljica."
           vorto: tako
-        ĉi: 
+        ĉi:
           ekspliko: "Prikazuje zbir, grupu."
           frazo: "Oni su mi pomogli na bilo koji način."
           vorto: "na svaki način"
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Pokazuje svojinu."
-        i: 
+        i:
           frazo: "Našao sam nečiju knjigu."
           vorto: nečiji
-        ki: 
+        ki:
           frazo: "Čija je ono knjiga? — Ono je knjiga od Ivana."
           vorto: čiji
-        neni: 
+        neni:
           frazo: "Esperanto (ni-) je ničije vlasništvo."
           vorto: ničiji
-        ti: 
+        ti:
           frazo: "Mačak je trčao po kući i oštetio (od kuće) krov."
           vorto: "od onog"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto je svačiji jezik."
           vorto: svačiji
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Prikazuje količinu."
-        i: 
+        i:
           frazo: "Moram kupiti nešto kave."
           vorto: nešto
-        ki: 
+        ki:
           frazo: "Koliko je dva i dva? — Četiri!"
           vorto: koliko
-        neni: 
+        neni:
           frazo: "Koliko djece se igra u kući? - Ništa."
           vorto: ništa
-        ti: 
+        ti:
           frazo: "Jeo je toliko, koliko je htio."
           vorto: toliko
-        ĉi: 
+        ĉi:
           frazo: "Koliko benzina želite? - Želim sve, koliko imate."
           vorto: svekoliko
-      relativoj: 
+      relativoj:
         ekspliko-1: "Riječ koja započinje sa \"KI\" može uvoditi i u neupitne rečenice. Takve riječi se zovu relativi, jer pokazuju odnos između zavisne i glavne rečenice."
         ekspliko-2: "U gornjoj rečenici \"kiun\" odnosi se na \"ovo voće\"."
         frazo-1: "Volim to voće, koje ste pokazali."

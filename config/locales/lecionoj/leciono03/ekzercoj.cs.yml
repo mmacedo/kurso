@@ -1,11 +1,11 @@
---- 
-cs: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+cs:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Cvičení - Číslovky"
         numeraloj-ekzercoj-instrukcioj: "Napište do určeného prostoru číslovku odpovídající zadanému textu. Volbu potvrďte Entrem nebo klikněte na spodní buton. Zkuste uhodnout aspoň 70%."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. On ji miluje."
         frazo02: "2. On miluje její sestru."
         frazo03: "3. Ona ho miluje."

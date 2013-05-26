@@ -1,8 +1,8 @@
---- 
-la: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+la:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Pievienojot 4.lekcijā apgūtās jautājamās formas, esperanto ir citas jautājumu uzdošanas manieres:"
         frazo-1: "Vai kastīte ir zila?"
         frazo-2: "Vai jūs iesiet uz kinoteātri?"
@@ -11,7 +11,7 @@ la:
         frazo-5: "Kastīte nav zila?"
         frazo-6: "Jūs iesiet uz kinoteātri?"
         titolo: "Citas jautājamās formas"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Esperanto valodā ir saikļi, kurus lieto pārī:"
         jen: "Latviešu valodā atbilst atkārtojuma saiklim \"te... te...\""
         jen-frazo-1: "Zēns te raudāja, te smējās."
@@ -29,11 +29,11 @@ la:
         ĉu: "Atbilst atkārtojuma saikļiem \"vai... vai...\""
         ĉu-frazo-1: "Vai no bailēm, vai no lepnuma, viņš neko neatbildēja."
         ĉu-frazo-2: "Vai līs lietus, vai būs saule, es taču iešu."
-      horoj: 
+      horoj:
         je-kioma: "Cikos jūs piezvanīsiet?"
         kioma-estas: "Cik ir pulkstenis? (Kura stunda ir?)"
         titolo: Pulkstenis
-      interjekcioj: 
+      interjekcioj:
         bis: atkārtot!
         fi: "fui! (riebums)"
         ha-1: "ā!  (izbrīns)"
@@ -45,7 +45,7 @@ la:
         titolo: "Izsauksmes vārdi"
         ve: "ak!; bēda! (sāpes)"
         ve-al-mi: "bēda man! (sāpes)"
-      mallongiloj: 
+      mallongiloj:
         bv: lūdzu
         e-isto: esperantists
         e-o: esperanto
@@ -57,7 +57,7 @@ la:
         str: iela
         te: "t.i., tas ir"
         titolo: Saīsinājumi
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "partikula nenoteiktības apzīmēšanai (daliņa \"jeb-\")"
         almenaŭ: vismaz
         ambaŭ: abi

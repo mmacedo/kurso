@@ -1,69 +1,69 @@
---- 
-sv: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+sv:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: |-
-            Det finns en annan ändelse, mycket användbar, vilken gör det möjligt för oss att identifiera det 
-            direkta objektet i en mening. Det är ackusativändelsen -n, som man placerar i slutet av sub- 
-            stantiv, adjektiv och pronomina  för att skapa ackusativformen. Tack vare n-ändelsen kan man 
+            Det finns en annan ändelse, mycket användbar, vilken gör det möjligt för oss att identifiera det
+            direkta objektet i en mening. Det är ackusativändelsen -n, som man placerar i slutet av sub-
+            stantiv, adjektiv och pronomina  för att skapa ackusativformen. Tack vare n-ändelsen kan man
             identifiera det direkta objektet även om man använder omvänd ordföljd.
         ekspliko-2: "OBS att man placerar pluraländelsen 'j' före ackusativändelsen 'n' och att dessa alltid återfinns i slutet av ordet. Det direkta objektet kan uppträda i början, mitten eller slutet av meningen. Detta ändrar på inget sätt meningens innebörd eftersom betydelsen styrs av ackusativet. Här är tre fraser som har samma betydelse."
         frazo-plurala: "Jag tvättar (diskar) de nya kopparna."
         frazo-singulara: "Jag tvättar(diskar) den nya koppen."
         rimarkigo-1: |-
-            Den (nästan) fria ordföljden i Esperanto ger möjlighet  att 
-            nyansera innebörden av en mening.  Detta skall vi 
+            Den (nästan) fria ordföljden i Esperanto ger möjlighet  att
+            nyansera innebörden av en mening.  Detta skall vi
             behandla senare under kursen.
         rimarkigo-2: |-
-            Efter verbet "esti" skall man inte använda ackusativformen, ty verbet "esti"  anger att 
+            Efter verbet "esti" skall man inte använda ackusativformen, ty verbet "esti"  anger att
             subjektet och predikatet är samma sak eller person.  (Ordet efter "esti" är predikatsfyllnad.)
         titolo: "Ackusativ (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: |-
-            Nu skall vi lyssna på en Esperantosång, 'Jen' (se här) av den argentinska gruppen 'La Porkoj' (Grisarna) som fått pris i UEA:s (Universala Esperanto- Asocio = Universella Esperanto-Förbundet) skönliterära tävlingar.  Gruppen består av följande personer: Alejandro Cossavella (sång), Pablo Ciancio (trummor),  Ignacio Mendizabal  (gitarr) och  
+            Nu skall vi lyssna på en Esperantosång, 'Jen' (se här) av den argentinska gruppen 'La Porkoj' (Grisarna) som fått pris i UEA:s (Universala Esperanto- Asocio = Universella Esperanto-Förbundet) skönliterära tävlingar.  Gruppen består av följande personer: Alejandro Cossavella (sång), Pablo Ciancio (trummor),  Ignacio Mendizabal  (gitarr) och
             Salvador Agustoni  (basgitarr). Tryck på knappen för att spela upp sången.
         titolo: "Musik på Esperanto"
-      neado: 
+      neado:
         ekspliko: "För att göra frasen nekande är det tillräckligt att placera det lilla ordet 'ne' framför verbet"
-        frazoj: 
+        frazoj:
           frazo-1: "Jag kommer inte att tvätta (diska) den nya koppen."
           frazo-2: "Han är inte min bror."
           frazo-3: "Hon är inte min mor."
           frazo-4: "Kakorna var inte (har inte varit) varma"
         titolo: Nekande
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: |-
-            Prefixet "mal" tillåter oss att skapa ord vars betydelse är motsatsen till det ord som det är 
+            Prefixet "mal" tillåter oss att skapa ord vars betydelse är motsatsen till det ord som det är
             sammanbundet med.
-        kun: 
+        kun:
           malamiko: ovän
           malavara: generös
           malbela: ful
           maljuna: "gammal (ålder)"
           malnova: "gammal (ej ny)"
-        sin: 
+        sin:
           amiko: vän
           avara: snål
           bela: vacker
           juna: ung
           nova: ny
         titolo: "Prefixet 'mal'"
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: |-
-            Första lektionen visade att adjektiven på Esperanto följer substantivens numerus. Om ett 
-            substantiv står i ental skall tillhörande adjektiv också stå i ental. Om substantivet står i plural 
-            skall adjektivet också stå i plural. Dock sker ingen ändring vad avser kön (genus). Ex. En vacker 
+            Första lektionen visade att adjektiven på Esperanto följer substantivens numerus. Om ett
+            substantiv står i ental skall tillhörande adjektiv också stå i ental. Om substantivet står i plural
+            skall adjektivet också stå i plural. Dock sker ingen ändring vad avser kön (genus). Ex. En vacker
             kvinna = Bela virino. (ALDRIG BelINa virINo ).
         ekspliko-2: |-
-            Bara ordstammar (substantiv) som avser varelser med  olika kön får ändelsen 'o' för  
+            Bara ordstammar (substantiv) som avser varelser med  olika kön får ändelsen 'o' för
             maskulinum  och 'ino' för femininum.
-        frazoj: 
+        frazoj:
           frazo-amikino: "Den vackra väninnan"
           frazo-patrino: "Den goda modern"
           frazo-virino: "De stora kvinnorna"
         titolo: "Suffixet -ino"
-        vortoj: 
+        vortoj:
           amikino: väninna
           amiko: vän
           filino: dotter
@@ -72,7 +72,7 @@ sv:
           patro: far
           virino: kvinna
           viro: man
-      vortaro02: 
+      vortaro02:
         akvo: vatten
         ami: älska
         amo: kärlek

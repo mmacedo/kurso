@@ -1,11 +1,11 @@
---- 
-id: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+id:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Kata depan adalah kata kecil yang menunjukkan hubungan diantara dua kata."
         titolo: "Kata-Depan 1"
-        vortoj: 
+        vortoj:
           al: "ke, kepada, kearah, untuk"
           da: "kata-depan kwantitas"
           de: "dari, punya, oleh"
@@ -18,9 +18,9 @@ id:
           sur: "di atas"
           ĉe: di
           ĝis: "sehingga,  sampai"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Kata-Depan 2"
-        vortoj: 
+        vortoj:
           anstataŭ: daripada
           antaŭ: "sebelum, di depan, dulu"
           apud: "di samping"
@@ -39,7 +39,7 @@ id:
           tra: "terus, lewat"
           trans: "diseberang, ke seberang"
           ĉirkaŭ: "sekeliling,  kira-kira"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Dalam pelajaran kedua, kita telah mempelajari akhiran \"n\" menunjukkan kalimat obyek langsung.  Itu akusatip.  Contoh:"
         ekspliko-2: "Bilamana kalimat punya dua obyek, satu obyek itu obyek tak langsung.  Contoh:"
         ekspliko-3: "Mempergunakan kata depan, seperti diatas, perlu, dan obyek tak langsung tidak menerima akhiran akusatip.  Contoh lagi:"
@@ -56,8 +56,8 @@ id:
         frazo-5: "Dia minum (yg lalu) secangkir kopi."
         frazo-6: "Jauhlah dari (depan) saya!"
         titolo: "Kata-Depan 3"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: datang
           aŭtobuseto: "bis kecil"
           danki: berterimakasih
@@ -72,8 +72,8 @@ id:
           sidi: duduk
           tagmanĝo: "makan siang"
           viziti: "mengunjunggi, memeriksa"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: arktik
           Kanado: Kanada
           admiri: "memuji amat"

@@ -1,11 +1,11 @@
---- 
-en: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+en:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Prepositions are words that show the relationship between a following noun (the object of the preposition) and the rest of the sentence."
         titolo: "Prepositions I"
-        vortoj: 
+        vortoj:
           al: "to, towards"
           da: "of (for quantities)"
           de: "of, from"
@@ -18,9 +18,9 @@ en:
           sur: "on, upon"
           ĉe: "at, with, next to, at the house of"
           ĝis: until
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prepositions II"
-        vortoj: 
+        vortoj:
           anstataŭ: "instead of"
           antaŭ: "before, in front of"
           apud: "beside, by"
@@ -39,7 +39,7 @@ en:
           tra: through
           trans: "across, on the other side of"
           ĉirkaŭ: around
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "We saw in the second lesson that the \"-n\" marks the direct object.  This is the accusative.  Example:"
         ekspliko-2: "A sentence cannot have 2 direct objects  Remember that the object of a preposition is not in the accusative case. For example,"
         ekspliko-3: "Three more examples follow:"
@@ -56,8 +56,8 @@ en:
         frazo-5: "He drank a cup of coffee."
         frazo-6: "Go away from before me! (Get away! Leave!)"
         titolo: "Prepositions III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "to arrive"
           aŭtobuseto: "small bus"
           danki: "to thank"
@@ -72,8 +72,8 @@ en:
           sidi: "to sit, to be sitting"
           tagmanĝo: lunch
           viziti: "to visit, to attend"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arctic
           Kanado: Canada
           admiri: "to admire"

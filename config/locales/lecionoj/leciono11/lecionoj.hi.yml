@@ -1,8 +1,8 @@
---- 
-hi: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+hi:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "2 पाठ में दिखाया रास्ता अलावा, वहाँ के लिए सवाल करने के लिए अन्य तरीके हैं:"
         frazo-1: "बॉक्स नीला है??"
         frazo-2: "क्या आप फिल्मों के लिए जा रहे हैं?"
@@ -11,7 +11,7 @@ hi:
         frazo-5: "डिब्बा नीला नहीं हैं, हैं न?"
         frazo-6: "आप फिल्मो को जा नहीं रहे हो, हैं न?"
         titolo: "अन्य प्रश्नवाचक रूपों"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "कोई भाव शब्दों मैं जोड़ी शब्द उपयोग किया जाता हैं:"
         jen: विरोध
         jen-frazo-1: "बच्चा कभी कभी रोया, कभी कभी हँसा."
@@ -29,11 +29,11 @@ hi:
         ĉu: "चाहे... चाहे, चाहे...या"
         ĉu-frazo-1: "गर्व या भय से वह नहीं बोला."
         ĉu-frazo-2: "बारिश हो या धूप, मुझे निश्चित रूप से जाना होगा.”"
-      horoj: 
+      horoj:
         je-kioma: "तुम कौनसा समय मैं मुझे तेलेफोने करोगे?"
         kioma-estas: "क्या समय है?"
         titolo: समय
-      interjekcioj: 
+      interjekcioj:
         bis: "दोहराना! एक बार और!"
         fi: "शर्म की बात है!"
         ha-1: आह!
@@ -45,7 +45,7 @@ hi:
         titolo: विस्मयादिबोधक
         ve: शोक!
         ve-al-mi: "गरीब मुझे!"
-      mallongiloj: 
+      mallongiloj:
         bv: कृपया
         e-isto: "एस्पेरान्तो बोलने वाले"
         e-o: एस्पेरांतो
@@ -57,7 +57,7 @@ hi:
         str: सड़क
         te: "यह है"
         titolo: संक्षिप्त
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "जो कुछ"
         almenaŭ: "कम से कम"
         ambaŭ: दोनों

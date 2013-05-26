@@ -1,11 +1,11 @@
---- 
-hr: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+hr:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Prijedlozi su riječce koje pokazuju odnos između dviju riječi."
         titolo: "Prijedlozi I"
-        vortoj: 
+        vortoj:
           al: "k, ka"
           da: "partitivni genitiv (označuje dio neke cjeline)"
           de: od
@@ -18,9 +18,9 @@ hr:
           sur: na
           ĉe: kod
           ĝis: do
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prijedlozi II"
-        vortoj: 
+        vortoj:
           anstataŭ: umjesto
           antaŭ: "pred, ispred"
           apud: pored
@@ -39,7 +39,7 @@ hr:
           tra: kroz
           trans: preko
           ĉirkaŭ: okolo
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Vidjeli smo u drugoj lekciji, da \"-n\" izražava komplement izravnog objekta. To je akuzativ. Na pr.:"
         ekspliko-2: "Ako rečenica sadrži dva komlementa ili dopune, jedan od njih mora biti u neupravnom komplementu. Na pr.:"
         ekspliko-3: "Takova upotreba prijedloga je neophodna, pa neupravni objekt ne dobiva nastavak za akuzativ. Evo još primjera:"
@@ -56,8 +56,8 @@ hr:
         frazo-5: "Pio je šalicu kave."
         frazo-6: "Makni mi se predamnom!"
         titolo: "Prijedlozi III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: doći
           aŭtobuseto: kombibus
           danki: zahvaliti
@@ -72,8 +72,8 @@ hr:
           sidi: sjediti
           tagmanĝo: ručak
           viziti: posjetiti
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktik
           Kanado: Kanada
           admiri: "diviti se"

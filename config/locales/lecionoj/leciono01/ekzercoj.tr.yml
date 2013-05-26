@@ -1,11 +1,11 @@
---- 
-tr: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+tr:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Dinlediğini Anlama Alıştırması"
         auxdkompreno01-instrukcio: "Sonraki alıştırmada bir kelime duyacaksınız, dikkatle dinleyin, doğru olduğundan eminseniz doğru cevabın üzerine tıklayın. Eğer doğruyu bulmuşsanız, kelime ekrandan silinecektir, aksi halde alıştırma süresince kelimeyi tekrar işiteceksiniz. En azından %70 başarı sağlamalısınız."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Çay sıcaktır."
         frazo02: "2. Öğretmen babadır."
         frazo03: "3. Babanız iyidir."

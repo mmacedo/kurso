@@ -1,11 +1,11 @@
---- 
-ca: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+ca:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Les preposicions són mots que mostren la relació entre dues paraules."
         titolo: "Preposicions I"
-        vortoj: 
+        vortoj:
           al: "a; cap a"
           da: "de (partitiu: segueix expressions de quantitat)"
           de: de
@@ -18,9 +18,9 @@ ca:
           sur: "sobre, a sobre de, damunt, al damunt de"
           ĉe: "a prop de, al costat de, a, a casa de"
           ĝis: "fins, fins a"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Preposicions II"
-        vortoj: 
+        vortoj:
           anstataŭ: "en comptes de, en lloc de"
           antaŭ: "davant de, abans de"
           apud: "a prop de, a la vora de"
@@ -39,7 +39,7 @@ ca:
           tra: "a través de"
           trans: "a l'altra banda de, de l'altre costat de"
           ĉirkaŭ: "al voltant de"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "A la segona lliçó vam veure que \"-n\" indica quin és el complement directe. Això és l'acusatiu. Exemple:"
         ekspliko-2: "Quan la frase té dos complements, per força un d'ells no pot ser el directe. Exemple:"
         ekspliko-3: "L'ús anterior de la preposició és necessari, i el complement indirecte no rep la terminació acusativa. Vet aquí altres exemples:"
@@ -56,8 +56,8 @@ ca:
         frazo-5: "Va beure una tassa de cafè"
         frazo-6: "Surt de davant meu!"
         titolo: "Preposicions III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: arribar
           aŭtobuseto: microbús
           danki: "agrair, donar les gràcies"
@@ -72,8 +72,8 @@ ca:
           sidi: "seure, estar assegut"
           tagmanĝo: dinar
           viziti: visitar
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Àrtic
           Kanado: Canadà
           admiri: admirar

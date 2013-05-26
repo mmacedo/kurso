@@ -1,8 +1,8 @@
---- 
-eo: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+eo:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Aldone al la formo lernita en la leciono 2, estas aliaj manieroj fari la demandojn en Esperanto:"
         frazo-1: "Ĉu la skatolo estas blua?"
         frazo-2: "Ĉu vi iros al la kinejo?"
@@ -11,7 +11,7 @@ eo:
         frazo-5: "La skatolo ne estas blua, ĉu?"
         frazo-6: "Vi ne iros al la kinejo, ĉu?"
         titolo: "Aliaj demandaj formoj"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Estas esprimoj en Esperanto kiuj uzas paron da vortoj, kaj kies signifojn estas interese ekkoni:"
         jen: "Montras alternadon"
         jen-frazo-1: "La knabo jen ploris, jen ridis."
@@ -29,11 +29,11 @@ eo:
         ĉu: "Montras eblecojn, inter kiuj la elekto estas indiferenta, egala, libera aŭ necerta."
         ĉu-frazo-1: "Ĉu pro timo, ĉu pro fiero, li nenion respondis."
         ĉu-frazo-2: "Ĉu pluvos, ĉu sunos, mi ja iros."
-      horoj: 
+      horoj:
         je-kioma: "Je kioma horo vi telefonos?"
         kioma-estas: "Kioma horo estas?"
         titolo: Horoj
-      interjekcioj: 
+      interjekcioj:
         bis: bis!
         fi: fi!
         ha-1: ha!
@@ -45,7 +45,7 @@ eo:
         titolo: Interjekcioj
         ve: ve!
         ve-al-mi: "ve al mi!"
-      mallongiloj: 
+      mallongiloj:
         bv: bonvolu
         e-isto: esperantisto
         e-o: Esperanto
@@ -57,7 +57,7 @@ eo:
         str: strato
         te: "tio estas, t.e."
         titolo: Mallongigoj
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "ajn (emfaze montras nedifinecon aŭ indiferentecon)"
         almenaŭ: almenaŭ
         ambaŭ: ambaŭ

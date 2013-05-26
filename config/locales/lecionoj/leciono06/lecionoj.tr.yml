@@ -1,101 +1,101 @@
---- 
-tr: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+tr:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: "Şimdi geriye kalan diğer nispi zamirler ile tanışalım.Unutmayın ki nispi zamirlerin sistemi kapalıdır yani burada belirtilmiş kelimeler dışında başka kelimeler yaratılamaz."
         titolo: "Nispi Zamirler"
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: "Kalite ve şekil (tür) göstermekte (sonlarında \"j\" ve \"n\" son ekini alabilir)."
-        i: 
+        i:
           frazo: "Esperanto'nun grameri hakkında herhangi bir şüpheniz var mı?"
           vorto: "Herhangi bir çeşit, tür."
-        ki: 
+        ki:
           frazo: "Gününüz nasıldı? - Günüm çok iyiydi, teşekkür ederim."
           vorto: "Nasıl, Ne, Hangi, Ne biçim."
-        neni: 
+        neni:
           frazo: "Hayır, Onun için hiçbir şüphem yok."
           vorto: "Hiçbir çeşit."
-        ti: 
+        ti:
           frazo: "Ben bu çeşit ekmeği yemeyeceğim."
           vorto: "Böyle, bu şekilde."
-        ĉi: 
+        ĉi:
           frazo: "Her çeşit yardım kabul edilir."
           vorto: "Her çeşit ( tür)."
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: "Sebep, neden."
-        i: 
+        i:
           frazo: "Bir sebepten dolayı, sizi hala tanımıyorum."
           vorto: "Herhangi bir sebepten dolayı."
-        ki: 
+        ki:
           frazo: "Çocuk neden koşuyor? - Çünkü çok sevinçli olduğundan."
           vorto: "Neden, ne sebepten."
-        neni: 
+        neni:
           frazo: "Onu (erkek) istediğiniz kadar sinirlendire bilirsiniz. Hiç bir şekilde sinirlenmez."
           vorto: "Hiç bir şekilde."
-        ti: 
+        ti:
           frazo: "O (dişi) çok güzel. Onu bunun için seviyorum."
           vorto: "Bunun için, Bu sebepten."
-        ĉi: 
+        ĉi:
           frazo: "Bana soruyorsun, neden seni seviyorum. Cevabım: Her şeyden dolayı!"
           vorto: "Herbir şekilde, tarzda"
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: "Tarz, Usul"
-        i: 
+        i:
           ekspliko: "Belirsizlik göstermektedir."
           frazo: "Bana herhangi bir şekilde, başka bir şahsı hatırlatıyor."
           vorto: "Herhangi bir şekilde."
-        ki: 
+        ki:
           ekspliko: "Soruyu göstermekte; önceki cümle ile ilgisini gösterir."
           frazo: "Nasılsınız ? - Çok iyiyim, teşekkür ederim."
           vorto: "Nasıl, ne tarzda gibi , ne surette ?"
-        neni: 
+        neni:
           ekspliko: "Olumsuzluk göstermekte."
           frazo: "Hiçbir şekilde, ne konuştuğunuzu anlayamıyorum."
           vorto: "Hiç bir surette, hiçbir şekilde."
-        ti: 
+        ti:
           ekspliko: "Göstermek, işaret etmekte kullanılır."
           frazo: "O ( dişil ) kadar iyi yazıyor, aynı öğretmen kadar."
           vorto: "Böyle, bu şekilde."
-        ĉi: 
+        ĉi:
           ekspliko: "Genelleme, toplantıyı gösterir."
           frazo: "Onlar bana her şekilde yardım ettiler."
           vorto: "Her türlü, her şekilde."
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: "Mülkiyeti göstermekte."
-        i: 
+        i:
           frazo: "Herhangi birisinin kitabını buldum."
           vorto: "Herhangi bir kimsenin, birinin."
-        ki: 
+        ki:
           frazo: "Kimin kitabı bu? - Bu kitap Johano'nun."
           vorto: Kimin
-        neni: 
+        neni:
           frazo: "Esperanto hiç kimsenin malı değildir."
           vorto: "Hiç kimsenin."
-        ti: 
+        ti:
           frazo: "Kedi evin üstünde koşuyordu ve çatıya zarar verdi."
           vorto: "Onun (Onların)"
-        ĉi: 
+        ĉi:
           frazo: "Esperanto herkesin dilidir."
           vorto: Herkesin.
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: "Miktar göstermekte"
-        i: 
+        i:
           frazo: "Biraz kahve satın almam lazım."
           vorto: "Birkaç, Biraz"
-        ki: 
+        ki:
           frazo: "İki iki daha kaç eder? - Dört!"
           vorto: "Ne kadar, her ne kadar"
-        neni: 
+        neni:
           frazo: "Evde, ne kadar çocuk oyun oynuyor? - Hiç bir"
           vorto: "Hiçbir , hiçbir miktar"
-        ti: 
+        ti:
           frazo: "O (erkek) istediği kadar yedi."
           vorto: "O kadar"
-        ĉi: 
+        ĉi:
           frazo: "Ne kadar benzin istiyorsun? - Ne kadar varsa, hepsini istiyorum."
           vorto: "Hepsi, bütün miktar"
-      relativoj: 
+      relativoj:
         ekspliko-1: "\"Ki\" ile başlayan kelimeler, soru biçiminde görünseler dahi soru manası içermemektedirler.Bu durumda bunlar normal nispi kelimelerdir.Çünkü yan cümle ile baş cümle arasındaki bağlantıyı gösterir."
         ekspliko-2: "Yukarıdaki cümlede \"kiun\" kelimesi \"o meyva hakkındadır\"."
         frazo-1: "Bana gösterdiğiniz o meyvayı istiyorum."

@@ -1,19 +1,19 @@
---- 
-fi: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+fi:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: Kaunis
         ekspliko: "Päättyy \"a\" kirjaimeen:"
         sana: Terve
         titolo: Adjektiivit.
         varma: Lämmin
-      alfabeto: 
+      alfabeto:
         ekspliko: "Esperanton ääntäminen on täysin kirjoituksen mukaista, eli jokainen kirjain äännetään kuten se kirjoitetaan. Sanan paino on aina toiseksiviimeisellä tavulla, jolloin painollinen vokaali ääntyy puolipitkänä (napsauta painiketta kuullaksesi ääntämismallin ja toista ääneen kuulemasi)."
         titolo: "Esperanton aakkoset"
-      artikolo: 
+      artikolo:
         ekspliko: "Epämääräistä artikkelia Esperantossa ei ole. Määräinen artikkeli on \"la\", joka ei taivu."
-        frazoj: 
+        frazoj:
           frazo-1: "Poikanne ovat ystäviämme."
           frazo-2: "Leipä on kuiva."
           frazo-3: "Lämmin maito on hyvää."
@@ -22,7 +22,7 @@ fi:
           frazo-6: "Isä on hyvä."
           titolo: Lauseet
         titolo: Artkkeli
-        vortoj: 
+        vortoj:
           floroj: Kukat
           knabo: Poika
           la-floroj: "(tietyt) Kukat"
@@ -31,33 +31,33 @@ fi:
           la-patroj: "(tietyt) Isät"
           pano: Leipä
           patroj: Isät
-      nomoj: 
+      nomoj:
         amiko: Ystävä.
         ekspliko: "Päättyy \"o\" kirjaimeen:"
         frato: Veli
         kafo: Kahvi
         titolo: Substantiivit
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "He, Ne tai Nuo."
           ni: Me
           titolo: Monikko.
           vi: "Te (monikko)"
-        singularo: 
+        singularo:
           li: "Hän (mies)"
           mi: Minä
           titolo: Yksikkö.
           vi: "Sinä tai Te (yksikössä)"
           ĝi: Se
           ŝi: "Hän (nainen)"
-        specialaj: 
+        specialaj:
           oni: "Oni, persoonaton pronomini, jolla ilmaistaan passiivia."
           si: "Si, kolmannen persoonan refleksiivipronomini."
           titolo: Erityiset.
         titolo: Persoonapronominit.
-      pluralo: 
+      pluralo:
         ekspliko: "Monikko muodostetaan \"j\" päätteelä, joka lisätään sekä substantiiviin että adjektiiviin:"
-        pluralo: 
+        pluralo:
           amikoj: ystävät
           belaj: kauniit
           belaj-floroj: "kauniit kukat"
@@ -66,7 +66,7 @@ fi:
           patroj: isät
           sanaj: terveet
           sanaj-patroj: "terveet isät"
-        singularo: 
+        singularo:
           amiko: ystävä
           bela: kaunis
           bela-floro: "kaunis kukka"
@@ -76,9 +76,9 @@ fi:
           sana: terve
           sana-patro: "terve  isä"
         titolo: Monikko
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Possessiivipronominit muodostetaan liittämällä adjektiivin pääte (\"a\") persoonapronominiin:"
-        posedaj: 
+        posedaj:
           ilia: "heidän; niiden; noiden"
           lia: "hänen (mieshenkilön)"
           mia: minun
@@ -86,27 +86,27 @@ fi:
           via: "sinun; teidän"
           ĝia: sen
           ŝia: "hänen (naishenkilön)"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Myös possessiivipronomit saavat monikossa päätten \"j\":"
           mia-amiko: Ystäväni
           miaj-amikoj: "Ystäväni (monikko)"
           nia-floro: "Meidän kukka"
           niaj-floroj: "Meidän kukkamme"
         titolo: Possessiivipronominit
-      verboj: 
+      verboj:
         ekspliko: "Preesensin pääte on -as, inperfektin -is, futuurin -os, konditionaalin -us, imperatiivin -u ja infinitiivin -i. Muut verbimuodot käsitellään myöhemmin."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "He ovat; ne ovat; nuo ovat"
           ni-estas: "Me olemme."
           oni-estos: "Tullaan olemaan (passiivin futuuri)"
           vi-estis: "Te olitte; sinä olit"
-        singularo: 
+        singularo:
           li-estis: "Hän (mies) on."
           mi-estas: "Minä olen."
           ĝi-estos: "Se on (tulee olemaan)."
           ŝi-estas: "Hän (nainen) on."
         titolo: Verbit.
-      vortaro01: 
+      vortaro01:
         amiko: ystävä
         bela: kaunis
         biskvito: keksi

@@ -1,11 +1,11 @@
---- 
-cs: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+cs:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Předložky jsou slůvka, která ukazují vztah mezi dvěma slovy."
         titolo: "Předložky I"
-        vortoj: 
+        vortoj:
           al: k
           da: "\"množství něčeho\""
           de: od
@@ -18,9 +18,9 @@ cs:
           sur: na
           ĉe: u
           ĝis: "až do"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Předložky II"
-        vortoj: 
+        vortoj:
           anstataŭ: namísto
           antaŭ: před
           apud: vedle
@@ -39,7 +39,7 @@ cs:
           tra: skrz
           trans: přes
           ĉirkaŭ: "kolem, okolo"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "V druhé lekci jsme viděli, že \"-n\" ukazuje přímý předmět. Tomu se říká akuzativ. Např.:"
         ekspliko-2: "Když má věta dva předměty, jeden z nich musí být  nepřímý. Např.:"
         ekspliko-3: "Výše uvedený způsob použití předložky je nutný, nepřímý předmět nezískává akuzativní koncovku. Zde jsou další příklady:"
@@ -56,8 +56,8 @@ cs:
         frazo-5: "Vypil šálek kávy."
         frazo-6: "Odejdi z prostoru přede mnou! (= Jdi mi z očí!)"
         titolo: "Předložky III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: přijít
           aŭtobuseto: "malý autobus"
           danki: děkovat
@@ -72,8 +72,8 @@ cs:
           sidi: sedět
           tagmanĝo: oběd
           viziti: navštívit
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktida
           Kanado: Kanada
           admiri: obdivovat

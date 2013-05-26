@@ -1,11 +1,11 @@
---- 
-eo: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+eo:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Ekzerco pri Aŭdkompreno I"
         auxdkompreno01-instrukcio: "En la sekva ekzerco vi aŭdos vorton kaj devos klaku sur la butono korespondanta al la ĝusta vorto. Se vi trafos, la butono fariĝos griza, kontraŭe la vorton vi aŭdos denove en alia momento dum la ekzerco. Vi devas trafi almenaŭ 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. La teo estas varma."
         frazo02: "2. Instruisto estas patro."
         frazo03: "3. Via patro estis bona."

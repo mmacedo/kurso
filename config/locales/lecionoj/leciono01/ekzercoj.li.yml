@@ -1,11 +1,11 @@
---- 
-li: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+li:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Klausymo pratimas I"
         auxdkompreno01-instrukcio: "Išgirdę žodį, paspauskite atitinkamą klavišą. Jei paspausite teisingai, klavišas dings, priešingu atveju tas žodis bus pakartotas vėliau. Turite atsakyti teisingai bent jau 70%."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Arbata yra šilta."
         frazo02: "2. Mokytojas yra tėvas."
         frazo03: "3. Tavo tėvas buvo geras."

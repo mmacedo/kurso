@@ -1,38 +1,38 @@
---- 
-hi: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+hi:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "समानता:"
           frazo-1: "एस्पेरान्तो बहुत अच्चा हैं और उपयोग कर हैं."
           frazo-2: "स्वास्थ्य के तुलना से कोई और कीमती नहीं."
           frazo-3: "वह इतनी सुन्दर हैं जितनी मेरी माँ हैं."
-        malsupereco: 
+        malsupereco:
           ekspliko: "न्यूनता:"
           frazo-1: "मेरा भाई मेरे से छोटा हैं."
           frazo-2: "वह लड़का उस लड़की से गंधा लिखता हैं."
           frazo-3: "वह आदमी उनकी पत्नी से कम बोलता हैं."
-        supereco: 
+        supereco:
           ekspliko: "उच्चता:"
           frazo-1: "दूध शराब पानी से अच्चा हैं."
           frazo-2: "Johano Petro से बड़ा हैं."
           frazo-3: "सूरज चाँद से बड़ा हैं."
         titolo: तुलना
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: दामाद
           bofratino: भाभी
           bopatrino: सास
           bopatro: ससुर
           ekspliko: "शादी से संबंध"
-        dis: 
+        dis:
           disdoni: बांटना
           disfali: "चूर चूर होना, टुकड़े-टुकड़े होना"
           disflugi: "कई दिशाओं में उड़ना"
           dissemi: "छितराना, फैलना"
           ekspliko: "वितरण,फैलाव"
-        duon: 
+        duon:
           duondio: अंशावतार
           duonfilino: "सौतेली पुत्री"
           duonhoro: "आधे घंटे"
@@ -40,37 +40,37 @@ hi:
           ekspliko: आधा
           filino: पुत्री
           horo: घंटा
-        ek: 
+        ek:
           ekbrilo: चमकाना
           ekdormi: "सोना शुरू करना"
           ekiri: "चलना शुरू करना"
           ekpluvi: "बारिश होना"
           ekspliko: "शुरुआत, अचानक परिवर्तन, या क्षणिक कार्रवाई"
-        eks: 
+        eks:
           eksedziĝi: तलाक
           eksfianĉo: "पूर्व - मंगेतर"
           eksiĝi: "इस्तीफा देना"
           ekspliko: "पता चलता है एक क्रिया या काम है कि अब मौजूद नहीं है"
           eksprezidanto: "पूर्व राष्ट्रपति"
-        fi: 
+        fi:
           ekspliko: मनहूस
           fidomo: "मनहूस घर"
           fikomercisto: "बेईमान व्यापारी"
           fivirino: "कुलटा, वेश्या"
           komercisto: व्यापारी
-        ge: 
+        ge:
           ekspliko: "स्त्री पुरुष भेद"
           geamikoj: दोस्त
           gefiloj: बच्चे
           gefratoj: "सहोदर या बहिन"
           gepatroj: माता-पिता
-        mal: 
+        mal:
           dekstro: दाहिना
           ekspliko: उल्टा
           fermi: "बंद होना"
           maldekstro: बायें
           malfermi: "उद्घाटन करना"
-        mis: 
+        mis:
           ekspliko: "गलती, भूल"
           kompreni: समझना
           miskompreni: "गलत समझना"
@@ -78,7 +78,7 @@ hi:
           misuzo: दुरुपयोग
           paŝo: कदम
           uzo: उपयोग
-        pra: 
+        pra:
           ekspliko: "काफी समय पहले"
           historio: इतिहास
           nepo: पोता
@@ -86,21 +86,21 @@ hi:
           prahistorio: प्रागितिहास
           prahomo: "पूर्व पुरुष संबंधी"
           pranepo: पड़पोता
-        re: 
+        re:
           ekspliko: "दोहराव, दोबारा, पीछे"
           reaperi: "दुबारा दिखना"
           refari: करना
           reteni: "रहने देना, रोकना"
           reveni: "वापस आना"
         titolo: उपसर्गों
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: दीर्घकालीन
           parolado: भाषण
           paroli: बोलना
           rigardadi: "इरादा करना"
           rigardi: "ध्यान करना"
-        an: 
+        an:
           brazilano: ब्राज़ीली
           ekspliko: नगरवासी
           eŭropano: यूरोपवासी
@@ -108,25 +108,25 @@ hi:
           kristano: ईसाई
           kristo: ईसा
           usonano: "अमरीका वासी"
-        ar: 
+        ar:
           ekspliko: "झुंड, संघ"
           vortaro: शब्दकोश
           vorto: अक्षर
           ŝafaro: "मेमना का समूह"
           ŝafo: मेमना
-        aĉ: 
+        aĉ:
           domaĉo: कुटीर
           domo: घर
           ekspliko: ख़राब
           skribaĉi: घसीटना
           skribi: लिखना
-        aĵ: 
+        aĵ:
           dolĉa: मिठाई
           dolĉaĵo: टॉफ़ी
           ekspliko: वस्तु
           pentraĝo: तसवीर
           pentri: रँगना
-        ebl: 
+        ebl:
           ekspliko: सम्भावना
           kredebla: विश्वासयोग्य
           kredi: "विश्वास करना"
@@ -134,19 +134,19 @@ hi:
           legi: पढ़ना
           videbla: दृष्टि
           vidi: देखना
-        ec: 
+        ec:
           amikeco: दोस्ती
           amiko: दोस्त
           ekspliko: "अमूर्त विचार"
           mola: नाज़ुक
           moleco: कोमलता
-        eg: 
+        eg:
           ekspliko: "अति कठोर"
           ridegi: कर्कशतापूर्वक
           ridi: हंसना
           ventego: आँधी
           vento: वायु
-        ej: 
+        ej:
           ekspliko: जगह
           oficejo: कार्यस्थल
           ofico: "कार्यालय, समारोह, नौकरी"
@@ -154,26 +154,26 @@ hi:
           preĝi: "प्रार्थना करना"
           ĉevalejo: घुड़साल
           ĉevalo: घोड़ा
-        em: 
+        em:
           babilema: बहुभाषी
           babili: बकबक
           ekspliko: "प्रवृत्ति, झुकाव"
           ŝparema: अल्पव्ययी
           ŝpari: बचाना
-        end: 
+        end:
           ekspliko: "आवश्यक होना"
           farenda: "किया जाना है"
           fari: करना
           legenda: "वह पढना जरूरी हैं"
           legi: पढ़ना
         titolo: प्रत्यय
-        ĉj: 
+        ĉj:
           ekspliko: उपनाम
           jozefo: जोसेफ
           joĉjo: जोए
           patro: पिता
           paĉjo: बाप
-      superlativo: 
+      superlativo:
         ekspliko-1: "हम उच्चता का उपयोग करते हैं जब कोई समूह मैं एक उच्चता पूर्वक रूप बताता हैं नहीं तो न्यूनता पूर्वक रूप बताता हैं."
         ekspliko-2: "जब हम किसी समूह या वस्तु का मूल करते हैं तब हमे \"PLI\" या \"MALPLI\" उपयोग करना चाहिए."
         frazo-1: "सभी बच्चों मैं से Ernest छोटा हैं."

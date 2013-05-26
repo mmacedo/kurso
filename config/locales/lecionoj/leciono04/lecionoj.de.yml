@@ -1,24 +1,24 @@
---- 
-de: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+de:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Bei der Datumsnennung das Muster befolgen; Wörter wie \"Tag\" oder \"im Jahr\" sind mitgemeint:"
         titolo: "Das Datum"
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Das Brot ist trocken."
           titolo: "Aussage:"
-        demando: 
+        demando:
           frazo-1: "Ist das Brot trocken?"
           titolo: "Frage:"
         ekspliko: "Durch das vorangestellte Fragewort \"ĉu\" behalten die Entscheidungsfragen [Ja/Nein]  im Esperanto die Satzgliedfolge des Aussagesatzes bei - im Unterschied zum Dt., wo das Verb die Frage einleitet."
-        respondo: 
+        respondo:
           frazo-negativa: "Nein, das Brot ist nicht trocken."
           frazo-pozitiva: "Ja, das Brot ist trocken."
           titolo: "Antwort:"
         titolo: Fragesätze
-      monatoj: 
+      monatoj:
         aprilo: April
         aŭgusto: August
         decembro: Dezember
@@ -32,7 +32,7 @@ de:
         oktobro: Oktober
         septembro: September
         titolo: "Die Monate"
-      salutoj: 
+      salutoj:
         saluto-1: "Sei mir gegrüßt! / Hallo!"
         saluto-10: "Guten Appetit!"
         saluto-11: "Danke, gleichfalls!"
@@ -48,12 +48,12 @@ de:
         saluto-8: "Geht so (einigermaßen gut)."
         saluto-9: "Nicht sehr gut."
         titolo: Grüße
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: gestern
           hodiaŭ: heute
           morgaŭ: morgen
-        semajno: 
+        semajno:
           dimanĉo: Sonntag
           lundo: Montag
           mardo: Dienstag
@@ -62,9 +62,9 @@ de:
           vendredo: Freitag
           ĵaŭdo: Donnerstag
         titolo: "Die Wochentage"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Lesen Sie den folgenden Text, den ein Esperanto-Lerner verfasst hat - wenn nötig mit Hilfe des Wörterverzeichnisses."
-        vortaro: 
+        vortaro:
           alia: ander
           antaŭ: vor
           facila: leicht
@@ -72,7 +72,7 @@ de:
           komenci: beginnen
           lerni: lernen
           tre: sehr
-      vortaro04: 
+      vortaro04:
         infano: Kind
         kaj: und
         kolekti: sammeln

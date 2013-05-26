@@ -1,24 +1,24 @@
---- 
-it: 
-  lecionoj: 
-    leciono04: 
-      datoj: 
+---
+it:
+  lecionoj:
+    leciono04:
+      datoj:
         ekspliko: "Per esprimere le date, segui il modello (le locuzioni \"tago\" e \"en la jaro\" si sottintendono):"
         titolo: Date
-      demandoj: 
-        aserto: 
+      demandoj:
+        aserto:
           frazo-1: "Il pane è secco."
           titolo: "Affermazione:"
-        demando: 
+        demando:
           frazo-1: "Il pane è secco?"
           titolo: "Domanda:"
         ekspliko: "Qualunque asserzione si trasforma nella corrispondente domanda anteponendole la particella \"Ĉu\". L'ordine delle parole in esperanto rimane invariato; la sola trasformazione consiste nel porre la particella \"ĉu\" all'inizio della frase. Ciò vale per tutte le domande a cui si risponde \"sì\" o \"no\"."
-        respondo: 
+        respondo:
           frazo-negativa: "No, il pane non è secco."
           frazo-pozitiva: "Sì, il pane è secco."
           titolo: "Risposta:"
         titolo: "Frasi interrogative"
-      monatoj: 
+      monatoj:
         aprilo: aprile
         aŭgusto: agosto
         decembro: dicembre
@@ -32,7 +32,7 @@ it:
         oktobro: ottobre
         septembro: settembre
         titolo: "I mesi dell'anno"
-      salutoj: 
+      salutoj:
         saluto-1: "Ciao! / Salve! (-> nota B2g)"
         saluto-10: "Buon appetito!"
         saluto-11: "Altrettanto a te, grazie!"
@@ -48,12 +48,12 @@ it:
         saluto-8: "Abbastanza bene."
         saluto-9: "Non molto bene."
         titolo: Saluti
-      tagoj: 
-        relativoj: 
+      tagoj:
+        relativoj:
           hieraŭ: ieri
           hodiaŭ: oggi
           morgaŭ: domani
-        semajno: 
+        semajno:
           dimanĉo: domenica
           lundo: lunedì
           mardo: martedì
@@ -62,9 +62,9 @@ it:
           vendredo: venerdì
           ĵaŭdo: giovedì
         titolo: "I giorni della settimana"
-      tekstokompreno01: 
+      tekstokompreno01:
         ekspliko: "Leggi il testo sottostante, scritto da uno studente di esperanto, e sforzati di capirlo con l'aiuto dei vocaboli allegati."
-        vortaro: 
+        vortaro:
           alia: "altro / a"
           antaŭ: "davanti a, prima di, [tempo] fa"
           facila: facile
@@ -72,7 +72,7 @@ it:
           komenci: cominciare
           lerni: "imparare, studiare"
           tre: molto
-      vortaro04: 
+      vortaro04:
         infano: "[un] bambino"
         kaj: e
         kolekti: raccogliere

@@ -1,11 +1,11 @@
---- 
-pl: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+pl:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Posłuchaj teraz piosenki  w  Esperanto  \"Niebieskie Poziomki\"  śpiewanej przez Merlin, brazylijski zespół pop, który,  wydał dwa albumy w języku międzynarodowym  i występuje na całym świecie. Zespół tworzą : M. Froes ( śpiew i gitara), G. Lima (drumle), A. Gandra (gitara elektryczna), S. Ribeiro (gitara basowa) i S. Vieira (pianino)."
         titolo: "Esperancka muzyka"
-        vortaro: 
+        vortaro:
           aliri: dojść
           alveni-al: "przybyć do"
           animo: dusza
@@ -19,53 +19,53 @@ pl:
           vero: prawda
           ĉielarko: tęcza
           ĉielo: niebo
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "Widzieliśmy w drugiej lekcji użycie biernika dla pokazania prostego dopełnienia czasownika. Są jeddnak czasowniki, które nie potrzebują dopełnienia. Np:"
         frazo-1: "Zdarzyło sie coś ważnego."
         frazo-2: "Bardzo cieszę się dzisiaj."
         frazo-3: "Oni już śpią w swoich łóżkach."
         frazo-4: "Młodzież wiele tańczyła."
-        ig: 
+        ig:
           ekspliko: "Czasowniki z przyrostkiem  - IG  są zawsze przechodnie:"
           frazo-1: "Podróż  pewnie cię zmęczyła."
           frazo-2: "Południowe słońce opala jego gołą głowę."
           frazo-3: "Ojciec chce natychmiast wydać za mąż starszą  córkę."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2 .W czasownikach  z   -IĜ  tworzonych z czasowników  przechodnich  działanie zachodzi samoistnie."
             frazo-1: "Tłum biegł wolniej niż pojazd, który toczył się bardzo szybko."
             frazo-2: "On nagle znalazł się na ulicy, całkiem sam."
             frazo-3: "O której godzinie zacznie się lekcja?"
             frazo-4: "Tłumy przechodniów poruszały się na trotuarach."
           ekspliko: "Czasowniki z przyrostkiem  -  iĝ  są wszystkie nieprzechodnie,  nie potrzebują dopełnienia i znaczą:"
-          unu: 
+          unu:
             ekspliko: "1. Przejście do nowego stanu (bezwolne). Rdzeń słowa pokazuje rezultat, nowy stan.  W czasownikach z      przyrostkiem  -iĝ  nie ma działania  osób innych, ani działania z własnej woli."
             frazo-1: "W zimie wody zamarzają."
             frazo-2: "Dzisiaj pogoda znowu się ociepliła."
             frazo-3: "Ona stała się żoną dla swego kuzyna ( \"wyszła za mąż\" ) ."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Kilka z tych czasowników może mieć dopełnienie za pomocą przyimka:"
           ekspliko-2: "Inne czasowniki mogą dostać  w kilku przypadkach, proste dopełnienie:"
           frazo-1: "Jego ojciec  umarł z powodu raka."
           frazo-2: "Ja bardzo cieszę się z powodu  twojego szcaęścia."
           frazo-3: "Ona śpi głębokim snem."
           frazo-4: "Ona tańczyła z nim walca."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Pamiętaj zawsze, że czasownik  \"być\"  nie wymaga biernika  i że po przyimku  nie używa się biernika."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "Są jeszcze czasowniki  w zdaniu  bez podmiotu:"
           frazo-1: "Wczoraj wiele padało."
           frazo-2: "Dnieje i ja muszę iść do domu."
           frazo-3: "Śnieżyło bardzo mocno i on nie mógł wyjść z chaty."
         titolo: "Czasowniki przechodnie"
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Na pewno zauważyłeś nadzwyczajną zdolność wyrażania za pomocą Esperanta. Używając przedrostków,  przyrostków,  końcówek, można tworzyć liczne słowa,  nieraz nie mające odpowiedników w języku polskim. Przez łączenie rdzeni wyrazów powiększa się słownictwo, znajduje  synonimy, podkreśla, lub  różnicuje słowa. Oto przykłady:"
         ekspliko-2: "Za pomocą końcówek, przedrostków i przyrostków."
         ekspliko-3: "Przy łączeniu rdzeni końcówkę pierwszego rdzenia można opuścić lub nie, zawsze  pamiętając o zrozumiałości i ładnym brzmieniu połączonego wyrazu:"
         ekspliko-4: "Tworząc nowe wyrazy z już złożonych  wyrazów  otrzymamy:"
         rimarkigo: "Chociaż można budować wyrazy z więcej niż dwóch  przedrostków  i   przyrostków, nie zaleca się tego, aby uniknąć niejasności i skomplikowanych form. Dlatego zamiast  \"belulineto\"  lepiej jest napisać  \" eta belulino \"."
         titolo: "Tworzenie wyrazów w Esperanto."
-        vortoj: 
+        vortoj:
           antaŭbrako: przedramię
           balenŝipo: "statek wielorybniczy."
           helruĝo: "jasna czerwień."

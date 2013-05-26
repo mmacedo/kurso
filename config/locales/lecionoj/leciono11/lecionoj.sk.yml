@@ -1,8 +1,8 @@
---- 
-sk: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+sk:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Okrem metódy, ktorú sme sa naučili v 2. lekcii, existujú aj iné možnosti tvorenia otázok v esperante."
         frazo-1: "Je tá škatula modrá?"
         frazo-2: "Pôjdeš do kina?"
@@ -11,7 +11,7 @@ sk:
         frazo-5: "Tá škatula nie je modrá, však?"
         frazo-6: "Nepôjdeš do kina, čo?"
         titolo: "Iné formy opytovacích viet"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "V esperante existujú spojky, ktoré tvoria dve slová a ktorých význam je dobré poznať:"
         jen: "Ukazuje striedanie"
         jen-frazo-1: "Chlapec tu plakal, tu sa smial."
@@ -29,11 +29,11 @@ sk:
         ĉu: "Ukazuje možnosti zhodné, ľahostajné, neisté."
         ĉu-frazo-1: "Či zo strachu alebo z pýchy, nič neodpovedal."
         ĉu-frazo-2: "Či bude pršať, či bude svietiť slnko, predsa pôjdem."
-      horoj: 
+      horoj:
         je-kioma: "O koľkej zavoláš?"
         kioma-estas: "Koľko je hodín?"
         titolo: Hodiny
-      interjekcioj: 
+      interjekcioj:
         bis: opakovať!
         fi: fúúúúj!
         ha-1: ha!
@@ -45,7 +45,7 @@ sk:
         titolo: Citoslovcia
         ve: beda!
         ve-al-mi: "beda mi!"
-      mallongiloj: 
+      mallongiloj:
         bv: "ráčte, prosím"
         e-isto: esperantista
         e-o: esperanto
@@ -57,7 +57,7 @@ sk:
         str: ulica
         te: "to jest, t. j."
         titolo: Skratky
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "\"hoci\" zdôrazňuje neurčitosť alebo ľahostajnosť"
         almenaŭ: aspoň
         ambaŭ: obidvaja

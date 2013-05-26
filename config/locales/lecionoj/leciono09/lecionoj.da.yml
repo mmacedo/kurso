@@ -1,57 +1,57 @@
---- 
-da: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+da:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "(-er) del af en helhed"
           monero: "en mønt"
           mono: penge
           salero: "et saltkorn"
           salo: "et salt, kogesalt"
-        estr: 
+        estr:
           ekspliko: "(-estr) leder, chef"
           urbestro: "en borgmester"
           urbo: "en by"
           ŝipestro: "en kaptajn"
           ŝipo: "et skib"
-        et: 
+        et:
           ekspliko: "(-et) formindskelse"
           pupeto: "en lille dukke"
           pupo: "en dukke"
           rideti: "at smile"
           ridi: "at le"
-        id: 
+        id:
           ekspliko: "(-id) afkom, efterkommer"
           katido: "en kattekilling"
           kato: "en kat"
           reĝido: "en prins"
           reĝo: "en konge"
-        ig: 
+        ig:
           ekspliko: "(-ig) få til, gøre, lade (tager genstandsled)"
           morti: "at dø"
           mortigi: "at dræbe"
           pura: ren
           purigi: "at gøre rent, rense"
-        il: 
+        il:
           ekspliko: "(-il) redskab, instrument"
           muzikilo: "et musikinstrument"
           muziko: "en musik"
           ŝlosi: "at låse"
           ŝlosilo: "en nøgle"
-        in: 
+        in:
           ekspliko: "(-in) hunkøn"
           kokino: "en høne"
           koko: "en hønsefugl ('en høns')"
           onklino: "en tante, faster, moster"
           onklo: "en onkel, farbror, morbror"
-        ind: 
+        ind:
           admiri: "at beundre"
           admirinda: beundringsværdig
           ekspliko: "(-ind)  værd at, værdig til"
           laŭdi: "at rose"
           laŭdinda: rosværdig
-        ist: 
+        ist:
           ekspliko: "(-isto)  profession, beskæftigelse"
           esperantisto: "en esperantist"
           esperanto: esperanto
@@ -61,7 +61,7 @@ da:
           raportisto: "en reporter, referent"
           tajpi: "at skrive på maskine"
           tajpisto: "en maskinskriver"
-        iĝ: 
+        iĝ:
           ekspliko: "(-iĝ)  at blive, at komme i den tilstand (tager ikke genstandsled)"
           fari: "at gøre"
           fariĝi: "at blive (til noget)"
@@ -69,39 +69,39 @@ da:
           mateno: "en morgen"
           ruĝa: rød
           ruĝiĝi: "at blive rød, rødme"
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "(-nj) kvindelige kælenavne (-nj føjes ikke til hele stammen men kun en del af den)"
           manjo: "kære Maria"
           panjo: "søde mor, \"lillemor\""
           patrino: "en mor"
-        obl: 
+        obl:
           du: to
           duobla: dobbelt
           ekspliko: "(-obl) flerfold"
           tri: tre
           trioblo: "en samling af tre"
         ? "on"
-        : 
+        :
           dek: ti
           dekono: "en tiendedel"
           ekspliko: "(-on) brøk"
           kvar: fire
           kvarono: "en fjerdedel"
-        op: 
+        op:
           du: to
           duopo: "et par"
           ekspliko: "ad gangen, grupper af"
           ses: seks
           sesopo: "en samling på seks"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Man bør anvende synonymer hvis det vil være uklart, om der menes det ene eller det andet af en efterstavelse :"
           germanio: Tyskland
           pomarbo: "et æbletræ"
           pomkesto: "en æblekasse"
           ruslando: Rusland
         titolo: "Efterstavelser (suffikser)"
-        uj: 
+        uj:
           ekspliko: "(-uj) beholder, land m.v."
           franco: "en franskmand"
           francujo: Frankrig
@@ -109,7 +109,7 @@ da:
           monujo: "en pengepung"
           pomo: "et æble"
           pomujo: "et æbletræ"
-        ul: 
+        ul:
           ekspliko: "(-ul) levende væsen"
           kontraŭ: "mod, imod"
           kontraŭulo: "en modstander"
@@ -119,18 +119,18 @@ da:
           sanktulo: "en helgen"
           stulta: dum
           stultulo: "en tåbe, et fjols, et fæ"
-        um: 
+        um:
           ekspliko: "(-um) udefineret betydning, metaforisk betydning"
           kolo: "en hals"
           kolumo: "en krage, en flip"
           plena: fuld
           plenumi: "at fylde"
-      vortordo: 
+      vortordo:
         dialogo: |-
             —Forelsket blev jeg, kære skat, ved aller første møde!
-            —Jeg tror på dig, vis mig dit guld, så tror jeg desto mere! 
-            
-            —Kæreste min, du skuffer mig, nu blegner alt det søde!  
+            —Jeg tror på dig, vis mig dit guld, så tror jeg desto mere!
+
+            —Kæreste min, du skuffer mig, nu blegner alt det søde!
             —Gavmildhed af kærlighed du burde demonstrere!
         ekspliko-1: "I tredie lektion nævnte vi at den ligefremme ordstilling (grundled, udsagnsled, øvrige sætningsled)  er den almindeligste på esperanto. Men ordstillingen er til en hvis grad fri.  Dvs. at den kun er bundet ef regler der tager sigte på klarhed og velklang. Fx kan man understrege visse sætningselementer som det er vist i følgende sætninger:"
         ekspliko-2: "For at understrege et sætningselement kan man også bruge det lille ord \"ja\", som fremhæver meningen:"

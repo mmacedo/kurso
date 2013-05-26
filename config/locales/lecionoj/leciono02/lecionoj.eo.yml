@@ -1,8 +1,8 @@
---- 
-eo: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+eo:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Estas alia finaĵo, tre utila, kiu ebligas al ni rekoni la rektan objekton en propozicio. Ĝi estas la akuzativo, kaj  oni ĝin metas ĉe la fino de substantivoj, adjektivoj kaj pronomoj por formi la rektan objekton. Tiel oni rekonas la rektan objekton per la finaĵo\"n\"."
         ekspliko-2: "Rimarku ke la multnombron oni metas antaŭ la akuzativo, kaj tiu ĉi aperas ĉiam en la vortofino. La rekta objekto povas aperi en la komenco, mezo aŭ fino de la propozicio, kaj tio neniel modifas la sencon, ĉar ĝi estas indikita de la akuzativo. Jen tri frazoj, kies senco estas la sama:"
         frazo-plurala: "Mi lavas la novajn tasojn."
@@ -10,41 +10,41 @@ eo:
         rimarkigo-1: "Fakte la malsamaj vortordoj povas esti uzataj por iel nuancigi frazon. Tion ni pritraktos pli poste en la kurso."
         rimarkigo-2: "Post la verbo \"esti\" oni ne uzu la akuzativon, ĉar la verbo \"esti\" per si mem implicas, ke la subjekto kaj la predikativo estas ekvivalentaj."
         titolo: "Akuzativo (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: "Ni aŭskultu nun la esperantan kanton \"Jen\", de la argentina grupo \"La Porkoj\", premiita en la belartaj konkursoj de la Universala Esperanto-Asocio. La grupon formas Alejandro Cossavella (voĉo), Pablo Ciancio (drumoj), Ignacio Mendizabal (gitaroj) kaj Salvador Agustoni (basgitaro). Premu la butonon por ludigi la kanton."
         titolo: "Muziko en Esperanto"
-      neado: 
+      neado:
         ekspliko: "Por igi frazon nea, sufiĉas meti la vorteton \"ne\" antaŭ la verbo."
-        frazoj: 
+        frazoj:
           frazo-1: "Mi ne lavos la novan tason."
           frazo-2: "Li ne estas mia frato."
           frazo-3: "Ŝi ne estas mia patrino."
           frazo-4: "La kukoj ne estis varmaj."
         titolo: Neado
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "La prefikso \"mal\" permesas al ni krei vortojn, kies senco estas la malo de la vorto al kiu ĝi estas ligita."
-        kun: 
+        kun:
           malamiko: malamiko
           malavara: malavara
           malbela: malbela
           maljuna: maljuna
           malnova: malnova
-        sin: 
+        sin:
           amiko: amiko
           avara: avara
           bela: bela
           juna: juna
           nova: nova
         titolo: "Prefikso \"mal\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "En la unua leciono ni vidis, ke en Esperanto la adjektivoj kongruas ununombre kaj multnombre kun la substantivo; kiam temas pri nur unu, ili restas en la ununombro, pli ol unu, ili iras al multnombro. Aliflanke, ili neniam modifiĝas laŭ la genro (vira aŭ ina)."
         ekspliko-2: "Nur la nomoj destinitaj al seksohavaj estuloj povas identigi la sekson, finiĝante per \"o\" la viraj kaj per \"ino\" la inaj."
-        frazoj: 
+        frazoj:
           frazo-amikino: "La bela amikino"
           frazo-patrino: "La bona patrino"
           frazo-virino: "La grandaj virinoj"
         titolo: "Sufikso -ino"
-        vortoj: 
+        vortoj:
           amikino: amikino
           amiko: amiko
           filino: filino
@@ -53,7 +53,7 @@ eo:
           patro: patro
           virino: virino
           viro: viro
-      vortaro02: 
+      vortaro02:
         akvo: akvo
         ami: ami
         amo: amo

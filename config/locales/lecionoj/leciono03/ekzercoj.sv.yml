@@ -1,13 +1,13 @@
---- 
-sv: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+sv:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Övning - Räkneord"
         numeraloj-ekzercoj-instrukcioj: |-
-            Skriv, på angiven plats, den siffra som överensstämmer med den givna texten. För att 
+            Skriv, på angiven plats, den siffra som överensstämmer med den givna texten. För att
             bekräfta svaret, använd Enter-tangenten eller sidoknappen. Försök att uppnå 70 % rätt innan du går vidare till nästa lektion.
-      pagxo09: 
+      pagxo09:
         frazo01: "1. Han älskar henne"
         frazo02: "2. Han älskar sin syster"
         frazo03: "3. Hon älskar honom"

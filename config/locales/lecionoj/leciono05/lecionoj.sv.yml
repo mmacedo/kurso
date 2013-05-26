@@ -1,102 +1,102 @@
---- 
-sv: 
-  lecionoj: 
-    leciono05: 
-      korelativoj01: 
+---
+sv:
+  lecionoj:
+    leciono05:
+      korelativoj01:
         ekspliko: |-
-            Här följer en grupp mycket användbara småord som ingår i en regelbunden och sluten tabell. 
-            Dessa småord kallas för korrelativ. Betydelsen beror av vilken bokstavskombination man 
+            Här följer en grupp mycket användbara småord som ingår i en regelbunden och sluten tabell.
+            Dessa småord kallas för korrelativ. Betydelsen beror av vilken bokstavskombination man
             placerar före och efter den gemensamma bokstaven " i " .
         titolo: "Korrelativa tabellen"
-      korelativoj_am: 
+      korelativoj_am:
         ekspliko: Tid
-        i: 
+        i:
           frazo: "Har du besökt Brasilien någon gång?"
           vorto: "någon gång, en gång"
-        ki: 
+        ki:
           frazo: "När kommer du att köpa boken? — I morgon på morgonen."
           vorto: "när: då, när"
-        neni: 
+        neni:
           frazo: "Nej, jag har aldrig besökt detta land."
           vorto: aldrig
-        ti: 
+        ti:
           frazo: "Jag lärde (mig) esperanto då, när jag gick (var) i skolan."
           vorto: då
-        ĉi: 
+        ĉi:
           frazo: "Men, jag har alltid önskat besöka det."
           vorto: alltid
-      korelativoj_cxi: 
+      korelativoj_cxi:
         ekspliko: "Detta lilla ord indikerar närhet: Det kan placeras framför eller efter det korelativ det tillhör."
         frazo-1: "Vad är det här?"
         frazo-2: "Detta  är ett djur."
         frazo-3: "Det här är mitt hus."
         rimarkigo: |-
-            De korrelativa ord som slutar med 'o' ('kio', 'tio' osv.) kan få ackusativändelsen (-n) men 
-            inte pluraländelsen (-j). De som slutar med 'a' och 'u' kan få såväl ändelsen '-n' som '-J'. 
-            Framför frågeorden ('kio', 'kie' osv. ) skall man inte använda det allmänna frågeordet  
+            De korrelativa ord som slutar med 'o' ('kio', 'tio' osv.) kan få ackusativändelsen (-n) men
+            inte pluraländelsen (-j). De som slutar med 'a' och 'u' kan få såväl ändelsen '-n' som '-J'.
+            Framför frågeorden ('kio', 'kie' osv. ) skall man inte använda det allmänna frågeordet
             'ĉu'.
-      korelativoj_e: 
+      korelativoj_e:
         ekspliko: Plats
-        i: 
+        i:
           ekspliko: "Indefinita (obestämda)"
           frazo: "Min penna finns någonstans i trädgården"
           vorto: "någonstans, obestämd plats"
-        ki: 
+        ki:
           ekspliko: "Frågande och relativa"
           frazo: "Var bor du? — Jag bor i Kanada."
           vorto: "var, varest"
-        neni: 
+        neni:
           ekspliko: Nekande
           frazo: "Jag fann inte min bok någonstans."
           vorto: "ingenstans, ingenstädes"
-        ti: 
+        ti:
           ekspliko: Demonstrativa
           frazo: "Jag bor där, där det är (finns) en bil."
           vorto: där
-        ĉi: 
+        ĉi:
           ekspliko: Distributiva
           frazo: "En oklok person skriver sitt namn överallt."
           vorto: överallt
-      korelativoj_o: 
+      korelativoj_o:
         ekspliko: "Sak, förmål"
-        i: 
+        i:
           frazo: "Något hände!"
           vorto: "något, någonting"
-        ki: 
+        ki:
           frazo: "Vad är geografi? — Geografi är en vetenskap."
           vorto: "vad: vilket,(något) som"
-        neni: 
+        neni:
           frazo: "Bättre något än inget"
           vorto: "ingenting, inget"
-        ti: 
+        ti:
           frazo: "Vad är detta? - Detta är ett musikinstrument."
           vorto: "detta, det där"
-        ĉi: 
+        ĉi:
           frazo: "Jag glömde allting"
           vorto: "allt, allting"
-      korelativoj_u: 
+      korelativoj_u:
         ekspliko: "Anger individ eller specifik sak. Gäller det fler än en/ett skall pluraländelsen  \"j\" användas."
-        i: 
+        i:
           ekspliko: "Odefinierade / Indefinita"
           frazo: "Det kom några personer, som jag inte känner"
           vorto: "någon (person eller sak)"
-        ki: 
+        ki:
           ekspliko: "Frågeord; korrelativ som anger relation till föregående sats."
           frazo: "Vem var din första lärare — Herr (magister) Karl."
           vorto: "vem: vilken, som"
-        neni: 
+        neni:
           ekspliko: Nekande
           frazo: "Vem kom i går? — Ingen kom i går."
           vorto: ingen
-        ti: 
+        ti:
           ekspliko: Utpekande
           frazo: "Denna bok är mycket bra."
           vorto: "denne, den där"
-        ĉi: 
+        ĉi:
           ekspliko: Distributiva
           frazo: "Varje människa älskar sig själv"
           vorto: "var och en, varje"
-      vortaro05: 
+      vortaro05:
         al: till/åt
         anonco: annons
         aĉeti: köpa

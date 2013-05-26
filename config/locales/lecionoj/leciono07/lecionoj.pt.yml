@@ -1,11 +1,11 @@
---- 
-pt: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+pt:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Preposições são pequenas palavras que mostram a relação entre duas palavras."
         titolo: "Preposições I"
-        vortoj: 
+        vortoj:
           al: "para, a, em direção a"
           da: "de (exprime quantidade)"
           de: "de, desde (no sentido de posse, ponto de partida, característica)"
@@ -18,9 +18,9 @@ pt:
           sur: "sobre, em cima de"
           ĉe: "junto de, junto a"
           ĝis: "até (no sentido de espaço, tempo ou medida)"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Preposições II"
-        vortoj: 
+        vortoj:
           anstataŭ: "em vez de, ao invés de"
           antaŭ: "diante, antes (no tempo)"
           apud: "ao lado de"
@@ -39,7 +39,7 @@ pt:
           tra: "através de, por  (atravessando)"
           trans: "além de, do outro lado de"
           ĉirkaŭ: "em torno de, em redor de"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Vimos, na segunda lição, que o \"-n\" indica o complemento de objeto direto. Isto é o acusativo. Ex.:"
         ekspliko-2: "Quando uma frase tem dois complementos, um deles deve ser o complemento indireto. Ex.:"
         ekspliko-3: "O uso da preposição acima faz-se necessário, e o objeto indireto não recebe a terminação do acusativo. Outros exemplos:"
@@ -56,8 +56,8 @@ pt:
         frazo-5: "Ele bebeu uma xícara de café."
         frazo-6: "Saia da minha frente!"
         titolo: "Preposições III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "chegar a"
           aŭtobuseto: microônibus
           danki: agradecer
@@ -72,8 +72,8 @@ pt:
           sidi: "sentar, estar sentado"
           tagmanĝo: almoço
           viziti: visitar
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Ártico
           Kanado: Canadá
           admiri: admirar

@@ -1,8 +1,8 @@
---- 
-nl: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+nl:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Behalve op de manier van les 2, kun je ook op andere manieren vragen stellen in Esperanto:"
         frazo-1: "Is de doos blauw?"
         frazo-2: "Ga je (zal je gaan) naar de bioscoop?"
@@ -11,7 +11,7 @@ nl:
         frazo-5: "De doos is niet blauw, wel? (of toch?)"
         frazo-6: "Je gaat niet naar de bioscoop, is 't wel? (of toch?)"
         titolo: "Andere manieren van vragen"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Er zijn woordparen -uitdrukkingen in twee woorden-, die interessant zijn om te leren kennen:"
         jen: "Geeft afwisseling aan"
         jen-frazo-1: "Nu eens huilde de jongen, dan weer lachte hij."
@@ -29,11 +29,11 @@ nl:
         ĉu: "Geeft mogelijkheden aan, waarvan de keuze onverschillig, gelijk, vrij, of onzeker is."
         ĉu-frazo-1: "Of uit angst, of uit trots, antwoordde hij niets."
         ĉu-frazo-2: "Of het regent, of zonnig is, ik ga wel (ik ga toch)."
-      horoj: 
+      horoj:
         je-kioma: "Om welk uur (hoeveelste uur) zal je telefoneren? = Hoe laat bel je?"
         kioma-estas: "Hoe laat is het?"
         titolo: "De klok"
-      interjekcioj: 
+      interjekcioj:
         bis: bis!
         fi: foei!
         ha-1: ha!
@@ -45,7 +45,7 @@ nl:
         titolo: Tussenwerpsels
         ve: "o wee!"
         ve-al-mi: "wee mij!"
-      mallongiloj: 
+      mallongiloj:
         bv: "wees zo goed..., a.u.b."
         e-isto: esperantist
         e-o: Esperanto
@@ -57,7 +57,7 @@ nl:
         str: straat
         te: "dat is"
         titolo: Afkortingen
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "\"dan ook\", (benadrukt onbepaaldheid)"
         almenaŭ: tenminste
         ambaŭ: "beide, allebei"

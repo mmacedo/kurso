@@ -1,57 +1,57 @@
---- 
-ca: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+ca:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "una de les parts del conjunt"
           monero: moneda
           mono: "diners, doblers"
           salero: "gra de sal"
           salo: sal
-        estr: 
+        estr:
           ekspliko: "aquell qui està en el rang més alt i té el poder d'ordenar"
           urbestro: "alcalde, batlle"
           urbo: ciutat
           ŝipestro: "capità (de vaixell)"
           ŝipo: vaixell
-        et: 
+        et:
           ekspliko: "petit, poc intens"
           pupeto: nineta
           pupo: "nina (joguina)"
           rideti: somriure
           ridi: riure
-        id: 
+        id:
           ekspliko: "fill, descendent"
           katido: "cadell de gat"
           kato: gat
           reĝido: "príncep, infant"
           reĝo: rei
-        ig: 
+        ig:
           ekspliko: "fer fer"
           morti: morir
           mortigi: "matar, fer morir"
           pura: net
           purigi: "netejar, rentar"
-        il: 
+        il:
           ekspliko: "instrument o aparell que serveix per a efectuar l'acció"
           muzikilo: "instrument (musical)"
           muziko: música
           ŝlosi: "tancar amb clau"
           ŝlosilo: clau
-        in: 
+        in:
           ekspliko: "expressa el sexe femení"
           kokino: gallina
           koko: gall
           onklino: tia
           onklo: oncle
-        ind: 
+        ind:
           admiri: admirar
           admirinda: admirable
           ekspliko: "digne de"
           laŭdi: lloar
           laŭdinda: lloable
-        ist: 
+        ist:
           ekspliko: "professió, ocupació quotidiana"
           esperantisto: esperantista
           esperanto: esperanto
@@ -61,7 +61,7 @@ ca:
           raportisto: reporter
           tajpi: teclejar
           tajpisto: mecanògraf
-        iĝ: 
+        iĝ:
           ekspliko: "fer-se (sense agent extern)"
           fari: fer
           fariĝi: fer-se
@@ -69,39 +69,39 @@ ca:
           mateno: matí
           ruĝa: "vermell, roig"
           ruĝiĝi: "tornar-se vermell, enrogir-se"
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "sufix afectiu per a dones (amb només part de l'arrel i mantenint l'eufonia)"
           manjo: Marieta
           panjo: mama
           patrino: mare
-        obl: 
+        obl:
           du: dos
           duobla: doble
           ekspliko: múltiple
           tri: tres
           trioblo: triple
         ? "on"
-        : 
+        :
           dek: deu
           dekono: "desè, desena part"
           ekspliko: "fracció de l'arrel"
           kvar: quatre
           kvarono: "un quart"
-        op: 
+        op:
           du: dos
           duopo: "parella, duo"
           ekspliko: "per grups de"
           ses: sis
           sesopo: sextet
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Quan hi hagi confusió entre els sentits 1 i 2 d'aquest sufix, utilitzem un sinònim:"
           germanio: Alemanya
           pomarbo: pomer
           pomkesto: "caixa de pomes"
           ruslando: Rússia
         titolo: Sufixos
-        uj: 
+        uj:
           ekspliko: "objecte que en conté d'altres; l'arbre que fa el fruit; el país"
           franco: francès
           francujo: França
@@ -109,7 +109,7 @@ ca:
           monujo: moneder
           pomo: poma
           pomujo: pomer
-        ul: 
+        ul:
           ekspliko: "persona caracteritzada per l'arrel"
           kontraŭ: contra
           kontraŭulo: opositor
@@ -119,22 +119,22 @@ ca:
           sanktulo: "sant (persona)"
           stulta: "estúpid/a (adjectiu)"
           stultulo: "estúpid (persona)"
-        um: 
+        um:
           ekspliko: "sufix sense sentit definit, amb diversos significats"
           kolo: coll
           kolumo: "coll (d'un vestit)"
           plena: ple/na
           plenumi: "acomplir, portar a cap"
-      vortordo: 
+      vortordo:
         dialogo: |-
-            — Et vaig veure, oh tresor, 
-            i de cop et vaig començar a estimar! 
-            — Et crec a tu, però tingues 
-            l'or preparat al moneder! 
-             
-            — A tu t'estimo, però, amor meu, 
-            no et feia pas així! 
-            - Si de veres a mi m'estimessis, avar, 
+            — Et vaig veure, oh tresor,
+            i de cop et vaig començar a estimar!
+            — Et crec a tu, però tingues
+            l'or preparat al moneder!
+
+            — A tu t'estimo, però, amor meu,
+            no et feia pas així!
+            - Si de veres a mi m'estimessis, avar,
             de debò em converteries en reina!
         ekspliko-1: "Fins ara hem usat l'ordre subjecte-verb-complement, el més comú en esperanto. Tot i això n'hi ha d'altres que també són possibles, sempre que es mantingui la claretat. Un d'aquests casos és quan es vol emfatitzar un element de la frase. A les següents oracions s'ha canviat l'ordre dels elements per emfatitzar-ne un:"
         ekspliko-2: "Per emfatitzar una frase es pot utilitzar també la paraula \"ja\", que realça el sentit:"

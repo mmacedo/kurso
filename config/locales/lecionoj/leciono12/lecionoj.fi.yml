@@ -1,11 +1,11 @@
---- 
-fi: 
-  lecionoj: 
-    leciono12: 
-      muziko02: 
+---
+fi:
+  lecionoj:
+    leciono12:
+      muziko02:
         ekspliko: "Seuraavaksi kuulet laulelman, \"Sinisiä Mansikoita\", jonka esittää Melin, brasilialainen pop-yhtye, jolta on ilmestynyt jo kaksi albumia esperantoksi. Yhtyeeseen kuuluu Markone Foes (ääni ja kitara), Guilherme Lima (rummut), Aldrin Gadra (sähkökitara), Sérgio Ribeiro (bassokitara) ja Sérgio Vieira (kosketinsoittimet)."
         titolo: "Musiikkia esperantoksi"
-        vortaro: 
+        vortaro:
           aliri: "Mennä luokse"
           alveni-al: "Saapua jhkn."
           animo: "Sielu, mieli"
@@ -19,46 +19,46 @@ fi:
           vero: Totuus
           ĉielarko: Sateenkaari
           ĉielo: Taivas
-      verba_transitiveco: 
+      verba_transitiveco:
         ekspliko: "Opimme jo toisessa oppikappaleessa akkusatiivin käytön suoran objektin ilmaisuun. On kuitenkin verbejä, jotka eivät vaadi täydennystä. Esim.:"
         frazo-1: "Tapahtui jotakin tärkeää."
         frazo-2: "Iloitsen kovasti tänään."
         frazo-3: "He nukkuvat jo vuoteissaan."
         frazo-4: "Nuoret tanssivat (ovat tanssineet) paljon."
-        ig: 
+        ig:
           ekspliko: "Verbit joilla on IG suffiksi, ovat aina transitiivisia:"
           frazo-1: "Varmasti matka väsytti sinua."
           frazo-2: "Eteläinen aurinko polttaa hänen paljasta päätään."
           frazo-3: "Isä haluaa heti naittaa vanhemman tyttären."
-        iĝ: 
-          du: 
+        iĝ:
+          du:
             ekspliko: "2. Transitiivisista verbeistä IĜ jälkiliitteellä muodostetut verbit kuvaavat toimintaa, joka tapahtuu itsestään."
             frazo-1: "Joukko juoksi hitaammin kun ajoneuvo, joka vieri hyvin nopeasti."
             frazo-2: "Yhtäkkiä hän oli kadulla, aivan yksin."
             frazo-3: "Mitä aikaa alkaa (tulee alkamaan) oppitunti?"
             frazo-4: "Kulkijajoukkoja liikkui jalkakäytävällä."
           ekspliko: "Kun verbillä on jälkiliite IĜ, se on aina eitransitiivinen, eikä tarvitse täydennystä, ja voi tarkoittaa:"
-          unu: 
+          unu:
             ekspliko: "1. Toiseen olotilaan siirtymisessä, juuri osoittaa uuden olotilan tuloksen. IĜ päätteisillä verbeillä toiminnan aiheuttaja ei ole kiinnostava:"
             frazo-1: "Talvella vedet jäätyvät."
             frazo-2: "Tänään ilma lämpeni jälleen."
             frazo-3: "Hän avioitui serkkunsa kanssa."
-        rimarkigo-1: 
+        rimarkigo-1:
           ekspliko-1: "Muutamat näistä varbeistä voivat saada täydennyksen preposition avulla:"
           ekspliko-2: "Joissakin tapauksissa, jotkut näistä voivat saada suoran objektin:"
           frazo-1: "Isä kuoli syöpään."
           frazo-2: "Olen kovin iloinen sinun onnesi vuoksi!"
           frazo-3: "Hän nukkuu syvää unta."
           frazo-4: "Hän (nainen) tanssi valssia hänen (mies) kanssaan."
-        rimarkigo-2: 
+        rimarkigo-2:
           ekspliko: "Huomaa että sanan \"esti\" kanssa ei voi käyttää akkusatiivia, eikä myöskään preposition jälkeen, paitsi suuntaa ilmaistessa."
-        sen-subjekto: 
+        sen-subjekto:
           ekspliko: "On myöskin verbejä ilman subjektia:"
           frazo-1: "Eilen satoi paljon."
           frazo-2: "Päivä sarastaa, ja minun pitää mennä kotiin."
           frazo-3: "Oli ankara lumipyry, ekä hän voinut mennä mökistä ulos."
         titolo: Transitiiviverbit
-      vortfarado: 
+      vortfarado:
         ekspliko-1: "Olet jo varmaan huomannut, miten ilmaisukykyinen kieli Esperanto on. Käyttämällä etuliitteitä, jälkiliitteitä ja päätteitä voidaan samasta vartalosta muodostaa useita sanoja, jopa sellaisia, joita ei tavata muissa kielissä. Myöskin sanavartaloita yhdistämällä viodaan ilmaisukykyä edelleen lisätä, löytää synonyymejä, painottaa tai antaa lisää vivahteita. Tässä seuraa muutamia esimerkkejä siitä miten uusia sanoja voidaan rakentaa:"
         ekspliko-2: "Päätteillä, etu- ja jälkiliitteillä:"
         ekspliko-3: "Yhdyssanoja muodostettaessa on mahdollista jättää ensimmäisen sanavartalon pääte pois, jos sanan ääntäminen siten muuttuu sujuvammaksi:"
@@ -67,7 +67,7 @@ fi:
             Vaikka sanoja voidaan muodostaa myös useammalla kun kahdella etu- ja/tai jälkiliitteellä, on suositeltavaa välttää pitkiä ja ehkä monimutkaisia rakenteita. Siten esim. "belulineto" sanan sijasta kannattaa käyttää sanaparia "eta belulino".
             Liitteiden järjestyksellä on suora vaikutus sanan merkitykseen:
         titolo: "Sanojen muodostaminen"
-        vortoj: 
+        vortoj:
           antaŭbrako: kyynärvarsi
           balenŝipo: "valaslaiva (valaanpyyntialus)"
           helruĝo: "kirkas puna"

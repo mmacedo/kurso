@@ -1,57 +1,57 @@
---- 
-hi: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+hi:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "संपूर्ण तत्व."
           monero: सिक्का
           mono: धन
           salero: "नमक की अनाज"
           salo: नमक
-        estr: 
+        estr:
           ekspliko: "निर्वाहक, सेनापति, अधिष्ठाता"
           urbestro: नगराध्यक्ष
           urbo: शहर
           ŝipestro: "जहाज का अध्यक्ष"
           ŝipo: जहाज़
-        et: 
+        et:
           ekspliko: छोटा
           pupeto: "छोटे गुड़िया"
           pupo: गुड़िया
           rideti: मुस्कुराना
           ridi: हंसी
-        id: 
+        id:
           ekspliko: सन्तान
           katido: बिलौटा
           kato: बिल्ली
           reĝido: राजकुमार
           reĝo: बादशाह
-        ig: 
+        ig:
           ekspliko: करना
           morti: "मृत्यु होना"
           mortigi: "हत्या करना"
           pura: स्वच्छ
           purigi: "सफ़ाई करना"
-        il: 
+        il:
           ekspliko: साधन
           muzikilo: "संगीत वाद्य"
           muziko: संगीत
           ŝlosi: "बन्द करना"
           ŝlosilo: ताली
-        in: 
+        in:
           ekspliko: स्त्री
           kokino: मुर्ग़ा
           koko: "”मुर्ग़ा, मुर्गी”"
           onklino: "”बुआ, चाची”"
           onklo: ताऊ
-        ind: 
+        ind:
           admiri: "प्रशंसा करना"
           admirinda: प्रशंसनीय
           ekspliko: बहुमूल्य
           laŭdi: स्तुति
           laŭdinda: सराहनीय
-        ist: 
+        ist:
           ekspliko: "एक व्यक्ति जो एक पेशे के रूप में कुछ भी करता है"
           esperantisto: "एस्पेरान्तो बोलने वाला"
           esperanto: एस्पेरान्तो
@@ -61,7 +61,7 @@ hi:
           raportisto: सम्वाददाता
           tajpi: "टंकित करना"
           tajpisto: टंकक
-        iĝ: 
+        iĝ:
           ekspliko: "to become"
           fari: करना
           fariĝi: "हो जाना"
@@ -69,39 +69,39 @@ hi:
           mateno: सुबह
           ruĝa: लाल
           ruĝiĝi: शरमाना
-        nj: 
+        nj:
           Maria: मरी
           ekspliko: "उपनाम रखना"
           manjo: "मरी का उपनाम"
           panjo: "मां, माता"
           patrino: माँ
-        obl: 
+        obl:
           du: दो
           duobla: दुगुना
           ekspliko: अपवर्त्य
           tri: तीन
           trioblo: त्रिक
         ? "on"
-        : 
+        :
           dek: दस
           dekono: "दसवाँ भाग"
           ekspliko: भाग
           kvar: चार
           kvarono: "चौथाई, 1/4"
-        op: 
+        op:
           du: दो
           duopo: जोड़ा
           ekspliko: "यह समूहों रूपों"
           ses: छः
           sesopo: षट्क
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "इस प्रत्यय अर्थ के कई अर्थ के कारण भ्रम की स्थिति से बचने के लिए, हम दूसरे शब्दों का उपयोग कर सकते हैं:"
           germanio: जर्मनी
           pomarbo: "सेब का पेड़"
           pomkesto: "टोकरा सेब के लिए"
           ruslando: रूस
         titolo: प्रत्यय
-        uj: 
+        uj:
           ekspliko: "प्रजा के साथ देश, पात्र, जिसमे चीज़ रखे जाते हैं"
           franco: "फ्रांसीसी व्यक्ति"
           francujo: फ्रांस
@@ -109,7 +109,7 @@ hi:
           monujo: बटुआ
           pomo: सेब
           pomujo: "सेब टोकरा, सेब पेड़"
-        ul: 
+        ul:
           ekspliko: व्यक्ति
           kontraŭ: "आमने सामने"
           kontraŭulo: "शत्रु, विरोधी"
@@ -119,16 +119,16 @@ hi:
           sanktulo: साधु
           stulta: बेवकूफ
           stultulo: मूर्ख
-        um: 
+        um:
           ekspliko: "कोई विशिष्ट अर्थ के साथ प्रत्यय"
           kolo: गर्दन
           kolumo: पट्टा
           plena: "पूरी तरह, सम्पूर्ण"
           plenumi: "पूरा करना, सिद्ध करना"
-      vortordo: 
+      vortordo:
         dialogo: |-
             — मैंने तुम्हें देखा, खजाना, और तुरंत आप के साथ प्यार में गिर गई!
-            — मुझे आपके ऊपर बरोसा हैं, फिर भी सोना आपके थैली मैं रहना चाहिए 
+            — मुझे आपके ऊपर बरोसा हैं, फिर भी सोना आपके थैली मैं रहना चाहिए
             — मैं तुमसे प्यार करता हूँ, लेकिन, प्यारे, मुझे यकीन नहीं हैं की तुम वैसे हो!
             — अगर तुम मुझसे प्यार करते थो, लालची, तुम मुझे महारानी बनाते थे
         ekspliko-1: "सभी भाषाओं में एक प्रमुख विषय के सापेक्ष शब्द क्रम, क्रिया, और वस्तु है. अंग्रेजी की तरह एस्पेरान्तो, SVO भाषा है (सबसे अधिक है, हालांकि सब नहीं है, वाक्य आदेश विषय - क्रिया - वस्तु दिखाएं). कई भाषाओं, उदाहरण के लिए, जापानी, SOV हैं, जबकि अन्य, उदाहरण के लिए, अरबी, VSO हैं. कभी कभी हम कुछ विशेष प्रभाव के लिए सामान्य शब्द क्रम को बदलने के लिए या कुछ तत्व पर जोर."

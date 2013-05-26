@@ -1,11 +1,11 @@
---- 
-sk: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+sk:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Niečo viac o slovesách: už vieme, že slovesá v prítomnom čase končia na \"as\", v minulom na \"is\" a \"os\" v budúcom čase, no a \"i\" v neurčitku. Existujú aj iné vyjadrenia:"
         titolo: "Iné slovesné tvary"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Rozkazovací spôsob (-u) sa väčšinou vzťahuje na druhú osobu a nie je nutné uvádzať zámeno. Ale pokiaľ sa jedná o prvú alebo tretiu osobu je nutné použiť adekvátne zámeno ( a prekladáme pomocou \"nech\")."
         ekspliko-2: "Koncovka -u vyjadruje účel (rozkaz, prosbu, napomenutie, prianie, nutnosť, povolenie, zákaz atď.). V prípadoch ako \"dúfam\", \"bojím sa\", \"neverím\", \"navrhujem\" atď sa používa koncovka \"-os\"."
         frazo-1: "Zatvor dvere a posaď sa."
@@ -17,8 +17,8 @@ sk:
         frazo-7: "Navrhujem, aby prišiel."
         frazo-8: "Je možné, že príde."
         titolo: "Rozkazovací spôsob (-u)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Musím rozumieť."
           devas-veni: "Musím prísť."
           devi: musieť
@@ -28,29 +28,29 @@ sk:
           volas-kompreni: "Chcem rozumieť."
           volas-veni: "Chcem prísť."
           voli: chcieť
-        scio: 
+        scio:
           frazo-koni-1: Poznám...
           frazo-koni-2: "Poznáš Johana?"
           frazo-scii-1: Viem...
           frazo-scii-2: "Vieš esperanto?"
         titolo: "Zopár veľmi dôležitých slovies"
-        ŝato: 
+        ŝato:
           frazo-ami: "Niekoho milujem."
           frazo-plaĉi-1: "Niečo alebo niekto sa mi páči."
           frazo-plaĉi-2: "Knihy sa mi páčia."
           frazo-ŝati: "Niečo mám rád."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Keby som bol bohatý, veľa by som cestoval."
         frazo-2: "Jedli by sme chlieb, keby bol dobrý."
         titolo: "Podmieňovací spôsob (-us)"
-      nerekta: 
+      nerekta:
         ekspliko: "V nepriamej reči sa používa rovnaký čas a slovesný tvar ako v priamej reči. Napr:"
         frazo-1: "Povedal:\"Prichádzam z New-Yorku.\""
         frazo-2: "Povedal, že prichádza z New-Yorku."
         frazo-3: "Povedala:\"Pocestujem do Paríža.\""
         frazo-4: "Povedala, že pocestuje do Paríža."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Chystám sa čítať. (budem čítať)"
           frazo-presenco: "Som čítajúci. (čítam)"
           frazo-preterito: "Som čítavší. (už som čítal)"
@@ -74,7 +74,7 @@ sk:
         frazo-7: "Zatvorené dvere."
         frazo-8: "Stúpajúce slnko."
         frazo-9: Pozostalí.
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Čítam knihu. = Kniha je čítaná mnou."
           frazo-futuro: "Kniha bude čítaná."
           frazo-presenco: "Kniha je čítaná."
@@ -84,7 +84,7 @@ sk:
           preterito: "Minulý čas: -it"
           titolo: "Trpný rod"
         titolo: Príčastia
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"si\" je zámeno korešpondujúce s treťou osobou."
         ekspliko-2: "\"Sia\" nemôže byť súčasťou podmetu samotného. V takých prípadoch použite \"lia\", \"ŝia\", \"ĝia\" alebo \"ilia\". V nasledujúcich príkladoch sa \"filo\" viaže na \"li\"."
         frazo-1: "Johan sa umyl. (seba samého)"

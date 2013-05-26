@@ -1,11 +1,11 @@
---- 
-it: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+it:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: "Numerali - Esercizio"
         numeraloj-ekzercoj-instrukcioj: "Nello spazio apposito, immetti il numero corrispondente a quello scritto nel testo. Per confermare la risposta, premi il tasto \"Invio\" o clicca il pulsante che si trova a lato. Proponiti di conseguire un punteggio di almeno il 70% di risposte esatte."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. [Lui] ama lei / [Lui] la ama."
         frazo02: "2. Lui ama la sorella di lei."
         frazo03: "3. [Lei] ama lui / [Lei] lo ama."

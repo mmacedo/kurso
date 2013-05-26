@@ -1,101 +1,101 @@
---- 
-jp: 
-  lecionoj: 
-    leciono06: 
-      korelativoj02: 
+---
+jp:
+  lecionoj:
+    leciono06:
+      korelativoj02:
         ekspliko: さあ、他の相関詞を学習しましょう。相関詞の役割は限定的です、このことは今まさに指し示している”もの（事）”以外を表すことはありません。
         titolo: 相関詞(そうかんし)
-      korelativoj_a: 
+      korelativoj_a:
         ekspliko: 内容（質的な物）や種類（タイプ）を示します。
-        i: 
+        i:
           frazo: あなたはEsperantoの文法について何か疑問を持っていますか？
           vorto: ある種の
-        ki: 
+        ki:
           frazo: "あなたの一日はどうでしたか? —私の一日はとてもよかったです、ありがとう!"
           vorto: どんな
-        neni: 
+        neni:
           frazo: いいえ、そのことに関しては私はいかなる疑問も持っていません。
           vorto: どんな～もない
-        ti: 
+        ti:
           frazo: 私はそんなパンは食べないでしょう。
           vorto: そんな
-        ĉi: 
+        ĉi:
           frazo: どんな助けでも歓迎します。
           vorto: あらゆる種類の
-      korelativoj_al: 
+      korelativoj_al:
         ekspliko: （ものごとの）原因、理由
-        i: 
+        i:
           frazo: 私はなぜかいまだにあなたを知らない。
           vorto: なぜか
-        ki: 
+        ki:
           frazo: "なぜその子どもは走っていますか? — その子どもはとてもうれしいからです。"
           vorto: なぜ
-        neni: 
+        neni:
           frazo: もしあなたがどんなに彼を刺激しても、彼は決して怒ることはないでしょう。
           vorto: いかなる理由でも～しない
-        ti: 
+        ti:
           frazo: 彼女はとてもきれいなので、私は彼女を愛しています。
           vorto: それだから(理由)
-        ĉi: 
+        ĉi:
           frazo: あなたは、なぜ私があなたを好きかという。　（私は）答えましょう。あらゆる事でと。（有りとあらゆる理由で）
           vorto: すべての理由で、どうしてでも
-      korelativoj_el: 
+      korelativoj_el:
         ekspliko: 方法
-        i: 
+        i:
           ekspliko: 不確かさ（確実でないこと）を表す。
           frazo: 彼女はどうにかして私に他の人のことを思い出させた。
           vorto: どうにかして
-        ki: 
+        ki:
           ekspliko: 質問（疑問）を表します。関係する物の前に置きます。
           frazo: "ごきげんいかがですか? — とてもいいです、ありがとう!"
           vorto: どのように、どうやって
-        neni: 
+        neni:
           ekspliko: 否定（そうではない、何も～しない、何時も～しない）の意味を表す。
           frazo: 私はあなたの言うことがどうしても分かりません。
           vorto: どうやっても～しない
-        ti: 
+        ti:
           ekspliko: 指し示すとき、相手に示すときに使います。
           frazo: 彼女は先生(女性)が書くのと同じくらいじょうずに書きます。
           vorto: そうやって、そのようにして
-        ĉi: 
+        ĉi:
           ekspliko: 集まり（集合、すべての～）を表す。
           frazo: 彼らはあらゆる方法で私を助けた。
           vorto: すべての方法で
-      korelativoj_es: 
+      korelativoj_es:
         ekspliko: 持ち主を表します。
-        i: 
+        i:
           frazo: 私は誰かの本を見つけました。
           vorto: だれかの、ある人の
-        ki: 
+        ki:
           frazo: "それは誰の本ですか? — それはヨハーノ(Johano)の本です。"
           vorto: 誰の
-        neni: 
+        neni:
           frazo: Esperantoは誰の所有物でもありません。
           vorto: 誰の～でもない
-        ti: 
+        ti:
           frazo: その猫は家の上を走って屋根を壊しました。
           vorto: その人の、そのものの
-        ĉi: 
+        ĉi:
           frazo: Esperantoはすべての人の言葉です。
           vorto: みんなの
-      korelativoj_om: 
+      korelativoj_om:
         ekspliko: 量を表す。
-        i: 
+        i:
           frazo: 私はコーヒーを少し買わなければなりません。
           vorto: すこし
-        ki: 
+        ki:
           frazo: "２と２でいくつですか? — ４です!"
           vorto: どのくらい
-        neni: 
+        neni:
           frazo: 家の中でどのくらいの子供（幼児）達が遊んでいますか？－－誰も（いません）。
           vorto: 少しも～ない（少しの量も有りはしない等）
-        ti: 
+        ti:
           frazo: 彼は彼が食べたい分量だけ食べた。
           vorto: そのくらい(分量・程度)
-        ĉi: 
+        ĉi:
           frazo: どの位ガソリンがいりますか？－あなたが持っている分の全部が欲しいです。
           vorto: 全部の分量
-      relativoj: 
+      relativoj:
         ekspliko-1: "\"ki\"ではじまる単語は、疑問文以外にも使います。 文(主節)の中のある部分を、別の文(従属節)で説明する場合です。 この場合には\"ki\"ではじまる単語が２つの節の関係を表すので、「関係詞(かんけいし)」といいます。"
         ekspliko-2: "この上の文では \"kiun\" は \"tiun frukton\"のことを指す、という関係があります。"
         frazo-1: 私はあなたが指した果物がほしいです。

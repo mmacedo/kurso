@@ -1,11 +1,11 @@
---- 
-fr: 
-  lecionoj: 
-    leciono01: 
-      pagxo02: 
+---
+fr:
+  lecionoj:
+    leciono01:
+      pagxo02:
         auxdkompreno01: "Exercice de compréhension orale I"
         auxdkompreno01-instrukcio: "Dans l'exercice suivant, vous entendrez un mot et vous devrez cliquer sur le bouton correspondant à ce mot. Si le mot est juste, le bouton s'effacera ; sinon, vous entendrez de nouveau le mot un peu plus tard au cours de l'exercice. Vous devez réussir au moins 70 %."
-      pagxo12: 
+      pagxo12:
         frazo01: "1. Le thé est chaud."
         frazo02: "2. Un instituteur est un père."
         frazo03: "3. Ton père était bon. (Votre père était bon)"

@@ -1,19 +1,19 @@
---- 
-pl: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+pl:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: "ładny  -a  -e"
         ekspliko: "Kończą się na literę  \"-a\""
         sana: "zdrowy -a  -e"
         titolo: Przymiotniki
         varma: "ciepły -a -e"
-      alfabeto: 
+      alfabeto:
         ekspliko: "W  Esperanto wyrazy pisze się dokładnie według ich wymowy,  a wymawia się według dźwięku każdej napisanej litery.  Akcentowaną sylabą jest zawsze przedostatnia (kliknij przycisk, aby usłyszeć wymowę i powtórz ją głośno.)"
         titolo: "Alfabet języka Esperanto"
-      artikolo: 
+      artikolo:
         ekspliko: "Nieokreślony rodzajnik nie istnieje w Esperanto. Jest tylko określony rodzajnik   \"la\" dla wszystkich rodzajów, przypadków i liczb."
-        frazoj: 
+        frazoj:
           frazo-1: "Wasi synowie są naszymi przyjaciółmi."
           frazo-2: "Chleb jest suchy."
           frazo-3: "Ciepłe mleko jest dobre."
@@ -22,7 +22,7 @@ pl:
           frazo-6: "Ojciec jest dobry."
           titolo: Zdania
         titolo: Rodzajnik
-        vortoj: 
+        vortoj:
           floroj: kwiaty
           knabo: chłopiec
           la-floroj: "kwiaty /konkretne/"
@@ -31,33 +31,33 @@ pl:
           la-patroj: "ojcowie /konkretni/"
           pano: chleb
           patroj: ojcowie
-      nomoj: 
+      nomoj:
         amiko: przyjaciel
         ekspliko: "Kończą się na literę  \"-o\""
         frato: brat
         kafo: kawa
         titolo: Rzeczowniki
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Oni  (liczba mnoga dla \"ona\",\"on\",\"ono\")"
           ni: My
           titolo: "Liczba mnoga"
           vi: "Wy  (liczba  mnoga)"
-        singularo: 
+        singularo:
           li: "On"
           mi: Ja
           titolo: "Liczba pojedyńcza"
           vi: "Ty (liczba pojedyńcza)"
           ĝi: "Ono  (by określić coś, lub kogoś, gdy  płci nie trzeba  precyzować.)"
           ŝi: Ona
-        specialaj: 
+        specialaj:
           oni: "Oni -   zaimek  bezosobowy, znaczący:  ludzie, wiele,  lub kilka osób, ktoś nieznany,"
           si: "Si ( Zaimek zwrotny trzeciej osoby-on,ona,ono,oni- używany kiedy odnosi się do podmiotu  zdania.)"
           titolo: Specjalne
         titolo: "Zaimki osobowe."
-      pluralo: 
+      pluralo:
         ekspliko: "Liczbę mnogą  otrzymujemy dodając  \"-j\"  na końcu  rzeczowników i przymiotników:"
-        pluralo: 
+        pluralo:
           amikoj: przyjaciele
           belaj: ładne
           belaj-floroj: "ładne kwiaty"
@@ -66,7 +66,7 @@ pl:
           patroj: ojcowie
           sanaj: zdrowi
           sanaj-patroj: "zdrowi  ojcowie"
-        singularo: 
+        singularo:
           amiko: przyjaciel
           bela: "ładny -a,-e"
           bela-floro: "ładny kwiat"
@@ -76,9 +76,9 @@ pl:
           sana: "zdrowy -a,-e"
           sana-patro: "zdrowy ojciec"
         titolo: "Liczba mnoga"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Zaimki dzierżawcze tworzy się dodając przymiotnikową końcówkę (\"-a\") do zaimków osobowych:"
-        posedaj: 
+        posedaj:
           ilia: ich
           lia: jego
           mia: "mój,-a -e"
@@ -86,27 +86,27 @@ pl:
           via: "twój,-a,-e"
           ĝia: "jego  /rodzaj nijaki /"
           ŝia: jej
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Zaimki dzierżawcze również otrzymują końcówkę \"-j\" w liczbie mnogiej:"
           mia-amiko: "Mój przyjaciel"
           miaj-amikoj: "Moi przyjaciele"
           nia-floro: "Nasz  kwiat"
           niaj-floroj: "Nasze kwiaty"
         titolo: "Zaimki dzierżawcze"
-      verboj: 
+      verboj:
         ekspliko: "Bezokolicznik kończy się na  -i: esti;     czas przeszły kończy się na -is: estis  ; czas teraźniejszy kończy się na -as: estas;       czas przyszły na -os: estos. Inne czasy omówimy w następnych  lekcjach."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Oni są"
           ni-estas: "My jesteśmy"
           oni-estos: "Będzie się"
           vi-estis: "Wy byliście"
-        singularo: 
+        singularo:
           li-estis: "On był"
           mi-estas: "Ja jestem"
           ĝi-estos: "Ono  będzie"
           ŝi-estas: "Ona  jest"
         titolo: Czasowniki
-      vortaro01: 
+      vortaro01:
         amiko: przyjaciel
         bela: "ładny -a -e"
         biskvito: sucharek

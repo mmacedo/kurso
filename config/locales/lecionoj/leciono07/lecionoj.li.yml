@@ -1,11 +1,11 @@
---- 
-li: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+li:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Prielinksniai yra nekaitoma kalbos dalis, einanti su linksniu ir rodanti jo ryšį su pagrindiniu junginio žodžiu, kuris dažniausiai esti veiksmažodis."
         titolo: "Prielinksniai I"
-        vortoj: 
+        vortoj:
           al: "link, į, pas; žymi naudininko linksnį"
           da: "rodo kiekio kilmininką po žodžių, kurie reiškia matą"
           de: "nuo (vieta, laikas, priežastis); žymi kilmininko linksnį"
@@ -18,9 +18,9 @@ li:
           sur: ant
           ĉe: "prie, pas"
           ĝis: "iki, ligi"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prielinksniai II"
-        vortoj: 
+        vortoj:
           anstataŭ: "vietoje, užuot"
           antaŭ: "prieš, priešais"
           apud: "prie, šalia, greta"
@@ -39,7 +39,7 @@ li:
           tra: "per, pro"
           trans: "anapus, už, per"
           ĉirkaŭ: "aplink, apie"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Antroje pamokoje matėme, kad galūnė \"-n\" parodo tiesioginį  papildinį, kuris reiškiamas galininku. Pvz.:"
         ekspliko-2: "Kai sakinyje yra dvi antrininkės sakinio dalys, viena iš jų turi būti netiesioginis papildinys. Pvz.:"
         ekspliko-3: "Viršuje pateiktuose sakiniuose prielinksnis yra būtinas. Netiesioginis papildinys neturi galininko galūnės. Štai kiti pavyzdžiai:"
@@ -56,8 +56,8 @@ li:
         frazo-5: "Jis gėrė puodelį kavos."
         frazo-6: "Dink iš akių!"
         titolo: "Prielinksniai III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "atvykti, ateiti"
           aŭtobuseto: autobusiukas
           danki: dėkoti
@@ -72,8 +72,8 @@ li:
           sidi: sėdėti
           tagmanĝo: pietūs
           viziti: lankyti
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arktis
           Kanado: Kanada
           admiri: "grožėtis, gėrėtis, žavėtis"

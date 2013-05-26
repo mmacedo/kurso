@@ -1,48 +1,48 @@
---- 
-sk: 
-  lecionoj: 
-    leciono03: 
-      adjektivoj_el_numeraloj: 
+---
+sk:
+  lecionoj:
+    leciono03:
+      adjektivoj_el_numeraloj:
         ekspliko: "Radové číslovky sa tvoria príponou \"a\". Pretože majú koncovku \"a\", môžu získať i koncovku množného čísla (-j) a akuzatívu (-n)."
-        frazoj: 
+        frazoj:
           frazo-1: "Príchádzajú prví chlapci."
           frazo-2: "Chytil tretí hmyz."
         titolo: "Príslovky z čísloviek"
-        vortoj: 
+        vortoj:
           dek: desať
           dek-naŭ: devätnásť
           dek-naŭa: devätnásty
           deka: desiaty
           tri: tri
           tria: tretí
-      adverboj: 
+      adverboj:
         ekspliko-1: "Príslovky fungujú rovnako ako prídavné mená, neviažu sa však na podstatné mená, ale na slovesá a prídavné mená. Nemôžu však získať koncovku \"j\". Určujú spôsob, príčinu, miesto alebo čas."
         ekspliko-2: "V esperante končia príslovky väčšinou na koncovku \"e\" (vždy, keď sú odvodené od iných slov). Jednoduchou výmenou koncovky tak môže slovo nadobúdať rôzne slovné druhy."
-        frazoj: 
+        frazoj:
           frazo-sana: "Je zdravý."
           frazo-sane: "Žije zdravo."
           frazo-sani: "Je zdravý."
           frazo-sano: "Má dobré zdravie."
         rimarkigo: "Príslovky sa väčšinou kladú pred slovo, ku ktorému sa viažu."
         titolo: Príslovky
-        vortoj: 
+        vortoj:
           sana: zdravý
           sane: zdravo
           sani: "byť zdravý"
           sano: zdravie
-      adverboj_el_numeraloj: 
+      adverboj_el_numeraloj:
         ekspliko: "Pridaním koncovky \"e\" k číslovke sa tvoria príslovky:"
-        frazoj: 
+        frazoj:
           frazo-1: "Najprv sa napije vody."
         titolo: "Prídavné mená z čísloviek"
-        vortoj: 
+        vortoj:
           du: dva
           due: "za druhé"
           unu: jeden
           unue: "za prvé, najskôr"
-      numeraloj: 
+      numeraloj:
         titolo: Číslovky
-      vortaro03: 
+      vortaro03:
         atendi: počkať
         demandi: "pýtať sa"
         fumi: fajčiť

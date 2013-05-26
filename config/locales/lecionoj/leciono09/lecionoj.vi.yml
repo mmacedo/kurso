@@ -1,57 +1,57 @@
---- 
-vi: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+vi:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "Phần tử hay thành phần của toàn bộ"
           monero: "đồng xu"
           mono: tiền
           salero: "hạt muối"
           salo: muối
-        estr: 
+        estr:
           ekspliko: "người quản lý,  giám đốc"
           urbestro: "thị trưởng"
           urbo: "thành phố, thị trấn"
           ŝipestro: "thuyền trưởng"
           ŝipo: "con tàu"
-        et: 
+        et:
           ekspliko: "nhỏ bé"
           pupeto: "con búp bê nhỏ"
           pupo: "búp bê, con rối"
           rideti: "mỉm cười"
           ridi: cười
-        id: 
+        id:
           ekspliko: "con cái, con cháu"
           katido: "con mèo con"
           kato: "con mèo"
           reĝido: "hoàng tử"
           reĝo: "ông vua"
-        ig: 
+        ig:
           ekspliko: "xảy ra, làm, thực thi"
           morti: "chết, hết hạn"
           mortigi: "giết chết"
           pura: "sạch sẽ"
           purigi: "làm cho sạch, rửa"
-        il: 
+        il:
           ekspliko: "công cụ, dụng cụ"
           muzikilo: "dụng cụ âm nhạc"
           muziko: "âm nhạc"
           ŝlosi: khóa
           ŝlosilo: "chìa khóa"
-        in: 
+        in:
           ekspliko: "nữ giới, giống cái"
           kokino: "con gà mái"
           koko: "gà con (cả đực và cái)"
           onklino: "cô, dì, thím"
           onklo: "chú, cậu"
-        ind: 
+        ind:
           admiri: "ngắm nhìn một cách khâm phục"
           admirinda: "đáng phục, đáng khâm phục"
           ekspliko: "những người xứng đáng, có phẩm giá"
           laŭdi: "khen ngợi, tán dương"
           laŭdinda: "đáng tán dương, đáng khen"
-        ist: 
+        ist:
           ekspliko: "giáo sư, người làm việc gì đó một cách chuyên nghiệp"
           esperantisto: "Nhà Quốc tế ngữ học"
           esperanto: "Quốc tế ngữ"
@@ -61,7 +61,7 @@ vi:
           raportisto: "báo cáo viên, người báo cáo"
           tajpi: "đánh máy, xắp chữ"
           tajpisto: "người đánh máy, người xắp chữ"
-        iĝ: 
+        iĝ:
           ekspliko: "trở nên"
           fari: "làm, thi hành"
           fariĝi: "trở thành"
@@ -69,39 +69,39 @@ vi:
           mateno: "buổi sáng"
           ruĝa: "màu đỏ"
           ruĝiĝi: "đỏ mặt, trở nên đỏ"
-        nj: 
+        nj:
           Maria: Mary
           ekspliko: "Dạng tên hiệu cho nữ ( từ gốc có thể lược bớt hay đã hiệu chỉnh lại)"
           manjo: "tên hiệu của Mary"
           panjo: "má, u...(thông tục)"
           patrino: mẹ
-        obl: 
+        obl:
           du: hai
           duobla: "gấp đôi, kép"
           ekspliko: "bội số"
           tri: ba
           trioblo: "bộ ba, sinh ba"
         ? "on"
-        : 
+        :
           dek: mười
           dekono: "thứ mười, một phần mười"
           ekspliko: "Dạng phân số"
           kvar: bốn
           kvarono: "một phần tư"
-        op: 
+        op:
           du: hai
           duopo: "một đôi"
           ekspliko: "dạng nhóm, tập hợp"
           ses: sáu
           sesopo: "bộ sáu, nhóm sáu"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Để tránh sự nhầm lẫn do bởi sự đa nghĩa của hậu tố, chúng ta có thể sử dụng các từ khác ví dụ như:"
           germanio: "nước Đức"
           pomarbo: "cây táo"
           pomkesto: "rổ, sọt táo"
           ruslando: "nước Nga"
         titolo: "Các hậu tố"
-        uj: 
+        uj:
           ekspliko: "cái chứa đựng, cái cây  tạo ra quả đó, nơi có con người đó"
           franco: "người đàn ông Pháp"
           francujo: "nước Pháp"
@@ -109,7 +109,7 @@ vi:
           monujo: "ví tiền"
           pomo: "quả táo"
           pomujo: "sọt đựng táo, cây táo"
-        ul: 
+        ul:
           ekspliko: "Người, cá nhân riêng lẻ"
           kontraŭ: "đổi diện, tương phản, ngược"
           kontraŭulo: "đối thủ, địch thủ"
@@ -119,13 +119,13 @@ vi:
           sanktulo: "vị thánh"
           stulta: "ngu ngốc, dại dột"
           stultulo: "người dại dột, người ngu ngốc"
-        um: 
+        um:
           ekspliko: "hậu tố với nghĩa không rõ ràng"
           kolo: "cái cổ"
           kolumo: "cổ áo"
           plena: "đầy đủ, hoàn thiện"
           plenumi: "hoàn thành, làm xong"
-      vortordo: 
+      vortordo:
         dialogo: |-
             — Tôi đã gặp bạn rồi, thật quí hóa, và tôi ngay lập tức yêu bạn!
             — Tôi tin bạn, tuy nhiên vàng (tiền) phải đầy hầu bao

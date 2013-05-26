@@ -1,8 +1,8 @@
---- 
-it: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+it:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Oltre a quello visto nella lezione 2 (Ĉu...), esistono altri modi di formulare le domande in esperanto:"
         frazo-1: "La scatola è blu?"
         frazo-2: "Andrai al cinema?"
@@ -11,7 +11,7 @@ it:
         frazo-5: "La scatola non è blu, vero?"
         frazo-6: "Non andrai al cinema, vero?"
         titolo: "Altre forme interrogative"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "In esperanto ricorrono locuzioni formate da due parole, e delle quali è opportuno conoscere il significato:"
         jen: "Ora..., ora... (indica un'alternativa)"
         jen-frazo-1: "Il ragazzo ora piangeva, ora rideva."
@@ -29,11 +29,11 @@ it:
         ĉu: "Denota delle possibilità tra le quali la scelta è indifferente, equivalente, libera o incerta."
         ĉu-frazo-1: "Vuoi per timore, vuoi per fierezza, [lui] non rispose nulla."
         ĉu-frazo-2: "Sia che piova, sia che ci sia il sole, [io] di sicuro ci andrò."
-      horoj: 
+      horoj:
         je-kioma: "A che ora telefonerai?"
         kioma-estas: "Che ora é? Che ore sono?"
         titolo: Ore
-      interjekcioj: 
+      interjekcioj:
         bis: bis!
         fi: vergogna!
         ha-1: ah!
@@ -45,7 +45,7 @@ it:
         titolo: Interiezioni
         ve: "ahi!, ahimè!, guai!"
         ve-al-mi: "guai a me!"
-      mallongiloj: 
+      mallongiloj:
         bv: "per cortesia"
         e-isto: esperantista
         e-o: esperanto
@@ -57,7 +57,7 @@ it:
         str: via
         te: cioè
         titolo: Abbreviazioni
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "denota indeterminatezza o indifferenza (come le forme italiane -unque, -siasi)."
         almenaŭ: almeno
         ambaŭ: entrambi

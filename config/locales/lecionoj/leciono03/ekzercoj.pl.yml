@@ -1,11 +1,11 @@
---- 
-pl: 
-  lecionoj: 
-    leciono03: 
-      pagxo04: 
+---
+pl:
+  lecionoj:
+    leciono03:
+      pagxo04:
         numeraloj-ekzercoj: Ćwiczenie-Liczebniki
         numeraloj-ekzercoj-instrukcioj: "Napisz w wyznaczonym miejscu  liczebnik  cyframi   odpowiadający  wyrażonemu słownie.  Naciśnij Enter. Staraj się osiągnąć 70% trafnych odpowiedzi."
-      pagxo09: 
+      pagxo09:
         frazo01: "1. On kocha ją."
         frazo02: "2. On kocha jej siostrę."
         frazo03: "3. Ona kocha jego."

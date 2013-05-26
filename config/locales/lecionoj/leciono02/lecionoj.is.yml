@@ -1,8 +1,8 @@
---- 
-is: 
-  lecionoj: 
-    leciono02: 
-      akuzativo: 
+---
+is:
+  lecionoj:
+    leciono02:
+      akuzativo:
         ekspliko-1: "Mjög gagnleg ending gerir okkur kleift að þekkja beint andlag (þolanda) í setningu. Það er endingin \"n\" sem myndar andlagsfall (þolfall) nafnorða, lýsingarorða og fornafna."
         ekspliko-2: "Taktu eftir að fleirtöluendingin kemur á undan þolfallsendingunni sem alltaf er síðust í orðinu.  Andlagið getur verið í byrjun, miðju eða enda setningar, það breytir ekkert merkingunni.  Hér á eftir fara þrjár setningar sem allar eru sömu merkingar:"
         frazo-plurala: "Ég þvæ nýju bollana."
@@ -10,74 +10,74 @@ is:
         rimarkigo-1: "Mismunandi orðaröð er hægt að nota til að auka fjölbreytni í stíl og tjá mismunandi blæbrigði.  Nánar verður vikið að því síðar í námskeiðinu."
         rimarkigo-2: "Aldrei skal nota þolfall með sögninni \"esti\" (að vera)."
         titolo: "Þolfall (-n)"
-      muziko01: 
+      muziko01:
         ekspliko: |-
             Við skulum nú hlusta á dægurlag með texta á esperanto.  Það er flutt af argentínsku hljómsveitinni "La Porkoj sem hlaut verðlaun hjá Alþjóðlega esperantosambandinu.  Hljómsveitina skipa: Alejandro Cossavella (söngur), Pablo Ciancio (slagverk), Ignacio Mendizabal (gítarar) og Salvador Agustoni (bassagítar).  Smelltu á örina til að spila lagið.
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-             
-            og nefnist "Jen".  Hljómsveitin hlaut 
-            verðlaun hjá Alþjóðlegu 
-            esperantosamtökunum, hana 
-            skipa:Alejandro Cossavella (söngur), 
-            Pablo Ciancio (slagverk), Ignacio 
-            Mendizzabla(gítarar) og Salvador 
-            Agustoni (bassagítar).  Smelltu á 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            og nefnist "Jen".  Hljómsveitin hlaut
+            verðlaun hjá Alþjóðlegu
+            esperantosamtökunum, hana
+            skipa:Alejandro Cossavella (söngur),
+            Pablo Ciancio (slagverk), Ignacio
+            Mendizzabla(gítarar) og Salvador
+            Agustoni (bassagítar).  Smelltu á
             örina til að spila lagið.
-            
-            Við skulum nú hlusta á dægurlag með 
-            texta á esperanto.  Það er flutt af 
-            argentísku hljómsveitinni "La Porkoj" 
-            og nefnist "Jen".  Hljómsveitin hlaut 
-            verðlaun hjá Alþjóðlegu 
-            esperantosamtökunum, hana 
+
+            Við skulum nú hlusta á dægurlag með
+            texta á esperanto.  Það er flutt af
+            argentísku hljómsveitinni "La Porkoj"
+            og nefnist "Jen".  Hljómsveitin hlaut
+            verðlaun hjá Alþjóðlegu
+            esperantosamtökunum, hana
             skipa:A
         titolo: "Tónlist á esperanto"
-      neado: 
+      neado:
         ekspliko: "Til að setning fái neikvæða merkingu er nóg að setja smáorðið \"ne\" fyrir framan sögnina."
-        frazoj: 
+        frazoj:
           frazo-1: "Ég ætla ekki að þvo nýja bollann."
           frazo-2: "Hann er ekki bróðir minn."
           frazo-3: "Hún er ekki móðir mín."
           frazo-4: "Kökurnar voru ekki heitar."
         titolo: Neitun
-      prefikso_mal: 
+      prefikso_mal:
         ekspliko: "Forskeytið \"mal\" gerir okkur kleift að mynda andstæðu við orðið sem það er sett framan við."
-        kun: 
+        kun:
           malamiko: óvinur
           malavara: örlátur
           malbela: ljótur
           maljuna: gamall
           malnova: "gamall (andstætt við nýr)"
-        sin: 
+        sin:
           amiko: vinur
           avara: nískur
           bela: fallegur
           juna: ungur
           nova: nýr
         titolo: "Forskeytið \"mal\""
-      sufikso_ino: 
+      sufikso_ino:
         ekspliko-1: "Í fyrstu lexíunni sáum við að nafnorð og hliðstætt lýsingarorð eru alltaf í sama tölu og falli.  Hins vegar breytast lýsingarorð ekki eftir kyni."
         ekspliko-2: "Náttúrlegt kyn sýna aðeins nafnorð með endingunni \"o\" í karlkyni og \"ino\" í kvenkyni."
-        frazoj: 
+        frazoj:
           frazo-amikino: "Fallega vinkonan (hin fallega vinkona)"
           frazo-patrino: "Góða móðirin (hin góða móðir)"
           frazo-virino: "Stóru konurnar"
         titolo: "Viðskeytið -ino"
-        vortoj: 
+        vortoj:
           amikino: vinkona
           amiko: vinur
           filino: dóttir
@@ -86,7 +86,7 @@ is:
           patro: faðir
           virino: kona
           viro: karl
-      vortaro02: 
+      vortaro02:
         akvo: vatn
         ami: elska
         amo: ást

@@ -1,19 +1,19 @@
---- 
-vi: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+vi:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: đẹp
         ekspliko: "Mọi tính từ đều kết thúc bằng chữ cái \"a\":"
         sana: "khỏe mạnh"
         titolo: "Tính từ"
         varma: "ấm, nóng"
-      alfabeto: 
+      alfabeto:
         ekspliko: "Trong Quốc tế ngữ các từ được viết chính xác như cách chúng được phát âm, và chúng được phát âm chính xác như cách chúng được viết ra. Âm tiết được nhấn mạnh luôn là âm tiết trước âm tiết cuối cùng. Bấm chuột vào các nút bấm để nghe phát âm, và nhắc lại nó."
         titolo: "Bảng chữ cái Quốc Tế Ngữ"
-      artikolo: 
+      artikolo:
         ekspliko: "Mạo từ bất định không tồn tại trong Quốc tế ngữ. Chỉ có mạo từ bất định \"la\", tương đương với tiếng Anh là \"the\"."
-        frazoj: 
+        frazoj:
           frazo-1: "Các con của bạn là bạn của chúng tôi."
           frazo-2: "Bánh mì thì khô."
           frazo-3: "Sữa ấm thì tốt."
@@ -22,7 +22,7 @@ vi:
           frazo-6: "Người cha thì tốt."
           titolo: "Các câu"
         titolo: "Mạo từ"
-        vortoj: 
+        vortoj:
           floroj: "những bông hoa"
           knabo: "đứa bé trai"
           la-floroj: "những bông hoa"
@@ -31,33 +31,33 @@ vi:
           la-patroj: "những ông bố"
           pano: "bánh mì"
           patroj: "những ông bố"
-      nomoj: 
+      nomoj:
         amiko: "bạn bè"
         ekspliko: "Mọi danh từ đều kết thúc bằng chữ cái \"o\":"
         frato: "anh, em trai"
         kafo: "cà phê"
         titolo: "Danh từ"
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "họ (số nhiều cho \"ŝi\", \"li\" và \"ĝi\")"
           ni: "chúng tôi"
           titolo: "Dạng số nhiều"
           vi: "các bạn"
-        singularo: 
+        singularo:
           li: "anh ấy"
           mi: Tôi
           titolo: "Dạng số ít"
           vi: "bạn (số ít)"
           ĝi: nó
           ŝi: "cô ấy"
-        specialaj: 
+        specialaj:
           oni: "Một ai đó, họ, người (đại từ chỉ người không rõ ràng, có nghĩa là \" người, một vài người, một người nào đó không rõ ràng\", sử dụng khi bạn không muốn hay không thể nói được ai được chỉ ra."
           si: "(self) đại từ phả thân chỉ người (cả số ít và số nhiều). Qui trở lại cho CHỦ NGỮ của câu. \"Si\" không thể là chủ ngữ hay là một bộ phận của chủ ngữ."
           titolo: "Dạng đặc biệt"
         titolo: "Đại Từ Nhân Xưng"
-      pluralo: 
+      pluralo:
         ekspliko: "Số nhiều được tạo thành bằng cách thêm \"j\" vào cuối các danh từ và tính từ:"
-        pluralo: 
+        pluralo:
           amikoj: "những người bạn"
           belaj: "đẹp (dùng với số nhiều)"
           belaj-floroj: "những bông hoa đẹp"
@@ -66,7 +66,7 @@ vi:
           patroj: "những ông bố"
           sanaj: "khỏe mạnh (dùng với số nhiều)"
           sanaj-patroj: "những người cha mạnh mẽ"
-        singularo: 
+        singularo:
           amiko: "bạn bè"
           bela: đẹp
           bela-floro: "bông hoa đẹp"
@@ -76,9 +76,9 @@ vi:
           sana: "khỏe mạnh"
           sana-patro: "người ông bố mạnh mẽ"
         titolo: "Số nhiều"
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Tính từ và đại từ sở hữu được tạo nên bằng cách thêm phần đuôi \"a\" vào đại từ chỉ người:"
-        posedaj: 
+        posedaj:
           ilia: "của họ, cái của họ"
           lia: "của anh ấy, cái của anh ấy"
           mia: "của tôi, cái của tôi"
@@ -86,27 +86,27 @@ vi:
           via: "của bạn, cái của bạn"
           ĝia: "của nó, cái của nó"
           ŝia: "của cô ấy, cái của cô ấy"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Tính từ sở hữu cũng tiếp nhận phần đuôi \"j\" khi chúng biến đổi thành một danh từ số nhiều."
           mia-amiko: "bạn của tôi"
           miaj-amikoj: "các bạn của tôi"
           nia-floro: "bông hoa của chúng tôi"
           niaj-floroj: "những bông hoa của chúng tôi"
         titolo: "Đại từ Sở hữu"
-      verboj: 
+      verboj:
         ekspliko: "Mọi câu ở dạng vô định động từ đều kết thúc bằng -i: esti (thì, là). Mọi câu quá khứ động từ kết thúc bằng -is: mi estis=Tôi (đã) (thì)là. Mọi câu ở thời hiện tại động từ kết thúc bằng -as: mi estas=Tôi (thì)là. Mọi câu ở thì tương lai động từ kết thúc bằng -os: mi estos=Tôi sẽ (thì)là. Các thì khác của động từ sẽ giới thiệu trong các bài sau."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Họ (thì)là"
           ni-estas: "Chúng tôi (thì)là"
           oni-estos: "Họ,người nào đó sẽ (thì)là (bất định)"
           vi-estis: "Bạn (thì)là"
-        singularo: 
+        singularo:
           li-estis: "Anh ấy (đã) (thì)là"
           mi-estas: "Tôi (thì)là"
           ĝi-estos: "Nó sẽ (thì)là"
           ŝi-estas: "Cô ấy (thì)là"
         titolo: "Động từ"
-      vortaro01: 
+      vortaro01:
         amiko: "bạn bè"
         bela: đẹp
         biskvito: "bánh bích qui, kẹo giòn"

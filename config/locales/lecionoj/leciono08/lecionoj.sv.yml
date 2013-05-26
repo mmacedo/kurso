@@ -1,38 +1,38 @@
---- 
-sv: 
-  lecionoj: 
-    leciono08: 
-      komparado: 
-        egaleco: 
+---
+sv:
+  lecionoj:
+    leciono08:
+      komparado:
+        egaleco:
           ekspliko: "Lika ... som:"
           frazo-1: "Esperanto är lika vackert som användbart."
           frazo-2: "Inget är så värdefullt som hälsan."
           frazo-3: "Hon är lika vacker som modern."
-        malsupereco: 
+        malsupereco:
           ekspliko: "Mindre än:"
           frazo-1: "Min bror är yngre än jag."
           frazo-2: "Han skriver mindre vackert än flickan."
           frazo-3: "Maken talar mindre högt än hustrun."
-        supereco: 
+        supereco:
           ekspliko: "Mer än:"
           frazo-1: "Mjölk är mer näringsrik än vin."
           frazo-2: "Johan är längre än Peter"
           frazo-3: "Solen är större än månen."
         titolo: "Komparation (jämförelse)"
-      prefiksoj: 
-        bo: 
+      prefiksoj:
+        bo:
           bofilo: svärson
           bofratino: svägerska
           bopatrino: svärmor
           bopatro: svärfar
           ekspliko: "släktskap genom äktenskap"
-        dis: 
+        dis:
           disdoni: "dela ut"
           disfali: "falla isär"
           disflugi: "flyga åt olika håll"
           dissemi: "så (ut)"
           ekspliko: "itu,  isär, åtskils"
-        duon: 
+        duon:
           duondio: halvgud
           duonfilino: styvdotter
           duonhoro: halvtimme
@@ -40,37 +40,37 @@ sv:
           ekspliko: halv-
           filino: dotter
           horo: timme
-        ek: 
+        ek:
           ekbrilo: (ljus)sken
           ekdormi: "somna (börja sova)"
           ekiri: "börja gå"
           ekpluvi: "börja regna"
           ekspliko: "påbörja plötslig eller momentan verksamhet"
-        eks: 
+        eks:
           eksedziĝi: "skilja sig"
           eksfianĉo: "f.d. fästman"
           eksiĝi: "avgå, sluta"
           ekspliko: "anger verksamhet eller tillstånd som inte existerar längre"
           eksprezidanto: expresident
-        fi: 
+        fi:
           ekspliko: "dålig ur moralisk synvinkel"
           fidomo: "ett uselhetens hus"
           fikomercisto: svartabörshaj
           fivirino: "usel kvinna"
           komercisto: "handlande / affärsman"
-        ge: 
+        ge:
           ekspliko: "sammanför båda könen (kan avse par eller grupp)"
           geamikoj: "vänner av båda könen"
           gefiloj: "barn av båda könen"
           gefratoj: syskon
           gepatroj: föräldrar
-        mal: 
+        mal:
           dekstro: höger
           ekspliko: "motsats, det motsatta till ..."
           fermi: stänga
           maldekstro: vänster
           malfermi: öppna
-        mis: 
+        mis:
           ekspliko: "miss-, fel-"
           kompreni: förstå
           miskompreni: missförstå
@@ -78,7 +78,7 @@ sv:
           misuzo: missbruk
           paŝo: steg
           uzo: användning
-        pra: 
+        pra:
           ekspliko: "mycket avlägsen i tiden = för- / ur- (för-fader / ur-skog)"
           historio: historia
           nepo: barnbarn
@@ -86,46 +86,46 @@ sv:
           prahistorio: urhistoria
           prahomo: urmänniska
           pranepo: barnbarnsbarn
-        re: 
+        re:
           ekspliko: "upprepning, åter till utgångsläge"
           reaperi: "framträda igen"
           refari: "göra om"
           reteni: "hålla tillbaka /avstå från"
           reveni: återvända
         titolo: Prefix
-      sufiksoj01: 
-        ad: 
+      sufiksoj01:
+        ad:
           ekspliko: "pågående eller upprepad verksamhet"
           parolado: anförande
           paroli: tala
           rigardadi: "betrakta (under längre tid)"
           rigardi: betrakta
-        an: 
+        an:
           brazilano: brasilian
           ekspliko: "medlem i grupp, parti, religion, invånare i ett land eller region"
           kanadano: kanadensare
           kristano: kristen
           kristo: Kristus
           usonano: amerikan
-        ar: 
+        ar:
           ekspliko: "samling, kollektiv"
           vortaro: "ordlista (ordsamling)"
           vorto: ord
           ŝafaro: "fårskock, fårhjord"
           ŝafo: får
-        aĉ: 
+        aĉ:
           domaĉo: ruckel
           domo: hus
           ekspliko: "usel ur materiell eller estetisk synvinkel"
           skribaĉi: klottra
           skribi: skriva
-        aĵ: 
+        aĵ:
           dolĉa: söt
           dolĉaĵo: sötsak
           ekspliko: "Konkret sak med egenskap som uttrycks av grundordet (roten)"
           pentraĝo: målning
           pentri: måla
-        ebl: 
+        ebl:
           ekspliko: "passiv möjlighet"
           kredebla: "trolig (möjlig att tro på)"
           kredi: tro
@@ -133,19 +133,19 @@ sv:
           legi: läsa
           videbla: "möjlig att se (synbar)"
           vidi: se
-        ec: 
+        ec:
           amikeco: vänskap
           amiko: vän
           ekspliko: "-het, -dom, - skap (lägges till adjektivstammar och betecknar egenskap)"
           mola: mjuk
           moleco: mjukhet
-        eg: 
+        eg:
           ekspliko: "uttrycker den högsta graden av storlek eller intensitet."
           ridegi: gapskratta
           ridi: skratta
           ventego: "orkan (storm)"
           vento: vind
-        ej: 
+        ej:
           ekspliko: "platsen för verksamhet eller lokal för varelser av den typ roten anger."
           oficejo: kontor
           ofico: tjänst
@@ -153,28 +153,28 @@ sv:
           preĝi: bedja
           ĉevalejo: (häst)stall
           ĉevalo: häst
-        em: 
+        em:
           babilema: pratsam
           babili: prata
           ekspliko: "sam-, böjelse för, fallen för"
           ŝparema: sparsam
           ŝpari: spara
-        end: 
+        end:
           ekspliko: "som måste göras"
           farenda: "som måste göras"
           fari: göra
           legenda: "som måste läsas"
           legi: läsa
         titolo: Suffix
-        ĉj: 
+        ĉj:
           ekspliko: "maskulint smeknamnsbildande suffix (3 - 5 bokstäver ur grundordet + suffixet)"
           jozefo: Josef
           joĉjo: "Joffe (dimunitiv av Josef)"
           patro: "pappa (far)"
           paĉjo: pappsen
-      superlativo: 
+      superlativo:
         ekspliko-1: |-
-            Superlativ anger att en av individerna i en grupp presterar resultat av mer eller mindre hög 
+            Superlativ anger att en av individerna i en grupp presterar resultat av mer eller mindre hög
             kvalliter jämfört med de andra personerna.
         ekspliko-2: "När jämförelsen gäller två människor, saker eller grupper använder  man jämförelseorden 'PLI' = mer, eller 'MALPLI' = mindre + prepositionen  'ol' = än."
         frazo-1: "Av alla mina barn är Ernst den yngsta."

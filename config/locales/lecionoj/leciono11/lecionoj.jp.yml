@@ -1,8 +1,8 @@
---- 
-jp: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+jp:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "第2課で勉強した以外にも、疑問文をつくる方法があります:"
         frazo-1: その箱は青いですか?
         frazo-2: あなたはその映画館に行きますか?
@@ -11,7 +11,7 @@ jp:
         frazo-5: その箱は青くないでしょう?
         frazo-6: あなたはその映画館に行かないんでしょう?
         titolo: その他の疑問形
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "語句の組を使った表現を見てみましょう:"
         jen: 対比を表します
         jen-frazo-1: その男の子は、あるときは泣き、あるときは笑いました。
@@ -29,11 +29,11 @@ jp:
         ĉu: 二つの可能性のどちらなのか特定しない、またははっきりしないことを表します
         ĉu-frazo-1: 恐怖のためか、それとも誇りのためか、彼は何も答えませんでした。
         ĉu-frazo-2: 雨が降ろうが、晴れようが、私は必ず行きます。
-      horoj: 
+      horoj:
         je-kioma: あなたは何時に電話しますか?
         kioma-estas: 何時ですか?
         titolo: 時(時刻)
-      interjekcioj: 
+      interjekcioj:
         bis: アンコール!(もう一回!)
         fi: ちぇっ!
         ha-1: おや!、まぁ!
@@ -45,7 +45,7 @@ jp:
         titolo: 間投詞(かんとうし)
         ve: ああ!、おお!
         ve-al-mi: かわいそうな私!
-      mallongiloj: 
+      mallongiloj:
         bv: (お願いを表します)
         e-isto: エスペランチスト
         e-o: エスペラント
@@ -57,7 +57,7 @@ jp:
         str: 道路、通り
         te: すなわち
         titolo: 省略形（しょうりゃくけい）
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: ～でも(無条件を強調)
         almenaŭ: 少なくとも
         ambaŭ: 両方

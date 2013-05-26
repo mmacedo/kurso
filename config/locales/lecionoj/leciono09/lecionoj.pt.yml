@@ -1,57 +1,57 @@
---- 
-pt: 
-  lecionoj: 
-    leciono09: 
-      sufiksoj02: 
-        er: 
+---
+pt:
+  lecionoj:
+    leciono09:
+      sufiksoj02:
+        er:
           ekspliko: "unidade do todo"
           monero: moeda
           mono: dinheiro
           salero: "grão de sal"
           salo: sal
-        estr: 
+        estr:
           ekspliko: "chefe, diretor da idéia expressa pelo radical"
           urbestro: prefeito
           urbo: cidade
           ŝipestro: "comandante de navio"
           ŝipo: navio
-        et: 
+        et:
           ekspliko: "diminutivo, pequeno"
           pupeto: bonequinho
           pupo: boneco
           rideti: sorrir
           ridi: rir
-        id: 
+        id:
           ekspliko: "filho, descendente"
           katido: "filhote de gato"
           kato: gato
           reĝido: "descendente de rei"
           reĝo: rei
-        ig: 
+        ig:
           ekspliko: "fazer, obrigar a fazer"
           morti: morrer
           mortigi: matar
           pura: "limpo(a), puro(a)"
           purigi: "limpar, purificar"
-        il: 
+        il:
           ekspliko: instrumento
           muzikilo: "instrumento musical"
           muziko: música
           ŝlosi: trancar
           ŝlosilo: chave
-        in: 
+        in:
           ekspliko: "sexo feminino"
           kokino: galinha
           koko: galo
           onklino: tia
           onklo: tio
-        ind: 
+        ind:
           admiri: admirar
           admirinda: admirável
           ekspliko: "que merece, que é digno de"
           laŭdi: "elogiar, louvar"
           laŭdinda: "louvável, digno(a) de elogio"
-        ist: 
+        ist:
           ekspliko: "profissão, atividade costumeira"
           esperantisto: esperantista
           esperanto: esperanto
@@ -61,7 +61,7 @@ pt:
           raportisto: "repórter, relator"
           tajpi: "digitar, datilografar"
           tajpisto: "digitador, datilógrafo"
-        iĝ: 
+        iĝ:
           ekspliko: "tornar-se (sem agente externo)"
           fari: fazer
           fariĝi: "tornar-se, vir a ser"
@@ -69,39 +69,39 @@ pt:
           mateno: manhã
           ruĝa: vermelho(a)
           ruĝiĝi: "ficar vermelho(a)"
-        nj: 
+        nj:
           Maria: Maria
           ekspliko: "sufixo carinhoso feminino (com parte do radical e conservando a eufonia)"
           manjo: Mariazinha
           panjo: "mamãe, mãezinha"
           patrino: mãe
-        obl: 
+        obl:
           du: dois
           duobla: "duplo(a) (adj.)"
           ekspliko: "múltiplo, multiplicação"
           tri: três
           trioblo: triplo
         ? "on"
-        : 
+        :
           dek: dez
           dekono: "um décimo"
           ekspliko: fração
           kvar: quatro
           kvarono: "um quarto"
-        op: 
+        op:
           du: dois
           duopo: dupla
           ekspliko: grupo
           ses: seis
           sesopo: sexteto
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Quando acontecer confusão entre os sentidos 1 e 2 deste sufixo, pode-se usar sinônimos no lugar:"
           germanio: Alemanha
           pomarbo: "macieira, árvore da maçã"
           pomkesto: "cesto de maçãs"
           ruslando: Rússia
         titolo: Sufixos
-        uj: 
+        uj:
           ekspliko: "objeto que contém outro(s) objeto(s); a árvore segundo o fruto; o país segundo o povo"
           franco: francês
           francujo: França
@@ -109,7 +109,7 @@ pt:
           monujo: "carteira de dinheiro"
           pomo: maçã
           pomujo: "cesto de maçãs; macieira"
-        ul: 
+        ul:
           ekspliko: "o ser caracterizado pelo radical"
           kontraŭ: contra
           kontraŭulo: adversário
@@ -119,13 +119,13 @@ pt:
           sanktulo: "santo, uma pessoa santa"
           stulta: "idiota, estúpido(a) (adj.)"
           stultulo: "idiota, uma pessoa estúpida"
-        um: 
+        um:
           ekspliko: "sufixo indeterminado, com sentido variado"
           kolo: pescoço
           kolumo: colarinho
           plena: cheio
           plenumi: "cumprir, executar"
-      vortordo: 
+      vortordo:
         dialogo: "— Eu te vi, ó tesouro, e logo me enamorei de ti!— Acredito em ti, contudo ouro se coloca logo na carteira.— Eu te amo, mas, querida, não acreditava que eras assim!— Se me amasses, avarento, farias de mim uma rainha!"
         ekspliko-1: "Na lição 03  mostramos a ordem  sujeito-verbo-complemento, que é a mais usada no Esperanto. No entanto, outras são possíveis,  desde que se mantenha a clareza de sentido.  Um desses casos é quando queremos dar ênfase a um determinado elemento da frase. Nas frases a seguir, a ordem dos elementos foi trocada para se dar ênfase a um deles:"
         ekspliko-2: "Para enfatizar um elemento da frase, pode-se usar também a palavrinha \"ja\", que realça o sentido:"

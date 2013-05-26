@@ -1,19 +1,19 @@
---- 
-es: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+es:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: Bello
         ekspliko: "Terminan en la letra \"a\":"
         sana: Sano
         titolo: Adjetivos
         varma: "Caliente, cálido"
-      alfabeto: 
+      alfabeto:
         ekspliko: "En Esperanto las palabras se escriben exactamente como se pronuncian, y se pronuncian exactamente según en sonido de cada letra escrita. El acento tónico simpre recae sobre la penúltima sílaba. Haga clic en el botón para escuchar la pronunciación, y repítala en voz alta."
         titolo: "El Alfabeto del Esperanto"
-      artikolo: 
+      artikolo:
         ekspliko: "El artículo indefinido no existe en Esperanto; únicamente existe el artículo definido \"la\", que es igual para todos los géneros, casos y números."
-        frazoj: 
+        frazoj:
           frazo-1: "Tus hijos son nuestros amigos."
           frazo-2: "El pan está seco."
           frazo-3: "(Una) leche caliente es buena."
@@ -22,7 +22,7 @@ es:
           frazo-6: "El padre es bueno."
           titolo: Frases
         titolo: Artículo
-        vortoj: 
+        vortoj:
           floroj: "(Unas) Flores"
           knabo: "(Un) Chamo, muchacho"
           la-floroj: "Las flores"
@@ -31,33 +31,33 @@ es:
           la-patroj: "Los padres"
           pano: "(Un) Pan"
           patroj: "(Unos) Padres"
-      nomoj: 
+      nomoj:
         amiko: Amigo
         ekspliko: "Terminan en la letra \"o\":"
         frato: Hermano
         kafo: Café
         titolo: Sustantivos
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "Ellos/Ellas/Esos (es el plural para \"ŝi\", \"li\" y \"ĝi\")"
           ni: Nosotros
           titolo: Plural
           vi: "Ustedes, Vosotros"
-        singularo: 
+        singularo:
           li: Él
           mi: Yo
           titolo: Singular
           vi: Tú
           ĝi: "Eso (para indicar algo o alguien cuyo sexo no se necesita precisar)"
           ŝi: Ella
-        specialaj: 
+        specialaj:
           oni: "Uno (pron.  indef., que significa \"los hombres; algunas personas; alguien desconocido\". Se usa cuando no se quiere o no se puede precisar quién hizo o sufrió la acción)."
           si: "Se (pronombre reflexivo de la tercera persona - el, ella, eso, ellos, uno. Se usa cuando se hace referencia al sujeto de la oración)."
           titolo: Especiales
         titolo: "Pronombres Personales"
-      pluralo: 
+      pluralo:
         ekspliko: "El plural se forma agregando la letra \"j\" al final de los nombres y adjetivos:"
-        pluralo: 
+        pluralo:
           amikoj: amigos
           belaj: bellos
           belaj-floroj: "bellas flores"
@@ -66,7 +66,7 @@ es:
           patroj: padres
           sanaj: sanos
           sanaj-patroj: "padres sanos"
-        singularo: 
+        singularo:
           amiko: amigo
           bela: bello
           bela-floro: "bella flor"
@@ -76,9 +76,9 @@ es:
           sana: sano
           sana-patro: "padre sano"
         titolo: Plural
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Los pronombres posesivos se forman agregando la terminación adjetiva (\"a\") a los pronombres personales:"
-        posedaj: 
+        posedaj:
           ilia: "de ellos"
           lia: "de él"
           mia: mío
@@ -86,27 +86,27 @@ es:
           via: tuyo
           ĝia: "de eso"
           ŝia: "de ella"
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Los pronombres posesivos también reciben la terminación \"j\" en el plural:"
           mia-amiko: "Mi amigo"
           miaj-amikoj: "Mis amigos"
           nia-floro: "Nuestra flor"
           niaj-floroj: "Nuestras flores"
         titolo: "Pronombres Posesivos"
-      verboj: 
+      verboj:
         ekspliko: "El infinitivo termina en -i: esti; el pasado termina en -is: estis; el presente termina en -as y el futuro en -os. Sobre los otros tiempos verbales hablaremos en las lecciones siguientes."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "Ellos son"
           ni-estas: "Nosotros somos"
           oni-estos: "Uno será"
           vi-estis: "Ustedes eran"
-        singularo: 
+        singularo:
           li-estis: "Él fue"
           mi-estas: "Yo soy"
           ĝi-estos: "Eso será"
           ŝi-estas: "Ella es"
         titolo: Verbos
-      vortaro01: 
+      vortaro01:
         amiko: amigo
         bela: bello
         biskvito: galleta

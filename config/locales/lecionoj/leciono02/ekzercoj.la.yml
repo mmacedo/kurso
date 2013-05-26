@@ -1,10 +1,10 @@
---- 
-la: 
-  lecionoj: 
-    leciono02: 
-      pagxo10: 
+---
+la:
+  lecionoj:
+    leciono02:
+      pagxo10:
         ekzpliko: "Saskaņā ar tulkojumu, aizpildiet baltos laukumus ar iztrūkstošo daļu. Neaizmirstiet ielikt daudzskaitļa -j un akuzatīva -n galotnes, kur tās ir nepieciešamas. Kad jūs uzskatīsiet, ka frāze tika pareizi aizpildīta, uzklikšķiniet uz pogas ar lampiņas ikonu. Mēģiniet pareizi atbildēt vismaz 70%."
-      pagxo11: 
+      pagxo11:
         frazo01: "1. Vesels zēns dzer siltu pienu."
         frazo02: "2. Vecais kiosks nepārdod sausas kūkas."
         frazo03: "3. Skolotājs satika jaunus draugus."

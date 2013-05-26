@@ -1,19 +1,19 @@
---- 
-da: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+da:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: smuk
         ekspliko: "Ender på bogstavet  \"a\":"
         sana: sund
         titolo: "Tillægsord (adjektiver)"
         varma: varm
-      alfabeto: 
+      alfabeto:
         ekspliko: "På esperanto skriver man ordene ligesom de udtales, og et bogstav udtales ens i alle ord.  I flerstavelsesord ligger trykket altid på næstsidste stavelse  (klik  på knapperne for at høre udtalen og gentag selv)."
         titolo: "Alfabetet på esperanto"
-      artikolo: 
+      artikolo:
         ekspliko: "Det ubestemte kendeord  (artikel)  (på dansk en og et foran navneordet) findes ikke på esperanto; der eksisterer kun den bestemte artikel \"la\"  uafhængigt af køn og tal."
-        frazoj: 
+        frazoj:
           frazo-1: "jeres sønner er vores venner."
           frazo-2: "brødet er tørt."
           frazo-3: "varm mælk er godt."
@@ -22,7 +22,7 @@ da:
           frazo-6: "faderen er god."
           titolo: Sætninger
         titolo: Artikel
-        vortoj: 
+        vortoj:
           floroj: blomster
           knabo: "en dreng"
           la-floroj: blomsterne
@@ -31,33 +31,33 @@ da:
           la-patroj: fædrene
           pano: "et brød"
           patroj: fædre
-      nomoj: 
+      nomoj:
         amiko: "en ven"
         ekspliko: "Ender på bogstavet  \"o\":"
         frato: "en bror"
         kafo: kaffe
         titolo: "Navneord (substantiver)"
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "de (flertal for hun, han, den og det)"
           ni: vi
           titolo: Flertal
           vi: I
-        singularo: 
+        singularo:
           li: han
           mi: jeg
           titolo: Ental
           vi: du
           ĝi: "den, det  (angiver noget eller nogen hvis køn ikke kræves præciseret)"
           ŝi: hun
-        specialaj: 
+        specialaj:
           oni: "Man (ubestemt pronomen benyttes, når man ikke vil eller kan præcisere hvem der foretager eller udsættes for en handling)"
           si: "sig (henførende stedord (refleksivt pronomen) der i  tredie person - hun, han, den, det, de, man -  viser tilbage til grundledet)."
           titolo: Specielle
         titolo: "Personlige stedord (personlige pronomener)"
-      pluralo: 
+      pluralo:
         ekspliko: "Man danner flertal ved at tilføje bogstavet \"j\" til navneord og tillægsord:"
-        pluralo: 
+        pluralo:
           amikoj: venner
           belaj: smukke
           belaj-floroj: "smukke blomster"
@@ -66,7 +66,7 @@ da:
           patroj: fædre
           sanaj: sunde
           sanaj-patroj: "sunde fædre"
-        singularo: 
+        singularo:
           amiko: "en ven"
           bela: smuk
           bela-floro: "en smuk blomst"
@@ -76,9 +76,9 @@ da:
           sana: sund
           sana-patro: "en sund far"
         titolo: Flertal
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Ejestedord dannes ved tilføjelse af endelsen \"a\" til det personlige stedord:"
-        posedaj: 
+        posedaj:
           ilia: deres
           lia: hans
           mia: min
@@ -86,27 +86,27 @@ da:
           via: din
           ĝia: dens/dets
           ŝia: hendes
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Ejestedordene får også endelsen \"j\" i flertal:"
           mia-amiko: "min ven"
           miaj-amikoj: "mine venner"
           nia-floro: "vores blomst"
           niaj-floroj: "vores blomster"
         titolo: "Ejestedord (possesive pronomener)"
-      verboj: 
+      verboj:
         ekspliko: "Navnemåde (infinitiv) ender på -i : esti; datid (præteritum) ender på -is: estis; nutid (præsens) ender på -as og fremtid (futurum) ender på -os. Øvrige tider behandles i følgende lektioner."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "de er"
           ni-estas: "vi er"
           oni-estos: "man vil være"
           vi-estis: "I var"
-        singularo: 
+        singularo:
           li-estis: "han var"
           mi-estas: "jeg er"
           ĝi-estos: "den vil være"
           ŝi-estas: "hun er"
         titolo: "Udsagnsord (verber)"
-      vortaro01: 
+      vortaro01:
         amiko: "en ven"
         bela: smuk
         biskvito: "en tvebak"

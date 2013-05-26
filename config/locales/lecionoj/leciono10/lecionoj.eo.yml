@@ -1,11 +1,11 @@
---- 
-eo: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+eo:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Iom pli pri la verboj: ni jam vidis, ke la verboj finiĝas per \"as\" en la prezenco, per \"is\" en la pasinto, per \"os\" en la futuro kaj per \"i\" en la infinitivo. Estas ankaŭ aliaj tempoj:"
         titolo: "Aliaj verbaj tempoj"
-      imperativo: 
+      imperativo:
         ekspliko-1: "La imperativa modo (-u) ordinare rilatas al la dua persono, kaj ne necesas uzi la pronomon. Sed, kiam temas pri la unua aŭ tria persono, oni uzu la koncernan pronomon:"
         ekspliko-2: "La karaktero de la u-finaĵo estas la celo (ordono, peto, admono, deziro, neceso, devo, permeso, malpermeso ktp.) En la kazoj kiam temas pri \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" ktp. oni uzu la futuran finaĵon (-os)."
         frazo-1: "Fermu la pordon kaj eksidu."
@@ -17,8 +17,8 @@ eo:
         frazo-7: "Mi sugestas, ke li venu."
         frazo-8: "Estas eble, ke li venos."
         titolo: "Imperativo (-U)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Mi devas kompreni"
           devas-veni: "Mi devas veni"
           devi: devi
@@ -28,29 +28,29 @@ eo:
           volas-kompreni: "Mi volas kompreni"
           volas-veni: "Mi volas veni"
           voli: voli
-        scio: 
+        scio:
           frazo-koni-1: "Mi konas..."
           frazo-koni-2: "Ĉu vi konas Johanon?"
           frazo-scii-1: "Mi scias..."
           frazo-scii-2: "Ĉu vi scias Esperanton?"
         titolo: "Kelkaj tre gravaj verboj"
-        ŝato: 
+        ŝato:
           frazo-ami: "Mi amas iun."
           frazo-plaĉi-1: "Io aŭ iu plaĉas al mi."
           frazo-plaĉi-2: "Libroj plaĉas al mi."
           frazo-ŝati: "Mi ŝatas ion."
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Se mi estus riĉa, mi multe vojaĝus."
         frazo-2: "Ni manĝus la panon, se ĝi estus bona."
         titolo: "Kondicionalo (-US)"
-      nerekta: 
+      nerekta:
         ekspliko: "En la nerekta parolo, oni uzu la saman tempon kaj verban modon kiel la rekta parolo. Ekz.:"
         frazo-1: "Li diris, \"Mi venas de Nov-Jorko\"."
         frazo-2: "Li diris, ke li venas de Nov-Jorko."
         frazo-3: "Ŝi diris, \"Mi vojaĝos al Parizo\"."
         frazo-4: "Ŝi diris, ke ŝi vojaĝos al Parizo."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Mi estas legonta."
           frazo-presenco: "Mi estas leganta."
           frazo-preterito: "Mi estas leginta."
@@ -74,7 +74,7 @@ eo:
         frazo-7: "La fermita pordo"
         frazo-8: "Leviĝanta suno"
         frazo-9: "La postvivintoj"
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Mi legas la libron = La libro estas legata de mi."
           frazo-futuro: "La libro estas legota."
           frazo-presenco: "La libro estas legata."
@@ -84,7 +84,7 @@ eo:
           preterito: "Preterito: -it"
           titolo: "Pasiva voĉo"
         titolo: Participoj
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" estas la resenda pronomo por la tria persono, uzata rilate al la propozicia subjekto."
         ekspliko-2: "\"Sia\" ne povas esti parto de la subjekto mem. En tiuj kazoj oni uzu \"lia\", \"ŝia\", 'ĝia\" aŭ \"ilia\". En la subaj ekzemploj \"filo\" rilatas al \"li\":"
         frazo-1: "Johano lavis sin (mem)."

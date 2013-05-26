@@ -1,11 +1,11 @@
---- 
-da: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+da:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Forholdsord er småord der sætter andre ord \"i forhold til hinanden\"."
         titolo: "Forholdsord (præpositioner) I"
-        vortoj: 
+        vortoj:
           al: "til, hen til, imod"
           da: "af (mængde)"
           de: "af, fra, siden, ejefalds-s"
@@ -18,9 +18,9 @@ da:
           sur: på
           ĉe: "ved, hos"
           ĝis: "til, indtil, hen til"
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Forholdsord II"
-        vortoj: 
+        vortoj:
           anstataŭ: "i stedet for"
           antaŭ: "før, forud for, foran, for... siden"
           apud: "hos, ved, ved siden af"
@@ -39,7 +39,7 @@ da:
           tra: "gennem, igennem"
           trans: "hinsides, på den anden side"
           ĉirkaŭ: "om, omkring, rundt om"
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Vi så i lektion 2, at  \"n-form\"  (akkusativ) kan vise genstandsled. Fx :"
         ekspliko-2: "Genstandsledet står i akkusativ:"
         ekspliko-3: "I den ovenstående sætning er det kun genstandsledet, der har n-form (står i akkusativ), og  det indirekte genstandsled har ikke n-form . Her er andre eksempler:"
@@ -56,8 +56,8 @@ da:
         frazo-5: "Han drak en kop kaffe."
         frazo-6: "Stå ikke foran mig!  (gå væk fra foran mig!)"
         titolo: "Forholdsord III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: "at ankomme"
           aŭtobuseto: "en minibus"
           danki: "at takke, at sige tak"
@@ -72,8 +72,8 @@ da:
           sidi: "at sidde"
           tagmanĝo: "en middagsmad"
           viziti: "at besøge"
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: "Det nordlige ishav"
           Kanado: Canada
           admiri: "at beundre"

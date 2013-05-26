@@ -1,8 +1,8 @@
---- 
-hr: 
-  lecionoj: 
-    leciono11: 
-      aliaj_demandaj_formoj: 
+---
+hr:
+  lecionoj:
+    leciono11:
+      aliaj_demandaj_formoj:
         ekspliko: "Postoje i drugačiji oblici upitnih rečenica uz one koje smo naučili u drugoj lekciji."
         frazo-1: "Jeli kutija plava?"
         frazo-2: "Dali ćete ići u kino?"
@@ -11,7 +11,7 @@ hr:
         frazo-5: "Kutija nije plava, jeli?"
         frazo-6: "Nećete ići u kino, jeli?"
         titolo: "Ostali upitni oblici"
-      duopaj_esprimoj: 
+      duopaj_esprimoj:
         ekspliko: "Postoje u Esperantu izrazi koji se pojavljuju u paru, pa bi bilo dobro upoznati se sa njihovim značenjem:"
         jen: "Izmjenični izrazi"
         jen-frazo-1: "Dječak je sad plakao, sad se smijao."
@@ -29,11 +29,11 @@ hr:
         ĉu: "Postoje mogućnosti, među kojima je izbor određen, jednak, slobodan ili neodređen."
         ĉu-frazo-1: "Dali zbog straha, dali zbog ponosa, ništa nije odgovorio."
         ĉu-frazo-2: "Bilo da će kišiti, bilo da će sunce sjati, ja ću svakako ići."
-      horoj: 
+      horoj:
         je-kioma: "U koliko sati ćete telefonirati?"
         kioma-estas: "Koliko je sati?"
         titolo: Satovi
-      interjekcioj: 
+      interjekcioj:
         bis: još!
         fi: fuj!
         ha-1: ah!
@@ -45,7 +45,7 @@ hr:
         titolo: Usklici
         ve: jao!
         ve-al-mi: "jao meni!"
-      mallongiloj: 
+      mallongiloj:
         bv: izvoli
         e-isto: esperantist
         e-o: Esperanto
@@ -57,7 +57,7 @@ hr:
         str: ulica
         te: "t. j., to jest"
         titolo: Kratice
-      primitivaj_pronomoj: 
+      primitivaj_pronomoj:
         ajn: "god (riječ koja naglašava neodređenost ili nezainteresiranost)"
         almenaŭ: barem
         ambaŭ: oba

@@ -1,19 +1,19 @@
---- 
-li: 
-  lecionoj: 
-    leciono01: 
-      adjektivoj: 
+---
+li:
+  lecionoj:
+    leciono01:
+      adjektivoj:
         bela: gražus
         ekspliko: "Baigiasi raide \"-a\":"
         sana: sveikas
         titolo: Būdvardžiai
         varma: šiltas
-      alfabeto: 
+      alfabeto:
         ekspliko: "Esperanto kalboje žodžiai rašomi taip, kaip jie tariami. Visada yra kirčiuojamas antras skiemuo nuo galo (paspauskite klavišus, kad išgirstumėte, kaip tariami žodžiai, ir pakartokite juos balsu)."
         titolo: "Esperanto kalbos abėcėlė"
-      artikolo: 
+      artikolo:
         ekspliko: "Nežymimojo artikelio esperanto kalboje nėra. Yra naudojamas tik žymimasis artikelis \"la\". Jo forma niekada nesikeičia."
-        frazoj: 
+        frazoj:
           frazo-1: "Jūsų sūnūs yra mūsų draugai."
           frazo-2: "Duona yra sausa."
           frazo-3: "Šiltas pienas yra geras."
@@ -22,7 +22,7 @@ li:
           frazo-6: "Tėvas yra geras."
           titolo: Sakiniai
         titolo: Artikelis
-        vortoj: 
+        vortoj:
           floroj: "(kažkokios) gėlės"
           knabo: "(kažkoks) berniukas"
           la-floroj: gėlės
@@ -31,33 +31,33 @@ li:
           la-patroj: tėvai
           pano: "(kokia nors) duona"
           patroj: "(kažkokie) tėvai"
-      nomoj: 
+      nomoj:
         amiko: draugas
         ekspliko: "Baigiasi raide \"-o\":"
         frato: brolis
         kafo: kava
         titolo: Daiktavardžiai
-      personaj_pronomoj: 
-        pluralo: 
+      personaj_pronomoj:
+        pluralo:
           ili: "jie, jos"
           ni: mes
           titolo: Daugiskaita
           vi: "jūs (daugiskaita)"
-        singularo: 
+        singularo:
           li: jis
           mi: aš
           titolo: Vienaskaita
           vi: "tu, Jūs (mandagiai kreipiantis)"
           ĝi: "jis, ji (kalbant apie daiktus, gyvulius ir kūdikius)"
           ŝi: ji
-        specialaj: 
+        specialaj:
           oni: "Beasmenis įvardis. Žymi neapibrėžtą asmenį ar asmenis ir turi reikšmę \"kažkas, kai kas, žmonės\". Pvz.: oni parolas - kalbama, oni pensas - manoma. Į lietuvių kalbą \"oni\" neverčiamas."
           si: "savęs, save, sau (sangrąžinis įvardis ir yra vartojamas tik su trečiojo asmens įvardžiais)."
           titolo: Specialūs
         titolo: "Asmeniniai įvardžiai"
-      pluralo: 
+      pluralo:
         ekspliko: "Daugiskaita sudaroma prie daiktavardžių ir būdvardžių galūnės pridedant raidę \"-j\" :"
-        pluralo: 
+        pluralo:
           amikoj: draugai
           belaj: gražūs
           belaj-floroj: "gražios gėlės"
@@ -66,7 +66,7 @@ li:
           patroj: "tėvai (tėčiai)"
           sanaj: sveiki
           sanaj-patroj: "sveiki tėvai"
-        singularo: 
+        singularo:
           amiko: draugas
           bela: gražus
           bela-floro: "graži gėlė"
@@ -76,9 +76,9 @@ li:
           sana: sveikas
           sana-patro: "sveikas tėvas"
         titolo: Daugiskaita
-      posedaj_pronomoj: 
+      posedaj_pronomoj:
         ekspliko: "Savybiniai įvardžiai sudaromi prie asmeninių įvardžių pridedant būdvardžio galūnę \"-a\":"
-        posedaj: 
+        posedaj:
           ilia: jų
           lia: jo
           mia: mano
@@ -86,27 +86,27 @@ li:
           via: "tavo, jūsų, Jūsų"
           ĝia: "jo, jos"
           ŝia: jos
-        rimarkigo: 
+        rimarkigo:
           ekspliko: "Savybiniai įvardžiai taip pat gali turėti daugiskaitos galūnę \"-j\":"
           mia-amiko: "mano draugas"
           miaj-amikoj: "mano draugai"
           nia-floro: "mūsų gėlė"
           niaj-floroj: "mūsų gėlės"
         titolo: "Savybiniai įvardžiai"
-      verboj: 
+      verboj:
         ekspliko: "Bendratis baigiasi raide \"-i\" (esti); būtojo laiko veiksmažodžiai baigiasi \"-is\" (estis); esamojo laiko - \"-as\" (estas); būsimojo laiko veiksmažodžių galūnė - \"-os\" (estos). Kitas veiksmažodžio formas aptarsime kitose pamokose."
-        ne-singularo: 
+        ne-singularo:
           ili-estas: "jie yra"
           ni-estas: "mes esame"
           oni-estos: "bus (kažkas, kai kas, kas nors)"
           vi-estis: "jūs buvote"
-        singularo: 
+        singularo:
           li-estis: "jis buvo"
           mi-estas: "aš esu"
           ĝi-estos: "jis (ji ) bus"
           ŝi-estas: "ji yra"
         titolo: Veiksmažodžiai
-      vortaro01: 
+      vortaro01:
         amiko: draugas
         bela: gražus
         biskvito: "sausainis, biskvitas"

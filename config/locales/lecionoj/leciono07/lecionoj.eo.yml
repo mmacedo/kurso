@@ -1,11 +1,11 @@
---- 
-eo: 
-  lecionoj: 
-    leciono07: 
-      prepozicioj01: 
+---
+eo:
+  lecionoj:
+    leciono07:
+      prepozicioj01:
         ekspliko: "Prepozicioj estas vortetoj kiuj montras la rilaton inter du vortoj."
         titolo: "Prepozicioj I"
-        vortoj: 
+        vortoj:
           al: al
           da: da
           de: de
@@ -18,9 +18,9 @@ eo:
           sur: sur
           ĉe: ĉe
           ĝis: ĝis
-      prepozicioj02: 
+      prepozicioj02:
         titolo: "Prepozicioj II"
-        vortoj: 
+        vortoj:
           anstataŭ: anstataŭ
           antaŭ: antaŭ
           apud: apud
@@ -39,7 +39,7 @@ eo:
           tra: tra
           trans: trans
           ĉirkaŭ: ĉirkaŭ
-      prepozicioj03: 
+      prepozicioj03:
         ekspliko-1: "Ni vidis en la dua leciono, que la \"-n\" montras la komplementon de rekta objekto. Tio estas la akuzativo. Ekz.:"
         ekspliko-2: "Kiam frazo havas du komplementojn, unu el ili devas esti la nerekta komplemento. Ekz.:"
         ekspliko-3: "La ĉi-supra uzo de prepozicio estas necesa, kaj la nerekta objekto ne ricevas la akuzativan finaĵon.  Jen aliaj ekzemploj:"
@@ -56,8 +56,8 @@ eo:
         frazo-5: "Li trinkis tason da kafo."
         frazo-6: "Foriru de antaŭ mi!"
         titolo: "Prepozicioj III"
-      tekstokompreno02: 
-        vortaro: 
+      tekstokompreno02:
+        vortaro:
           alveni_al: alveni
           aŭtobuseto: aŭtobuseto
           danki: danki
@@ -72,8 +72,8 @@ eo:
           sidi: sidi
           tagmanĝo: tagmanĝo
           viziti: viziti
-      tekstokompreno03: 
-        vortaro: 
+      tekstokompreno03:
+        vortaro:
           Arkto: Arkto
           Kanado: Kanado
           admiri: admiri

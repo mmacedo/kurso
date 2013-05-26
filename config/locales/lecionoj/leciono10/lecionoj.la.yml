@@ -1,11 +1,11 @@
---- 
-la: 
-  lecionoj: 
-    leciono10: 
-      aliaj_verbaj_tempoj: 
+---
+la:
+  lecionoj:
+    leciono10:
+      aliaj_verbaj_tempoj:
         ekspliko: "Nedaudz vairāk par darbības vārdiem: mēs jau redzējām, ka darbības vādi beidzas ar \"as\" tagadnē, ar \"is\" pagātnē, ar \"os\" nākotnē un ar \"i\" nenoteiksmē. Ir arī citi laiki:"
         titolo: "Citi darbības vārda laiki"
-      imperativo: 
+      imperativo:
         ekspliko-1: "Pavēles izteiksme (-u) parasti attiecas uz otro personu, un vietniekvārds nav vajadzīgs. Bet, kad iet runa par pirmo vai otro personu, lieto attiecīgu vietniekvārdu:"
         ekspliko-2: "Pavēles galotne -u norāda uz mērķi (pavēle, lūgums, mudinājums, vēlējums, pienākums, atļauja, aizliegums utt.). Gadījumos, kad runa ir par \"mi esperas\", \"mi timas\", \"mi ne kredas\", \"mi supozas\" utt., jālieto nākotnes galotni (-os)."
         frazo-1: "Aizver durvis un apsēdies."
@@ -17,8 +17,8 @@ la:
         frazo-7: "Es pieļauju, ka viņam jāatnāk."
         frazo-8: "Iespējams, ka viņš atnāks."
         titolo: "Pavēles izteiksme (galotne -U)"
-      kelkaj_gravaj_verboj: 
-        modalaj_verboj: 
+      kelkaj_gravaj_verboj:
+        modalaj_verboj:
           devas-kompreni: "Man vajag saprast"
           devas-veni: "Man vajag atnākt"
           devi: vajadzēt
@@ -28,29 +28,29 @@ la:
           volas-kompreni: "Es gribu saprast"
           volas-veni: "Es gribu atnākt"
           voli: gribēt
-        scio: 
+        scio:
           frazo-koni-1: "Es pazīstu...  (es esmu pazīstams ar)"
           frazo-koni-2: "Vai tu pazīsti Jāni?"
           frazo-scii-1: "Es zinu..."
           frazo-scii-2: "Vai tu zini esperanto?"
         titolo: "Daži ļoti svarīgi darbības vārdi"
-        ŝato: 
+        ŝato:
           frazo-ami: "Es mīlu kaut ko."
           frazo-plaĉi-1: "Kaut kas vai kaut kurš man patīk."
           frazo-plaĉi-2: "Man patīk grāmatas."
           frazo-ŝati: "Es cienu kaut ko.  (Man patīk kaut kas.)"
-      kondicionalo: 
+      kondicionalo:
         frazo-1: "Ja es būtu bagāta, es daudz ceļotu."
         frazo-2: "Mēs ēstu maizi, ja tā būtu laba."
         titolo: "Nosacījuma izteiksme (galotne -US)"
-      nerekta: 
+      nerekta:
         ekspliko: "Netiešajā runā vajag lietot to pašu laiku un darbības vārda formu tāpat kā tiešajā runā. Piem.:"
         frazo-1: "Viņš teica: \"Es nāku no Ņujorkas\"."
         frazo-2: "Viņš teica, ka \"viņš nāk no Ņujorkas\"."
         frazo-3: "Viņa teica: \"Es ceļošu uz Parīzi\"."
         frazo-4: "Viņa teica, ka \"viņa ceļos uz Parīzi\"."
-      participoj: 
-        aktiva_voĉo: 
+      participoj:
+        aktiva_voĉo:
           frazo-futuro: "Es lasīšu. (Nodomājis lasīt.)"
           frazo-presenco: "Es lasu. (Pašreiz)"
           frazo-preterito: "Es esmu lasījis. (Es lasīju.)"
@@ -74,7 +74,7 @@ la:
         frazo-7: "Aizvertās durvis"
         frazo-8: "Uzlecošā saule"
         frazo-9: Pārdzīvojušie
-        pasiva_voĉo: 
+        pasiva_voĉo:
           frazo-ekstra: "Es lasu grāmatu = Grāmata tiek lasīta no manis."
           frazo-futuro: "Grāmata tiks izlasīta."
           frazo-presenco: "Grāmata tiek lasīta."
@@ -84,7 +84,7 @@ la:
           preterito: "Pagātne: -it-"
           titolo: "Ciešamā kārta"
         titolo: Divdabji
-      pronomo_si: 
+      pronomo_si:
         ekspliko-1: "\"Si\" ir atgriezeniskais vietniekvārds trešajai personai, tiek lietots attiecībā uz teikuma priekšmetu."
         ekspliko-2: "\"Sia\" nevar būt daļa no paša subjekta. Tādos gadījumos lietojiet \"lia\", \"ŝia\", \"ĝia\", \"ilia\". Sekojošajos piemēros \"filo\" attiecas uz \"li\":"
         frazo-1: "Jānis mazgāja (pats) sevi. (Jānis mazgājās.)"
