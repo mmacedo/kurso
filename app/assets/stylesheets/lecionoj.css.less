@@ -14,13 +14,45 @@
 }
 
 .muziko {
-  float: left;
-  position: relative;
-  left: 50%;
+  display: inline-block;
 }
 
-.muziko iframe {
-  float: left;
-  position: relative;
-  right: 50%;
+// Forigas ludanto el regula fluo
+.muziko-ludanto {
+  position: absolute;
+  padding: 0 20px;
+}
+
+// Plenigas spacon dekstre de la ludanto
+.muziko-ludanto-video + .muziko-litero {
+  display: inline-block;
+  margin-left: 420px + 40px;
+}
+
+.muziko-ludanto-auxdio + .muziko-litero {
+  display: inline-block;
+  margin-left: 50px + 40px;
+}
+
+@media (max-width: @navbarCollapseWidth) {
+  // Centrigas ludanto
+  .muziko-ludanto {
+    padding: 20px 0;
+
+    float: left;
+    position: relative;
+    left: 50%;
+  }
+
+  .muziko-ludanto > * {
+    float: left;
+    position: relative;
+    right: 50%;
+  }
+
+  // Iĝas novan linion
+  .muziko-ludanto + .muziko-litero {
+    margin-left: 0;
+    clear: left;
+  }
 }

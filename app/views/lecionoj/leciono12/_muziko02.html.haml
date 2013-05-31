@@ -2,8 +2,10 @@
   %h2= t '.titolo'
 %p= t '.ekspliko'
 %h3 Merlin - Bluaj Fragoj
-.row-fluid
-  .span4
+.muziko
+  .muziko-ludanto.muziko-ludanto-video
+    %iframe{width:"420", height:"315", src:"http://www.youtube.com/embed/U8H8f2IM8gY?wmode=transparent", frameborder:"0", allowfullscreen:"allowfullscreen"}
+  .muziko-litero
     %blockquote
       %p
         Ĝis kie mi povas iri
@@ -39,9 +41,6 @@
         Ĝis kie mi povas ...
         %br/
         \...En kesto de bluaj fragoj...
-  .span8
-    .muziko
-      %iframe{width:"420", height:"315", src:"http://www.youtube.com/embed/U8H8f2IM8gY?wmode=transparent", frameborder:"0", allowfullscreen:"allowfullscreen"}
 %h3= t 'lecionoj.aliaj.dividitoj.vortaro'
 %p= t '.vortaro.ekspliko'
 .row-fluid
