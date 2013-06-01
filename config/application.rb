@@ -35,7 +35,7 @@ module Kurso
                                    swf/soundmanager2_flash9_debug.swf)
     # .png kaj .gif el 360-gradoj ludanto
     config.assets.precompile += %w(360-button-pause.png
-                                   360-pause-light.png
+                                   360-button-pause-light.png
                                    360-button-play.png
                                    360-button-play-light.png
                                    icon_loading_spinner.gif)
