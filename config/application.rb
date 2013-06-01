@@ -24,5 +24,20 @@ module Kurso
     # The default locale is :en and all translations from config/locales/*.rb,yml are auto loaded.
     config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.yml').to_s]
     config.i18n.default_locale = :eo
+
+    # Precompile additional assets.
+    # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
+    # Kopiita ĉi tie (el production.rb) ĝis afero fermas: https://github.com/rails/sprockets-rails/pull/36
+    # .swf el Sound Manager 2
+    config.assets.precompile += %w(swf/soundmanager2.swf
+                                   swf/soundmanager2.swf
+                                   swf/soundmanager2_flash9.swf
+                                   swf/soundmanager2_flash9_debug.swf)
+    # .png kaj .gif el 360-gradoj ludanto
+    config.assets.precompile += %w(360-button-pause.png
+                                   360-pause-light.png
+                                   360-button-play.png
+                                   360-button-play-light.png
+                                   icon_loading_spinner.gif)
   end
 end
