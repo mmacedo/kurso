@@ -1,0 +1,173 @@
+@playerSize: 50px;
+@lineHeight: 20px;
+
+.ui360 {
+  min-width: @playerSize;
+  min-height: @playerSize;
+}
+
+
+// Link
+
+.ui360 > a {
+  padding: 2px;
+  margin-left: -2px;
+  margin-top: -2px;
+
+  line-height: @lineHeight;
+  color: black;
+  text-decoration: none;
+
+  float: left;
+  position: relative;
+  top: @playerSize / 2 - @lineHeight / 2; // vertical centered
+  left: @playerSize + 3px;
+}
+
+// remove extra spacing after the player is included
+.ui360 > .ts-player + a {
+  left: 3px;
+}
+
+.ui360 a:hover,
+.ui360 a:focus {
+  background: #eee;
+  border-radius: 3px;
+  outline: none;
+}
+
+
+// Player
+
+.ts-player {
+  float:    left;
+  position: relative;
+  width:    @playerSize;
+  height:   @playerSize;
+}
+
+
+// Canvas
+
+.ts-canvas {
+  position: absolute; // Relative to player
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+.ts-playing .ts-canvas,
+.ts-paused .ts-canvas {
+  visibility: visible;
+}
+
+
+// Timer
+
+.ts-timer {
+  position: absolute;
+  display: block;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  font-size: @playerSize / 5;
+  font-family: "helvetica neue",helvetica,monaco,lucida,terminal,monospace;
+  color: #666;
+  text-align: center;
+  line-height: @playerSize;
+}
+
+.ts-cover {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  display: none;
+}
+
+.ts-button {
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 50%;
+  width: @playerSize;
+  height: @playerSize;
+  margin-left: -@playerSize / 2;
+  margin-top: -@playerSize / 2;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 3;
+}
+
+.ts-playing .ts-button,
+.ts-paused .ts-button {
+  width: 22px;
+  height: 22px;
+  margin-left: -11px;
+  margin-top: -11px;
+}
+
+.ts-playing .ts-cover,
+.ts-paused .ts-cover {
+  display: block;
+}
+
+
+// Button images
+
+@imageLoading:    transparent image-url("icon_loading_spinner.gif") no-repeat;
+@imagePlay:       transparent image-url("360-button-play.png") no-repeat;
+@imagePlayHover:  transparent image-url("360-button-play-light.png") no-repeat;
+@imagePauseHover: transparent image-url("360-button-pause-light.png") no-repeat;
+
+.ui360 {
+  background: @imagePlay 14px 50%;
+}
+
+.ts-initialized {
+  background: none;
+}
+
+.ts-button {
+  background: @imagePlay 50% 50%;
+}
+
+.ts-button:hover {
+  background: @imagePlayHover 50% 50%;
+}
+
+.ts-playing .ts-button,
+.ts-dragging .ts-button {
+  background: none;
+}
+
+.ts-playing .ts-button:hover {
+  background: @imagePauseHover 50% 50%;
+}
+
+.ts-buffering .ts-button,
+.ts-buffering .ts-button:hover {
+  background: @imageLoading 50% 50%;
+  opacity: 0.5;
+}
+
+
+// Timer visibility
+
+.ts-timer {
+  visibility: hidden;
+}
+
+.ts-playing .ts-timer,
+.ts-dragging .ts-timer {
+  visibility: visible;
+}
+
+.ts-buffering .ts-timer,
+.ts-playing .ts-timer:hover {
+  visibility: hidden;
+}

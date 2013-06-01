@@ -59,7 +59,7 @@ Kurso::Application.configure do
 
   # Precompile additional assets.
   # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
-  # config.assets.precompile += %w( index.js index.css )
+  config.assets.precompile += %w(images/swf/soundmanager2.swf images/swf/soundmanager2_flash9.swf)
 
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.

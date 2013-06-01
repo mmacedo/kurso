@@ -98,6 +98,9 @@ GEM
     jquery-turbolinks (1.0.0)
       railties (>= 3.1.0)
       turbolinks
+    jquery-ui-rails (4.0.3)
+      jquery-rails
+      railties (>= 3.1.0)
     json (1.8.0)
     less (2.3.2)
       commonjs (~> 0.2.6)
@@ -217,6 +220,7 @@ DEPENDENCIES
   jbuilder
   jquery-rails
   jquery-turbolinks
+  jquery-ui-rails
   less-rails
   less-rails-bootstrap
   meta_request

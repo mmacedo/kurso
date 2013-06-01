@@ -1,0 +1,20 @@
+#= require soundmanager2
+#= require jquery.ui.effect
+#= require threesixty
+
+$ = jQuery
+
+$ ->
+  # iOS
+  if navigator.userAgent.match(/webkit/i) and navigator.userAgent.match(/mobile/i)
+    soundManager.setupOptions.useHTML5Audio = true
+
+  soundManager.setup
+    debugMode: <% if Rails.env.development? %>true<% else %>false<% end %>
+    url: '/assets/swf/'
+    flashVersion: 9
+    useHighPerformance: true
+
+  soundManager.onready ->
+    $('.ui360').threeSixty
+      animationEasing: 'easeInBounce'
