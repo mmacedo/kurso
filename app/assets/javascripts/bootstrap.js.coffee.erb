@@ -23,9 +23,12 @@ $ ->
     $spy = $(@)
     $spy.affix
       offset:
-        top: $spy.position().top - $('.navbar-fixed-top').height()
+        top: $spy.position().top
+        bottom: ->
+          $('footer').outerHeight(true) <% if Rails.env.development?
+          %> + ($('#footnotes_debug').outerHeight(true) || 0) <% end %>
 
-  $('.apudstango').length and
+  if $('.apudstango').length
     $(document.body).scrollspy
       offset: 85
       target: '.apudstango'
