@@ -201,6 +201,7 @@ GEM
     uglifier (2.1.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
+    underscore-rails (1.4.4)
     ya2yaml (0.31)
     yard (0.8.6.1)
 
@@ -232,4 +233,5 @@ DEPENDENCIES
   therubyracer
   turbolinks
   uglifier
+  underscore-rails
   ya2yaml

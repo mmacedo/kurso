@@ -29,13 +29,18 @@ gem 'uglifier'
 gem 'haml-rails'
 gem 'jbuilder'
 
-# JS/CSS bibliotekoj
+# Bibliotekoj pro JS disvolviĝo
+gem 'underscore-rails'
+gem 'jquery-rails'
+
+# JS bibliotekoj
 gem 'turbolinks'
 gem 'jquery-turbolinks'
-gem 'jquery-rails'
-gem 'jquery-ui-rails'
+
+# Dezajno bibliotekoj
 gem 'less-rails-bootstrap'
 gem 'font-awesome-rails'
+gem 'jquery-ui-rails'
 
 
 ### Disvolviĝo
