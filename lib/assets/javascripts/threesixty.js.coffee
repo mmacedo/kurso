@@ -10,18 +10,17 @@ $.fn.threeSixty = (options) ->
       threeSixty: new $.fn.threeSixty.ThreeSixty(this, options)
 
 $.fn.threeSixty.defaults =
-  size: 50
+  size: 100
   # Rings (canvas)
   loadRingColor:       "#ccc"
   playRingColor:       "#000"
   backgroundRingColor: "#eee"
-  # CSS for wrapper
-  initializedCssClass: "ts-initialized"
   # CSS for player
-  playingCssClass:   "ts-playing"
-  pausedCssClass:    "ts-paused"
-  bufferingCssClass: "ts-buffering"
-  draggingCssClass:  "ts-dragging"
+  initializedCssClass: "ts-initialized"
+  playingCssClass:     "ts-playing"
+  pausedCssClass:      "ts-paused"
+  bufferingCssClass:   "ts-buffering"
+  draggingCssClass:    "ts-dragging"
   # In/out Animation
   animationDuration: 500
   animationEasing:   'swing'
@@ -30,21 +29,19 @@ $.fn.threeSixty.defaults =
 
 class $.fn.threeSixty.ThreeSixty
   constructor: (el, options = {}) ->
-    @options       = $.extend({}, $.fn.threeSixty.defaults, options)
+    @$el     = $ el
+    @options = $.extend({}, $.fn.threeSixty.defaults, options, @$el.data())
     # Dimensions
     @size             = @options.size
     @radius           = @size * 0.4
     @ringWidth        = @size * 0.175
     @currentRadius    = 1
     @currentRingWidth = 1
-    # Elements
-    @$el     = $ el
-    @$link   = @$el.find('a')
-    @$player = null
-    @$canvas = null
-    @$button = null
-    @$timer  = null
-    @$cover  = null
+    # Internal elements
+    @$canvas = null # 360° seek bar (canvas)
+    @$button = null # Play/Pause button (center)
+    @$timer  = null # Timer (coterminous to $button, total ellapsed seconds)
+    @$seeker = null # 360° seek bar (invisible click area)
     @ctx     = null
     # Sound
     @sound       = null
@@ -53,27 +50,29 @@ class $.fn.threeSixty.ThreeSixty
     @init()
 
   init: ->
-    @$link.on('click', $.proxy(@handleClick, @))
-
-    @$player = $(document.createElement('div')).addClass('ts-player')
-      .append(@$canvas = $(document.createElement('canvas')).addClass('ts-canvas').attr(width: @size, height: @size))
-      .append(@$button = $(document.createElement('span')).addClass('ts-button'))
-      .append(@$timer  = $(document.createElement('div')).addClass('ts-timer').text("0"))
-      .append(@$cover  = $(document.createElement('div')).addClass('ts-cover'))
-      .on('mousedown', '.ts-cover',  $.proxy(@handleMouseDown, @))
+    @$el.addClass('ts-player')
+      # Add player internal components
+      .append($(document.createElement('div')).addClass('ts-player-inner')
+        .append(@$canvas = $(document.createElement('canvas')).addClass('ts-canvas').attr(width: @size, height: @size))
+        .append(@$button = $(document.createElement('a')).addClass('ts-button'))
+        .append(@$timer  = $(document.createElement('div')).addClass('ts-timer').text("0"))
+        .append(@$seeker = $(document.createElement('div')).addClass('ts-seeker')))
+      # Hide fake el
+      .addClass(@options.initializedCssClass)
+      # Enable event for seeker
+      .on('mousedown', '.ts-seeker', $.proxy(@handleMouseDown, @))
+      # Enable event for play/pause
       .on('click',     '.ts-button', $.proxy(@handleClick, @))
+
     @ctx = @$canvas.get(0).getContext('2d')
 
-    # Hide fake player
-    @$el.addClass(@options.initializedCssClass)
-    # Add real player
-    @$player.insertBefore(@$link)
-
   initSound: ->
-    @sound ||= soundManager.createSound
+    return if @sound?
+    soundUrl = @options.url || @$el.next('a').attr('href')
+    @sound = soundManager.createSound
       autoLoad: false
       autoPlay: false
-      url: @$el.children('a').attr('href')
+      url: soundUrl
       onplay: => @fanIn() if @hasBuffered
       onstop: => @fanOut()
       onpause: => @togglePlaying off
@@ -81,10 +80,10 @@ class $.fn.threeSixty.ThreeSixty
       onfinish: => @fanOut()
       onbufferchange: =>
         if @sound.isBuffering
-          @$player.addClass(@options.bufferingCssClass)
+          @$el.addClass(@options.bufferingCssClass)
         else
           @hasBuffered = true
-          @$player.removeClass(@options.bufferingCssClass)
+          @$el.removeClass(@options.bufferingCssClass)
           @fanIn()
       whileloading: => @draw()
       whileplaying: => @draw()
@@ -95,7 +94,7 @@ class $.fn.threeSixty.ThreeSixty
 
   fanOut: ->
     @animate @radius, 1, @ringWidth, 1, =>
-      @$player.removeClass(@options.playingCssClass)
+      @$el.removeClass(@options.playingCssClass)
 
   animate: (fromRadius, toRadius, fromRingWidth, toRingWidth, complete) ->
     @currentRadius    = fromRadius
@@ -149,9 +148,9 @@ class $.fn.threeSixty.ThreeSixty
 
   togglePlaying: (playing) ->
     if playing
-      @$player.removeClass(@options.pausedCssClass).addClass(@options.playingCssClass)
+      @$el.removeClass(@options.pausedCssClass).addClass(@options.playingCssClass)
     else
-      @$player.removeClass(@options.playingCssClass).addClass(@options.pausedCssClass)
+      @$el.removeClass(@options.playingCssClass).addClass(@options.pausedCssClass)
 
   handleClick: (e) ->
     # Accept only left clicks
@@ -174,7 +173,7 @@ class $.fn.threeSixty.ThreeSixty
 
     e.preventDefault()
 
-    @$player.addClass(@options.draggingCssClass)
+    @$el.addClass(@options.draggingCssClass)
     data = @getCanvasCenter()
     data.mousedown = e
     $(document)
@@ -190,4 +189,4 @@ class $.fn.threeSixty.ThreeSixty
 
   handleMouseUp: (e) ->
     $(document).off(".#{@eventNamespace}")
-    @$player.removeClass(@options.draggingCssClass)
+    @$el.removeClass(@options.draggingCssClass)

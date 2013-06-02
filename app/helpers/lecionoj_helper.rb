@@ -18,4 +18,12 @@ module LecionojHelper
       yield
     end
   end
+
+  def sc_url(user_name, track_name)
+    "http://soundcloud.com/#{user_name}/#{track_name}"
+  end
+
+  def sc_stream_url(track_id)
+    "http://api.soundcloud.com/tracks/#{track_id}/stream?consumer_key=1a3d9ccaa312ca61da9a88bc2ad4a432"
+  end
 end

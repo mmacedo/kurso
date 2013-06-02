@@ -1,36 +1,31 @@
-@playerSize: 50px;
-@lineHeight: 20px;
-
-.ui360 {
-  min-width: @playerSize;
-  min-height: @playerSize;
-}
+@playerSize: 100px;
+@lineHeight: @playerSize / 4;
 
 
 // Link
 
 .ui360 > a {
-  padding: 2px;
-  margin-left: -2px;
-  margin-top: -2px;
-
   line-height: @lineHeight;
   color: black;
   text-decoration: none;
 
-  float: left;
+  display: inline-block;
+  left: 0;
+  top: @playerSize / 2 - @lineHeight / 2;
+  width: @playerSize;
+  min-height: @lineHeight;
   position: relative;
-  top: @playerSize / 2 - @lineHeight / 2; // vertical centered
-  left: @playerSize + 3px;
+  text-align: center;
+  clear: left;
 }
 
 // remove extra spacing after the player is included
 .ui360 > .ts-player + a {
-  left: 3px;
+  top: 5px;
 }
 
-.ui360 a:hover,
-.ui360 a:focus {
+.ui360 > a:hover,
+.ui360 > a:focus {
   background: #eee;
   border-radius: 3px;
   outline: none;
@@ -40,10 +35,18 @@
 // Player
 
 .ts-player {
-  float:    left;
+  width:  @playerSize;
+  height: @playerSize;
+  padding: 0;
+}
+
+.ts-player-inner {
+  float: left;
   position: relative;
-  width:    @playerSize;
-  height:   @playerSize;
+  margin: 0;
+  padding: 0;
+  width:  @playerSize;
+  height: @playerSize;
 }
 
 
@@ -72,87 +75,122 @@
   width: 100%;
   height: 100%;
   margin: 0px;
-  font-size: @playerSize / 5;
+  font-size: @lineHeight;
   font-family: "helvetica neue",helvetica,monaco,lucida,terminal,monospace;
   color: #666;
   text-align: center;
   line-height: @playerSize;
 }
 
-.ts-cover {
+
+// Seeker
+
+.ts-seeker {
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
   z-index: 2;
-  display: none;
+  display: block;
+  visibility: hidden;
 }
+
+.ts-playing .ts-seeker,
+.ts-paused .ts-seeker {
+  visibility: visible;
+}
+
+
+// Button
 
 .ts-button {
   position: absolute;
   display: block;
   top: 50%;
   left: 50%;
-  width: @playerSize;
-  height: @playerSize;
-  margin-left: -@playerSize / 2;
-  margin-top: -@playerSize / 2;
-  border-radius: 50%;
+  width: @lineHeight;
+  height: @lineHeight;
+  margin-left: -@lineHeight / 2;
+  margin-top: -@lineHeight / 2;
+  border-radius: @lineHeight / 2;
   cursor: pointer;
   z-index: 3;
-}
-
-.ts-playing .ts-button,
-.ts-paused .ts-button {
-  width: 22px;
-  height: 22px;
-  margin-left: -11px;
-  margin-top: -11px;
-}
-
-.ts-playing .ts-cover,
-.ts-paused .ts-cover {
-  display: block;
 }
 
 
 // Button images
 
-@imageLoading:    transparent image-url("icon_loading_spinner.gif") no-repeat;
-@imagePlay:       transparent image-url("360-button-play.png") no-repeat;
-@imagePlayHover:  transparent image-url("360-button-play-light.png") no-repeat;
-@imagePauseHover: transparent image-url("360-button-pause-light.png") no-repeat;
+@iconBuffering: "\f110";
+@iconPlay:      "\f04b";
+@iconPause:     "\f04c";
 
-.ui360 {
-  background: @imagePlay 14px 50%;
+.ts-player, .ts-button {
+  text-align: center;
+  line-height: @lineHeight;
+  font-size: @lineHeight;
+  color: black;
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
 }
 
-.ts-initialized {
-  background: none;
+.ts-player .ts-button:hover, .ts-player .ts-button:active {
+  text-decoration: none;
 }
 
-.ts-button {
-  background: @imagePlay 50% 50%;
+.ts-player:before {
+  content: @iconPlay;
 }
 
-.ts-button:hover {
-  background: @imagePlayHover 50% 50%;
+.ts-initialized:before {
+  content: "";
 }
 
-.ts-playing .ts-button,
-.ts-dragging .ts-button {
-  background: none;
+.ts-button:before {
+  content: @iconPlay;
 }
 
-.ts-playing .ts-button:hover {
-  background: @imagePauseHover 50% 50%;
+.ts-playing .ts-button:before,
+.ts-dragging .ts-button:before {
+  content: "";
+}
+
+.ts-playing .ts-button:hover:before {
+  content: @iconPause;
+}
+
+.animation(@animation) {
+  -ms-animation:     @animation;
+  -moz-animation:    @animation;
+  -o-animation:      @animation;
+  -webkit-animation: @animation;
+  animation:         @animation;
 }
 
 .ts-buffering .ts-button,
 .ts-buffering .ts-button:hover {
-  background: @imageLoading 50% 50%;
   opacity: 0.5;
+  .animation(spin 1.5s infinite linear);
+  cursor: auto;
+  color: black;
+
+  &:before {
+    content: @iconBuffering;
+  }
+}
+
+// Fix for icon-play horizontal centering
+.ts-player, .ts-button {
+  text-indent: 5px;
+}
+
+.ts-playing .ts-button,
+.ts-buffering .ts-button,
+.ts-timer {
+  text-indent: 0;
 }
 
 
@@ -168,6 +206,6 @@
 }
 
 .ts-buffering .ts-timer,
-.ts-playing .ts-timer:hover {
+.ts-button:hover + .ts-timer {
   visibility: hidden;
 }

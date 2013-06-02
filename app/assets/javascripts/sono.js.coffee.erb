@@ -4,7 +4,15 @@
 
 $ = jQuery
 
+recreateSoundManager = ->
+  sm2 = window.soundManager
+  if sm2?.ok()
+    sm2 = window.soundManager = new SoundManager()
+  sm2
+
 $ ->
+  soundManager = recreateSoundManager()
+
   # iOS
   if navigator.userAgent.match(/webkit/i) and navigator.userAgent.match(/mobile/i)
     soundManager.setupOptions.useHTML5Audio = true
@@ -22,5 +30,5 @@ $ ->
     useHighPerformance: true
 
   soundManager.onready ->
-    $('.ui360').threeSixty
+    $('.ludanto-360').threeSixty
       animationEasing: 'easeInBounce'
