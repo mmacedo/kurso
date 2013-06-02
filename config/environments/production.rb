@@ -57,20 +57,6 @@ Kurso::Application.configure do
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
   # config.action_controller.asset_host = "http://assets.example.com"
 
-  # Precompile additional assets.
-  # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
-  # .swf el Sound Manager 2
-  config.assets.precompile += %w(swf/soundmanager2.swf
-                                 swf/soundmanager2.swf
-                                 swf/soundmanager2_flash9.swf
-                                 swf/soundmanager2_flash9_debug.swf)
-  # .png kaj .gif el 360-gradoj ludanto
-  config.assets.precompile += %w(360-button-pause.png
-                                 360-button-pause-light.png
-                                 360-button-play.png
-                                 360-button-play-light.png
-                                 icon_loading_spinner.gif)
-
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
   # config.action_mailer.raise_delivery_errors = false
