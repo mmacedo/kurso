@@ -59,7 +59,8 @@ module I18nEltiro
           # Skribas YML
           @skribantoj.each { |skribanto| skribanto.savi(lingvo, normaligito) }
         rescue
-          print "\033[1;31mEraro prilaborante '#{File.basename(dosiero)}'!\033[0m\n"
+          red, reset = "\033[1;31m", "\033[0m"
+          print "#{red}Eraro prilaborante '#{File.basename(dosiero)}'!#{reset}\n"
           raise if @sinsekva
         end
       end

@@ -1,12 +1,6 @@
 module I18nEltiro
   module Mapado
     class Dsl
-      KOMANDOJ = %i[el al atingo mapi forigi meti]
-
-      def self.komandoj
-        KOMANDOJ
-      end
-
       def initialize(lingvo, el_kunteksto, al_kunteksto = nil)
         @lingvo       = lingvo
         @el_kunteksto = el_kunteksto

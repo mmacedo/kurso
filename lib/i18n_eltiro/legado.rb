@@ -86,9 +86,10 @@ module I18nEltiro
     end
 
     def printi_difekto(mesaĝo, dosiero, de, al)
-      print "\033[33m#{mesaĝo} (#{File.basename(dosiero)})\033[0m\n"
-      print "\033[33mde: \033[31m#{de}\033[0m\n"
-      print "\033[33mal: \033[32m#{al}\033[0m\n"
+      red, green, yellow, reset = "\033[31m", "\033[32m", "\033[33m", "\033[0m"
+      print "#{yellow}#{mesaĝo} (#{File.basename(dosiero)})#{reset}\n"
+      print "#{yellow}el: #{red}#{de}#{reset}\n"
+      print "#{yellow}al: #{green}#{al}#{reset}\n"
     end
   end
 end

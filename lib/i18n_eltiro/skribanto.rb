@@ -1,5 +1,6 @@
 require 'awesome_print'
 require 'ya2yaml'
+require 'spacoj_utilecoj'
 
 module I18nEltiro
   class Skribanto
@@ -34,7 +35,7 @@ module I18nEltiro
     def savi_dosiero(dosiernomo, enhavo)
       FileUtils.mkdir_p @eliga_dosierujo
       dosiero = File.join(@eliga_dosierujo, dosiernomo)
-      IO.write dosiero, enhavo.ai(plain:true, sort_keys:true)
+      IO.write dosiero, ripari_spacojn(enhavo.ai(plain:true, sort_keys:true))
       puts dosiero
     end
   end
@@ -60,7 +61,7 @@ module I18nEltiro
       dosiero  = File.join(dosierujo, "#{klavo}.#{lingvo}.yml")
       enpakita = Hash[lingvo, { 'lecionoj' => enhavo }]
       FileUtils.mkdir_p dosierujo
-      IO.write dosiero, enpakita.ya2yaml
+      IO.write dosiero, ripari_spacojn(enpakita.ya2yaml)
       puts dosiero
     end
   end
