@@ -9,7 +9,7 @@ module I18nEltiro
       # Reludas blokoj por la kunteksto
       def kuri_mapoj!(lingvo, kunteksto)
         return if @@blokoj.nil?
-        Dsl.new(lingvo, kunteksto).el 'al_fari' do
+        Dsl.new(kunteksto, nil, lingvo).el 'al_fari' do
           @@blokoj.each do |bloko|
             instance_eval(&bloko)
           end
