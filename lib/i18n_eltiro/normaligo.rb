@@ -6,20 +6,20 @@ module I18nEltiro
 
       enhavo.each do |sekcio, parametroj|
         # Reverki parametrojn nomojn, fari ĝin pli legebla
-        parametroj = Hash[parametroj.map do |klavo, valoro|
+        parametroj = Hash[parametroj.map do |ŝlosilo, valoro|
           # turni Label12 en l012
-          /Label(\d+)/i.match klavo do |m|klavo =
-            klavo = klavo.gsub(m[0], "l" + m[1].rjust(3, '0'))
+          /Label(\d+)/i.match ŝlosilo do |m|
+            ŝlosilo = ŝlosilo.gsub(m[0], "l" + m[1].rjust(3, '0'))
           end
           # turni Frame5 en f05
-          /Frame(\d+)/i.match klavo do |m|
-            klavo = klavo.gsub(m[0], "f" + m[1].rjust(2, '0'))
+          /Frame(\d+)/i.match ŝlosilo do |m|
+            ŝlosilo = ŝlosilo.gsub(m[0], "f" + m[1].rjust(2, '0'))
           end
 
           # anstataŭi ĉiujn punktojn kun substrekas
-          klavo = klavo.gsub('.', '_')
+          ŝlosilo = ŝlosilo.gsub('.', '_')
 
-          [klavo.downcase, valoro]
+          [ŝlosilo.downcase, valoro]
         end]
 
         # Klopodi forigi rubajn parametrojn, kiujn kutime estas tre longaj
@@ -27,14 +27,14 @@ module I18nEltiro
 
         # Procezi ekzercojn
         if m = sekcio.match(/\AEkzerco-(.+)\z/im)
-          klavo = m[1]
+          ŝlosilo = m[1]
           # Konverti al listo
           opcioj = parametroj.length.times.map {|i| parametroj[i.to_s] }
-          rezulto['ekzercoj']["ekzerco-#{klavo}".downcase] = opcioj
+          rezulto['ekzercoj']["ekzerco-#{ŝlosilo}".downcase] = opcioj
         # Procezi eksplikojn de la lecionoj
         elsif m = sekcio.match(/\ALec(\d{2})\z/im)
-          klavo = m[1]
-          rezulto['lecionoj']["leciono#{klavo}".downcase] = parametroj
+          ŝlosilo = m[1]
+          rezulto['lecionoj']["leciono#{ŝlosilo}".downcase] = parametroj
         # Procezi aliajn agordojn
         else
           rezulto['aliaj'][sekcio.downcase] = parametroj

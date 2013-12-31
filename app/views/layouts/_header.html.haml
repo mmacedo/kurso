@@ -1,13 +1,14 @@
-%header.navbar.navbar-fixed-top
-  %nav.navbar-inner
+%header
+  %nav.navbar.navbar-default.navbar-fixed-top(role="navigation")
     .container
-      %button.btn.btn-navbar{'data-toggle' => "collapse", 'data-target' => ".nav-collapse"}
-        %span.icon-bar
-        %span.icon-bar
-        %span.icon-bar
-      = link_to "kurso", root_path, class: 'brand'
-      .nav-collapse.collapse
-        %ul.nav.pull-right
+      .navbar-header
+        %button.navbar-toggle(type="button" data-toggle="collapse" data-target=".navbar-collapse")
+          %span.icon-bar
+          %span.icon-bar
+          %span.icon-bar
+        = link_to "kurso", root_path, class: 'navbar-brand'
+      .navbar-collapse.collapse
+        %ul.nav.navbar-nav.navbar-right
           %li.dropdown
             %a.dropdown-toggle{href: '#', 'data-toggle' => "dropdown"}
               %i.icon-book
@@ -29,7 +30,6 @@
               %b.caret
             %ul.dropdown-menu
               = lingvo_selektado_opcioj
-          %li.divider-vertical
           %li
             %a{href: 'https://github.com/mmacedo/kurso', target: '_new'}
               %i.icon-github

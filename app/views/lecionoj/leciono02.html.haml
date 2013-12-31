@@ -1,48 +1,49 @@
-%header.subhead
-  %h1 Leciono 2
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#sufikso_ino'}
-          %i.icon-chevron-right
-          = t('.sufikso_ino.titolo')
-      %li
-        %a{href: '#akuzativo'}
-          %i.icon-chevron-right
-          = t('.akuzativo.titolo')
-      %li
-        %a{href: '#prefikso_mal'}
-          %i.icon-chevron-right
-          = t('.prefikso_mal.titolo')
-      %li
-        %a{href: '#neado'}
-          %i.icon-chevron-right
-          = t('.neado.titolo')
-      %li
-        %a{href: '#muziko01'}
-          %i.icon-chevron-right
-          = t('.muziko01.titolo')
-      %li
-        %a{href: '#vortaro02'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.vortaro')
-  .span9
-    %section#sufikso_ino
-      .section-inner
-        = render "lecionoj/leciono02/sufikso_ino"
-    %section#akuzativo
-      .section-inner
-        = render "lecionoj/leciono02/akuzativo"
-    %section#prefikso_mal
-      .section-inner
-        = render "lecionoj/leciono02/prefikso_mal"
-    %section#neado
-      .section-inner
-        = render "lecionoj/leciono02/neado"
-    %section#muziko01
-      .section-inner
-        = render "lecionoj/leciono02/muziko01"
-    %section#vortaro02
-      .section-inner
-        = render "lecionoj/leciono02/vortaro02"
+.container
+  %header.subhead
+    %h1 Leciono 2
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#sufikso_ino")
+            %i.icon-chevron-right
+            = t('.sufikso_ino.titolo')
+        %li
+          %a(href="#akuzativo")
+            %i.icon-chevron-right
+            = t('.akuzativo.titolo')
+        %li
+          %a(href="#prefikso_mal")
+            %i.icon-chevron-right
+            = t('.prefikso_mal.titolo')
+        %li
+          %a(href="#neado")
+            %i.icon-chevron-right
+            = t('.neado.titolo')
+        %li
+          %a(href="#muziko01")
+            %i.icon-chevron-right
+            = t('.muziko01.titolo')
+        %li
+          %a(href="#vortaro02")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.vortaro')
+    .col-sm-9
+      %section#sufikso_ino
+        .section-inner
+          = render "lecionoj/leciono02/sufikso_ino"
+      %section#akuzativo
+        .section-inner
+          = render "lecionoj/leciono02/akuzativo"
+      %section#prefikso_mal
+        .section-inner
+          = render "lecionoj/leciono02/prefikso_mal"
+      %section#neado
+        .section-inner
+          = render "lecionoj/leciono02/neado"
+      %section#muziko01
+        .section-inner
+          = render "lecionoj/leciono02/muziko01"
+      %section#vortaro02
+        .section-inner
+          = render "lecionoj/leciono02/vortaro02"

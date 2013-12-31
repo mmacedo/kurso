@@ -18,21 +18,21 @@ module I18nEltiro
       # Kreas profunda kopio
       enhavo = Marshal.load(Marshal.dump(enhavo))
       # Kunfandas pritraktatajn kaj pretajn
-      enhavo.delete('al_fari').each do |(klavo, enhavo_al_fari)|
-        if enhavo.has_key? klavo
-          enhavo[klavo].merge!(enhavo_al_fari)
+      enhavo.delete('al_fari').each do |(ŝlosilo, enhavo_al_fari)|
+        if enhavo.has_key? ŝlosilo
+          enhavo[ŝlosilo].merge!(enhavo_al_fari)
         else
-          enhavo[klavo] = enhavo_al_fari
+          enhavo[ŝlosilo] = enhavo_al_fari
         end
       end
       # Skribas dosierojn
-      enhavo.keys.each do |klavo|
-        savi_dosiero("#{klavo}.#{lingvo}.debug.txt", enhavo[klavo])
+      enhavo.keys.each do |ŝlosilo|
+        savi_dosieron("#{ŝlosilo}.#{lingvo}.debug.txt", enhavo[ŝlosilo])
       end
     end
 
     private
-    def savi_dosiero(dosiernomo, enhavo)
+    def savi_dosieron(dosiernomo, enhavo)
       FileUtils.mkdir_p @eliga_dosierujo
       dosiero = File.join(@eliga_dosierujo, dosiernomo)
       IO.write dosiero, ripari_spacojn(enhavo.ai(plain:true, sort_keys:true))
@@ -45,20 +45,20 @@ module I18nEltiro
       (1..12).each do |i|
         leciono   = "leciono#{i.to_s.rjust(2,'0')}"
         dosierujo = File.join(@eliga_dosierujo, leciono)
-        %w[lecionoj ekzercoj].each do |klavo|
-          next unless enhavo.has_key? klavo and enhavo[klavo].has_key? leciono
-          savi_dosiero lingvo, klavo, dosierujo, Hash[leciono, enhavo[klavo][leciono]]
+        %w[lecionoj ekzercoj].each do |ŝlosilo|
+          next unless enhavo.has_key? ŝlosilo and enhavo[ŝlosilo].has_key? leciono
+          savi_dosieron lingvo, ŝlosilo, dosierujo, Hash[leciono, enhavo[ŝlosilo][leciono]]
         end
       end
       if enhavo.has_key? 'aliaj'
         dosierujo = File.join(@eliga_dosierujo, 'aliaj')
-        savi_dosiero lingvo, 'aliaj', dosierujo, { 'aliaj' => enhavo['aliaj'] }
+        savi_dosieron lingvo, 'aliaj', dosierujo, { 'aliaj' => enhavo['aliaj'] }
       end
     end
 
     private
-    def savi_dosiero(lingvo, klavo, dosierujo, enhavo)
-      dosiero  = File.join(dosierujo, "#{klavo}.#{lingvo}.yml")
+    def savi_dosieron(lingvo, ŝlosilo, dosierujo, enhavo)
+      dosiero  = File.join(dosierujo, "#{ŝlosilo}.#{lingvo}.yml")
       enpakita = Hash[lingvo, { 'lecionoj' => enhavo }]
       FileUtils.mkdir_p dosierujo
       IO.write dosiero, ripari_spacojn(enpakita.ya2yaml)

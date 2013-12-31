@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby "2.0.0"
 
-gem 'rails', '>= 4.0.0.rc1'
+gem 'rails', '4.0.2'
 
 
 ### Malantaŭe
@@ -38,8 +38,7 @@ gem 'turbolinks'
 gem 'jquery-turbolinks'
 
 # Dezajno bibliotekoj
-gem 'less-rails-bootstrap'
-gem 'font-awesome-rails'
+gem 'twitter-bootstrap-rails', git: 'https://github.com/seyhunak/twitter-bootstrap-rails', branch: 'bootstrap3'
 gem 'jquery-ui-rails'
 
 

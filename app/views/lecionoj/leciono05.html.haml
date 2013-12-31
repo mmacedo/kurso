@@ -1,55 +1,56 @@
-%header.subhead
-  %h1 Leciono 5
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#korelativoj01'}
-          %i.icon-chevron-right
-          = t('.korelativoj01.titolo')
-      %li
-        %a{href: '#korelativoj_u'}
-          %i.icon-chevron-right
-          \-u
-      %li
-        %a{href: '#korelativoj_e'}
-          %i.icon-chevron-right
-          \-e
-      %li
-        %a{href: '#korelativoj_am'}
-          %i.icon-chevron-right
-          \-am
-      %li
-        %a{href: '#korelativoj_o'}
-          %i.icon-chevron-right
-          \-o
-      %li
-        %a{href: '#korelativoj_cxi'}
-          %i.icon-chevron-right
-          Ĉi
-      %li
-        %a{href: '#vortaro05'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.vortaro')
-  .span9
-    %section#korelativoj01
-      .section-inner
-        = render "lecionoj/leciono05/korelativoj01"
-    %section#korelativoj_u
-      .section-inner
-        = render "lecionoj/leciono05/korelativoj_u"
-    %section#korelativoj_e
-      .section-inner
-        = render "lecionoj/leciono05/korelativoj_e"
-    %section#korelativoj_am
-      .section-inner
-        = render "lecionoj/leciono05/korelativoj_am"
-    %section#korelativoj_o
-      .section-inner
-        = render "lecionoj/leciono05/korelativoj_o"
-    %section#korelativoj_cxi
-      .section-inner
-        = render "lecionoj/leciono05/korelativoj_cxi"
-    %section#vortaro05
-      .section-inner
-        = render "lecionoj/leciono05/vortaro05"
+.container
+  %header.subhead
+    %h1 Leciono 5
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#korelativoj01")
+            %i.icon-chevron-right
+            = t('.korelativoj01.titolo')
+        %li
+          %a(href="#korelativoj_u")
+            %i.icon-chevron-right
+            \-u
+        %li
+          %a(href="#korelativoj_e")
+            %i.icon-chevron-right
+            \-e
+        %li
+          %a(href="#korelativoj_am")
+            %i.icon-chevron-right
+            \-am
+        %li
+          %a(href="#korelativoj_o")
+            %i.icon-chevron-right
+            \-o
+        %li
+          %a(href="#korelativoj_cxi")
+            %i.icon-chevron-right
+            Ĉi
+        %li
+          %a(href="#vortaro05")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.vortaro')
+    .col-sm-9
+      %section#korelativoj01
+        .section-inner
+          = render "lecionoj/leciono05/korelativoj01"
+      %section#korelativoj_u
+        .section-inner
+          = render "lecionoj/leciono05/korelativoj_u"
+      %section#korelativoj_e
+        .section-inner
+          = render "lecionoj/leciono05/korelativoj_e"
+      %section#korelativoj_am
+        .section-inner
+          = render "lecionoj/leciono05/korelativoj_am"
+      %section#korelativoj_o
+        .section-inner
+          = render "lecionoj/leciono05/korelativoj_o"
+      %section#korelativoj_cxi
+        .section-inner
+          = render "lecionoj/leciono05/korelativoj_cxi"
+      %section#vortaro05
+        .section-inner
+          = render "lecionoj/leciono05/vortaro05"

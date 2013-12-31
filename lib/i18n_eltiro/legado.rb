@@ -4,13 +4,13 @@ module I18nEltiro
   module Legado
     # Legas .trd (INI), do revenas paro kun lingvo kaj enhavo
     def legi(dosiero)
-      # legas linojn
+      # legas liniojn
       ini_linioj = IO.readlines(dosiero)
-      # riparas sintaksaj eraroj antaŭ analizas
+      # riparas sintaksajn erarojn antaŭ analizi
       ripari_sintaksaj_eraroj! dosiero, ini_linioj
-      # analiza INI linoj en listo de paroj
+      # analizas INI liniojn en listo de paroj
       ini = IniFile.new(ini_linioj.join).to_h
-      # riparas ini analizilo eraroj
+      # riparas erarojn de la INI analizilo
       ripari_analizilo_eraroj! ini
 
       [ ini["Traduko"]["LingvoID"], ini ]
@@ -25,57 +25,57 @@ module I18nEltiro
         # Procezi nur linioj kun duopoj
         next(linio) unless linio.match /\=/
 
-        # Forigas spacoj
+        # Forigas spacojn
         linio = linio.gsub(/\A [[:space:]]*([\w\-\\.%—]+)[[:space:]]* = [[:space:]]*(.*?)[[:space:]]* \z/mx, '\1=\2')
 
-        # Aldonas citilo
+        # Aldonas citilon
         linio = linio.gsub(/\A ([\w\-\\.%—]+) = ([^"].*?) \z/mx, '\1="\2"')
 
-        # Eltiras nur valor por procezi
-        klavo, valoro = linio.match(/\A([\w\-\\.%—]+)="(.*?)"\z/mx)[1..2]
+        # Eltiras nur valoron por procesi
+        ŝlosilo, valoro = linio.match(/\A([\w\-\\.%—]+)="(.*?)"\z/mx)[1..2]
 
-        # Forigas malbonajn signojn el klavo
-        klavo = klavo.gsub(/[^\w.](\w\d+)?/, '_')
+        # Forigas malbonajn signojn el ŝlosilo
+        ŝlosilo = ŝlosilo.gsub(/[^\w.](\w\d+)?/, '_')
 
         # \$ -> \"
         nova_valoro = valoro.gsub(/\\\z/m, '\"')
         if valoro != nova_valoro
-          printi_difekto "Malbona escapita (EOL post '\\')", dosiero, valoro, nova_valoro
+          printi_difekto "Malbona eskapo (EOL post '\\')", dosiero, valoro, nova_valoro
           valoro = nova_valoro
         end
 
         # \ " -> \"
         nova_valoro = valoro.gsub(/\\[[:space:]]"/, '\"')
         if valoro != nova_valoro
-          printi_difekto "Malbona escapita (spaco inter la '\\' kaj '\"')", dosiero, valoro, nova_valoro
+          printi_difekto "Malbona eskapo (spaco inter la '\\' kaj '\"')", dosiero, valoro, nova_valoro
           valoro = nova_valoro
         end
 
         # "\ -> \"
         nova_valoro = valoro.gsub(/ "\\ ([^"\\=]|\z) /mx, '\"\1')
         if valoro != nova_valoro
-          printi_difekto "Malbona escapita ('\\' post '\"')", dosiero, valoro, nova_valoro
+          printi_difekto "Malbona eskapo ('\\' post '\"')", dosiero, valoro, nova_valoro
           valoro = nova_valoro
         end
 
         # []=" -> \[\]\=\"
-        escapi = '\1' + '\\\\' + '\2'
-        nova_valoro = valoro.gsub(/ ([^\\]|\A) ([\[\]="]) /mx, escapi).gsub(/([\[\]="]) ([\[\]="])/mx, escapi)
+        eskapi = '\1' + '\\\\' + '\2'
+        nova_valoro = valoro.gsub(/ ([^\\]|\A) ([\[\]="]) /mx, eskapi).gsub(/([\[\]="]) ([\[\]="])/mx, eskapi)
         if valoro != nova_valoro
-          printi_difekto "Egalsigno, citilo aŭ rekta krampo ne-escapita", dosiero, valoro, nova_valoro
+          printi_difekto "Egalsigno, citilo aŭ rekta krampo ne-eskapita", dosiero, valoro, nova_valoro
           valoro = nova_valoro
         end
 
-        %(#{klavo}="#{valoro}"\n)
+        %(#{ŝlosilo}="#{valoro}"\n)
       end
     end
 
     def ripari_analizilo_eraroj!(ini)
-      ini.each do |(klavo, valoro)|
+      ini.each do |(ŝlosilo, valoro)|
         if valoro.is_a? Hash
           ripari_analizilo_eraroj!(valoro)
         else
-          ini[klavo] = ripari_analizilo_valoro(valoro)
+          ini[ŝlosilo] = ripari_analizilo_valoro(valoro)
         end
       end
     end

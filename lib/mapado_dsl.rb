@@ -7,13 +7,13 @@ class MapadoDsl
   end
 
   def el(pado, escepte: [], &block)
-    kontroli_mankantaj(pado, escepte) do |patro, klavo|
-      krei_novo(pado, akiri(patro, klavo), @al_kunteksto, @datumo).instance_eval(&block)
+    kontroli_mankantajn(pado, escepte) do |patro, ŝlosilo|
+      krei_novon(pado, akiri(patro, ŝlosilo), @al_kunteksto, @datumo).instance_eval(&block)
     end
   end
 
   def al(pado, &block)
-    krei_novo(pado, @el_kunteksto, akiri(@al_kunteksto, pado, false), @datumo).instance_eval(&block)
+    krei_novon(pado, @el_kunteksto, akiri(@al_kunteksto, pado, false), @datumo).instance_eval(&block)
   end
 
   def atingo(pado, escepte: [], &block)
@@ -40,9 +40,9 @@ class MapadoDsl
   end
 
   def forigi(el, escepte: [], &block)
-    kontroli_mankantaj(el, escepte) do |patro, klavo|
-      raise "Pado '#{kunigi_pado @el_kunteksto, el}' ne trovita!" unless patro.has_key? klavo
-      objekto = patro.delete(klavo)
+    kontroli_mankantajn(el, escepte) do |patro, ŝlosilo|
+      raise "Pado '#{kunigi_padon @el_kunteksto, el}' ne trovita!" unless patro.has_key? ŝlosilo
+      objekto = patro.delete(ŝlosilo)
 
       if block_given?
         yield(objekto)
@@ -53,33 +53,33 @@ class MapadoDsl
   end
 
   def meti(al, objekto)
-    pado, ponto, klavo = al.rpartition(disigilo_regexp)
+    pado, ponto, ŝlosilo = al.rpartition(disigilo_regex)
     patro = akiri(@al_kunteksto, pado, false)
-    if patro.has_key? klavo
-      if patro[klavo].is_a? Hash
-        raise "Pado '#{kunigi_pado @al_kunteksto, al}' havas filojn nodojn!"
+    if patro.has_key? ŝlosilo
+      if patro[ŝlosilo].is_a? Hash
+        raise "Pado '#{kunigi_padon @al_kunteksto, al}' havas filojn nodojn!"
       else
-        raise "Duobligita pado '#{kunigi_pado @al_kunteksto, al}' jam havas valoron '#{patro[klavo]}'!"
+        raise "Duobligita pado '#{kunigi_padon @al_kunteksto, al}' jam havas valoron '#{patro[ŝlosilo]}'!"
       end
     end
-    patro[klavo] = objekto
+    patro[ŝlosilo] = objekto
   end
 
   private
   def akiri(kunteksto, pado, devas_ekzisti = true)
-    pado.split(disigilo_regexp).inject(kunteksto) do |nuna_kunteksto, klavo|
-      if nuna_kunteksto.has_key? klavo
-        raise "Pado '#{kunigi_pado nuna_kunteksto, klavo}' havas scalaran valoron!" unless nuna_kunteksto[klavo].is_a? Hash
+    pado.split(disigilo_regex).inject(kunteksto) do |nuna_kunteksto, ŝlosilo|
+      if nuna_kunteksto.has_key? ŝlosilo
+        raise "Pado '#{kunigi_padon nuna_kunteksto, ŝlosilo}' havas scalaran valoron!" unless nuna_kunteksto[ŝlosilo].is_a? Hash
       else
-        raise "Pado '#{kunigi_pado nuna_kunteksto, klavo}' ne trovita!" if devas_ekzisti
-        nuna_kunteksto[klavo] = {}
+        raise "Pado '#{kunigi_padon nuna_kunteksto, ŝlosilo}' ne trovita!" if devas_ekzisti
+        nuna_kunteksto[ŝlosilo] = {}
       end
-      nuna_kunteksto[klavo][:__pado] = kunigi_pado nuna_kunteksto, klavo
-      nuna_kunteksto[klavo]
+      nuna_kunteksto[ŝlosilo][:__pado] = kunigi_padon nuna_kunteksto, ŝlosilo
+      nuna_kunteksto[ŝlosilo]
     end
   end
 
-  def kunigi_pado(kunteksto, pado)
+  def kunigi_padon(kunteksto, pado)
     if kunteksto.has_key? :__pado
       "#{kunteksto[:__pado]}.#{pado}"
     else
@@ -87,19 +87,19 @@ class MapadoDsl
     end
   end
 
-  def kontroli_mankantaj(el, esceptoj)
-    pado, ponto, klavo = el.rpartition(disigilo_regexp)
+  def kontroli_mankantajn(el, esceptoj)
+    pado, ponto, ŝlosilo = el.rpartition(disigilo_regex)
 
     if esceptoj.include? @datumo
       patro = akiri(@el_kunteksto, pado, false)
-      raise "Lingvo #{@datumo} ne mankas '#{kunigi_pado @el_kunteksto, el}' plu!" if patro.has_key? klavo
+      raise "Lingvo #{@datumo} ne mankas '#{kunigi_padon @el_kunteksto, el}' plu!" if patro.has_key? ŝlosilo
     else
-      yield(akiri(@el_kunteksto, pado), klavo)
+      yield(akiri(@el_kunteksto, pado), ŝlosilo)
     end
   end
 
-  def disigilo_regexp
-    @disigilo_regexp ||= begin
+  def disigilo_regex
+    @disigilo_regex ||= begin
       disigilo = Regexp.quote(@disigilo)
       %r@
         (?<! #{disigilo}   ) # ne sekvas disigilo - negativa rigardi-malantaŭen
@@ -107,11 +107,11 @@ class MapadoDsl
         (?! #{disigilo}|\z ) # ne antaŭvenas disigilo aŭ fino de la ŝnuro - negativa rigardi-antaŭen
       @xm
     end
-    @disigilo_regexp
+    @disigilo_regex
   end
 
   protected
-  def krei_novo(pado, el_kunteksto, al_kunteksto, datumo)
+  def krei_novon(pado, el_kunteksto, al_kunteksto, datumo)
     self.class.new(el_kunteksto, al_kunteksto, datumo)
   end
 end

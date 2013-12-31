@@ -1,41 +1,42 @@
-%header.subhead
-  %h1 Leciono 3
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#adverboj'}
-          %i.icon-chevron-right
-          = t('.adverboj.titolo')
-      %li
-        %a{href: '#numeraloj'}
-          %i.icon-chevron-right
-          = t('.numeraloj.titolo')
-      %li
-        %a{href: '#adjektivoj_el_numeraloj'}
-          %i.icon-chevron-right
-          = t('.adjektivoj_el_numeraloj.titolo')
-      %li
-        %a{href: '#adverboj_el_numeraloj'}
-          %i.icon-chevron-right
-          = t('.adverboj_el_numeraloj.titolo')
-      %li
-        %a{href: '#vortaro03'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.vortaro')
-  .span9
-    %section#adverboj
-      .section-inner
-        = render "lecionoj/leciono03/adverboj"
-    %section#numeraloj
-      .section-inner
-        = render "lecionoj/leciono03/numeraloj"
-    %section#adjektivoj_el_numeraloj
-      .section-inner
-        = render "lecionoj/leciono03/adjektivoj_el_numeraloj"
-    %section#adverboj_el_numeraloj
-      .section-inner
-        = render "lecionoj/leciono03/adverboj_el_numeraloj"
-    %section#vortaro03
-      .section-inner
-        = render "lecionoj/leciono03/vortaro03"
+.container
+  %header.subhead
+    %h1 Leciono 3
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#adverboj")
+            %i.icon-chevron-right
+            = t('.adverboj.titolo')
+        %li
+          %a(href="#numeraloj")
+            %i.icon-chevron-right
+            = t('.numeraloj.titolo')
+        %li
+          %a(href="#adjektivoj_el_numeraloj")
+            %i.icon-chevron-right
+            = t('.adjektivoj_el_numeraloj.titolo')
+        %li
+          %a(href="#adverboj_el_numeraloj")
+            %i.icon-chevron-right
+            = t('.adverboj_el_numeraloj.titolo')
+        %li
+          %a(href="#vortaro03")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.vortaro')
+    .col-sm-9
+      %section#adverboj
+        .section-inner
+          = render "lecionoj/leciono03/adverboj"
+      %section#numeraloj
+        .section-inner
+          = render "lecionoj/leciono03/numeraloj"
+      %section#adjektivoj_el_numeraloj
+        .section-inner
+          = render "lecionoj/leciono03/adjektivoj_el_numeraloj"
+      %section#adverboj_el_numeraloj
+        .section-inner
+          = render "lecionoj/leciono03/adverboj_el_numeraloj"
+      %section#vortaro03
+        .section-inner
+          = render "lecionoj/leciono03/vortaro03"

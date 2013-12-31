@@ -1,16 +1,33 @@
-// CSS Reagordado
-@import "twitter/bootstrap/reset";
+@import "twitter/bootstrap/variables";
 
-// Krado sistemo kaj paĝo strukturo
-@import "twitter/bootstrap/scaffolding";
-@import "twitter/bootstrap/grid";
-@import "twitter/bootstrap/layouts";
+// koloreco
+@content-bg: #f5f5f5;
+@body-bg: #e5e4d7;
+@navbar-color-1: #2b2b2b;
+@navbar-color-2: #5a8f29;
+@link-color: #3c7dc4;
+@link-color-hover: darken(@link-color, 15%);
 
-// Baza CSS
-@import "twitter/bootstrap/type";
-// @import "twitter/bootstrap/code";
-// @import "twitter/bootstrap/forms";
-// @import "twitter/bootstrap/tables";
+// supra navbar grandeco
+@navbar-height: 65px;
+@navbar-margin: 20px;
 
-// Utileco klasoj
-@import "twitter/bootstrap/utilities";
+// supra navbar koloreco
+@navbar-default-link-color: @navbar-color-2;
+@navbar-default-bg: @navbar-color-1;
+@navbar-default-bg-highlight: @navbar-default-bg;
+@navbar-default-link-hover-color: @navbar-color-1;
+@navbar-default-link-active-color: @navbar-default-link-hover-color;
+@navbar-default-link-hover-bg: @navbar-color-2;
+@navbar-default-link-active-bg: @navbar-default-link-hover-bg;
+
+// tipografio
+@font-family-sans-serif: 'Ubuntu', sans-serif;
+
+@import "twitter/bootstrap/mixins";
+
+.border-radius(@radius) {
+  -webkit-border-radius: @radius;
+  -moz-border-radius:    @radius;
+  border-radius:         @radius;
+}

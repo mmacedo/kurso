@@ -1,69 +1,70 @@
-%header.subhead
-  %h1 Leciono 1
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#alfabeto'}
-          %i.icon-chevron-right
-          = t('.alfabeto.titolo')
-      %li
-        %a{href: '#personaj_pronomoj'}
-          %i.icon-chevron-right
-          = t('.personaj_pronomoj.titolo')
-      %li
-        %a{href: '#verboj'}
-          %i.icon-chevron-right
-          = t('.verboj.titolo')
-      %li
-        %a{href: '#nomoj'}
-          %i.icon-chevron-right
-          = t('.nomoj.titolo')
-      %li
-        %a{href: '#adjektivoj'}
-          %i.icon-chevron-right
-          = t('.adjektivoj.titolo')
-      %li
-        %a{href: '#vortaro01'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.vortaro')
-      %li
-        %a{href: '#pluralo'}
-          %i.icon-chevron-right
-          = t('.pluralo.titolo')
-      %li
-        %a{href: '#posedaj_pronomoj'}
-          %i.icon-chevron-right
-          = t('.posedaj_pronomoj.titolo')
-      %li
-        %a{href: '#artikolo'}
-          %i.icon-chevron-right
-          = t('.artikolo.titolo')
-  .span9
-    %section#alfabeto
-      .section-inner
-        = render "lecionoj/leciono01/alfabeto"
-    %section#personaj_pronomoj
-      .section-inner
-        = render "lecionoj/leciono01/personaj_pronomoj"
-    %section#verboj
-      .section-inner
-        = render "lecionoj/leciono01/verboj"
-    %section#nomoj
-      .section-inner
-        = render "lecionoj/leciono01/nomoj"
-    %section#adjektivoj
-      .section-inner
-        = render "lecionoj/leciono01/adjektivoj"
-    %section#vortaro01
-      .section-inner
-        = render "lecionoj/leciono01/vortaro01"
-    %section#pluralo
-      .section-inner
-        = render "lecionoj/leciono01/pluralo"
-    %section#posedaj_pronomoj
-      .section-inner
-        = render "lecionoj/leciono01/posedaj_pronomoj"
-    %section#artikolo
-      .section-inner
-        = render "lecionoj/leciono01/artikolo"
+.container
+  %header.subhead
+    %h1 Leciono 1
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#alfabeto")
+            %i.icon-chevron-right
+            = t('.alfabeto.titolo')
+        %li
+          %a(href="#personaj_pronomoj")
+            %i.icon-chevron-right
+            = t('.personaj_pronomoj.titolo')
+        %li
+          %a(href="#verboj")
+            %i.icon-chevron-right
+            = t('.verboj.titolo')
+        %li
+          %a(href="#nomoj")
+            %i.icon-chevron-right
+            = t('.nomoj.titolo')
+        %li
+          %a(href="#adjektivoj")
+            %i.icon-chevron-right
+            = t('.adjektivoj.titolo')
+        %li
+          %a(href="#vortaro01")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.vortaro')
+        %li
+          %a(href="#pluralo")
+            %i.icon-chevron-right
+            = t('.pluralo.titolo')
+        %li
+          %a(href="#posedaj_pronomoj")
+            %i.icon-chevron-right
+            = t('.posedaj_pronomoj.titolo')
+        %li
+          %a(href="#artikolo")
+            %i.icon-chevron-right
+            = t('.artikolo.titolo')
+    .col-sm-9
+      %section#alfabeto
+        .section-inner
+          = render "lecionoj/leciono01/alfabeto"
+      %section#personaj_pronomoj
+        .section-inner
+          = render "lecionoj/leciono01/personaj_pronomoj"
+      %section#verboj
+        .section-inner
+          = render "lecionoj/leciono01/verboj"
+      %section#nomoj
+        .section-inner
+          = render "lecionoj/leciono01/nomoj"
+      %section#adjektivoj
+        .section-inner
+          = render "lecionoj/leciono01/adjektivoj"
+      %section#vortaro01
+        .section-inner
+          = render "lecionoj/leciono01/vortaro01"
+      %section#pluralo
+        .section-inner
+          = render "lecionoj/leciono01/pluralo"
+      %section#posedaj_pronomoj
+        .section-inner
+          = render "lecionoj/leciono01/posedaj_pronomoj"
+      %section#artikolo
+        .section-inner
+          = render "lecionoj/leciono01/artikolo"

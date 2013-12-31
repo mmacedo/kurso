@@ -1,10 +1,9 @@
-@import "bootstrap/variabloj";
-@import "bootstrap/miksajxoj";
+@import "bootstrap/bazo";
 
 .koloro {
-  min-width: @baseFontSize * 2;
-  height: @baseFontSize * 2;
-  border: 2px solid @black;
+  min-width: @font-size-base * 2;
+  height: @font-size-base * 2;
+  border: 2px solid black;
 }
 
 .eo {
@@ -32,7 +31,7 @@
   min-height: 125px;
 }
 
-@media (max-width: @navbarCollapseWidth) {
+@media (max-width: @screen-xs-max) {
   // Centrigas ludanto
   .muziko-ludanto {
     padding: 20px 0;

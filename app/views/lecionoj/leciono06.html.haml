@@ -1,55 +1,56 @@
-%header.subhead
-  %h1 Leciono 6
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#korelativoj02'}
-          %i.icon-chevron-right
-          = t('.korelativoj02.titolo')
-      %li
-        %a{href: '#korelativoj_el'}
-          %i.icon-chevron-right
-          \-el
-      %li
-        %a{href: '#korelativoj_om'}
-          %i.icon-chevron-right
-          \-om
-      %li
-        %a{href: '#korelativoj_al'}
-          %i.icon-chevron-right
-          \-al
-      %li
-        %a{href: '#korelativoj_es'}
-          %i.icon-chevron-right
-          \-es
-      %li
-        %a{href: '#korelativoj_a'}
-          %i.icon-chevron-right
-          \-a
-      %li
-        %a{href: '#relativoj'}
-          %i.icon-chevron-right
-          = t('.relativoj.titolo')
-  .span9
-    %section#korelativoj02
-      .section-inner
-        = render "lecionoj/leciono06/korelativoj02"
-    %section#korelativoj_el
-      .section-inner
-        = render "lecionoj/leciono06/korelativoj_el"
-    %section#korelativoj_om
-      .section-inner
-        = render "lecionoj/leciono06/korelativoj_om"
-    %section#korelativoj_al
-      .section-inner
-        = render "lecionoj/leciono06/korelativoj_al"
-    %section#korelativoj_es
-      .section-inner
-        = render "lecionoj/leciono06/korelativoj_es"
-    %section#korelativoj_a
-      .section-inner
-        = render "lecionoj/leciono06/korelativoj_a"
-    %section#relativoj
-      .section-inner
-        = render "lecionoj/leciono06/relativoj"
+.container
+  %header.subhead
+    %h1 Leciono 6
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#korelativoj02")
+            %i.icon-chevron-right
+            = t('.korelativoj02.titolo')
+        %li
+          %a(href="#korelativoj_el")
+            %i.icon-chevron-right
+            \-el
+        %li
+          %a(href="#korelativoj_om")
+            %i.icon-chevron-right
+            \-om
+        %li
+          %a(href="#korelativoj_al")
+            %i.icon-chevron-right
+            \-al
+        %li
+          %a(href="#korelativoj_es")
+            %i.icon-chevron-right
+            \-es
+        %li
+          %a(href="#korelativoj_a")
+            %i.icon-chevron-right
+            \-a
+        %li
+          %a(href="#relativoj")
+            %i.icon-chevron-right
+            = t('.relativoj.titolo')
+    .col-sm-9
+      %section#korelativoj02
+        .section-inner
+          = render "lecionoj/leciono06/korelativoj02"
+      %section#korelativoj_el
+        .section-inner
+          = render "lecionoj/leciono06/korelativoj_el"
+      %section#korelativoj_om
+        .section-inner
+          = render "lecionoj/leciono06/korelativoj_om"
+      %section#korelativoj_al
+        .section-inner
+          = render "lecionoj/leciono06/korelativoj_al"
+      %section#korelativoj_es
+        .section-inner
+          = render "lecionoj/leciono06/korelativoj_es"
+      %section#korelativoj_a
+        .section-inner
+          = render "lecionoj/leciono06/korelativoj_a"
+      %section#relativoj
+        .section-inner
+          = render "lecionoj/leciono06/relativoj"

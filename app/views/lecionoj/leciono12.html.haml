@@ -1,27 +1,28 @@
-%header.subhead
-  %h1 Leciono 12
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#verba_transitiveco'}
-          %i.icon-chevron-right
-          = t('.verba_transitiveco.titolo')
-      %li
-        %a{href: '#vortfarado'}
-          %i.icon-chevron-right
-          = t('.vortfarado.titolo')
-      %li
-        %a{href: '#muziko02'}
-          %i.icon-chevron-right
-          = t('.muziko02.titolo')
-  .span9
-    %section#verba_transitiveco
-      .section-inner
-        = render "lecionoj/leciono12/verba_transitiveco"
-    %section#vortfarado
-      .section-inner
-        = render "lecionoj/leciono12/vortfarado"
-    %section#muziko02
-      .section-inner
-        = render "lecionoj/leciono12/muziko02"
+.container
+  %header.subhead
+    %h1 Leciono 12
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#verba_transitiveco")
+            %i.icon-chevron-right
+            = t('.verba_transitiveco.titolo')
+        %li
+          %a(href="#vortfarado")
+            %i.icon-chevron-right
+            = t('.vortfarado.titolo')
+        %li
+          %a(href="#muziko02")
+            %i.icon-chevron-right
+            = t('.muziko02.titolo')
+    .col-sm-9
+      %section#verba_transitiveco
+        .section-inner
+          = render "lecionoj/leciono12/verba_transitiveco"
+      %section#vortfarado
+        .section-inner
+          = render "lecionoj/leciono12/vortfarado"
+      %section#muziko02
+        .section-inner
+          = render "lecionoj/leciono12/muziko02"

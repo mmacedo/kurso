@@ -1,51 +1,52 @@
-%header.subhead
-  %h1 Leciono 11
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#primitivaj_pronomoj'}
-          %i.icon-chevron-right
-          = t('.primitivaj_pronomoj.titolo')
-      %li
-        %a{href: '#horoj'}
-          %i.icon-chevron-right
-          = t('.horoj.titolo')
-      %li
-        %a{href: '#duopaj_esprimoj'}
-          %i.icon-chevron-right
-          = t('.duopaj_esprimoj.titolo')
-      %li
-        %a{href: '#aliaj_demandaj_formoj'}
-          %i.icon-chevron-right
-          = t('.aliaj_demandaj_formoj.titolo')
-      %li
-        %a{href: '#interjekcioj'}
-          %i.icon-chevron-right
-          = t('.interjekcioj.titolo')
-      %li
-        %a{href: '#mallongiloj'}
-          %i.icon-chevron-right
-          = t('.mallongiloj.titolo')
-  .span9
-    %section#primitivaj_pronomoj
-      .section-inner
-        = render "lecionoj/leciono11/primitivaj_pronomoj"
-    %section#horoj
-      .section-inner
-        = render "lecionoj/leciono11/horoj"
-    %section#duopaj_esprimoj
-      .section-inner
-        = render "lecionoj/leciono11/duopaj_esprimoj"
-    %section#aliaj_demandaj_formoj
-      .section-inner
-        = render "lecionoj/leciono11/aliaj_demandaj_formoj"
-    .row-fluid
-      .span6
-        %section#interjekcioj
-          .section-inner
-            = render "lecionoj/leciono11/interjekcioj"
-      .span6
-        %section#mallongiloj
-          .section-inner
-            = render "lecionoj/leciono11/mallongiloj"
+.container
+  %header.subhead
+    %h1 Leciono 11
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#primitivaj_pronomoj")
+            %i.icon-chevron-right
+            = t('.primitivaj_pronomoj.titolo')
+        %li
+          %a(href="#horoj")
+            %i.icon-chevron-right
+            = t('.horoj.titolo')
+        %li
+          %a(href="#duopaj_esprimoj")
+            %i.icon-chevron-right
+            = t('.duopaj_esprimoj.titolo')
+        %li
+          %a(href="#aliaj_demandaj_formoj")
+            %i.icon-chevron-right
+            = t('.aliaj_demandaj_formoj.titolo')
+        %li
+          %a(href="#interjekcioj")
+            %i.icon-chevron-right
+            = t('.interjekcioj.titolo')
+        %li
+          %a(href="#mallongiloj")
+            %i.icon-chevron-right
+            = t('.mallongiloj.titolo')
+    .col-sm-9
+      %section#primitivaj_pronomoj
+        .section-inner
+          = render "lecionoj/leciono11/primitivaj_pronomoj"
+      %section#horoj
+        .section-inner
+          = render "lecionoj/leciono11/horoj"
+      %section#duopaj_esprimoj
+        .section-inner
+          = render "lecionoj/leciono11/duopaj_esprimoj"
+      %section#aliaj_demandaj_formoj
+        .section-inner
+          = render "lecionoj/leciono11/aliaj_demandaj_formoj"
+      .row
+        .col-sm-6
+          %section#interjekcioj
+            .section-inner
+              = render "lecionoj/leciono11/interjekcioj"
+        .col-sm-6
+          %section#mallongiloj
+            .section-inner
+              = render "lecionoj/leciono11/mallongiloj"

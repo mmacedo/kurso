@@ -1,20 +1,20 @@
-require 'i18n_eltiro/mapado/dsl'
+require 'sprite_eltiro/mapado/dsl'
 
-module I18nEltiro
+module SpriteEltiro
   module Mapado
     class << self
-      # Agordo blokoj
+      # Agordaj blokoj
       @@blokoj = []
 
-      # Reludas blokoj por la kunteksto
-      def kuri_mapojn!(lingvo, kunteksto)
+      # Reludas blokojn por la kunteksto
+      def kuri_mapojn!(eniga, eliga)
         return if @@blokoj.nil?
-        Dsl.new(kunteksto, nil, lingvo).el 'al_fari' do
-          @@blokoj.each do |bloko|
-            instance_eval(&bloko)
-          end
+        dsl = Dsl.new(eniga, eliga)
+        @@blokoj.each do |bloko|
+          dsl.instance_eval(&bloko)
         end
-        purigi!(kunteksto)
+        purigi!(eniga)
+        purigi!(eliga)
       end
 
       def agordi(&bloko)
@@ -24,14 +24,14 @@ module I18nEltiro
       private
       def purigi!(enhavo)
         enhavo.delete_if do |ŝlosilo|
-          # Forigas meta propaĵoj
+          # Forigas metan propaĵojn
           ŝlosilo.to_s =~ /\A__/
         end
         enhavo.each do |(ŝlosilo, valoro)|
           next unless valoro.is_a? Hash
           # Rekursias en nodo
           purigi! valoro
-          # Forĵetas nodo se malplena
+          # Forĵetas nodon se malplena
           enhavo.delete(ŝlosilo) if valoro.empty?
         end
         enhavo

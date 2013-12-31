@@ -1,41 +1,42 @@
-%header.subhead
-  %h1 Leciono 7
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#prepozicioj01'}
-          %i.icon-chevron-right
-          = t('.prepozicioj01.titolo')
-      %li
-        %a{href: '#tekstokompreno02'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.tekstokompreno')
-      %li
-        %a{href: '#prepozicioj02'}
-          %i.icon-chevron-right
-          = t('.prepozicioj02.titolo')
-      %li
-        %a{href: '#tekstokompreno03'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.tekstokompreno')
-      %li
-        %a{href: '#prepozicioj03'}
-          %i.icon-chevron-right
-          = t('.prepozicioj03.titolo')
-  .span9
-    %section#prepozicioj01
-      .section-inner
-        = render "lecionoj/leciono07/prepozicioj01"
-    %section#tekstokompreno02
-      .section-inner
-        = render "lecionoj/leciono07/tekstokompreno02"
-    %section#prepozicioj02
-      .section-inner
-        = render "lecionoj/leciono07/prepozicioj02"
-    %section#tekstokompreno03
-      .section-inner
-        = render "lecionoj/leciono07/tekstokompreno03"
-    %section#prepozicioj03
-      .section-inner
-        = render "lecionoj/leciono07/prepozicioj03"
+.container
+  %header.subhead
+    %h1 Leciono 7
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#prepozicioj01")
+            %i.icon-chevron-right
+            = t('.prepozicioj01.titolo')
+        %li
+          %a(href="#tekstokompreno02")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.tekstokompreno')
+        %li
+          %a(href="#prepozicioj02")
+            %i.icon-chevron-right
+            = t('.prepozicioj02.titolo')
+        %li
+          %a(href="#tekstokompreno03")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.tekstokompreno')
+        %li
+          %a(href="#prepozicioj03")
+            %i.icon-chevron-right
+            = t('.prepozicioj03.titolo')
+    .col-sm-9
+      %section#prepozicioj01
+        .section-inner
+          = render "lecionoj/leciono07/prepozicioj01"
+      %section#tekstokompreno02
+        .section-inner
+          = render "lecionoj/leciono07/tekstokompreno02"
+      %section#prepozicioj02
+        .section-inner
+          = render "lecionoj/leciono07/prepozicioj02"
+      %section#tekstokompreno03
+        .section-inner
+          = render "lecionoj/leciono07/tekstokompreno03"
+      %section#prepozicioj03
+        .section-inner
+          = render "lecionoj/leciono07/prepozicioj03"

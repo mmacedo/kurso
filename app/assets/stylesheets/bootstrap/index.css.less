@@ -1,28 +1,84 @@
-@import "bootstrap/variabloj";
-@import "bootstrap/miksajxoj";
 @import "bootstrap/bazo";
-@import "bootstrap/komponantoj";
+
+// CSS Reagordado
+@import "twitter/bootstrap/normalize";
+@import "twitter/bootstrap/print";
+
+// Baza CSS
+@import "twitter/bootstrap/scaffolding";
+@import "twitter/bootstrap/type";
+// @import "twitter/bootstrap/code";
+@import "twitter/bootstrap/grid";
+// @import "twitter/bootstrap/tables";
+@import "twitter/bootstrap/forms";
+@import "twitter/bootstrap/buttons";
+
+// Komponantok
+@import "twitter/bootstrap/component-animations";
+// @import "twitter/bootstrap/glyphicons";
+@import "twitter/bootstrap/dropdowns";
+// @import "twitter/bootstrap/button-groups";
+// @import "twitter/bootstrap/input-groups";
+@import "twitter/bootstrap/navs";
+@import "twitter/bootstrap/navbar";
+// @import "twitter/bootstrap/breadcrumbs";
+// @import "twitter/bootstrap/pagination";
+// @import "twitter/bootstrap/pager";
+// @import "twitter/bootstrap/labels";
+// @import "twitter/bootstrap/badges";
+@import "twitter/bootstrap/jumbotron";
+// @import "twitter/bootstrap/thumbnails";
+// @import "twitter/bootstrap/alerts";
+// @import "twitter/bootstrap/progress-bars";
+// @import "twitter/bootstrap/media";
+@import "twitter/bootstrap/list-group";
+// @import "twitter/bootstrap/panels";
+// @import "twitter/bootstrap/wells";
+// @import "twitter/bootstrap/close";
+
+// Komponantoj kun JavaScript
+// @import "twitter/bootstrap/modals";
+// @import "twitter/bootstrap/tooltip";
+// @import "twitter/bootstrap/popovers";
+// @import "twitter/bootstrap/carousel";
+
+// Utileco klasoj
+@import "twitter/bootstrap/utilities";
+@import "twitter/bootstrap/responsive-utilities";
+
+
+// Font Awesome
+@fontAwesomeEotPath: asset-url("fontawesome-webfont.eot");
+@fontAwesomeEotPath_iefix: asset-url("fontawesome-webfont.eot?#iefix");
+@fontAwesomeWoffPath: asset-url("fontawesome-webfont.woff");
+@fontAwesomeTtfPath: asset-url("fontawesome-webfont.ttf");
+@fontAwesomeSvgPath: asset-url("fontawesome-webfont.svg#fontawesomeregular");
+@import "fontawesome/font-awesome";
+
 
 // Necesas por respondema fiksita supra navbar
 body {
-  padding-top: @navbarHeight + @navbarMargin;
+  padding-top: @navbar-height + @navbar-margin;
+}
+
+.main > .jumbotron {
+  margin-top: -20px;
+  margin-bottom: 0;
 }
 
 // Riparas HTML nomatajn ankrojn
 section {
-  padding-top: @navbarHeight;
-  margin-top: -@navbarHeight;
+  padding-top: @navbar-height;
+  margin-top: -@navbar-height;
 }
-
-@import "bootstrap/respondema";
 
 // Grandaj tiparoj por supra navbar
 .navbar {
-  .brand {
+  .navbar-brand {
     font-size: 300%;
     font-weight: bold;
   }
-  .nav > li > a {
+  .navbar-nav > li > a {
     text-shadow: none;
     font-size: 120%;
     font-weight: bold;
@@ -30,12 +86,12 @@ section {
 }
 
 // Riparas ŝvebi por respondema supra navbar
-@media (max-width: @navbarCollapseWidth) {
-  .nav-collapse .nav > li > a:hover,
-  .nav-collapse .nav > li > a:focus,
-  .nav-collapse .dropdown-menu a:hover,
-  .nav-collapse .dropdown-menu a:focus {
-    background-color: @navbarLinkBackgroundHover;
+@media (max-width: @grid-float-breakpoint-max) {
+  .navbar-collapse .nav > li > a:hover,
+  .navbar-collapse .nav > li > a:focus,
+  .navbar-collapse .dropdown-menu a:hover,
+  .navbar-collapse .dropdown-menu a:focus {
+    background-color: @navbar-default-link-hover-bg;
   }
 }
 
@@ -45,7 +101,7 @@ section {
 }
 
 section > .section-inner {
-  background: @contentBackground;
+  background: @content-bg;
   margin-top: 30px;
   padding: 20px;
 }
@@ -64,7 +120,7 @@ footer {
   margin-right: auto;
   min-height: 100px;
   padding: 40px 20px;
-  background: @navbarColor1;
+  background: @navbar-color-1;
   color: @gray;
 }
 
@@ -73,9 +129,9 @@ footer a {
 }
 
 .footer-socia a {
-  color: @navbarColor2;
+  color: @navbar-color-2;
   &:hover, &:active {
-    color: @linkColorHover;
+    color: @link-hover-color;
   }
 }
 

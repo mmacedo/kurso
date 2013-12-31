@@ -11,7 +11,7 @@ module I18nEltiro
     LINGVOJ
   end
 
-  def self.konstrui_skribantoj(radiko, tipoj)
+  def self.konstrui_skribantojn(radiko, tipoj)
     @skribantoj = []
     @skribantoj << RailsI18nSkribanto.new(radiko.join("config/locales/lecionoj")) if tipoj.include? :yml
     @skribantoj << ElpurigoSkribanto.new(radiko.join("tmp/locales")) if tipoj.include? :ai
@@ -36,7 +36,7 @@ module I18nEltiro
       end
 
       @sinsekva = sinsekva
-      @skribantoj = I18nEltiro.konstrui_skribantoj(Rails.root, eliga)
+      @skribantoj = I18nEltiro.konstrui_skribantojn(Rails.root, eliga)
     end
 
     def printi_difektoj
@@ -53,8 +53,8 @@ module I18nEltiro
           lingvo, enhavo = legi(dosiero)
           normaligito    = normaligi(lingvo, enhavo)
 
-          # Mapas QT komponantnomoj al rails-i18n klavoj
-          kuri_mapoj!(lingvo.intern, normaligito)
+          # Mapas QT komponantnomojn al rails-i18n ŝlosiloj
+          kuri_mapojn!(lingvo.intern, normaligito)
 
           # Skribas YML
           @skribantoj.each { |skribanto| skribanto.savi(lingvo, normaligito) }

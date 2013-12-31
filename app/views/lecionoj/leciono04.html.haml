@@ -1,55 +1,56 @@
-%header.subhead
-  %h1 Leciono 4
-.row
-  .span3.apudstango
-    %ul.nav.nav-list.bs-docs-apudnav
-      %li
-        %a{href: '#salutoj'}
-          %i.icon-chevron-right
-          = t('.salutoj.titolo')
-      %li
-        %a{href: '#tagoj'}
-          %i.icon-chevron-right
-          = t('.tagoj.titolo')
-      %li
-        %a{href: '#monatoj'}
-          %i.icon-chevron-right
-          = t('.monatoj.titolo')
-      %li
-        %a{href: '#datoj'}
-          %i.icon-chevron-right
-          = t('.datoj.titolo')
-      %li
-        %a{href: '#demandoj'}
-          %i.icon-chevron-right
-          = t('.demandoj.titolo')
-      %li
-        %a{href: '#vortaro04'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.vortaro')
-      %li
-        %a{href: '#tekstokompreno01'}
-          %i.icon-chevron-right
-          = t('lecionoj.aliaj.dividitoj.tekstokompreno')
-  .span9
-    %section#salutoj
-      .section-inner
-        = render "lecionoj/leciono04/salutoj"
-    %section#tagoj
-      .section-inner
-        = render "lecionoj/leciono04/tagoj"
-    %section#monatoj
-      .section-inner
-        = render "lecionoj/leciono04/monatoj"
-    %section#datoj
-      .section-inner
-        = render "lecionoj/leciono04/datoj"
-    %section#demandoj
-      .section-inner
-        = render "lecionoj/leciono04/demandoj"
-    %section#vortaro04
-      .section-inner
-        = render "lecionoj/leciono04/vortaro04"
-    %section#tekstokompreno01
-      .section-inner
-        = render "lecionoj/leciono04/tekstokompreno01"
+.container
+  %header.subhead
+    %h1 Leciono 4
+  .row
+    .col-sm-3.apudstango
+      %ul.nav.bs-docs-apudnav
+        %li
+          %a(href="#salutoj")
+            %i.icon-chevron-right
+            = t('.salutoj.titolo')
+        %li
+          %a(href="#tagoj")
+            %i.icon-chevron-right
+            = t('.tagoj.titolo')
+        %li
+          %a(href="#monatoj")
+            %i.icon-chevron-right
+            = t('.monatoj.titolo')
+        %li
+          %a(href="#datoj")
+            %i.icon-chevron-right
+            = t('.datoj.titolo')
+        %li
+          %a(href="#demandoj")
+            %i.icon-chevron-right
+            = t('.demandoj.titolo')
+        %li
+          %a(href="#vortaro04")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.vortaro')
+        %li
+          %a(href="#tekstokompreno01")
+            %i.icon-chevron-right
+            = t('lecionoj.aliaj.dividitoj.tekstokompreno')
+    .col-sm-9
+      %section#salutoj
+        .section-inner
+          = render "lecionoj/leciono04/salutoj"
+      %section#tagoj
+        .section-inner
+          = render "lecionoj/leciono04/tagoj"
+      %section#monatoj
+        .section-inner
+          = render "lecionoj/leciono04/monatoj"
+      %section#datoj
+        .section-inner
+          = render "lecionoj/leciono04/datoj"
+      %section#demandoj
+        .section-inner
+          = render "lecionoj/leciono04/demandoj"
+      %section#vortaro04
+        .section-inner
+          = render "lecionoj/leciono04/vortaro04"
+      %section#tekstokompreno01
+        .section-inner
+          = render "lecionoj/leciono04/tekstokompreno01"
