@@ -53,3 +53,26 @@
     clear: left;
   }
 }
+
+.dl-horizontal {
+  @media (min-width: @screen-sm-min) {
+    dt {
+      white-space: normal;
+      text-overflow: clip;
+      overflow: visible;
+    }
+  }
+}
+
+.dl-horizontal.dl-horizontal-middle {
+  @media (min-width: @screen-sm-min) {
+    dt {
+      min-width: 50%;
+      padding-right: 10px;
+    }
+    dd {
+      margin-left: 50%;
+      padding-left: 10px;
+    }
+  }
+}

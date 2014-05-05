@@ -2,43 +2,49 @@
   %h2= t '.titolo'
 %p= t '.ekspliko-1'
 %h3= t '.aktiva_voĉo.titolo'
-%ul.unstyled
+%ul
   %li
     = t '.aktiva_voĉo.presenco'
-    %dl.dl-horizontal
-      %dt= eo "Mi estas leganta."
-      %dd= t '.aktiva_voĉo.frazo-presenco'
+    = ekzemploj do
+      %dl
+        %dt= eo "Mi estas leganta."
+        %dd= t '.aktiva_voĉo.frazo-presenco'
   %li
     = t '.aktiva_voĉo.preterito'
-    %dl.dl-horizontal
-      %dt= eo "Mi estas leginta."
-      %dd= t '.aktiva_voĉo.frazo-preterito'
+    = ekzemploj do
+      %dl
+        %dt= eo "Mi estas leginta."
+        %dd= t '.aktiva_voĉo.frazo-preterito'
   %li
     = t '.aktiva_voĉo.futuro'
-    %dl.dl-horizontal
-      %dt= eo "Mi estas legonta."
-      %dd= t '.aktiva_voĉo.frazo-futuro'
+    = ekzemploj do
+      %dl
+        %dt= eo "Mi estas legonta."
+        %dd= t '.aktiva_voĉo.frazo-futuro'
 %h3= t '.pasiva_voĉo.titolo'
-%ul.unstyled
+%ul
   %li
     = t '.pasiva_voĉo.presenco'
-    %dl.dl-horizontal
-      %dt= eo "Mi estas leganta."
-      %dd= t '.pasiva_voĉo.frazo-presenco'
+    = ekzemploj do
+      %dl
+        %dt= eo "La libro estas legata."
+        %dd= t '.pasiva_voĉo.frazo-presenco'
   %li
     = t '.pasiva_voĉo.preterito'
-    %dl.dl-horizontal
-      %dt= eo "Mi estas leginta."
-      %dd= t '.pasiva_voĉo.frazo-preterito'
+    = ekzemploj do
+      %dl
+        %dt= eo "La libro estas legita."
+        %dd= t '.pasiva_voĉo.frazo-preterito'
   %li
     = t '.pasiva_voĉo.futuro'
-    %dl.dl-horizontal
-      %dt= eo "Mi estas legonta."
-      %dd= t '.pasiva_voĉo.frazo-futuro'
-  %li
-    %dl
-      %dt= eo "Mi legas la libron = La libro estas legata de mi."
-      %dd= t '.pasiva_voĉo.frazo-ekstra'
+    = ekzemploj do
+      %dl
+        %dt= eo "La libro estas legota."
+        %dd= t '.pasiva_voĉo.frazo-futuro'
+= rimarkigo do
+  %dl
+    %dt= eo "Mi legas la libron = La libro estas legata de mi."
+    %dd= t '.pasiva_voĉo.frazo-ekstra'
 %p= t '.ekspliko-2'
 %dl
   %dt= eo "La leganto havas bonan voĉon, sed la antaŭa leginto havis pli bonan."
@@ -64,7 +70,7 @@
   %dt= eo "Pagantaj membroj."
   %dd= t '.frazo-11'
 %p= t '.ekspliko-3'
-%ul.unstyled
+%ul.list-unstyled
   %li
     = eo "Antaŭ la konsulto:"
     %ul
@@ -81,7 +87,7 @@
       %li= eo "La persono <em>estas konsultinta</em>."
       %li= eo "La kuracisto <em>estas konsultita</em>."
 %p= t '.ekspliko-4'
-%ul.unstyled
+%ul.list-unstyled
   %li
     = eo "Antaŭ la konsulto:"
     %ul
@@ -98,7 +104,7 @@
       %li= eo "La persono <em>estis konsultinta</em>."
       %li= eo "La kuracisto <em>estis konsultita</em>."
 %p= t '.ekspliko-5'
-%ul.unstyled
+%ul.list-unstyled
   %li
     = eo "Antaŭ la konsulto:"
     %ul

@@ -19,6 +19,14 @@ module LecionojHelper
     end
   end
 
+  # bela skatolo kun "ekz." legenda
+  def ekzemploj
+    content_tag :div, 'class'               => 'bs-docs-skatolo',
+                      'data-skatolo-titolo' => 'ekz.' do
+      yield
+    end
+  end
+
   def sc_url(user_name, track_name)
     "http://soundcloud.com/#{user_name}/#{track_name}"
   end
