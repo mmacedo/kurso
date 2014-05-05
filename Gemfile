@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-ruby "2.0.0"
+ruby "2.1.1"
 
-gem 'rails', '4.0.2'
+gem 'rails', '4.1.0'
 
 
 ### Malantaŭe
@@ -13,7 +13,7 @@ gem 'puma'
 gem 'therubyracer', platform: :ruby
 
 # HTTP Enhavo Intertraktado
-gem 'http_accept_language', '>= 2.0.0.pre'
+gem 'http_accept_language'
 
 
 ### Fasado
